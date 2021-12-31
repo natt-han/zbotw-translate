@@ -1,0 +1,905 @@
+{
+  "FileName": "OperationGuide",
+  "EntryList": [
+    {
+      "EntryName": "Guide_Attack",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Use Weapon",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Attack_Msg",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Attack with your equipped weapon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Attention",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Lock on",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Attention_Msg",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Effective for targeting.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Attention_Sub00",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_BackStep",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Backflip",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_BackStep_Msg",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Dodge enemy attacks by flipping backward.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_BackStep_Sub00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Target enemy",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_BackStep_Sub01",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Backpedal",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_BackStep_Sub02",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Jump",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Bow",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Attack with Bow",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Bow_Msg",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Equip a bow to attack enemies from afar.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Bow_Sub00",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Draw bow",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Bow_Sub01",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Release to fire",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_GurdJust",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "Perfect Guard",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_GurdJust_Msg",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "Parry at the right time to knock an enemy back.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_GurdJust_Sub00",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Ready shield",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_GurdJust_Sub01",
+      "TextList": [
+        {
+          "Line": 76,
+          "OriginalText": "Parry",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ItemUse",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "Use Rune",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ItemUse_Msg",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "Use selected rune from your Sheikah Slate.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_JumpAtack",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "Jump Slash",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_JumpAtack_Msg",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "Attack from above and do splash damage.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_JumpAtack_Sub00",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "In midair",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_PadMenu",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "Check Sheikah Slate",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_PadMenu_Msg",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "Access your Sheikah Slate.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Pause",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "Open Inventory",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Pause_Msg",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Equip weapons, armor, and other gear here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Quest",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Open Adventure Log",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Quest_Msg",
+      "TextList": [
+        {
+          "Line": 120,
+          "OriginalText": "Your adventures will be detailed here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SandSeal",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "Sand-Seal Surfing",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SandSeal_Msg",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "You will need to equip a shield before riding.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SandSeal_Sub00",
+      "TextList": [
+        {
+          "Line": 132,
+          "OriginalText": "Steer",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SandSeal_Sub01",
+      "TextList": [
+        {
+          "Line": 136,
+          "OriginalText": "Let go",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SandSeal_Sub02",
+      "TextList": [
+        {
+          "Line": 140,
+          "OriginalText": "Dash",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Scope",
+      "TextList": [
+        {
+          "Line": 144,
+          "OriginalText": "The Scope and Pins",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Scope_Msg",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "View distant things and mark them with pins.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Scope_Sub00",
+      "TextList": [
+        {
+          "Line": 152,
+          "OriginalText": "Press",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Scope_Sub01",
+      "TextList": [
+        {
+          "Line": 156,
+          "OriginalText": "Place a pin",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Shield",
+      "TextList": [
+        {
+          "Line": 160,
+          "OriginalText": "Raise Your Shield",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Shield_Msg",
+      "TextList": [
+        {
+          "Line": 164,
+          "OriginalText": "Block when using a one-handed weapon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Shield_Sub00",
+      "TextList": [
+        {
+          "Line": 168,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutArrow",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Change Arrows",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutArrow_Msg",
+      "TextList": [
+        {
+          "Line": 176,
+          "OriginalText": "You can switch arrows quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutArrow_Sub00",
+      "TextList": [
+        {
+          "Line": 180,
+          "OriginalText": "Draw bow",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutArrow_Sub01",
+      "TextList": [
+        {
+          "Line": 184,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutArrow_Sub02",
+      "TextList": [
+        {
+          "Line": 188,
+          "OriginalText": "Switch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutBow",
+      "TextList": [
+        {
+          "Line": 192,
+          "OriginalText": "Change Bow",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutBow_Msg",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "You can switch bows quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutBow_Sub00",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "Draw bow",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutBow_Sub01",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutBow_Sub02",
+      "TextList": [
+        {
+          "Line": 208,
+          "OriginalText": "Switch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutItem",
+      "TextList": [
+        {
+          "Line": 212,
+          "OriginalText": "Change Runes",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutItem_Msg",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "You can switch runes quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutItem_Sub00",
+      "TextList": [
+        {
+          "Line": 220,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutItem_Sub01",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "Switch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutShield",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Change Shield",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutShield_Msg",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "You can switch shields quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutShield_Sub00",
+      "TextList": [
+        {
+          "Line": 236,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutShield_Sub01",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "Switch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutSword",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "Change Weapon",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutSword_Msg",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "You can switch weapons quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutSword_Sub00",
+      "TextList": [
+        {
+          "Line": 252,
+          "OriginalText": "Press and hold",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_ShortCutSword_Sub01",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "Switch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SideStep",
+      "TextList": [
+        {
+          "Line": 260,
+          "OriginalText": "Side Hop",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SideStep_Msg",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "Dodge enemy attacks by hopping sideways.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SideStep_Sub00",
+      "TextList": [
+        {
+          "Line": 268,
+          "OriginalText": "Target enemy",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SideStep_Sub01",
+      "TextList": [
+        {
+          "Line": 272,
+          "OriginalText": "Strafe",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SideStep_Sub02",
+      "TextList": [
+        {
+          "Line": 276,
+          "OriginalText": "Jump",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SpinAtack",
+      "TextList": [
+        {
+          "Line": 280,
+          "OriginalText": "Charged Attacks",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SpinAtack_Msg",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "Prepare and unleash a powerful attack.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SpinAtack_Sub00",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "Build power",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SpinAtack_Sub01",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "Release",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Squat",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "Crouch",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Squat_Msg",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "Allows you to move quietly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Squat_Sub00",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "Press",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Surfing",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "Shield Surf",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Surfing_Msg",
+      "TextList": [
+        {
+          "Line": 312,
+          "OriginalText": "Hop on your shield and slide down hills.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Surfing_Sub00",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Guard",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Surfing_Sub01",
+      "TextList": [
+        {
+          "Line": 320,
+          "OriginalText": "Jump",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Surfing_Sub02",
+      "TextList": [
+        {
+          "Line": 324,
+          "OriginalText": "Ride",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SystemMenu",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "Open System Menu",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_SystemMenu_Msg",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "Check controls, save, or adjust game options.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Throw",
+      "TextList": [
+        {
+          "Line": 336,
+          "OriginalText": "Throw Weapon",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Throw_Msg",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "You can throw the weapon in your hand.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Throw_Sub00",
+      "TextList": [
+        {
+          "Line": 344,
+          "OriginalText": "Aim (Hold)",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Throw_Sub01",
+      "TextList": [
+        {
+          "Line": 348,
+          "OriginalText": "Throw (Release)",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Whistle",
+      "TextList": [
+        {
+          "Line": 352,
+          "OriginalText": "Whistle",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_Whistle_Msg",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Call your horse or other companion to you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_amiibo",
+      "TextList": [
+        {
+          "Line": 360,
+          "OriginalText": "Use amiibo",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guide_amiibo_Msg",
+      "TextList": [
+        {
+          "Line": 364,
+          "OriginalText": "Touch an amiibo to the NFC touchpoint.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

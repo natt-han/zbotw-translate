@@ -1,0 +1,765 @@
+{
+  "FileName": "Npc_AncientAssistant004",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Not at all.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "About Robbie...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Gotta go!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "You\u0027re married?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Your son...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I saw him!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "I haven\u0027t seen him.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "\u266AHm...hmm...\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Heya! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 57,
+          "OriginalText": "\u266AI\u0027m Jerrin!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 65,
+          "OriginalText": "How was that? I figured I\u0027d give an\nimpression of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 69,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 72,
+          "OriginalText": "\u0027s\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": ", Purah, a shot.\nMaybe it was a bit much for the first time\nmeeting you, though?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Link, don\u0027t worry about it! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": "It\u0027s all OK!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "Aww, Link, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": "I\u0027m really glad you\u0027re such\na friendly guy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "So ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "what do you need from me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Oh, Robbie...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": " We\u0027re a half-century \napart, agewise, but we never let that get\nin the way. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": "He and I are married!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "Aaaaand...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "Robbie is one of the researchers of\nancient civilizations.\n\nHe was studying ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": " at\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "Hyrule Castle ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": "100 years ago.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "Have you got any other questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 276,
+          "OriginalText": "See you later!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 285,
+          "OriginalText": "Yes, indeed!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 289,
+          "OriginalText": " Together, we run the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "Akkala Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": ". I\u0027ve got a son,\nas well!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "That\u0027s right, I\u0027ve got one son.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 309,
+          "OriginalText": " His name\nis Grant\u00E9.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "Have you seen him in your travels?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "Robbie is a premier researcher of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 336,
+          "OriginalText": "Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 339,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": " and he\u0027s also my husband.\n\nHe was engaged in research with\nDirector Purah at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": " but that\nwas 100 years ago.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "You said, \u0022I saw him,\u0022 earlier, though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "You said, \u0022I haven\u0027t seen him,\u0022 earlier, though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "Check it out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 412,
+          "OriginalText": "Heya! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": "It\u0027s me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 425,
+          "OriginalText": "You look good!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 434,
+          "OriginalText": "I\u0027m an amateur scholar of ancient history.\nTo be honest...I\u0027ve been focusing a lot of\nmy research",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": " on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": "shrines",
+          "TranslatedText": null
+        },
+        {
+          "Line": 445,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": "...Oh, that reminds me! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "Link, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 459,
+          "OriginalText": "there\u0027s\nsomewhere you need to go. Umm...\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": "left eye of Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 466,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 475,
+          "OriginalText": "I\u0027m not going to sleep yet.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 479,
+          "OriginalText": "\nI\u0027m powering through.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 488,
+          "OriginalText": "I was just about to drift off into\na peaceful slumber.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "You saw me before I had a chance to\nput my face on...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "\nUgh, how embarrassing...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 510,
+          "OriginalText": "Do not disturb...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 514,
+          "OriginalText": "\nUgh, what a drag...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 523,
+          "OriginalText": "Morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 532,
+          "OriginalText": "G\u0027day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 541,
+          "OriginalText": "Evening!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "So you went to the left eye\nof ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": "Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 562,
+          "OriginalText": "?\n\n...\n\n\nOh, you don\u0027t have to tell me anything.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": "\nMy magical Sheikah nose implant gives\nme a supernatural sense of smell.\nJust one sniff tells me everything you did\nyesterday and what you ate for dinner\nlast night.\n...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": "Just kidding.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 578,
+          "OriginalText": "But judging by your dormant sense of\nhumor, I\u0027m guessing things didn\u0027t go as\nsmoothly as you had hoped.\nIn any case, thanks for the report. I wish\nI could give you a reward, but we\u0027re\nshort on funding as it is.\nThat\u0027s life in Hyrule for ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 587,
+          "OriginalText": "Link, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": "check out the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 595,
+          "OriginalText": "left eye of Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 598,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 607,
+          "OriginalText": "I know there\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": "shrine",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": " there, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 618,
+          "OriginalText": "but\nit\u0027s a challenge to get to it...\n\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 622,
+          "OriginalText": "left eye ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 625,
+          "OriginalText": "of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 629,
+          "OriginalText": "Skull Lake ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "is higher up.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 636,
+          "OriginalText": "\nThe right one is lower down. If you run\ninto ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 640,
+          "OriginalText": "Kilton",
+          "TranslatedText": null
+        },
+        {
+          "Line": 643,
+          "OriginalText": ", you\u0027re on the wrong eye!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 652,
+          "OriginalText": "Link, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 656,
+          "OriginalText": "thanks for investigating the left eye\nof ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 660,
+          "OriginalText": "Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": ".\n\nI\u0027m afraid I have no reward for you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": "\nThe laboratory is woefully underfunded,\nso I can\u0027t afford to pay you. Sorry.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 676,
+          "OriginalText": "Really...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 680,
+          "OriginalText": " Well, if you see him, be nice to\nhim, OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 689,
+          "OriginalText": "Ooh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 693,
+          "OriginalText": "Well that\u0027s good to hear!\n\n\nGrant\u00E9 is still a...work in progress.\n\n\nOnce he\u0027s done studying armor, I\u0027m\nhoping to convince him to take over\nmy research.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 702,
+          "OriginalText": "Who are you?!\n\n\nUnless you\u0027re an acquaintance of\nRobbie\u0027s, I can\u0027t talk to you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 706,
+          "OriginalText": "\nTrade secrets, ya know.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 715,
+          "OriginalText": "Hmm, you\u0027re pretty suspicious...\n\n\nIf you ARE an acquaintance of Robbie\u0027s,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 719,
+          "OriginalText": "\nyou\u0027ll have to prove it to him.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

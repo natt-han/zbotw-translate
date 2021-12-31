@@ -1,0 +1,300 @@
+{
+  "FileName": "Npc_ZoraGoron_001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Where are you from?",
+          "TranslatedText": "คุณมาจากไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Death Mountain?",
+          "TranslatedText": "Death Mountain?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "You eat rocks?",
+          "TranslatedText": "คุณกินก้อนหินเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "Hey.",
+          "TranslatedText": "เฮ้"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 38,
+          "OriginalText": "That\u0027s cuz I can touch ",
+          "TranslatedText": "เพราะว่าฉันสามารถถือ "
+        },
+        {
+          "Line": 42,
+          "OriginalText": "shock arrows",
+          "TranslatedText": "shock arrows"
+        },
+        {
+          "Line": 45,
+          "OriginalText": ".\nBut I also weigh...well, a lot.\n\n\u0022There\u0027s no way I\u0027ll be able to carry you\non my back!\u0022\n\n",
+          "TranslatedText": " ได้\nแต่ว่าฉันก็น้ำหนักตัว...เยอะอยู่\n\u0022ไม่มีทางที่ฉันจะแบกคุณไว้บนหลังไว้แน่!\u0022\n"
+        },
+        {
+          "Line": 51,
+          "OriginalText": "...That\u0027s what Prince Sidon said to me.\n\n\n",
+          "TranslatedText": "...นั่นคือที่ Prince Sidon บอก\n"
+        },
+        {
+          "Line": 57,
+          "OriginalText": "That was kinda rude of him, wasn\u0027t it?",
+          "TranslatedText": "ค่อนข้างหยาบคายนะว่ามั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "You\u0027re a Hylian, aren\u0027t you?",
+          "TranslatedText": "คุณเป็นใช่ไหม?"
+        },
+        {
+          "Line": 70,
+          "OriginalText": " It\u0027s rare to\nsee your kind around here.",
+          "TranslatedText": " แถวนี้ไม่ค่อย\nจะเห็นพวกเดียวกับคุณสักเท่าไหร่"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "As for me, I was roamin\u0027 nearby during\nmy travels",
+          "TranslatedText": "สำหรับฉัน ฉันกำลังอยู่ระหว่างเดินทาง\n"
+        },
+        {
+          "Line": 83,
+          "OriginalText": " when Prince Sidon recruited\nme and brought me here.",
+          "TranslatedText": " ในตอนที่ Prince Sidon ไปพาฉันมาที่นี่"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "If you\u0027re free, would ya like to chat?",
+          "TranslatedText": "ถ้ามีเวลาว่าง สนใจคุยกันหน่อยไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 165,
+          "OriginalText": "See ya!",
+          "TranslatedText": "แล้วเจอกัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 174,
+          "OriginalText": "I\u0027m from Goron City!",
+          "TranslatedText": "ฉันมาจากGoron City!"
+        },
+        {
+          "Line": 178,
+          "OriginalText": "\nIt\u0027s near ",
+          "TranslatedText": "\nมันอยู่ใกล้กับ "
+        },
+        {
+          "Line": 182,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": "Death Mountain"
+        },
+        {
+          "Line": 185,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 194,
+          "OriginalText": "But Zora\u0027s Domain is pretty amazing, too.",
+          "TranslatedText": "แต่ But Zora\u0027s Domain ก็สวยมากทีเดียว"
+        },
+        {
+          "Line": 198,
+          "OriginalText": "\nWater is fallin\u0027 down from the sky...\nImagine that!",
+          "TranslatedText": "\nน้ำร่วงหล่นลงมาจากฟ้า...\nคิดดูสิ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 207,
+          "OriginalText": "It\u0027s super hot there. Unlike here.",
+          "TranslatedText": "ที่นั่นมันร้อนสุดๆ เลย ต่างจากที่นี่"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "What? You don\u0027t know about\n",
+          "TranslatedText": "อะไรนะ? คุณไม่รู้จัก\n"
+        },
+        {
+          "Line": 220,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": "Death Mountain"
+        },
+        {
+          "Line": 223,
+          "OriginalText": "?!\n\n",
+          "TranslatedText": " งั้นเหรอ?!\n"
+        },
+        {
+          "Line": 229,
+          "OriginalText": "On a sunny day, you can see the volcano\nfrom anywhere in Hyrule!\n\n",
+          "TranslatedText": "ในวันที่ฟ้าเปิด คุณจะมองเห็นภูเขาไฟได้จาก\nทุกที่ใน Hyrule!\n"
+        },
+        {
+          "Line": 235,
+          "OriginalText": "Us Gorons eat rocks, ya know.",
+          "TranslatedText": "รู้ไหมว่าพวกเรา Gorons กินก้อนหิน"
+        },
+        {
+          "Line": 239,
+          "OriginalText": " So it\u0027s\nreally comfortable for us to live around\n",
+          "TranslatedText": " \nมันจึงเหมาะกับพวกเรามากที่จะอาศัยอยู่ใกล้กับ\n"
+        },
+        {
+          "Line": 243,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": "Death Mountain"
+        },
+        {
+          "Line": 246,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "That\u0027s right! ",
+          "TranslatedText": "ใช่แล้ว! "
+        },
+        {
+          "Line": 259,
+          "OriginalText": "They\u0027re the best!\n\n\n",
+          "TranslatedText": "มันยอดเยี่ยมที่สุด!\n"
+        },
+        {
+          "Line": 265,
+          "OriginalText": "Rocks are great, but the ones called\ngems...",
+          "TranslatedText": "ก้อนหินน่ะอร่อยมาก แต่ว่าพวกที่เรียกว่า\nอัญมณีน่ะ..."
+        },
+        {
+          "Line": 269,
+          "OriginalText": " Ya know, the sparkly ones?\nThose taste terrible!\n",
+          "TranslatedText": " รู้จักใช่ไหม ที่มันส่องประกาย?\nพวกมันรสชาติไม่ได้เรื่องเลย!\n"
+        },
+        {
+          "Line": 275,
+          "OriginalText": "Nothin\u0027 to do with those but sell \u0027em...",
+          "TranslatedText": "ทำอะไรไม่ได้นอกจากเอาไว้ขาย..."
+        },
+        {
+          "Line": 279,
+          "OriginalText": "\nor use \u0027em as craftin\u0027 materials in the\nol\u0027 workshop.",
+          "TranslatedText": "\nหรือไม่ก็ใช้เป็นวัตถุดิบสร้างของต่างๆ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "Is there somethin\u0027 else ya wanna ask?",
+          "TranslatedText": "มีอย่างอื่นอยากถามอีกงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 361,
+          "OriginalText": "Nice weather today, isn\u0027t it?",
+          "TranslatedText": "วันนี้อากาศดีนะ ว่ามั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 370,
+          "OriginalText": "Hey there! ",
+          "TranslatedText": "เฮ้! "
+        },
+        {
+          "Line": 374,
+          "OriginalText": "The water feels nice,\ndoesn\u0027t it?",
+          "TranslatedText": "โดนน้ำแล้วรู้สึกดีใช่มั้ยล่ะ?"
+        }
+      ]
+    }
+  ]
+}

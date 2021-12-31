@@ -1,0 +1,845 @@
+{
+  "FileName": "Npc_Road_003",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Whew...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": " Hoo, boy...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 21,
+          "OriginalText": " That was\npretty dangerous for both of\nus.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 25,
+          "OriginalText": " But mostly for you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 34,
+          "OriginalText": "I don\u0027t like the look of this... There are\nstill some monsters running around...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 43,
+          "OriginalText": "Ow ow ow...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 47,
+          "OriginalText": " My bum knee\u0027s started\nacting up on me now, too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "I\u0027m feeling really stressed out...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 60,
+          "OriginalText": " What if\nwe get attacked again?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "We\u0027ve got to get out of here!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": "\nThere\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 80,
+          "OriginalText": " after us!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_00",
+      "TextList": [
+        {
+          "Line": 89,
+          "OriginalText": "I\u0027ve been really worried about Zora River\nlately...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": " It\u0027s been raining nonstop, from\nwhat I hear...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "\nThose poor Zora can\u0027t hang their\nlaundry out to dry. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "Not in weather\nlike that!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 107,
+          "OriginalText": "Wait.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 111,
+          "OriginalText": " Do Zora even wear clothes?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "\nMaybe? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "I can never remember...\nShould I be worried about my memory?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_00_1",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "It\u0027s been raining for ages upstream\non Zora River.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": " I\u0027m worried that nobody\u0027s\nlaundry will dry...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_01",
+      "TextList": [
+        {
+          "Line": 141,
+          "OriginalText": "Have you ever met any Zora?\n\n\nThey\u0027re an aquatic race that lives in this\nwatery region.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 145,
+          "OriginalText": " I\u0027m a little worried about\nhow they\u0027ll take to you, though...\nSeeing as how you don\u0027t have fins.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_01_1",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "Have you ever met any Zora?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": " They\u0027re\nthe, uh, how should I put this...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": "\nThe fishy ones.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_02",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "I\u0027m not sure I should tell you this...\nI\u0027m worried about what you\u0027d do with\nthe knowledge...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": "Oh, well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": " I guess I\u0027ll tell you anyway!\nHere\u0027s how you get to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 198,
+          "OriginalText": "So pay attention.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 202,
+          "OriginalText": " At the fork in the road\nhere, head east.\n\nOf course, now that I\u0027ve told you how to\nget there...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": " I\u0027m worried you\u0027ll never\nmake it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_02_1",
+      "TextList": [
+        {
+          "Line": 215,
+          "OriginalText": "If you\u0027re trying to get to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": ",\nhead east at the fork here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 226,
+          "OriginalText": " But I\u0027m a little\nworried about you making it all the way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_03",
+      "TextList": [
+        {
+          "Line": 235,
+          "OriginalText": "I\u0027m worried about the farmers in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": "\n\nThey grow pumpkins and carrots. It\u0027s\nsort of their specialty. But I hear there\u0027s\na little war going on between them...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_03_1",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Farmers in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "Kakariko Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "are fighting\nover whether carrots or pumpkins should\nbe their official vegetable.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": "\nI worry about them...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_04",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "I\u0027ve been worried about the elder of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 279,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": " lately...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "\n\nShe\u0027s lived a really long life...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "so her\nbirthday cake must be just covered in\ncandles...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 294,
+          "OriginalText": " What if it just tastes like wax...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_04_1",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "The elder of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": " has lived a\nvery long life.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": " I bet her birthday cake\nis just covered in candles...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 321,
+          "OriginalText": "I\u0027m so sleepy at sunup...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 325,
+          "OriginalText": "My nerves are a wreck...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 329,
+          "OriginalText": "Not a bad day...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "So much to worry about...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 337,
+          "OriginalText": "Aw. Now I\u0027m all wet...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "I\u0027m no adventurer, not like you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": " I\u0027d\nrather keep away from dangerous\nplaces like Hyrule Field.\nEven if it\u0027s a bit of a trek, I prefer safer\nhikes, like around ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": " or\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "Wetland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 364,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 373,
+          "OriginalText": "I\u0027m worried about you in this rain...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "\n\n\nI mean, imagine how irritated you\u0027d be",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": "\nif you tried to climb a cliff in the rain, but\nyou kept slipping and couldn\u0027t...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "They say there\u0027s no such thing as an\nendless rain,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": " but I\u0027m worried that,\nwhoever they are, they might be wrong.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_00",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "I\u0027m worried about you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 407,
+          "OriginalText": " You\u0027re going\nto head northwest, even if I warn you\nnot to, aren\u0027t you?\nIt\u0027s especially dangerous around\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 418,
+          "OriginalText": " so if you insist on\ngoing, make sure you\u0027re well equipped.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_00_1",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "The area around ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": ", up\nnorthwest from here, is dangerous,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": " but if\nyou must go, have your gear ready first.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_01",
+      "TextList": [
+        {
+          "Line": 447,
+          "OriginalText": "I\u0027m worried about my safety. You see...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": "\nI know too much. About Hyrule Castle,\nspecifically.\nSee, there\u0027s this secret ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "West Passage",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "\nyou use to sneak in.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": " I\u0027ve heard there\u0027s\ntreasure inside, too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_01_1",
+      "TextList": [
+        {
+          "Line": 471,
+          "OriginalText": "There\u0027s a way into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 475,
+          "OriginalText": "Hyrule Castle ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "through\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "West Passage",
+          "TranslatedText": null
+        },
+        {
+          "Line": 485,
+          "OriginalText": " is what I\u0027ve heard. And\nthey say there\u0027s treasure inside, too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_02",
+      "TextList": [
+        {
+          "Line": 494,
+          "OriginalText": "I\u0027m worried about you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 498,
+          "OriginalText": " You\u0027re planning\nto go treasure hunting inside the castle\neven if I try to stop you, aren\u0027t you?\nSure, there are bound to be plenty of\nstrong weapons inside,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 502,
+          "OriginalText": " but before you\neven reach them...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 506,
+          "OriginalText": " Oh, I\u0027m so worried.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_02_1",
+      "TextList": [
+        {
+          "Line": 515,
+          "OriginalText": "You\u0027d head for the castle to look for\ntreasure even if I tried to stop you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 519,
+          "OriginalText": " The\nlure of powerful weapons is too strong.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_03",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "I\u0027m worried about carrots...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 532,
+          "OriginalText": "\n\n\nDid you know that if you accidentally\nmix two different types of carrot,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 536,
+          "OriginalText": " your\ndish will be a disaster?\nOh, no... I can see by that look in your\neye... You won\u0027t listen to me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 540,
+          "OriginalText": " You\u0027re\ngoing to mix them anyway, aren\u0027t you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_03_1",
+      "TextList": [
+        {
+          "Line": 549,
+          "OriginalText": "Don\u0027t take my word for it, but any dish\nyou make by mixing two types of carrot\nwill definitely be a disaster.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_04",
+      "TextList": [
+        {
+          "Line": 558,
+          "OriginalText": "I\u0027m worried about my salt intake...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 562,
+          "OriginalText": "\n\n\nAfter all, it\u0027s pretty easy to get your\nhands on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": "rock salt",
+          "TranslatedText": null
+        },
+        {
+          "Line": 569,
+          "OriginalText": " in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 573,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 576,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 580,
+          "OriginalText": "\nAnd it tastes good with everything...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_04_1",
+      "TextList": [
+        {
+          "Line": 589,
+          "OriginalText": "It\u0027s pretty easy to get your hands on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 593,
+          "OriginalText": "rock salt",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": " in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 600,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 603,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 607,
+          "OriginalText": " And it\ntastes good with everything...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 616,
+          "OriginalText": "Are all the monsters all gone?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": " Well?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "I was certain I wasn\u0027t going to make it...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 638,
+          "OriginalText": "I feel like I just had a brush with death!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 647,
+          "OriginalText": "I\u0027m not cut out for adventure",
+          "TranslatedText": null
+        },
+        {
+          "Line": 651,
+          "OriginalText": " or anything\nlike that. Adventure makes me break out\nin a cold sweat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 660,
+          "OriginalText": "There\u0027ve been a lot of monsters\nwandering around here lately.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 669,
+          "OriginalText": "I wonder if we should get out of here\nnow while we have a chance...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 678,
+          "OriginalText": "Thanks for saving me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 682,
+          "OriginalText": " I\u0027m worried that\nI might not be grateful enough, so take\nthis...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

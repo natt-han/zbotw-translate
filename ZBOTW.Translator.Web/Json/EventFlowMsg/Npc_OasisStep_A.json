@@ -1,0 +1,55 @@
+{
+  "FileName": "Npc_OasisStep_A",
+  "EntryList": [
+    {
+      "EntryName": "Near_Raimei_001",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Looks good on you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Halt! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 24,
+          "OriginalText": "\n\n\nUnless you have permission, you\u0027ll stay\nright there!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 28,
+          "OriginalText": " I don\u0027t care who you are!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "You must be pretty special to have\ngotten permission from the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 41,
+          "OriginalText": "chief",
+          "TranslatedText": null
+        },
+        {
+          "Line": 44,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

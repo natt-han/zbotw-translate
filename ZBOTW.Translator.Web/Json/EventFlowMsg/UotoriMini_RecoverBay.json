@@ -1,0 +1,435 @@
+{
+  "FileName": "UotoriMini_RecoverBay",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Consider it done.",
+          "TranslatedText": "ได้เลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Why don\u0027t you do it?",
+          "TranslatedText": "ทำไมไม่ทำเองล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ve already done it.",
+          "TranslatedText": "จัดการไปแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027m going to sleep.",
+          "TranslatedText": "ฉันไปนอนละนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Mmmm nuuuhhh...",
+          "TranslatedText": "Mmmm nuuuhhh..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Phew...",
+          "TranslatedText": "ฟู่ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "More rain...",
+          "TranslatedText": "ฝนอีกแล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "You a traveler?",
+          "TranslatedText": "คุณเป็นนักเดินทางเหรอ?"
+        },
+        {
+          "Line": 45,
+          "OriginalText": "\nI\u0027m a fisherman of this village, but we\u0027re\nin a bit of a bind lately.\n",
+          "TranslatedText": "\nฉันเป็นชาวประมงที่หมู่บ้านนี้ แต่ช่วงหลังนี้\nเราออกหาปลาไม่ค่อยได้\n"
+        },
+        {
+          "Line": 49,
+          "OriginalText": "Monsters ",
+          "TranslatedText": "พวกมอนสเตอร์ "
+        },
+        {
+          "Line": 52,
+          "OriginalText": "have taken over the best\nfishing spots.\n\nYou used to be able to pull in a good\nhaul at ",
+          "TranslatedText": "ได้ยึดจุดหาปลา\nที่ดีที่สุดไป\nแต่ก่อนที่ "
+        },
+        {
+          "Line": 56,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 59,
+          "OriginalText": ", but these days you\u0027d\nbe lucky to leave there with your life.",
+          "TranslatedText": " นั้นจะจับปลาได้เป็นจำนวนมาก\nแต่ทุกวันนี้แค่เอาชีวิตรอดกลับมาได้ก็โชคดีแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "So",
+          "TranslatedText": "แล้ว"
+        },
+        {
+          "Line": 72,
+          "OriginalText": " how about it?",
+          "TranslatedText": " คิดว่าไง?"
+        },
+        {
+          "Line": 76,
+          "OriginalText": "\n\n\nYou going to deal with the ",
+          "TranslatedText": "\nจะไปจัดการ "
+        },
+        {
+          "Line": 80,
+          "OriginalText": "monsters ",
+          "TranslatedText": "พวกมอนสเตอร์ "
+        },
+        {
+          "Line": 91,
+          "OriginalText": "\nthat took over ",
+          "TranslatedText": "\nที่ยึดครอง "
+        },
+        {
+          "Line": 95,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 98,
+          "OriginalText": "?",
+          "TranslatedText": " ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "What are you waiting for?\nThe monsters are at ",
+          "TranslatedText": "คุณรออะไรอยู่?\nพวกมอนสเตอร์อยู่ที่ "
+        },
+        {
+          "Line": 119,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 122,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 126,
+          "OriginalText": "\nTake back my fishing spot!",
+          "TranslatedText": "\nเอาจุดตกปลาของฉันคืนมา!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "Heyyyyy! You took care of the ",
+          "TranslatedText": "เฮ้! คุณจัดการ "
+        },
+        {
+          "Line": 139,
+          "OriginalText": "monsters",
+          "TranslatedText": "พวกมอนสเตอร์"
+        },
+        {
+          "Line": 142,
+          "OriginalText": "\nat ",
+          "TranslatedText": "\nที่ "
+        },
+        {
+          "Line": 146,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 149,
+          "OriginalText": "! ",
+          "TranslatedText": " ได้! "
+        },
+        {
+          "Line": 153,
+          "OriginalText": "It\u0027s been too long since\nI\u0027ve had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation.",
+          "TranslatedText": "นานแล้ว\nที่ฉันไม่ได้จับปลาที่นั่นเลย!\nขอบคุณนะสหาย ฉันคิดว่าควรให้สิ่งนี้\nเพื่อแสดงความขอบคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "Come back whenever you\u0027d like!",
+          "TranslatedText": "แวะมาได้ทุกเมื่อเลยนะ!"
+        },
+        {
+          "Line": 166,
+          "OriginalText": "\nI\u0027ll share the day\u0027s haul with you.",
+          "TranslatedText": "\nแล้วฉันจะแบ่งปลาให้"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Mmmgh myah...",
+          "TranslatedText": "Mmmgh myah..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 184,
+          "OriginalText": "Well, we\u0027re going to bed.",
+          "TranslatedText": "เราจะเข้านอนแล้ว"
+        },
+        {
+          "Line": 188,
+          "OriginalText": "\nCome back tomorrow.",
+          "TranslatedText": "\nมาใหม่พรุ่งนี้นะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "Good stuff.",
+          "TranslatedText": "ดีเลย"
+        },
+        {
+          "Line": 201,
+          "OriginalText": "\n\n\nRemember, it\u0027s called ",
+          "TranslatedText": "\nจำไว้นะ มันเรียกว่า "
+        },
+        {
+          "Line": 205,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 208,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 212,
+          "OriginalText": " The\n",
+          "TranslatedText": " \n"
+        },
+        {
+          "Line": 216,
+          "OriginalText": "monsters ",
+          "TranslatedText": "พวกมอนสเตอร์ "
+        },
+        {
+          "Line": 219,
+          "OriginalText": "have set up shop there.\n\nStay sharp.",
+          "TranslatedText": "ได้ตั้งร้านขึ้นที่นั่น\nระวังด้วย"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Believe me, I\u0027d love to...but I have a\nfamily to look after. I can\u0027t be risking my\nlife.\nIf I had it my way, I\u0027d be out there\nskewering those monsters with this\nharpoon.",
+          "TranslatedText": "เชื่อเถอะ ฉันก็อยากทำ...แต่ฉันมี\nครอบครัวต้องดูแล ฉันคงเอาชีวิตไปเสี่ยงไม่ได้\nถ้าตัวคนเดียว ฉันคงออกไปเสียบตูดพวกมอนสเตอร์นั่น\nด้วยฉมวกนี่แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "What are you waiting for?\nGo take back ",
+          "TranslatedText": "คุณรออะไรอยู่?\nไปยึดเอา "
+        },
+        {
+          "Line": 241,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 244,
+          "OriginalText": "!",
+          "TranslatedText": " คืนมาสิ!"
+        },
+        {
+          "Line": 248,
+          "OriginalText": "\n\nMaybe the ",
+          "TranslatedText": "\nบางที "
+        },
+        {
+          "Line": 252,
+          "OriginalText": "monsters ",
+          "TranslatedText": "พวกมอนสเตอร์ "
+        },
+        {
+          "Line": 255,
+          "OriginalText": "will have their\nguard down in this rain.\n",
+          "TranslatedText": "อาจจะ\nการ์ดตกในตอนที่ฝนตกแบบนี้\n"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "You look pretty tough.",
+          "TranslatedText": "คุณดูแข็งแกร่งอยู่นะ"
+        },
+        {
+          "Line": 268,
+          "OriginalText": "\nThink you could go take care of them?",
+          "TranslatedText": "\nคิดว่าจัดการพวกนั้นได้ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 285,
+          "OriginalText": "I can\u0027t believe it!",
+          "TranslatedText": "ไม่อยากเชื่อเลย!"
+        },
+        {
+          "Line": 289,
+          "OriginalText": " You took care of the\nmonsters at ",
+          "TranslatedText": " คุณจัดการพวกมอนสเตอร์\nที่ "
+        },
+        {
+          "Line": 293,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 296,
+          "OriginalText": "! ",
+          "TranslatedText": " ได้! "
+        },
+        {
+          "Line": 300,
+          "OriginalText": "It\u0027s been so long\nsince I\u0027ve had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation.",
+          "TranslatedText": "นานแล้ว\nที่ฉันไม่ได้จับปลาจากตรงนั้น!\nขอบคุณนะสหาย ฉันคิดว่าควรให้สิ่งนี้\nเพื่อแสดงความขอบคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 309,
+          "OriginalText": "So...",
+          "TranslatedText": "แล้ว..."
+        },
+        {
+          "Line": 313,
+          "OriginalText": " How about it?",
+          "TranslatedText": " ว่ายังไง?"
+        },
+        {
+          "Line": 317,
+          "OriginalText": "\n\n\nYou going to deal with the ",
+          "TranslatedText": "\nคุณจะไปจัดการ "
+        },
+        {
+          "Line": 321,
+          "OriginalText": "monsters",
+          "TranslatedText": "พวกมอนสเตอร์"
+        },
+        {
+          "Line": 327,
+          "OriginalText": "\nthat took over ",
+          "TranslatedText": "\nที่ยึด "
+        },
+        {
+          "Line": 331,
+          "OriginalText": "Aris Beach",
+          "TranslatedText": "Aris Beach"
+        },
+        {
+          "Line": 334,
+          "OriginalText": "?",
+          "TranslatedText": " ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "You look pretty tough.",
+          "TranslatedText": "คุณดูแข็งแกร่งอยู่นะ"
+        },
+        {
+          "Line": 350,
+          "OriginalText": "\nThink you could go take care of them?",
+          "TranslatedText": "\nคิดว่าจัดการพวกนั้นได้ไหม?"
+        }
+      ]
+    }
+  ]
+}

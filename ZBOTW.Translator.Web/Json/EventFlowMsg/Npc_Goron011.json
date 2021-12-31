@@ -1,0 +1,420 @@
+{
+  "FileName": "Npc_Goron011",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027m a traveler.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Where am I?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Where do you live?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Something wrong?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "What\u0027s with you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Hmmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 75,
+          "OriginalText": "What?!\n\n\nYou\u0027re the one who approached ME!\nWhy would you just walk up and\nsay good-bye?!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": "Heh. I like your style!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": " In fact,\nI\u0027m gonna do you a favor and\naccept you as my student.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 94,
+          "OriginalText": "It\u0027s settled. I\u0027m the professor, got it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": "\nAnd I expect my students...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": "to lemme\nknow if they have any questions.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Slergo",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 194,
+          "OriginalText": "Goron City.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "The smithy",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\u0027s place.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "Good mornin\u0027...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": " I\u0027m still sleepy,\nbut I always have time to answer\na student\u0027s questions.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "It\u0027s still hot today... Woof.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "\nNow, listen closely, my student.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "I\u0027m pretty sleepy, but I\u0027m always game to\nanswer a student\u0027s questions.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "Did ya wanna ask me somethin\u0027?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 280,
+          "OriginalText": "I\u0027m on my way home...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 289,
+          "OriginalText": "Hmph... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "Hmph...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 302,
+          "OriginalText": "You again?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 306,
+          "OriginalText": " What\u0027s your problem?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 323,
+          "OriginalText": "Anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 342,
+          "OriginalText": "I\u0027m just...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 346,
+          "OriginalText": "so happy to have a pupil who\u0027s\nso curious! Ask me anything you want,\nwhenever you want!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 355,
+          "OriginalText": "My pupil...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": " Your professor will provide\nany answers you seek.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 439,
+          "OriginalText": "*smack...smack...*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 451,
+          "OriginalText": "I\u0027m...answering my student\u0027s questions!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 460,
+          "OriginalText": "I don\u0027t have any troubles.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 469,
+          "OriginalText": "If you\u0027re lookin\u0027 for someone with issues,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 473,
+          "OriginalText": "\nBoss Bludo is in a fix because of his\nback pain...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 482,
+          "OriginalText": "It seems ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": " Bludo\u0027s back pain got\nbetter all of a sudden... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "It\u0027s a miracle!\nFinally, peace has returned to the land.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "I was just about to go to bed...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 511,
+          "OriginalText": "Need somethin\u0027 else?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

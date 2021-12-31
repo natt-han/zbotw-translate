@@ -1,0 +1,640 @@
+{
+  "FileName": "Npc_HighMountain012",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Teach it to me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I have to go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Hahhh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "That song...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "*snore*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Hello.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "*snore*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "The song I\u0027ve been humming is one\nthat\u0027s been passed down in this village.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": "Would you like me to teach it to you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 103,
+          "OriginalText": "Good morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "I\u0027m going to sleep now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "\nGood night.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "Oh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": "Farewell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 138,
+          "OriginalText": "It\u0027s such a haunting song...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": "Just let me know if you\u0027d like to hear it\nagain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 153,
+          "OriginalText": "Hello.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "The song I\u0027ve been humming is one\nthat\u0027s been passed down in this village.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "\nShall I teach it to you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 184,
+          "OriginalText": "The pride of the Rito,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": " pillar in the sky,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": "\nits heart lights up",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": " when the sun is high.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "The heart shines upon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": " a path not whole,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "\nbut a warming flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": " can stir its soul",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "I understand.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": " I\u0027ll hurry to it then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 245,
+          "OriginalText": "Say, traveler...\n\n\nI take it you\u0027ve seen\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "\nEveryone is at a loss as to what to do...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "I can\u0027t help but sigh every time I look\nskyward.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "Are you...uh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": "naked?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "You\u0027re pretty energetic despite the cold\nhere...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 293,
+          "OriginalText": "Hurry up and put some clothes on.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 302,
+          "OriginalText": "Shame about the weather today...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 306,
+          "OriginalText": "\nThe weather always affects my mood.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 315,
+          "OriginalText": "There have been a lot of troubled\nfaces around here ever since\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "Divine Beast Vah Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 322,
+          "OriginalText": "appeared.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 331,
+          "OriginalText": "When will we be able to go back to living\na relaxed life here?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "I heard that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 344,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "\nhas been appeased. It just sends my\nheart soaring!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "But with the weather like this,\nI\u0027ll have to put that on hold...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "I didn\u0027t even realize I had started singing\nthis old song.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "Did you hear me singing it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 388,
+          "OriginalText": "I know an old song that has been passed\ndown in this village.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 392,
+          "OriginalText": " Want me to teach it\nto you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 409,
+          "OriginalText": "*ahem*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 424,
+          "OriginalText": "The pride of the Rito, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 428,
+          "OriginalText": "pillar in the sky,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 432,
+          "OriginalText": "\nits heart lights up,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": " when the sun is high.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 448,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 460,
+          "OriginalText": "Uhhh.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 464,
+          "OriginalText": " There\u0027s more to the song,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 468,
+          "OriginalText": " but I\nforget the rest of the words.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": "You should ask ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "my sister",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": ", Laissa, if you\nwant to know the rest.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 490,
+          "OriginalText": "So you asked ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 494,
+          "OriginalText": "my sister",
+          "TranslatedText": null
+        },
+        {
+          "Line": 497,
+          "OriginalText": ", ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "Laissa",
+          "TranslatedText": null
+        },
+        {
+          "Line": 504,
+          "OriginalText": ", to recite\nthe rest of the song?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 510,
+          "OriginalText": "I also remembered the rest of the words.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 514,
+          "OriginalText": "\nDo you want to hear them?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 531,
+          "OriginalText": "OK...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 540,
+          "OriginalText": "But still...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": "\nWhat does it all mean?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 550,
+          "OriginalText": "Not knowing bothers me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 559,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 563,
+          "OriginalText": " Well that\u0027s embarrassing...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

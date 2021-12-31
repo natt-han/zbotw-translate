@@ -1,0 +1,1175 @@
+{
+  "FileName": "MiniGame_Bowling",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll try it!",
+          "TranslatedText": "ฉันจะลอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "How does it work?",
+          "TranslatedText": "มันทำงานอย่างไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Not interested.",
+          "TranslatedText": "ไม่สนใจ."
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Explain again?",
+          "TranslatedText": "อธิบายอีกครั้ง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I\u0027ve lost interest.",
+          "TranslatedText": "ฉันได้หมดความสนใจ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "OK!",
+          "TranslatedText": "ตกลง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "I\u0027ll pass.",
+          "TranslatedText": "ฉันขอผ่าน."
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I have to split.",
+          "TranslatedText": "ฉันต้องแยก."
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "It\u0027s nothing.",
+          "TranslatedText": "ไม่เป็นไร."
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "I quit!",
+          "TranslatedText": "ฉันขอถอนตัว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "I\u0027ll keep at it.",
+          "TranslatedText": "ฉันจะเก็บไว้ที่มัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Oops. My mistake.",
+          "TranslatedText": "อ๊ะ. ความผิดพลาดของฉัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "I\u0027ll do it!",
+          "TranslatedText": "ฉันจะทำมัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Initial",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "Hail, kiddums!",
+          "TranslatedText": "หวัดดี kiddums!"
+        },
+        {
+          "Line": 69,
+          "OriginalText": " Nice to meet a fresh face\nin these parts.",
+          "TranslatedText": " ยินดีที่ได้พบกับใบหน้าที่สดชื่น."
+        },
+        {
+          "Line": 73,
+          "OriginalText": " It\u0027s not every day I get\ncompany this high in the hills.\nCan\u0027t give you a warm welcome...buuuut\nhow about a game I made up:",
+          "TranslatedText": " ไม่ใช่ทุกวันที่ฉันได้รับบนที่สูงในเนินเขา.\nไม่สามารถให้การต้อนรับที่อบอุ่นแก่คุณได้...แต่\nวิธีการเกี่ยวกับเกมที่ฉันทำขึ้น:"
+        },
+        {
+          "Line": 77,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 81,
+          "OriginalText": "Snowball\nBowling",
+          "TranslatedText": "Snowball\nBowling"
+        },
+        {
+          "Line": 84,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 88,
+          "OriginalText": " Or as I call it, ",
+          "TranslatedText": " หรือตามที่ฉันเรียกมัน, "
+        },
+        {
+          "Line": 92,
+          "OriginalText": "Snowling",
+          "TranslatedText": "หิมะตก"
+        },
+        {
+          "Line": 95,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Initial_00",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "Hallooooo, kiddums! If you wanted to try\na round of ",
+          "TranslatedText": "ฮัลโลลลล, kiddums! หากคุณต้องการลอง "
+        },
+        {
+          "Line": 117,
+          "OriginalText": "Snowball Bowling",
+          "TranslatedText": "โบว์ลิ่งสโนว์บอล"
+        },
+        {
+          "Line": 120,
+          "OriginalText": ", then you\u0027re\nin luck, because this is the place!",
+          "TranslatedText": ", คุณโชคดีแล้ว เพราะมันคือสถานที่นี้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "about_snowbowl_03",
+      "TextList": [
+        {
+          "Line": 138,
+          "OriginalText": "Ooookaaaaay!",
+          "TranslatedText": "โออออออเค!"
+        },
+        {
+          "Line": 142,
+          "OriginalText": " Here",
+          "TranslatedText": " ที่นี่"
+        },
+        {
+          "Line": 146,
+          "OriginalText": " we ",
+          "TranslatedText": " เรา "
+        },
+        {
+          "Line": 150,
+          "OriginalText": "snooooow!",
+          "TranslatedText": "หิมะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "about_snowbowl_04",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "Well, good luck!",
+          "TranslatedText": "โชคดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "area_out_00",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Are you flaking out?! ",
+          "TranslatedText": "คุณหลุดออกไป?! "
+        },
+        {
+          "Line": 175,
+          "OriginalText": "You haven\u0027t\nfinished your round of SNOW BOWLING!",
+          "TranslatedText": "คุณยังไม่เสร็จรอบโบว์ลิ่งหิมะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "area_out_01",
+      "TextList": [
+        {
+          "Line": 192,
+          "OriginalText": "Oh... ",
+          "TranslatedText": "โอ้... "
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Whoopsie-doodle!",
+          "TranslatedText": "เส้นขยุกขยิก!"
+        },
+        {
+          "Line": 200,
+          "OriginalText": " Hold on a tick!",
+          "TranslatedText": " Hold on a tick!"
+        }
+      ]
+    },
+    {
+      "EntryName": "area_out_02",
+      "TextList": [
+        {
+          "Line": 212,
+          "OriginalText": "Sorry about that, kiddums! ",
+          "TranslatedText": "เสียใจด้วยนะ, kiddums! "
+        },
+        {
+          "Line": 216,
+          "OriginalText": "\u0027Til I learn to\ncontrol the weather, there\u0027s not much I\ncan do about these icy slopes.",
+          "TranslatedText": "\u0027ฉันไม่สามารถทำอะไรเกี่ยวกับความชันน้ำแข็งเหล่านี้จนกว่าฉันจะเรียนรู้ที่จะควบคุมอากาศ\n."
+        }
+      ]
+    },
+    {
+      "EntryName": "area_out_03",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Skate just a minute there!",
+          "TranslatedText": "เล่นสเก็ตเพียงไม่กี่นาที!\n"
+        },
+        {
+          "Line": 232,
+          "OriginalText": " I bet you\u0027ll\nscore more points if you come back over\nthis way.",
+          "TranslatedText": " ฉันพนันได้เลยว่าถ้าคุณกลับมาทางนี้\nคุณจะได้คะแนนมากขึ้น."
+        }
+      ]
+    },
+    {
+      "EntryName": "area_out_04",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "Snowly moly...",
+          "TranslatedText": "โมลี่หิมะ..."
+        },
+        {
+          "Line": 248,
+          "OriginalText": " What\u0027s gotten into you?",
+          "TranslatedText": " เกิดอะไรขึ้นกับคุณ?"
+        },
+        {
+          "Line": 252,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 256,
+          "OriginalText": "Snowball Bowling ",
+          "TranslatedText": "โบว์ลิ่งสโนว์บอล "
+        },
+        {
+          "Line": 259,
+          "OriginalText": "is ",
+          "TranslatedText": "เป็น "
+        },
+        {
+          "Line": 266,
+          "OriginalText": "a civilized game.",
+          "TranslatedText": "เกมอารยธรรม."
+        },
+        {
+          "Line": 276,
+          "OriginalText": "\nThere are rules!",
+          "TranslatedText": "\nมีกฎ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "ask_again",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "There\u0027s no cooler feeling than smashing\nall the pins at once!",
+          "TranslatedText": "ไม่มีความรู้สึกเย็นกว่าการทุบพินทั้งหมดในครั้งเดียว!"
+        },
+        {
+          "Line": 292,
+          "OriginalText": " But see for yourself!\n",
+          "TranslatedText": " แต่ดูด้วยตัวคุณเอง!\n"
+        },
+        {
+          "Line": 296,
+          "OriginalText": "Go on, have a ball!",
+          "TranslatedText": "ไปต่อ, มีลูกบอล!"
+        }
+      ]
+    },
+    {
+      "EntryName": "ask_payment",
+      "TextList": [
+        {
+          "Line": 314,
+          "OriginalText": "Ah, the sweet music of \u0022yes\u0022!",
+          "TranslatedText": "อ่าเพลงหวานของ \u0022ใช่\u0022!"
+        },
+        {
+          "Line": 318,
+          "OriginalText": " There\u0027s a\ncatch, though.",
+          "TranslatedText": " แม้ว่าจะมีการจับ."
+        },
+        {
+          "Line": 322,
+          "OriginalText": " One game costs a cool\n",
+          "TranslatedText": " เกมหนึ่งมีค่าใช้จ่าย\n"
+        },
+        {
+          "Line": 326,
+          "OriginalText": "20 rupees ",
+          "TranslatedText": "20 รูปี "
+        },
+        {
+          "Line": 329,
+          "OriginalText": "to play. Still up for a round?",
+          "TranslatedText": "ยังจะเล่น?"
+        }
+      ]
+    },
+    {
+      "EntryName": "break_00",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Hrm? ",
+          "TranslatedText": "Hrm? "
+        },
+        {
+          "Line": 350,
+          "OriginalText": "Something on your mind, kiddums?",
+          "TranslatedText": "มีบางอย่างในใจของคุณ, kiddums?"
+        }
+      ]
+    },
+    {
+      "EntryName": "break_01",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Snowly moly! You\u0027re tired already?!",
+          "TranslatedText": "โมลี่หิมะ! คุณเหนื่อยแล้ว?!"
+        },
+        {
+          "Line": 371,
+          "OriginalText": "\nI didn\u0027t have you pinned as the quitting\ntype!",
+          "TranslatedText": "\nฉันไม่ได้รั้งคุณไว้ เลิกได้นะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "break_02",
+      "TextList": [
+        {
+          "Line": 380,
+          "OriginalText": "If your throwing arm is frozen solid,\nsuit yourself, but I\u0027m keeping the fee.",
+          "TranslatedText": "หากแขนขว้างของคุณเป็นของแข็ง แช่แข็งให้เหมาะกับตัวเอง แต่ฉันเก็บค่าธรรมเนียม."
+        },
+        {
+          "Line": 384,
+          "OriginalText": "\nThink of it as learning the hard way!",
+          "TranslatedText": "\nคิดว่ามันเป็นการเรียนรู้วิธีที่ยากลำบาก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "end",
+      "TextList": [
+        {
+          "Line": 401,
+          "OriginalText": "Ooooookaaaaay.",
+          "TranslatedText": "โออออออเค."
+        },
+        {
+          "Line": 405,
+          "OriginalText": " Ice of you to stop by!",
+          "TranslatedText": " น้ำแข็งของคุณที่จะหยุดโดย!"
+        },
+        {
+          "Line": 409,
+          "OriginalText": "\nIf you\u0027re in the mood, I\u0027ll always be\nhappy to line \u0027em up for you!",
+          "TranslatedText": "\nหากคุณอยู่ในอารมณ์ฉันจะมีความสุขเสมอที่จะจัดการกับคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "explanation_00",
+      "TextList": [
+        {
+          "Line": 421,
+          "OriginalText": "What a sweet boy to show an interest!",
+          "TranslatedText": "ช่างเป็นเด็กแสนหวานที่จะแสดงความสนใจ!"
+        },
+        {
+          "Line": 425,
+          "OriginalText": "\nIf you don\u0027t know the rules, I can\nexplain them in a flurry.",
+          "TranslatedText": "\nหากคุณไม่ทราบกฎ ฉันสามารถอธิบายได้ ในความวุ่นวาย."
+        },
+        {
+          "Line": 431,
+          "OriginalText": "At the foot of the hill, we have 10, count\n\u0027em, 10 pillars or \u0022pins.\u0022",
+          "TranslatedText": "ที่เชิงเขาเรามี 10, นับ \u0027em 10 หลักหรือ \u0022พิน\u0022"
+        }
+      ]
+    },
+    {
+      "EntryName": "explanation_01",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!",
+          "TranslatedText": "โยนก้อนหิมะจากด้านบนของเนินเขาเบี้ยว\nและล้มพินทั้งหมดที่คุณทำได้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "explanation_02",
+      "TextList": [
+        {
+          "Line": 449,
+          "OriginalText": "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!",
+          "TranslatedText": "ลูกบอลอาจใช้เวลาสักครู่ในการวิ่งบนเนินเขา แต่พินใดๆ มันกระทบเมื่อถึงด้านล่าง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "game_start",
+      "TextList": [
+        {
+          "Line": 458,
+          "OriginalText": "This is the snowball you\u0027ll use.",
+          "TranslatedText": "นี่คือก้อนหิมะที่คุณจะใช้."
+        },
+        {
+          "Line": 462,
+          "OriginalText": " It might\nnot look like much, but it\u0027s snow joke.",
+          "TranslatedText": " มันอาจดูไม่เหมือนมาก, มันดูตลก"
+        },
+        {
+          "Line": 466,
+          "OriginalText": "\nYou get two rolls. Knock \u0027em flat!",
+          "TranslatedText": "\nคุณได้รับสองม้วน. ล้มแบนแบน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "game_start_00",
+      "TextList": [
+        {
+          "Line": 475,
+          "OriginalText": "Aha! Play bells are ringing! ",
+          "TranslatedText": "อะฮ่า! ระฆังกำลังดังขึ้น! "
+        },
+        {
+          "Line": 479,
+          "OriginalText": "I gotta set up\nthe pins, but I\u0027ll be back in a flurry.",
+          "TranslatedText": "ฉันต้องตั้งค่าพิน แต่ฉันจะกลับมาในความวุ่นวาย."
+        }
+      ]
+    },
+    {
+      "EntryName": "game_start_01",
+      "TextList": [
+        {
+          "Line": 488,
+          "OriginalText": "If you can knock over all 10 pins in one\nroll, that\u0027s a ",
+          "TranslatedText": "หากคุณสามารถล้ม 10 พิน ทั้งหมดในม้วนเดียว นั่นคือ "
+        },
+        {
+          "Line": 492,
+          "OriginalText": "strike",
+          "TranslatedText": "โจมตี"
+        },
+        {
+          "Line": 495,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 499,
+          "OriginalText": " Only the most\nsnowtorious bowlers can pull that off!\nA ",
+          "TranslatedText": " เฉพาะเลอร์สที่ชั่งน้ำหนักมากที่สุดเท่านั้นที่สามารถดึงออกได้!\n "
+        },
+        {
+          "Line": 503,
+          "OriginalText": "spare",
+          "TranslatedText": "สำรอง"
+        },
+        {
+          "Line": 506,
+          "OriginalText": " is when it takes both tries to\nfinish the job.",
+          "TranslatedText": " คือ เมื่อต้องพยายามทำงานให้เสร็จ."
+        },
+        {
+          "Line": 510,
+          "OriginalText": " Not as good as a strike,\nbut nothing to sneeze at!",
+          "TranslatedText": " ไม่ดีเท่าการนัดหยุดงาน ไม่ใช่เป็นสิ่งไม่ดี"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_00",
+      "TextList": [
+        {
+          "Line": 519,
+          "OriginalText": "You gotta look at your pins and see the\nball hitting \u0027em in your mind. ",
+          "TranslatedText": "คุณต้องดูที่พินของคุณและดูลูกบอลชน \u0027ในใจของคุณ. "
+        },
+        {
+          "Line": 523,
+          "OriginalText": "That\u0027s the\nkey to it all!",
+          "TranslatedText": "นั่นเป็นกุญแจสำคัญสำหรับทุกอย่าง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_01",
+      "TextList": [
+        {
+          "Line": 535,
+          "OriginalText": "Only ",
+          "TranslatedText": "เท่านั้น "
+        },
+        {
+          "Line": 545,
+          "OriginalText": "... ",
+          "TranslatedText": "... "
+        },
+        {
+          "Line": 549,
+          "OriginalText": "That\u0027s gotta sting.",
+          "TranslatedText": "นั่นต้องต่อย."
+        },
+        {
+          "Line": 553,
+          "OriginalText": " My advice?",
+          "TranslatedText": " คำแนะนำของฉัน?"
+        },
+        {
+          "Line": 557,
+          "OriginalText": "\nStay frosty and play again!",
+          "TranslatedText": "\nพักแช่แข็งและเล่นอีกครั้ง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_02",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "How many ",
+          "TranslatedText": "มีกี่ "
+        },
+        {
+          "Line": 568,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 571,
+          "OriginalText": "? Eh, ",
+          "TranslatedText": "? เอ๊ะ, "
+        },
+        {
+          "Line": 586,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 590,
+          "OriginalText": "That\u0027s decent.",
+          "TranslatedText": "นั่นเป็นเรื่องที่ดี."
+        },
+        {
+          "Line": 594,
+          "OriginalText": "\nTell you what, I\u0027ll give you a sampler\nprize to get you shivering for more!",
+          "TranslatedText": "\nจะบอกอะไรคุณฟัง ฉันจะให้รางวัลตัวอย่างแก่คุณ\nเพื่อให้คุณสั่นคลอนมากขึ้น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_03",
+      "TextList": [
+        {
+          "Line": 603,
+          "OriginalText": "Ooooh, snow close! A throw like that\ndeserves some kinda prize. Here ya go!",
+          "TranslatedText": "โอ้ปิดหิมะ! โยนอย่างที่สมควรได้รับรางวัลบางอย่าง. ที่นี่คุณไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_04",
+      "TextList": [
+        {
+          "Line": 615,
+          "OriginalText": "Well, bowl me over, kiddums!",
+          "TranslatedText": " ทำให้ฉันแปลกใจ, kiddums!"
+        },
+        {
+          "Line": 619,
+          "OriginalText": " A snowing\nlike that deserves an ice prize.",
+          "TranslatedText": " หิมะตกเช่นที่สมควรได้รับรางวัลน้ำแข็ง."
+        },
+        {
+          "Line": 623,
+          "OriginalText": " How\u0027s\nabout this snowball-making doohickey?",
+          "TranslatedText": " การทำสโนว์บอลนี้เป็นอย่างไรบ้าง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_05",
+      "TextList": [
+        {
+          "Line": 635,
+          "OriginalText": "I hear this\u0027ll freeze things but good.",
+          "TranslatedText": "ฉันได้ยินสิ่งนี้จะตรึงสิ่งต่างๆ แต่ก็ดี."
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_06",
+      "TextList": [
+        {
+          "Line": 644,
+          "OriginalText": "I\u0027m too chill to fight, so I\u0027ve never\nseen it in action with my own two\npeepers.",
+          "TranslatedText": "ฉันรู้สึกหนาวมากเกินไปที่จะต่อสู้, ดังนั้นฉันไม่เคยเห็นมันในการกระทำกับคนขับไล่สองคนของฉันเอง."
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_07",
+      "TextList": [
+        {
+          "Line": 653,
+          "OriginalText": "Leastways, I\u0027d offer it to you if you\nweren\u0027t snowverloaded with stuff.",
+          "TranslatedText": "อย่างน้อยฉันจะเสนอให้คุณถ้าคุณไม่มีหิมะกับสิ่งต่างๆ."
+        },
+        {
+          "Line": 657,
+          "OriginalText": " Will\nthis do instead?",
+          "TranslatedText": " Will\nนี่ทำแทน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_08",
+      "TextList": [
+        {
+          "Line": 669,
+          "OriginalText": "You ",
+          "TranslatedText": "คุณ "
+        },
+        {
+          "Line": 673,
+          "OriginalText": "knocked \u0027em all down ",
+          "TranslatedText": "ล้ม \u0027em ทั้งหมดลง "
+        },
+        {
+          "Line": 676,
+          "OriginalText": "flat! That\nwas no mean sleet, kiddums.",
+          "TranslatedText": "แบน! ที่ไม่ได้หมายความว่า หิมะฝน, kiddums."
+        },
+        {
+          "Line": 680,
+          "OriginalText": " I got you\na special prize for pulling that one off!",
+          "TranslatedText": " ฉันได้รับรางวัลพิเศษสำหรับการดึงที่หนึ่งออกไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "prize_09",
+      "TextList": [
+        {
+          "Line": 692,
+          "OriginalText": "Well, whaddaya know, kiddums! ",
+          "TranslatedText": "คุณรู้มั้ย, kiddums! "
+        },
+        {
+          "Line": 696,
+          "OriginalText": "Just for\nthat, you get a prize.",
+          "TranslatedText": "เพียงแค่นั้น, คุณจะได้รับรางวัล."
+        }
+      ]
+    },
+    {
+      "EntryName": "refuse",
+      "TextList": [
+        {
+          "Line": 705,
+          "OriginalText": "Is this all of the rupees you have?",
+          "TranslatedText": "นี่คือรูปีทั้งหมดที่คุณมี?"
+        },
+        {
+          "Line": 709,
+          "OriginalText": "\nThere\u0027s snow way this is enough!",
+          "TranslatedText": "\nหิมะตกแบบนี้ก็พอ!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "restart",
+      "TextList": [
+        {
+          "Line": 718,
+          "OriginalText": "Soooooooo... ",
+          "TranslatedText": "ดังนั้นนนนนน... "
+        },
+        {
+          "Line": 722,
+          "OriginalText": "What do you think about\ngiving it one more whirl?",
+          "TranslatedText": "คุณคิดอย่างไรกับการให้มันมากกว่าหนึ่ง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "restart_end",
+      "TextList": [
+        {
+          "Line": 739,
+          "OriginalText": "No problem. ",
+          "TranslatedText": "ไม่มีปัญหา. "
+        },
+        {
+          "Line": 743,
+          "OriginalText": "I love the pins too much to\never leave!",
+          "TranslatedText": "ฉันรักพินมากเกินไปที่จะออกไป!"
+        },
+        {
+          "Line": 747,
+          "OriginalText": " You bet your snowball I\u0027ll be\nhere when you\u0027re ready for more.",
+          "TranslatedText": " คุณเดิมพันสโนว์บอลของคุณ ฉันจะอยู่ที่นี่เมื่อคุณพร้อม สำหรับข้อมูลเพิ่มเติม."
+        }
+      ]
+    },
+    {
+      "EntryName": "result_00",
+      "TextList": [
+        {
+          "Line": 759,
+          "OriginalText": "With both throws together, you got...",
+          "TranslatedText": "การขว้างทั้งคู่ด้วยกัน คุณได้รับ..."
+        },
+        {
+          "Line": 769,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 773,
+          "OriginalText": "\nNot as easy as it looks, eh, kiddums?",
+          "TranslatedText": "\nไม่ง่ายอย่างที่คิด, เอ๊ะ, kiddums?"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_01",
+      "TextList": [
+        {
+          "Line": 785,
+          "OriginalText": "Your total is...how many ",
+          "TranslatedText": "ทั้งหมดของคุณ... มีกี่"
+        },
+        {
+          "Line": 789,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 792,
+          "OriginalText": "? Just ",
+          "TranslatedText": "? แค่ "
+        },
+        {
+          "Line": 802,
+          "OriginalText": "?\nI know you can do better than that!",
+          "TranslatedText": "?\nฉันรู้ว่าคุณทำได้ดีกว่านั้น!"
+        },
+        {
+          "Line": 806,
+          "OriginalText": "\nKeep your eye on the snowball!",
+          "TranslatedText": "\nจับตาดูก้อนหิมะของคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_02",
+      "TextList": [
+        {
+          "Line": 815,
+          "OriginalText": "Your total is...how many ",
+          "TranslatedText": "ทั้งหมดของคุณคือ ... มีกี่ "
+        },
+        {
+          "Line": 819,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 822,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 826,
+          "OriginalText": "\nWow, ",
+          "TranslatedText": "\nว้าว, "
+        },
+        {
+          "Line": 836,
+          "OriginalText": "?!",
+          "TranslatedText": "?!"
+        },
+        {
+          "Line": 840,
+          "OriginalText": " Ice work, kiddums!",
+          "TranslatedText": " น้ำแข็งทำงาน, kiddums!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_03",
+      "TextList": [
+        {
+          "Line": 849,
+          "OriginalText": "Your total is...how many ",
+          "TranslatedText": "ทั้งหมดของคุณ... มีกี่ "
+        },
+        {
+          "Line": 853,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 856,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 869,
+          "OriginalText": "?! ",
+          "TranslatedText": "?! "
+        },
+        {
+          "Line": 873,
+          "OriginalText": "\nSnow close...and yet snow far.",
+          "TranslatedText": "\nหิมะปิด...และหิมะก็ยังห่างไกล."
+        }
+      ]
+    },
+    {
+      "EntryName": "result_04",
+      "TextList": [
+        {
+          "Line": 882,
+          "OriginalText": "Your total is...how many ",
+          "TranslatedText": "ทั้งหมดของคุณ... มีกี่"
+        },
+        {
+          "Line": 886,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 889,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 902,
+          "OriginalText": "?! ",
+          "TranslatedText": "?! "
+        },
+        {
+          "Line": 906,
+          "OriginalText": "\nThat was your second throw, so it counts\nas a ",
+          "TranslatedText": "\nนั่นคือการโยนครั้งที่สองของคุณ, ดังนั้นจึงนับเป็นการ "
+        },
+        {
+          "Line": 910,
+          "OriginalText": "spare",
+          "TranslatedText": "สำรอง"
+        },
+        {
+          "Line": 913,
+          "OriginalText": "! Snow \u0027em how it\u0027s done!",
+          "TranslatedText": "! หิมะ \u0027ทำยังไงดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_05",
+      "TextList": [
+        {
+          "Line": 922,
+          "OriginalText": "You got...how many ",
+          "TranslatedText": "คุณมีกี่ "
+        },
+        {
+          "Line": 926,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 929,
+          "OriginalText": "? Er, ",
+          "TranslatedText": "? เอ้อ, "
+        },
+        {
+          "Line": 939,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        },
+        {
+          "Line": 943,
+          "OriginalText": "\nNot as easy as it looks, eh, kiddums?",
+          "TranslatedText": "\nไม่ง่ายอย่างที่คิด, เอ๊ะ, kiddums?"
+        },
+        {
+          "Line": 947,
+          "OriginalText": "\nBut hey, one throw left! Make it count!",
+          "TranslatedText": "\nแต่เฮ้, โยนไปทางซ้ายหนึ่ง! เริ่มนับ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_06",
+      "TextList": [
+        {
+          "Line": 956,
+          "OriginalText": "You knocked over...how many ",
+          "TranslatedText": "คุณล้ม... ไปกี่ "
+        },
+        {
+          "Line": 960,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 963,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 976,
+          "OriginalText": "?!",
+          "TranslatedText": "?!"
+        },
+        {
+          "Line": 980,
+          "OriginalText": "\nI know you can do better than that!",
+          "TranslatedText": "\nฉันรู้ว่าคุณทำได้ดีกว่านั้น!"
+        },
+        {
+          "Line": 984,
+          "OriginalText": "\nYou got one throw left! Make it count!",
+          "TranslatedText": "\nคุณเหลืออีกหนึ่งโยนไปทางซ้าย! เริ่มนับ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_07",
+      "TextList": [
+        {
+          "Line": 993,
+          "OriginalText": "You knocked over...how many ",
+          "TranslatedText": "คุณล้ม... ไปกี่ "
+        },
+        {
+          "Line": 997,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 1000,
+          "OriginalText": "? \nOh, ",
+          "TranslatedText": "? \nโอ้, "
+        },
+        {
+          "Line": 1013,
+          "OriginalText": "?!",
+          "TranslatedText": "?!"
+        },
+        {
+          "Line": 1017,
+          "OriginalText": " Ice work, kiddums! Fingers \ncrossed for a ",
+          "TranslatedText": " น้ำแข็งทำงาน, kiddums! นิ้วข้ามสำหรับการ "
+        },
+        {
+          "Line": 1021,
+          "OriginalText": "spare",
+          "TranslatedText": "สำรอง"
+        },
+        {
+          "Line": 1024,
+          "OriginalText": " on the second throw!",
+          "TranslatedText": " ในการโยนครั้งที่สอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_08",
+      "TextList": [
+        {
+          "Line": 1033,
+          "OriginalText": "You got...how many ",
+          "TranslatedText": "คุณได้ ... มีกี่ "
+        },
+        {
+          "Line": 1037,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 1040,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 1053,
+          "OriginalText": "?!",
+          "TranslatedText": "?!"
+        },
+        {
+          "Line": 1057,
+          "OriginalText": "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!",
+          "TranslatedText": "\nหิมะปิด...และหิมะก็ยังห่างไกล...\nโยนไปซ้ายหนึ่ง! ใส่กลับมาในครั้งนี้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_09",
+      "TextList": [
+        {
+          "Line": 1066,
+          "OriginalText": "WHOA! All ",
+          "TranslatedText": "โว้ว! ทั้งหมด "
+        },
+        {
+          "Line": 1074,
+          "OriginalText": " pins",
+          "TranslatedText": " พิน"
+        },
+        {
+          "Line": 1077,
+          "OriginalText": "! That there\u0027s a ",
+          "TranslatedText": "! มี "
+        },
+        {
+          "Line": 1081,
+          "OriginalText": "strike",
+          "TranslatedText": "โจมตี"
+        },
+        {
+          "Line": 1084,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 1088,
+          "OriginalText": "\nSnow \u0027em how it\u0027s done, kiddums!",
+          "TranslatedText": "\nหิมะ \u0027em มันทำอย่างไร, kiddums!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_10",
+      "TextList": [
+        {
+          "Line": 1100,
+          "OriginalText": "Take a deep breath, and go for broke on\nyour second throw!",
+          "TranslatedText": "หายใจเข้าลึกๆ และไปทำลายในการโยนครั้งที่สองของคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "result_11",
+      "TextList": [
+        {
+          "Line": 1109,
+          "OriginalText": "You knocked over how many ",
+          "TranslatedText": "คุณล้มไปกี่\n "
+        },
+        {
+          "Line": 1113,
+          "OriginalText": "pins",
+          "TranslatedText": "พิน"
+        },
+        {
+          "Line": 1116,
+          "OriginalText": "? ",
+          "TranslatedText": "? "
+        },
+        {
+          "Line": 1126,
+          "OriginalText": "?!",
+          "TranslatedText": "?!"
+        }
+      ]
+    }
+  ]
+}

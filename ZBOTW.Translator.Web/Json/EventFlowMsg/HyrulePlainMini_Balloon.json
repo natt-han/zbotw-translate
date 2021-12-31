@@ -1,0 +1,495 @@
+{
+  "FileName": "HyrulePlainMini_Balloon",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Leave it to me.",
+          "TranslatedText": "ให้ฉันจัดการเอง."
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No.",
+          "TranslatedText": "ไม่"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near_00",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Balloons. Floaty balloons.",
+          "TranslatedText": "บอลลูน บอลลูนลอย."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near_01",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "In the sky...",
+          "TranslatedText": "ไปในท้องฟ้า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0000",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Zzz...",
+          "TranslatedText": "Zzz..."
+        },
+        {
+          "Line": 36,
+          "OriginalText": "zzz...",
+          "TranslatedText": "zzz..."
+        },
+        {
+          "Line": 43,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 47,
+          "OriginalText": "Balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 50,
+          "OriginalText": "... Floaty, floaty...",
+          "TranslatedText": "... ลอย, ลอย..."
+        },
+        {
+          "Line": 60,
+          "OriginalText": "\n\n\nZzz...",
+          "TranslatedText": "\nZzz..."
+        },
+        {
+          "Line": 70,
+          "OriginalText": "zzz...",
+          "TranslatedText": "zzz..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0001",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "You brought me ",
+          "TranslatedText": "คุณเอา "
+        },
+        {
+          "Line": 83,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 86,
+          "OriginalText": " even though\nthe weather is bad?",
+          "TranslatedText": " มาให้ฉัน\nแม้ว่าสภาพอากาศจะเลวร้ายก็ตาม?"
+        },
+        {
+          "Line": 90,
+          "OriginalText": "\n\nI wonder if the ",
+          "TranslatedText": "\nฉันสงสัยว่า "
+        },
+        {
+          "Line": 94,
+          "OriginalText": "balloons ",
+          "TranslatedText": "บอลลูน "
+        },
+        {
+          "Line": 97,
+          "OriginalText": "will break\nthrough the clouds and soar in the\nclear skies.",
+          "TranslatedText": "จะฝ่าก้อนเมฆ\nและทะยานไปในท้องฟ้าที่ปลอดโปร่ง."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0002",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "Good kid,",
+          "TranslatedText": "เด็กดี,"
+        },
+        {
+          "Line": 110,
+          "OriginalText": " good kid!",
+          "TranslatedText": " เด็กดี!"
+        },
+        {
+          "Line": 114,
+          "OriginalText": " Goes to bed early!",
+          "TranslatedText": " เข้านอนเร็ว!\n"
+        },
+        {
+          "Line": 118,
+          "OriginalText": "\nIt\u0027s already sleepy time.",
+          "TranslatedText": "ถึงเวลานอนแล้ว."
+        },
+        {
+          "Line": 128,
+          "OriginalText": "\nSee you tomorrow!",
+          "TranslatedText": "\nแล้วเจอกันพรุ่งนี้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0003",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "Good kid!",
+          "TranslatedText": "เด็กดี!"
+        },
+        {
+          "Line": 141,
+          "OriginalText": " Good kid!",
+          "TranslatedText": " เด็กดี!"
+        },
+        {
+          "Line": 145,
+          "OriginalText": " Gets up early!",
+          "TranslatedText": " ตื่นเช้า!"
+        },
+        {
+          "Line": 149,
+          "OriginalText": "\nI have a favor to ask you! ",
+          "TranslatedText": "\nฉันมีเรื่องอยากจะถามคุณ! "
+        },
+        {
+          "Line": 153,
+          "OriginalText": "Come with me!",
+          "TranslatedText": "มากับฉัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0004",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "I sometimes see it in my dreams. ",
+          "TranslatedText": "บางครั้งฉันก็เห็นมันในความฝัน. "
+        },
+        {
+          "Line": 166,
+          "OriginalText": "\nDo you think that a long time ago people\nused to live in the sky?",
+          "TranslatedText": "\nคุณคิดว่าเมื่อนานมาแล้วคนเราเคยอยู่บนท้องฟ้า?\n"
+        },
+        {
+          "Line": 170,
+          "OriginalText": " I think so...",
+          "TranslatedText": " ฉันคิดอย่างนั้น..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0005",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "Hey, mister!",
+          "TranslatedText": "เฮ้ คุณ!"
+        },
+        {
+          "Line": 183,
+          "OriginalText": " Just once in my life, I want\nto see ",
+          "TranslatedText": " แค่ครั้งเดียวในชีวิตฉันอยากเห็น "
+        },
+        {
+          "Line": 187,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 190,
+          "OriginalText": " float right up into the\nsky!\nIf you\u0027ll help me realize my ",
+          "TranslatedText": " ลอยขึ้นสู่ท้องฟ้า!\nหากคุณช่วยให้ "
+        },
+        {
+          "Line": 194,
+          "OriginalText": "balloon",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 197,
+          "OriginalText": "\ndream,",
+          "TranslatedText": "\nในฝันฉันมันเป็นจริง,"
+        },
+        {
+          "Line": 201,
+          "OriginalText": " I\u0027ll give you a treasure I got\nfrom the sky as thanks!",
+          "TranslatedText": " ฉันจะให้\nสมบัติที่ฉันได้มาจากท้องฟ้า เพื่อขอบคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0006",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "The weather\u0027s so bad you can\u0027t even\nsee the sky!",
+          "TranslatedText": "สภาพอากาศเลวร้ายมากจนมองไม่เห็นท้องฟ้า!\n"
+        },
+        {
+          "Line": 222,
+          "OriginalText": " Hey, listen to me, mister!",
+          "TranslatedText": " เฮ้, ฟังฉันก่อนนะ.คุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0007",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "Thank you!",
+          "TranslatedText": "ขอบคุณ!"
+        },
+        {
+          "Line": 235,
+          "OriginalText": " Now put some ",
+          "TranslatedText": " ตอนนี้ใส่ "
+        },
+        {
+          "Line": 242,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูนบางส่วน"
+        },
+        {
+          "Line": 246,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 249,
+          "OriginalText": "onto\na barrel",
+          "TranslatedText": "ลงถัง"
+        },
+        {
+          "Line": 253,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 256,
+          "OriginalText": "and make it float up high!",
+          "TranslatedText": "และทำให้ลอยขึ้นสูง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0009",
+      "TextList": [
+        {
+          "Line": 265,
+          "OriginalText": "You brought me ",
+          "TranslatedText": "คุณเอา "
+        },
+        {
+          "Line": 272,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 276,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 279,
+          "OriginalText": "in this rain?",
+          "TranslatedText": "มาให้ฉันท่ามกลางสายฝนนี้?"
+        },
+        {
+          "Line": 283,
+          "OriginalText": "\nWhat a nice guy!",
+          "TranslatedText": "\nช่างเป็นคนดีจัง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0010",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "Yaaaaay!",
+          "TranslatedText": "ใช่!"
+        },
+        {
+          "Line": 296,
+          "OriginalText": " You brought me ",
+          "TranslatedText": " คุณนำ "
+        },
+        {
+          "Line": 300,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 303,
+          "OriginalText": "!\n",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 307,
+          "OriginalText": "What a guy!\n\nYou should tie those ",
+          "TranslatedText": "มาให้ฉัน คนอะไรเนี้ย!\nคุณควรผูก "
+        },
+        {
+          "Line": 311,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูนเหล่านั้น\n"
+        },
+        {
+          "Line": 314,
+          "OriginalText": " on to that\nbarrel and make it soar into the sky!",
+          "TranslatedText": " ไปที่ถังนั้นและทำให้มันทะยานขึ้นสู่ท้องฟ้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0012",
+      "TextList": [
+        {
+          "Line": 323,
+          "OriginalText": "I want to visit the land in the sky by\n",
+          "TranslatedText": "ฉันต้องการไปเยือนดินแดนบนท้องฟ้าโดย\n"
+        },
+        {
+          "Line": 327,
+          "OriginalText": "balloon",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 330,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 334,
+          "OriginalText": " Then, I\u0027m going to ride a really\nbig bird. Yep, that\u0027s my dream!\n",
+          "TranslatedText": " จากนั้นฉันจะขี่จริงๆ\nนกตัวใหญ่. ใช่นั่นคือความฝันของฉัน!\n"
+        },
+        {
+          "Line": 340,
+          "OriginalText": "Thank you, mister!",
+          "TranslatedText": "ขอบคุณ!"
+        },
+        {
+          "Line": 344,
+          "OriginalText": " This is a ",
+          "TranslatedText": " มันคือ "
+        },
+        {
+          "Line": 348,
+          "OriginalText": "treasure",
+          "TranslatedText": "สมบัติ"
+        },
+        {
+          "Line": 351,
+          "OriginalText": "\nfrom the sky! ",
+          "TranslatedText": "\nจากท้องฟ้า! "
+        },
+        {
+          "Line": 355,
+          "OriginalText": "Here, take it!",
+          "TranslatedText": "นี่เอาไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0013",
+      "TextList": [
+        {
+          "Line": 364,
+          "OriginalText": "Floaty!",
+          "TranslatedText": "ลอย!"
+        },
+        {
+          "Line": 368,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 372,
+          "OriginalText": "Balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 375,
+          "OriginalText": " soaring high in the sky!",
+          "TranslatedText": " ทะยานขึ้นสู่ท้องฟ้า!"
+        },
+        {
+          "Line": 379,
+          "OriginalText": "\nFly up and away to the land in the\nclouds!",
+          "TranslatedText": "\nบินขึ้นและออกไปยังดินแดนในเมฆ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0014",
+      "TextList": [
+        {
+          "Line": 388,
+          "OriginalText": "Aww... ",
+          "TranslatedText": "อ๊ะ... "
+        },
+        {
+          "Line": 392,
+          "OriginalText": "You\u0027ve popped the",
+          "TranslatedText": "คุณเคยทำ"
+        },
+        {
+          "Line": 396,
+          "OriginalText": " balloon ",
+          "TranslatedText": " บอลลูน "
+        },
+        {
+          "Line": 399,
+          "OriginalText": "of my\ndreams.",
+          "TranslatedText": "ในความฝันของฉัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_0018",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "The barrel is quite heavy!",
+          "TranslatedText": "ถังค่อนข้างหนัก!"
+        },
+        {
+          "Line": 407,
+          "OriginalText": " If you don\u0027t\nhave at least a few ",
+          "TranslatedText": " หากคุณไม่มีอย่างน้อย "
+        },
+        {
+          "Line": 411,
+          "OriginalText": "balloons",
+          "TranslatedText": "บอลลูน"
+        },
+        {
+          "Line": 414,
+          "OriginalText": ", it might be\nhard to make it soar into the sky...",
+          "TranslatedText": ", มันอาจจะยากที่จะทำให้มันทะยานสู่ท้องฟ้า..."
+        }
+      ]
+    }
+  ]
+}

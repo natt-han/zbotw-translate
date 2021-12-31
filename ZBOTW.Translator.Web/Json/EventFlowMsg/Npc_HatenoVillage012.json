@@ -1,0 +1,910 @@
+{
+  "FileName": "Npc_HatenoVillage012",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Nothing of interest?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Mount Lanayru?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Sorry.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Spring of Wisdom?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Time for a breather...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Gotta get workin\u0027...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near04",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Hup! There we go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near05",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Zzzrrnnngh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near06",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "\u266AAt Mount Lanayru...\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near07",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "\u266ASpring of Wisdom...\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near08",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "\u266AGoddess attendants...\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 73,
+          "OriginalText": "Hey! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": "Traveler, right? I could tell.\n\n\nWell, there\u0027s not a whole lot to see\nin this village, but knock yourself out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 89,
+          "OriginalText": "Well... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": "\u0022Nothing\u0022 might be going a little\nbit overboard...\n\nWe do have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "dye shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": ". I don\u0027t think \nthey have one of those in other towns.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "Say, isn\u0027t that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": " \nIsn\u0027t that Grandma Purah\u0027s?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": "Her house ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "isn\u0027t near here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": " It\u0027s way on\nthe eastern edge of the village.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "Well, see ya.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "Yeah, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": "\u0027s interesting...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 165,
+          "OriginalText": "\n\n\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 172,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "the princess of \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": "Hyrule",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": " used for",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": " purification is said to\nbe somewhere on that mountain.\nA special fountain? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": "That the princess\nhad to endure hardship to visit?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 198,
+          "OriginalText": " I bet \nthe royal family left a treasure there!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "...Well,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": " at least maybe they could\u0027ve.\nI would\u0027ve if I was royal.\n\nAnyway, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": " is a mysterious\nplace, and it\u0027s engulfed in ice.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "\nIf there IS treasure, no one\u0027s getting it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": "It belongs to the \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "director ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": "at the research center, right?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "research center",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": " isn\u0027t near here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 269,
+          "OriginalText": "\nIt\u0027s way on the east side of the village.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 278,
+          "OriginalText": "We also have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": " way up to\nthe north. See it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "if you have some time to kill,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 309,
+          "OriginalText": "\nfeel free to have a look around up there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 318,
+          "OriginalText": "*yawn* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 322,
+          "OriginalText": "Hm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 331,
+          "OriginalText": "Hm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "Hey, you\u0027re out early.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "Hey, how are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "Good evenin\u0027 there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "You need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 394,
+          "OriginalText": "Ask anyone what the most famous\nmountain visible",
+          "TranslatedText": null
+        },
+        {
+          "Line": 398,
+          "OriginalText": " from Hateno Village is,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 402,
+          "OriginalText": "\nand they\u0027ll tell you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": null
+        },
+        {
+          "Line": 409,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "So, yeah...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": " Not sure if any of that\ninformation was actually useful...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "Oh, hey!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": " Traveler, right?\n\n\nWelcome! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 439,
+          "OriginalText": "Or that\u0027s what I WOULD say...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 443,
+          "OriginalText": "\nThis is a pretty abnormal hour for\nofficial welcoming, though.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 459,
+          "OriginalText": " I guess it\u0027s OK this time, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": "\nI don\u0027t really have any welcome gossip...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 473,
+          "OriginalText": "No real \u0022talk of the town,\u0022 per se...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": "\nI guess I could give my personal \nhighlights?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "\nI guess if I had to name attractions...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 485,
+          "OriginalText": "\nI\u0027m partial to the funny-talking guy at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": "dye shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": " or ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 499,
+          "OriginalText": "Mr. Seldon\u0027s running...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "Guess a running man isn\u0027t an attraction...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": "\nOh, but we have a view of that famous\nmountain to the north, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 540,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 547,
+          "OriginalText": "is a place where\nthe princesses of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 551,
+          "OriginalText": "Hyrule Castle ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 554,
+          "OriginalText": "used to\ngo to do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 558,
+          "OriginalText": "some kind of ceremony. \nNo idea exactly what kind of ceremony, \nbut",
+          "TranslatedText": null
+        },
+        {
+          "Line": 562,
+          "OriginalText": " anyway, it\u0027s not a place where us\nordinary folk go. No princesses here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 571,
+          "OriginalText": "I\u0027m the guy that works the field,\nobviously. Sometimes, the crops yield\nmore than I need to feed myself.\nWhen that happens, I harvest all the\nproduce",
+          "TranslatedText": null
+        },
+        {
+          "Line": 575,
+          "OriginalText": " and send it over to Mr. Pruce\u0027s\nplace, East Wind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 584,
+          "OriginalText": "You can probably tell, but I\u0027m checking\nthe reservoir... Irrigation, you know?\n\nIf you don\u0027t keep an eye on the water\nflow,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": " the crops can drown.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 597,
+          "OriginalText": "Sometimes, I can\u0027t help but watch my\nsweet little daughter sleep at night.\nDreaming her dreams...\nGuess you\u0027d have to be a parent to\nunderstand. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 606,
+          "OriginalText": "But lemme tell you, it sure\nleaves me sleepy in the morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 615,
+          "OriginalText": "Anything else you want to ask me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 642,
+          "OriginalText": "Awwwww...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 654,
+          "OriginalText": "I\u0027ll stay up and watch my daughter sleep...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 669,
+          "OriginalText": "Guess it\u0027s time to knock off for the day...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 684,
+          "OriginalText": "\u266AAnother day of work!\u266A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 688,
+          "OriginalText": "Yup...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 703,
+          "OriginalText": "\u266ARain or shine, do that work for my daughter.\u266A\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 707,
+          "OriginalText": "Guess that\u0027s life, and not a bad one.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 722,
+          "OriginalText": "\u266AIf it rains, I\u0027ll go to the reservoir.\u266A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": "I guess...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 738,
+          "OriginalText": "...Uh-oh.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 742,
+          "OriginalText": " Someone heard me talking to\nmyself. Oh, well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 751,
+          "OriginalText": "If you want to talk,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 755,
+          "OriginalText": " come find me when\nI get settled. Not a good walk-and-talker.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 764,
+          "OriginalText": "If you need to talk to me,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 768,
+          "OriginalText": " just give me\na chance to park myself, OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": "\nI think better when I\u0027m not moving.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 781,
+          "OriginalText": "...Oops, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 785,
+          "OriginalText": "someone heard me singing...\nbadly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 794,
+          "OriginalText": "Uh-oh,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 798,
+          "OriginalText": " you again.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

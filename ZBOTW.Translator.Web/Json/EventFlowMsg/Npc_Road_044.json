@@ -1,0 +1,1530 @@
+{
+  "FileName": "Npc_Road_044",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I want to buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I want to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Sounds good.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of \u0027em.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "URP!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": " Yeesh, holding my breath isn\u0027t\nworking at all...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Monsters!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 66,
+          "OriginalText": " Maybe I should try throwing\na hard ingredient at them...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "What would you like to sell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Hmm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": "I can offer you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 94,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": " Got anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "Thanks! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "If you have anything else,\nlet me know and I\u0027ll buy it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": " I can buy more, if you want.\nSo how about it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "You\u0027re a great customer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 154,
+          "OriginalText": " If there\u0027s \nanything else you wanna sell,\njust say the word.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "I see, I see.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "I\u0027ll buy anything!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Did you want me to buy something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Do you have anything you wanna sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "I\u0027ll buy anything!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": " Really, I mean it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 187,
+          "OriginalText": "What do you want to buy?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": " Sorry!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": " I\u0027m all out at the moment.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 213,
+          "OriginalText": "HUH? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 217,
+          "OriginalText": "Rupees...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": " You don\u0027t seem to \nhave enough of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 230,
+          "OriginalText": "Your pouch is full.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": " You\u0027ll have to sell or\ndiscard some of your stuff.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 238,
+          "OriginalText": "Excellent choice! So wanna buy it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": " Really!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 286,
+          "OriginalText": "Thank you so much.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "Take a good look! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": "Every item is\ntop of the line!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "I\u0027d love to buy that!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": " How many will you\nsell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 320,
+          "OriginalText": "Let\u0027s go with",
+          "TranslatedText": null
+        },
+        {
+          "Line": 327,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 341,
+          "OriginalText": ".\nThat OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 362,
+          "OriginalText": " Sorry, I can\u0027t buy that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 371,
+          "OriginalText": "I\u0027m happy to buy clothes from you but...\nnot ones you\u0027re currently wearing.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 380,
+          "OriginalText": "When the weather\u0027s bad, I gotta sell my\nbest goods to make up for it...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 384,
+          "OriginalText": " Like this!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 388,
+          "OriginalText": "Goron spice ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "is super rare!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "So...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 404,
+          "OriginalText": " That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "Great choice! How many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "Only one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": " How about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 467,
+          "OriginalText": "All of them?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": " Of course!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 475,
+          "OriginalText": "\nSo for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": ", that\u0027ll be\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 491,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 503,
+          "OriginalText": "You\u0027re gonna sell all of \u0027em?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "\nOK, so for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 512,
+          "OriginalText": ", that\u0027ll be\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 523,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 540,
+          "OriginalText": "Whoa! I\u0027m all sold out!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": "\nGlad you like my ingredients!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 553,
+          "OriginalText": "Oh, sorry! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 557,
+          "OriginalText": "I\u0027m actually closed for the day.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 561,
+          "OriginalText": "\nIf you want, I can show you the list of\ningredients I\u0027m looking to restock.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 573,
+          "OriginalText": "Only one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 577,
+          "OriginalText": " That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 585,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 605,
+          "OriginalText": "You... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 609,
+          "OriginalText": "Are you OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 613,
+          "OriginalText": " I just about died\nof fright out there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 622,
+          "OriginalText": "I\u0027m so scared I could cry!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 626,
+          "OriginalText": " Goodness!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 635,
+          "OriginalText": "I\u0027m the traveling chef! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 639,
+          "OriginalText": "And don\u0027t you\nforget it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 648,
+          "OriginalText": "It\u0027s after us! Ruuuun!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_00",
+      "TextList": [
+        {
+          "Line": 657,
+          "OriginalText": "Are you looking for the traveling chef\ncalled Stamm?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 661,
+          "OriginalText": " It\u0027s your lucky day!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 665,
+          "OriginalText": "\nHe is me! Ha ha ha!\nI\u0027m currently looking for the ultimate\ningredients ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 669,
+          "OriginalText": "from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 673,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 676,
+          "OriginalText": "\nto ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 680,
+          "OriginalText": "Tarrey Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 683,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_00_1",
+      "TextList": [
+        {
+          "Line": 692,
+          "OriginalText": "I\u0027m looking for the ultimate ingredients",
+          "TranslatedText": null
+        },
+        {
+          "Line": 696,
+          "OriginalText": "\nfrom ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 700,
+          "OriginalText": "South Akkala Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 703,
+          "OriginalText": "to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 707,
+          "OriginalText": "Tarrey Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 710,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_01",
+      "TextList": [
+        {
+          "Line": 719,
+          "OriginalText": "When people call for the traveling chef,\nStamm appears!! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "Whoopsie, did I just\ncall for myself? Ha ha ha!\nWhat I\u0027m trying to do is create a dish\nthat anyone would desperately crave\nwhether they know it or not.\nFor example, if they\u0027re feeling sluggish,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": "\ncourser bee honey and an apple are just\nthe ticket.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_01_1",
+      "TextList": [
+        {
+          "Line": 736,
+          "OriginalText": "If you\u0027re feeling sluggish,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 740,
+          "OriginalText": "\ncourser bee honey and an\napple are just the ticket.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_02",
+      "TextList": [
+        {
+          "Line": 749,
+          "OriginalText": "I\u0027m the traveling chef,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 753,
+          "OriginalText": " Stamm!\n\n\nMeat dishes give you loads of energy!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 757,
+          "OriginalText": "\nAnd fish dishes are just plain special!\n\nTake advantage of each ingredient when \ncooking so you can make what your body\nneeds most!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_02_1",
+      "TextList": [
+        {
+          "Line": 766,
+          "OriginalText": "Meat dishes are a great pick-me-up! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 770,
+          "OriginalText": "\nFish dishes are yummy and special!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 774,
+          "OriginalText": "\nThese are good things to keep in mind!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_03",
+      "TextList": [
+        {
+          "Line": 783,
+          "OriginalText": "You\u0027re an adventurer, aren\u0027t you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 787,
+          "OriginalText": "\nWell then! You need to stock up\non some healthy foods! \nThink about it\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": "when you\u0027re in the\nmiddle of nowhere, there aren\u0027t a lot of\nshops selling quality ingredients.\nI\u0027m willing to guess you don\u0027t have\ncooks that follow you around making you\ntasty treats. Nail on the head, hm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_03_1",
+      "TextList": [
+        {
+          "Line": 800,
+          "OriginalText": "If you were my kid, I\u0027d worry endlessly\nabout your health. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 804,
+          "OriginalText": "Oh, but one glance at\nyour face tells me how you\u0027re doing...\nYou\u0027re so-so right now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 808,
+          "OriginalText": " But you can\ndo better! Ha ha ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_04",
+      "TextList": [
+        {
+          "Line": 817,
+          "OriginalText": "I\u0027m the traveling chef, Stamm! I may\nsound a tad arrogant,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 821,
+          "OriginalText": " but I\u0027m very\nimportant, so what can be done?\nThey say that hunger is the best sauce...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 825,
+          "OriginalText": "\nor is it love? I forget.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 831,
+          "OriginalText": "But that means us cooks will never be\nbetter than a starving chef or a fool\nin love. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 835,
+          "OriginalText": "I think that\u0027s bogus!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Ichika_04_1",
+      "TextList": [
+        {
+          "Line": 844,
+          "OriginalText": "They say that hunger is the best sauce...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 848,
+          "OriginalText": "\nor it might have been love, I dunno.\n\nRegardless, I intend to make people say\nnothing can compete with Stamm\u0027s food!\nI won\u0027t stop until I succeed!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 857,
+          "OriginalText": "Mushrooms for aroma...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 866,
+          "OriginalText": "Meat for power...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 875,
+          "OriginalText": "Fish for nutrition...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 884,
+          "OriginalText": "Fruit for dessert...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 888,
+          "OriginalText": "I don\u0027t wanna get wet...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 897,
+          "OriginalText": "To make the ultimate dish, I\u0027m looking for\nthe best ingredients.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 901,
+          "OriginalText": " \n\nThat\u0027s why I go back and forth between \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 905,
+          "OriginalText": "South Akkala Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 908,
+          "OriginalText": "and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 912,
+          "OriginalText": "Tarrey Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 915,
+          "OriginalText": "!\nI sell stuff too, so hit me up anytime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 924,
+          "OriginalText": "The rain helps grow lots of green plants!\nGreen plants help animals, and all of\nthat helps me too!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 930,
+          "OriginalText": "My dishes help people, and the money\nI get from selling them helps me more!\nIt\u0027s a beautiful world, ha ha ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 939,
+          "OriginalText": "I don\u0027t want to get my ingredients wet...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 943,
+          "OriginalText": "\nMaybe I\u0027ll just stay here until the rain \nclears up!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_00",
+      "TextList": [
+        {
+          "Line": 952,
+          "OriginalText": "I\u0027m the traveling chef, Stamm! I believe\neverything is an ingredient waiting\nto happen.\nHowever, in reality, it\u0027s not always that\nsimple.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 956,
+          "OriginalText": " If I tried to stew a leather shoe\nand serve it, I bet it wouldn\u0027t go well.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 962,
+          "OriginalText": "Even so, I\u0027m not giving up! ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_00_1",
+      "TextList": [
+        {
+          "Line": 971,
+          "OriginalText": "When you use bugs and monster parts\nto cook, what you end up with are elixirs.\n\nChefs don\u0027t usually deal with bugs.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 975,
+          "OriginalText": "\nThat\u0027s perfect for someone like me\nwho\u0027s terrified of them!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_01",
+      "TextList": [
+        {
+          "Line": 984,
+          "OriginalText": "Just south of this road, you\u0027ll find\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 988,
+          "OriginalText": "Lake Akkala",
+          "TranslatedText": null
+        },
+        {
+          "Line": 991,
+          "OriginalText": "! It\u0027s great!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1000,
+          "OriginalText": " Oh, whoa.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1004,
+          "OriginalText": "\nI\u0027m not talking about the view.\nI\u0027m talking about the ingredients that are\nswimming in the lake. I mean, come on.\nYou can\u0027t eat a view, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1013,
+          "OriginalText": " Ha ha ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_01_1",
+      "TextList": [
+        {
+          "Line": 1025,
+          "OriginalText": "Lake Akkala ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1028,
+          "OriginalText": "has great ingredients just\nswimming around in all their glory\nand deliciousness!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1032,
+          "OriginalText": "\nThere are also ingredients that grow\nthere, and those that have fallen there,\nand those that fly around there...\nTo me, the world is a giant market!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_02",
+      "TextList": [
+        {
+          "Line": 1041,
+          "OriginalText": "I\u0027m the traveling chef, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1045,
+          "OriginalText": "\nI\u0027m not always traveling.\n\nThere are times when I need to take a\nbreak from life on the road.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1051,
+          "OriginalText": "Taking a nap at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1055,
+          "OriginalText": "Lake Akkala ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1058,
+          "OriginalText": "to the east\nsounds nice...but I have customers\nwaiting at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1062,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1065,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1074,
+          "OriginalText": " Ha ha ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_02_1",
+      "TextList": [
+        {
+          "Line": 1083,
+          "OriginalText": "Today I go from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1087,
+          "OriginalText": "Lake Akkala ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1090,
+          "OriginalText": "to the east\nto ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1094,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1097,
+          "OriginalText": ", to the west!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1101,
+          "OriginalText": "\nSuch is the life of a traveling chef!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_03",
+      "TextList": [
+        {
+          "Line": 1110,
+          "OriginalText": "I can\u0027t seem to make the dishes I picture\nin my head...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1114,
+          "OriginalText": " Blah, what happened to\nmy inspiration?!\nAt times like this, I always say...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1118,
+          "OriginalText": "\nnothing beats eating a delicious meal!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1124,
+          "OriginalText": "It not only heals your heart and soul,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1128,
+          "OriginalText": "\nit can also make you heat, cold, shock,\nor fire resistant! Or even stealthier!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1134,
+          "OriginalText": "Dishes are the best!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1138,
+          "OriginalText": " Thanks to cooking,\nI can move forward in life! I\u0027m so glad I\nbecame a cook in this crazy world. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1142,
+          "OriginalText": "Ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_03_1",
+      "TextList": [
+        {
+          "Line": 1151,
+          "OriginalText": "When you don\u0027t know what to do,\njust eat!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1155,
+          "OriginalText": " Oh, and also eat when you\u0027re\nhungry. That\u0027s important too.\nIt not only heals your heart and soul,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1159,
+          "OriginalText": "\nit can also make you heat, cold, shock,\nor fire resistant!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1165,
+          "OriginalText": "Wow, the dishes that exist in this world\nare really amazing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_04",
+      "TextList": [
+        {
+          "Line": 1174,
+          "OriginalText": "I\u0027m the traveling chef, Stamm!\n\n\nI\u0027m hunting for ingredients from north of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1178,
+          "OriginalText": "Lake Akkala ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1181,
+          "OriginalText": "to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1185,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1188,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Ichika_04_1",
+      "TextList": [
+        {
+          "Line": 1197,
+          "OriginalText": "I\u0027m selling the ingredients I find when\nI go back and forth from north of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1201,
+          "OriginalText": "Lake Akkala ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1204,
+          "OriginalText": "to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1208,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1211,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1215,
+          "OriginalText": "\nThey\u0027re all top quality ingredients!\nNaturally!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1224,
+          "OriginalText": "Wow!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1228,
+          "OriginalText": " Thanks for the help!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1237,
+          "OriginalText": "Thanks for helping me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1246,
+          "OriginalText": "Wow!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1250,
+          "OriginalText": " Thanks for the help!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1254,
+          "OriginalText": "\nReally, thanks so much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1263,
+          "OriginalText": "Monsters are too scary!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1267,
+          "OriginalText": " Thank you for\nhelping me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1276,
+          "OriginalText": "I barely made it out alive!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1285,
+          "OriginalText": "How dare those nasty monsters come\nafter my ingredients!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1289,
+          "OriginalText": " Thanks to you,\nmy livelihood is safe!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1298,
+          "OriginalText": "Hey now! Why not take a quick look\nat the ingredients I\u0027ve gathered, eh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1302,
+          "OriginalText": "\nThey\u0027re all fresh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1320,
+          "OriginalText": "Do you need anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1338,
+          "OriginalText": "Consider this a thank-you. Go on,\nno need to be modest!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

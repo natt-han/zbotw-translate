@@ -1,0 +1,370 @@
+{
+  "FileName": "Npc_TamourHatago003",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Sounds yummy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Here ya go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Welcome!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 42,
+          "OriginalText": "Helloooo!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 46,
+          "OriginalText": "\n\n\nWelcome to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 50,
+          "OriginalText": "East Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": "!\nThe premiere stable of the east!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "See you around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "By the way, good sir...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "The outside is crunchy while the inside\nis chewy.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 84,
+          "OriginalText": " Take one bite, and your ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": "energy\nwill go through the roof",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": "!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "Go on! Try one of our ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "Akkala buns",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 108,
+          "OriginalText": "\nThey\u0027re a delicacy straight from\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "East Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 132,
+          "OriginalText": "Thank you soooo much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 141,
+          "OriginalText": "Welcome!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "Oh, one thing to note... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 157,
+          "OriginalText": "Akkala buns",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "\ngo bad fast since they\u0027re made of\nfresh ingredients.\nSo you\u0027ll have to eat it here, that way we\ncan ensure its quality. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "That OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "10 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": ", please!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "Heheh, thanks for your business!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\nNow then, close your eyes and open\nyour mouth ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": "wiiiiiiiiiiiide...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 225,
+          "OriginalText": "Come back soon!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "Ohhh, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": "good sir...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": " I\u0027m sorry, but you don\u0027t\nhave enough rupees!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 251,
+          "OriginalText": "Now just",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": " MUNCH \u0027N\u0027 CRUNCH!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "And down the hatch it goes...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "So how was it?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": " Amazing, right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "Care to buy an ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "Akkala bun",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "Hm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 312,
+          "OriginalText": "That\u0027s odd.\n\n\nYour ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": "energy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "didn\u0027t ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": "go through the roof",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

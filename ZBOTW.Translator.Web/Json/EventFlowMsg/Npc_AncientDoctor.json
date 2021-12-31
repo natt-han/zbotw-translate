@@ -1,0 +1,3140 @@
+{
+  "FileName": "Npc_AncientDoctor",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "That\u0027s right.",
+          "TranslatedText": "ถูกต้อง"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bye.",
+          "TranslatedText": "บาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I didn\u0027t read it.",
+          "TranslatedText": "ไม่ได้อ่าน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I read it.",
+          "TranslatedText": "อ่านแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Who are you?",
+          "TranslatedText": "เธอเป็นใคร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Something good?",
+          "TranslatedText": "มีเรื่องดีเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Sheikah Sensor.",
+          "TranslatedText": "Sheikah Sensor."
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Remote Bomb.",
+          "TranslatedText": "Remote Bomb."
+        }
+      ]
+    },
+    {
+      "EntryName": "0015",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Stasis.",
+          "TranslatedText": "Stasis."
+        }
+      ]
+    },
+    {
+      "EntryName": "0016",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Ancient materials!",
+          "TranslatedText": "Ancient materials!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0017",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Tell me more.",
+          "TranslatedText": "เล่าต่อสิ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0020",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Snap...",
+          "TranslatedText": "Snap..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0021",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "How does it change?",
+          "TranslatedText": "มันจะเปลี่ยนไปยังไง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0022",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "I\u0027ll pick another one.",
+          "TranslatedText": "ขอเลือกอันอื่น"
+        }
+      ]
+    },
+    {
+      "EntryName": "0023",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "I won\u0027t do it.",
+          "TranslatedText": "ไม่เอาดีกว่า"
+        }
+      ]
+    },
+    {
+      "EntryName": "0024",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "Yes!",
+          "TranslatedText": "ใช่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0027",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Impa is...",
+          "TranslatedText": "Impa เป็น..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0028",
+      "TextList": [
+        {
+          "Line": 76,
+          "OriginalText": "What is this place?",
+          "TranslatedText": "ที่นี่คืออะไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0029",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "That makes sense.",
+          "TranslatedText": "มีเหตุผล"
+        }
+      ]
+    },
+    {
+      "EntryName": "0031",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "I see.",
+          "TranslatedText": "งั้นเหรอ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0032",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "I never knew.",
+          "TranslatedText": "ไม่เคยรู้เลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0033",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "Hmm...",
+          "TranslatedText": "หืมม..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0034",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "That\u0027s crazy.",
+          "TranslatedText": "บ้าไปแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0035",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "Ancient materials?",
+          "TranslatedText": "Ancient materials?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0036",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "Who\u0027s Robbie?",
+          "TranslatedText": "ใครคือ Robbie?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0037",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "Snap!",
+          "TranslatedText": "Snap!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0038",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Yes.",
+          "TranslatedText": "ใช่"
+        }
+      ]
+    },
+    {
+      "EntryName": "0039",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Not yet.",
+          "TranslatedText": "ยังก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0040",
+      "TextList": [
+        {
+          "Line": 120,
+          "OriginalText": "I\u0027m game.",
+          "TranslatedText": "จบแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "LookPicture",
+      "TextList": [
+        {
+          "Line": 132,
+          "OriginalText": "Hm? ",
+          "TranslatedText": "หืม? "
+        },
+        {
+          "Line": 136,
+          "OriginalText": "My, who IS this beautiful\nyoung creature?",
+          "TranslatedText": "สาวน้อยแสนสวย\nนี่เป็นใครกันเนี่ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "Fascinating...",
+          "TranslatedText": "น่าสนใจ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "Dangerous...",
+          "TranslatedText": "อันตราย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "A Remote Bomb, eh...",
+          "TranslatedText": "Remote Bomb งั้นเหรอ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 164,
+          "OriginalText": "That won\u0027t work on me!",
+          "TranslatedText": "ใช้กับฉันไม่ได้ผลหรอกนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Huh...",
+          "TranslatedText": "Huh..."
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "\u266AHmm...\u266A",
+          "TranslatedText": "\u266AHmm...\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 184,
+          "OriginalText": "Hello.",
+          "TranslatedText": "สวัสดี"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 193,
+          "OriginalText": "Good evening.",
+          "TranslatedText": "สวัสดีตอนเย็น"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 206,
+          "OriginalText": "director ",
+          "TranslatedText": "director "
+        },
+        {
+          "Line": 212,
+          "OriginalText": "is in the back.",
+          "TranslatedText": "อยู่ด้านหลังแน่ะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 221,
+          "OriginalText": "It seems most of your wounds healed\nduring the ",
+          "TranslatedText": "ดูเหมือนว่าบาดแผลส่วนใหญ่จะหายแล้ว\nในระหว่างการ "
+        },
+        {
+          "Line": 225,
+          "OriginalText": "Slumber of Restoration",
+          "TranslatedText": "Slumber of Restoration"
+        },
+        {
+          "Line": 228,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 232,
+          "OriginalText": "\nAnywaaaay...",
+          "TranslatedText": "\nแต่ว่าน้าาา..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "Hm, I see your scars from 100 years ago\nhave mostly healed.",
+          "TranslatedText": "ดูเหมือนว่าแผลเป็นส่วนใหญ่จากเมื่อ 100 ปีก่อน\nจะหายแล้ว"
+        },
+        {
+          "Line": 245,
+          "OriginalText": " In any caaaase...",
+          "TranslatedText": " แต่อย่างไรก็เถอะน้าาา..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "I think you should go see Impa first.",
+          "TranslatedText": "ฉันคิดว่านายควรจะไปเจอ Impa ก่อน"
+        },
+        {
+          "Line": 258,
+          "OriginalText": "\nBut if you\u0027re saying you already have\nsome ",
+          "TranslatedText": "\nแต่ถ้านายบอกว่ามี\n"
+        },
+        {
+          "Line": 262,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 265,
+          "OriginalText": "...\nThen why don\u0027t we go ahead and\n",
+          "TranslatedText": "อยู่แล้ว...\nงั้นทำไมเราไม่มาทำการ\n"
+        },
+        {
+          "Line": 269,
+          "OriginalText": "power up ",
+          "TranslatedText": "เพิ่มพลังให้ "
+        },
+        {
+          "Line": 272,
+          "OriginalText": "your ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 276,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 279,
+          "OriginalText": "?",
+          "TranslatedText": "ของนายกันเลยล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "All Sheikah Slate runes have now\nbeen deleted.",
+          "TranslatedText": "Sheikah Slate rune ทั้งหมดถูกลบแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "This is the ",
+          "TranslatedText": "ที่นี่คือ "
+        },
+        {
+          "Line": 309,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": "Hateno Ancient Tech Lab"
+        },
+        {
+          "Line": 312,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 316,
+          "OriginalText": "\nDo you have some business with\nthe ",
+          "TranslatedText": "\nมีธุระกับ\n"
+        },
+        {
+          "Line": 320,
+          "OriginalText": "director",
+          "TranslatedText": "director"
+        },
+        {
+          "Line": 323,
+          "OriginalText": "?",
+          "TranslatedText": "งั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "Oh.",
+          "TranslatedText": "อ้อ"
+        },
+        {
+          "Line": 344,
+          "OriginalText": " I see...",
+          "TranslatedText": " งั้นเหรอ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 353,
+          "OriginalText": "Hey!",
+          "TranslatedText": "เฮ้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "Good morning.",
+          "TranslatedText": "อรุณสวัสดิ์"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 371,
+          "OriginalText": "Liar.",
+          "TranslatedText": "โกหก"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 380,
+          "OriginalText": "You read it...didn\u0027t you?",
+          "TranslatedText": "อ่านแล้วใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 397,
+          "OriginalText": "Don\u0027t lie!",
+          "TranslatedText": "อย่ามาโกหา!"
+        },
+        {
+          "Line": 401,
+          "OriginalText": " I know just what\u0027s going on!\n\n\n",
+          "TranslatedText": " ฉันรู้นะว่าเกิดอะไรขึ้น!\n"
+        },
+        {
+          "Line": 407,
+          "OriginalText": "Liars like you deserve to be punished!",
+          "TranslatedText": "คนโกหกสมควรถูกลงโทษ!"
+        },
+        {
+          "Line": 411,
+          "OriginalText": "\nSwitch ON!",
+          "TranslatedText": "\nเดินเครื่อง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "Well, I commend your honesty.",
+          "TranslatedText": "ขอชื่นชนในความซื่อสัตย์นะ"
+        },
+        {
+          "Line": 424,
+          "OriginalText": " Still, it is\nnever acceptable to rummage through a\nyoung lady\u0027s private musings!",
+          "TranslatedText": " แต่ว่า\nมันการที่มายุ่งกับของส่วนตัวของสาวน้อย\nมันก็ยังเป็นเรื่องยอมรับไม่ได้อยู่ดี!"
+        },
+        {
+          "Line": 428,
+          "OriginalText": " Got it?!\n",
+          "TranslatedText": " เข้าใจมั้ย?!\n"
+        },
+        {
+          "Line": 434,
+          "OriginalText": "Naturally, you shall be punished for that.",
+          "TranslatedText": "เพราะงั้นนายสมควรโดนลงโทษ"
+        },
+        {
+          "Line": 438,
+          "OriginalText": "\nSwitch ON!",
+          "TranslatedText": "\nเดินเครื่อง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 447,
+          "OriginalText": "I completely deleted",
+          "TranslatedText": "ฉันทำการลบ"
+        },
+        {
+          "Line": 451,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 454,
+          "OriginalText": "the data on your\n",
+          "TranslatedText": "ข้อมูลทั้งหมดบน\n"
+        },
+        {
+          "Line": 458,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 461,
+          "OriginalText": ".",
+          "TranslatedText": "ของนายแล้ว"
+        },
+        {
+          "Line": 465,
+          "OriginalText": " Go on, take a look!",
+          "TranslatedText": " ลองเช็คดูสิ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 474,
+          "OriginalText": "Judging by your equipment and that\ngleam in your eye...",
+          "TranslatedText": "ดูจากอุปกรณ์ที่สวมใส่และ\nประกายในดวงดานั่น..."
+        },
+        {
+          "Line": 478,
+          "OriginalText": " I\u0027d say you must\nbe in the midst of an epic journey.",
+          "TranslatedText": " คงต้องบอกว่านายต้องกำลัง\nอยู่ระหว่างการผจญภัยอันยิ่งใหญ่"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 487,
+          "OriginalText": "Well, well.\n\n\nIf your visit here today leaves you with\nfond memories of your journey, then I,\ntoo, will be most pleased.",
+          "TranslatedText": "\nถ้าหากการที่นายแวะมาที่นี่ในวันนี้\nเป็นความทรงจำที่ดีของนาย\nฉันก็จะยินดีมาก"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "Have you spoken to the ",
+          "TranslatedText": "ได้คุยกับ "
+        },
+        {
+          "Line": 500,
+          "OriginalText": "director",
+          "TranslatedText": "director"
+        },
+        {
+          "Line": 503,
+          "OriginalText": "?",
+          "TranslatedText": " หรือยัง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 520,
+          "OriginalText": "A terribly busy person, that one.\n",
+          "TranslatedText": "เขาเป็นคนที่ยุ่งมาก\n"
+        },
+        {
+          "Line": 524,
+          "OriginalText": "Please try to keep it brief.",
+          "TranslatedText": "ช่วยพยายามคุยอย่างกระชับนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Oh. I see.",
+          "TranslatedText": "อ้อ งั้นเหรอ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 542,
+          "OriginalText": "A traveler, eh?",
+          "TranslatedText": "นักเดินทางงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 551,
+          "OriginalText": "GOTCHYA!",
+          "TranslatedText": "โดนหลอก!"
+        },
+        {
+          "Line": 555,
+          "OriginalText": " HA!\n\n\n",
+          "TranslatedText": " ฮ่า!\n"
+        },
+        {
+          "Line": 561,
+          "OriginalText": "Did you like my ",
+          "TranslatedText": "ชอบมุก "
+        },
+        {
+          "Line": 565,
+          "OriginalText": "Guidance Stone",
+          "TranslatedText": "Guidance Stone"
+        },
+        {
+          "Line": 568,
+          "OriginalText": "\nimpression?",
+          "TranslatedText": "\nของฉันมั้ยล่ะ?"
+        },
+        {
+          "Line": 572,
+          "OriginalText": " Superb, right?\n\n",
+          "TranslatedText": " แจ่มเลยมั้ย?\n"
+        },
+        {
+          "Line": 579,
+          "OriginalText": "Don\u0027t young girls do mean impressions for fun?",
+          "TranslatedText": "เด็กสาวไม่ได้แกล้งหยอกกันเพื่อความสนุกหรอกเหรอ?"
+        },
+        {
+          "Line": 583,
+          "OriginalText": "\nMaybe not? ",
+          "TranslatedText": "\nไม่ละมั้ง? "
+        },
+        {
+          "Line": 587,
+          "OriginalText": "Oh, well!",
+          "TranslatedText": "ช่างเถอะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 601,
+          "OriginalText": "Excuse me... ",
+          "TranslatedText": "โทษทีนะ... "
+        },
+        {
+          "Line": 605,
+          "OriginalText": "Could you please get down\nfrom there?",
+          "TranslatedText": "ช่วยลงมาจากตรงนั้นได้มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 614,
+          "OriginalText": "Erm... ",
+          "TranslatedText": "เอิ่ม... "
+        },
+        {
+          "Line": 618,
+          "OriginalText": "*ahem* ",
+          "TranslatedText": "*อะแฮ่ม* "
+        },
+        {
+          "Line": 622,
+          "OriginalText": "Please don\u0027t climb that.",
+          "TranslatedText": "ช่วยอย่าปีนได้มั้ย"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 631,
+          "OriginalText": "Hey!",
+          "TranslatedText": "เฮ้!"
+        },
+        {
+          "Line": 635,
+          "OriginalText": " If you want to talk, would you mind\ngetting down from there first?",
+          "TranslatedText": " ถ้าอยากจะคุยละก็ ช่วยลงมา\nจากตรงนั้นก่อนได้มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 647,
+          "OriginalText": "Hmm... ",
+          "TranslatedText": "Hmm... "
+        },
+        {
+          "Line": 651,
+          "OriginalText": "Awaking from the ",
+          "TranslatedText": "การตื่นจาก "
+        },
+        {
+          "Line": 655,
+          "OriginalText": "Slumber of Restoration",
+          "TranslatedText": "Slumber of Restoration"
+        },
+        {
+          "Line": 661,
+          "OriginalText": "\nseems to have given subject the desire",
+          "TranslatedText": "\nตัวให้ตัวอย่างมีความต้องการ"
+        },
+        {
+          "Line": 665,
+          "OriginalText": " to look\ndown on others ",
+          "TranslatedText": " ที่จะ\nดูถูกผู้อื่น "
+        },
+        {
+          "Line": 669,
+          "OriginalText": "in an attempt to annoy them...\nas",
+          "TranslatedText": "เพื่อทำให้เกิดความรำคาญ...\nมาก"
+        },
+        {
+          "Line": 673,
+          "OriginalText": " much",
+          "TranslatedText": " เท่าที่"
+        },
+        {
+          "Line": 677,
+          "OriginalText": " as ",
+          "TranslatedText": " เป็น "
+        },
+        {
+          "Line": 681,
+          "OriginalText": "possible. ",
+          "TranslatedText": "ไปได้ "
+        },
+        {
+          "Line": 685,
+          "OriginalText": "Noted!",
+          "TranslatedText": "บันทึก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 697,
+          "OriginalText": "So...",
+          "TranslatedText": "แล้ว..."
+        },
+        {
+          "Line": 701,
+          "OriginalText": " Which ",
+          "TranslatedText": "  "
+        },
+        {
+          "Line": 705,
+          "OriginalText": "rune",
+          "TranslatedText": "rune"
+        },
+        {
+          "Line": 708,
+          "OriginalText": " do you want to\npower up?",
+          "TranslatedText": " ไหน ที่อยากจะ\nเพิ่มพลังล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 804,
+          "OriginalText": "Good morning!",
+          "TranslatedText": "อรุณสวัสดิ์!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 813,
+          "OriginalText": "Hey, you!",
+          "TranslatedText": "เฮ้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 822,
+          "OriginalText": "Yaaaawn!",
+          "TranslatedText": "Yaaaawn!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 834,
+          "OriginalText": "Snap!",
+          "TranslatedText": "Snap!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 846,
+          "OriginalText": "Three",
+          "TranslatedText": "Three"
+        },
+        {
+          "Line": 849,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 856,
+          "OriginalText": "ancient screws",
+          "TranslatedText": "ancient screws"
+        },
+        {
+          "Line": 860,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 869,
+          "OriginalText": "and a cute snap!",
+          "TranslatedText": "และ snap แบบน่ารัก!"
+        },
+        {
+          "Line": 873,
+          "OriginalText": "\nHere I goooooo!",
+          "TranslatedText": "\nไปเลยยย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 895,
+          "OriginalText": "Three",
+          "TranslatedText": "Three"
+        },
+        {
+          "Line": 898,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 902,
+          "OriginalText": "ancient shafts",
+          "TranslatedText": "ancient shafts"
+        },
+        {
+          "Line": 908,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 912,
+          "OriginalText": "and an epic snap!",
+          "TranslatedText": "และ snap แบบยิ่งใหญ่!"
+        },
+        {
+          "Line": 916,
+          "OriginalText": "\nHere I goooooo!",
+          "TranslatedText": "\nไปเลยยยยยย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 938,
+          "OriginalText": "Three",
+          "TranslatedText": "Three"
+        },
+        {
+          "Line": 941,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 945,
+          "OriginalText": "ancient cores",
+          "TranslatedText": "ancient cores"
+        },
+        {
+          "Line": 949,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 955,
+          "OriginalText": "and a bold snap!",
+          "TranslatedText": "และ snap แบบแน่นๆ!"
+        },
+        {
+          "Line": 959,
+          "OriginalText": "\nHere I goooooo!",
+          "TranslatedText": "\nไปเลยยยยยยย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 978,
+          "OriginalText": "Okeydoke!",
+          "TranslatedText": "Okeydoke!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 987,
+          "OriginalText": "Gotcha!",
+          "TranslatedText": "Gotcha!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 996,
+          "OriginalText": "Yahoooo!",
+          "TranslatedText": "ยะฮู้ววว!"
+        },
+        {
+          "Line": 1000,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1007,
+          "OriginalText": "\u266AMy little ",
+          "TranslatedText": "\u266A "
+        },
+        {
+          "Line": 1011,
+          "OriginalText": "Guidance Stone ",
+          "TranslatedText": "Guidance Stone "
+        },
+        {
+          "Line": 1014,
+          "OriginalText": "did the trick!\u266A",
+          "TranslatedText": "น้อยที่น่ารักของฉันได้ผล!\u266A"
+        },
+        {
+          "Line": 1018,
+          "OriginalText": "\nHee hee!",
+          "TranslatedText": "\nฮี่ๆ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk45",
+      "TextList": [
+        {
+          "Line": 1030,
+          "OriginalText": "Um... I admire your enthusiasm,",
+          "TranslatedText": "เอิ่ม... ก็ชื่นชมในความมุ่งมั่นอะนะ"
+        },
+        {
+          "Line": 1034,
+          "OriginalText": "\nbut more importantly, do you have\nany of the ",
+          "TranslatedText": "\nแต่ว่าที่สำคัญกว่าคือนายมี\n"
+        },
+        {
+          "Line": 1041,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 1045,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1048,
+          "OriginalText": "I need?\nToo bad. ",
+          "TranslatedText": "ที่ฉันต้องการรึเปล่า?\nแย่หน่อยนะ "
+        },
+        {
+          "Line": 1052,
+          "OriginalText": "I was gonna ",
+          "TranslatedText": "ฉันกะจะช่วย "
+        },
+        {
+          "Line": 1056,
+          "OriginalText": "power up",
+          "TranslatedText": "เพิ่มพลัง"
+        },
+        {
+          "Line": 1059,
+          "OriginalText": " your\n",
+          "TranslatedText": " \n"
+        },
+        {
+          "Line": 1063,
+          "OriginalText": "runes ",
+          "TranslatedText": "runes "
+        },
+        {
+          "Line": 1066,
+          "OriginalText": "for you.",
+          "TranslatedText": "ให้นายแท้ๆ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk49",
+      "TextList": [
+        {
+          "Line": 1075,
+          "OriginalText": "Hm? ",
+          "TranslatedText": "หืม? "
+        },
+        {
+          "Line": 1079,
+          "OriginalText": "It seems the other two are\nalready powered up...\n\n",
+          "TranslatedText": "ดูเหมือนว่าอีกสองอันจะ\nเพิ่มพลังไปแล้วนะ...\n"
+        },
+        {
+          "Line": 1085,
+          "OriginalText": "Oh!",
+          "TranslatedText": "อ้อ!"
+        },
+        {
+          "Line": 1089,
+          "OriginalText": " You\u0027re wondering about the\n",
+          "TranslatedText": " นายกำลังสงสัยเกี่ยวกับ\n"
+        },
+        {
+          "Line": 1093,
+          "OriginalText": "Cryonis ",
+          "TranslatedText": "Cryonis "
+        },
+        {
+          "Line": 1096,
+          "OriginalText": "and ",
+          "TranslatedText": "และ "
+        },
+        {
+          "Line": 1100,
+          "OriginalText": "Magnesis",
+          "TranslatedText": "Magnesis"
+        },
+        {
+          "Line": 1103,
+          "OriginalText": ", yes?\n\n",
+          "TranslatedText": " ใช่มั้ย?\n"
+        },
+        {
+          "Line": 1109,
+          "OriginalText": "To be honest, I tried my best to think of\nupgrades for those two...but then I got\nfrustrated and gave up.",
+          "TranslatedText": "ว่าตามตรงแล้ว ฉันพยายามหาวิธี\nเพิ่มพลังให้พวกมันแล้ว...แต่ว่าฉันเกิด\nหงุดหงิดขึ้นมาแล้วก็ล้มเลิกไป"
+        },
+        {
+          "Line": 1113,
+          "OriginalText": " Heh. Sorry.\n",
+          "TranslatedText": " แหะๆ โทษทีนะ\n"
+        },
+        {
+          "Line": 1119,
+          "OriginalText": "That said...",
+          "TranslatedText": "ว่าไปแล้ว..."
+        },
+        {
+          "Line": 1123,
+          "OriginalText": "if you want to upgrade the\nlast one, just give me a holler.",
+          "TranslatedText": "ถ้านายอยากอัพเกรดให้\nอันสุดท้าย ก็แค่ติดต่อฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk50",
+      "TextList": [
+        {
+          "Line": 1135,
+          "OriginalText": "Sheikah Sensor ",
+          "TranslatedText": "Sheikah Sensor "
+        },
+        {
+          "Line": 1138,
+          "OriginalText": "power-up time! Yahoo!",
+          "TranslatedText": "เพิ่มพลัง! ยะฮู้!"
+        },
+        {
+          "Line": 1142,
+          "OriginalText": "\nFor that, ",
+          "TranslatedText": "\nต้องใช้ "
+        },
+        {
+          "Line": 1146,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 1149,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1156,
+          "OriginalText": "ancient screws",
+          "TranslatedText": "ancient screws"
+        },
+        {
+          "Line": 1160,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1163,
+          "OriginalText": "should\ndo the trick.",
+          "TranslatedText": "ก็\nน่าจะพอ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk51",
+      "TextList": [
+        {
+          "Line": 1184,
+          "OriginalText": "Remote Bomb ",
+          "TranslatedText": "Remote Bomb "
+        },
+        {
+          "Line": 1187,
+          "OriginalText": "power-up time! Yahoo!",
+          "TranslatedText": "เพิ่มพลัง! ยะฮู้!"
+        },
+        {
+          "Line": 1191,
+          "OriginalText": "\nFor that, I\u0027ll need ",
+          "TranslatedText": "\nฉันต้องใช้ "
+        },
+        {
+          "Line": 1195,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 1198,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1202,
+          "OriginalText": "ancient shafts",
+          "TranslatedText": "ancient shafts"
+        },
+        {
+          "Line": 1205,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk52",
+      "TextList": [
+        {
+          "Line": 1226,
+          "OriginalText": "Stasis ",
+          "TranslatedText": "Stasis "
+        },
+        {
+          "Line": 1229,
+          "OriginalText": "power-up time! Yahoo!",
+          "TranslatedText": "เพิ่มพลัง! ยะฮู้!"
+        },
+        {
+          "Line": 1233,
+          "OriginalText": "\nFor that, I\u0027ll need ",
+          "TranslatedText": "\nฉันต้องใช้ "
+        },
+        {
+          "Line": 1237,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 1240,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1244,
+          "OriginalText": "ancient cores",
+          "TranslatedText": "ancient cores"
+        },
+        {
+          "Line": 1247,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk55",
+      "TextList": [
+        {
+          "Line": 1265,
+          "OriginalText": "If you power up the ",
+          "TranslatedText": "ถ้าเพิ่มพลังให้กับ "
+        },
+        {
+          "Line": 1269,
+          "OriginalText": "Sheikah Sensor",
+          "TranslatedText": "Sheikah Sensor"
+        },
+        {
+          "Line": 1272,
+          "OriginalText": ",\nyou\u0027ll be able to ",
+          "TranslatedText": "\nมันจะสามารถ "
+        },
+        {
+          "Line": 1276,
+          "OriginalText": "detect",
+          "TranslatedText": "ตรวจจับ"
+        },
+        {
+          "Line": 1279,
+          "OriginalText": " the objects\nyou take pictures of with your ",
+          "TranslatedText": " วัตถุ\nที่นายถ่ายรูปไว้ด้วย "
+        },
+        {
+          "Line": 1283,
+          "OriginalText": "Camera",
+          "TranslatedText": "Camera"
+        },
+        {
+          "Line": 1286,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 1292,
+          "OriginalText": "Handy, eh? So...",
+          "TranslatedText": "สะดวกมั้ยล่ะ? เพราะงั้น..."
+        },
+        {
+          "Line": 1296,
+          "OriginalText": " You\u0027re gonna go\nahead and power up that ol\u0027\n",
+          "TranslatedText": " นายจะ\nเพิ่มพลังให้\n"
+        },
+        {
+          "Line": 1300,
+          "OriginalText": "Sheikah Sensor",
+          "TranslatedText": "Sheikah Sensor"
+        },
+        {
+          "Line": 1303,
+          "OriginalText": ", right?",
+          "TranslatedText": ", เครื่องเก่านั่นใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk56",
+      "TextList": [
+        {
+          "Line": 1321,
+          "OriginalText": "If you power up your ",
+          "TranslatedText": "ถ้าเพิ่มพลังให้กับ "
+        },
+        {
+          "Line": 1325,
+          "OriginalText": "remote bombs",
+          "TranslatedText": "remote bombs"
+        },
+        {
+          "Line": 1328,
+          "OriginalText": ",",
+          "TranslatedText": ","
+        },
+        {
+          "Line": 1332,
+          "OriginalText": "\nyour blasts will become ",
+          "TranslatedText": "\nพลังระเบิดของมันจะ "
+        },
+        {
+          "Line": 1336,
+          "OriginalText": "more powerful",
+          "TranslatedText": "รุณแรงขึ้น"
+        },
+        {
+          "Line": 1339,
+          "OriginalText": "\nand your reload time will ",
+          "TranslatedText": "\nและเวลาคูลดาวน์ก็จะ "
+        },
+        {
+          "Line": 1343,
+          "OriginalText": "decrease",
+          "TranslatedText": "ลดลง"
+        },
+        {
+          "Line": 1346,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 1352,
+          "OriginalText": "Sweet deal, eh?",
+          "TranslatedText": "แจ่มมั้ยล่ะ?"
+        },
+        {
+          "Line": 1356,
+          "OriginalText": " So...you\u0027re going to\npower up your ",
+          "TranslatedText": " งั้น...นายจะ\nเพิ่มพลังให้ "
+        },
+        {
+          "Line": 1360,
+          "OriginalText": "remote bombs",
+          "TranslatedText": "remote bombs"
+        },
+        {
+          "Line": 1363,
+          "OriginalText": ", ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1367,
+          "OriginalText": "right?",
+          "TranslatedText": "มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk57",
+      "TextList": [
+        {
+          "Line": 1385,
+          "OriginalText": "If you power up your ",
+          "TranslatedText": "ถ้าเพิ่มพลังให้ "
+        },
+        {
+          "Line": 1389,
+          "OriginalText": "Stasis",
+          "TranslatedText": "Stasis"
+        },
+        {
+          "Line": 1392,
+          "OriginalText": ", you\u0027ll be\nable to freeze more than just objects.\nYou\u0027ll be able to target ",
+          "TranslatedText": ", มันจะสามารถ\nแช่แข็งได้มากกว่าแค่วัตถุ\nมันจะใช้กับ "
+        },
+        {
+          "Line": 1396,
+          "OriginalText": "monsters",
+          "TranslatedText": "monsters"
+        },
+        {
+          "Line": 1399,
+          "OriginalText": " too!\n",
+          "TranslatedText": " ได้ด้วย!\n"
+        },
+        {
+          "Line": 1405,
+          "OriginalText": "Pretty handy, eh?",
+          "TranslatedText": "สะดวกดีใช่มั้ยล่ะ?"
+        },
+        {
+          "Line": 1409,
+          "OriginalText": " So...you\u0027re going to\npower up your ",
+          "TranslatedText": " งั้น...นายจะ\nเพิ่มพลังให้ "
+        },
+        {
+          "Line": 1413,
+          "OriginalText": "Stasis",
+          "TranslatedText": "Stasis"
+        },
+        {
+          "Line": 1416,
+          "OriginalText": ",",
+          "TranslatedText": ""
+        },
+        {
+          "Line": 1420,
+          "OriginalText": " right?",
+          "TranslatedText": " ของนายใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk58",
+      "TextList": [
+        {
+          "Line": 1438,
+          "OriginalText": "Hm? ",
+          "TranslatedText": "หืม? "
+        },
+        {
+          "Line": 1442,
+          "OriginalText": "What\u0027s this?",
+          "TranslatedText": "อะไรเนี่ย?"
+        },
+        {
+          "Line": 1446,
+          "OriginalText": " Perhaps you already\nwent and powered them all up?!\n\n",
+          "TranslatedText": " หรือว่านายเพิ่มพลัง\nครบทุกอันแล้วงั้นเหรอ?!\n"
+        },
+        {
+          "Line": 1452,
+          "OriginalText": "Well, I suppose with your ",
+          "TranslatedText": "ฉันคิดว่าด้วย "
+        },
+        {
+          "Line": 1456,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1459,
+          "OriginalText": "\nand your legendary swordsmanship,",
+          "TranslatedText": "\nของนายและทักษะดาบระดับตำนานของนาย"
+        },
+        {
+          "Line": 1463,
+          "OriginalText": "\nwe have nothing to fear.\nYes, quite! Nothing at all!",
+          "TranslatedText": "\nเราคงไม่มีอะไรต้องกลัว\nใช่แล้ว! ไม่มีอะไรต้องกลัวเลย!"
+        },
+        {
+          "Line": 1467,
+          "OriginalText": " Not even...",
+          "TranslatedText": " แม้กระทั่ง..."
+        },
+        {
+          "Line": 1471,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1475,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 1478,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk59",
+      "TextList": [
+        {
+          "Line": 1487,
+          "OriginalText": "If you have any other ",
+          "TranslatedText": "ถ้าหากมี "
+        },
+        {
+          "Line": 1491,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 1494,
+          "OriginalText": " you\u0027d like\nto power up, just let me know!",
+          "TranslatedText": " อื่นที่อยากเพิ่มพลัง\nก็บอกได้เลยนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk60",
+      "TextList": [
+        {
+          "Line": 1508,
+          "OriginalText": "There\u0027s nothing more I can do for you.",
+          "TranslatedText": "ไม่มีอะไรที่ฉันช่วยได้แล้ว"
+        },
+        {
+          "Line": 1512,
+          "OriginalText": "\nUnless you want to ",
+          "TranslatedText": "\nนอกจากว่านายอยากจะ "
+        },
+        {
+          "Line": 1516,
+          "OriginalText": "chat?",
+          "TranslatedText": "คุย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk61",
+      "TextList": [
+        {
+          "Line": 1535,
+          "OriginalText": "You may already know this, but although\nImpa looks a looooot older than me,",
+          "TranslatedText": "นายอาจจะรู้อยู่แล้ว แต่ว่าถึง\nImpa จะดูแก่กว่าฉันมากกกกก"
+        },
+        {
+          "Line": 1539,
+          "OriginalText": "\nshe\u0027s actually my little sister.\nShe\u0027s incredibly responsible, but at what\ncost? ",
+          "TranslatedText": "\nที่จริงแล้วเธอเป็นน้องสาวฉัน\nเธอเป็นคนที่มีความรับผิดชอบสูงมาก แต่ว่า\nต้องแลกกับอะไรล่ะ? "
+        },
+        {
+          "Line": 1543,
+          "OriginalText": "She\u0027s wound up waaaay too tight,\nif ya ask me. Love her though!",
+          "TranslatedText": "เธอน่ะขี้กังวลเกินนนนนไปนะ\nถ้าถามฉัน แต่ฉันก็รักเธอนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk62",
+      "TextList": [
+        {
+          "Line": 1560,
+          "OriginalText": "Heh. ",
+          "TranslatedText": "แหะๆ "
+        },
+        {
+          "Line": 1564,
+          "OriginalText": "People have always noted how\nwe\u0027re nothing alike, even though\nwe\u0027re sisters.\n",
+          "TranslatedText": "มีคนบอกอยู่ตลอดว่า\nพวกเราไม่มีอะไรเหมือนกันเลย\nแม้ว่าเราจะเป็นพี่น้องกัน\n"
+        },
+        {
+          "Line": 1570,
+          "OriginalText": "I\u0027m the type that charges ahead once I\u0027m\ninspired!",
+          "TranslatedText": "ฉันเป็นพวกที่พุ่งไปข้างหน้าตามอารมณ์!"
+        },
+        {
+          "Line": 1574,
+          "OriginalText": " Impa prefers to wait and see.\nBut mostly wait and wait and wait.\nIn any case, this research facility was\nfounded by order of some ",
+          "TranslatedText": "\nส่วน Impa เป็นพวกที่เลือกที่จะรอและเฝ้ามอง\nแต่ส่วนใหญ่เธอก็เอาแต่รอและรอ\nจะว่าไปแล้ว ห้องวิจัยนี้ก็\nถูกตั้งขึ้นโดยคำสั่งของคนใหญ่คนโตจาก "
+        },
+        {
+          "Line": 1578,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": "Hyrule Castle"
+        },
+        {
+          "Line": 1581,
+          "OriginalText": "\nbigwigs.\nDespite her frail appearance, Impa was\na valued and distinguished advisor to\nthe royals at ",
+          "TranslatedText": "\nImpa นั้นเป็นที่ปรึกษาที่โดดเด่น\nขัดกับรูปลักษณ์อันบอบบางของเธอ\nให้กับราชวงศ์ใน "
+        },
+        {
+          "Line": 1585,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": "ปราสาท Hyrule"
+        },
+        {
+          "Line": 1588,
+          "OriginalText": ".\nYou...",
+          "TranslatedText": ".\nนาย..."
+        },
+        {
+          "Line": 1592,
+          "OriginalText": "see where I\u0027m going with this,\nI assume?\n\nBasically, she\u0027s the one who puts a stop\nto some of my crazier antics.",
+          "TranslatedText": "รู้ใช้มั้ยว่าฉันกำลังจะพูดเรื่องอะไร?\nปรกติแล้ว เธอเป็นคนที่คอยห้ามฉัน\nในการทดลองบ้าๆ บางอย่าง"
+        },
+        {
+          "Line": 1596,
+          "OriginalText": " And that\u0027s\nthe story of me and my little sis, Impa.",
+          "TranslatedText": " และนั่นคือ\nเรื่องราวของฉันกับน้องสาว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk63",
+      "TextList": [
+        {
+          "Line": 1613,
+          "OriginalText": "But with ",
+          "TranslatedText": " แต่ด้วยสภาพปัจจุบันของ "
+        },
+        {
+          "Line": 1617,
+          "OriginalText": "Hyrule Castle ",
+          "TranslatedText": "ปราสาท Hyrule "
+        },
+        {
+          "Line": 1620,
+          "OriginalText": "in the state it is...\nWell, needless to say, there hasn\u0027t been\nany funding in a while.\n",
+          "TranslatedText": "แล้ว...\nไม่จำเป็นต้องพูดถึงเลยว่าไม่มีเงินทุนสนับสนุน\nมาสักพักแล้ว\n"
+        },
+        {
+          "Line": 1626,
+          "OriginalText": "No funding means no fun.",
+          "TranslatedText": "ไม่มีเงินทุนก็ไม่มีความสนุก"
+        },
+        {
+          "Line": 1630,
+          "OriginalText": " I\u0027ve already\nexhausted my personal funds, barely\nallowing us to continue my research.\n",
+          "TranslatedText": " ฉันใช้\nเงินส่วนตัวไปจนหมดแล้วด้วย\n ก็ยังแค่พอประทังให้เราทำการค้นคว้าต่อไปได้\n"
+        },
+        {
+          "Line": 1636,
+          "OriginalText": "If only we had a few hundred million\nrupees, I could do more research",
+          "TranslatedText": "ถ้าหากเรามีสักหนึ่งร้อยล้าน\nrupees ฉันคงสามารถทำงานค้นคว้า"
+        },
+        {
+          "Line": 1640,
+          "OriginalText": "\non new items...",
+          "TranslatedText": "\nใหม่ๆ ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk64",
+      "TextList": [
+        {
+          "Line": 1649,
+          "OriginalText": "I\u0027m Purah! Don\u0027tcha already know that?!",
+          "TranslatedText": "ฉัน Purah ไง! นายก็รู้อยู่แล้วไม่ใช่เหรอ?!"
+        },
+        {
+          "Line": 1653,
+          "OriginalText": "\nClick, snap!",
+          "TranslatedText": "\nClick, snap!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk65",
+      "TextList": [
+        {
+          "Line": 1662,
+          "OriginalText": "This is the ",
+          "TranslatedText": "ที่นี่คือ "
+        },
+        {
+          "Line": 1666,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": "Hateno Ancient Tech Lab"
+        },
+        {
+          "Line": 1669,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 1673,
+          "OriginalText": "\nClick, snap!",
+          "TranslatedText": "\nClick, snap!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk66",
+      "TextList": [
+        {
+          "Line": 1682,
+          "OriginalText": "You\u0027re sick of that?",
+          "TranslatedText": "เบื่อแล้วงั้นเหรอ?"
+        },
+        {
+          "Line": 1686,
+          "OriginalText": " Hm, I suppose you\nwant me to give you the whole story?",
+          "TranslatedText": " นายอยากให้ฉัน\nเล่าเรื่องทั้งหมดสินะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk67",
+      "TextList": [
+        {
+          "Line": 1703,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1707,
+          "OriginalText": "Sheikah Slate ",
+          "TranslatedText": "Sheikah Slate "
+        },
+        {
+          "Line": 1710,
+          "OriginalText": "you\u0027re using ",
+          "TranslatedText": "ที่นายใช้อยู่ "
+        },
+        {
+          "Line": 1714,
+          "OriginalText": "is the\none ",
+          "TranslatedText": "คืออันเดียว\nกับที่ "
+        },
+        {
+          "Line": 1718,
+          "OriginalText": "Princess Zelda ",
+          "TranslatedText": "เจ้าหญิง Zelda "
+        },
+        {
+          "Line": 1721,
+          "OriginalText": "herself used 100\nyears ago.\nBack then, it only had the ",
+          "TranslatedText": "ใช้เมื่อ 100\nปีก่อน\nในตอนนั้น มันมีแค่ "
+        },
+        {
+          "Line": 1725,
+          "OriginalText": "Camera",
+          "TranslatedText": "Camera"
+        },
+        {
+          "Line": 1728,
+          "OriginalText": ",\n",
+          "TranslatedText": ",\n"
+        },
+        {
+          "Line": 1732,
+          "OriginalText": "Hyrule Compendium",
+          "TranslatedText": "Hyrule Compendium"
+        },
+        {
+          "Line": 1735,
+          "OriginalText": ", and ",
+          "TranslatedText": ", และ "
+        },
+        {
+          "Line": 1739,
+          "OriginalText": "album runes",
+          "TranslatedText": "album runes"
+        },
+        {
+          "Line": 1742,
+          "OriginalText": ".\n\nAfter you were defeated by Ganon ",
+          "TranslatedText": ".\nหลังจากที่นายแพ้ให้กับ Ganon "
+        },
+        {
+          "Line": 1746,
+          "OriginalText": "and\nwe sealed you and the ",
+          "TranslatedText": "และ\nเราผนึกนายและ "
+        },
+        {
+          "Line": 1750,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1753,
+          "OriginalText": "\nin the ",
+          "TranslatedText": "\nไว้ใน "
+        },
+        {
+          "Line": 1757,
+          "OriginalText": "Shrine of Resurrection",
+          "TranslatedText": "Shrine of Resurrection"
+        },
+        {
+          "Line": 1760,
+          "OriginalText": "...\nI discovered additional ",
+          "TranslatedText": "...\nฉันก็ค้นพบ "
+        },
+        {
+          "Line": 1764,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 1767,
+          "OriginalText": " while\nreading through some ancient texts.",
+          "TranslatedText": " เพิ่มเติม\nขณะที่อ่านพวกบันทึกโ"
+        },
+        {
+          "Line": 1771,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1775,
+          "OriginalText": "Cryonis ",
+          "TranslatedText": "Cryonis "
+        },
+        {
+          "Line": 1778,
+          "OriginalText": "and ",
+          "TranslatedText": "กับ "
+        },
+        {
+          "Line": 1782,
+          "OriginalText": "Stasis",
+          "TranslatedText": "Stasis"
+        },
+        {
+          "Line": 1785,
+          "OriginalText": ", for example.",
+          "TranslatedText": " เป็นต้น"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk68",
+      "TextList": [
+        {
+          "Line": 1802,
+          "OriginalText": "Still...though I knew about these ",
+          "TranslatedText": "แต่ว่า...ถึงเราจะรู้เรื่อง "
+        },
+        {
+          "Line": 1806,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 1809,
+          "OriginalText": ",",
+          "TranslatedText": " พวกนี้"
+        },
+        {
+          "Line": 1813,
+          "OriginalText": "\nI had no idea how to add them to the\n",
+          "TranslatedText": "\nฉันก็ไม่รู้ว่าจะเพิ่มมันลงใน\n"
+        },
+        {
+          "Line": 1817,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1820,
+          "OriginalText": ".\nWell, in any case...",
+          "TranslatedText": " ได้ยังไง\nยิ่งกว่านั้น..."
+        },
+        {
+          "Line": 1824,
+          "OriginalText": "the ",
+          "TranslatedText": "เจ้า "
+        },
+        {
+          "Line": 1828,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1831,
+          "OriginalText": "\nwas sealed away with you. That did\nNOT help my cause.\nI spent the next 100 years trying to work\nout what to do...",
+          "TranslatedText": "\nก็ถูกผนึกไปพร้อมกับนาย\nเรื่องนั้นมันไม่ช่วยงานฉันเลยสักนิด\nฉันใช้เวลา 100 ปีถัดมาพยายามคิดว่า\nจะทำยังไง..."
+        },
+        {
+          "Line": 1835,
+          "OriginalText": " Then guess what I see\npopping up like wild mushrooms?\n",
+          "TranslatedText": " แล้วทายสิว่าฉันเห็นอะไร\nโผล่ขึ้นมาอย่างกับดอกเห็ด?\n"
+        },
+        {
+          "Line": 1847,
+          "OriginalText": "Sheikah Towers",
+          "TranslatedText": "Sheikah Towers"
+        },
+        {
+          "Line": 1850,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 1854,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1860,
+          "OriginalText": "What\u0027s more, the ",
+          "TranslatedText": "ยิ่งกว่านั้น "
+        },
+        {
+          "Line": 1864,
+          "OriginalText": "ancient shrines",
+          "TranslatedText": "ancient shrines"
+        },
+        {
+          "Line": 1867,
+          "OriginalText": "\nlit up too!",
+          "TranslatedText": "\nก็เกิดส่องแสงขึ้นมาด้วย!"
+        },
+        {
+          "Line": 1871,
+          "OriginalText": " Soon after, BOOM.\nYou show up with the ",
+          "TranslatedText": " จากนั้นก็ BOOM.\nนายก็โผล่มาพร้อมกับ "
+        },
+        {
+          "Line": 1875,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1878,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 1884,
+          "OriginalText": "Naturally, as a top-tier researcher,",
+          "TranslatedText": "ก็ธรรมดาที่นักวิจัยชั้นนำอย่างฉัน"
+        },
+        {
+          "Line": 1888,
+          "OriginalText": "\nI was quick to put it all together.\n\nThe ",
+          "TranslatedText": "\nจะปะติดปะต่อเรื่องราวเข้าด้วยกันได้อย่างรวดเร็ว\n"
+        },
+        {
+          "Line": 1892,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1895,
+          "OriginalText": " isn\u0027t some frivolous\nlittle trinket created only for taking\n",
+          "TranslatedText": " น่ะไม่ใช่\nอุปกรณ์กิ๊กก๊อกที่สร้างขึ้นมาเพื่อแค่\n"
+        },
+        {
+          "Line": 1899,
+          "OriginalText": "pictures ",
+          "TranslatedText": "ถ่ายรูป "
+        },
+        {
+          "Line": 1902,
+          "OriginalText": "and using ",
+          "TranslatedText": "และใช้งาน "
+        },
+        {
+          "Line": 1906,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 1909,
+          "OriginalText": ".\nIt is a revolutionary device developed by\nancient Sheikah scientists specifically to\nhelp the hero conquer ",
+          "TranslatedText": "\nมันเป็นนวัตกรรมที่ถูกพัฒนาขึ้นโดย\nนักวิทยาศาสตร์ชาว Sheikah เพื่อช่วย\nให้ผู้กล้าเอาชนะ "
+        },
+        {
+          "Line": 1913,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 1916,
+          "OriginalText": "!\nThe reason it\u0027s working now with shrines\nand towers is because our hero, Linky,\nmeets all of the prerequisites.\n",
+          "TranslatedText": " โดยเฉพาะ!\nเหตุผลที่มันเกิดทำงานขึ้นมาตอนนี้\nพร้อมกับ shrines\nและ towers ก็เป็นเพราะผู้กล้าของเรา Linky\nมีเงื่อนไขที่จำเป็นครบแล้ว\n"
+        },
+        {
+          "Line": 1922,
+          "OriginalText": "In other words, it works now because\nof you! \u266AYaaaay!\u266A",
+          "TranslatedText": "หรือพูดอีกอย่าง มันทำงานก็เพราะนาย! \u266AYaaaay!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk69",
+      "TextList": [
+        {
+          "Line": 1939,
+          "OriginalText": "One hundred years ago...",
+          "TranslatedText": "เมื่อหนึ่งร้อยปีก่อน..."
+        },
+        {
+          "Line": 1946,
+          "OriginalText": "Princess Zelda",
+          "TranslatedText": "เจ้าหญิง Zelda"
+        },
+        {
+          "Line": 1949,
+          "OriginalText": "\ntouched the ",
+          "TranslatedText": "\nใช้ "
+        },
+        {
+          "Line": 1953,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 1956,
+          "OriginalText": " to an ",
+          "TranslatedText": " กับ "
+        },
+        {
+          "Line": 1960,
+          "OriginalText": "ancient\nshrine",
+          "TranslatedText": "ancient\nshrine"
+        },
+        {
+          "Line": 1963,
+          "OriginalText": " in an attempt to open it...\n",
+          "TranslatedText": " เพื่อที่จะลองเปิดมัน...\n"
+        },
+        {
+          "Line": 1967,
+          "OriginalText": "But nothing happened. It\u0027s easy to see\nwhy now.",
+          "TranslatedText": "แต่ไม่มีอะไรเกิดขึ้น ตอนนี้ก็รู้แล้ว\nว่าเพราะอะไร"
+        },
+        {
+          "Line": 1971,
+          "OriginalText": " It\u0027s obvious why it didn\u0027t work,\nisn\u0027t it?\nAfter all,",
+          "TranslatedText": " มันชัดเจนออกใช่มั้ยว่าทำไมมันถึงไม่ทำงาน?\nในตอนนั้น"
+        },
+        {
+          "Line": 1975,
+          "OriginalText": " the ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1979,
+          "OriginalText": "ancient shrines",
+          "TranslatedText": "ancient shrines"
+        },
+        {
+          "Line": 1982,
+          "OriginalText": " didn\u0027t have\nthe energy needed to activate back then.\n\nAnd the ",
+          "TranslatedText": " ไม่มี\nพลังงานที่จำเป็นในการที่จะเปิดการทำงาน\nและ "
+        },
+        {
+          "Line": 1986,
+          "OriginalText": "Sheikah Towers",
+          "TranslatedText": "Sheikah Towers"
+        },
+        {
+          "Line": 1989,
+          "OriginalText": " were still hidden\nunderground...",
+          "TranslatedText": " ก็ยังซ่อนอยู่\nใต้ดิน..."
+        },
+        {
+          "Line": 1993,
+          "OriginalText": " Princess Zelda and I\nsimply did not understand the basics!\nThough we didn\u0027t plan for it, the Great\nCalamity exposed a ",
+          "TranslatedText": " เจ้าหญิง Zelda กับฉัน\nไม่เข้าใจเรื่องพื้นฐานนี้!\nแม้เราจะไม่ได้วางแผนไว้ Great\nCalamity ก็ได้ทำให้ "
+        },
+        {
+          "Line": 1997,
+          "OriginalText": "Sheikah Tower",
+          "TranslatedText": "Sheikah Tower"
+        },
+        {
+          "Line": 2000,
+          "OriginalText": "...",
+          "TranslatedText": " ปรากฎขึ้น..."
+        },
+        {
+          "Line": 2004,
+          "OriginalText": "\nas well as a ",
+          "TranslatedText": "\nเช่นเดียวกับ "
+        },
+        {
+          "Line": 2008,
+          "OriginalText": "Guidance Stone",
+          "TranslatedText": "Guidance Stone"
+        },
+        {
+          "Line": 2011,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 2017,
+          "OriginalText": "They were located in the ",
+          "TranslatedText": "มันตั้งอยู่ใน "
+        },
+        {
+          "Line": 2021,
+          "OriginalText": "Great Plateau",
+          "TranslatedText": "Great Plateau"
+        },
+        {
+          "Line": 2024,
+          "OriginalText": ",\nof all places...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 2028,
+          "OriginalText": "and activated by none\nother than you!\nWhen you put it all together like that,\nit kind of sounds like ",
+          "TranslatedText": "\nและถูกเปิดการทำงานขึ้นเพราะนาย!\nเมื่อเอามาเชื่อมโยงกันแล้ว\nมันก็ฟังดูเหมือนว่าเวลาของ "
+        },
+        {
+          "Line": 2032,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 2035,
+          "OriginalText": "\u0027s\nevil days are numbered, right?",
+          "TranslatedText": "\nใกล้จะสิ้นสุดแล้วใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk70",
+      "TextList": [
+        {
+          "Line": 2044,
+          "OriginalText": "Alrighty!",
+          "TranslatedText": "เอาล่ะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk71",
+      "TextList": [
+        {
+          "Line": 2053,
+          "OriginalText": "Anything else you wanna ask me?",
+          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk72",
+      "TextList": [
+        {
+          "Line": 2072,
+          "OriginalText": "There are only three Sheikah remaining",
+          "TranslatedText": "มีชาว Sheikah เหลือเพียงสามคน"
+        },
+        {
+          "Line": 2076,
+          "OriginalText": "\nwho experienced the ",
+          "TranslatedText": "\nที่ได้ผ่าน "
+        },
+        {
+          "Line": 2080,
+          "OriginalText": "Great Calamity",
+          "TranslatedText": "Great Calamity"
+        },
+        {
+          "Line": 2083,
+          "OriginalText": "\nof 100 years ago...\nRobbie of the Akkala Ancient Tech Lab,",
+          "TranslatedText": "\nเมื่อ 100 ปีก่อนมาและยังมีชีวิตอยู่...\nRobbie แห่ง Akkala Ancient Tech Lab,"
+        },
+        {
+          "Line": 2087,
+          "OriginalText": "\nImpa of Kakariko Village,",
+          "TranslatedText": "\nImpa แห่งหมู่บ้าน Kakariko "
+        },
+        {
+          "Line": 2091,
+          "OriginalText": " and me.\n\nRight after the ",
+          "TranslatedText": " และฉัน\nทันทีหลังจากที่เกิด "
+        },
+        {
+          "Line": 2095,
+          "OriginalText": "Great Calamity",
+          "TranslatedText": "Great Calamity"
+        },
+        {
+          "Line": 2098,
+          "OriginalText": ", the three\nof us gathered at Kakariko Village...\nbut we had to separate soon after.\nIf all three of us were found and wiped\nout, ",
+          "TranslatedText": " ขึ้น\nพวกเราทั้งสามได้รวมตัวกันที่หมู่บ้าน Kakariko...\nแต่เราก็แยกกันไม่นานหลังจากนั้น\nถ้าพวกเราทั้งสามถูกพบและถูกจัดการ\n"
+        },
+        {
+          "Line": 2102,
+          "OriginalText": "who would instruct you, the hero,\nonce you awoke?\nMaking sure one of us remained to give\nyou guidance and deliver our important\nmessage was all that mattered.",
+          "TranslatedText": "ใครจะช่วยชี้แนะนาย\nเมื่อนายตื่นขึ้นมาล่ะผู้กล้า?\nเพื่อให้แน่ใจว่าจะมีพวกเรารอดชีวิต\nเพื่อช่วยชี้นำและส่งมอบข้อความสำคัญของพวกเรา\nเป็นเรื่องสำคัญที่สุด"
+        },
+        {
+          "Line": 2106,
+          "OriginalText": "\nThat\u0027s why we went our separate ways.",
+          "TranslatedText": "\nพวกเราจึงตัดสินใจแยกทางกัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk73",
+      "TextList": [
+        {
+          "Line": 2123,
+          "OriginalText": "Luckily, there were strong ancient energy\ndeposits in two places, ",
+          "TranslatedText": "โชคดีที่ยังมีแหล่งพลังโบราณ\nอยู่ในสถานที่สองแห่ง "
+        },
+        {
+          "Line": 2127,
+          "OriginalText": "allowing Robbie\nand I both to continue our research.\nThose places are here in Hateno Village\nand at the northernmost point of Akkala.\n\nIn other words, that ",
+          "TranslatedText": "จึงช่วยให้ Robbie\nกับฉันสามารถทำงานวิจัยต่อไปได้\nที่สองแห่งนั้นก็คือหมู่บ้าน Hateno\nและทางเหนือสุดของ Akkala\nหรือก็คือ "
+        },
+        {
+          "Line": 2131,
+          "OriginalText": "blue flame ",
+          "TranslatedText": "blue flame "
+        },
+        {
+          "Line": 2134,
+          "OriginalText": "in\n",
+          "TranslatedText": "นั่นใน\n"
+        },
+        {
+          "Line": 2138,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": "หมู่บ้าน Hateno"
+        },
+        {
+          "Line": 2141,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2150,
+          "OriginalText": "is the energy source\nneeded to operate the ",
+          "TranslatedText": " เป็นแหล่งพลังงาน\nจำเป็นสำหรับ "
+        },
+        {
+          "Line": 2154,
+          "OriginalText": "Guidance Stone",
+          "TranslatedText": "Guidance Stone"
+        },
+        {
+          "Line": 2157,
+          "OriginalText": ".\nThe ",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 2161,
+          "OriginalText": "Guidance Stone ",
+          "TranslatedText": "Guidance Stone "
+        },
+        {
+          "Line": 2164,
+          "OriginalText": "at my lab ",
+          "TranslatedText": "ที่ห้องวิจัยของฉัน "
+        },
+        {
+          "Line": 2168,
+          "OriginalText": "is the\nsame one we first brought over from\n",
+          "TranslatedText": "\nคืออันเดียวกับที่เราเอามาจาก\n"
+        },
+        {
+          "Line": 2172,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": "ปราสาท Hyrule"
+        },
+        {
+          "Line": 2175,
+          "OriginalText": ".\nAs for Robbie, ",
+          "TranslatedText": "\nส่วน Robbie "
+        },
+        {
+          "Line": 2179,
+          "OriginalText": "he went on to adapt his\n",
+          "TranslatedText": "เขาได้ทำการปรับ\n"
+        },
+        {
+          "Line": 2183,
+          "OriginalText": "Guidance Stone ",
+          "TranslatedText": "Guidance Stone "
+        },
+        {
+          "Line": 2186,
+          "OriginalText": "into a statue that\ncreates ancient soldier gear.\nHe even gave the statue a name...",
+          "TranslatedText": "ลงในรูปปั้น\nที่สร้าง ancient soldier gear\nเขายังตั้งชื่อให้มันด้วย..."
+        },
+        {
+          "Line": 2190,
+          "OriginalText": "\nWhat was it again?\n\n",
+          "TranslatedText": "\nชื่ออะไรแล้วนะWhat was it again?\n"
+        },
+        {
+          "Line": 2196,
+          "OriginalText": "Chu?",
+          "TranslatedText": "Chu?"
+        },
+        {
+          "Line": 2200,
+          "OriginalText": " Cha? ",
+          "TranslatedText": " Cha? "
+        },
+        {
+          "Line": 2204,
+          "OriginalText": "Che?\n\n\n",
+          "TranslatedText": "Che?\n"
+        },
+        {
+          "Line": 2210,
+          "OriginalText": "Long story short: Robbie is a top-tier\nresearcher. I respect him a great deal.",
+          "TranslatedText": "โดยสรุป: Robbie เป็นนักวิจัยชั้นแนวหน้า \nฉันเคารพเขามาก"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk74",
+      "TextList": [
+        {
+          "Line": 2219,
+          "OriginalText": "Oooh! ",
+          "TranslatedText": "อู้วววว! "
+        },
+        {
+          "Line": 2223,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2227,
+          "OriginalText": "Sheikah Sensor \u002B",
+          "TranslatedText": "Sheikah Sensor \u002B"
+        },
+        {
+          "Line": 2230,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 2234,
+          "OriginalText": "\nI reaaally want to see it...",
+          "TranslatedText": "\nฉันอยากดูมันจังเลยยย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk75",
+      "TextList": [
+        {
+          "Line": 2243,
+          "OriginalText": "Did you bring me any ",
+          "TranslatedText": "ได้เอา "
+        },
+        {
+          "Line": 2247,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2250,
+          "OriginalText": "?",
+          "TranslatedText": "มาให้ฉันรึเปล่า?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk76",
+      "TextList": [
+        {
+          "Line": 2269,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2276,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2280,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2283,
+          "OriginalText": "are...",
+          "TranslatedText": "ก็คือ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk77",
+      "TextList": [
+        {
+          "Line": 2292,
+          "OriginalText": "Yes, quite.",
+          "TranslatedText": "ใช่แล้ว"
+        },
+        {
+          "Line": 2296,
+          "OriginalText": " So if you don\u0027t mind,\nhow about showing Symin that\nspiffy ",
+          "TranslatedText": " ถ้านายไม่ว่าอะไร\nเอา "
+        },
+        {
+          "Line": 2300,
+          "OriginalText": "Sheikah Sensor \u002B ",
+          "TranslatedText": "Sheikah Sensor \u002B "
+        },
+        {
+          "Line": 2303,
+          "OriginalText": "later?",
+          "TranslatedText": "ให้ Symin ดูหน่อยได้มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk78",
+      "TextList": [
+        {
+          "Line": 2312,
+          "OriginalText": "Anything else you need from me?",
+          "TranslatedText": "ต้องการอะไรอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk79",
+      "TextList": [
+        {
+          "Line": 2336,
+          "OriginalText": "What the ",
+          "TranslatedText": "มันคือสิ่ง "
+        },
+        {
+          "Line": 2340,
+          "OriginalText": "Guardians",
+          "TranslatedText": "Guardians"
+        },
+        {
+          "Line": 2343,
+          "OriginalText": " drop when you\ndefeat them! Those materials are\nfor realios! Heh! ",
+          "TranslatedText": " จะเหลือไว้\nเมื่อจัดการพวกมัน!\n"
+        },
+        {
+          "Line": 2347,
+          "OriginalText": "Understand?",
+          "TranslatedText": "เข้าใจมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk80",
+      "TextList": [
+        {
+          "Line": 2356,
+          "OriginalText": "I may speak of it lightly, but make no\nmistake. You\u0027ll be risking your life if\nand when you try to defeat a ",
+          "TranslatedText": "ฉันอาจจะพูดเหมือนง่าย แต่ว่าอย่าเข้าใจผิดนะ\nนายต้องเสี่ยงชีวิตเลยล่ะหากว่าคิดจะ\nจัดการกับ "
+        },
+        {
+          "Line": 2360,
+          "OriginalText": "Guardian",
+          "TranslatedText": "Guardian"
+        },
+        {
+          "Line": 2363,
+          "OriginalText": ".\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 2369,
+          "OriginalText": "Oh, you may also be able to collect some\n",
+          "TranslatedText": "อ้อ นายสามารถเก็บ\n"
+        },
+        {
+          "Line": 2373,
+          "OriginalText": "ancient parts",
+          "TranslatedText": "ancient parts"
+        },
+        {
+          "Line": 2376,
+          "OriginalText": " near the broken ",
+          "TranslatedText": " ได้จาก "
+        },
+        {
+          "Line": 2380,
+          "OriginalText": "Guardian\npile ",
+          "TranslatedText": "Guardian ที่พังแล้วได้ด้วย\n"
+        },
+        {
+          "Line": 2386,
+          "OriginalText": "on the ",
+          "TranslatedText": "บน "
+        },
+        {
+          "Line": 2390,
+          "OriginalText": "hill to the west",
+          "TranslatedText": "เนินเขาทางตะวันตก"
+        },
+        {
+          "Line": 2393,
+          "OriginalText": " at ",
+          "TranslatedText": " ที่ "
+        },
+        {
+          "Line": 2397,
+          "OriginalText": "Telta Lake",
+          "TranslatedText": "Telta Lake"
+        },
+        {
+          "Line": 2400,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk81",
+      "TextList": [
+        {
+          "Line": 2409,
+          "OriginalText": "I might remember ",
+          "TranslatedText": "ฉันเหมือนจะจำได้ว่า "
+        },
+        {
+          "Line": 2413,
+          "OriginalText": "Robbie",
+          "TranslatedText": "Robbie"
+        },
+        {
+          "Line": 2416,
+          "OriginalText": " from the\n",
+          "TranslatedText": " จาก\n"
+        },
+        {
+          "Line": 2420,
+          "OriginalText": "Akkala Ancient Tech Lab ",
+          "TranslatedText": "Akkala Ancient Tech Lab "
+        },
+        {
+          "Line": 2423,
+          "OriginalText": "collecting\nthem there too.\n",
+          "TranslatedText": " ก็สะสม\nพวกมันเหมือนกัน\n"
+        },
+        {
+          "Line": 2429,
+          "OriginalText": "Anywaaay, just think of it as community\nservice or whatever.",
+          "TranslatedText": "ยังไงก็เถอะ คิดเสียว่าเป็นการช่วยเหลือสังคม\nหรืออะไาก็ได้"
+        },
+        {
+          "Line": 2433,
+          "OriginalText": " Kill some ",
+          "TranslatedText": " ฆ่าพวก "
+        },
+        {
+          "Line": 2437,
+          "OriginalText": "Guardians",
+          "TranslatedText": "Guardians"
+        },
+        {
+          "Line": 2440,
+          "OriginalText": "\nand collect their ",
+          "TranslatedText": "\nและเก็บ "
+        },
+        {
+          "Line": 2444,
+          "OriginalText": "ancient parts",
+          "TranslatedText": "ancient parts"
+        },
+        {
+          "Line": 2447,
+          "OriginalText": ", yahoo!",
+          "TranslatedText": " มาซะ ยะฮู้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk83",
+      "TextList": [
+        {
+          "Line": 2456,
+          "OriginalText": "Bring those glorious materials either\nto ",
+          "TranslatedText": "เอาวัสดุล้ำค่าพวกนั้นมาให้\n"
+        },
+        {
+          "Line": 2460,
+          "OriginalText": "me",
+          "TranslatedText": "ฉัน"
+        },
+        {
+          "Line": 2466,
+          "OriginalText": " or to ",
+          "TranslatedText": " หรือไม่ก็ให้ "
+        },
+        {
+          "Line": 2470,
+          "OriginalText": "Robbie",
+          "TranslatedText": "Robbie"
+        },
+        {
+          "Line": 2473,
+          "OriginalText": "\u0027s place.",
+          "TranslatedText": " "
+        }
+      ]
+    },
+    {
+      "EntryName": "talk84",
+      "TextList": [
+        {
+          "Line": 2482,
+          "OriginalText": "You\u0027ll need ",
+          "TranslatedText": "นายต้องใช้ "
+        },
+        {
+          "Line": 2486,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 2489,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2493,
+          "OriginalText": "ancient screws",
+          "TranslatedText": "ancient screws"
+        },
+        {
+          "Line": 2496,
+          "OriginalText": " to\npower up your ",
+          "TranslatedText": " เพื่อ\nเพิ่มพลังให้ "
+        },
+        {
+          "Line": 2500,
+          "OriginalText": "Sheikah Sensor",
+          "TranslatedText": "Sheikah Sensor"
+        },
+        {
+          "Line": 2503,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk85",
+      "TextList": [
+        {
+          "Line": 2512,
+          "OriginalText": "You\u0027ll need ",
+          "TranslatedText": "นายต้องใช้ "
+        },
+        {
+          "Line": 2516,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 2519,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2523,
+          "OriginalText": "ancient shafts",
+          "TranslatedText": "ancient shafts"
+        },
+        {
+          "Line": 2526,
+          "OriginalText": " to\npower up your ",
+          "TranslatedText": " เพื่อ\nเพิ่มพลังให้ "
+        },
+        {
+          "Line": 2530,
+          "OriginalText": "Remote Bombs",
+          "TranslatedText": "Remote Bombs"
+        },
+        {
+          "Line": 2533,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk86",
+      "TextList": [
+        {
+          "Line": 2542,
+          "OriginalText": "You\u0027ll need ",
+          "TranslatedText": "นายต้องใช้ "
+        },
+        {
+          "Line": 2546,
+          "OriginalText": "three",
+          "TranslatedText": "three"
+        },
+        {
+          "Line": 2549,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2556,
+          "OriginalText": "ancient cores",
+          "TranslatedText": "ancient cores"
+        },
+        {
+          "Line": 2560,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2563,
+          "OriginalText": "to\npower up ",
+          "TranslatedText": "เพื่อ\nเพิ่มพลังให้ "
+        },
+        {
+          "Line": 2567,
+          "OriginalText": "Stasis",
+          "TranslatedText": "Stasis"
+        },
+        {
+          "Line": 2570,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk87",
+      "TextList": [
+        {
+          "Line": 2579,
+          "OriginalText": "If we\u0027re on the same page, stop staring\nat me! ",
+          "TranslatedText": "ถ้าเข้าใจตรงกันแล้ว ก็เลิกจ้องฉัน\nได้แล้ว! "
+        },
+        {
+          "Line": 2583,
+          "OriginalText": "Hurry up and bring me some\n",
+          "TranslatedText": "รีบเอา\n"
+        },
+        {
+          "Line": 2587,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2590,
+          "OriginalText": "!",
+          "TranslatedText": " มาให้ฉัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk88",
+      "TextList": [
+        {
+          "Line": 2599,
+          "OriginalText": "Now then, in exchange for those\n",
+          "TranslatedText": "แลกกับ\n"
+        },
+        {
+          "Line": 2603,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2606,
+          "OriginalText": "...\n\nI\u0027ll ",
+          "TranslatedText": "...\nฉันจะ "
+        },
+        {
+          "Line": 2610,
+          "OriginalText": "power up",
+          "TranslatedText": "เพิ่มพลัง"
+        },
+        {
+          "Line": 2613,
+          "OriginalText": " a ",
+          "TranslatedText": " ให้ "
+        },
+        {
+          "Line": 2617,
+          "OriginalText": "rune ",
+          "TranslatedText": "rune "
+        },
+        {
+          "Line": 2620,
+          "OriginalText": "on your\n",
+          "TranslatedText": "บน\n"
+        },
+        {
+          "Line": 2624,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 2627,
+          "OriginalText": "!",
+          "TranslatedText": " ของนาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk89",
+      "TextList": [
+        {
+          "Line": 2656,
+          "OriginalText": "Bring me those ",
+          "TranslatedText": "เอา "
+        },
+        {
+          "Line": 2663,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2669,
+          "OriginalText": "\nI requested ",
+          "TranslatedText": "\nตามที่บอกมาให้ฉัน "
+        },
+        {
+          "Line": 2673,
+          "OriginalText": "and I\u0027ll power up\nyour ",
+          "TranslatedText": "แล้วฉันจะเพิ่มพลัง\nให้ "
+        },
+        {
+          "Line": 2677,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 2680,
+          "OriginalText": "!",
+          "TranslatedText": " ของนาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk90",
+      "TextList": [
+        {
+          "Line": 2689,
+          "OriginalText": "So? Whatcha gonna do?!",
+          "TranslatedText": "ว่าไง? จะเอายังไง?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk91",
+      "TextList": [
+        {
+          "Line": 2724,
+          "OriginalText": "Robbie",
+          "TranslatedText": "Robbie"
+        },
+        {
+          "Line": 2727,
+          "OriginalText": " is ",
+          "TranslatedText": " เป็น "
+        },
+        {
+          "Line": 2731,
+          "OriginalText": "my subordinate.",
+          "TranslatedText": "ลูกน้องของฉัน"
+        },
+        {
+          "Line": 2735,
+          "OriginalText": "\nThere, I said it.\n\nI think he\u0027s still up on the edge of ",
+          "TranslatedText": "\nพูดไปซะแล้ว\nฉันคิดว่าเขายังอยู่ที่ "
+        },
+        {
+          "Line": 2739,
+          "OriginalText": "Akkala",
+          "TranslatedText": "Akkala"
+        },
+        {
+          "Line": 2742,
+          "OriginalText": "\nresearching ",
+          "TranslatedText": "\nค้นคว้าเรื่อง "
+        },
+        {
+          "Line": 2746,
+          "OriginalText": "Guardians",
+          "TranslatedText": "Guardians"
+        },
+        {
+          "Line": 2749,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 2753,
+          "OriginalText": " Haven\u0027t seen\nhim in 100 years, though. So who knows.",
+          "TranslatedText": " แต่ไม่ได้เห็น\nเขามา 100 ปีแล้ว ก็เลยไม่แน่ใจนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk92",
+      "TextList": [
+        {
+          "Line": 2762,
+          "OriginalText": "Something on your mind?",
+          "TranslatedText": "มีอะไรเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk93",
+      "TextList": [
+        {
+          "Line": 2791,
+          "OriginalText": "Aha! ",
+          "TranslatedText": "Aha! "
+        },
+        {
+          "Line": 2795,
+          "OriginalText": "I\u0027m glad you asked!\n\n\n",
+          "TranslatedText": "ดีใจที่ถามนะ!\n"
+        },
+        {
+          "Line": 2801,
+          "OriginalText": "If you bring me some ",
+          "TranslatedText": "ถ้านายเอา "
+        },
+        {
+          "Line": 2805,
+          "OriginalText": "ancient materials",
+          "TranslatedText": "ancient materials"
+        },
+        {
+          "Line": 2808,
+          "OriginalText": ",",
+          "TranslatedText": " มาให้ฉัน"
+        },
+        {
+          "Line": 2812,
+          "OriginalText": "\nI\u0027ll ",
+          "TranslatedText": "\nฉันจะ "
+        },
+        {
+          "Line": 2816,
+          "OriginalText": "power up ",
+          "TranslatedText": "เพิ่มพลัง "
+        },
+        {
+          "Line": 2819,
+          "OriginalText": "your ",
+          "TranslatedText": "ให้กับ "
+        },
+        {
+          "Line": 2823,
+          "OriginalText": "runes",
+          "TranslatedText": "runes"
+        },
+        {
+          "Line": 2826,
+          "OriginalText": "!",
+          "TranslatedText": " ของนาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk94",
+      "TextList": [
+        {
+          "Line": 2835,
+          "OriginalText": "Anything else?",
+          "TranslatedText": "มีอะไรอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk95",
+      "TextList": [
+        {
+          "Line": 2864,
+          "OriginalText": "Hoooold it! Stop EVERYTHING!",
+          "TranslatedText": "หยุดก่อนนนนน! หยุดการทำงานทั้งหมด!"
+        },
+        {
+          "Line": 2868,
+          "OriginalText": "\nYou don\u0027t have the necessary materials!",
+          "TranslatedText": "\nนายไม่มีของที่ต้องใช้นี่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk96",
+      "TextList": [
+        {
+          "Line": 2877,
+          "OriginalText": "I\u0027m barely scraping by as is...",
+          "TranslatedText": "นี่ฉันก็แทบจะเอาตัวไม่รอดอยู่แล้ว..."
+        },
+        {
+          "Line": 2881,
+          "OriginalText": "\nHINT, HINT.",
+          "TranslatedText": "\n"
+        }
+      ]
+    }
+  ]
+}

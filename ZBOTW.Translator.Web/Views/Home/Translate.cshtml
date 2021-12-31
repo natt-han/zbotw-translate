@@ -1,0 +1,170 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css" integrity="sha512-6S2HWzVFxruDlZxI3sXOZZ4/eJ8AcxkQH1+JjSe/ONCEqR9L4Ysq5JdT5ipqtzU7WHalNwzwBv+iE51gNHJNqQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/regular.css" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/fontawesome.css" integrity="sha384-eHoocPgXsiuZh+Yy6+7DsKAerLXyJmu2Hadh4QYyt+8v86geixVYwFqUvMU8X90l" crossorigin="anonymous"/>
+<style>
+td{
+   vertical-align:top; 
+}
+textarea {
+    resize: none;
+    overflow: hidden;
+    min-height: 30px;
+    min-width:350px;
+}
+.list-group-item{
+    padding: 0.2em 0.5em;
+}
+.entry-name{
+    width:150px
+}
+</style>
+<div id="main-div">
+    
+    <div class="row">
+        <div class="col-sm-2" style="overflow-x:hidden; font-size:.7em;height:900px;">
+            <input type="text" v-model="fileNameFilter" class="form-control form-control-sm" />
+            <div class="list-group">
+              <button v-for="fileName in filteredFileList" class="list-group-item list-group-item-action" v-bind:class="{active:selectedFile==fileName}" v-on:click="select(fileName)" >{{fileName}}</button>
+            </div>
+        </div>
+        <div class="col-sm-10">
+            <div class="row"> 
+                <div class="col-sm-6">
+                    <h5>{{messageTable.fileName}}</h5>
+                </div>
+                <div class="col-sm-4 text-end">
+                    <button type="button" class="btn-primary btn" v-on:click="save()">Save</button>
+                </div>
+            </div>
+            
+            
+            <table class="table">
+                <tbody >
+                    <tr v-for="item in messageTable.entryList">
+                        <td class="entry-name text-break">
+                            {{item.entryName}}
+                        </td>
+                        <td>
+                            <div v-for="text in item.textList" class="row gx-2">                                
+                                <div class="col-auto">
+                                    <textarea type="text" v-bind:id="'txt-translated-'+text.Line" v-model="text.translatedText" ></textarea>
+                                </div>
+                                <div class="col-auto">
+                                    <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
+                                </div>
+                                <div class="col-auto">
+                                    <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-model="text.originalText" readonly tabindex="-1"></textarea>
+                                </div>
+                            </div>                    
+                        </td>
+                        @*<td>
+                            <template v-for="text in item.textList">
+                                <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-model="text.originalText" readonly tabindex="-1"></textarea>
+                                <br/>
+                            </template>                    
+                        </td>*@
+                    </tr>        
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+</div>
+
+@section Scripts{
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
+<script>
+    
+    var vue = new Vue({
+        el:"#main-div",
+        data:{
+            fileList:[],
+            selectedFile:"",
+            fileNameFilter:"",
+            messageTable:{
+                fileName:"",
+                entryList:[]
+            }
+        },
+        computed:{
+            filteredFileList(){
+                var filter = this.fileNameFilter.toLowerCase()
+                return this.fileList.filter(x=>x.toLowerCase().includes(filter));
+            }
+        },
+        methods:{
+            select(fileName){
+                this.selectedFile=fileName;
+                this.getMessageTable(fileName);
+            },
+            getMessageTable:function(fileName){                
+                var v = this;
+                $.ajax({
+                    url:"@Url.Action("GetMessageTable")",
+                    data:{fileName:fileName},
+                    dataType:"json"
+                }).done(function(result){
+                    v.messageTable=result;
+                    Vue.nextTick(function(){
+                        v.updateTextareaHeight()
+                    })
+                }).fail(function(){
+                    console.log('fail');
+                });
+                
+            },
+            copyOrigin:function(text){
+                text.translatedText=text.originalText;
+            },
+            save(){
+                $.post({
+                    url:"@Url.Action("Save")",
+                    contentType:"application/json",
+                    data:JSON.stringify(this.messageTable),
+                }).done(function(){
+                    toastr.success("Saved");
+                }).fail(function(){
+                    toastr.error("Error!");
+                });
+            },            
+            auto_grow:function(element) {
+                element.style.height = "5px";
+                element.style.height = (element.scrollHeight)+"px";
+            },
+            updateTextareaHeight:function(){
+                $("textarea").each(function(index,element){
+                    element.style.height = "5px";
+                    element.style.height = (element.scrollHeight)+"px";
+                });
+            }
+        },
+        created: function(){
+            var v = this;
+            $.ajax({url:"@Url.Action("GetFileList")",dataType:"json"})            
+            .done(function(result){
+                v.fileList = result;
+                v.select(v.fileList[0]);
+            });
+        }
+    });
+    $().ready(function(){
+        $("#main-div").on("input","textarea",auto_grow)
+        function auto_grow(e) {
+            var element=e.target;
+            element.style.height = "5px";
+            element.style.height = (element.scrollHeight)+"px";
+        }
+    });
+    
+    //function getMessageTable(fileName){
+    //    $.ajax({
+    //        url:"@Url.Action("GetMessageTable")",
+    //        data:{fileName:fileName},
+    //        dataType:"application/json"
+    //    }).done(function(result){
+    //        return result;
+    //    });
+    //}
+</script>
+}

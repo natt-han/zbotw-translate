@@ -1,0 +1,290 @@
+{
+  "FileName": "Npc_RitoHatago002",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes, I do.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, I don\u0027t.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Where am I?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_00",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 33,
+          "OriginalText": "\nDo you need a bed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Hello. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "Do you need a bed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_02",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "You\u0027re coming in pretty late. You need a\nbed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_04",
+      "TextList": [
+        {
+          "Line": 94,
+          "OriginalText": "If you\u0027d like to use the stable,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": " speak to\nthe master at the counter.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_08",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Ah, a customer. Need a bed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_09",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "Oh, I see...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_10",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "Ha!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": " Are you lost or something?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": "\nThis is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "Rito Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 156,
+          "OriginalText": "We can help you with horse affairs\nat the counter outside,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": " or you can stay\nthe night at the inn inside.\nIf you\u0027re wondering why we called this\nplace ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "Rito Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": ", well...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_11",
+      "TextList": [
+        {
+          "Line": 176,
+          "OriginalText": "I see... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 180,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_12",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "We took our name from the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": "Rito ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "people\nwho live there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_13",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\nIt looks like we\u0027re going to have beautiful\nweather today.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_14",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": "\nIt\u0027s too bad the weather\u0027s like this\ntoday...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_15",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "You see that tower over there?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk_16",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "This is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 244,
+          "OriginalText": "Rito Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 247,
+          "OriginalText": ".\n\n\nWe can help you with horse affairs\nat the counter outside,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": " or you can stay\nthe night at the inn inside.\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": "Rito",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": " live in the village just west of\nhere.\n\nHence the name ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "Rito Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

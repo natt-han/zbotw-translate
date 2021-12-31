@@ -1,0 +1,500 @@
+{
+  "FileName": "Npc_Zora020",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Normal bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Blissful water bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Until morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Until noon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Until night.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Water bed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "We\u0027re always happy to provide some\nsound sleep to weary travelers.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 49,
+          "OriginalText": "\nWelcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": "Seabed Inn",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "Hello!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 74,
+          "OriginalText": "You\u0027ve been working late.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 83,
+          "OriginalText": "Wait...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": " It can\u0027t be...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": " Y-you\u0027re Master Link!\nFrom 100 years ago!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "*ahem* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "Sorry. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 105,
+          "OriginalText": "Back to work I go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 114,
+          "OriginalText": "Ah, I can finally see a break in the\nweather.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 118,
+          "OriginalText": " Now then...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 127,
+          "OriginalText": "I knew it was you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 131,
+          "OriginalText": "from 100 years ago...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "You\u0027re Master Link!\n\nNot to be rude by assaulting a customer\nwith questions, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": " Where have you\nbeen all this time?!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 145,
+          "OriginalText": "You should know that in the last\n100 years...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 149,
+          "OriginalText": "my childhood friend,\nKodah, and I...\n...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "*ahem* I am sorry. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": "I should get back to\nwork now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": " I will simply have to speak\nwith Kodah about you later.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Our normal bed will cost you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "20 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": "\nOur blissful water bed is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "80 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 209,
+          "OriginalText": "Of course.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": " Come back again anytime.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "I\u0027m sorry, but you don\u0027t seem to have\nenough rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 226,
+          "OriginalText": " Please leave for now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 235,
+          "OriginalText": "How long would you like to sleep?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "How long would you like to sleep on the\nblissful water bed?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "OK then. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": "Please sleep well\nuntil morning...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 286,
+          "OriginalText": "OK then. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "Please sleep well\nuntil noon...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 299,
+          "OriginalText": "OK then. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 303,
+          "OriginalText": "Please sleep well\nuntil nightfall...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 312,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": " You look like you\nslept well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 325,
+          "OriginalText": "Good afternoon.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": " You look like you\nslept well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "You seem to have slept well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "\nIt\u0027s nighttime now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 351,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 355,
+          "OriginalText": " I hope you enjoyed the\nblissful water bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 364,
+          "OriginalText": "You appear to have slept well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": " I hope you\nenjoyed the blissful water bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 377,
+          "OriginalText": "I see you slept soundly.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": " I hope you\nenjoyed the blissful water bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "You wish to know about our water bed?\nWell, as the name implies...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "it is a bed\nfilled with water.\nIt conforms to the shape of your body,\nso it\u0027s like being wrapped up in a\ncocoon as you sleep. Very calming.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "Oh, and its incredible cooling effect\npromises a level of sleeping comfort\nyou simply can\u0027t find elsewhere.\nPerhaps you would like to try it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 419,
+          "OriginalText": "Would you like to rest here?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 428,
+          "OriginalText": "Hello! Welcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 432,
+          "OriginalText": "Seabed Inn",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "FileName": "Npc_Goron022",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "How did you know?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Gotta go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "A Divine Beast.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Pleasure!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 34,
+          "OriginalText": "Hrmmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Well, lookee here...\n\n\nWelcome, Master Link!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Justice at long last!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "To be honest, we haven\u0027t had too many\nvisitors here since those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": "magma bombs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": "\nstarted fallin\u0027 from the sky.\nI\u0027d be bored to tears if I didn\u0027t pass the\ntime pretendin\u0027 to greet the long lost\nHylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 95,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": ", heh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "What brings ya all the way out here?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "Oh, in case ya didn\u0027t know, Link is the\nlittle ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "who fought alongside the\nGoron ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": ", Daruk.\nIf ya wanna hear more, talk to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": ".\nHe lives further in town.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 156,
+          "OriginalText": "Hey there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": " Nice day, isn\u0027t it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 169,
+          "OriginalText": "Hey there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 173,
+          "OriginalText": " It\u0027s hot out here. Again.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Hey there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": " Even the evening is hot...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "Hey there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "See ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 213,
+          "OriginalText": "Well, whatever brought ya here doesn\u0027t\nreally matter. Welcome, brother!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "Because of this extreme heat, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": "I actually\nhaven\u0027t seen any ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": "Hylians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": " around lately...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": "Welp, their loss! Enjoy your stay,\nlittle guy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 245,
+          "OriginalText": "Business, eh?\n\n\nIn the old days, you could easily find\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "jewels",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": " in Goron City. To us, they\u0027re just\ngross snacks that are hard to eat. Yuck!\nSounds nuts, but lots of people actually\nbuy those abominations at a high price.\nCrazy, I know. But it\u0027s true!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "I don\u0027t get it, but that\u0027s why the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": "\nand Goron City make lots of money\nsellin\u0027 that weird food to crazy folks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 274,
+          "OriginalText": "Huh. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Sorry, I don\u0027t really know anything\nabout all that business.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": "If you\u0027re lookin\u0027 for info, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "I bet the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "\nknows a thing or two about it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "I hear there are some valuable jewels on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 308,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 311,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": "No one goes near there these days,\nso you could probably go dig it all up\nwithout much competition.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Well, just visiting is well and good, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 330,
+          "OriginalText": "\ncan you really bear this heat?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 336,
+          "OriginalText": "There are some goods that might suit a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 340,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": "tourist like you.\n\nIn fact, fire-resistant armor can\nbe purchased at a shop called\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "Ripped and Shredded",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": ".\nIf that doesn\u0027t do it for ya, I also saw\nsomeone sellin\u0027 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "\nYou should go check it out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 370,
+          "OriginalText": "By the way, mister... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": "I think you came at\na good time!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": "Ever since that lizard monster lurking on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 384,
+          "OriginalText": "Death Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "was tamed, it\u0027s safe\nagain. That means you can take it easy!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": "Then again, it may be safe, but it\u0027s still\npretty darn hot...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "Hm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": "I thought you said you were here for some\n\u0022divine bees\u0022 earlier? Maybe I\u0027m crazy...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 432,
+          "OriginalText": "Huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": "Didn\u0027t you say somethin\u0027 about being here \nfor pleasure before?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 456,
+          "OriginalText": "Huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 460,
+          "OriginalText": "Didn\u0027t you say somethin\u0027 about being here \nfor business earlier?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 474,
+          "OriginalText": "I don\u0027t know anything about a\n\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "diving feast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "\u0022 or whatever...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 487,
+          "OriginalText": "I do know ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 491,
+          "OriginalText": "Boss ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 494,
+          "OriginalText": "drives a lizard monster\naway with a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 498,
+          "OriginalText": "cannon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": ", so you should ask\nhim if you wanna know more about that.\nBy the way, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "Boss ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "is the old guy that lives\nin the deepest part of town.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 517,
+          "OriginalText": "The \u0022divine beat\u0022?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": " Oh! You mean that\nlizard monster, don\u0027t you?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 527,
+          "OriginalText": "That thing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 531,
+          "OriginalText": "caused such a ruckus for us!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": "Thanks to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 541,
+          "OriginalText": "Yunobo",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 548,
+          "OriginalText": " peace has finally\nbeen restored!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 557,
+          "OriginalText": "What do ya mean?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 561,
+          "OriginalText": " More importantly,\nI hope ya made it past all those\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": "magma bombs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": " without injury!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

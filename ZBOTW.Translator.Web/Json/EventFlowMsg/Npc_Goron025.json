@@ -1,0 +1,1105 @@
+{
+  "FileName": "Npc_Goron025",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What\u0027s up?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I don\u0027t know.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "And you are?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Name ends in \u0022son.\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Are you strong?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Let\u0027s talk!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "This place?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Tarrey Town?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "I came to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Where\u0027s Greyson?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Buy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 81,
+          "OriginalText": "Sure thing! What do you wanna sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 90,
+          "OriginalText": "You wanna sell that? I could give ya...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": ". Sound OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 118,
+          "OriginalText": "Thanks, brother!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 122,
+          "OriginalText": " Anything else ya\nwanna sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 131,
+          "OriginalText": "Thanks, brother! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "Wanna sell more?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 144,
+          "OriginalText": "Thanks a bunch, brother! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 148,
+          "OriginalText": "\nGot more to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "Great! Thanks, brother! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": "Anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 165,
+          "OriginalText": "Got it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 169,
+          "OriginalText": "I\u0027ll buy anything!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "Take your time!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 177,
+          "OriginalText": "I\u0027ll buy whatever!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "Go ahead and pick somethin\u0027 to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 190,
+          "OriginalText": "Come back soon!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "Thanks for your business, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 208,
+          "OriginalText": "Great! Thanks, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "Thanks, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 221,
+          "OriginalText": "You wanna sell me that?\nHow many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "I can do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": ".\nIs that OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 257,
+          "OriginalText": "I can\u0027t buy that... Sorry!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "If ya wanna sell me the clothes off your\nback, change into somethin\u0027 else first!\nIt\u0027s called common decency.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "Great! How many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 283,
+          "OriginalText": "Just one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": " Let\u0027s do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 298,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": "\nThat OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 311,
+          "OriginalText": "All of \u0027em?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": " That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 323,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "All of \u0027em?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": " I can offer you\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_50",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "You wanna buy that? That\u0027ll be\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": ". That OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_51",
+      "TextList": [
+        {
+          "Line": 388,
+          "OriginalText": "You want that?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 392,
+          "OriginalText": " How many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_52",
+      "TextList": [
+        {
+          "Line": 405,
+          "OriginalText": "That\u0027ll be a total of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 413,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": ".\nThat OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_53",
+      "TextList": [
+        {
+          "Line": 428,
+          "OriginalText": "No problem!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_54",
+      "TextList": [
+        {
+          "Line": 437,
+          "OriginalText": "Hm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "You don\u0027t have enough rupees...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_55",
+      "TextList": [
+        {
+          "Line": 450,
+          "OriginalText": "Hm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": "Your pouch is full...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "\nCome back after you\u0027ve sorted\nthat all out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 462,
+          "OriginalText": "Just one? That\u0027ll be",
+          "TranslatedText": null
+        },
+        {
+          "Line": 466,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 492,
+          "OriginalText": "Woo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 500,
+          "OriginalText": "Welcome!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near06",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "Ah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 513,
+          "OriginalText": "Hey there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 530,
+          "OriginalText": "Why is my older brother, Greyson,\nalways complaining about stuff?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 547,
+          "OriginalText": "Have you ever wondered why grown-ups\nare always so secretive...?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 556,
+          "OriginalText": "But why? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 560,
+          "OriginalText": "Why don\u0027t you know?\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": "If you\u0027re a grown-up,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 570,
+          "OriginalText": " you should always\nsay the truth!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 579,
+          "OriginalText": "Bye-bye!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 588,
+          "OriginalText": "Hm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 605,
+          "OriginalText": "Sure! That sounds fun!\nWhat do you wanna talk about?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 632,
+          "OriginalText": "Hm?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 639,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": "Is there somethin\u0027 on my face?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 659,
+          "OriginalText": "Me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": " I\u0027m Pelison!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 680,
+          "OriginalText": "Yep!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 697,
+          "OriginalText": "You bet I\u0027m strong!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 703,
+          "OriginalText": "But my big bro, Greyson,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 707,
+          "OriginalText": "\nis even stronger!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 716,
+          "OriginalText": "My brother should be somewhere\naround here.\n\nHe\u0027s so much happier than he was\nat the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 720,
+          "OriginalText": "Southern Mine",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 729,
+          "OriginalText": "He gets praised a ton for how fast\nhe can move rocks. I\u0027m sure that\nmakes him extra happy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 738,
+          "OriginalText": "My brother should be breakin\u0027 rocks\naround there. Either that or he\u0027s\nzonin\u0027 out, heh.\nHe\u0027s so much happier than when he\nwas workin\u0027 at the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 742,
+          "OriginalText": "Southern Mine",
+          "TranslatedText": null
+        },
+        {
+          "Line": 745,
+          "OriginalText": ".\nWhen he\u0027s happy, I\u0027m happy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 754,
+          "OriginalText": "Wanna talk about somethin\u0027 else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 781,
+          "OriginalText": "Hey! Big Bro Greyson\u0027s friend!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 790,
+          "OriginalText": "Once we started breakin\u0027 up the rock\nhere, we found that it\u0027s rich in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 794,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 797,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 801,
+          "OriginalText": "\nSo I\u0027ve decided to open up shop!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 807,
+          "OriginalText": "I\u0027m not sure why we have so much\nore here, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 811,
+          "OriginalText": "but maybe it\u0027s because\nwe\u0027re close to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 815,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 818,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 824,
+          "OriginalText": "Anyway, these here are freshly mined.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 828,
+          "OriginalText": "\nBe sure to buy a whole bunch!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 837,
+          "OriginalText": "Need somethin\u0027?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 855,
+          "OriginalText": "Good day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 864,
+          "OriginalText": "It\u0027s so cold here.\n\n\nOr maybe it\u0027s just that Goron City\nis too hot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 873,
+          "OriginalText": "See ya next time!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 882,
+          "OriginalText": "We started findin\u0027 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 886,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 889,
+          "OriginalText": " in the rocks my\nbrother was breakin\u0027, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 893,
+          "OriginalText": "so I decided to\nopen up shop and sell \u0027em!\nBe sure to buy a whole bunch!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 902,
+          "OriginalText": "Thanks, brother! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 906,
+          "OriginalText": "I\u0027ll be sure to restock!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 915,
+          "OriginalText": "A sale! Wahoo! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 919,
+          "OriginalText": "Now I\u0027m all sold out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 928,
+          "OriginalText": "I\u0027m all sold out!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 932,
+          "OriginalText": " I\u0027ll have to ask my big\nbro to go and dig up some more!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 941,
+          "OriginalText": "Thanks, brother! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 945,
+          "OriginalText": "I\u0027m all out now...\nI\u0027ll have to stock up again.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 954,
+          "OriginalText": "Hey, don\u0027t do that!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 958,
+          "OriginalText": " Get down from there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 967,
+          "OriginalText": "Hurry up and get down!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 976,
+          "OriginalText": "Please stop climbin\u0027 on things!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 985,
+          "OriginalText": "Get DOWN! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 989,
+          "OriginalText": "That\u0027s so rude!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

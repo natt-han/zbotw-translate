@@ -1,0 +1,575 @@
+{
+  "FileName": "Npc_HighMountain041",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "That\u0027s not true.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Oh, really...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Sure thing.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "No way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "\u266ALa la! Da dee doo!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027m beat...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "Morning, morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 54,
+          "OriginalText": "G\u0027day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "G\u0027night!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "It\u0027s coming down!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 81,
+          "OriginalText": "HA!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": " Let me guess\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 89,
+          "OriginalText": "you had to sell the\nshirt off of your back to afford staying at\nthe inn here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": " This place is the worst.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 102,
+          "OriginalText": "Whoa... I just realized that you\u0027re ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 109,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": "\nYou just wandering around Hyrule?\nTrying to find yourself?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "Let me tell you... This village is straight\nup BOOOOORING.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "You serious?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 151,
+          "OriginalText": " Cheers!\nJust hold out your hand.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 160,
+          "OriginalText": "I\u0027m here on my honeymoon. But this\ntown is seriously a hole.\n\nIn Gerudo Town, they\u0027ve got jewelry to\nbuy. Zora\u0027s Domain is always a hoot with\nall of the weird, spiritual fish people...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "But here...I just want to go home already.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 183,
+          "OriginalText": "I can\u0027t believe my husband brought me\nhere for our honeymoon...\n\nHe already apologized, but if he doesn\u0027t\nwant a divorce, I told him he\u0027d better\nbring me a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "baked apple",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "Where\u0027s your shirt?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": " I didn\u0027t realize this\nvillage was THAT kind of honeymoon\nresort...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 212,
+          "OriginalText": "Heyyyy...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 221,
+          "OriginalText": "Haaah...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 225,
+          "OriginalText": " I\u0027m exhausted...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "SO tired...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 243,
+          "OriginalText": "Oh, wow.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 252,
+          "OriginalText": "What",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": " a",
+          "TranslatedText": null
+        },
+        {
+          "Line": 260,
+          "OriginalText": " cheapskate.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "*SNOOOOOOORE*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 278,
+          "OriginalText": "*sniff sniff* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": "\nI know that smell!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "\nYou\u0027ve got a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "baked apple",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 302,
+          "OriginalText": "Really? He REALLY thought this freezing-\ncold town in the middle of nowhere was\na good place to celebrate our love?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 311,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "one",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 322,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 339,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": "five",
+          "TranslatedText": null
+        },
+        {
+          "Line": 346,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "30",
+          "TranslatedText": null
+        },
+        {
+          "Line": 402,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 427,
+          "OriginalText": "50",
+          "TranslatedText": null
+        },
+        {
+          "Line": 430,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 451,
+          "OriginalText": "Can I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "100",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": " I\u0027ll give you a present!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 479,
+          "OriginalText": "Give me a break already!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 488,
+          "OriginalText": "Now if I could only get my husband to\ncook me a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 492,
+          "OriginalText": "baked apple",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": " every once in a\nwhile.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "I\u0027ve got a second stomach and a hollow\nleg for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "baked apples",
+          "TranslatedText": null
+        },
+        {
+          "Line": 514,
+          "OriginalText": ". Bring me as many\nas you possibly can.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 523,
+          "OriginalText": "The more you bring me, the more I\u0027ll pay\nyou for each one.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

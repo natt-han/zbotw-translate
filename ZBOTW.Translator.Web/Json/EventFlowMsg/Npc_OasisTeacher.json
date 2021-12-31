@@ -1,0 +1,770 @@
+{
+  "FileName": "Npc_OasisTeacher",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll observe.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Creamy heart soup?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Yeah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027m not sure...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "C-calm down!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "What\u0027re you trying to do?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Eeek!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "S-stop it, please!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Wh-what?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Oh, my...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "Oh... Would you be interested in my\nclass on interacting with voe in the world\noutside this town?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "OK, everyone!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 82,
+          "OriginalText": "\nLet\u0027s show our cute observer what we\u0027ve\nbeen learning in class!\nNow then...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": "\n\n\nYou\u0027re walking down the street on your\nway somewhere, and a handsome voe\nyou\u0027ve never met approaches...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 95,
+          "OriginalText": "Oh!\n\n\nI would wave casually to him but also\nkeep myself prepared in case he\u0027s a\ndistraction for a bandit ambush!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "Excellent thinking, Pasha! That\u0027s a\nprudent approach to a new situation.\n\nRemember that sometimes voe may look\nsuspicious but are just being wary due to\nthe sight of a daunting Gerudo.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "Oh!\n\n\nI would enthusiastically greet him,\napproaching with a smile and with my\nhands clearly empty!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "Wow, Dina, that\u0027s a very optimistic\napproach to take!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "Being overtly friendly is an excellent way\nto put the stranger\u0027s mind at ease.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "Oh!\n\n\nI would walk casually toward him and\nthen strike a fierce blow when he least\nsuspected it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "Risa...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "\n\n\nThat would be a crime...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Oh... Are you interested in sitting in on\nmy class \u0022Voe and You\u0022? It may even\nteach you a thing or two!\nThere\u0027s no hurry\u2014we won\u0027t be starting\nuntil everyone has arrived.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 168,
+          "OriginalText": "Do you already care deeply for\nsomeone?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 177,
+          "OriginalText": "These young vai have never even met a\nvoe before.\n\nIt\u0027s my duty to help prepare them for\nwhat they\u0027ll encounter in the world\nbeyond Gerudo Town, good and bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 186,
+          "OriginalText": "Oh, are you interested in the classes I\nteach to vai before they set off from\nGerudo Town?\nI teach a cooking class at my house at\nnight. If you want, please stop by!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "Oh... Would you be interested in my\ncooking class?\n\nI\u0027m sure even with what you may already\nknow from your travels, you\u0027d learn\nsomething in my class!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": "However, while I\u0027d love to invite you to\njoin us...\n\nI can\u0027t seem to remember the recipe for\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": "creamy heart soup",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": " I was planning to\nmake for today\u0027s lesson.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 225,
+          "OriginalText": "They say that a Gerudo who masters\nmaking ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 229,
+          "OriginalText": "creamy heart soup",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": " can master\nalmost anything in the world.\nI know you need some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": "fresh milk",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": ", one\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 243,
+          "OriginalText": "voltfruit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": ", one ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": "hydromelon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 253,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 257,
+          "OriginalText": "and\ntwo ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "heart-shaped vegetables",
+          "TranslatedText": null
+        },
+        {
+          "Line": 264,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 268,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "But I just can\u0027t seem to remember...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "\nGrrr, what was that heart-shaped\nvegetable?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 287,
+          "OriginalText": "Oh, are you interested in the classes I\nteach to vai before they set off from\nGerudo Town?\nMy \u0022Voe and You\u0022 class is in the\nbarracks. If you\u0027d like, please stop by.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "Hmm...\n\n\nI was planning on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 300,
+          "OriginalText": "creamy heart soup ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 303,
+          "OriginalText": "for\nthe lesson today, but I\u0027m being a bit\nforgetful, it seems.\nI know that I need some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": "fresh milk",
+          "TranslatedText": null
+        },
+        {
+          "Line": 310,
+          "OriginalText": ", one\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": "voltfruit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": ", one ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "hydromelon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 324,
+          "OriginalText": ", and two\nheart-shaped vegetables...\nI just can\u0027t recall what the heart-shaped \nvegetable was...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 328,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "Well, I\u0027m sure it\u0027ll come back to me\neventually... Can\u0027t afford to lose my\nmomentum in life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "Well, I\u0027m sure it\u0027ll come back to me\neventually... Can\u0027t afford to lose my\nmomentum in life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 357,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 371,
+          "OriginalText": "Sav\u0027aaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 385,
+          "OriginalText": "Sav\u0027saaba!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 394,
+          "OriginalText": "Oh, it\u0027s you. Did you want to observe\nthe \u0022Voe and You\u0022 class?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 411,
+          "OriginalText": "Attention, everyone! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": "Let\u0027s get started!\nWe can show this cute vai what we\u0027ve\nbeen learning in class!\nNow then...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "\n\n\nIn your travels, you come upon an\ninjured voe lying on the ground. What do\nyou do?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 428,
+          "OriginalText": "Oh!\n\n\nI immediately lift him up over my\nshoulder and carry him to the nearest\nperson who can treat him!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 437,
+          "OriginalText": "That\u0027s a very proactive answer, Pasha!\n\n\nAlways be aware that an injured person\nmay have non-visible injuries before you\nmove them, though!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 446,
+          "OriginalText": "Oh!\n\n\nI would determine what was the matter\nand make a medicine on the spot\nto treat him!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "Great answer, Dina!\n\n\nJust be careful that the voe doesn\u0027t have\nsome sort of allergy to the ingredients\nin your medicine!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 464,
+          "OriginalText": "Oh!\n\n\nI would secretly bring him back to my\nhome, where I could help him gradually\nrecover! ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "Risa...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": "\nA sweet sentiment...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "\nBut also basically kidnapping.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 490,
+          "OriginalText": "During the day, it\u0027s \u0022Voe and You.\u0022\nAt night it\u0027s the cooking classes.\n\nPeople around me say it\u0027s a bit much,\nbut I say as long as there is something to\nlearn, why not keep learning?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "Attention, everyone! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": "Let\u0027s get started!\nWe can show this cute vai what we\u0027ve\nbeen learning in class!\nNow then...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 515,
+          "OriginalText": "\n\n\nYou are suddenly approached by a voe\nwhose attention you\u0027ve sought, and he\nabruptly engages you in conversation.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 524,
+          "OriginalText": "Hrm...\n\n\nI would pretend that I don\u0027t know how to\nspeak his language.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "That\u0027s an interesting approach, Pasha!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": "\nYou could inspire some curiosity in the\nvoe by doing that...\nRemember: it isn\u0027t unrealistic that the\nvoe may actually speak the language you\npretend to know, too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 546,
+          "OriginalText": "Oh!\n\n\nI would take the up-close opportunity to\ndetermine his social standing based on\nthe clothes he\u0027s wearing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Ah, good thinking, Dina.\n\n\nJust remember that sometimes all of\nsomeone\u0027s good clothes are dirty, so\nthey might wear something more casual.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "Oh!\n\n\nI would grab his hand and twist his wrist\nuntil he agreed to marry me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 573,
+          "OriginalText": "Wha...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 577,
+          "OriginalText": " You\u0027d...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 581,
+          "OriginalText": "\n\n\nRisa... Let\u0027s talk after class.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 590,
+          "OriginalText": "Oh... Are you interested in taking my\nclass \u0022Voe and You\u0022?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": "\nI\u0027m Ashai.\nDuring the day I teach a class on the\nvoe of the world, and at night I teach\ncooking classes.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 600,
+          "OriginalText": "Why don\u0027t you join us?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 609,
+          "OriginalText": "Heehee...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 613,
+          "OriginalText": "\nYou\u0027re wearing such an innocent\nexpression, but you understand, yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk41",
+      "TextList": [
+        {
+          "Line": 622,
+          "OriginalText": "Oh, dear...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 626,
+          "OriginalText": "\nIt sounds like you don\u0027t yet understand.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "Perhaps you should consider taking my\nlessons, hm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 646,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 660,
+          "OriginalText": "Sav\u0027aaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 674,
+          "OriginalText": "Sav\u0027saaba!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

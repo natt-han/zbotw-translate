@@ -1,0 +1,615 @@
+{
+  "FileName": "Npc_NorthHateru005",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What is this place?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "You seem grumpy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027m sorry.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "The Zora?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "See ya.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Satty?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "I want to hear it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Not really.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "And then?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "That\u0027s enough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "And then? And then?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk000",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "Yo...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk001",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "Really?! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": "Another guy?!\n\n\nThe only people I can meet here at this\nstable are men...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk002",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "Oh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": " Hey, girl...\nIt\u0027s been a while since I\u0027ve seen a\nvision as fine as you around he\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": "Wait a sec...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": "\nYou\u0027re a guy, aren\u0027t you?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "Look, pal. Those clothes might fool\nsomeone from Gerudo,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": " but they\u0027re not\nfooling this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 123,
+          "OriginalText": ".\n*sigh*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 127,
+          "OriginalText": "\nI should have known I wouldn\u0027t meet any\nwomen at this crummy stable.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk005",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "Hm?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 149,
+          "OriginalText": " Oh, it\u0027s just you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 153,
+          "OriginalText": " You want\nsomething? Or are you just here to\ndisappoint me again?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk010",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "It\u0027s a filthy stable filled with nothing but\nunwashed men...\n\nAnd even when we were finally visited by\na Zora...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "turns out he was some\nmanly ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "prince ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "guy who\u0027s a dude.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "Satty\u0027s the only reason I\u0027m sticking\naround this dump.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk020",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "Take a look to the east.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": "\nIt\u0027s always covered in clouds, right?\n\nRain and stuff really sours my mood.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "\nGood thing Satty\u0027s here to cheer me up.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk030",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "I don\u0027t want to hear it.\n\n\nThe only visitors we get at this stable\nthese days are guys like you and the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "Zora prince",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": ".\nMen. Men everywhere...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk040",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "You don\u0027t know who the Zora are?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "\nThey\u0027re, like, slippery fish people.\n\nThey live east of here...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": "up ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 267,
+          "OriginalText": "Zora River ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "in\na place called Zora\u0027s Domain.\n\nThey wanted me to stop by their domain\nbecause they need a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": "for\nsomething...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": "But I don\u0027t want to abandon Satty or put\nhim in danger, so I\u0027m in a bit of a tight\nspot...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk050",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "Yeah... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 304,
+          "OriginalText": "See ya.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk060",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Satty",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "? Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 323,
+          "OriginalText": "I owe him my life.\nIt\u0027s a pretty long story\u2014are you sure you\nwant to hear it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk061",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "All right. Here goes...\n\n\nHave you heard that rumor about the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 344,
+          "OriginalText": "strange mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": " on which a bunch of\nanimals appear at a certain time?\nWell, when I heard that, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": "I went there\nto do some hunting.\n\nI thought it sounded like a good\nopportunity to turn a profit, selling\nthe meat and whatnot...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk062",
+      "TextList": [
+        {
+          "Line": 371,
+          "OriginalText": "So I go to the mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 375,
+          "OriginalText": " and wait\nfor the animals to show up.\n\nWhen suddenly this dirty little pup\nappears out of nowhere!\n\nI figure he\u0027s been separated from his\nparents or abandoned by his last owner.\n\nHe starts begging for food, so I give him\nsome jerky, and he runs off over a hill...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk063",
+      "TextList": [
+        {
+          "Line": 392,
+          "OriginalText": "Later on, I doze off for a little while, and\nwhen I come to, there\u0027s a big ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 396,
+          "OriginalText": "glowing\nbeast ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "standing right in front of me!\nIt caught me completely off guard.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 403,
+          "OriginalText": "\nI couldn\u0027t even draw my bow!\nI just stared at it.\nAnd then the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 407,
+          "OriginalText": "beast ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 410,
+          "OriginalText": "runs at me like it\nwants to trample me!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": "Suddenly the pup I gave food to jumps\nin between us!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 420,
+          "OriginalText": " He starts barking at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 424,
+          "OriginalText": "beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 427,
+          "OriginalText": ", who was ten times his size!\nAll to...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": "protect me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": "\nEven though he was trembling with fear...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk064",
+      "TextList": [
+        {
+          "Line": 452,
+          "OriginalText": "Then the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": "beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 459,
+          "OriginalText": " recoiled a bit...\n\n\nSo I took that chance to snatch up the\npup",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": " and flee down the mountain,\ntripping and falling all the way...\n...\n\n\nAnd that\u0027s my story.\n\n\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": "strange mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 473,
+          "OriginalText": " is called\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": "Satori Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": ". It\u0027s west of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": "Central Hyrule",
+          "TranslatedText": null
+        },
+        {
+          "Line": 487,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "I brought ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 497,
+          "OriginalText": "Satty",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": " back here, and we\u0027ve\nbeen best buds ever since.\n\nIf you\u0027re feeling brave, you should go\nfind that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 504,
+          "OriginalText": "glowing beast ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "on the mountain\nand give it a stern talking to.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk065",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "You wanna hear the touching story about\nhow Satty and I became best friends\nagain?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk070",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": " Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk100",
+      "TextList": [
+        {
+          "Line": 546,
+          "OriginalText": "I wonder what\u0027ll happen today...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk101",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Ugh... Where\u0027s the sun?\nAnd the girls?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk110",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "I\u0027m so hungry right now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk120",
+      "TextList": [
+        {
+          "Line": 576,
+          "OriginalText": "The beast... It\u0027s...back...\nRun, Satty. Save yourself...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

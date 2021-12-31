@@ -1,0 +1,175 @@
+{
+  "FileName": "Npc_OasisSoldier_A",
+  "EntryList": [
+    {
+      "EntryName": "Near_Raimei_001",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "That helmet... Is it real?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "So tiiiired...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 21,
+          "OriginalText": "*pant",
+          "TranslatedText": null
+        },
+        {
+          "Line": 25,
+          "OriginalText": " pant*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 29,
+          "OriginalText": "\nBabi\u0027s training is really tough, but...\n\nIt\u0027s our fault the thieves were successful.\nWe have no room to complain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 38,
+          "OriginalText": "Thanks to you bringing back the chief\u0027s\nheirloom, we can finally take a break...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 44,
+          "OriginalText": "In theory, anyway. More likely, once we\nfinish repairing our spears, we\u0027ll have to\nget started on more special training.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 48,
+          "OriginalText": "*sigh* Babi\u0027s always got more special training...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Babi is working way too hard, even\nthough the chief\u0027s heirloom is back!\n\nI hope I never become as intense\nas her...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "Thanks to your bringing back the chief\u0027s\nheirloom, we can finally take a break.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 75,
+          "OriginalText": "The team over there is in a tizzy, though,\nbecause Barta disappeared again.\n\nThat kid is always going off by herself\nand getting wrapped up in trouble...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "I\u0027m seriously glad that I\u0027m not on the\nsame team as Barta.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 95,
+          "OriginalText": "I already have my hands full with Babi...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "From what I hear, you\u0027re the Hylian that\nrecovered the helm for the chief.\n\nIt\u0027s a shame I didn\u0027t get to show those\nthieves what I can do with my spear,\nthough.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "Anyway, maybe someday you and I can\nget a little sparring in? We might both\nlearn something...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "From what I hear, you\u0027re the Hylian that\nrecovered the helm for the chief.\n\nNot only did you take care of the thieves,\nbut you also had the skill to calm the\nDivine Beast...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "Anyway, maybe someday you and I can\nget a little sparring in? I might really\nlearn something...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "Sav\u0027otta.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 165,
+          "OriginalText": "Sav\u0027aaq.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Sav\u0027saaba.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

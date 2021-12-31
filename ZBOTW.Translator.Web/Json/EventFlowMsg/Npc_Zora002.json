@@ -1,0 +1,945 @@
+{
+  "FileName": "Npc_Zora002",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "How\u0027s business?",
+          "TranslatedText": "ขายดีไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I want to sell.",
+          "TranslatedText": "ฉันมาขาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "What is this place?",
+          "TranslatedText": "ที่นี่คือที่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "OK.",
+          "TranslatedText": "โอเค"
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Never mind.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Buy.",
+          "TranslatedText": "ซื้อ"
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Never mind.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": "ฉันจะซื้อทั้งหมด!"
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "All of them.",
+          "TranslatedText": "ทั้งหมด"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Certainly.",
+          "TranslatedText": "Certainly."
+        },
+        {
+          "Line": 57,
+          "OriginalText": " What would you like to sell?",
+          "TranslatedText": " What would you like to sell?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "How about ",
+          "TranslatedText": "How about "
+        },
+        {
+          "Line": 74,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 77,
+          "OriginalText": "? Is that OK?",
+          "TranslatedText": "? Is that OK?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 94,
+          "OriginalText": "Thank you.",
+          "TranslatedText": "Thank you."
+        },
+        {
+          "Line": 98,
+          "OriginalText": " Do you have anything else\nto sell?",
+          "TranslatedText": " Do you have anything else\nto sell?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Understood.",
+          "TranslatedText": "Understood."
+        },
+        {
+          "Line": 111,
+          "OriginalText": " Would you like me to take\nanything else off your hands?",
+          "TranslatedText": " Would you like me to take\nanything else off your hands?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 120,
+          "OriginalText": "Thanks!",
+          "TranslatedText": "Thanks!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 129,
+          "OriginalText": "Yes, OK then...",
+          "TranslatedText": "Yes, OK then..."
+        },
+        {
+          "Line": 133,
+          "OriginalText": " Is there anything else\nyou would like to sell?",
+          "TranslatedText": " Is there anything else\nyou would like to sell?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 142,
+          "OriginalText": "Oh, really? That\u0027s too bad.",
+          "TranslatedText": "Oh, really? That\u0027s too bad."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "I\u0027ll buy anything you want to sell.",
+          "TranslatedText": "I\u0027ll buy anything you want to sell."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 160,
+          "OriginalText": "What do you have for me?",
+          "TranslatedText": "What do you have for me?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 169,
+          "OriginalText": "Take your time.",
+          "TranslatedText": "Take your time."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 178,
+          "OriginalText": "What would you like to sell?",
+          "TranslatedText": "What would you like to sell?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 187,
+          "OriginalText": "What would you like to buy?",
+          "TranslatedText": "What would you like to buy?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "I\u0027m sorry...",
+          "TranslatedText": "I\u0027m sorry..."
+        },
+        {
+          "Line": 200,
+          "OriginalText": " We\u0027re all sold out of that.",
+          "TranslatedText": " We\u0027re all sold out of that."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 209,
+          "OriginalText": "Oh...",
+          "TranslatedText": "Oh..."
+        },
+        {
+          "Line": 213,
+          "OriginalText": " I\u0027m sorry. It would seem you don\u0027t\nhave enough rupees...",
+          "TranslatedText": " I\u0027m sorry. It would seem you don\u0027t\nhave enough rupees..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "Oh...",
+          "TranslatedText": "Oh..."
+        },
+        {
+          "Line": 226,
+          "OriginalText": " It looks like your inventory is full.\n\n\nYou can sell whatever you don\u0027t need,\nor you can throw some stuff away.",
+          "TranslatedText": " It looks like your inventory is full.\n\n\nYou can sell whatever you don\u0027t need,\nor you can throw some stuff away."
+        },
+        {
+          "Line": 230,
+          "OriginalText": "\nPlease come back when you\u0027re ready.",
+          "TranslatedText": "\nPlease come back when you\u0027re ready."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 239,
+          "OriginalText": "You want to buy this, then?",
+          "TranslatedText": "You want to buy this, then?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "Thank you for your business!",
+          "TranslatedText": "Thank you for your business!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 265,
+          "OriginalText": "Please come again!",
+          "TranslatedText": "Please come again!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 274,
+          "OriginalText": "Thank you very much!",
+          "TranslatedText": "Thank you very much!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 283,
+          "OriginalText": "Thanks for your business!",
+          "TranslatedText": "Thanks for your business!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "We have a fine selection of items here,\nso please take your time looking around.",
+          "TranslatedText": "We have a fine selection of items here,\nso please take your time looking around."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "You want to sell this, right? How many\ndo you want to sell?",
+          "TranslatedText": "You want to sell this, right? How many\ndo you want to sell?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 319,
+          "OriginalText": "I\u0027d say ",
+          "TranslatedText": "I\u0027d say "
+        },
+        {
+          "Line": 324,
+          "OriginalText": " amounts to",
+          "TranslatedText": " amounts to"
+        },
+        {
+          "Line": 328,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 336,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 339,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "My sincerest apologies...",
+          "TranslatedText": "My sincerest apologies..."
+        },
+        {
+          "Line": 360,
+          "OriginalText": "\nI cannot buy that from you.",
+          "TranslatedText": "\nI cannot buy that from you."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "I\u0027m so sorry...",
+          "TranslatedText": "I\u0027m so sorry..."
+        },
+        {
+          "Line": 373,
+          "OriginalText": "but could you possibly\nremove that article of clothing before\nyou try to sell it to me?",
+          "TranslatedText": "but could you possibly\nremove that article of clothing before\nyou try to sell it to me?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 382,
+          "OriginalText": "How many?",
+          "TranslatedText": "How many?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 400,
+          "OriginalText": "Just one, right?",
+          "TranslatedText": "Just one, right?"
+        },
+        {
+          "Line": 404,
+          "OriginalText": "\nHow about ",
+          "TranslatedText": "\nHow about "
+        },
+        {
+          "Line": 412,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 415,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 432,
+          "OriginalText": "All of them? That will be ",
+          "TranslatedText": "All of them? That will be "
+        },
+        {
+          "Line": 440,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 443,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 460,
+          "OriginalText": "All of them?",
+          "TranslatedText": "All of them?"
+        },
+        {
+          "Line": 464,
+          "OriginalText": " That will be ",
+          "TranslatedText": " That will be "
+        },
+        {
+          "Line": 472,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 475,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_50",
+      "TextList": [
+        {
+          "Line": 487,
+          "OriginalText": "That comes to ",
+          "TranslatedText": "That comes to "
+        },
+        {
+          "Line": 495,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 498,
+          "OriginalText": ". Is that\nacceptable?",
+          "TranslatedText": ". Is that\nacceptable?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_51",
+      "TextList": [
+        {
+          "Line": 510,
+          "OriginalText": "How many do you need?",
+          "TranslatedText": "How many do you need?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_52",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "I think ",
+          "TranslatedText": "I think "
+        },
+        {
+          "Line": 533,
+          "OriginalText": " will come to ",
+          "TranslatedText": " will come to "
+        },
+        {
+          "Line": 541,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 544,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_53",
+      "TextList": [
+        {
+          "Line": 561,
+          "OriginalText": "Oh, did you change your mind?",
+          "TranslatedText": "Oh, did you change your mind?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_54",
+      "TextList": [
+        {
+          "Line": 570,
+          "OriginalText": "I\u0027m so sorry...",
+          "TranslatedText": "I\u0027m so sorry..."
+        },
+        {
+          "Line": 574,
+          "OriginalText": " I must inform you that\nyou don\u0027t have enough rupees.",
+          "TranslatedText": " I must inform you that\nyou don\u0027t have enough rupees."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_55",
+      "TextList": [
+        {
+          "Line": 583,
+          "OriginalText": "Your pouch is full...",
+          "TranslatedText": "Your pouch is full..."
+        },
+        {
+          "Line": 587,
+          "OriginalText": " If there\u0027s anything\nyou don\u0027t need, I\u0027d be happy to take it\noff your hands.",
+          "TranslatedText": " If there\u0027s anything\nyou don\u0027t need, I\u0027d be happy to take it\noff your hands."
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 601,
+          "OriginalText": "Just one, right?",
+          "TranslatedText": "Just one, right?"
+        },
+        {
+          "Line": 605,
+          "OriginalText": " If so, that will\nbe ",
+          "TranslatedText": " If so, that will\nbe "
+        },
+        {
+          "Line": 613,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 616,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 633,
+          "OriginalText": "This is our general store, ",
+          "TranslatedText": "นี่คือร้านขายของของเรา "
+        },
+        {
+          "Line": 637,
+          "OriginalText": "the Coral Reef!\nHere we have ",
+          "TranslatedText": "the Coral Reef!\nที่นี่เรามี "
+        },
+        {
+          "Line": 641,
+          "OriginalText": "swift violets ",
+          "TranslatedText": "swift violets "
+        },
+        {
+          "Line": 644,
+          "OriginalText": "that will help\nyou run faster if you cook and eat \u0027em.\nWe also carry arrows for travelers.",
+          "TranslatedText": "ที่จะช่วยให้คุณ\nวิ่งได้เร็วคุณเมื่อนำมันไปทำอาหาร\nเรายังมีลูกธนูสำหรับนักเดินทาง"
+        },
+        {
+          "Line": 648,
+          "OriginalText": "\nIf you see something you like,\njust go grab it from the table.\n",
+          "TranslatedText": "\nถ้าหากว่าอยากได้อะไรก็หยิบเอาจากโต๊ะได้เลย\n"
+        },
+        {
+          "Line": 654,
+          "OriginalText": "Oh! ",
+          "TranslatedText": "อ้อ! "
+        },
+        {
+          "Line": 658,
+          "OriginalText": "Unless you have some other\nbusiness with me?",
+          "TranslatedText": "นอกจากว่าคุณมีเรื่องจะคุยกับฉัน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 685,
+          "OriginalText": "Oh, hello!",
+          "TranslatedText": "อ้อ สวัสดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 694,
+          "OriginalText": "Good evening!",
+          "TranslatedText": "สายัณสวัสดิ์!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 703,
+          "OriginalText": "Did you need me for something?",
+          "TranslatedText": "ต้องการให้ช่วยอะไรไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 730,
+          "OriginalText": "Not bad!\n\n\n",
+          "TranslatedText": "ไม่เลว!\n"
+        },
+        {
+          "Line": 736,
+          "OriginalText": "Or...",
+          "TranslatedText": "ก็..."
+        },
+        {
+          "Line": 740,
+          "OriginalText": "I\u0027d like to say that, but it actually\nhasn\u0027t been that great lately.\n\nOur goods are mostly for travelers...",
+          "TranslatedText": "ก็อยากจะพูดอย่างนั้นหรอกนะ แต่ที่จริงแล้ว\nมันไม่ค่อยดีเท่าไหร่\nสินค้าส่วนใหญ่ของเราเน้นขายให้กับนักเดินทาง..."
+        },
+        {
+          "Line": 744,
+          "OriginalText": "\nbut we haven\u0027t been getting too many\nof those around here lately.",
+          "TranslatedText": "\nแต่ไม่ค่อยจะมีนักเดินทางสักเท่าไหร่พักหลังมานี้"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 753,
+          "OriginalText": "Things haven\u0027t been so great lately...",
+          "TranslatedText": "พักหลังมานี้ไม่ค่อยจะดีเท่าไหร่..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 762,
+          "OriginalText": "Come back soon!",
+          "TranslatedText": "แล้วกลับมาใหม่นะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 771,
+          "OriginalText": "Thanks! ",
+          "TranslatedText": "ขอบคุณ! "
+        },
+        {
+          "Line": 775,
+          "OriginalText": "Be careful if you go out\nafter dark!",
+          "TranslatedText": "ระวังตัวถ้าออกมาตอนกลางคืน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 784,
+          "OriginalText": "Not bad!\n\n\nWith this break in the bad weather,",
+          "TranslatedText": "ไม่เลว!\nพอฝนหยุดตกแล้ว"
+        },
+        {
+          "Line": 788,
+          "OriginalText": "\nit looks like we\u0027re finally getting\nmore tourists around here.",
+          "TranslatedText": "\nก็ดูเหมือนจะมีนักเดินทางเพิ่มมากขึ้น"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 797,
+          "OriginalText": "*sigh*",
+          "TranslatedText": "*เฮ้อ*"
+        },
+        {
+          "Line": 801,
+          "OriginalText": " At this rate, ",
+          "TranslatedText": " ถ้าเป็นแบบนี้ "
+        },
+        {
+          "Line": 805,
+          "OriginalText": "we may have to close\nour doors like the armor shop did...",
+          "TranslatedText": "เราอาจจะต้อง\nปิดร้านเหมือนกับร้านขายเครื่องป้องกัน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 814,
+          "OriginalText": "Need anything else?",
+          "TranslatedText": "ต้องการอะไรอีกไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 841,
+          "OriginalText": "At this rate, ",
+          "TranslatedText": "ถ้าเป็นแบบนี้ "
+        },
+        {
+          "Line": 845,
+          "OriginalText": "it looks like we won\u0027t have to\nclose our doors like the armor shop did!",
+          "TranslatedText": "ดูเหมือนว่าเราจะไม่ต้องปิดร้าน\nไปเหมือนกับร้านขายเครื่องป้องกัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 854,
+          "OriginalText": "Yes, I\u0027m getting along just fine...\nsomehow.",
+          "TranslatedText": "ก็พอไปไหว...\nแหละนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 863,
+          "OriginalText": "This is our general store, the Coral Reef.",
+          "TranslatedText": "นี่คือร้านของของเรา Coral Reef"
+        },
+        {
+          "Line": 867,
+          "OriginalText": "\nIf you are in the market for fresh fish,",
+          "TranslatedText": "\nถ้าหากว่าอยากจะซื้อปลากสดละก็"
+        },
+        {
+          "Line": 871,
+          "OriginalText": "\nyou have come to the right place!\nI have already told you that we carry\narrows,",
+          "TranslatedText": "\nคุณมาถูกที่แล้ว!\nฉันบอกไปแล้วว่าเรามีลูกธนูขายด้วย\n"
+        },
+        {
+          "Line": 875,
+          "OriginalText": " but you should know the only\nones we can\u0027t sell are ",
+          "TranslatedText": " แต่คุณควรรู้ไว้ว่าอันเดียวที่เรา\nขายไม่ได้ก็คือ "
+        },
+        {
+          "Line": 879,
+          "OriginalText": "shock arrows",
+          "TranslatedText": "shock arrows"
+        },
+        {
+          "Line": 882,
+          "OriginalText": ".\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 888,
+          "OriginalText": "We Zora are a water-dwelling people,",
+          "TranslatedText": "พวกเรา Zora นั้นอาศัยอยู่ในน้ำ"
+        },
+        {
+          "Line": 892,
+          "OriginalText": "\nso we\u0027re weak to electricity...",
+          "TranslatedText": "\nพวกเราจึงอ่อนแอต่อไฟฟ้า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 901,
+          "OriginalText": "You just went and bought all of them,\ndid you?",
+          "TranslatedText": "คุณซื้อหมดเลยงั้นเหรอ?"
+        },
+        {
+          "Line": 905,
+          "OriginalText": " I\u0027ll be sure to stock up soon!",
+          "TranslatedText": " ไว้ฉันจะหามาเติมนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 914,
+          "OriginalText": "Thank you for that spending spree!",
+          "TranslatedText": "ขอบคุณที่ซื้อเยอะขนาดนี้นะ!"
+        },
+        {
+          "Line": 918,
+          "OriginalText": "\nYou cleaned us out, so I\u0027ll restock.",
+          "TranslatedText": "\nคุณซื้อไปหมดเลย เดี๋ยวฉันจะหามาเติม"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 927,
+          "OriginalText": "Thank you very much!",
+          "TranslatedText": "ขอบคุณมาก!"
+        },
+        {
+          "Line": 931,
+          "OriginalText": " I see we\nran out of some items. ",
+          "TranslatedText": " ฉันเห็นแล้ว\nสินค้าบางตัวหมด "
+        },
+        {
+          "Line": 935,
+          "OriginalText": "I\u0027m working\non replenishing our stock here!",
+          "TranslatedText": "ฉันกำลังจัดหามาเติมอยู่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 944,
+          "OriginalText": "Thank you for buying so much!",
+          "TranslatedText": "ขอบคุณที่ซื้อไปมากมาย!"
+        },
+        {
+          "Line": 948,
+          "OriginalText": "\nBe sure to come back soon when\nwe\u0027ve restocked!",
+          "TranslatedText": "\nแล้วกลับมาใหม่เมื่อเราเติมสินค้าแล้วนะ!"
+        }
+      ]
+    }
+  ]
+}

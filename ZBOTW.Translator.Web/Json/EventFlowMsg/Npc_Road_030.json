@@ -1,0 +1,1355 @@
+{
+  "FileName": "Npc_Road_030",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What have you got?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Look what I\u0027ve got.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Might be time to think about adjusting\nmy travel plans...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "So you deal with monsters often,\ndo you? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 62,
+          "OriginalText": "I bet a man like you could\nuse some of my food supplies!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "What have you got for me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "I\u0027d pay ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": " for that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 103,
+          "OriginalText": "Thanks! Was that all, or is there more?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Thanks a bundle!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "I appreciate your business!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "What a shame!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "I\u0027ll buy anything!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "If you have stuff to unload, go ahead and\nshow me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "Gonna sell me something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "I\u0027m interested in seeing what you\u0027ve got\nfor sale.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Which one did you want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 168,
+          "OriginalText": "Sorry, but I\u0027m fresh out of that one!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 177,
+          "OriginalText": "No rupees, no sale!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": " I\u0027m here to sell\nmy wares not to fool around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 190,
+          "OriginalText": "Your pouch looks full.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": " There must be a\nfew things in there you don\u0027t need,\nright? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 198,
+          "OriginalText": "Go ahead, clear them out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "You all set with that?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "Thanks a bundle!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Thanks a bundle!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "Thanks a heap!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "Thanks a heap!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "This is all I got right at the moment.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "And how many of those are you looking\nto unload?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 272,
+          "OriginalText": "The whole shebang will be...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 276,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": ". How\u0027s that grab you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "Aw, I wouldn\u0027t part you with that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 313,
+          "OriginalText": "I\u0027m not gonna buy the clothes off your\nback!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": " What do you take me for?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Tell you what, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 330,
+          "OriginalText": "for being such a trooper\nand coming to shop in this weather, I\u0027ll\nalso sell you this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "energetic rhino beetle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 337,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "The whole shebang will be...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 345,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": ". How\u0027s that grab you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 368,
+          "OriginalText": "Oh, yeah? How many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 381,
+          "OriginalText": "Just one, huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 385,
+          "OriginalText": "How about\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 396,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "All of them? Really? In that case...\nHow about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "So ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": "? In that case... How about\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 464,
+          "OriginalText": "That\u0027s all of it. Thanks for the business!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "I\u0027m all cleaned out!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": " Thanks for all your\nbusiness. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "Do you...want to look at what\nI\u0027ll be stocking up on soon?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 493,
+          "OriginalText": "Just one, huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 497,
+          "OriginalText": "That\u0027ll run you\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 525,
+          "OriginalText": "Monsters all clear?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": " Then now\u0027s the time\nto beat feet!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 538,
+          "OriginalText": "Ouch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 542,
+          "OriginalText": "That stung, but not as bad as\nmy pride after asking out a Gerudo.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 551,
+          "OriginalText": "Please visit again!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 560,
+          "OriginalText": "I wish I could get closer to one of these\nGerudo ladies. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 564,
+          "OriginalText": "Not for anything bad,\nI mean! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "Just as a business partner!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 574,
+          "OriginalText": "That\u0027s the whole reason I came, only to\nfind out that men aren\u0027t allowed in town.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 578,
+          "OriginalText": "\nFigures, don\u0027t it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 587,
+          "OriginalText": "I came all this way to get to know these\nGerudo ladies better...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": "only to find out\nthat they don\u0027t let men in town.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 600,
+          "OriginalText": "Didja get a load of that giant stompy\nmonster? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 604,
+          "OriginalText": "Who\u0027d brave the desert with\nthat thing around?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 610,
+          "OriginalText": "On the other hand... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": "I GOTTA get to\nknow these Gerudo ladies better!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": "Think I\u0027ll just chance it and make a mad\ndash for town!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "Truth be told, I\u0027m too scared to go into\nthe desert. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 633,
+          "OriginalText": "Maybe I\u0027ll just make a mad\ndash for town so I can meet the ladies!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 642,
+          "OriginalText": "Kicking back in the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 646,
+          "OriginalText": "Kara Kara Bazaar",
+          "TranslatedText": null
+        },
+        {
+          "Line": 649,
+          "OriginalText": ",\nmaking small talk with the lovely\nGerudo... Good times, good times.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 655,
+          "OriginalText": "Hey, don\u0027t get me wrong! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 659,
+          "OriginalText": "It\u0027s all part of\nthe job! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "You have to make friends to\nmake money. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": "Want some apples?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 676,
+          "OriginalText": "Nothing like a line of work that lets you\nmake small talk with Gerudo ladies.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 685,
+          "OriginalText": "They sure make these Gerudo ladies tall,\ndon\u0027t they? What a bunch of beauts!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 689,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 698,
+          "OriginalText": "Now if they\u0027d just let me move into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 702,
+          "OriginalText": "Gerudo Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 705,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 717,
+          "OriginalText": "Fine-looking ladies, these Gerudo, every\nlast one of them. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": "It\u0027s a crying shame they\nwon\u0027t let me move into their town...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 738,
+          "OriginalText": "I wish more of those Gerudo ladies would\ncome by this stable! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 750,
+          "OriginalText": "I have so many apples\nfor them...apples and love...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 762,
+          "OriginalText": "I hope we\u0027ll see more and more Gerudo\nladies come visit this place...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 766,
+          "OriginalText": "Don\u0027t be shy, ladies...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 770,
+          "OriginalText": "Gerudo ladies... Whew!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 774,
+          "OriginalText": "What do Gerudo want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 778,
+          "OriginalText": "They\u0027ll ALL come running!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 787,
+          "OriginalText": "You got a thing for Gerudo girls too?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": "\nThat\u0027s OK, buddy. Nothing to be\nashamed of!\nWhat\u0027s not to love? They\u0027re tall, strong,\nbeautiful...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 795,
+          "OriginalText": "strong... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 799,
+          "OriginalText": "I mentioned how\nstrong they are, right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 811,
+          "OriginalText": "There must be some way in...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 825,
+          "OriginalText": "Oh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 829,
+          "OriginalText": " Don\u0027t mind me, ha ha!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 833,
+          "OriginalText": " I wasn\u0027t\ntalking to nobody about nothing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 845,
+          "OriginalText": "There has to be SOME way in there...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 859,
+          "OriginalText": "Whoa! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 863,
+          "OriginalText": "Just thinking out loud. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 867,
+          "OriginalText": "Don\u0027t\nmind me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 876,
+          "OriginalText": "That old ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 880,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 883,
+          "OriginalText": " makes the road\nbetween ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 887,
+          "OriginalText": "Kara Kara Bazaar",
+          "TranslatedText": null
+        },
+        {
+          "Line": 890,
+          "OriginalText": " and\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 894,
+          "OriginalText": "Gerudo Town ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 897,
+          "OriginalText": "a dangerous place.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 903,
+          "OriginalText": "But I\u0027m too keen on getting to know\nthose Gerudo ladies to let that stop me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 907,
+          "OriginalText": "\nI\u0027ll dash right on through the desert!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 916,
+          "OriginalText": "I get nervous thinking of that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 920,
+          "OriginalText": "Divine\nBeast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 923,
+          "OriginalText": " roaming around. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 927,
+          "OriginalText": "But ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 931,
+          "OriginalText": "Gerudo Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 934,
+          "OriginalText": "\nis just past it... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 938,
+          "OriginalText": "How can I say no?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01_2",
+      "TextList": [
+        {
+          "Line": 947,
+          "OriginalText": "The desert\u0027s just monsters and bad\nsandstorms through and through. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 951,
+          "OriginalText": "They\ncall it a wasteland for a reason.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 957,
+          "OriginalText": "But what else is a man supposed to do\nif he wants to meet Gerudo ladies?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 961,
+          "OriginalText": "\nWasteland, here I come!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01_3",
+      "TextList": [
+        {
+          "Line": 970,
+          "OriginalText": "The desert\u0027s rough going, no two ways\nabout it, but what else is a man to do if\nhe wants to meet Gerudo ladies?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 982,
+          "OriginalText": "Kara Kara Bazaar ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 985,
+          "OriginalText": "is brimming with\nGerudo ladies! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 989,
+          "OriginalText": "I get antsy just thinking\nabout them!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 995,
+          "OriginalText": "Say, speaking of antsy things, how about\nsome ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 999,
+          "OriginalText": "restless crickets",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1002,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 1011,
+          "OriginalText": "I get antsy around these Gerudo\nknockouts. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1015,
+          "OriginalText": "Restless as a cricket.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1019,
+          "OriginalText": "\nIs that a phrase? It is now!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 1028,
+          "OriginalText": "Wh-who goes there?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1032,
+          "OriginalText": " Oh...just a Hylian.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1043,
+          "OriginalText": "Someone told me there were thieves in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1047,
+          "OriginalText": "Gerudo Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1050,
+          "OriginalText": ", and I\u0027ve been jumping at\nshadows ever since!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 1064,
+          "OriginalText": "I haven\u0027t had any peace of mind\nsince I heard there were thieves in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1068,
+          "OriginalText": "Gerudo Town",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1071,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 1083,
+          "OriginalText": "I\u0027ll get into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1087,
+          "OriginalText": "Gerudo Town ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1090,
+          "OriginalText": "and cozy up to those\nladies if it\u0027s the last thing I do...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1104,
+          "OriginalText": "Hm? Oh, just sales stuff. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1108,
+          "OriginalText": "I mutter so\nno one learns my important business\nsecrets!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 1117,
+          "OriginalText": "Business is my top priority! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1121,
+          "OriginalText": "Wh-why,\nwhat else would I be interested in?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1130,
+          "OriginalText": "I\u0027m still kicking!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1134,
+          "OriginalText": " Thanks mostly to you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1143,
+          "OriginalText": "Scared? Me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1147,
+          "OriginalText": " Never!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1156,
+          "OriginalText": "Whew... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1160,
+          "OriginalText": "I feel like a cat on his ninth life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1169,
+          "OriginalText": "The surefire answer for not getting killed\nby monsters is to run far, far away!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1178,
+          "OriginalText": "If I have to have something pounce on\nme, why couldn\u0027t it be a lady?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1187,
+          "OriginalText": "The only thing scarier than monsters...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1196,
+          "OriginalText": "\nare those Gerudo ladies!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1205,
+          "OriginalText": "The emporium is open! Come one, come\nall! All the little bits and bobs you need\nto spice up your dishes!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1223,
+          "OriginalText": "And will that be all for you, or can I\ninterest you in something else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1241,
+          "OriginalText": "Good save! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1245,
+          "OriginalText": "I\u0027ll give you a little bonus\nfor that one!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

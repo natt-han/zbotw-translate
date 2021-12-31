@@ -1,0 +1,645 @@
+{
+  "FileName": "Npc_FaronWoods006",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": "ทำอะไรอยู่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I need directions.",
+          "TranslatedText": "ขอถามทางหน่อย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Kakariko Village.",
+          "TranslatedText": "Kakariko Village."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Hyrule Castle.",
+          "TranslatedText": "Hyrule Castle."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Great Plateau.",
+          "TranslatedText": "Great Plateau."
+        }
+      ]
+    },
+    {
+      "EntryName": "1000",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "What thing?",
+          "TranslatedText": "What thing?"
+        }
+      ]
+    },
+    {
+      "EntryName": "1001",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Yeah, good idea.",
+          "TranslatedText": "Yeah, good idea."
+        }
+      ]
+    },
+    {
+      "EntryName": "1002",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "Good-bye."
+        }
+      ]
+    },
+    {
+      "EntryName": "1003",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "This one here?",
+          "TranslatedText": "This one here?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Action5_00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Ahhh... I\u0027m exhausted.",
+          "TranslatedText": "Ahhh... I\u0027m exhausted."
+        }
+      ]
+    },
+    {
+      "EntryName": "Action5_01",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "Hello?",
+          "TranslatedText": "Hello?"
+        },
+        {
+          "Line": 74,
+          "OriginalText": " Are you taking a break?",
+          "TranslatedText": " Are you taking a break?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Colony00",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "The Great Plateau? \n\n\nWhy would you possibly need to go to an\nabandoned place like that?",
+          "TranslatedText": "The Great Plateau? \nทำไมคุณถึงไปที่รกร้างแบบนั้นล่ะ?"
+        },
+        {
+          "Line": 95,
+          "OriginalText": " How would\nyou even begin to scale that cliff?",
+          "TranslatedText": " How would\nyou even begin to scale that cliff?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Colony01",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "Well, in any case, it\u0027s over there.",
+          "TranslatedText": "เอามันเป็นว่า มันอยู่ทางนั้น"
+        },
+        {
+          "Line": 108,
+          "OriginalText": "\nThere are quite a few monsters about,\nthough. So be careful.",
+          "TranslatedText": "\nแต่ว่าก็มีมอนสเตอร์อยู่บ้างนะ ละตัวด้วย"
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "See ya.",
+          "TranslatedText": "แล้วเจอกัน"
+        },
+        {
+          "Line": 121,
+          "OriginalText": " Let\u0027s wish each other good luck,\neh? We\u0027ll need it!",
+          "TranslatedText": " มาขอให้เราต่างก็มีโชคกันเถอะ\nเราต้องใช้มันแน่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye01",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "Why not kill some time here?",
+          "TranslatedText": "ทำไมไม่ฆ่าเวลาที่นี่สักหน่อยล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Hyrule00",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "Hyrule Castle?!\n\n\nI don\u0027t know how many lives you\u0027ve got,\nbut in a place with that many Guardians,\nI guarantee you it\u0027s not enough!",
+          "TranslatedText": "Hyrule Castle?!\nฉันไม่รู้ว่าคุณมีกี่ชีวิตหรอกนะ\nแต่ในที่ซึ่งมี Guardians อยู่เต็มไปหมดอย่างที่นั่นน่ะ\nบอกได้เลยว่ามีกี่ชีวิตก็ไม่พอ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Hyrule01",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "See that? You can see it in the distance.",
+          "TranslatedText": "เห็นนั่นมั้ย? คุณสามารถมองเห็นมันได้จากระยะไกล\n"
+        },
+        {
+          "Line": 152,
+          "OriginalText": "\nHonestly, I think you\u0027re better off just\nlooking at it from here.",
+          "TranslatedText": "\nบอกตามตรง ฉันคิดว่ามันจะดีกว่าถ้าคุณ\nแค่มองมันจากที่นี่"
+        }
+      ]
+    },
+    {
+      "EntryName": "Kakariko00",
+      "TextList": [
+        {
+          "Line": 161,
+          "OriginalText": "Ah, I see. Kakariko Village is that way.",
+          "TranslatedText": "อ้อ Kakariko Village ไปทางนั้น"
+        }
+      ]
+    },
+    {
+      "EntryName": "Kakariko01",
+      "TextList": [
+        {
+          "Line": 170,
+          "OriginalText": "On the other side of the Dueling Peaks,\nthere\u0027s a stable. Stop there and ask\nsomeone for further directions.",
+          "TranslatedText": "ที่อีกด้านหนึ่งของ Dueling Peaks\nจะมีที่พักม้าอยู่ ไปถามทางต่อเอาจากที่นั่นนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "The end is here...",
+          "TranslatedText": "The end is here..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 188,
+          "OriginalText": "\u266AHm hm hmmmm...\u266A",
+          "TranslatedText": "\u266AHm hm hmmmm...\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "RunRain00",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "Not now. Talk to me where it\u0027s dry!",
+          "TranslatedText": "อย่าเพิ่ง ไว้ไปคุยกันในที่แห้งๆ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "I may be somewhat used to seeing bad\nomens by now, but that...",
+          "TranslatedText": "I may be somewhat used to seeing bad\nomens by now, but that..."
+        },
+        {
+          "Line": 210,
+          "OriginalText": " Well, let\u0027s just\nsay it\u0027s badder than most.",
+          "TranslatedText": " Well, let\u0027s just\nsay it\u0027s badder than most."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01_1",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "We\u0027re doomed! ",
+          "TranslatedText": "We\u0027re doomed! "
+        },
+        {
+          "Line": 223,
+          "OriginalText": "I mean, don\u0027t panic!\nSorry, who are you? Have we met?\n\nWell, doesn\u0027t matter who you are, really.",
+          "TranslatedText": "I mean, don\u0027t panic!\nSorry, who are you? Have we met?\n\nWell, doesn\u0027t matter who you are, really."
+        },
+        {
+          "Line": 227,
+          "OriginalText": "\nI was getting tired of talking to myself,\nso you\u0027ve come at a good time.\nBy the by, those strange things that\npopped out of the ground...",
+          "TranslatedText": "\nI was getting tired of talking to myself,\nso you\u0027ve come at a good time.\nBy the by, those strange things that\npopped out of the ground..."
+        },
+        {
+          "Line": 231,
+          "OriginalText": "\nDid you see them?",
+          "TranslatedText": "\nDid you see them?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01_2",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "I\u0027m not talking about mushrooms here!\nI\u0027m talking about those towers!\n\nThey seem to have popped up all over\nthe place!",
+          "TranslatedText": "I\u0027m not talking about mushrooms here!\nI\u0027m talking about those towers!\n\nThey seem to have popped up all over\nthe place!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01_3",
+      "TextList": [
+        {
+          "Line": 249,
+          "OriginalText": "And that\u0027s not the only strange thing\nthat\u0027s happened.",
+          "TranslatedText": "And that\u0027s not the only strange thing\nthat\u0027s happened."
+        },
+        {
+          "Line": 253,
+          "OriginalText": " Those long-deserted\nshrines suddenly started glowing!\n",
+          "TranslatedText": " Those long-deserted\nshrines suddenly started glowing!\n"
+        },
+        {
+          "Line": 259,
+          "OriginalText": "You know what this means, don\u0027t you?",
+          "TranslatedText": "You know what this means, don\u0027t you?"
+        },
+        {
+          "Line": 263,
+          "OriginalText": "\nThe end is here!",
+          "TranslatedText": "\nThe end is here!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 272,
+          "OriginalText": "With all this craziness happening,\nI\u0027ve been keeping an eye on\nthat thing.\n",
+          "TranslatedText": "With all this craziness happening,\nI\u0027ve been keeping an eye on\nthat thing.\n"
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Just to see if it suddenly starts moving,\nya know?",
+          "TranslatedText": "Just to see if it suddenly starts moving,\nya know?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "I\u0027m talking about that ",
+          "TranslatedText": "I\u0027m talking about that "
+        },
+        {
+          "Line": 300,
+          "OriginalText": "Guardian",
+          "TranslatedText": "Guardian"
+        },
+        {
+          "Line": 303,
+          "OriginalText": ",\nof course!",
+          "TranslatedText": ",\nof course!"
+        },
+        {
+          "Line": 307,
+          "OriginalText": " Haven\u0027t you heard the\nold stories about Hyrule?",
+          "TranslatedText": " Haven\u0027t you heard the\nold stories about Hyrule?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Yeah, that ",
+          "TranslatedText": "Yeah, that "
+        },
+        {
+          "Line": 320,
+          "OriginalText": "Guardian ",
+          "TranslatedText": "Guardian "
+        },
+        {
+          "Line": 323,
+          "OriginalText": "is worth watching.\nIt\u0027s just like the ones from those\nold stories.",
+          "TranslatedText": "is worth watching.\nIt\u0027s just like the ones from those\nold stories."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "See that thing over there?",
+          "TranslatedText": "See that thing over there?"
+        },
+        {
+          "Line": 336,
+          "OriginalText": " The one\nshaped like an overturned urn?\nTHAT is what I\u0027m talking about.",
+          "TranslatedText": " The one\nshaped like an overturned urn?\nTHAT is what I\u0027m talking about."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 345,
+          "OriginalText": "Did you know some of them can move?\nOne of them once chased me down and\ntried to kill me!",
+          "TranslatedText": "Did you know some of them can move?\nOne of them once chased me down and\ntried to kill me!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk07",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "No, it was a different one.\n\n\nThat one was closer to the castle but\nbefore the forest...\n\n",
+          "TranslatedText": "No, it was a different one.\n\n\nThat one was closer to the castle but\nbefore the forest...\n\n"
+        },
+        {
+          "Line": 368,
+          "OriginalText": "When they spot you, they shoot blue\nbeams of light at you!\n\nMan, I was so sure that was the end\nfor me. I was prepared for the worst.\n\nBut I somehow managed to escape into\nthe nearby woods.\n\n",
+          "TranslatedText": "When they spot you, they shoot blue\nbeams of light at you!\n\nMan, I was so sure that was the end\nfor me. I was prepared for the worst.\n\nBut I somehow managed to escape into\nthe nearby woods.\n\n"
+        },
+        {
+          "Line": 374,
+          "OriginalText": "You think it was my lightning-fast\nreflexes that saved me?\n\nHa, I wish. Truth is, I just got lucky.\n\n\nAnyway, I hear Guardians like that still\nwander around Hyrule Castle.",
+          "TranslatedText": "You think it was my lightning-fast\nreflexes that saved me?\n\nHa, I wish. Truth is, I just got lucky.\n\n\nAnyway, I hear Guardians like that still\nwander around Hyrule Castle."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "*siiigh* Just when I find someone to\ntalk to... I wonder what I did to make\nhim hate me...",
+          "TranslatedText": "*siiigh* Just when I find someone to\ntalk to... I wonder what I did to make\nhim hate me..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 392,
+          "OriginalText": "Be careful.",
+          "TranslatedText": "Be careful."
+        }
+      ]
+    },
+    {
+      "EntryName": "TalkLoop00",
+      "TextList": [
+        {
+          "Line": 401,
+          "OriginalText": "Ask me whatever you want!",
+          "TranslatedText": "ถามฉันได้ทุกเรื่องเลย!"
+        },
+        {
+          "Line": 405,
+          "OriginalText": " I\u0027m happy to\nchat with you awhile.",
+          "TranslatedText": " ฉันยินดีคุยกับคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Wander00",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "Hello?",
+          "TranslatedText": "Hello?"
+        },
+        {
+          "Line": 427,
+          "OriginalText": " Are you looking for someone to\nchat with too?",
+          "TranslatedText": " Are you looking for someone to\nchat with too?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Wander01",
+      "TextList": [
+        {
+          "Line": 445,
+          "OriginalText": "Just patrolling. This bridge is an\nimportant route.\n\nI keep really busy making sure monsters\ndon\u0027t nest here by chasing them off the\nbridge and stuff.",
+          "TranslatedText": "Just patrolling. This bridge is an\nimportant route.\n\nI keep really busy making sure monsters\ndon\u0027t nest here by chasing them off the\nbridge and stuff."
+        }
+      ]
+    },
+    {
+      "EntryName": "Wander02",
+      "TextList": [
+        {
+          "Line": 454,
+          "OriginalText": "Where do you want to go?",
+          "TranslatedText": "Where do you want to go?"
+        }
+      ]
+    },
+    {
+      "EntryName": "WanderRain00",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "So... Think the rain will let up soon?",
+          "TranslatedText": "So... Think the rain will let up soon?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning00",
+      "TextList": [
+        {
+          "Line": 493,
+          "OriginalText": "Hey! Don\u0027t be rash!",
+          "TranslatedText": "เอ้! อย่ารีบร้อนสิ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning01",
+      "TextList": [
+        {
+          "Line": 511,
+          "OriginalText": "Wait a minute! Please, think about what\nyou\u0027re doing!",
+          "TranslatedText": "รอเดี๋ยว! ช่วยคิดให้ดีก่อน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning02",
+      "TextList": [
+        {
+          "Line": 520,
+          "OriginalText": "I\u0027m young, but you\u0027re even younger.\n\n\nI\u0027m trying my best out here, but I get the\nfeeling you\u0027re going to end up trying\neven harder in this world.\n",
+          "TranslatedText": "ฉันยังหนุ่ม แต่คุณหนุ่มกว่าอีก\nฉันก็พยายามเต็มที่แล้ว แต่ฉันมีความรู้สึกว่า\nนายจะต้องพยายามยิ่งกว่าฉันอีก\n"
+        },
+        {
+          "Line": 526,
+          "OriginalText": "That\u0027s the feeling I get when I look at\nyour face...",
+          "TranslatedText": "มันคือความรู้สึกที่เกิดขึ้นเมื่อมองหน้าคุณ...\n"
+        },
+        {
+          "Line": 530,
+          "OriginalText": " But maybe I\u0027m nuts.",
+          "TranslatedText": " แต่บางที่ฉันคงมโนไปเอง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning03",
+      "TextList": [
+        {
+          "Line": 539,
+          "OriginalText": "You won\u0027t change the world by jumping\ncarelessly to your doom, don\u0027t ya know!\n\nThat would only do one thing...",
+          "TranslatedText": "You won\u0027t change the world by jumping\ncarelessly to your doom, don\u0027t ya know!\n\nThat would only do one thing..."
+        },
+        {
+          "Line": 543,
+          "OriginalText": "\nAnd that\u0027s...\n\n",
+          "TranslatedText": "\nAnd that\u0027s...\n\n"
+        },
+        {
+          "Line": 549,
+          "OriginalText": "Drive me batty!\n\n\n",
+          "TranslatedText": "Drive me batty!\n\n\n"
+        },
+        {
+          "Line": 555,
+          "OriginalText": "Seriously! Think of the shock I\u0027d suffer,\nseeing something like that!",
+          "TranslatedText": "Seriously! Think of the shock I\u0027d suffer,\nseeing something like that!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning04",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "Now calm down and climb off that rail.\n",
+          "TranslatedText": "Now calm down and climb off that rail.\n"
+        },
+        {
+          "Line": 568,
+          "OriginalText": "And don\u0027t climb down THAT way.\nClimb down THIS way!",
+          "TranslatedText": "And don\u0027t climb down THAT way.\nClimb down THIS way!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Warning05",
+      "TextList": [
+        {
+          "Line": 577,
+          "OriginalText": "You\u0027re fine. Just don\u0027t be so careless.",
+          "TranslatedText": "You\u0027re fine. Just don\u0027t be so careless."
+        },
+        {
+          "Line": 581,
+          "OriginalText": "\nThere are too many enjoyable things in\nthe world to gamble with your life!",
+          "TranslatedText": "\nThere are too many enjoyable things in\nthe world to gamble with your life!"
+        }
+      ]
+    },
+    {
+      "EntryName": "WarningClear00",
+      "TextList": [
+        {
+          "Line": 590,
+          "OriginalText": "Man! Don\u0027t ever do something like that\nagain, got it? You almost gave me a\nheart attack. Seriously!",
+          "TranslatedText": "Man! Don\u0027t ever do something like that\nagain, got it? You almost gave me a\nheart attack. Seriously!"
+        }
+      ]
+    },
+    {
+      "EntryName": "WarningClear01",
+      "TextList": [
+        {
+          "Line": 599,
+          "OriginalText": "Phew! You had me worried there. \nDon\u0027t mess with people like that.",
+          "TranslatedText": "Phew! You had me worried there. \nDon\u0027t mess with people like that."
+        }
+      ]
+    },
+    {
+      "EntryName": "WarningClear02",
+      "TextList": [
+        {
+          "Line": 608,
+          "OriginalText": "I\u0027ll stay here and chat with you for a bit,\nif you\u0027d like.",
+          "TranslatedText": "I\u0027ll stay here and chat with you for a bit,\nif you\u0027d like."
+        }
+      ]
+    }
+  ]
+}

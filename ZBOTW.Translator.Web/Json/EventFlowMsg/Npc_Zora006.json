@@ -1,0 +1,535 @@
+{
+  "FileName": "Npc_Zora006",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Go on...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "What\u0027s wrong?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ll find her!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027ll leave.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Mei?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Where could she be?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "If you\u0027ll excuse me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 49,
+          "OriginalText": "\nI\u0027m going to bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "Excuse me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": "... This is all that\nmonster\u0027s fault!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": " Or, no... I suppose it is\nmy own fault.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 86,
+          "OriginalText": "Is it ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 90,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": "\u0027s fault?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "Or is it my own fault...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "...\n\n\nMy apologies. I was lost in thought...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "Pardon me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": " Could you please get out\nof the way?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 131,
+          "OriginalText": "They say ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": " has calmed down,\nand yet...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 153,
+          "OriginalText": "Ah! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 157,
+          "OriginalText": "It is you, Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": " I am sorry... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 165,
+          "OriginalText": "\nI was talking to myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 177,
+          "OriginalText": "The truth is... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": "My wife Mei left and hasn\u0027t\ncome back yet.\n\nAfter the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "Divine Beast Vah Ruta ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "started\nrampaging, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": "she went out to go fishing\nlike everything was normal.\nAnd now ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": " has settled down,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": " but she\nstill hasn\u0027t returned...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "I\u0027m afraid the worst has happened...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": "\nIf only I had stopped her from leaving!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 217,
+          "OriginalText": "\nOh, what do I do?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "Oh, Mei... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": "What are the children and I\nsupposed to do without you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Yes...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "Link... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 268,
+          "OriginalText": "You saved Zora\u0027s Domain,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 272,
+          "OriginalText": "\nand now you\u0027re going to help me\nfind my Mei, as well?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "You are a true Champion!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": " I am sorry to\nput this burden on you, but please...\nPlease bring her home!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 291,
+          "OriginalText": "If you are going to look for Mei,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "\nI will help you however I can.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "Please, ask me anything!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Link...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 339,
+          "OriginalText": "Mei is my wife.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": " She is also Tumbo and\nKeye\u0027s mother.\n\nShe spends her days catching fish and\nselling them at the general store.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "Unlike me, she is very lively and\ncheerful...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": " I suppose Tumbo gets\nthat from her.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "The day ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 366,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": " started raging,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": " she said\nshe was going fishing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 384,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 388,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "\u0027s rage caused the river to swell.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 395,
+          "OriginalText": "\nShe may have been swept downstream!\n\nHowever, if Ledo\u0027s group didn\u0027t see\nanything, maybe she passed through\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 402,
+          "OriginalText": " and is beyond there...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": "Worst case scenario...she could have\nbeen carried all the way to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": "Lake Hylia",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 424,
+          "OriginalText": "Do you have any more questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 453,
+          "OriginalText": "Link! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 457,
+          "OriginalText": "LINK!!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": " My wife, Mei...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": "\nShe came back to me!\n\nI cannot possibly thank you enough!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": "But I shall try! Thank you! Thank you!\nTHANK YOU, TRULY!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 480,
+          "OriginalText": "Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": " You are a true Champion...\n\n\nNow you have even saved my wife,\nmy children, and myself...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": "\nThank you, truly.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

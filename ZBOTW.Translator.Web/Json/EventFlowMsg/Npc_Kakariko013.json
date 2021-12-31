@@ -1,0 +1,1220 @@
+{
+  "FileName": "Npc_Kakariko013",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Teach me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Not really, no.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Cooking tips?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "An old codger?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "That was me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Focus.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Jump Attack.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Sneakstrike.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0015",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0016",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Sneak up?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0017",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "I see...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "1000",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "They sure are.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "1001",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Not really...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClerkAsk00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "Aren\u0027t those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": "swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "\nsomethin\u0027 else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClerkAsk01",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "\u0022Not really.\u0022 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "That\u0027s your response?\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": "The NERVE of this guy! Would it kill\nyou to be polite?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClerkAsk02",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Aren\u0027t they, though?\n\n\nYep, I grew these beauties here myself.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "\nWe stock \u0027em at our ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": "materials shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 123,
+          "OriginalText": ".\n\nIf you\u0027re hankerin\u0027 to pick up some nice\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 127,
+          "OriginalText": "swift carrots ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "for yourself, I\u0027d recommend\nheadin\u0027 that way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk00",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "Do you need something?\n\n\n...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 149,
+          "OriginalText": "I haven\u0027t seen you around here before...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 153,
+          "OriginalText": "\nBut there\u0027s something so familiar about\nthat face of yours...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk02",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "You see, the thing about that\nswordsman is...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": "He trained with ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": "swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 170,
+          "OriginalText": "\ninstead of a blade!\n\nHe strengthened his body with a diet\nmade entirely of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 174,
+          "OriginalText": "swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": "!\n\nAnd he tempered his soul with the sweet\naroma of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": "swift carrots ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 184,
+          "OriginalText": "too!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": "That\u0027s what my grandfather always used\nto say, anyway...\n\nSo I suggest you stop joking around all\nthe time and instead...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": "have a carrot and\ntry to be more like the swordsman!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk03",
+      "TextList": [
+        {
+          "Line": 203,
+          "OriginalText": "Welp, you\u0027ll find carrots over at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "materials shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": ". You\u0027ll have to buy\nsome there if you want more.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk04",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "Lookin\u0027 for carrots?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": " Well, you certainly\ncame to the right place!\n\nIf you wanna be strong like that\nlegendary swordsman...follow me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk05",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "Lookin\u0027 for carrots?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": " You can buy some\nover at my old lady\u0027s shop.\n\nIf you wanna be strong like that\nlegendary swordsman...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": "come to\nmy place when the day is done.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk06",
+      "TextList": [
+        {
+          "Line": 249,
+          "OriginalText": "Lookin\u0027 for carrots?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 253,
+          "OriginalText": " You can buy some\nover at my old lady\u0027s shop.\n\nIf you wanna be strong, just like that\nlegendary swordsman...then follow me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk07",
+      "TextList": [
+        {
+          "Line": 262,
+          "OriginalText": "Lookin\u0027 for carrots?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": " You can buy some\nover at my old lady\u0027s shop.\n\nIf you wanna be strong like that\nlegendary swordsman...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "I surely\ndon\u0027t mind lending a hand.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk08",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "Lookin\u0027 for carrots?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": " You can buy some\nover at my old lady\u0027s shop.\n\nIf you wanna be strong like that\nlegendary swordsman...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": "come to\nmy place ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": "tomorrow night",
+          "TranslatedText": null
+        },
+        {
+          "Line": 294,
+          "OriginalText": ".\nAs for right now, I\u0027d like to call it quits\nfor today.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk11",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "Say what now?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": " You\u0027re really the same\nswordsman from way back when?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk12",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Aha ha!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 320,
+          "OriginalText": " My goodness.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": "You had me going, but that\u0027s not\nvery likely, is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk13",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "Whaaa\u2014?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk14",
+      "TextList": [
+        {
+          "Line": 350,
+          "OriginalText": "Aha ha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk15",
+      "TextList": [
+        {
+          "Line": 359,
+          "OriginalText": "Young people these days sure do\nlike their jokes.\n\nIf you were really that noble swordsman,\nyou\u0027d have the legendary blade\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 363,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": "the sword that seals the darkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 370,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk16",
+      "TextList": [
+        {
+          "Line": 379,
+          "OriginalText": "Don\u0027t tell me that sword is...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": "\nthe blade that can only be wielded\nby the hero of legend...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "The sword that seals the darkness!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk18",
+      "TextList": [
+        {
+          "Line": 398,
+          "OriginalText": "Hm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk19",
+      "TextList": [
+        {
+          "Line": 407,
+          "OriginalText": "Ohhhh, yes. I remember now.\n\n\nIt was long ago, when the Calamity hit...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "\nbut you look just like the swordsman\nwho was trying to stop it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Meeting00",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "Hey, Trissa...\n\n\nAren\u0027t you tired?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 427,
+          "OriginalText": " Don\u0027t you hate talking\nto weird customers?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": " Aren\u0027t you chilly?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": "\nHave you eaten yet?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Meeting01",
+      "TextList": [
+        {
+          "Line": 444,
+          "OriginalText": "Hee hee! Stop being such a worrywart,\nyou old coot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 453,
+          "OriginalText": "Gimme 7, I don\u0027t carrot all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 457,
+          "OriginalText": "I should get going.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 461,
+          "OriginalText": "Grow big and strong...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near05",
+      "TextList": [
+        {
+          "Line": 465,
+          "OriginalText": "Gotta cut that grass...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near06",
+      "TextList": [
+        {
+          "Line": 469,
+          "OriginalText": "I\u0027m not losing to him.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near07",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "Hyah! Hyah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near08",
+      "TextList": [
+        {
+          "Line": 477,
+          "OriginalText": "Hey, Trissa...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near10",
+      "TextList": [
+        {
+          "Line": 481,
+          "OriginalText": "Zzz... Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near11",
+      "TextList": [
+        {
+          "Line": 485,
+          "OriginalText": "A little rain can\u0027t stop me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near12",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "Thunder can\u0027t stop me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near13",
+      "TextList": [
+        {
+          "Line": 498,
+          "OriginalText": "Gimme 8, I don\u0027t carrot all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near14",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "Gimme 9, I don\u0027t carrot all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near15",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "Gimme 6, I don\u0027t carrot all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SupriseHouse",
+      "TextList": [
+        {
+          "Line": 525,
+          "OriginalText": "Who\u0027s there?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SupriseHouse_00",
+      "TextList": [
+        {
+          "Line": 534,
+          "OriginalText": "Oh! It\u0027s only you... Don\u0027t go around\nscaring the elderly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SupriseHouse_01",
+      "TextList": [
+        {
+          "Line": 543,
+          "OriginalText": "You made a mistake sneaking into\nSteen\u0027s house! Your luck\u0027s run out!\nTime to show you what\u0027s what!\n...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 547,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 553,
+          "OriginalText": "Wow.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 557,
+          "OriginalText": " You look just like the legendary\nswordsman who faced the Calamity all\nthose years ago...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 569,
+          "OriginalText": "What we\u0027ve got growin\u0027 over here\nis none other than the pride of\nKakariko Village\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 576,
+          "OriginalText": "swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 579,
+          "OriginalText": "!\nThey\u0027re as pretty as a picture and have\na flavor to savor. Raised with love\nand sweat, a true recipe savior!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 588,
+          "OriginalText": "The old man fiddling about in the field\nbeyond the stream...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": " That\u0027s who I\u0027m\ntalkin\u0027 about.\nThe two of us have been at odds\nfor ages.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 598,
+          "OriginalText": "That jokester goes on and on about\nthe best offense being a good defense.\nThat doesn\u0027t even make any sense!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 604,
+          "OriginalText": "Even when we go out hunting,\nhe takes forever to quietly\ncreep up on our prey...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 608,
+          "OriginalText": "\nuntil even the sun gets bored and sets\nbefore he catches anything!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": "I always tell him that the best defense\nis a good offense. The poor fool won\u0027t\nlisten to reason.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 623,
+          "OriginalText": "This is my sweetie\u0027s material shop.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 627,
+          "OriginalText": "\nI make it a point to stop by and\nsee her a couple times a day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 636,
+          "OriginalText": "When facing an enemy in combat...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 645,
+          "OriginalText": "\nalways focus in on them.\n\nThat\u0027s the most basic of the basics\nas far as good offense goes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 654,
+          "OriginalText": "You can cause a shock wave on the\nground just by swinging your sword\nwhile you\u0027re jumping.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 660,
+          "OriginalText": "The higher up you are, the more damage\nyou\u0027ll do. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 664,
+          "OriginalText": "However...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 670,
+          "OriginalText": "If you\u0027re TOO high up, you\u0027ll be the one\nwho takes damage.\n\nOnce you get the hang of this, it\u0027s quite\nuseful for surprise attacks on groups of\nenemies down below you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 679,
+          "OriginalText": "What\u0027s with that judgmental look?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 683,
+          "OriginalText": "\nSneakstrikes are a legitimate strategy!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 689,
+          "OriginalText": "You just sneak up behind your foe...\n\n\nand before they realize you\u0027re there...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 693,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 699,
+          "OriginalText": "HYAH! They\u0027re met with the taste\nof steel!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 703,
+          "OriginalText": " Or wood, depending on your\nweapon of choice.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 709,
+          "OriginalText": "Got it? They\u0027ll be no match if you sneak\nup on \u0027em!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 713,
+          "OriginalText": " Since they aren\u0027t expecting\nthe attack, you\u0027ll deal more damage too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk07",
+      "TextList": [
+        {
+          "Line": 730,
+          "OriginalText": "To tell ya the truth, I\u0027d like to take that\ntrial thing at the village shrine and learn\nthe secret art of offense. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 734,
+          "OriginalText": "It\u0027s just...\nWell, no one knows the technique you\nneed to enter the shrine. That\u0027s why\nI train like this every day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 743,
+          "OriginalText": "If you move while crouched down instead\nof walking normally, you\u0027ll be a lot harder\nto detect.\nThat\u0027s not just for monsters either.\nThat\u0027s what I do when I\u0027m trying to\nsneak up on wild animals too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 752,
+          "OriginalText": "When I was younger, I worked out\nmorning, noon, and night.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 756,
+          "OriginalText": " But lately,\nmy old age has caught up with me...\nIf you\u0027d like more sword lessons,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 760,
+          "OriginalText": "\ncome back again ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 764,
+          "OriginalText": "tomorrow night",
+          "TranslatedText": null
+        },
+        {
+          "Line": 767,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 779,
+          "OriginalText": "Swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 782,
+          "OriginalText": " fortify and nourish your\nbody.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 786,
+          "OriginalText": " Add them to your cooking,\nand their effects will increase!\nGo on! Throw some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 790,
+          "OriginalText": "swift carrots",
+          "TranslatedText": null
+        },
+        {
+          "Line": 793,
+          "OriginalText": " into\nany dish you\u0027re cookin\u0027 up to make it a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 797,
+          "OriginalText": "hasty dish",
+          "TranslatedText": null
+        },
+        {
+          "Line": 800,
+          "OriginalText": ". Eat it to up your speed!\nYou wanna be the man, don\u0027t you?\nOf course you do! That means you\u0027ll\nneed strength to move fast!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 809,
+          "OriginalText": "It\u0027s already this late?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 813,
+          "OriginalText": " I should finish up\nfor today.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 831,
+          "OriginalText": "Now, you might run into a hardheaded\nold codger rambling on about Kakariko\nbeing known for pumpkins. HA!\nI tell ya what. I\u0027m pretty sure eating all\nthose pathetic pumpkins is what made\nhis head so hard in the first place!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk18",
+      "TextList": [
+        {
+          "Line": 849,
+          "OriginalText": "It\u0027s best to just try out lots of different\nthings to see what works for you.\nGot any other questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk24",
+      "TextList": [
+        {
+          "Line": 868,
+          "OriginalText": "Sorry, I\u0027m in a hurry.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 872,
+          "OriginalText": "\nMy old lady is waitin\u0027 for me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk26",
+      "TextList": [
+        {
+          "Line": 884,
+          "OriginalText": "The best defense is a good offense...\nWho do those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 888,
+          "OriginalText": "fortified pumpkins ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 891,
+          "OriginalText": "think\nthey\u0027re kidding.\nI\u0027ll smash those nasty things up good.\nShow \u0027em who\u0027s boss around here...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk27",
+      "TextList": [
+        {
+          "Line": 903,
+          "OriginalText": "What splendid carrots! It looks like\nsomeone\u0027s gone to great lengths\nto grow them...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk30",
+      "TextList": [
+        {
+          "Line": 912,
+          "OriginalText": "So begins our training! Lesson one...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 916,
+          "OriginalText": "\nThe best defense is a good offense!\n\nNow, come with me if you want to learn\nthe secret art of combat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk31",
+      "TextList": [
+        {
+          "Line": 925,
+          "OriginalText": "To tell ya the truth, I\u0027d like to take that\ntrial thing at the village shrine and learn\nthe secret art of offense.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 929,
+          "OriginalText": " It\u0027s just...\nWell, no one knows the technique you\nneed to enter the shrine. That\u0027s why I\ntrain like this every day, even in the rain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk33",
+      "TextList": [
+        {
+          "Line": 938,
+          "OriginalText": "Wow! Interested in combat too...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 942,
+          "OriginalText": "\nJust what I\u0027d expect from such a big fan\nof the legendary swordsman.\nThe Sheikah tribe has long excelled in\nknowledge and combat.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 946,
+          "OriginalText": " We have quite\na few secret techniques.\nI can\u0027t teach you ALL of them,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 950,
+          "OriginalText": "\nbut I think showing you just\nthese few should be OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk41",
+      "TextList": [
+        {
+          "Line": 969,
+          "OriginalText": "Oh. It\u0027s you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 973,
+          "OriginalText": " Nice weather today, eh?\nMy carrots are doing mighty fine lately.\n\nThe soil looks so nice every morning\u2014\nit\u0027s almost like someone\u0027s been tilling it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk42",
+      "TextList": [
+        {
+          "Line": 982,
+          "OriginalText": "The best defense is a good offense!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 986,
+          "OriginalText": "\nWould you like to master the art\nof combat?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk43",
+      "TextList": [
+        {
+          "Line": 1003,
+          "OriginalText": "Oh. It\u0027s you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1007,
+          "OriginalText": " Nasty weather today.\n\n\nWelp, no matter what the weather has\nin store,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1011,
+          "OriginalText": " these carrots have been\ngrowing as beautifully as ever.\nThe soil is so nice every morning...\nit\u0027s almost like someone\u0027s been tilling\nthe soil through the night.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 1015,
+          "OriginalText": "Huh? The Yiga?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 1019,
+          "OriginalText": "What\u0027s that blue thing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 1023,
+          "OriginalText": "Y-you want some of this?!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

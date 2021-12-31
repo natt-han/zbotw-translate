@@ -1,0 +1,1135 @@
+{
+  "FileName": "RinelSearch",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Understood!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ve got it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I still don\u0027t get it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I\u0027ll be fine.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Why do you ask?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0015",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Tell me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0016",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "I have your picture.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0017",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "I still haven\u0027t.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "Hello.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Oh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "You are Link...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": "right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "Prince Sidon ran off through the\neastern gate. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": "He was shouting\nsomething like...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "\u0022I\u0027m off to stop the Divine Beast!\nLink the Hylian is coming with me!\u0022\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 125,
+          "OriginalText": "I assume that means you\u0027re going\nup ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": " in search of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Oh.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": " My mistake.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "If so, I have a request that is...\nsomewhat related.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "There\u0027s a red-maned monster called a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": "that lives on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": "I REALLY need a picture of a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": ".\nIt can be a picture of any red-maned\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 216,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": ". Not just the one on the mountain.\nSo what do you say? Can you get me",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": " \na picture of a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 247,
+          "OriginalText": "Link... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": "You are on your way to climb\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": ", correct?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "I am glad that was settled so quickly.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "You have probably already heard, but up\non ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "Ploymus Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": "there lives a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 298,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 302,
+          "OriginalText": "\nThis creature is half man, half beast.\nIn the past, a number of Zora from\nthe domain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 306,
+          "OriginalText": "have fallen prey to this\nred-maned ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 310,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": "...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "It is not to be underestimated.\nPlease be careful.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "Sorry, but I\u0027m on my way somewhere...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 332,
+          "OriginalText": "\nat least I hope I am.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "I\u0027m sorry. I know that was a bit sudden.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 345,
+          "OriginalText": "\nAllow me to elaborate.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 354,
+          "OriginalText": "That peak over there is known as\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 358,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": ".\n\nOn top of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "Ploymus Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": "is a brutal,\nred-maned monster ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "called a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": ".\n\nIt\u0027s so very important that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": "I see one",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": ".\nAny ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": "Lynel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": "with a red mane will do.\nIt doesn\u0027t have to be that specific one.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "Does that make more sense?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 416,
+          "OriginalText": "That\u0027s good to hear.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 420,
+          "OriginalText": " I was a little worried\nabout what to do.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 429,
+          "OriginalText": "Really?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": " You...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "still don\u0027t get it?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "\nOK...I will try explaining it like\nI would to a child.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 450,
+          "OriginalText": "Does baby see dat really big rock over\ndere?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": " Dat\u0027s called ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": "!\nYes it is!\nA big, scawy monster with red hair lives\nthere. It\u0027s called a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 468,
+          "OriginalText": ", and I really,\nREALLY want to see what one looks like!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": "But they\u0027re NOT",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": " VERY",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": " NICE",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": ", so",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": " I don\u0027t\nwant you to bring him down here",
+          "TranslatedText": null
+        },
+        {
+          "Line": 496,
+          "OriginalText": "\nbecause he might be mean to us!\nMaybe you could draw me a pretty\npicture of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": "what a Lynel looks like",
+          "TranslatedText": null
+        },
+        {
+          "Line": 503,
+          "OriginalText": "\ninstead? Any red-maned ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 510,
+          "OriginalText": " at all?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": "*ahem* There... Do you understand now?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 525,
+          "OriginalText": "See, there\u0027s this fool in the domain who\ngoads people into jumping off of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": "Shatterback Point ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 532,
+          "OriginalText": "on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 536,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 539,
+          "OriginalText": ".\nIt\u0027s an incredibly dangerous jump, and\nthis guy pressures people into jumping\noff by questioning their courage.\nHe\u0027s a real bottom-feeder. If this keeps\nup, someone is surely going to wind up\nhorribly injured!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 545,
+          "OriginalText": "I need a picture of a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 549,
+          "OriginalText": "Lynel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 552,
+          "OriginalText": "to show\neveryone how scary they are. That way,\nmaybe people will stop going up there.\nDoes that answer your question, Link?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 561,
+          "OriginalText": "I\u0027ll leave the details to you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": " Just bring me\na",
+          "TranslatedText": null
+        },
+        {
+          "Line": 569,
+          "OriginalText": " picture of a Lynel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": "so I can describe\nthem in terrible detail. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 576,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "I may have failed to mention how to get\nup on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 609,
+          "OriginalText": "So you\u0027ll show me what a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 613,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 616,
+          "OriginalText": " looks\nlike?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": " Thank you in advance!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "The waterfall will come in handy when\ntrying to climb ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 633,
+          "OriginalText": "Ploymus Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 636,
+          "OriginalText": ".\n\nJust put on some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 640,
+          "OriginalText": "Zora armor",
+          "TranslatedText": null
+        },
+        {
+          "Line": 643,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 647,
+          "OriginalText": "With that,\neven a Hylian can swim up the waterfall\nlike it\u0027s nothing.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 656,
+          "OriginalText": "...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 662,
+          "OriginalText": "Oh, but what am I saying? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 666,
+          "OriginalText": "Zora armor",
+          "TranslatedText": null
+        },
+        {
+          "Line": 669,
+          "OriginalText": "\nis a sacred gift given by a Zora princess\nto her future husband.\nPretty tough to come across otherwise.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 678,
+          "OriginalText": "Don\u0027t tell me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 682,
+          "OriginalText": "you just happen to have \naccess to sacred ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 686,
+          "OriginalText": "Zora armor",
+          "TranslatedText": null
+        },
+        {
+          "Line": 689,
+          "OriginalText": "?!\n\nNo...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 693,
+          "OriginalText": "that would be impossible.\n\n\nToo bad! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 697,
+          "OriginalText": "If you had that armor, you\u0027d be\nable to swim straight up waterfalls!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 706,
+          "OriginalText": "Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 710,
+          "OriginalText": " How is that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 714,
+          "OriginalText": "Lynel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 717,
+          "OriginalText": "mission\ncoming along?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 734,
+          "OriginalText": "Oh, wow! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 738,
+          "OriginalText": "Please show me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 747,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 756,
+          "OriginalText": "Thank you! I\u0027ll tell the children of the\ndomain about this. Maybe that will\nscare them away from the mountain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 765,
+          "OriginalText": "These ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 769,
+          "OriginalText": "Zora greaves",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": " were once made by\nskilled craftsmen by order of an ancient\nZora king. Now they\u0027re fairly common.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 778,
+          "OriginalText": "As you may know, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 782,
+          "OriginalText": "East Reservoir Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 785,
+          "OriginalText": "\nwas created in a collaboration between\nHylians and the Zora.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": "After ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 795,
+          "OriginalText": "East Reservoir Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 798,
+          "OriginalText": " was finished,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 802,
+          "OriginalText": "\nwe made Zora greaves as a token of\nfriendship for Hylians who came to visit.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 808,
+          "OriginalText": "But over time, the number of Hylians\nvisiting the domain dwindled,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 812,
+          "OriginalText": " and my\nfather had to close his armor shop.\nThese Zora greaves here were the last\npair left in the stock room when he\nclosed up shop.\nWearing these, even a Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 816,
+          "OriginalText": " can swim\nas well as a Zora.\n\nThat said, these would be wasted on me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 820,
+          "OriginalText": "\nThey are only useful for a Hylian like you.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 826,
+          "OriginalText": "Please take good care of them!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 835,
+          "OriginalText": "Well, that\u0027s what I was thinking...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 839,
+          "OriginalText": "\nBut it looks like your pouch is\ntoo full, Link.\nCome back once you free up some space\nin there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 848,
+          "OriginalText": "Link! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 852,
+          "OriginalText": "Thank you so much for helping me\nout with that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 856,
+          "OriginalText": "Lynel",
+          "TranslatedText": null
+        },
+        {
+          "Line": 859,
+          "OriginalText": " mission!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 868,
+          "OriginalText": "Oh, right! Now for your reward...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 877,
+          "OriginalText": "Link...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 881,
+          "OriginalText": " I am sorry to ask this of you\nwhen you are busy dealing with the\nDivine Beast...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 887,
+          "OriginalText": "But I am afraid this is a task that only\nyou can accomplish!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 896,
+          "OriginalText": "Link...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 900,
+          "OriginalText": " The Divine Beast has been\nappeased, but I fear there is still\nsomething that threatens the domain...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 909,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 913,
+          "OriginalText": " I suppose it was wrong of me\nto ask this of you.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 919,
+          "OriginalText": "My apologies.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 923,
+          "OriginalText": " Please don\u0027t concern\nyourself with my troubles.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 932,
+          "OriginalText": "By the way, Link...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 936,
+          "OriginalText": " How did you get\nyour hands on that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 940,
+          "OriginalText": "Zora armor",
+          "TranslatedText": null
+        },
+        {
+          "Line": 943,
+          "OriginalText": "?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 949,
+          "OriginalText": "I thought Lady Mipha was saving that\nfor the man she... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 953,
+          "OriginalText": "OH.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

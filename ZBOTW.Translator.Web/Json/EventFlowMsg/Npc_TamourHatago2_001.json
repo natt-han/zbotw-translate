@@ -1,0 +1,480 @@
+{
+  "FileName": "Npc_TamourHatago2_001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027m a humble traveler.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027m the best!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No, not at all.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Legendary sword?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027m not interested.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "It\u0027s legendary.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "It\u0027s a fake.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Heyo. Who are you?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "*tsk*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": " Ignoring me, I see.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 83,
+          "OriginalText": "Hmph. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "Show-off.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Traveling alone to a place like this?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": "\nYou must be a man who sets his mind\non something and then gets it done!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "Your modesty is overwhelming...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "That\u0027s why I thought, if I can get that\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "legendary sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": " maybe a new path\nwill open up for me! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": "Whaddaya think?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 158,
+          "OriginalText": "That\u0027s right!\n\n\nI finally figured out that it\u0027s near\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 165,
+          "OriginalText": ". However...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 169,
+          "OriginalText": "it doesn\u0027t\nseem to be in this direction.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "Maybe it\u0027s on the opposite side,\ncloser to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "Woodland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 191,
+          "OriginalText": "I was really into sword fighting,\nbut I\u0027m in a bit of a rut with it.\n\nDoesn\u0027t help that the sword I\u0027m using\nright now is way too blunt.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "Whoa. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": " you have there.\nCould it be...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Anyway...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "Hmm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "Oh. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": "It\u0027s you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "I take it you\u0027re looking for",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": " the fabled\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 267,
+          "OriginalText": "sword of legend",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": " too?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 287,
+          "OriginalText": "Well, I\u0027m not lettin\u0027 you have it!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "In fact, I think I\u0027ll just go ahead and\nmosey over to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 297,
+          "OriginalText": "Woodland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 300,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 309,
+          "OriginalText": "Then get outta my face!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 318,
+          "OriginalText": "Hmm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 322,
+          "OriginalText": "Maybe I\u0027ll just mosey over to\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": "Woodland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "HA! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "You must be joking!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 351,
+          "OriginalText": "Right?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 360,
+          "OriginalText": "I hear the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 364,
+          "OriginalText": "legendary sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": " is hidden\ndeep in a forest.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": " But no one has ever\nreturned from that forest...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 380,
+          "OriginalText": "How could a twig like you find it?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "I\u0027m gonna go after that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": "legendary sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 396,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "\nso just stay outta my way!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

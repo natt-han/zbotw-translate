@@ -1,0 +1,95 @@
+{
+  "FileName": "Npc_Musician_012",
+  "EntryList": [
+    {
+      "EntryName": "Challenge000",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Ah!",
+          "TranslatedText": "อ้าา!"
+        },
+        {
+          "Line": 17,
+          "OriginalText": " You\u0027ve done well climbing all the way\nup here!\n",
+          "TranslatedText": "คุณปีนขึ้นไปที่นี่ได้\nดีมาก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "Ah! ",
+          "TranslatedText": "อ้า! "
+        },
+        {
+          "Line": 30,
+          "OriginalText": "So \u0022",
+          "TranslatedText": "ดังนั้น \u0022"
+        },
+        {
+          "Line": 34,
+          "OriginalText": "nothing between you and the\nnight air",
+          "TranslatedText": "nไม่มีอะไรระหว่างคุณกับ\nอากาศตอนกลางคืน"
+        },
+        {
+          "Line": 37,
+          "OriginalText": "\u0022 meant naked!\n\n",
+          "TranslatedText": "\u0022 หมายถึงเปลือยกาย!\n\n"
+        },
+        {
+          "Line": 43,
+          "OriginalText": "Boldly standing naked on the pedestal...\nThat\u0027s definitely reminiscent of the\nhero of legend.\n",
+          "TranslatedText": "ยืนเปลือยกายบนแท่นอย่างกล้าหาญ ...\nนั่นเป็นการเตือนความทรงจำของฮีโร่\nในตำนานอย่างแน่นอน\n"
+        },
+        {
+          "Line": 49,
+          "OriginalText": "Take care, and may the light illuminate\nyour path.",
+          "TranslatedText": "ระวังและแสงอาจส่องเส้นทา\nงของคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Stop it!",
+          "TranslatedText": "หยุดมัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "WAAAAAA!",
+          "TranslatedText": "ว้าก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "Ack!",
+          "TranslatedText": "Aอ้าก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "Knock it off!",
+          "TranslatedText": "เคาะมันออก!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "FileName": "Npc_UMiiVillage009",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027m a traveler.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "A...down payment?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I don\u0027t need money.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Actually, never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Guardians kaput!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Haaah...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Hmmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "What\u0027s the deal? You\u0027re...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "Hmpf...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "I don\u0027t care about the details.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": "\nHere, take it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "I normally don\u0027t have time to mingle with\ncommoners...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "but I have a feeling about\nyou. I\u0027ll make an exception this time.\nYour clothes...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 108,
+          "OriginalText": "\nI\u0027m guessing you\u0027re a little hard up for\ncash. Am I right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "I appreciate your honesty.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 134,
+          "OriginalText": "So for the down payment...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": "\nI\u0027d say ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "100 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 145,
+          "OriginalText": " sounds fair, yes?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "Hoh ho ho!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "\nSo you accept, then? Excellent!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 172,
+          "OriginalText": "Now, listen to what I have to say.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "Torin Wetland",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": " lies to the west of\nhere.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": " You\u0027re aware that there are\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Guardians ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": "there? Not just one, either...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": "Two ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "of them!!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 224,
+          "OriginalText": "You know how dangerous they are...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "So, sonny boy... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": "I\u0027d like you to find and\nwallop ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "both ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": "of them in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "Torin Wetland",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": ".\nThen come and see me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 261,
+          "OriginalText": "Hand!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 281,
+          "OriginalText": "Didn\u0027t I tell you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 299,
+          "OriginalText": "I suppose I must endure engaging with the\ncommon folk if I hope to get something done...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 311,
+          "OriginalText": "You\u0027ve no doubt heard of the ferocious\nHagie? That\u0027s me. But I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "got everything\nI wanted.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "Lately my days have felt so empty.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 325,
+          "OriginalText": "\nThe only things that thrill me now are\ntrue risks to life and limb.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 331,
+          "OriginalText": "Everything else just feels...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 335,
+          "OriginalText": "hollow.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 344,
+          "OriginalText": "I\u0027m sorry? You don\u0027t want the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": "100\nrupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 351,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 355,
+          "OriginalText": " All right, then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Hmm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "And you are...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "Do you need something else from me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 401,
+          "OriginalText": "It\u0027s you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 410,
+          "OriginalText": "...If you think you can put one over on\nme, I have grave news for you, sonny.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 426,
+          "OriginalText": "Just the sort of shoddy, corner-cutting job I expect\nfrom the common rabble...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "If you\u0027re clear on the deal, then go take\nout the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "two Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": " walking around\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": "Torin Wetland",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 463,
+          "OriginalText": "OK. OK. I saw the whole thing.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": "\nYou did splendidly. I\u0027ll give you the\nrest of the reward, as I promised.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 476,
+          "OriginalText": "Why do you look so disappointed?\nIt can\u0027t be because the reward is lower\nthan the down payment, can it?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "You commoners with your notions and\nassumptions...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": "The whole idea that a down payment is a\nsmall part of the final payment is an idea\nentirely unique to the common folk!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 494,
+          "OriginalText": "In any case, our business is concluded.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 498,
+          "OriginalText": "\nGo over there. Or anywhere, really.\nAnywhere that isn\u0027t. Right. Here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": "got everything I wanted.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": "But I\u0027ll tell you, there are some things\nout there... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": "Things that all the money in\nthe world can\u0027t get you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Haaah... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": "I\u0027ve grown weak...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 552,
+          "OriginalText": "My daughter\u0027s health has improved",
+          "TranslatedText": null
+        },
+        {
+          "Line": 556,
+          "OriginalText": "...\nDoes that mean that we don\u0027t need this house\nanymore?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": " Hmmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 578,
+          "OriginalText": "I\u0027m going sunbathing with my family.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 582,
+          "OriginalText": "\nYou\u0027re in my way\u2014cease to be so.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 594,
+          "OriginalText": "Haah... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 598,
+          "OriginalText": "What can I do...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 610,
+          "OriginalText": "What a beautiful sunset...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": "\nMy soul feels cleansed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 623,
+          "OriginalText": "I\u0027m so glad I was able to sunbathe today.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "FileName": "GerudoMiniJewel",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes, please!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Ruby?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Sapphire?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Topaz?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Accessories?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Here\u0027s some flint.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "What\u0027s the matter?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "I have to do something...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_01",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "Great! You got the last of my free time\nwith that greeting.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_02",
+      "TextList": [
+        {
+          "Line": 74,
+          "OriginalText": "Sarqso!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 78,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 84,
+          "OriginalText": "But...I can\u0027t take this all from you with\njust a sarqso. We hardly know each\nother,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": " and you\u0027ve been so nice...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 94,
+          "OriginalText": "The shop\u0027s been closed so long,\nI hardly have any inventory...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 109,
+          "OriginalText": "Oh, of course!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 124,
+          "OriginalText": "Now that I have some\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 131,
+          "OriginalText": ", I could make a jeweled accessory\nfor you if you\u0027re interested in something.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_03",
+      "TextList": [
+        {
+          "Line": 149,
+          "OriginalText": "I\u0027m sorry that these are all I have to offer\nto show my appreciation...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "But really...I need to give you something\nto feel OK about accepting your help.\nCould you please pick one?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_06",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "Oh,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": " you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "I\u0027m sorry you keep coming here for\nnothing...\n\nWithout ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 191,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": ", I can\u0027t process jewels, so\nI can\u0027t sell anything in my shop.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": "It\u0027d be a different story if a kind,\ngenerous vai were to give me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "10 pieces\nof",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": ", though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_08",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "I use ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": ", ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": ", and other gems\nto make ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "accessories",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": ". \n\nEach gem type has its own power that it\ncan transfer to whoever wears it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_09",
+      "TextList": [
+        {
+          "Line": 261,
+          "OriginalText": "I\u0027m sorry that you came all the way\nto see me for nothing.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_10",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "Brand-new, especially for you!\nI think it turned out really well!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_11",
+      "TextList": [
+        {
+          "Line": 289,
+          "OriginalText": "Thanks to you, I got the shop running\nagain, so if you ever need an accessory,\nplease come by for a special discount.\nJust...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "don\u0027t tell my other customers, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 297,
+          "OriginalText": "OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_12",
+      "TextList": [
+        {
+          "Line": 314,
+          "OriginalText": "Teehee, I thought you might pick that\none.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": " Please give me a moment...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_13",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "Teehee, I thought you might pick that\none. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 336,
+          "OriginalText": "Just give\u2014\n\nHang on. It doesn\u0027t seem like you\u0027ve got\nroom for this right now. Perhaps you can\nmake some room and come back?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_14",
+      "TextList": [
+        {
+          "Line": 350,
+          "OriginalText": "I\u0027d like to give you something as thanks.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": "Have you decided on an accessory\nyou\u0027d like?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_15",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "There\u0027s nothing I can do about not\nhaving any ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": ", though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_16",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "Sorry you keep coming here with nothing\nto show for the trip...\n\nWithout ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 397,
+          "OriginalText": ", I can\u0027t make any\naccessories, so the shop is closed\nfor now.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 403,
+          "OriginalText": "It would be a different story if a kind,\ngenerous vai were to give me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 407,
+          "OriginalText": "10 pieces\nof",
+          "TranslatedText": null
+        },
+        {
+          "Line": 410,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 417,
+          "OriginalText": ", though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_17",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "Uh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18",
+      "TextList": [
+        {
+          "Line": 449,
+          "OriginalText": "What?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 453,
+          "OriginalText": " You\u0027re just...giving these to me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19",
+      "TextList": [
+        {
+          "Line": 468,
+          "OriginalText": "Rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": " have the power to grant cold\nresistance. So you\u0027d like a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 475,
+          "OriginalText": "ruby circlet",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20",
+      "TextList": [
+        {
+          "Line": 498,
+          "OriginalText": "Sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": " have the power to grant heat\nresistance. So you think you\u0027d like a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "sapphire circlet",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_21",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "Topaz",
+          "TranslatedText": null
+        },
+        {
+          "Line": 531,
+          "OriginalText": " has the power to grant electric\nresistance. So you think you\u0027d like\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 535,
+          "OriginalText": "topaz earrings",
+          "TranslatedText": null
+        },
+        {
+          "Line": 538,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_23",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "I manage a shop that specializes in\nhandmade accessories, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 561,
+          "OriginalText": "but I\u0027ve run out\nof ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": ". I need it to make my items.\nIf only I had ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 575,
+          "OriginalText": "... Just ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 579,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 582,
+          "OriginalText": "... If some kind\nvai would give me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 586,
+          "OriginalText": "10 pieces of flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": ", \nI could offer a nice reward...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 602,
+          "OriginalText": "I can dream all I want, though... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 606,
+          "OriginalText": "Nothing\ngoes that smoothly in the real world.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_24",
+      "TextList": [
+        {
+          "Line": 623,
+          "OriginalText": "You\u0027re a Hylian, right? Listen, I\u0027m sorry\nyou came all this way,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 629,
+          "OriginalText": " but my shop is\ngonna have to close for a bit.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_25",
+      "TextList": [
+        {
+          "Line": 638,
+          "OriginalText": "Hmm.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": " Well, I do appreciate the gesture...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 653,
+          "OriginalText": "But unless I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 657,
+          "OriginalText": "10 pieces of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "flint ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 666,
+          "OriginalText": "to\nget started with, there\u0027s no point...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_26",
+      "TextList": [
+        {
+          "Line": 675,
+          "OriginalText": "I haven\u0027t really got the time to be\ngreeting people, honestly...\n\nNow that the Divine Beast has finally\ncalmed down, there should be a rush of\ncustomers any second...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 681,
+          "OriginalText": "So why did something like this have to\nhappen to me now, of all times?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_27",
+      "TextList": [
+        {
+          "Line": 698,
+          "OriginalText": "I\u0027m in a bit of a jam, really...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_28",
+      "TextList": [
+        {
+          "Line": 707,
+          "OriginalText": "Hahh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 711,
+          "OriginalText": "Oooh, what to do, what to do...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_29",
+      "TextList": [
+        {
+          "Line": 725,
+          "OriginalText": "Vasaaq...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 731,
+          "OriginalText": "Not that I have any reason to be\ngreeting people...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_30",
+      "TextList": [
+        {
+          "Line": 748,
+          "OriginalText": "I\u0027m sorry... I still haven\u0027t gotten my\nhands on any ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 755,
+          "OriginalText": ". I can\u0027t really make\nanything without it.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 761,
+          "OriginalText": "Hah... I wonder if a kind, generous\nvai would give me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 765,
+          "OriginalText": "10 pieces of",
+          "TranslatedText": null
+        },
+        {
+          "Line": 768,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 775,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_31",
+      "TextList": [
+        {
+          "Line": 784,
+          "OriginalText": "I\u0027m sorry... I haven\u0027t been able to get any\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 788,
+          "OriginalText": "flint ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": "yet, so I\u0027m not in a position to make\nany ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 795,
+          "OriginalText": "accessories",
+          "TranslatedText": null
+        },
+        {
+          "Line": 798,
+          "OriginalText": " right now...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 804,
+          "OriginalText": "Hmm, I wonder if I\u0027d be able to work if\na kind, generous vai were to give me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 808,
+          "OriginalText": "10\npieces of",
+          "TranslatedText": null
+        },
+        {
+          "Line": 811,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 815,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 818,
+          "OriginalText": ", though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_32",
+      "TextList": [
+        {
+          "Line": 836,
+          "OriginalText": "I can\u0027t do anything without some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 840,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 843,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_33",
+      "TextList": [
+        {
+          "Line": 865,
+          "OriginalText": "Sav\u0027otta...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_34",
+      "TextList": [
+        {
+          "Line": 879,
+          "OriginalText": "Sav\u0027aaq...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_35",
+      "TextList": [
+        {
+          "Line": 893,
+          "OriginalText": "Sav\u0027saaba...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_36",
+      "TextList": [
+        {
+          "Line": 907,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_37",
+      "TextList": [
+        {
+          "Line": 921,
+          "OriginalText": "Sav\u0027aaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_38",
+      "TextList": [
+        {
+          "Line": 935,
+          "OriginalText": "Sav\u0027saaba!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

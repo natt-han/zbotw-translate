@@ -1,0 +1,505 @@
+{
+  "FileName": "Npc_Kakariko011",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Regular bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Soft bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "The difference?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Noon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Night.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Changed my mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Thank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Nah, never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 61,
+          "OriginalText": " The regular bed is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 65,
+          "OriginalText": "20 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 68,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": "\nAnd...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": "th-the soft bed is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": "40 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": "\nI guess...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "Th-thank you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": " So, um...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "\nWhen should I wake you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 138,
+          "OriginalText": "Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "d-do come again...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "\nGood night...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "M-morning?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": " Alrighty.\nIf you insist.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": "I wonder...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "if I\u0027ll be awake...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 183,
+          "OriginalText": "Um...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": " Oh, my... It seems you don\u0027t...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 191,
+          "OriginalText": "\nhave enough rupees.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "Um...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": " Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": " OK, I guess.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "Good m-morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 226,
+          "OriginalText": "Ack! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "Are you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "a g-guest?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": "I suppose so...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": "You s-scared me half to death...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "Hrm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 268,
+          "OriginalText": "Well... I guess it\u0027s OK.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 272,
+          "OriginalText": "\nIt is your first time here...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 276,
+          "OriginalText": "right?\n\nI\u0027ll give you a freebie...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 280,
+          "OriginalText": "just this once.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "The soft bed is stuffed with premium\nCucco feathers...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "or something.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "\nI think.\nSleep on that, and...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 309,
+          "OriginalText": " Um...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": " Ya know...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": "\nYou\u0027ll be more energized",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": " than usual.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Oh, OK... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "You\u0027d sleep great, though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "Noon?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": " Alrighty. If you insist.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 351,
+          "OriginalText": "I wonder...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 355,
+          "OriginalText": "if I\u0027ll be awake...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Night?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": " Got it. If you insist.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 375,
+          "OriginalText": "I wonder...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": "if I\u0027ll be awake...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 391,
+          "OriginalText": "Good m-morning.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 395,
+          "OriginalText": " Or wait... Good day.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "\nI guess.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk17",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "Good mor...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": " Wait. I mean, good evening.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": "\nI guess.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk18",
+      "TextList": [
+        {
+          "Line": 425,
+          "OriginalText": "When should I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": "wake you up?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

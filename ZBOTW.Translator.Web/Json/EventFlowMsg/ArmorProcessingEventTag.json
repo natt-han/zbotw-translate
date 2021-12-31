@@ -1,0 +1,475 @@
+{
+  "FileName": "ArmorProcessingEventTag",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Sure.",
+          "TranslatedText": "\u0E41\u0E19\u0E48\u0E19\u0E2D\u0E19"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027ll pass.",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E08\u0E30\u0E1C\u0E48\u0E32\u0E19"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ll keep my rupees.",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E08\u0E30\u0E43\u0E2B\u0E49\u0E23\u0E39\u0E1B\u0E35\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19"
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Here you go.",
+          "TranslatedText": "\u0E19\u0E35\u0E48\u0E44\u0E07"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Boy...",
+          "TranslatedText": "\u0E42\u0E2D\u0E49\u0E27..."
+        },
+        {
+          "Line": 36,
+          "OriginalText": "\n\n\nSweet boy...\n\n\nPlease...",
+          "TranslatedText": "\n\n\n\u0E2B\u0E19\u0E38\u0E48\u0E21\u0E19\u0E49\u0E2D\u0E22...\n\n\n\u0E42\u0E1B\u0E23\u0E14..."
+        },
+        {
+          "Line": 40,
+          "OriginalText": " Listen to my story...",
+          "TranslatedText": " \u0E1F\u0E31\u0E07\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E23\u0E32\u0E27\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Now... ",
+          "TranslatedText": "\u0E15\u0E2D\u0E19\u0E19\u0E35\u0E49... "
+        },
+        {
+          "Line": 56,
+          "OriginalText": "You have rupees for me, right?",
+          "TranslatedText": "\u0E40\u0E18\u0E2D\u0E21\u0E35\u0E23\u0E39\u0E1B\u0E35\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E09\u0E31\u0E19\u0E43\u0E0A\u0E48\u0E44\u0E2B\u0E21?"
+        },
+        {
+          "Line": 60,
+          "OriginalText": "\nHand them over. Quickly!",
+          "TranslatedText": "\n\u0E2A\u0E48\u0E07\u0E21\u0E31\u0E19\u0E21\u0E32 \u0E40\u0E23\u0E47\u0E27\u0E2A\u0E34\u0E08\u0E49\u0E30!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "That is truly tragic...",
+          "TranslatedText": "\u0E19\u0E31\u0E48\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E17\u0E35\u0E48\u0E19\u0E48\u0E32\u0E40\u0E28\u0E23\u0E49\u0E32\u0E21\u0E32\u0E01..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "Ah...",
+          "TranslatedText": "\u0E2D\u0E32..."
+        },
+        {
+          "Line": 82,
+          "OriginalText": " You\u0027ve returned.",
+          "TranslatedText": "\u0E40\u0E18\u0E2D\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32\u0E41\u0E25\u0E49\u0E27"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03_01",
+      "TextList": [
+        {
+          "Line": 86,
+          "OriginalText": "Now... ",
+          "TranslatedText": "\u0E15\u0E2D\u0E19\u0E19\u0E35\u0E49... "
+        },
+        {
+          "Line": 90,
+          "OriginalText": "If you have rupees,",
+          "TranslatedText": "\u0E2B\u0E32\u0E01\u0E21\u0E35\u0E23\u0E39\u0E1B\u0E35,"
+        },
+        {
+          "Line": 94,
+          "OriginalText": " hand them\nover to me. Quickly!",
+          "TranslatedText": " \u0E2A\u0E48\u0E07\u0E21\u0E31\u0E19\u0E21\u0E32\n\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19 \u0E40\u0E23\u0E47\u0E27\u0E46\u0E2A\u0E34\u0E08\u0E49\u0E30!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03_01B",
+      "TextList": [
+        {
+          "Line": 103,
+          "OriginalText": "In order for me to regain my power,",
+          "TranslatedText": "\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E1F\u0E37\u0E49\u0E19\u0E1E\u0E25\u0E31\u0E07"
+        },
+        {
+          "Line": 107,
+          "OriginalText": "\nI need ",
+          "TranslatedText": "\n\u0E09\u0E31\u0E19\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23 "
+        },
+        {
+          "Line": 115,
+          "OriginalText": " rupees",
+          "TranslatedText": " \u0E23\u0E39\u0E1B\u0E35"
+        },
+        {
+          "Line": 118,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03_01C",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "Oh? I feel the power of a new sister...",
+          "TranslatedText": "\u0E42\u0E2D\u0E49 \u0E09\u0E31\u0E19\u0E23\u0E39\u0E49\u0E2A\u0E36\u0E01\u0E16\u0E36\u0E07\u0E1E\u0E25\u0E31\u0E07\u0E02\u0E2D\u0E07\u0E19\u0E49\u0E2D\u0E07\u0E2A\u0E32\u0E27\u0E43\u0E2B\u0E21\u0E48..."
+        },
+        {
+          "Line": 134,
+          "OriginalText": "\nQuickly,",
+          "TranslatedText": "\n\u0E40\u0E23\u0E47\u0E27\u0E2A\u0E34\u0E08\u0E49\u0E30"
+        },
+        {
+          "Line": 138,
+          "OriginalText": " free me as well!",
+          "TranslatedText": "\u0E1B\u0E25\u0E14\u0E1B\u0E25\u0E48\u0E2D\u0E22\u0E09\u0E31\u0E19\u0E17\u0E35!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03_05B",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "In order for me to regain my power,",
+          "TranslatedText": "\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E1F\u0E37\u0E49\u0E19\u0E1E\u0E25\u0E31\u0E07"
+        },
+        {
+          "Line": 151,
+          "OriginalText": "\nI need ",
+          "TranslatedText": "\n\u0E09\u0E31\u0E19\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23 "
+        },
+        {
+          "Line": 155,
+          "OriginalText": "1,000 rupees",
+          "TranslatedText": "1,000 \u0E23\u0E39\u0E1B\u0E35"
+        },
+        {
+          "Line": 158,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03_m",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Well...",
+          "TranslatedText": "\u0E40\u0E22\u0E35\u0E48\u0E22\u0E21\u0E40\u0E25\u0E22..."
+        },
+        {
+          "Line": 179,
+          "OriginalText": " You\u0027re back!",
+          "TranslatedText": "\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32\u0E41\u0E25\u0E49\u0E27!"
+        },
+        {
+          "Line": 183,
+          "OriginalText": "\nI mean... You\u0027ve come back, have you?",
+          "TranslatedText": "\n\u0E09\u0E31\u0E19\u0E2B\u0E21\u0E32\u0E22\u0E16\u0E36\u0E07... \u0E40\u0E18\u0E2D\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32\u0E41\u0E25\u0E49\u0E27, \u0E2A\u0E34\u0E19\u0E30?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 192,
+          "OriginalText": "What\u0027s this?",
+          "TranslatedText": "\u0E19\u0E35\u0E48\u0E2B\u0E21\u0E32\u0E22\u0E04\u0E27\u0E32\u0E21\u0E27\u0E48\u0E32\u0E44\u0E07?"
+        },
+        {
+          "Line": 196,
+          "OriginalText": " You don\u0027t have enough\nrupees?\n\nHow tragic...",
+          "TranslatedText": "\u0E40\u0E18\u0E2D\u0E21\u0E35\n\u0E23\u0E39\u0E1B\u0E35 \u0E44\u0E21\u0E48\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E1E\u0E2D?\n\n\u0E0A\u0E48\u0E32\u0E07\u0E19\u0E48\u0E32\u0E40\u0E28\u0E23\u0E49\u0E32..."
+        },
+        {
+          "Line": 200,
+          "OriginalText": " How dreadfully tragic.",
+          "TranslatedText": " \u0E0A\u0E48\u0E32\u0E07\u0E19\u0E48\u0E32\u0E40\u0E28\u0E23\u0E49\u0E32\u0E08\u0E23\u0E34\u0E07\u0E46"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "This place was once a beautiful spring...\n\n\nBut as time passed, fewer and fewer\ntravelers arrived to offer me rupees.",
+          "TranslatedText": "\u0E2A\u0E16\u0E32\u0E19\u0E17\u0E35\u0E48\u0E41\u0E2B\u0E48\u0E07\u0E19\u0E35\u0E49\u0E40\u0E04\u0E22\u0E40\u0E1B\u0E47\u0E19\u0E24\u0E14\u0E39\u0E43\u0E1A\u0E44\u0E21\u0E49\u0E1C\u0E25\u0E34\u0E17\u0E35\u0E48\u0E2A\u0E27\u0E22\u0E07\u0E32\u0E21...\n\n\n\u0E41\u0E15\u0E48\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E27\u0E25\u0E32\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\u0E04\u0E48\u0E2D\u0E22\u0E46\u0E25\u0E14\u0E19\u0E49\u0E2D\u0E22\u0E25\u0E07\u0E41\u0E25\u0E30\u0E19\u0E49\u0E2D\u0E22\u0E25\u0E07\n\u0E19\u0E31\u0E01\u0E40\u0E14\u0E34\u0E19\u0E17\u0E32\u0E07\u0E21\u0E32\u0E16\u0E36\u0E07\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E2A\u0E19\u0E2D\u0E23\u0E39\u0E1B\u0E35\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19"
+        },
+        {
+          "Line": 208,
+          "OriginalText": " As a\nresult, my power has abandoned me.\nI\u0027m nearly powerless now, so I beg your\nhelp. I need rupees to become whole\nagain.",
+          "TranslatedText": "\u0E1C\u0E25\u0E01\u0E47\u0E04\u0E37\u0E2D\n\u0E1E\u0E25\u0E31\u0E07\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E44\u0E14\u0E49\u0E17\u0E2D\u0E14\u0E17\u0E34\u0E49\u0E07\u0E09\u0E31\u0E19\u0E09\u0E31\u0E19\u0E40\u0E01\u0E37\u0E2D\u0E1A\u0E08\u0E30\u0E44\u0E23\u0E49\u0E1E\u0E25\u0E31\u0E07\u0E41\u0E25\u0E49\u0E27\n\u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\u0E19 \u0E09\u0E31\u0E19\u0E02\u0E2D\u0E04\u0E27\u0E32\u0E21\u0E0A\u0E48\u0E27\u0E22\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E08\u0E32\u0E01\u0E40\u0E18\u0E2D\n\u0E09\u0E31\u0E19\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E23\u0E39\u0E1B\u0E35\n\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E17\u0E35\u0E48\u0E08\u0E30\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32\u0E2A\u0E21\u0E1A\u0E39\u0E23\u0E13\u0E4C\u0E2D\u0E35\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk07",
+      "TextList": [
+        {
+          "Line": 212,
+          "OriginalText": "Hast thou...",
+          "TranslatedText": "\u0E40\u0E18\u0E2D\u0E08\u0E30..."
+        },
+        {
+          "Line": 216,
+          "OriginalText": " I mean...",
+          "TranslatedText": " \u0E09\u0E31\u0E19\u0E2B\u0E21\u0E32\u0E22\u0E16\u0E36\u0E07..."
+        },
+        {
+          "Line": 220,
+          "OriginalText": " Have you ever felt\nthe pain of losing a horse companion?\n\nIf my power is returned to me,",
+          "TranslatedText": " \u0E40\u0E18\u0E2D\u0E40\u0E04\u0E22\u0E23\u0E39\u0E49\u0E2A\u0E36\u0E01\u0E44\u0E2B\u0E21\n\u0E04\u0E27\u0E32\u0E21\u0E40\u0E08\u0E47\u0E1A\u0E1B\u0E27\u0E14\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E2A\u0E39\u0E0D\u0E40\u0E2A\u0E35\u0E22\u0E2A\u0E2B\u0E32\u0E22\u0E21\u0E49\u0E32?\n\n\u0E2B\u0E32\u0E01\u0E1E\u0E25\u0E31\u0E07\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E1F\u0E37\u0E49\u0E19\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32"
+        },
+        {
+          "Line": 224,
+          "OriginalText": " I may be\nable to help you out in some way...\n\nSo please... I beg of you...",
+          "TranslatedText": " \u0E09\u0E31\u0E19\u0E2D\u0E32\u0E08\u0E08\u0E30\n\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E0A\u0E48\u0E27\u0E22\u0E40\u0E18\u0E2D\u0E44\u0E14\u0E49\u0E43\u0E19\u0E1A\u0E32\u0E07\u0E27\u0E34\u0E18\u0E35...\n\n\u0E44\u0E14\u0E49\u0E42\u0E1B\u0E23\u0E14... \u0E09\u0E31\u0E19\u0E02\u0E2D\u0E23\u0E49\u0E2D\u0E07\u0E25\u0E48\u0E30..."
+        },
+        {
+          "Line": 228,
+          "OriginalText": "\nHelp me regain the power I\u0027ve lost...",
+          "TranslatedText": "\n\u0E0A\u0E48\u0E27\u0E22\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E1F\u0E37\u0E49\u0E19\u0E1E\u0E25\u0E31\u0E07\u0E17\u0E35\u0E48\u0E09\u0E31\u0E19\u0E2A\u0E39\u0E0D\u0E40\u0E2A\u0E35\u0E22\u0E44\u0E1B..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "Thank you. You are too kind.",
+          "TranslatedText": "\u0E02\u0E2D\u0E1A\u0E04\u0E38\u0E13 \u0E40\u0E18\u0E2D\u0E0A\u0E48\u0E32\u0E07\u0E43\u0E08\u0E14\u0E35\u0E21\u0E32\u0E01"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "Aah... ",
+          "TranslatedText": "\u0E2D\u0E32... "
+        },
+        {
+          "Line": 245,
+          "OriginalText": "The power...",
+          "TranslatedText": "\u0E1E\u0E25\u0E31\u0E07..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09_1",
+      "TextList": [
+        {
+          "Line": 249,
+          "OriginalText": "Nwaaaaaagh... ",
+          "TranslatedText": "\u0E2D\u0E48\u0E32\u0E32\u0E32\u0E32\u0E32\u0E32... "
+        },
+        {
+          "Line": 253,
+          "OriginalText": "I...",
+          "TranslatedText": "\u0E09\u0E30..."
+        },
+        {
+          "Line": 257,
+          "OriginalText": "am...",
+          "TranslatedText": "\u0E09\u0E31\u0E19..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "It\u0027s overflowing!!!",
+          "TranslatedText": "\u0E21\u0E31\u0E19\u0E40\u0E2D\u0E48\u0E2D\u0E25\u0E49\u0E19!!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10_1",
+      "TextList": [
+        {
+          "Line": 274,
+          "OriginalText": "Revived!!",
+          "TranslatedText": "\u0E1F\u0E37\u0E49\u0E19\u0E02\u0E36\u0E49\u0E19\u0E21\u0E32!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "I am the Great Fairy Cotera...",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E19\u0E32\u0E07\u0E1F\u0E49\u0E32\u0E1C\u0E39\u0E49\u0E22\u0E34\u0E48\u0E07\u0E43\u0E2B\u0E0D\u0E48..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "I am the Great Fairy Mija...",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E19\u0E32\u0E07\u0E1F\u0E49\u0E32\u0E1C\u0E39\u0E49\u0E22\u0E34\u0E48\u0E07\u0E43\u0E2B\u0E0D\u0E48 Mija..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "I am the Great Fairy Kaysa...",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E19\u0E32\u0E07\u0E1F\u0E49\u0E32\u0E1C\u0E39\u0E49\u0E22\u0E34\u0E48\u0E07\u0E43\u0E2B\u0E0D\u0E48 Kaysa..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 319,
+          "OriginalText": "I am the Great Fairy Tera...",
+          "TranslatedText": "\u0E09\u0E31\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E19\u0E32\u0E07\u0E1F\u0E49\u0E32\u0E1C\u0E39\u0E49\u0E22\u0E34\u0E48\u0E07\u0E43\u0E2B\u0E0D\u0E48 Tera..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "I am Malanya...",
+          "TranslatedText": "\u0E09\u0E31\u0E19 Malanya..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 342,
+          "OriginalText": "All I need is ",
+          "TranslatedText": "\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14\u0E17\u0E35\u0E48\u0E09\u0E31\u0E19\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E04\u0E37\u0E2D "
+        },
+        {
+          "Line": 350,
+          "OriginalText": " rupees",
+          "TranslatedText": " \u0E23\u0E39\u0E1B\u0E35"
+        },
+        {
+          "Line": 353,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk20",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "All I need is ",
+          "TranslatedText": "\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14\u0E17\u0E35\u0E48\u0E09\u0E31\u0E19\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E04\u0E37\u0E2D "
+        },
+        {
+          "Line": 366,
+          "OriginalText": "1,000 rupees",
+          "TranslatedText": "1,000 \u0E23\u0E39\u0E1B\u0E35"
+        },
+        {
+          "Line": 369,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk26",
+      "TextList": [
+        {
+          "Line": 373,
+          "OriginalText": "Once my power has been restored,\nI can help you do great things, boy.",
+          "TranslatedText": "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E1E\u0E25\u0E31\u0E07\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E1F\u0E37\u0E49\u0E19\u0E1F\u0E39\u0E41\u0E25\u0E49\u0E27\n\u0E09\u0E31\u0E19\u0E0A\u0E48\u0E27\u0E22\u0E17\u0E4D\u0E32\u0E2A\u0E34\u0E48\u0E07\u0E14\u0E35\u0E46\u0E44\u0E14\u0E49\u0E19\u0E30 \u0E2B\u0E19\u0E38\u0E48\u0E21\u0E19\u0E49\u0E2D\u0E22"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk27",
+      "TextList": [
+        {
+          "Line": 377,
+          "OriginalText": "When my power has been restored,",
+          "TranslatedText": "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E1F\u0E37\u0E49\u0E19\u0E1F\u0E39"
+        },
+        {
+          "Line": 381,
+          "OriginalText": "\nI should be able to be of use to\nyou, who loves horses so.",
+          "TranslatedText": "\n\u0E09\u0E31\u0E19\u0E04\u0E27\u0E23\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E0A\u0E49\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E0A\u0E19\u0E4C\u0E44\u0E14\u0E49\n\u0E40\u0E18\u0E2D\u0E1C\u0E39\u0E49\u0E23\u0E31\u0E01\u0E21\u0E49\u0E32 \u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\u0E19"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk28",
+      "TextList": [
+        {
+          "Line": 388,
+          "OriginalText": "Ah-HAAAAAAAAAAA!!!",
+          "TranslatedText": "\u0E2D\u0E48\u0E32-\u0E2E\u0E49\u0E32\u0E32\u0E32\u0E32\u0E32!!!"
+        }
+      ]
+    }
+  ]
+}

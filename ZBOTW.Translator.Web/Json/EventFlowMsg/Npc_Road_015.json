@@ -1,0 +1,1490 @@
+{
+  "FileName": "Npc_Road_015",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027m buying.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027m selling.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Deal.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "My donkey... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": "Is it OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "It\u0027s best to stay still in times like this...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "What will you sell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 103,
+          "OriginalText": "Thanks.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 107,
+          "OriginalText": " Anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "Well, thank ya very much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 134,
+          "OriginalText": "Well now. Thank ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "That\u0027s really too bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "I\u0027m always lookin\u0027 for a deal.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "I\u0027ll buy pretty much anything.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "How \u0027bout selling me something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "I\u0027ll buy wares for a good price.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "What\u0027re you buying?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Sorry... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "We\u0027re fresh out of that one.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "You don\u0027t have enough ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "\nGet that sorted and come back.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "Looks like your inventory is full.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\nYou should sell or toss some things.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 213,
+          "OriginalText": "We have a deal, then?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 230,
+          "OriginalText": "Thank ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 239,
+          "OriginalText": "Thanks so much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Why thank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 257,
+          "OriginalText": "Many thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "These fish and fruits come from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": " Take your time looking.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 281,
+          "OriginalText": "How many are you selling?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 294,
+          "OriginalText": "I\u0027ll buy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": " of them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 310,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 327,
+          "OriginalText": "Sorry. I can\u0027t buy that sort of thing...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 336,
+          "OriginalText": "I\u0027ll need you to remove that gear before\nI can buy it from you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 345,
+          "OriginalText": "With weather like this, it\u0027s time to break\nout the special goods! How about a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "hearty blueshell snail",
+          "TranslatedText": null
+        },
+        {
+          "Line": 352,
+          "OriginalText": "?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "You want ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "?\nThat\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 384,
+          "OriginalText": "How many do you want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 397,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 405,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "All of \u0027em?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 424,
+          "OriginalText": "\nThat\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 432,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": " for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 440,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 452,
+          "OriginalText": "You\u0027re selling ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 457,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": "\nI\u0027ll give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 469,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "That\u0027s the last of \u0027em!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "\nPleasure doin\u0027 business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "I don\u0027t have anything else to sell ya,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 506,
+          "OriginalText": "\nbut you can browse my empty bag if you\nwant.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 518,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 526,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": " We got a deal?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 550,
+          "OriginalText": "Phew... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 554,
+          "OriginalText": "I really thought that was the\nend right there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 563,
+          "OriginalText": "Aaaaagh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 567,
+          "OriginalText": "That hurt!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 576,
+          "OriginalText": "See you around.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "We don\u0027t stand a chance against a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": " All we can do is RUN!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 605,
+          "OriginalText": "C\u0027mon over, folks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 609,
+          "OriginalText": " I\u0027ve got quality goods\nstraight from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 613,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 616,
+          "OriginalText": ".\n\nSwing on by and take a look!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": "\nUnless you\u0027re a monster, that is!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "C\u0027mon over, folks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 633,
+          "OriginalText": " I\u0027ve got quality goods\nstraight from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 637,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 640,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 649,
+          "OriginalText": "I know these roads like the back of my\neyelids. I\u0027ve been walking the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 653,
+          "OriginalText": "Lurelin Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 656,
+          "OriginalText": "trade route for years!\nYup, just head west from here and you\u0027ll\nfind ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 660,
+          "OriginalText": "Lake Hylia",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": " And a nice little spot\ncalled ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 671,
+          "OriginalText": "Finra Woods",
+          "TranslatedText": null
+        },
+        {
+          "Line": 674,
+          "OriginalText": " too.\nThat\u0027s your free geography lesson for\nthe day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 683,
+          "OriginalText": "Just head west from here and you\u0027ll\nfind ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 687,
+          "OriginalText": "Lake Hylia",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 694,
+          "OriginalText": " And a nice little spot\ncalled ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 698,
+          "OriginalText": "Finra Woods",
+          "TranslatedText": null
+        },
+        {
+          "Line": 701,
+          "OriginalText": " too.\nThat\u0027s your free geography lesson for\nthe day. Now let\u0027s get on to business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 710,
+          "OriginalText": "I get my goods from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 714,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 717,
+          "OriginalText": ". It\u0027s\na very simple, sleepy town.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "They play this traditional treasure-chest\ngame of chance there. Takes me back to\nmy childhood for some reason. \nAnyhow, that\u0027s enough small talk.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": "\nLet\u0027s get down to business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 739,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 742,
+          "OriginalText": " is a very simple, sleepy\ntown.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 748,
+          "OriginalText": "They play this traditional treasure-chest\ngame of chance there. Takes me back to\nmy childhood for some reason. \nAnyhow, that\u0027s enough small talk.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": "\nLet\u0027s get down to business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 761,
+          "OriginalText": "Come take a look at my goods! They\ncome directly from the famous\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 765,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 768,
+          "OriginalText": ".\nWho can resist fresh fish and fruit from\nsouthern Hyrule?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 777,
+          "OriginalText": "No one can resist fresh fish and fruits\nfrom southern Hyrule!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 786,
+          "OriginalText": "Not only do I buy my goods from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 793,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 799,
+          "OriginalText": ", I also train my\nluck there.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 805,
+          "OriginalText": "They have a game of chance involving\ntreasure chests.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 809,
+          "OriginalText": " It\u0027s a good way to strike\nit rich if you\u0027re feelin\u0027 lucky...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 818,
+          "OriginalText": "You could try your luck on the treasure-\nchest game in this village,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 822,
+          "OriginalText": " but buying my\nwares is a better bet.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 826,
+          "OriginalText": "Think fish. Think Lurelin!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 830,
+          "OriginalText": "Come on over!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 834,
+          "OriginalText": "Have a look-see!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 838,
+          "OriginalText": "Fruits from Lurelin!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 842,
+          "OriginalText": "What\u0027s a little rain?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 851,
+          "OriginalText": "The fish and fruits I get from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 855,
+          "OriginalText": "Lurelin Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 858,
+          "OriginalText": "are so fresh that I\nsometimes can\u0027t help eating them myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 867,
+          "OriginalText": "I thought it was going to be clear skies\ntoday. Must be a sign. I think I\u0027ll rest\nthese weary bones.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 876,
+          "OriginalText": "I don\u0027t mind the rain at all,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 880,
+          "OriginalText": " but my poor\ndonkey really hates all them droplets.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 889,
+          "OriginalText": "I spend so much time traveling around\nHyrule selling goods from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 893,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 896,
+          "OriginalText": ",\nI could be a tour guide!\nA lot of nosy monsters hang around\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 900,
+          "OriginalText": "Highland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 903,
+          "OriginalText": ". Best to avoid the area\nif you can.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 907,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 913,
+          "OriginalText": "Anyway, let\u0027s get down to business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 922,
+          "OriginalText": "The area around ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 926,
+          "OriginalText": "Highland Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 929,
+          "OriginalText": "is full\nof nosy monsters.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 933,
+          "OriginalText": " It\u0027s best to avoid\nthe area when you can.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 939,
+          "OriginalText": "Anyway,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 943,
+          "OriginalText": " let\u0027s get down to business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 952,
+          "OriginalText": "I spend a lot of time walking the trade\nroutes,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 956,
+          "OriginalText": " peddling wares from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 960,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 963,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 969,
+          "OriginalText": "But when I wandered into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 973,
+          "OriginalText": "Faron Woods",
+          "TranslatedText": null
+        },
+        {
+          "Line": 976,
+          "OriginalText": "\nwithout a map and got lost...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 980,
+          "OriginalText": "\nI tell ya\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 984,
+          "OriginalText": "I just about lost my mind.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 988,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 994,
+          "OriginalText": "But enough about me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 1003,
+          "OriginalText": "When I wandered into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1007,
+          "OriginalText": "Faron Woods",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1010,
+          "OriginalText": "\nwithout a map and got lost...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1014,
+          "OriginalText": "\nI tell ya\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1018,
+          "OriginalText": "I just about lost my mind.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1022,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1028,
+          "OriginalText": "But enough about me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 1037,
+          "OriginalText": "Attention, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1041,
+          "OriginalText": "Lakeside Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1044,
+          "OriginalText": "folks!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1048,
+          "OriginalText": "Yes, I\u0027m talking to you!\n\nCome get an incredible deal on fresh fish\nand tropical fruit from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1052,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1055,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 1064,
+          "OriginalText": "Come get an incredible deal on fresh fish\nand tropical fruit from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1068,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1071,
+          "OriginalText": "!\nTake a good look, now!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 1080,
+          "OriginalText": "The rear end of this here donkey is home\nto the freshest fish and fruit this side of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1084,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1087,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1093,
+          "OriginalText": "You\u0027ll also find a fat pile of rupees from\nmy satisfied customers!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 1102,
+          "OriginalText": "If I lost my donkey, I don\u0027t know if I\ncould go on...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 1111,
+          "OriginalText": "I got the fish and fruits I needed from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1115,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1118,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1122,
+          "OriginalText": " and I won big at that\ntreasure-chest game.\nTime for me to mosey on to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1126,
+          "OriginalText": "Highland Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1129,
+          "OriginalText": " to peddle my wares.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1133,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1139,
+          "OriginalText": "But before that...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 1148,
+          "OriginalText": "I got what I needed,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1152,
+          "OriginalText": " and I had a lot of \nfun with that treasure-chest game.\n\nTime for me to head out and peddle my\nwares.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1156,
+          "OriginalText": " But before that...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1165,
+          "OriginalText": "You really saved my donkey there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1179,
+          "OriginalText": "...How about you? Are you all right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1188,
+          "OriginalText": "Phew!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1192,
+          "OriginalText": " I barely made it out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1201,
+          "OriginalText": "Saved at the last minute!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1210,
+          "OriginalText": "You all right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1214,
+          "OriginalText": " You\u0027re not hurt, are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1223,
+          "OriginalText": "You really are amazing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1232,
+          "OriginalText": "My donkey\u0027s back is packed with\ntop-choice merchandise,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1236,
+          "OriginalText": " so take\nyour time browsing the goods!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1254,
+          "OriginalText": "Something else you need?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1272,
+          "OriginalText": "Here\u0027s a little thank-you.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

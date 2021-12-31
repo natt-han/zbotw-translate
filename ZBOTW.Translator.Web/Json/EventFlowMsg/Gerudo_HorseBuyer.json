@@ -1,0 +1,800 @@
+{
+  "FileName": "Gerudo_HorseBuyer",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll sell it!",
+          "TranslatedText": "ฉันจะขายมัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No way!",
+          "TranslatedText": "ไม่มีทาง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "It\u0027s yours.",
+          "TranslatedText": "มันเป็นของคุณ."
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No, never mind.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "You got it!",
+          "TranslatedText": "คุณเข้าใจแล้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I refuse!",
+          "TranslatedText": "ฉันขอปฏิเสธ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near_00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Must have a good horse...",
+          "TranslatedText": "มันต้องมีม้าดีๆบ้างสิ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near_01",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Hey... Hey... Hey...",
+          "TranslatedText": "เฮ้... เฮ้... เฮ้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "Hey, hey, I sure wasn\u0027t expecting to meet\nanyone out here...",
+          "TranslatedText": "เฮ้เฮ้ ฉันไม่ได้คิดว่าจะได้พบใครที่นี่...\n"
+        },
+        {
+          "Line": 49,
+          "OriginalText": " Maybe this is just the\nupturn in luck I needed!\n",
+          "TranslatedText": " บางที่นี่อาจจะเป็นความโชคดีของฉันก็ได้!\n"
+        },
+        {
+          "Line": 55,
+          "OriginalText": "Yeah, so yeah, I\u0027m a traveler like you...",
+          "TranslatedText": "ใช่แล้ว ฉันก็เป็นนักเดินทางเช่นเดียวกับคุณ..."
+        },
+        {
+          "Line": 59,
+          "OriginalText": "\nAnd I was attacked by monsters in this\nvery canyon...\n",
+          "TranslatedText": "\nและฉันถูกโจมตีโดยสัตว์ประหลาดในหุบเขาแห่งนี้ ...\n"
+        },
+        {
+          "Line": 65,
+          "OriginalText": "That\u0027s when my partner, that\u0027s to say,\nmy ",
+          "TranslatedText": "นั่นคือตอนที่คู่ของฉันพูดว่า\nม้า "
+        },
+        {
+          "Line": 69,
+          "OriginalText": "horse",
+          "TranslatedText": "ของฉัน"
+        },
+        {
+          "Line": 72,
+          "OriginalText": ", ran off.",
+          "TranslatedText": ", วิ่งหนี"
+        },
+        {
+          "Line": 76,
+          "OriginalText": " And hey, I\u0027ve been\nstranded here ever since...",
+          "TranslatedText": " \nและฉันติดอยู่ที่นี่ตั้งแต่นั้นเป็นต้นมา..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "Yeah, hey, if I just had a ",
+          "TranslatedText": "ใช่ ถ้าฉันมี "
+        },
+        {
+          "Line": 89,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 92,
+          "OriginalText": ", I could\nkeep traveling on my way... Please!",
+          "TranslatedText": ", \nฉันสามารถเดินทางต่อไปได้... กรุณา!"
+        },
+        {
+          "Line": 96,
+          "OriginalText": "\nPlease find and bring me a ",
+          "TranslatedText": "\nกรุณาค้นหาและนำ "
+        },
+        {
+          "Line": 100,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้ากลับมา"
+        },
+        {
+          "Line": 103,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Ohh! ",
+          "TranslatedText": "โอ้! "
+        },
+        {
+          "Line": 116,
+          "OriginalText": "HEY! That ",
+          "TranslatedText": "เฮ้! นั่น "
+        },
+        {
+          "Line": 120,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 123,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 127,
+          "OriginalText": " It\u0027s just like my\nold partner! ",
+          "TranslatedText": " \nมันเหมือนกับของฉัน\nคู่หูเก่า! "
+        },
+        {
+          "Line": 131,
+          "OriginalText": "Talk about a fine ",
+          "TranslatedText": "พูดคุยเกี่ยวกับค่าเสียหาย "
+        },
+        {
+          "Line": 135,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 138,
+          "OriginalText": "...\n\n",
+          "TranslatedText": "...\n"
+        },
+        {
+          "Line": 150,
+          "OriginalText": "Think I could have this ",
+          "TranslatedText": "คิดว่าฉันจะมี"
+        },
+        {
+          "Line": 154,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 157,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        },
+        {
+          "Line": 161,
+          "OriginalText": " \nI\u0027ll pay you ",
+          "TranslatedText": " \nฉันจะจ่ายให้คุณ "
+        },
+        {
+          "Line": 165,
+          "OriginalText": "300 rupees",
+          "TranslatedText": "300 rupees"
+        },
+        {
+          "Line": 168,
+          "OriginalText": " for it, what do\nyou say, hey?",
+          "TranslatedText": " \nสำหรับมันคุณว่ายังไง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Heyyyyy, ",
+          "TranslatedText": "เฮ้ "
+        },
+        {
+          "Line": 189,
+          "OriginalText": "really?!\nYou know this is for keeps, right?",
+          "TranslatedText": "จริงๆ?!\nคุณรู้ว่านี่มีไว้เพื่อเก็บใช่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "Hey",
+          "TranslatedText": "เฮ้"
+        },
+        {
+          "Line": 210,
+          "OriginalText": "yyyyy... ",
+          "TranslatedText": "... "
+        },
+        {
+          "Line": 214,
+          "OriginalText": "He",
+          "TranslatedText": "He"
+        },
+        {
+          "Line": 218,
+          "OriginalText": "yyyyy... ",
+          "TranslatedText": "... "
+        },
+        {
+          "Line": 222,
+          "OriginalText": "Hey,",
+          "TranslatedText": "เฮ้,"
+        },
+        {
+          "Line": 226,
+          "OriginalText": " OK, I see...",
+          "TranslatedText": " โอเค ฉันรู้..."
+        },
+        {
+          "Line": 230,
+          "OriginalText": " \nI mean sure, after you went to the\ntrouble of catching this ",
+          "TranslatedText": " \nฉันหมายความว่าแน่นอนหลังจากที่\nคุณไปที่ปัญหาในการจับ "
+        },
+        {
+          "Line": 234,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 237,
+          "OriginalText": " and all...\n",
+          "TranslatedText": " และทั้งหมด...\n"
+        },
+        {
+          "Line": 243,
+          "OriginalText": "I get it. But if you find a ",
+          "TranslatedText": "ฉันเข้าใจแล้ว แต่ถ้าคุณพบ "
+        },
+        {
+          "Line": 247,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 250,
+          "OriginalText": " you don\u0027t\nmind selling, please bring it to me, hey?",
+          "TranslatedText": " คุณไม่รังเกียจที่จะขาย\nโปรดนำมาให้ฉัน เฮ้?"
+        },
+        {
+          "Line": 254,
+          "OriginalText": "\nEven a ",
+          "TranslatedText": "\nแม้แต่ "
+        },
+        {
+          "Line": 258,
+          "OriginalText": "wild horse",
+          "TranslatedText": "ม้าป่า"
+        },
+        {
+          "Line": 261,
+          "OriginalText": " is fine! Just, please!",
+          "TranslatedText": " ก็ไม่เป็นไร! แค่ได้โปรด!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "Hey, hey! ",
+          "TranslatedText": "เฮ้เฮ้! "
+        },
+        {
+          "Line": 274,
+          "OriginalText": "I\u0027m making this ",
+          "TranslatedText": "ฉันทำได้\n"
+        },
+        {
+          "Line": 278,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 281,
+          "OriginalText": " I bought\nfrom you my new partner! My new best\nbuddy and traveling attendant!\n",
+          "TranslatedText": " ฉันซื้อจากคุณหุ้นส่วนใหม่ของฉัน! \nเพื่อนสนิทคนใหม่ของฉันและผู้ดูแลการเดินทาง!\n"
+        },
+        {
+          "Line": 287,
+          "OriginalText": "So off we go, me and my partner!",
+          "TranslatedText": "So off we go, me and my partner!"
+        },
+        {
+          "Line": 291,
+          "OriginalText": "\nMay we all have good travels!",
+          "TranslatedText": "\nขอให้ทุกคนมีความสุขในการเดินทาง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "All I need is a ",
+          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ "
+        },
+        {
+          "Line": 304,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 307,
+          "OriginalText": " to continue my\ntravels...",
+          "TranslatedText": " \nเพื่อเดินทางต่อไป..."
+        },
+        {
+          "Line": 316,
+          "OriginalText": " A ",
+          "TranslatedText": " A "
+        },
+        {
+          "Line": 320,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 323,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 327,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 331,
+          "OriginalText": "A ",
+          "TranslatedText": "เจ้า "
+        },
+        {
+          "Line": 335,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 338,
+          "OriginalText": "... ",
+          "TranslatedText": "... "
+        },
+        {
+          "Line": 345,
+          "OriginalText": " \nIf I just had a ",
+          "TranslatedText": " \nเพียงฉันมี "
+        },
+        {
+          "Line": 349,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 352,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 364,
+          "OriginalText": "Hey, yeah, if I just had a ",
+          "TranslatedText": "เฮ้ใช่, ถ้าฉันมี "
+        },
+        {
+          "Line": 368,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 371,
+          "OriginalText": ", I could\ncontinue my travels,",
+          "TranslatedText": ", \nฉันสามารถเดินทางต่อไปได้,"
+        },
+        {
+          "Line": 381,
+          "OriginalText": " and you\u0027re a fellow\ntraveler, so I have to ask, right?\n",
+          "TranslatedText": " \nและ คุณเป็นเพื่อนร่วมเดินทางดังนั้น\nฉันต้องถามใช่มั้ย?\n"
+        },
+        {
+          "Line": 387,
+          "OriginalText": "If, on your travels, you see a horse that\nwould suit me,",
+          "TranslatedText": "ถ้าในการเดินทางของคุณ\nคุณเห็นม้าที่เหมาะกับฉัน,"
+        },
+        {
+          "Line": 391,
+          "OriginalText": " would you sell it to me for\n100,",
+          "TranslatedText": " คุณจะขายให้ฉันในราคา\n100,"
+        },
+        {
+          "Line": 395,
+          "OriginalText": " no,",
+          "TranslatedText": " ไม่,"
+        },
+        {
+          "Line": 399,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 403,
+          "OriginalText": "300 rupees",
+          "TranslatedText": "300 rupees"
+        },
+        {
+          "Line": 406,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "Heyyyy...",
+          "TranslatedText": "เฮ้..."
+        },
+        {
+          "Line": 427,
+          "OriginalText": " Heyyyy...",
+          "TranslatedText": " เฮ้..."
+        },
+        {
+          "Line": 431,
+          "OriginalText": " That\u0027s disappointing\nto hear from a fellow traveler.",
+          "TranslatedText": " น่าผิดหวัง\nที่ได้ยินจากเพื่อนร่วมเดินทาง.\n"
+        },
+        {
+          "Line": 435,
+          "OriginalText": " I\u0027ll trust in\nyour eventual generosity and wait here.",
+          "TranslatedText": " I\u0027ll trust in\nในที่สุดความเอื้ออาทรของคุณและรอที่นี่."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 444,
+          "OriginalText": "Hey, thanks! ",
+          "TranslatedText": "เฮ้ขอบคุณ! "
+        },
+        {
+          "Line": 448,
+          "OriginalText": "But don\u0027t bring me ",
+          "TranslatedText": "แต่อย่าพาฉันมา "
+        },
+        {
+          "Line": 452,
+          "OriginalText": "too big\na horse",
+          "TranslatedText": "\nม้าตัวใหญ่เกินไป"
+        },
+        {
+          "Line": 455,
+          "OriginalText": "... Won\u0027t be able to ride it!\nNo, I need a ",
+          "TranslatedText": "... ไม่สามารถขี่ได้!\nไม่ฉันต้องการ "
+        },
+        {
+          "Line": 459,
+          "OriginalText": "suitably sized horse",
+          "TranslatedText": "ขอม้า\nที่ขนาดพอเหมาะ"
+        },
+        {
+          "Line": 462,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 471,
+          "OriginalText": "Hey, hey! ",
+          "TranslatedText": "เฮ้เฮ้! "
+        },
+        {
+          "Line": 475,
+          "OriginalText": "You brought a ",
+          "TranslatedText": "คุณนำ\n"
+        },
+        {
+          "Line": 479,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 482,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 486,
+          "OriginalText": "\nBut it\u0027s a little too big for me to ride...\n\n",
+          "TranslatedText": "\nมาได้ แต่มันใหญ่เกินไปสำหรับฉันที่จะขี่...\n"
+        },
+        {
+          "Line": 492,
+          "OriginalText": "Sorry to say this after all the nice\nhorse-bringing you just did, but could\nyou please find me a ",
+          "TranslatedText": "ขอโทษที่ต้องพูดแบบนี้สำหรับน้ำใจที่มีให้\nที่นำม้ามาให้, แต่ว่านายจะสามารถ\nคุณโปรดหาฉัน "
+        },
+        {
+          "Line": 496,
+          "OriginalText": "normal horse",
+          "TranslatedText": "ที่ธรรมดากว่านี้ได้มั้ย"
+        },
+        {
+          "Line": 499,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 508,
+          "OriginalText": "Hey, yeah, ",
+          "TranslatedText": "เฮ้, "
+        },
+        {
+          "Line": 512,
+          "OriginalText": "thanks so much!",
+          "TranslatedText": "ขอบคุณมาก!"
+        },
+        {
+          "Line": 516,
+          "OriginalText": "\nHere\u0027s the ",
+          "TranslatedText": "\nนี่คือ "
+        },
+        {
+          "Line": 520,
+          "OriginalText": "300 rupees ",
+          "TranslatedText": "300 rupees "
+        },
+        {
+          "Line": 523,
+          "OriginalText": "I promised you\nas fair payment for this ",
+          "TranslatedText": "\nฉันสัญญากับคุณว่าเป็นการจ่ายเงิน\nที่ยุติธรรมสำหรับ "
+        },
+        {
+          "Line": 527,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้าตัวนี้"
+        },
+        {
+          "Line": 530,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 539,
+          "OriginalText": "So that ",
+          "TranslatedText": "ดังนั้น "
+        },
+        {
+          "Line": 543,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 546,
+          "OriginalText": "... Hey, I know this is asking\na lot!",
+          "TranslatedText": "... \nเฮ้, ฉันรู้ว่านี่กำลังถามมาก!\n"
+        },
+        {
+          "Line": 550,
+          "OriginalText": " But could I buy that ",
+          "TranslatedText": " แต่ฉันขอซื้อได้ไหม "
+        },
+        {
+          "Line": 554,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้า"
+        },
+        {
+          "Line": 557,
+          "OriginalText": " for \n",
+          "TranslatedText": " ในราคา \n"
+        },
+        {
+          "Line": 561,
+          "OriginalText": "300 rupees",
+          "TranslatedText": "300 rupees"
+        },
+        {
+          "Line": 564,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 581,
+          "OriginalText": "Hey, hey! ",
+          "TranslatedText": "เฮ้เฮ้! "
+        },
+        {
+          "Line": 585,
+          "OriginalText": "You brought a ",
+          "TranslatedText": "คุณนำ "
+        },
+        {
+          "Line": 589,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้ามาได้"
+        },
+        {
+          "Line": 592,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 596,
+          "OriginalText": "\nBut it\u0027s kind of really scary...\n\n",
+          "TranslatedText": "\nแต่มันน่ากลัวจริงๆ...\n"
+        },
+        {
+          "Line": 602,
+          "OriginalText": "Sorry to say this after all the great\nhorse-bringing you just did, but could\nyou please find me a ",
+          "TranslatedText": "ขอโทษที่ต้องพูดแบบนี้สำหรับน้ำใจที่มีให้\nที่นำม้ามาให้ , แต่ว่าคุณจะ\nหาตัวอื่นได้ไหม "
+        },
+        {
+          "Line": 606,
+          "OriginalText": "normal horse",
+          "TranslatedText": "ที่เป็นม้าธรรมดา"
+        },
+        {
+          "Line": 609,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 618,
+          "OriginalText": "Hey, hey! ",
+          "TranslatedText": "เฮ้เฮ้! "
+        },
+        {
+          "Line": 622,
+          "OriginalText": "You brought a ",
+          "TranslatedText": "คุณนำ "
+        },
+        {
+          "Line": 626,
+          "OriginalText": "horse",
+          "TranslatedText": "ม้ามา"
+        },
+        {
+          "Line": 629,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 633,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 639,
+          "OriginalText": "\nWait a sec!",
+          "TranslatedText": "\nรอสักครู่!"
+        },
+        {
+          "Line": 643,
+          "OriginalText": " That\u0027s not a ",
+          "TranslatedText": " นั่นไม่ใช่ "
+        },
+        {
+          "Line": 647,
+          "OriginalText": "horse ",
+          "TranslatedText": "ม้า "
+        },
+        {
+          "Line": 650,
+          "OriginalText": "at all!\nBring me a ",
+          "TranslatedText": "เลย!\nนำ "
+        },
+        {
+          "Line": 654,
+          "OriginalText": "HORSE",
+          "TranslatedText": "ม้ามา"
+        },
+        {
+          "Line": 657,
+          "OriginalText": "! Please!",
+          "TranslatedText": "! ได้โปรด!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 666,
+          "OriginalText": "Hey, hey, so you decided that you \nwant to help me out?",
+          "TranslatedText": "เฮ้เฮ้ คุณตัดสินใจแล้วว่าต้องการช่วยฉัน?"
+        }
+      ]
+    }
+  ]
+}

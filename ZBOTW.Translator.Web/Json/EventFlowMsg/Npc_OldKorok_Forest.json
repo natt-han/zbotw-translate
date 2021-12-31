@@ -1,0 +1,315 @@
+{
+  "FileName": "Npc_OldKorok_Forest",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Weapon stash.",
+          "TranslatedText": "ช่องเก็บอาวุธ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bow stash.",
+          "TranslatedText": "ช่องเก็บธนู"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Shield stash.",
+          "TranslatedText": "ช่องเก็บโล่"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027m good.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Shalaka?!\n\n\n",
+          "TranslatedText": "Shalaka?!\n"
+        },
+        {
+          "Line": 41,
+          "OriginalText": "It\u0027s you again!\n\n\n",
+          "TranslatedText": "คุณอีกแล้ว!\n"
+        },
+        {
+          "Line": 47,
+          "OriginalText": "I\u0027m trying to get back to Korok Forest,\nbut I\u0027ve lost my way...",
+          "TranslatedText": "ฉันพยายามจะกลับไปยัง Korok Forest\nแต่ฉันหลงทาง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "*sniff sniff*",
+          "TranslatedText": "*sniff sniff*"
+        },
+        {
+          "Line": 60,
+          "OriginalText": "\nI\u0027d know that smell anywhere... ",
+          "TranslatedText": "\nฉันรู้จักกลิ่นนั่น... "
+        },
+        {
+          "Line": 64,
+          "OriginalText": "\nIt\u0027s a ",
+          "TranslatedText": "\nมันคือ "
+        },
+        {
+          "Line": 68,
+          "OriginalText": "Korok seed",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 71,
+          "OriginalText": "!\n",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 77,
+          "OriginalText": "You\u0027ve collected",
+          "TranslatedText": "คุณเก็บ"
+        },
+        {
+          "Line": 81,
+          "OriginalText": " a ",
+          "TranslatedText": " a "
+        },
+        {
+          "Line": 85,
+          "OriginalText": "Korok seed",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 88,
+          "OriginalText": " from \nthe forest children, haven\u0027t you?!\n\nIf you give me ",
+          "TranslatedText": " มาจากพวกเด็กแห่งป่าใช่มั้ย?!\nถ้าคุณให้ "
+        },
+        {
+          "Line": 92,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 95,
+          "OriginalText": ",",
+          "TranslatedText": " กับฉัน"
+        },
+        {
+          "Line": 99,
+          "OriginalText": " I\u0027ll increase\nthe size of one of your ",
+          "TranslatedText": " \nฉันจะขยาย "
+        },
+        {
+          "Line": 103,
+          "OriginalText": "stashes",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 106,
+          "OriginalText": "! Now\nwhich ",
+          "TranslatedText": "ให้! \nอยากขยาย "
+        },
+        {
+          "Line": 110,
+          "OriginalText": "stash ",
+          "TranslatedText": "ช่องเก็บของ "
+        },
+        {
+          "Line": 113,
+          "OriginalText": "do you want to expand?",
+          "TranslatedText": "ไหนล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 132,
+          "OriginalText": "*sniff sniff*",
+          "TranslatedText": "*sniff sniff*"
+        },
+        {
+          "Line": 136,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 142,
+          "OriginalText": "Aww...",
+          "TranslatedText": "Aww..."
+        },
+        {
+          "Line": 146,
+          "OriginalText": " You didn\u0027t bring me any\n",
+          "TranslatedText": " คุณไม่ได้เอา\n"
+        },
+        {
+          "Line": 150,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 156,
+          "OriginalText": ", did you?\n\n",
+          "TranslatedText": " มาเลยงั้นเหรอ?\n"
+        },
+        {
+          "Line": 162,
+          "OriginalText": "C\u0027mon, boy!",
+          "TranslatedText": "ช่วยหน่อยน่า!"
+        },
+        {
+          "Line": 166,
+          "OriginalText": " Go find some",
+          "TranslatedText": " ออกไปหา"
+        },
+        {
+          "Line": 170,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 174,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 177,
+          "OriginalText": "!\nThe forest children are hiding\neverywhere.\n\u266ABring me some, and I\u0027ll make your\n",
+          "TranslatedText": " ให้หน่อยเถอะ!\nพวกเด็กแห่งป่าน่ะมีอยู่ทุกที่\n\u266Aเอามาให้ฉัน แล้วฉันจะทำให้\n"
+        },
+        {
+          "Line": 181,
+          "OriginalText": "inventory",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 184,
+          "OriginalText": " bigger!\u266A",
+          "TranslatedText": " คุณใหญ่ขึ้น!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 193,
+          "OriginalText": "The folks from the stable here say we\u0027re\nright on the border",
+          "TranslatedText": "คนในที่พักมาบอกว่าเราอยู่ที่ชายแดน"
+        },
+        {
+          "Line": 197,
+          "OriginalText": " between the ",
+          "TranslatedText": " ระหว่าง "
+        },
+        {
+          "Line": 201,
+          "OriginalText": "Eldin\nRegion",
+          "TranslatedText": "Eldin\nRegion"
+        },
+        {
+          "Line": 204,
+          "OriginalText": " and the ",
+          "TranslatedText": " และ "
+        },
+        {
+          "Line": 208,
+          "OriginalText": "Great Hyrule Forest",
+          "TranslatedText": "Great Hyrule Forest"
+        },
+        {
+          "Line": 211,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 217,
+          "OriginalText": "...Shaka! ",
+          "TranslatedText": "...Shaka! "
+        },
+        {
+          "Line": 221,
+          "OriginalText": "That means Korok Forest must\nbe ",
+          "TranslatedText": "นั่นหมายความว่า Korok Forest ต้องอยู่\n"
+        },
+        {
+          "Line": 225,
+          "OriginalText": "very near",
+          "TranslatedText": "ใกล้มาก"
+        },
+        {
+          "Line": 228,
+          "OriginalText": "!\n\n",
+          "TranslatedText": "แล้ว!\n"
+        },
+        {
+          "Line": 234,
+          "OriginalText": "But as long as I\u0027m here, ",
+          "TranslatedText": "แต่ในเมื่อฉันมาถึงนี่แล้ว "
+        },
+        {
+          "Line": 238,
+          "OriginalText": "I may as well\nrest up.\n\n",
+          "TranslatedText": "ฉันก็จะพักตรงนี้สักหน่อย\n"
+        },
+        {
+          "Line": 244,
+          "OriginalText": "Ah, wait a minute...",
+          "TranslatedText": "อา เดี๋ยวนะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "Ohhh, I think I remember",
+          "TranslatedText": "อ้ออ ฉันคิดว่าฉันจำทางกลับ"
+        },
+        {
+          "Line": 257,
+          "OriginalText": " the way back\nto Korok Forest!\n\n",
+          "TranslatedText": " ไปยัง\nKorok Forest ได้แล้ว!\n"
+        },
+        {
+          "Line": 263,
+          "OriginalText": "And it\u0027s all thanks to you!",
+          "TranslatedText": "เป็นเพราะคุณเลย!"
+        },
+        {
+          "Line": 267,
+          "OriginalText": " I\u0027ll definitely\nmake it home to Korok Forest this time!\n\nI\u0027ll see you there. In Korok Forest!",
+          "TranslatedText": " คราวนี้ฉันจะไปให้ถึง \nKorok Forest ให้ได้!\nแล้วเจอกันที่ Korok Forest นะ!"
+        }
+      ]
+    }
+  ]
+}

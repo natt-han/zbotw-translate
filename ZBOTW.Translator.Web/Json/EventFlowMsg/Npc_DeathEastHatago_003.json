@@ -1,0 +1,605 @@
+{
+  "FileName": "Npc_DeathEastHatago_003",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "That\u0027s right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, not really.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll take one.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "I\u0027ll take two.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take three.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "Morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 54,
+          "OriginalText": "Hello!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Good evening!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "If you\u0027re stopping by Foothill Stable,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "\nthen you\u0027re probably headed to\nGoron City?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "I thought so.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 102,
+          "OriginalText": "Oh, OK...\n\n\nBut if you do ever decide to head to\nGoron City, you\u0027d better take care.\nIt\u0027s really hot there.\nWell,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": " \u0022hot\u0022 doesn\u0027t really do it justice.\nIt\u0027s more like...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 110,
+          "OriginalText": "it\u0027ll burn the flesh from\nyour bones...and then burn those too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 119,
+          "OriginalText": "Ah...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "Hold on... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "Buddy,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": " are you really headed\nto Goron City dressed like that?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 153,
+          "OriginalText": "See...this is how tourists get a bad rep.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 157,
+          "OriginalText": "\n\n\nThat place is sheer cliff after sheer cliff,\nand it gets so hot past the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": "second\ncheckpoint ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "that your body will catch fire.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "You\u0027ve clearly taken precautions to deal\nwith the burning air up there.\n\nYou MIGHT just be able to reach\nGoron City. Best of luck.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Good to hear.\n\n\nIf you tried to get to Goron City dressed\nlike that,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": "you\u0027d be burned alive faster\nthan you can say \u0022Hylian barbecue.\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 201,
+          "OriginalText": "I see.\n\n\nI won\u0027t waste my breath arguing about\nit.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": " Just trust me when I say you should\ngive up on going to Goron City.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": " Looks like you\u0027re broke.\nMaybe sell some of the junk in your bag\nto get some rupees.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "All right. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 231,
+          "OriginalText": "Here is your ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 247,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": "\nLooks like",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": " your inventory is full.\nGet rid of some of that junk first.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "OK. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 268,
+          "OriginalText": "Here you go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "If you\u0027re headed to Goron City,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": " I\u0027ll sell\nyou some of my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "fireproof elixirs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 302,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 311,
+          "OriginalText": "It looks like you already have a bunch of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "fireproof elixirs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": ". You should be able to\nmake it to Goron City.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Even Goron City regulars usually take\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "at least three ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 337,
+          "OriginalText": "elixirs with them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "If you want to buy some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": ",\njust let me know.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "It\u0027s ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": "60 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": " for one, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": "110 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": " for\ntwo, and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": "150 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": " for three. Buying\nin bulk pays off here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 405,
+          "OriginalText": "If you have that many,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 409,
+          "OriginalText": " you should be\nable to make it to Goron City no problem.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "You know what they say though...\n\u0022Hope for the best.\nPrepare for the worst.\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "With fireproofing like that, you should be\nable to make it to Goron City.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 436,
+          "OriginalText": "With fireproofing like that, you should be\nable to make it to Goron City.\n\nGood luck.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 445,
+          "OriginalText": "Of course, it would be a completely\ndifferent story...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 454,
+          "OriginalText": "Normally I wouldn\u0027t stop a stranger from\nheading to their doom, but I kinda\nlike ya.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 460,
+          "OriginalText": "So I guess I have no choice but to sell\nyou these ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 464,
+          "OriginalText": "fireproof elixirs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": ". They can\nprotect you from the burning air.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 476,
+          "OriginalText": "I can sell you more if you need them.\nJust come and talk to me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 485,
+          "OriginalText": "In any case, do you want me to sell\nyou",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": " some of my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 496,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 505,
+          "OriginalText": "If you have some of this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 512,
+          "OriginalText": "\nthat I\u0027m selling.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "FileName": "Npc_Goron020_2",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Umm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Rudania?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Daruk\u0027s Protection?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "You did your best!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Waaaaaah, goro!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "What in the goro?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Gyaaaah, goro!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Stop it, goro!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Hnkkk... Zzzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Heyo, good morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Ah, it\u0027s you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 89,
+          "OriginalText": "Anything else you wanna ask about,\ngoro?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "HNKKKGH",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 127,
+          "OriginalText": "GRUUUGH...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 142,
+          "OriginalText": "GRARGHHH...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "GURRRGLE*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 170,
+          "OriginalText": "You need somethin\u0027, goro?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "See ya later, goro.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "So you figured it out, goro...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 207,
+          "OriginalText": "Ever since ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": "Rudania ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "settled down there,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": "\nit hasn\u0027t moved at all, goro. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": "To think\nwe actually fought that thing...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "Ever since we fought ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "Rudania",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": ", I have this\ncrazy feeling...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "that my ancestor is always\nwith me. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": "Strange, goro.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "So long as I have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "Daruk\u0027s Protection",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": ",\nI have nothing to fear!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "Hehe, we\u0027re on our way to a secret spot.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": "If you wanna talk, just wait until we\nget there, goro.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "I\u0027m goin\u0027 for a walk today, goro.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "\nHey, wanna come along?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Welcome to my secret hideout, goro!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 306,
+          "OriginalText": "To think we actually fought that thing...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 310,
+          "OriginalText": "\nAmazing, goro.\n\nAnd I wasn\u0027t even scared of it...\nuntil just now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 319,
+          "OriginalText": "Mmm, time to get some shut-eye!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 323,
+          "OriginalText": "\n...Don\u0027t you ever sleep, goro?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "I\u0027m sleepy, and now my whole body is\nall warm and cozy...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 336,
+          "OriginalText": " Come back later if\nyou wanna chat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 345,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 352,
+          "OriginalText": " said his back is all better, goro!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": "\nOh, and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 360,
+          "OriginalText": "Rudania ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 363,
+          "OriginalText": "stopped rampaging!\n\nI feel like...I can finally take it easy, goro.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 372,
+          "OriginalText": "Now that I defeated ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": "Rudania",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": " I guess\nthat means I\u0027ve proven myself! Right?\n\nNow maybe I can get the respect\nI deserve...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "goro.\n\nAnd my ancestor... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "I\u0027ll have to do my\nbest to keep honoring Lord Daruk\u0027s\nlegacy and all that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 400,
+          "OriginalText": "Take a look over there, goro!\n\n\nSee? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 404,
+          "OriginalText": "This is the best place to get a nice\nview of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": "Rudania",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 424,
+          "OriginalText": "I did well, didn\u0027t I? Goro?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 428,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": "Yeah... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": "Yeah, I thought so!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": "\nThanks, brother!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 448,
+          "OriginalText": "This spot is our little secret, OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": "\nJust between you and me.\n\nAnytime you want a great view of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": "Rudania",
+          "TranslatedText": null
+        },
+        {
+          "Line": 459,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": " just come here, goro!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 472,
+          "OriginalText": "Hey!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

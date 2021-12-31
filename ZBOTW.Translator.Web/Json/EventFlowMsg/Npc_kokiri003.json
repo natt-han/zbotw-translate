@@ -1,0 +1,740 @@
+{
+  "FileName": "Npc_kokiri003",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I want to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "What do you sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "What do you want to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Does ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 71,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": " sound OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "Thank you very much!\nWould you like to sell anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "Will you sell me more things?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "I want more of Mr. Hero\u0027s things!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 118,
+          "OriginalText": "I\u0027m so happy I can buy things from \nMr. Hero!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 127,
+          "OriginalText": "Oh, you changed your mind? OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 136,
+          "OriginalText": "If you\u0027re selling, I\u0027m buying.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "Do you have things from outside the \nforest?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "What will you sell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "Aha! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": "So this is the inside of \nMr. Hero\u0027s stash!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "How many would you like to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "If you want to sell ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "...\nHow does ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": " rupees ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "sound?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "Oh, I can\u0027t do anything with that at this\nshop.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "I\u0027ll need you to take that off before\nselling it to me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 250,
+          "OriginalText": "I can give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 278,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": " I\u0027ve got ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": " of them, so that\u0027ll be\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 298,
+          "OriginalText": ", please!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 315,
+          "OriginalText": "You want to sell all of them?\nI\u0027ll buy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 320,
+          "OriginalText": " of them off you for\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 328,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 331,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_50",
+      "TextList": [
+        {
+          "Line": 353,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 364,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_51",
+      "TextList": [
+        {
+          "Line": 386,
+          "OriginalText": "How many were you thinking?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_52",
+      "TextList": [
+        {
+          "Line": 409,
+          "OriginalText": "So ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "?\nThat\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_53",
+      "TextList": [
+        {
+          "Line": 442,
+          "OriginalText": "Oh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": " You changed your mind?\nOK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_54",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "It looks like you don\u0027t have enough\nrupees...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_55",
+      "TextList": [
+        {
+          "Line": 464,
+          "OriginalText": "You\u0027re already carrying too much stuff.\nDon\u0027t hurt yourself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Near000",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "Useful items here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Near020",
+      "TextList": [
+        {
+          "Line": 500,
+          "OriginalText": "My shop is empty...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell000",
+      "TextList": [
+        {
+          "Line": 509,
+          "OriginalText": "I heard you\u0027d be coming, Mr. Hero.\nThat\u0027s why I opened the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "General Shoppe",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": "!\nYou\u0027re my only customer, so if you want\nto buy or sell something, just let me\nknow!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell010",
+      "TextList": [
+        {
+          "Line": 525,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell010b",
+      "TextList": [
+        {
+          "Line": 534,
+          "OriginalText": "I\u0027m so glad I prepared a variety of\nitems!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell010c",
+      "TextList": [
+        {
+          "Line": 543,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell010d",
+      "TextList": [
+        {
+          "Line": 552,
+          "OriginalText": "I was able to help Mr. Hero!\nYesssssssss!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell020",
+      "TextList": [
+        {
+          "Line": 561,
+          "OriginalText": "Yaaaay! Thanks for letting me help\nyou save Hyrule!\n\nI heard you\u0027d be coming, Mr. Hero.\nThat\u0027s why I opened the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": "General Shoppe",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 574,
+          "OriginalText": "You\u0027re my only customer, so if you want\nto buy or sell something, just let me\nknow!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Sell030",
+      "TextList": [
+        {
+          "Line": 583,
+          "OriginalText": "Thanks for letting me help you save\nHyrule, Mr. Hero!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": "I\u0027ll make sure to prepare a variety of\nitems again for next time.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk000",
+      "TextList": [
+        {
+          "Line": 598,
+          "OriginalText": "Well, look who we have here! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 602,
+          "OriginalText": "Hello,\nMr. Hero, and welcome to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 606,
+          "OriginalText": "General Shoppe",
+          "TranslatedText": null
+        },
+        {
+          "Line": 609,
+          "OriginalText": "!\nI sell a lot of stuff here\u2014things that I\ngather in the forest...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 613,
+          "OriginalText": "things\nthat I don\u0027t gather in the forest.\nPlease choose anything you want!\nOr...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 617,
+          "OriginalText": "have you come to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk010",
+      "TextList": [
+        {
+          "Line": 635,
+          "OriginalText": "Welcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 639,
+          "OriginalText": "General Shoppe",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 646,
+          "OriginalText": "\nPlease browse to your heart\u0027s desire.\n\nOr... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 650,
+          "OriginalText": "Would you rather sell something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk020",
+      "TextList": [
+        {
+          "Line": 668,
+          "OriginalText": "Good evening,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 672,
+          "OriginalText": " Mr. Hero.\nWould you like to sell something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk030",
+      "TextList": [
+        {
+          "Line": 690,
+          "OriginalText": "I\u0027m sorry...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 694,
+          "OriginalText": " We\u0027re completely sold out at\nthe moment. But if you want to sell\nsomething, I\u0027m all ears!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk040",
+      "TextList": [
+        {
+          "Line": 712,
+          "OriginalText": "If there\u0027s anything you don\u0027t need,\nplease let me see it.\n\nI love seeing things from outside the\nforest.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk050",
+      "TextList": [
+        {
+          "Line": 721,
+          "OriginalText": "Mr. Hero!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 725,
+          "OriginalText": " Please be careful walking\nthrough the forest at night. Night tends\nto bring out the nastier monsters.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk060",
+      "TextList": [
+        {
+          "Line": 734,
+          "OriginalText": "Thank you kindly.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 738,
+          "OriginalText": "\nI\u0027ll need to restock my wares.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_kokiri003_Talk070",
+      "TextList": [
+        {
+          "Line": 747,
+          "OriginalText": "I\u0027ve prepared some arrows and food",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": " that\nI thought may prove useful to you,\nMr. Hero!\nIf you use a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 755,
+          "OriginalText": "shock arrow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 758,
+          "OriginalText": " when it\u0027s\nraining, it does extra damage.\nI highly recommend it.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

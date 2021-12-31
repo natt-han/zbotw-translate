@@ -1,0 +1,455 @@
+{
+  "FileName": "FairyFountain",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Oh, I found it.",
+          "TranslatedText": "โอ้ เจอแล้ว."
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I had no luck...",
+          "TranslatedText": "ฉันไม่มีโชค..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Recognize anything?",
+          "TranslatedText": "รู้อะไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Not yet...",
+          "TranslatedText": "ยัง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I did\u2014thanks!",
+          "TranslatedText": "ฉันไปมาแล้ว\u2014ขอบคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Please show me.",
+          "TranslatedText": "ช่วยแสดงหน่อย."
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "No.",
+          "TranslatedText": "ไม่."
+        }
+      ]
+    },
+    {
+      "EntryName": "LookPicture",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "I think the mountain right here is \n",
+          "TranslatedText": "ฉันคิดว่าภูเขาตรงนี้คือ \n"
+        },
+        {
+          "Line": 45,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": "Mount Lanayru"
+        },
+        {
+          "Line": 48,
+          "OriginalText": "...\n\n",
+          "TranslatedText": "...\n"
+        },
+        {
+          "Line": 52,
+          "OriginalText": "Mount Lanayru ",
+          "TranslatedText": "Mount Lanayru "
+        },
+        {
+          "Line": 55,
+          "OriginalText": "is a big, snow-covered\npeak that\u0027s far to the east of this village.\n\n",
+          "TranslatedText": "ขนาดใหญ่, มีหิมะปกคลุม\nยอดเขาที่อยู่ห่างออกไปทางทิศตะวันออกของหมู่บ้านนี้.\n"
+        },
+        {
+          "Line": 61,
+          "OriginalText": "The gate that I mentioned should be to\nthe west of ",
+          "TranslatedText": "ประตูที่ฉันพูดถึงควรอยู่ทางทิศตะวันตก\nของ "
+        },
+        {
+          "Line": 65,
+          "OriginalText": "Naydra Snowfield",
+          "TranslatedText": "Naydra Snowfield"
+        },
+        {
+          "Line": 68,
+          "OriginalText": ", which is at\nthe foot of the mountain.",
+          "TranslatedText": ", ซึ่งอยู่ที่เชิงเขา."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_001",
+      "TextList": [
+        {
+          "Line": 77,
+          "OriginalText": "Someday I hope I can see that place\nspoken of in whispers, veiled in\nmystery...the ",
+          "TranslatedText": "สักวันฉันหวังว่าฉันจะได้เห็นสถานที่แห่งนั้น\nที่ถูกพูดถึงด้วยเสียงกระซิบที่ปกคลุมไปด้วย\nความลึกลับ ... "
+        },
+        {
+          "Line": 81,
+          "OriginalText": "Great Fairy Fountain",
+          "TranslatedText": "Great Fairy Fountain"
+        },
+        {
+          "Line": 84,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_002",
+      "TextList": [
+        {
+          "Line": 101,
+          "OriginalText": "Ahhh! You...",
+          "TranslatedText": "อ่า! คุณ..."
+        },
+        {
+          "Line": 105,
+          "OriginalText": "you found it?!",
+          "TranslatedText": "คุณพบแล้ว?!"
+        },
+        {
+          "Line": 109,
+          "OriginalText": " Really?!\n\n\n",
+          "TranslatedText": " จริงๆ?!\n"
+        },
+        {
+          "Line": 115,
+          "OriginalText": "Are you serious right now?!\n\n\n",
+          "TranslatedText": "ตอนนี้คุณจริงจังไหม?!\n"
+        },
+        {
+          "Line": 121,
+          "OriginalText": "And if you are, then where\u0027s the ",
+          "TranslatedText": "แล้วถ้าคุณเป็นเช่นนั้น\n"
+        },
+        {
+          "Line": 125,
+          "OriginalText": "picture",
+          "TranslatedText": "picture"
+        },
+        {
+          "Line": 128,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        },
+        {
+          "Line": 132,
+          "OriginalText": "\nYou remembered to bring the ",
+          "TranslatedText": "\nคุณจำได้ว่าต้องนำ\n"
+        },
+        {
+          "Line": 136,
+          "OriginalText": "picture",
+          "TranslatedText": "ภาพ"
+        },
+        {
+          "Line": 139,
+          "OriginalText": ",\nright?",
+          "TranslatedText": ",\nมาใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_003",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "Oh...I see.",
+          "TranslatedText": "โอ้...ฉันรู้."
+        },
+        {
+          "Line": 152,
+          "OriginalText": " It\u0027s not easy to find at all, \nis it?\n\n",
+          "TranslatedText": " มันหาไม่ง่ายเลยใช่ไหม?\n"
+        },
+        {
+          "Line": 158,
+          "OriginalText": "But if you do happen to find the\n",
+          "TranslatedText": "แต่ถ้าคุณบังเอิญพบ\n"
+        },
+        {
+          "Line": 162,
+          "OriginalText": "Great Fairy Fountain ",
+          "TranslatedText": "Great Fairy Fountain "
+        },
+        {
+          "Line": 165,
+          "OriginalText": "somehow,",
+          "TranslatedText": "ยังไง,"
+        },
+        {
+          "Line": 169,
+          "OriginalText": " be sure\nto get a ",
+          "TranslatedText": "อย่าลืมนำ\n"
+        },
+        {
+          "Line": 173,
+          "OriginalText": "picture ",
+          "TranslatedText": "ภาพ "
+        },
+        {
+          "Line": 176,
+          "OriginalText": "of it, OK?",
+          "TranslatedText": "มา ตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_005",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Well, I\u0027m impressed you found it.\n\n\n",
+          "TranslatedText": "ฉันประทับใจที่คุณพบ\n"
+        },
+        {
+          "Line": 191,
+          "OriginalText": "I want to give you something to show my\nappreciation, but I don\u0027t think I have\nanything on me...\n",
+          "TranslatedText": "ฉันต้องการมอบบางสิ่งเพื่อแสดงความขอบคุณ แต่ฉันไม่คิดว่าฉันจะมีอะไรให้...\n"
+        },
+        {
+          "Line": 200,
+          "OriginalText": "I know!",
+          "TranslatedText": "แต่ฉันรู้ว่า!"
+        },
+        {
+          "Line": 204,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 210,
+          "OriginalText": "Is there a place you\u0027ve been seeking?\nI\u0027ve traveled all over Hyrule, so I might\nbe able to help you find it.",
+          "TranslatedText": "มีสถานที่ที่คุณกำลังมองหาอยู่?\nฉันเดินทางไปทั่ว Hyrule แล้วดังนั้น\nฉันอาจจะช่วยคุณค้นหาได้."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_006",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "A large gate with a snowy mountain\nbeyond it...",
+          "TranslatedText": "ประตูขนาดใหญ่ที่มีภูเขาหิมะอยู่ถัดออกไป..."
+        },
+        {
+          "Line": 226,
+          "OriginalText": " Oh, I know that place! There\nis a big mountain east of this village...\nIt\u0027s called ",
+          "TranslatedText": " โอ้, ฉันรู้จักที่นั่น! มีภูเขาลูกใหญ่อยู่ทางตะวันออกของหมู่บ้านนี้ ...\nมันเรียกว่า "
+        },
+        {
+          "Line": 230,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": "Mount Lanayru"
+        },
+        {
+          "Line": 233,
+          "OriginalText": ".\n\n\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 239,
+          "OriginalText": "At the base of ",
+          "TranslatedText": "ที่ฐานของ "
+        },
+        {
+          "Line": 243,
+          "OriginalText": "Mount Lanayru",
+          "TranslatedText": "Mount Lanayru"
+        },
+        {
+          "Line": 246,
+          "OriginalText": ", on the\nwest side of ",
+          "TranslatedText": ", ทางด้านตะวันตกของ "
+        },
+        {
+          "Line": 250,
+          "OriginalText": "Naydra Snowfield",
+          "TranslatedText": "Naydra Snowfield"
+        },
+        {
+          "Line": 253,
+          "OriginalText": ", lies\nthat gate. I\u0027m almost certain!",
+          "TranslatedText": ", มีประตูนั้นอยู่ ฉันเกือบจะแน่ใจแล้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_007",
+      "TextList": [
+        {
+          "Line": 262,
+          "OriginalText": "I\u0027m glad I knew about that location.\nI suppose my help was useful, then?",
+          "TranslatedText": "ฉันดีใจที่รู้เกี่ยวกับสถานที่นั้น\nฉันคิดว่าความช่วยเหลือของฉันมีประโยชน์?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_009",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "What\u0027s up?",
+          "TranslatedText": "ว่าไง?"
+        },
+        {
+          "Line": 275,
+          "OriginalText": " You want to know more\nabout that place in the picture?",
+          "TranslatedText": " คุณต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับสถานที่นั้นในภาพ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_011",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "That secret place veiled in mystery...\nThe ",
+          "TranslatedText": "สถานที่ลับแห่งนั้นปกคลุมไปด้วยความลึกลับ...\nThe "
+        },
+        {
+          "Line": 296,
+          "OriginalText": "Great Fairy Fountain",
+          "TranslatedText": "Great Fairy Fountain"
+        },
+        {
+          "Line": 299,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 303,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 309,
+          "OriginalText": "Neither snow nor rain nor heat nor\nlightning strike stays me from swift\ncompletion of this self-appointed task!",
+          "TranslatedText": "ไม่ว่าหิมะหรือฝน ความร้อนหรือฟ้าผ่า\nก็ไม่ทำให้ฉันไม่สามารถทำงานนี้ให้เสร็จได้อย่างรวดเร็ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_013",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "You don\u0027t need my help? Really?\n\n\n",
+          "TranslatedText": "คุณไม่ต้องการความช่วยเหลือจากฉันเหรอ? จริงๆ?\n"
+        },
+        {
+          "Line": 332,
+          "OriginalText": "And here I figured you needed \nsomething urgently since you came\ncalling in this terrible weather.",
+          "TranslatedText": "และที่นี่ฉันคิดว่าคุณต้องการบางสิ่งอย่างเร่งด่วน\nเนื่องจากคุณเรียกมาในสภาพอากาศเลวร้ายนี้."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_014",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "That\u0027s great to hear!\n\n\n",
+          "TranslatedText": "เยี่ยมมากที่ได้ยิน!\n"
+        },
+        {
+          "Line": 347,
+          "OriginalText": "I\u0027m going to keep traveling, so it\u0027s\npossible that we\u0027ll run into each other\nagain somewhere!\n",
+          "TranslatedText": "ฉันกำลังจะเดินทางต่อไป\nดังนั้นเป็นไปได้ที่เราจะพบกันอีกครั้ง!\n"
+        },
+        {
+          "Line": 353,
+          "OriginalText": "You and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn\u0027t think twice to call on\nme whenever you need some help!",
+          "TranslatedText": "คุณและฉันผูกพันกันด้วยความรักในทิวทัศน์\nที่สวยงามของเรา ฉันรู้สึกได้!\nและคุณไม่ควรคิดมากที่จะเรียกฉัน\nเมื่อใดก็ตามที่คุณต้องการความช่วยเหลือ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_015",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "I can\u0027t believe we ran into each other\nhere.",
+          "TranslatedText": "ไม่อยากจะเชื่อเลยว่าเราจะเจอกันที่นี่."
+        },
+        {
+          "Line": 366,
+          "OriginalText": " Did you make it to the place in the\npicture?",
+          "TranslatedText": " คุณไปถึงสถานที่ในภาพหรือไม่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_F_019",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "I see\u2014all in good time, then...\n\n\n",
+          "TranslatedText": "ฉันเห็น\u2014ช่วงเวลาที่ดี แล้ว...\n"
+        },
+        {
+          "Line": 389,
+          "OriginalText": "I\u0027m going to keep traveling, so it\u0027s\npossible that we\u0027ll run into each other\nagain somewhere!\n",
+          "TranslatedText": "ฉันจะเดินทางต่อไปดังนั้น\nเป็นไปได้ที่เราจะพบกันอีกครั้ง!\n"
+        },
+        {
+          "Line": 395,
+          "OriginalText": "You and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn\u0027t think twice to call on\nme whenever you need some help!",
+          "TranslatedText": "คุณและฉันผูกพันกันด้วยความรักในทิวทัศน์\nที่สวยงามของเรา ฉันรู้สึกได้!\nและคุณไม่ควรคิดมากที่จะเรียกฉัน\nเมื่อใดก็ตามที่คุณต้องการความช่วยเหลือ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_artist009_R_Near",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "Hrm...",
+          "TranslatedText": "หือ..."
+        }
+      ]
+    }
+  ]
+}

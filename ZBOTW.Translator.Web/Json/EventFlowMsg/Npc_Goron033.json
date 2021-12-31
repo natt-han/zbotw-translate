@@ -1,0 +1,420 @@
+{
+  "FileName": "Npc_Goron033",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What now?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, I\u0027m good.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I probably do.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027ll buy it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Raaaarghhhh!!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Zzz...zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Yaaaargh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 54,
+          "OriginalText": "All you need to do is cook one",
+          "TranslatedText": null
+        },
+        {
+          "Line": 58,
+          "OriginalText": " fireproof lizard\nwith monster parts",
+          "TranslatedText": null
+        },
+        {
+          "Line": 64,
+          "OriginalText": ", fella...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "Heheh... It all worked out...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 90,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "Er, nothin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 105,
+          "OriginalText": "Here\u0027s what I\u0027ll do, fella. Just for you,\nI\u0027ll sell ya that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 109,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": " at a\nspecial price of only ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "60 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 136,
+          "OriginalText": "Whaa\u2014?! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": "You don\u0027t have enough rupees!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "Hm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "Times are tough, aren\u0027t they?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "A sale! I actually made a sale!!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": "\nHere ya go, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": " like you will need more\nthan that!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": " A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": " will\ncost ya ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": "60 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "Huh? Your pouch is full!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": "\nMake some room and come back.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "Hey, fella! Buy somethin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 248,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": " like you needs this, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": "\nIt\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "Well, don\u0027t come cryin\u0027 to me when\nyou\u0027re on fire, fella!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "Need a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "?\nYou do, yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 315,
+          "OriginalText": "Hmm hm hmmmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 325,
+          "OriginalText": "Whoa! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": "An actual customer?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "Then why\u0027d you wake me up?!\nSheesh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "See ya later!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Here ya go!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "Hey, it\u0027s the Hylian!\n\n\nI know ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": "Rudania ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "has chilled out, but the\ntemperature here is still burnin\u0027 hot!\n\nIf ya get too hot, try some good ol\u0027\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": ", OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": " Speakin\u0027 of...\nNeed some?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

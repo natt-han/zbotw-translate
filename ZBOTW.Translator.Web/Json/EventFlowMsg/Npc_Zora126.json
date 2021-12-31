@@ -1,0 +1,675 @@
+{
+  "FileName": "Npc_Zora126",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Letter?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bank of Wishes?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Argh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Tee hee...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Tee hee hee...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "And then! And then!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 50,
+          "OriginalText": "Ugh! I\u0027m so mad at her!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 59,
+          "OriginalText": "I need to go to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 63,
+          "OriginalText": "Bank of Wishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 66,
+          "OriginalText": " to\nsend a letter...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": "but Mother won\u0027t let me\ngo because of that water monster.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "She treats me like I\u0027m still a child.\nIt\u0027s sooo condescending.\n\nIt\u0027s really terrible to be at that awkward\nZora age where I\u0027m a young woman\nbut I haven\u0027t had my growth spurt yet.\nJust my luck to be a late bloomer.\nI\u0027ll probably NEVER grow taller.\nUgh, it\u0027s awful to be me sometimes.\nI doubt Hylians have to deal with\nnonsense like this since you age\nso fast. You\u0027re so lucky.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "*yawn*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "You should go to sleep soon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "Never mind me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "but it\u0027s past the time\nthat kids like you should be in bed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "*gurgle*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "Zzz... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "*gurgle*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 154,
+          "OriginalText": "\nZzz... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "*gurgle*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Tee hee! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "It\u0027s sunny!\n\n\nMaybe I can go to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "Bank of Wishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 178,
+          "OriginalText": "\nto send my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "letter",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": " soon...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 212,
+          "OriginalText": "It\u0027s sunny!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": "Which means",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": " that water monster must\nhave simmered down, right?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": "I\u0027ve got to finish preparing my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": "letter",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "\nso I can go and send it from the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": "Bank of Wishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "Oh... You...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": " Thanks for your help the\nother day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "Tee hee... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "Sasan...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "Tee hee... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": "I have a boooyfrieeeend...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "I\u0027m discussing important things with\nSasan right now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 317,
+          "OriginalText": "Like his favorite foods! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "Important things\nlike that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Like how many brothers and sisters\nhe has.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": " Important things like that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "\u266ASasan! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "Swim a bunch so you can build\nup your muscles, OK?\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "OK, darling!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 360,
+          "OriginalText": " For you, I\u0027ll swim as fast\nas I can!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "Right now I\u0027m waiting for my pen pal,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "\nSasan.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": "I hear Hylian girls call their special\nsomeone...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": "their boyfriend!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": " Tee hee!\nI like it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 396,
+          "OriginalText": "When Sasan gets here, be sure to\nsay hello, OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 405,
+          "OriginalText": "My boyfriend...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 409,
+          "OriginalText": " He\u0027s so gorgeous\nand great\u2014you won\u0027t believe it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "Tee hee!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "\u266ATee hee!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 436,
+          "OriginalText": "You\u0027d better not die before I do!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 445,
+          "OriginalText": "Well, I suppose Zora live a really, really\nlong time, don\u0027t you? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 449,
+          "OriginalText": "We\u0027ll work it out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 458,
+          "OriginalText": "Whenever I put a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": "letter",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": " in a bottle and\nsend it down ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 469,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": ", I always get\na reply, without fail!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "I wonder what he\u0027s like...the one responding to\nmy letters...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 485,
+          "OriginalText": " I want to meet him so badly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "Bank of Wishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 504,
+          "OriginalText": " is halfway down\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": ".\n\nIf you send a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 515,
+          "OriginalText": "letter",
+          "TranslatedText": null
+        },
+        {
+          "Line": 518,
+          "OriginalText": " down the river from\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 522,
+          "OriginalText": "Bank of Wishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 525,
+          "OriginalText": " and get a reply...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": "\nthat person will be yours forever!\nThat\u0027s how the legend goes, anyway.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 538,
+          "OriginalText": "I\u0027m Finley.\n\n\nAll the other girls are head over flippers\nfor Prince Sidon...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": "But not me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 548,
+          "OriginalText": " I believe everyone has their\nown special prince out there, just waiting\nfor them!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 557,
+          "OriginalText": "Do you need anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 584,
+          "OriginalText": "Oh, OK. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": "Good-bye, then...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 597,
+          "OriginalText": "I have",
+          "TranslatedText": null
+        },
+        {
+          "Line": 601,
+          "OriginalText": " a pen pal!\n\n\nWhen I put a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 605,
+          "OriginalText": "letter",
+          "TranslatedText": null
+        },
+        {
+          "Line": 608,
+          "OriginalText": " in a bottle and send it\ndown ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 612,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 615,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 619,
+          "OriginalText": " I always get a reply,\nwithout fail. It\u0027s so fun and mysterious!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

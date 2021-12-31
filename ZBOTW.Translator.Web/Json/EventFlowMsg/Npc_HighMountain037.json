@@ -1,0 +1,950 @@
+{
+  "FileName": "Npc_HighMountain037",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Um...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Village?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "The Rito?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I defeated it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Where\u0027s Teba?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Flight Range?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "How are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "What\u0027s this big lake?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Frost Talus?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Not interested.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Frost Talus?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "Good day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Hello.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 105,
+          "OriginalText": "I am Gesane of the Rito.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "Rito Village is just across these bridges.\n\n\nWe\u0027re all a bit...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 121,
+          "OriginalText": "preoccupied right\nnow,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 125,
+          "OriginalText": " but I\u0027m sure the shops would\nappreciate your business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 134,
+          "OriginalText": "Teba? You mean...our Teba?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "He stormed off to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "Flight Range",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "\nwith an angry look on his face.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 156,
+          "OriginalText": "Bit of a loose cannon that one. I\u0027m\nguessing he went to get revenge for\nHarth by himself.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "Flight Range ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 169,
+          "OriginalText": "is where Rito warriors\ntrain for battle.\n\nHe probably went there to stock up on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 173,
+          "OriginalText": "bows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": " and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 180,
+          "OriginalText": "bomb arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 192,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Flight Range",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": " is beyond\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": "Dronoc\u0027s Pass",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": " on the other side of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": "Lake Totori",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "If you\u0027re going to go around ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": "Lake Totori",
+          "TranslatedText": null
+        },
+        {
+          "Line": 226,
+          "OriginalText": "\nto get there, there\u0027s a big difference\nbetween the east and the west sides.\nFor a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": " like yourself...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "\nI\u0027d suggest the west side. It\u0027s flatter.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "I imagine you\u0027ve traveled a long way to\nget here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": " Do you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 268,
+          "OriginalText": "I\u0027m impressed you\u0027re walking around like\nthat in this weather.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 277,
+          "OriginalText": "Farewell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 286,
+          "OriginalText": "Ah, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "hello again.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 317,
+          "OriginalText": "Did you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 339,
+          "OriginalText": "Divine Beast Vah Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "was kicking\nup a storm just a while ago, but he\u0027s\ncalmed down now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 351,
+          "OriginalText": "Are you a Hylian?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 360,
+          "OriginalText": "You\u0027ve come at a good time...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "You\u0027re Hylian, aren\u0027t you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "\nWell done making it here in this weather.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 382,
+          "OriginalText": "Hmm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": "Did you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 457,
+          "OriginalText": "Never mind that. Please listen to this!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": "\nI was out for a walk earlier, and I saw...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": "\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 469,
+          "OriginalText": "Frost Talus",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "You ever heard of a \u0022cold shoulder\u0022?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "\nThat\u0027s nothing compared to a soggy,\nfrozen shoulder. Brrrrrr!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "This is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": "Lake Totori",
+          "TranslatedText": null
+        },
+        {
+          "Line": 514,
+          "OriginalText": ".\n\n\nAs you can see, it\u0027s surrounded by steep\ncliffs with no way up, so don\u0027t go falling\nin.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 523,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 527,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 530,
+          "OriginalText": " like yourself should tread\nespecially carefully. Falling in would\nmean certain death.\nUnless you could magically travel to\nsafety,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 534,
+          "OriginalText": " of course,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 538,
+          "OriginalText": " but let\u0027s be real.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 547,
+          "OriginalText": "Yes! It\u0027s a giant monster made of\nenchanted ice!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 551,
+          "OriginalText": "\n\nI was out running an errand when I saw\nit...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 555,
+          "OriginalText": " It was incredible...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": "and terrifying.\nIt was incredibly terrifying.\nI believe I saw it over in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 563,
+          "OriginalText": "Coldsnap Hollow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": "\nbefore my adrenaline kicked in and I fled\nlike the wind.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": "In any case, it was enormous. But I bet a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 576,
+          "OriginalText": "Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 579,
+          "OriginalText": "could have taken it down\nno problem.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 588,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": "Frost Talus ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 595,
+          "OriginalText": "is a giant made entirely of\nenchanted ice. \n\nI saw one over by ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 599,
+          "OriginalText": "Coldsnap Hollow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 602,
+          "OriginalText": ".\nIf you want to keep breathing, I suggest\nyou stay far away from there.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 608,
+          "OriginalText": "I\u0027m pretty good in a fight, but I wouldn\u0027t\nwant to bump into that thing in a dark\nvalley.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 617,
+          "OriginalText": "WHAT?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 621,
+          "OriginalText": " You defeated the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 625,
+          "OriginalText": "Frost Talus",
+          "TranslatedText": null
+        },
+        {
+          "Line": 628,
+          "OriginalText": " in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "Coldsnap Hollow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 635,
+          "OriginalText": "?!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 641,
+          "OriginalText": "I never would have thought a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 645,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 648,
+          "OriginalText": "\ncould take down something that big.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 652,
+          "OriginalText": "\nNo offense.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 658,
+          "OriginalText": "Well, that\u0027s a relief.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 662,
+          "OriginalText": " If that thing had\nwandered this way,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 666,
+          "OriginalText": " the entire village\nwould\u0027ve been in danger!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 675,
+          "OriginalText": "It\u0027s not much, but I\u0027d like to reward you\nfor your trouble.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 684,
+          "OriginalText": "How am I?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 688,
+          "OriginalText": " Can\u0027t complain, I suppose...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 697,
+          "OriginalText": "Like I said\u2014can\u0027t complain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 706,
+          "OriginalText": "Do you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 723,
+          "OriginalText": "To think you felled the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": "Frost Talus",
+          "TranslatedText": null
+        },
+        {
+          "Line": 730,
+          "OriginalText": " in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 734,
+          "OriginalText": "Coldsnap Hollow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 737,
+          "OriginalText": ". It boggles the mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 749,
+          "OriginalText": "Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": "is calm now, so Rito Village\nshould be at peace.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 761,
+          "OriginalText": "But this world\u0027s chock-full of savage\nmonsters and terrifying beasts. I must\nremain ever vigilant.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 770,
+          "OriginalText": "Do you have any more questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 788,
+          "OriginalText": "Yes...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 797,
+          "OriginalText": "Did you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 809,
+          "OriginalText": "Did you have any more questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 828,
+          "OriginalText": "\u0022The Rito of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 832,
+          "OriginalText": "Lake Totori",
+          "TranslatedText": null
+        },
+        {
+          "Line": 835,
+          "OriginalText": ". Where the men\nare fine archers ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 839,
+          "OriginalText": "and the women better\nsingers.\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk45",
+      "TextList": [
+        {
+          "Line": 848,
+          "OriginalText": "You being a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 852,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 858,
+          "OriginalText": ", I\u0027m surprised you\nhaven\u0027t heard that before.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 864,
+          "OriginalText": "You should visit the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 868,
+          "OriginalText": "village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 871,
+          "OriginalText": "if you get\na chance.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk46",
+      "TextList": [
+        {
+          "Line": 880,
+          "OriginalText": "Now then...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

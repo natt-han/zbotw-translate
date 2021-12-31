@@ -1,0 +1,1075 @@
+{
+  "FileName": "MiniGame_SmashGolf",
+  "EntryList": [
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027m in!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "What is that?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027m out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Pony up.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Back down.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I give up.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Me? Never!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0020",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "It\u0027s time!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0021",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "I\u0027m tapped out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf1",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Ya don\u0027t know ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 62,
+          "OriginalText": "?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 66,
+          "OriginalText": "\nIt\u0027s famous!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": " No one who\u0027s played it\neven once can get enough!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf10",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Say no more!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": " It\u0027s time ta tee off!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 94,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": " is go!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf2",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "I invented it the other day rolling down\nthe hill, so I\u0027m the only one who\u0027s played\nit.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": " And I love it ta smithereens!\nI guess it makes sense that ya haven\u0027t\nheard about it, come ta that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf3",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "It couldn\u0027t be simpler ta play!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": " Whack the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "ball",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": " and try to knock it inta the hole at\nthat flag.\nThe fewer tries it takes, the higher\nyer score! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": "The best part? It only costs\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": "20 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": " ta play!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf4",
+      "TextList": [
+        {
+          "Line": 153,
+          "OriginalText": "Two-handed weapons like hammers can\nreally send the ball flyin\u0027, but ya gotta\ntake care not ta overdo it.\nSwords and one-handed weapons are\nbetter for short distances, but be careful\nya don\u0027t break \u0027em playin\u0027 the game!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf5",
+      "TextList": [
+        {
+          "Line": 162,
+          "OriginalText": "Or ya can just go hog wild on the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "ball",
+          "TranslatedText": null
+        },
+        {
+          "Line": 169,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 173,
+          "OriginalText": "\nThe more power ya put inta yer swing,\nthe further it goes flying!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": " FOOOOORE!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf6",
+      "TextList": [
+        {
+          "Line": 186,
+          "OriginalText": "If the ball rolls off the course, ya take\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": "one-stroke penalty",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": " and have ta keep\ngoing from where ya hit it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf7",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "I\u0027ll keep track of how many ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": "strokes ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "it\ntakes. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": "Yer job is to get the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 217,
+          "OriginalText": "ball",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": " in the\nhole in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 224,
+          "OriginalText": "20 strokes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": " or less!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf8",
+      "TextList": [
+        {
+          "Line": 236,
+          "OriginalText": "How ya hit the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": "ball ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 243,
+          "OriginalText": "is yer call.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 247,
+          "OriginalText": " But the\nfurther ya can smash it with every smack,\nthe better!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskGolf9",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "If the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 260,
+          "OriginalText": "ball ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": "moves even an inch, that\ncounts as ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 267,
+          "OriginalText": "a stroke",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "Huh, I guess those\nrules ain\u0027t so simple after all. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Whoops!\nSo are ya in or are ya in?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskOneMore",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "Oh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": "Ya look like ya wanna go again! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 303,
+          "OriginalText": "\nHeck, who am I ta stop ya?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskPay",
+      "TextList": [
+        {
+          "Line": 320,
+          "OriginalText": "At least, once I get that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 324,
+          "OriginalText": "20 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 327,
+          "OriginalText": " for\nthe greens fee.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 331,
+          "OriginalText": " Browns fee?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 335,
+          "OriginalText": " Ehh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "AskPlay",
+      "TextList": [
+        {
+          "Line": 352,
+          "OriginalText": "Getting here must mean ya have the\nstones ta strut yer stuff in a round of...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 362,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": " Well? Are ya in? ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Cancel_End",
+      "TextList": [
+        {
+          "Line": 387,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "Boom Bam Golf ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "course is\nalways open! See ya around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_00",
+      "TextList": [
+        {
+          "Line": 409,
+          "OriginalText": "NICE shot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_1",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "Way to take a whack at it! Give me a\nsecond to figger out yer ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": "score",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Excellent_1",
+      "TextList": [
+        {
+          "Line": 429,
+          "OriginalText": "Ya got ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "?! Well, don\u0027t that beat all!\nYa could be a pro ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 448,
+          "OriginalText": "Boom Bam Golfer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "\nIf there was a league...or other players...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Excellent_2",
+      "TextList": [
+        {
+          "Line": 467,
+          "OriginalText": "Whoa",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "I lost track of my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "stroke count",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": "\nIf I remember right, though, it was\nabout the same as yers, give or take!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Excellent_3",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "Yer the kinda player who\u0027s gonna make\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 515,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 518,
+          "OriginalText": "hit the big time! Keep\nit up, and smash those high scores!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_High_1",
+      "TextList": [
+        {
+          "Line": 527,
+          "OriginalText": "Yer ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 531,
+          "OriginalText": "score",
+          "TranslatedText": null
+        },
+        {
+          "Line": 534,
+          "OriginalText": " was...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 553,
+          "OriginalText": "! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 557,
+          "OriginalText": "Yer gettin\u0027 ta be\na real heavyweight, kid.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_High_2",
+      "TextList": [
+        {
+          "Line": 566,
+          "OriginalText": "Don\u0027t go thinkin\u0027 ya got it all figgered\nout, now! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 570,
+          "OriginalText": "Keep at it, and set the highest\nrecord ever in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 577,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 583,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Low_1",
+      "TextList": [
+        {
+          "Line": 592,
+          "OriginalText": "Yer score was...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 605,
+          "OriginalText": "?! Sheesh, kid.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 609,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 616,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 623,
+          "OriginalText": "ain\u0027t easy, but it\nain\u0027t THAT hard!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Low_2",
+      "TextList": [
+        {
+          "Line": 632,
+          "OriginalText": "Aw, buddy.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 636,
+          "OriginalText": " Well...don\u0027t give up, OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 640,
+          "OriginalText": "\nYa just need ta practice, practice, and\nthen practice some more.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Middle_1",
+      "TextList": [
+        {
+          "Line": 649,
+          "OriginalText": "Hrm... Ya got a",
+          "TranslatedText": null
+        },
+        {
+          "Line": 659,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 669,
+          "OriginalText": " this time out.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 673,
+          "OriginalText": "\nThat ain\u0027t bad, but ya strike me as a\nguy who could do better.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear_Middle_2",
+      "TextList": [
+        {
+          "Line": 682,
+          "OriginalText": "Don\u0027t worry. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 686,
+          "OriginalText": "The game takes some\npractice ta figger out. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": "They say ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 694,
+          "OriginalText": "every\njourney starts with a single stroke",
+          "TranslatedText": null
+        },
+        {
+          "Line": 697,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GameTalk",
+      "TextList": [
+        {
+          "Line": 706,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 710,
+          "OriginalText": " Yer throwin\u0027 in the towel already?\nSay it ain\u0027t so!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Judge_OB",
+      "TextList": [
+        {
+          "Line": 727,
+          "OriginalText": "Holy moly...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 731,
+          "OriginalText": " Ya went off course, kid!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 735,
+          "OriginalText": "\nThat\u0027s ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 739,
+          "OriginalText": "one penalty stroke",
+          "TranslatedText": null
+        },
+        {
+          "Line": 742,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 746,
+          "OriginalText": "And ya gotta\npick up where ya left off before.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 750,
+          "OriginalText": "BOOM-BAM!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NoOneMore1",
+      "TextList": [
+        {
+          "Line": 759,
+          "OriginalText": "Whatta shame.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 763,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 769,
+          "OriginalText": "But at least now ya\u0027ve\nseen the majesty of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 776,
+          "OriginalText": "Boom Bam Golf",
+          "TranslatedText": null
+        },
+        {
+          "Line": 782,
+          "OriginalText": "\nfor yerself, right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NoOneMore2",
+      "TextList": [
+        {
+          "Line": 791,
+          "OriginalText": "I\u0027ll be here fiddlin\u0027 with the course.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 795,
+          "OriginalText": "\nWe never close, in case yer ever itchin\u0027\nta play.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NoRupee",
+      "TextList": [
+        {
+          "Line": 804,
+          "OriginalText": "Looks like ya don\u0027t have the stones\nafter all...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 808,
+          "OriginalText": "by which I mean rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 817,
+          "OriginalText": " Well,\nkeep savin\u0027 up!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 821,
+          "OriginalText": " We never close!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NotPlay",
+      "TextList": [
+        {
+          "Line": 830,
+          "OriginalText": "Aww, that ain\u0027t no fun. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 839,
+          "OriginalText": "The course is\nalways open, though. Yer welcome\nanytime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "OB_Cancell1",
+      "TextList": [
+        {
+          "Line": 848,
+          "OriginalText": "Sorry, kid, but I hafta ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 852,
+          "OriginalText": "disqualify",
+          "TranslatedText": null
+        },
+        {
+          "Line": 855,
+          "OriginalText": " ya.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 859,
+          "OriginalText": "\nThem\u0027s the rules!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "OB_Cancell2",
+      "TextList": [
+        {
+          "Line": 868,
+          "OriginalText": "If ya wanted ta quit, ya shoulda said so!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 872,
+          "OriginalText": "\nCome back when yer feelin\u0027 serious.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "OB_Warning1",
+      "TextList": [
+        {
+          "Line": 881,
+          "OriginalText": "Where ya goin\u0027?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 885,
+          "OriginalText": " It ain\u0027t quittin\u0027 time\nalready, is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "OB_Warning2",
+      "TextList": [
+        {
+          "Line": 894,
+          "OriginalText": "Go too far off course and I\u0027ll hafta call\nthe game there. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 898,
+          "OriginalText": "Ya won\u0027t get back yer\nentry fee, neither.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 902,
+          "OriginalText": " So watch it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "PlayOK",
+      "TextList": [
+        {
+          "Line": 911,
+          "OriginalText": "Rock on! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 915,
+          "OriginalText": "I\u0027ll start setting up!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetrunGame",
+      "TextList": [
+        {
+          "Line": 924,
+          "OriginalText": "Attaboy!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 928,
+          "OriginalText": " True ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 932,
+          "OriginalText": "Boom Bam Golfers",
+          "TranslatedText": null
+        },
+        {
+          "Line": 936,
+          "OriginalText": "\nnever say die!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "StrokeOver",
+      "TextList": [
+        {
+          "Line": 945,
+          "OriginalText": "Whatta sorry showing... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 949,
+          "OriginalText": "That\u0027s 20\nstrokes, pal. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 953,
+          "OriginalText": "I\u0027m cuttin\u0027 ya off there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 957,
+          "OriginalText": "\nTry again sometime, all right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "StrokeOver_Result",
+      "TextList": [
+        {
+          "Line": 966,
+          "OriginalText": "Hate to see a guy go to 20 strokes.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 970,
+          "OriginalText": "\nJust so\u0027s ya know, I was rootin\u0027 for ya.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TalkFirst",
+      "TextList": [
+        {
+          "Line": 979,
+          "OriginalText": "Holy moly!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 983,
+          "OriginalText": " A Hylian? Here?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 987,
+          "OriginalText": " Ya must\nbe tough as iron ta survive the trip out\nthis way!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "FileName": "Npc_HatenoVillage007",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Who do you like?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "What do you like to do?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "What do you like?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Bye!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "What\u0027s that?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "*yawn*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Hee hee!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Zzz... Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Wow...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": "blue thing so pretty. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 57,
+          "OriginalText": "I like!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "*pant*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "So pretty! And cool!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "Where can I get it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "Narah needs to go nighty-night.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "\nSee ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "Talk later!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 110,
+          "OriginalText": " Bye-bye!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "Zzz... Zzz...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": " Nyum...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 138,
+          "OriginalText": "I like cooking! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "Yummy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "Ha ha! Fun to run! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "Fun! Fun!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Nyum...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "Huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": "Mister?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 202,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": "sapphire",
+          "TranslatedText": null
+        },
+        {
+          "Line": 224,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 233,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "ruby",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 249,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 253,
+          "OriginalText": "topaz",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 265,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 269,
+          "OriginalText": "opal",
+          "TranslatedText": null
+        },
+        {
+          "Line": 272,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 281,
+          "OriginalText": "You have...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 285,
+          "OriginalText": "amber",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Sell it! Be rich!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 306,
+          "OriginalText": "I love to run!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 315,
+          "OriginalText": "I love talking! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 319,
+          "OriginalText": "Ask me a question!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Bye-bye!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 355,
+          "OriginalText": "I love my mommy!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "But my mommy...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": " She\u0027s always talking\nwith her friend.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": " You\u0027re not supposed to\ninterrupt them.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "\nThe only way I\u0027ve been able to talk to her\nwhen she\u0027s with her friend is to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "sneak up\nfrom behind",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "Want shiny jewels! Shiny money! Love!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 398,
+          "OriginalText": "No jewels for you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 407,
+          "OriginalText": "Talk more!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 434,
+          "OriginalText": "I like catching bugs!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": " Shiny bugs!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "Crouch down and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 448,
+          "OriginalText": "quietly",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": " approach the\nbug.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": " If you do that...you\u0027ll catch the bug!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

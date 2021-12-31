@@ -1,0 +1,230 @@
+{
+  "FileName": "TwnObj_AncientOven_A_01",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Make exchange.",
+          "TranslatedText": "ทำการแลกเปลี่ยน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Change exchange.",
+          "TranslatedText": "เปลี่ยน"
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "*zzzzzzrt*",
+          "TranslatedText": "*zzzzzzrt*"
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Materials required.",
+          "TranslatedText": "Materials required."
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Systems green.",
+          "TranslatedText": "Systems green."
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Optimal conditions.",
+          "TranslatedText": "Optimal conditions."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Hello, *zzzt*, ",
+          "TranslatedText": "สวัสดี *zzzt*, "
+        },
+        {
+          "Line": 41,
+          "OriginalText": "FamiliarNameMissing!",
+          "TranslatedText": "FamiliarNameMissing!"
+        },
+        {
+          "Line": 45,
+          "OriginalText": "\nWelcome!",
+          "TranslatedText": "\nยินดีต้อนรับ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Insert materials and rupees.",
+          "TranslatedText": "ใส่วัตถดิบและ rupees"
+        },
+        {
+          "Line": 53,
+          "OriginalText": "\nReceive ancient equipment in exchange.",
+          "TranslatedText": "\nรับ ancient equipment เป็นการแลกเปลี่ยน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Thanks for your time.",
+          "TranslatedText": "ขอบคุณที่สละเวลา"
+        },
+        {
+          "Line": 66,
+          "OriginalText": " Come\nagain, *bwop*,",
+          "TranslatedText": " แล้วมาอีกนะ *bwop*,"
+        },
+        {
+          "Line": 70,
+          "OriginalText": " FamiliarNameMissing!",
+          "TranslatedText": " FamiliarNameMissing!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Exchange for ",
+          "TranslatedText": "Exchange for "
+        },
+        {
+          "Line": 84,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Exchanging... ",
+          "TranslatedText": "Exchanging... "
+        },
+        {
+          "Line": 103,
+          "OriginalText": "*beeeeeep beep*",
+          "TranslatedText": "*beeeeeep beep*"
+        },
+        {
+          "Line": 110,
+          "OriginalText": "\nExchanging... ",
+          "TranslatedText": "\nExchanging... "
+        },
+        {
+          "Line": 117,
+          "OriginalText": "*beeeeeep beep*",
+          "TranslatedText": "*beeeeeep beep*"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 132,
+          "OriginalText": "Results available.",
+          "TranslatedText": "Results available."
+        },
+        {
+          "Line": 136,
+          "OriginalText": "\n*bweep* ",
+          "TranslatedText": "\n*bweep* "
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "Insufficient materials available\nfor exchange.",
+          "TranslatedText": "วัตถุดิบไม่พอสำหรับทำการแลกเปลี่ยน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "Insufficient rupees available\nfor exchange.",
+          "TranslatedText": "Rupees ไม่พอสำหรับทำการแลกเปลี่ยน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 166,
+          "OriginalText": "No room in inventory.",
+          "TranslatedText": "ไม่มีที่เก็บ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 170,
+          "OriginalText": "OK.",
+          "TranslatedText": "OK."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 174,
+          "OriginalText": "Hey hey, *beep*,",
+          "TranslatedText": "Hey hey, *beep*,"
+        },
+        {
+          "Line": 178,
+          "OriginalText": " FamiliarNameMissing!",
+          "TranslatedText": " FamiliarNameMissing!"
+        }
+      ]
+    }
+  ]
+}

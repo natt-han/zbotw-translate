@@ -1,0 +1,225 @@
+{
+  "FileName": "Npc_OasisMilk_E",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Special drinks?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Recommendations?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "How about milk?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "Oh, are you a Hylian vai?\nWe don\u0027t see too many of you...\n\nI can\u0027t tell how old you are, but you look\na little young to be coming to my shop.\n\nYou see, we mix special drinks here.\nDrinks that are definitely just for adults...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 47,
+          "OriginalText": "Well, a big part of the drink is the\nice we use from the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 51,
+          "OriginalText": "icehouse",
+          "TranslatedText": null
+        },
+        {
+          "Line": 54,
+          "OriginalText": ".\nIt makes them especially refreshing.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Our featured cocktail is called ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 67,
+          "OriginalText": "Noble\nPursuit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": ". Many of our customers come\nhere specifically to order it.\nThe light, sweet taste... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": "The cool\nsensation from each sip...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 78,
+          "OriginalText": " It\u0027s like\ndrinking distilled motivation!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "Sav\u0027orq, little vai...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Oh, are you a Hylian vai?\nWe don\u0027t see too many of you...\n\nI can\u0027t tell how old you are, but you look\na little young to be coming to my shop.\n\nYou see, we mix special drinks here.\nDrinks that are definitely just for adults...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "Vasaaq, little Hylian vai.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": " I\u0027ve heard\npeople beyond our walls were cold, but\nyou don\u0027t seem to be...\nBe sure to come back when you\u0027re all\ngrown up. I\u0027ll help you celebrate with\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 123,
+          "OriginalText": "Noble Pursuit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "Milk?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": " We don\u0027t carry anything as\nchildish as milk here!\n\nDid Greta tell you to come here and ask\nthat? That store clerk is just playing\na prank on you.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 145,
+          "OriginalText": "Good grief, doesn\u0027t she have anything\nbetter to do with her time?\n\nShe\u0027s always being so secretive about\nher shop. But hiding something just\nmakes young people more interested...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "Well, you\u0027re a little too young to be\nhere, don\u0027t you think?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Well, you\u0027re a little too young to be\nhere, don\u0027t you think?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 191,
+          "OriginalText": "That reminds me... I haven\u0027t seen Pokki\naround lately...\n\nShe used to come here every day to\ndrink a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 195,
+          "OriginalText": "Noble Pursuit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 198,
+          "OriginalText": ", too.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "Oh, I\u0027m sorry! I don\u0027t know why I\u0027m even\ntelling you this.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "Vasaaq...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

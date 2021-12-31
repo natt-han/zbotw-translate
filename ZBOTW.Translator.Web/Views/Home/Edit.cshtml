@@ -1,0 +1,60 @@
+﻿@model MessageTable
+<style>
+input[type='text']{
+    word-break: break-word;
+    width:300px;
+
+}
+td{
+   vertical-align:top; 
+}
+textarea {
+    resize: none;
+    overflow: hidden;
+    min-height: 30px;
+    width:350px;
+}
+</style>
+
+<table>
+    <tbody class="d-lg-table table-border" border="1">
+        @foreach(var item in Model.EntryList)
+        {
+            <tr>
+                <td>@item.EntryName</td>
+                <td>
+                    @foreach(var text in item.TextList)
+                    {
+                        @*<input type="text" id="txt-translated-@text.Line" data-line="@text.Line" value="@text.TranslatedText" /><br/>*@
+                        <textarea type="text" id="txt-translated-@text.Line" data-line="@text.Line">@text.TranslatedText</textarea>
+                        <button>c</button>
+                        <br/>
+                    }
+                </td>
+                <td>
+                    @foreach(var text in item.TextList)
+                    {
+                        //<input type="text" id="txt-original-@text.Line" data-line="@text.Line" value="@text.OriginalText?.Replace("\\n",Environment.NewLine)" readonly /><br/>
+                        <textarea>@text.OriginalText?.Replace("\\n",Environment.NewLine)</textarea><br />
+                    }
+                </td>
+            </tr>            
+        }
+    </tbody>
+</table>
+@section Scripts{
+<script>
+    $().ready(function(){
+        $("textarea").each(function(element){
+            console.log(this.style);
+            var element = this;
+            element.style.height = "5px";
+            element.style.height = (element.scrollHeight)+"px";
+        })
+    });
+    function auto_grow(element) {
+    element.style.height = "5px";
+    element.style.height = (element.scrollHeight)+"px";
+}
+</script>
+}

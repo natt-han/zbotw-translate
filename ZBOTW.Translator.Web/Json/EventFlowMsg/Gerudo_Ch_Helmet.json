@@ -1,0 +1,435 @@
+{
+  "FileName": "Gerudo_Ch_Helmet",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes! Lend it to me!",
+          "TranslatedText": "ใช่ ให้ฉันยืม!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Never mind...",
+          "TranslatedText": "ไม่เป็นไร..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I want it!",
+          "TranslatedText": "ฉันต้องการมัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I don\u0027t need it.",
+          "TranslatedText": "ฉันไม่ต้องการมัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Riju...",
+          "TranslatedText": "Riju..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Hm hm hm...",
+          "TranslatedText": "Hm hm hm..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Halt! That is the treasure of the\nGerudo, the ",
+          "TranslatedText": "หยุด! นั่นคือสมบัติของ Gerudo "
+        },
+        {
+          "Line": 53,
+          "OriginalText": "Thunder Helm",
+          "TranslatedText": "Thunder Helm"
+        },
+        {
+          "Line": 56,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 63,
+          "OriginalText": "\n\nYou may be held in high esteem, but this\ndoes not give you the freedom to lay\nyour hands on the pride of our people.",
+          "TranslatedText": "\nคุณอาจได้รับการยกย่องอย่างสูง \nแต่ไม่ได้หมายถึงคุณมีอิสระในจับต้อง\nความภาคภูมิใจของประชาชนของเรา"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Becalm yourself, Buliara.",
+          "TranslatedText": "จงเป็นตัวของตัวเอง Buliara."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "I see... And yet, despite the great debt\nwe owe you,",
+          "TranslatedText": "I see... และแม้จะมีหนี้มากมายเราก็เป็นหนี้คุณ,\n"
+        },
+        {
+          "Line": 88,
+          "OriginalText": " I cannot just give such a\nprecious thing to you.\n",
+          "TranslatedText": " ฉันไม่สามารถให้สิ่งมีค่าเช่นนี้กับคุณได้\n"
+        },
+        {
+          "Line": 94,
+          "OriginalText": "...But you ARE up against the enemy of\nLady Urbosa...\n\n",
+          "TranslatedText": "...แต่คุณกำลังต่อต้านศัตรูของ\nLady Urbosa...\n"
+        },
+        {
+          "Line": 100,
+          "OriginalText": "And if you truly desire it, then perhaps\nI can lend it to you...",
+          "TranslatedText": "และถ้าคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "Well then, let\u0027s see how serious you are.\nThis helm is a cultural treasure. To earn\nit, you must gain the trust of our people.\nI want you to address their concerns and\nbring a resolute peace to our town.",
+          "TranslatedText": "ถ้าอย่างนั้นเรามาดูกันว่าคุณจริงจังแค่ไหน\nhelmนี้ เป็นสมบัติทางวัฒนธรรม คุณต้องได้รับ\nความไว้วางใจจากบุคลากรของเรา\nฉันต้องการให้คุณจัดการกับข้อกังวล\nของพวกเขา และนำสันติสุขมาสู่เมืองของเรา"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "This ",
+          "TranslatedText": "This "
+        },
+        {
+          "Line": 130,
+          "OriginalText": "Thunder Helm ",
+          "TranslatedText": "Thunder Helm "
+        },
+        {
+          "Line": 133,
+          "OriginalText": "is our cultural\ntreasure...\n\nIf you want to lay hands on it, you must\nshow us you are serious and come back.",
+          "TranslatedText": "คือสมบัติทางวัฒนธรรมของเรา ...\nหากคุณต้องการจับต้อง ต้องแสดงให้เราเห็นว่า\nคุณจริงจังและกลับมา"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 142,
+          "OriginalText": "When I wore the ",
+          "TranslatedText": "เมื่อฉันสวม "
+        },
+        {
+          "Line": 146,
+          "OriginalText": "Thunder Helm ",
+          "TranslatedText": "Thunder Helm "
+        },
+        {
+          "Line": 149,
+          "OriginalText": "and\nfought along your side, I thought I heard\na name called out on the wind.",
+          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยินชื่อ\nเรียกตามสายลมมา."
+        },
+        {
+          "Line": 153,
+          "OriginalText": " Riju...",
+          "TranslatedText": " Riju..."
+        },
+        {
+          "Line": 157,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 163,
+          "OriginalText": "Heh... I hadn\u0027t been called by that name\nin a while. ",
+          "TranslatedText": "เฮ้ ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้มานานแล้ว. \n"
+        },
+        {
+          "Line": 169,
+          "OriginalText": "That strong, warm voice...\nIt must have belonged to Urbosa...",
+          "TranslatedText": "น้ำเสียงหนักแน่น อบอุ่น ...\nมันต้องเป็นของ Urbosa..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 186,
+          "OriginalText": "I have heard of your recent actions.\nYou have returned smiles to the faces of\nmy people...\nOn behalf of all Gerudo, I must offer you\nmy heartfelt thanks.\n\nSarqso.",
+          "TranslatedText": "ฉันได้ยินการกระทำล่าสุดของคุณ\nคุณคืนรอยยิ้มให้กับคนของฉัน ...\nในนามของ Gerudo ทั้งหมด\nฉันต้องขอขอบคุณจากใจจริง.\nขอบคุณ."
+        },
+        {
+          "Line": 190,
+          "OriginalText": "\n\n\nYou are, from this moment on, a true\nfriend of the Gerudo!\n\nAnd if it can help a true friend in need,\nwe will gladly lend you this sacred\ntreasure.",
+          "TranslatedText": "\nนับ แต่นี้เป็นต้นไปเพื่อนแท้ของ Gerudo!\nและหากสามารถช่วยเพื่อนแท้ที่ต้องการ\nความช่วยเหลือได้ เรายินดีจะให้\nสมบัติอันศักดิ์สิทธิ์นี้แก่คุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk07",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "I know that you, more than any other,\nwill be able to use this ",
+          "TranslatedText": "ฉันรู้ว่าคุณมากกว่าคนอื่น ๆ \nจะสามารถใช้สิ่งนี้ได้ "
+        },
+        {
+          "Line": 203,
+          "OriginalText": "Thunder Helm ",
+          "TranslatedText": "Thunder Helm "
+        },
+        {
+          "Line": 206,
+          "OriginalText": "to\nits fullest potential...\nI believe you can unlock the power of\n",
+          "TranslatedText": "\nอย่างเต็มศักยภาพ ...\nฉันเชื่อว่าคุณสามารถปลดล็อกพลังของ\n"
+        },
+        {
+          "Line": 210,
+          "OriginalText": "Urbosa",
+          "TranslatedText": "Urbosa"
+        },
+        {
+          "Line": 214,
+          "OriginalText": " that lies within.",
+          "TranslatedText": " ที่อยู่ภายใน."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "We already know that you are powerful.\nBut you can\u0027t solve all of my people\u0027s\nproblems with power alone.",
+          "TranslatedText": "เรารู้แล้วว่าคุณมีพลัง\nแต่คุณไม่สามารถแก้ปัญหาทั้งหมด\nของคนของฉัน ด้วยอำนาจเพียงอย่างเดียว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 235,
+          "OriginalText": "Then come no closer!",
+          "TranslatedText": "ถ้าอย่างนั้นก็อย่าเข้าใกล้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 247,
+          "OriginalText": "You...desire this helm?",
+          "TranslatedText": "คุณ ... ปรารถนา helm?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "You want this ",
+          "TranslatedText": "คุณต้องการสิ่งนี้ "
+        },
+        {
+          "Line": 268,
+          "OriginalText": "Thunder Helm ",
+          "TranslatedText": "Thunder Helm "
+        },
+        {
+          "Line": 271,
+          "OriginalText": "that badly?\nI bet you do. This special helm still holds\nsome of Urbosa\u0027s power.\nBut no matter how much we may be\nindebted to you, I can\u0027t just give it away.\n\n",
+          "TranslatedText": "ไม่ดี?\nฉันเดิมพันที่คุณทำ helmพิเศษนี้\nยังคงมีพลังบางอย่างของUrbosa\nแต่ไม่ว่าเราจะเป็นหนี้คุณมากแค่ไหน\nฉันก็ไม่สามารถให้มันไปได้\n"
+        },
+        {
+          "Line": 277,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 281,
+          "OriginalText": "And yet,",
+          "TranslatedText": "และยัง,\n"
+        },
+        {
+          "Line": 285,
+          "OriginalText": " you are setting off to carry\nthe fight to the enemy of Urbosa...\n\n",
+          "TranslatedText": " คุณกำลังออกเดินทางเพื่อต่อสู้กับศัตรูของ Urbosa...\n"
+        },
+        {
+          "Line": 291,
+          "OriginalText": "So if you truly desire it, then perhaps I\ncan lend it to you...",
+          "TranslatedText": "ดังนั้นหากคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "This ",
+          "TranslatedText": "Thunder Helm "
+        },
+        {
+          "Line": 312,
+          "OriginalText": "Thunder Helm",
+          "TranslatedText": "นี้"
+        },
+        {
+          "Line": 315,
+          "OriginalText": " still holds some of\nUrbosa\u0027s power.\n\nIf you want to wield that power, then you\nmust address the concerns of my people\nand bring a resolute peace to our town.\nThen you will be acknowledged as a\nfriend of the Gerudo, and only then will I\nlend the helm to you.",
+          "TranslatedText": " ยังคงมีอำนาจบางส่วนของ Urbosa\nหากคุณต้องการใช้พลังนั้น\nคุณต้องจัดการกับความกังวลของคนของฉัน\nและนำความสงบสุขมาสู่เมืองของเรา\nจากนั้นคุณจะได้รับการยอมรับว่าเป็นเพื่อนของ\nGerudo และจากนั้นฉันจะยืมhelmให้คุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 324,
+          "OriginalText": "Such insolence! Even deeds as\nvalorous as yours do not earn you the\nright to speak so to the chief!",
+          "TranslatedText": "อวดดี! แม้แต่การกระทำ\nที่กล้าหาญของคุณ ก็ไม่ทำให้คุณมีสิทธิ์\nที่จะพูดกับหัวหน้าได้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 336,
+          "OriginalText": "Hm hm hm...",
+          "TranslatedText": "Hm hm hm..."
+        },
+        {
+          "Line": 340,
+          "OriginalText": "\n\n\nLet it go, Buliara.\n\n\nBeing called by my name every once in a \nwhile isn\u0027t so bad.",
+          "TranslatedText": "\nปล่อยมันไป Buliara\nการถูกเรียกด้วยชื่อฉันทุกครั้ง ก็ไม่เลวนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace.",
+          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเรา"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk17",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "Within those ",
+          "TranslatedText": "ภายใน "
+        },
+        {
+          "Line": 362,
+          "OriginalText": "treasure chests ",
+          "TranslatedText": "หีบสมบัตินั้น "
+        },
+        {
+          "Line": 365,
+          "OriginalText": "are\nprecious armaments once used by\nLady Urbosa herself.",
+          "TranslatedText": "เป็นอาวุธยุทโธปกรณ์ล้ำค่าที่ Lady Urbosa เคยใช้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk18",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "They may pale in comparison to the\n",
+          "TranslatedText": "พวกเขาอาจซีดเมื่อเทียบกับ\n"
+        },
+        {
+          "Line": 378,
+          "OriginalText": "Thunder Helm",
+          "TranslatedText": "Thunder Helm"
+        },
+        {
+          "Line": 381,
+          "OriginalText": ", but they are very\nvaluable and not easy to come by.\nSince you were a friend to Lady Urbosa,\nit would be best for you to have them.\n\nDo not hesitate\u2014take them in\nyour hands.",
+          "TranslatedText": ", \nแต่มันมีค่ามากและไม่ใช่เรื่องง่ายที่จะได้มา\nเนื่องจากคุณเป็นเพื่อนกับ Lady Urbosa \nจึงเป็นการดีที่สุดสำหรับคุณที่จะมีมัน\nอย่าลังเลที่จะจับมันไว้ในมือคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk19",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace and the\n",
+          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเราและ\n"
+        },
+        {
+          "Line": 394,
+          "OriginalText": "Thunder Helm",
+          "TranslatedText": "Thunder Helm"
+        },
+        {
+          "Line": 397,
+          "OriginalText": " that rests here.",
+          "TranslatedText": " ที่อยู่ที่นี่"
+        }
+      ]
+    }
+  ]
+}

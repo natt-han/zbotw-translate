@@ -1,0 +1,650 @@
+{
+  "FileName": "Npc_Zora031",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I don\u0027t remember.",
+          "TranslatedText": "จำไม่ได้"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "That sounds familiar...",
+          "TranslatedText": "ฟังดูคุ้นๆ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "\u0022Again\u0022?",
+          "TranslatedText": "\u0022อีกครั้ง\u0022?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Mipha?",
+          "TranslatedText": "Mipha?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Trello?",
+          "TranslatedText": "Trello?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Throne room?",
+          "TranslatedText": "ห้องบัลลังค์?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Hm?",
+          "TranslatedText": "หืม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "Good morning.",
+          "TranslatedText": "อรุณสวัสดิ์"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 54,
+          "OriginalText": "Good day.",
+          "TranslatedText": "สวัสดี"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Good evening.",
+          "TranslatedText": "สวัสดีตอนเย็น"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Nothing to report, ",
+          "TranslatedText": "ไม่มีเรื่องรายงาน "
+        },
+        {
+          "Line": 76,
+          "OriginalText": "Master Link.",
+          "TranslatedText": "Master Link."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "It\u0027s me! ",
+          "TranslatedText": "นี่ฉันเอง! "
+        },
+        {
+          "Line": 89,
+          "OriginalText": "Rivan!\n\n\n",
+          "TranslatedText": "Rivan!\n"
+        },
+        {
+          "Line": 95,
+          "OriginalText": "We used to swim together when I was\nbut a child...",
+          "TranslatedText": "เราเคยว่ายน้ำด้วยกันตอนที่เรายังเป็นเด็ก..."
+        },
+        {
+          "Line": 99,
+          "OriginalText": " Remember?",
+          "TranslatedText": " จำได้มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Well, it has been ",
+          "TranslatedText": "คือ ตั้งแต่ตอนนั้นมันก็ผ่านมา "
+        },
+        {
+          "Line": 120,
+          "OriginalText": "100 years",
+          "TranslatedText": "100 ปี"
+        },
+        {
+          "Line": 123,
+          "OriginalText": " since then.",
+          "TranslatedText": " แล้วน่ะนะ "
+        },
+        {
+          "Line": 127,
+          "OriginalText": "\nAnd now I\u0027m over 130 years old...\n\nI must say, you\u0027ve aged well for a Hylian.",
+          "TranslatedText": "\nตอนนี้ฉันอายุเกิน 130 แล้ว...\nต้องขอบอกว่าสำหรับ Hylian แล้วนายดูไม่แก่เลยนะ"
+        },
+        {
+          "Line": 131,
+          "OriginalText": "\nUnbelievably well!\n\nNow that I think about it\u2014",
+          "TranslatedText": "\nอย่างไม่น่าเชื่อเลย!\nพอมาลองคิดดูแล้ว\u2014"
+        },
+        {
+          "Line": 135,
+          "OriginalText": "shouldn\u0027t you\nbe dead?",
+          "TranslatedText": "นายควรจะตายแล้วรึเปล่า?\n"
+        },
+        {
+          "Line": 139,
+          "OriginalText": " Sorry. That may be too\npersonal a question.",
+          "TranslatedText": " ขอโทษนะ คำถามนั่นอาจจะส่วนตัวเกินไปหน่อย"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 148,
+          "OriginalText": "The leader of the pack, Bazz...\nThe heroine, Gaddison...\n\nAnd my father, Trello... They have all\naged quite a bit, I\u0027m afraid.",
+          "TranslatedText": "หัวหน้าของกลุ่ม Bazz...\nผู้กล้าหญิง Gaddison...\nและพ่อของฉัน Trello... พวกเขาต่างก็อายุ\nมากขึ้นกันพอสมควร "
+        },
+        {
+          "Line": 152,
+          "OriginalText": " But they\nare all doing well.\n",
+          "TranslatedText": " แต่พวกเขา\nก็สบายกันดี\n"
+        },
+        {
+          "Line": 158,
+          "OriginalText": "Oh... ",
+          "TranslatedText": "Oh... "
+        },
+        {
+          "Line": 162,
+          "OriginalText": "But, Master Link, ",
+          "TranslatedText": "แต่ว่านะ Master Link "
+        },
+        {
+          "Line": 166,
+          "OriginalText": "you probably\nshouldn\u0027t speak to the elderly.\n\n",
+          "TranslatedText": "นายอาจไม่ควร\nเข้าไปคุยกับพวกผู้อาวุโส\n"
+        },
+        {
+          "Line": 172,
+          "OriginalText": "Oops! ",
+          "TranslatedText": "โอ๊ะ! "
+        },
+        {
+          "Line": 176,
+          "OriginalText": "Sorry for keeping you too long.\n\n\nYou have business in the ",
+          "TranslatedText": "ขอโทษที่ชวนคุยซะนานนะ\nนายมีธุระใน "
+        },
+        {
+          "Line": 180,
+          "OriginalText": "throne room",
+          "TranslatedText": "ห้องบัลลังค์"
+        },
+        {
+          "Line": 183,
+          "OriginalText": ",\nright?",
+          "TranslatedText": "ใช่มั้ย?\n"
+        },
+        {
+          "Line": 187,
+          "OriginalText": " Please proceed there at your\nearliest convenience.",
+          "TranslatedText": " ถ้าพร้อมก็เข้าไปได้เลยนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "By the way... ",
+          "TranslatedText": "อีกอย่างนะ... "
+        },
+        {
+          "Line": 200,
+          "OriginalText": "Master Link, are you going\nto fight ",
+          "TranslatedText": "Master Link นายจะไป\nสู้กับ "
+        },
+        {
+          "Line": 204,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 207,
+          "OriginalText": " again?",
+          "TranslatedText": " อีกครั้งใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "I mean...",
+          "TranslatedText": "ฉันหมายถึง..."
+        },
+        {
+          "Line": 223,
+          "OriginalText": " Master Link...\n\n\nYou and Lady Mipha fought ",
+          "TranslatedText": " Master Link...\nนายกับ Lady Mipha สู้กับ "
+        },
+        {
+          "Line": 227,
+          "OriginalText": "Calamity\nGanon",
+          "TranslatedText": "Calamity\nGanon"
+        },
+        {
+          "Line": 230,
+          "OriginalText": " 100 years ago. ",
+          "TranslatedText": " เมื่อ 100 ปีก่อน "
+        },
+        {
+          "Line": 234,
+          "OriginalText": "Don\u0027t you recall?\n\n",
+          "TranslatedText": "นายจำไม่ได้เหรอ?\n"
+        },
+        {
+          "Line": 240,
+          "OriginalText": "Master Link... ",
+          "TranslatedText": "Master Link... "
+        },
+        {
+          "Line": 244,
+          "OriginalText": "You really don\u0027t remember\nanything, do you?\n\n",
+          "TranslatedText": "นายจำอะไรไม่ได้เลยจริงๆ สินะ?\n"
+        },
+        {
+          "Line": 250,
+          "OriginalText": "OK!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 254,
+          "OriginalText": " In that case, ask me anything \nyou want to!",
+          "TranslatedText": " ถ้าอย่างงั้น ถามฉันเรื่องที่อยากรู้ได้เลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "Did you want to ask me something?",
+          "TranslatedText": "มีอะไรอยากถามงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "Lady Mipha is the princess of the Zora",
+          "TranslatedText": "Lady Mipha คือเจ้าหญิงของ Zora"
+        },
+        {
+          "Line": 296,
+          "OriginalText": "\nand Prince Sidon\u0027s elder sister.\n\nShe is also the Zora Champion.",
+          "TranslatedText": "\nและเป็นพี่สาวของเจ้าชาย Sidon \nเธอยังเป็น Zora Champion อีกด้วย"
+        },
+        {
+          "Line": 300,
+          "OriginalText": "\nThat means she was able to command\nthe ",
+          "TranslatedText": "\nนั่นหมายถึงว่าเธอสามารถควบคุม \n"
+        },
+        {
+          "Line": 304,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": "Divine Beast Vah Ruta"
+        },
+        {
+          "Line": 307,
+          "OriginalText": ".\n",
+          "TranslatedText": " ได้\n"
+        },
+        {
+          "Line": 313,
+          "OriginalText": "But unfortunately...Lady Mipha was...",
+          "TranslatedText": "แต่โชคร้าย...Lady Mipha ได้..."
+        },
+        {
+          "Line": 317,
+          "OriginalText": "\nWell, 100 years ago...",
+          "TranslatedText": "\nเมื่อ 100 ปีก่อน..."
+        },
+        {
+          "Line": 321,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 324,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "I should not be the one telling you this.",
+          "TranslatedText": "ฉันไม่ควรเป็นคนเล่าเรื่องนี้"
+        },
+        {
+          "Line": 337,
+          "OriginalText": "\nSorry. Please ask King Dorephan if you\nwish to know more.",
+          "TranslatedText": "\nขอโทษนะ ไปถาม King Dorephan เถอะ\nถ้าอยากรู้เรื่องมากกว่านี้"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Trello is my father.",
+          "TranslatedText": "Trello เป็นพ่อของฉัน"
+        },
+        {
+          "Line": 350,
+          "OriginalText": "\n\n\nSince retiring, he has been in charge\nof the Champion Festival. It is he who\nnow bears the ",
+          "TranslatedText": "\nตั้งแต่เกษียณ เขาก็มีหน้าที่จัดการเรื่อง\nChampion Festival เป็นเขาเองที่คอยดูแล\n"
+        },
+        {
+          "Line": 354,
+          "OriginalText": "Ceremonial Trident",
+          "TranslatedText": "Ceremonial Trident"
+        },
+        {
+          "Line": 357,
+          "OriginalText": ".\nBut, Master Link...",
+          "TranslatedText": "\nแต่ว่านะ Master Link..."
+        },
+        {
+          "Line": 361,
+          "OriginalText": " You really should not\nspeak with any of the elderly here.\nIncluding my father.\nAs for me... Well...",
+          "TranslatedText": " นายไม่ควร\nคุยกับพวกผู้อาวุโสที่นี่เลยจริงๆ นะ\nรวมถึงพ่อฉันด้วย\nส่วนฉัน... คือว่า..."
+        },
+        {
+          "Line": 365,
+          "OriginalText": " I just do not believe\nyou are guilty of anything!",
+          "TranslatedText": " ฉันแค่ไม่คิดว่า\nมันเป็นความผิดของนายเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "The ",
+          "TranslatedText": ""
+        },
+        {
+          "Line": 378,
+          "OriginalText": "throne room",
+          "TranslatedText": "ห้องบัลลังค์"
+        },
+        {
+          "Line": 381,
+          "OriginalText": " is where King Dorephan\nand Prince Sidon can often be found.\n\nYou can use either staircase to go up.",
+          "TranslatedText": " คือที่ที่ King Dorephan\nและ Prince Sidon มักจะอยู่\nนายขึ้นบันไดด้านไหนไปก็ได้"
+        },
+        {
+          "Line": 385,
+          "OriginalText": "\nWhen you get to the second floor,\nthe throne room is up and to the back.",
+          "TranslatedText": "\nพอไถึงชั้นสองแล้ว ห้องบัลลัค์จะอยู่ที่ด้านหลัง"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 394,
+          "OriginalText": "Roger that!",
+          "TranslatedText": "รับทราบ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "The sky is clear for the first time in a bit!\n\n\nI would like to celebrate by taking my\ndaughter on a trip,",
+          "TranslatedText": "ท้องฟ้าสดใสเป็นครั้งแรกในรอบปลายปีเลย!\nฉันอยากจะฉลองโดยการพาลูกสาวไปเที่ยว\n"
+        },
+        {
+          "Line": 407,
+          "OriginalText": " but I cannot afford\nto leave my post...",
+          "TranslatedText": " แต่ฉันไม่อาจละทิ้งหน้าที่ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 416,
+          "OriginalText": "Oh! ",
+          "TranslatedText": "โอ้! "
+        },
+        {
+          "Line": 420,
+          "OriginalText": "Thank you for saving ",
+          "TranslatedText": "ขอบคุณที่ช่วย "
+        },
+        {
+          "Line": 424,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": "Zora\u0027s Domain"
+        },
+        {
+          "Line": 427,
+          "OriginalText": "!\n\n\nThe ",
+          "TranslatedText": " นะ!\n"
+        },
+        {
+          "Line": 431,
+          "OriginalText": "Divine Beast Vah Ruta ",
+          "TranslatedText": "Divine Beast Vah Ruta "
+        },
+        {
+          "Line": 434,
+          "OriginalText": "is your\nally now... ",
+          "TranslatedText": "กลายเป็น\nพวกของนายแล้ว... "
+        },
+        {
+          "Line": 438,
+          "OriginalText": "How incredible.\n\nKeep your spirits up, and use its power\nto banish ",
+          "TranslatedText": "สุดยอดไปเลย\nรักษากำลังใจไว้ และใช้พลังของมัน\nจัดการกับ "
+        },
+        {
+          "Line": 442,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 445,
+          "OriginalText": " from\n",
+          "TranslatedText": " จาก\n"
+        },
+        {
+          "Line": 449,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": "Hyrule Castle"
+        },
+        {
+          "Line": 452,
+          "OriginalText": "!",
+          "TranslatedText": " เลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 461,
+          "OriginalText": "Huh?",
+          "TranslatedText": "หือ?"
+        },
+        {
+          "Line": 465,
+          "OriginalText": " What is it?!",
+          "TranslatedText": " มีอะไรเหรอ?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 474,
+          "OriginalText": "No, I mean...",
+          "TranslatedText": "ฉันหมายถึง..."
+        },
+        {
+          "Line": 478,
+          "OriginalText": "Hylian Champion!\n\n\nCome back anytime!",
+          "TranslatedText": "Hylian Champion!\nเรายินดีต้อนรับเสมอ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 487,
+          "OriginalText": "Is there anything else you want to ask?",
+          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 506,
+          "OriginalText": "*AHEM* Father...",
+          "TranslatedText": "*AHEM* พ่อ..."
+        },
+        {
+          "Line": 510,
+          "OriginalText": " We are on guard duty\nright now.",
+          "TranslatedText": " เรากำลังปฏิบัติหน้าที่อยู่นะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 519,
+          "OriginalText": "Oh, right... ",
+          "TranslatedText": "อ้อ ใช่... "
+        },
+        {
+          "Line": 523,
+          "OriginalText": "Sorry.",
+          "TranslatedText": "ขอโทษนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 532,
+          "OriginalText": "So the Hylian that Prince Sidon brought\nhere...",
+          "TranslatedText": "งั้น Hylian ที่เจ้าชาย Sidon พามา...\n"
+        },
+        {
+          "Line": 536,
+          "OriginalText": " Don\u0027t tell me...",
+          "TranslatedText": " อย่าบอกนะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 548,
+          "OriginalText": "Master Link!",
+          "TranslatedText": "Master Link!"
+        },
+        {
+          "Line": 552,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n\n\n"
+        },
+        {
+          "Line": 558,
+          "OriginalText": "Is it truly you? The Hylian Champion?!",
+          "TranslatedText": "นายจริงๆ น่ะเหรอ? Hylian Champion?!"
+        }
+      ]
+    }
+  ]
+}

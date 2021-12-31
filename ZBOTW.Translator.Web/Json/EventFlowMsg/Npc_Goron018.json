@@ -1,0 +1,1610 @@
+{
+  "FileName": "Npc_Goron018",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "That\u0027s not what I\u2014",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027ll sell!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Aren\u0027t you hot?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Fireproof elixir?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Holy hotness...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "Sa\u0027oten!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 65,
+          "OriginalText": " Hmm... This is the first time\nI\u0027ve been hit on by someone in an\noutfit like that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 82,
+          "OriginalText": "It\u0027s about time for my break...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "Huh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 95,
+          "OriginalText": " Are you a Hylian vai?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "It\u0027s too hot...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "Ah, a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 117,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": "vai...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 129,
+          "OriginalText": "Sav\u0027otta. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "A bit early to flirt, isn\u0027t it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "Sav\u0027aaq.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 154,
+          "OriginalText": " Flirting in the middle of\nthe day, are we? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "Bold.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Sav\u0027saaba... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "Look at you, talking up a\nwoman in the middle of the night...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "See you later. Sav\u0027orq.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "Oh. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "That\u0027s too bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 226,
+          "OriginalText": "I\u0027m Ramella. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "As you can see, I\u0027m from the\nGerudo region.\n\nI came for the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "jewels ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "that are to be found\nin Goron City.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "By the way, do you happen to have\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": "10 diamonds",
+          "TranslatedText": null
+        },
+        {
+          "Line": 253,
+          "OriginalText": "?\n\nYou\u0027ll get 5,000 rupees if you sell them\nat a store...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 257,
+          "OriginalText": "or you can trade them to me\nfor ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "5,500 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 264,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 281,
+          "OriginalText": "By the way, do you have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 285,
+          "OriginalText": "10 rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "?\n\n\nYou\u0027ll get 2,100 rupees if you sell them\nat a store...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "or you can trade them to me\nfor ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": "2,300 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "By the way, do you have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 320,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 323,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 327,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 330,
+          "OriginalText": "?\n\n\nYou\u0027ll get 2,600 rupees if you sell them\nat a store...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "or you can trade them to me\nfor ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": "2,900 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 341,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "By the way, do you have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 362,
+          "OriginalText": "10 topazes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "?\n\n\nYou\u0027ll get 1,800 rupees for them at\na store...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": "or you can sell them to me\nfor ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "2,000 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 393,
+          "OriginalText": "Sav\u0027otta. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 397,
+          "OriginalText": "It\u0027s hot for so early in the day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 406,
+          "OriginalText": "Sav\u0027aaq. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 410,
+          "OriginalText": "The daytime sure is\nscorching here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 419,
+          "OriginalText": "Sav\u0027saaba. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 423,
+          "OriginalText": "Sure is hot for nighttime.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 432,
+          "OriginalText": "Sav\u0027orq.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": " See you later.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 445,
+          "OriginalText": "Sarqso. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 449,
+          "OriginalText": "It\u0027s a huge help.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 458,
+          "OriginalText": "Are you trying to pull a fast one on me?\nYou don\u0027t have enough to sell!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 468,
+          "OriginalText": "Well, I suppose this is good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 482,
+          "OriginalText": "If you still have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": " of those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "diamonds",
+          "TranslatedText": null
+        },
+        {
+          "Line": 496,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": "\nI\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 504,
+          "OriginalText": "5,500 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": ". Yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 529,
+          "OriginalText": "If you still have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 536,
+          "OriginalText": " of those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 540,
+          "OriginalText": "rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 543,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 552,
+          "OriginalText": "\nI\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 556,
+          "OriginalText": "2,300 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": ". Yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 581,
+          "OriginalText": "If you still have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 585,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": " of those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 595,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 599,
+          "OriginalText": "\nI\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 603,
+          "OriginalText": "2,900 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 606,
+          "OriginalText": ". Yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 628,
+          "OriginalText": "If you still have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 635,
+          "OriginalText": " of those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 639,
+          "OriginalText": "topazes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 646,
+          "OriginalText": "\nI\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 650,
+          "OriginalText": "2,000 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 653,
+          "OriginalText": ". Yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 670,
+          "OriginalText": "I really can\u0027t believe this heat...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 679,
+          "OriginalText": "*sigh*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 683,
+          "OriginalText": " Willpower alone",
+          "TranslatedText": null
+        },
+        {
+          "Line": 687,
+          "OriginalText": " is not going to\nsave me from this heat...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 696,
+          "OriginalText": "Phew!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 700,
+          "OriginalText": " This heat is something else.\nWay more intense than in the\nGerudo",
+          "TranslatedText": null
+        },
+        {
+          "Line": 704,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 707,
+          "OriginalText": "region.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 716,
+          "OriginalText": "Pheeeew... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 720,
+          "OriginalText": "Trying to gather ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 724,
+          "OriginalText": "jewels",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": " in\nthis heat will be my undoing...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 736,
+          "OriginalText": "The jewels from Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 740,
+          "OriginalText": " are for the\nvai in Gerudo Town, I\u0027m afraid.\n\nI don\u0027t intend to let a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 744,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 747,
+          "OriginalText": "have them.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": "\nMy apologies.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 760,
+          "OriginalText": "What is it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 764,
+          "OriginalText": " Have you never seen\na real Gerudo before?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 781,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 785,
+          "OriginalText": " Well, I slathered ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 789,
+          "OriginalText": "fireproof elixir ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 792,
+          "OriginalText": "on\nmy skin, so I\u0027ll be fine.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 801,
+          "OriginalText": "Too hot to speak, are we?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 805,
+          "OriginalText": " Hmph.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 811,
+          "OriginalText": "Try applying some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 815,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 818,
+          "OriginalText": ".\nYou\u0027ll feel much better.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 827,
+          "OriginalText": "The eruptions on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 831,
+          "OriginalText": "Death Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 834,
+          "OriginalText": "have\nfinally come to a stop.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 838,
+          "OriginalText": " As a result,\nwe\u0027ve started restocking ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 842,
+          "OriginalText": "jewels",
+          "TranslatedText": null
+        },
+        {
+          "Line": 845,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 857,
+          "OriginalText": "Work... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 861,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 879,
+          "OriginalText": "Jewels",
+          "TranslatedText": null
+        },
+        {
+          "Line": 882,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 886,
+          "OriginalText": " Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 901,
+          "OriginalText": "Need to gather... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 905,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 920,
+          "OriginalText": "Got to get a good price... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 924,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 936,
+          "OriginalText": "Here, take this.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 945,
+          "OriginalText": "This is business talk, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 949,
+          "OriginalText": "\nI want to procure some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 956,
+          "OriginalText": "diamonds",
+          "TranslatedText": null
+        },
+        {
+          "Line": 960,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 963,
+          "OriginalText": "today.\nDo you happen to have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 970,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 973,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 977,
+          "OriginalText": "diamonds",
+          "TranslatedText": null
+        },
+        {
+          "Line": 980,
+          "OriginalText": "?\nIf so, I\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 984,
+          "OriginalText": "5,500 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 987,
+          "OriginalText": ".\nThat\u0027s more than the shop will pay!\nYeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 1004,
+          "OriginalText": "This is business talk, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1008,
+          "OriginalText": "\nI want to procure some\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1015,
+          "OriginalText": "rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1019,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1022,
+          "OriginalText": "today. \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1028,
+          "OriginalText": "Do you happen to have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1032,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1035,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1039,
+          "OriginalText": "rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1042,
+          "OriginalText": "?\nIf so, I\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1046,
+          "OriginalText": "2,300 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1049,
+          "OriginalText": ".\n\nThat\u0027s more than the shop will pay!\nYeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 1066,
+          "OriginalText": "This is business talk, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1070,
+          "OriginalText": "\nI want to procure some\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1077,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1081,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1084,
+          "OriginalText": "today.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1090,
+          "OriginalText": "Do you happen to have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1094,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1097,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1101,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1104,
+          "OriginalText": "?\nIf so, I\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1108,
+          "OriginalText": "2,900 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1111,
+          "OriginalText": ".\nYeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk45",
+      "TextList": [
+        {
+          "Line": 1128,
+          "OriginalText": "This is business talk, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1132,
+          "OriginalText": "\nI want to procure some\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1139,
+          "OriginalText": "topazes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1143,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1146,
+          "OriginalText": "today.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1152,
+          "OriginalText": "Do you happen to have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1159,
+          "OriginalText": "10",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1162,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1166,
+          "OriginalText": "topazes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1169,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1173,
+          "OriginalText": "\nIf so, I\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1177,
+          "OriginalText": "2,000 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1180,
+          "OriginalText": ".\n\nThat\u0027s more than the shop will pay!\nYeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk46",
+      "TextList": [
+        {
+          "Line": 1197,
+          "OriginalText": "If you want to buy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1201,
+          "OriginalText": "fireproof elixirs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1204,
+          "OriginalText": ",\na little Goron brat is selling them.\nI suggest you buy one and use it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk47",
+      "TextList": [
+        {
+          "Line": 1213,
+          "OriginalText": "There\u0027s no rest in the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1217,
+          "OriginalText": "jewel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1220,
+          "OriginalText": "business,\nso I need to apply this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1224,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1227,
+          "OriginalText": "\nand work as hard as I can...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk48",
+      "TextList": [
+        {
+          "Line": 1244,
+          "OriginalText": "It\u0027s a strange concoction that saves you\nfrom the heat for a while.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk49",
+      "TextList": [
+        {
+          "Line": 1253,
+          "OriginalText": "Oh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1257,
+          "OriginalText": "That\u0027s too bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk51",
+      "TextList": [
+        {
+          "Line": 1266,
+          "OriginalText": "I\u0027d pay anything ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1270,
+          "OriginalText": "to save myself from\nthis wretched heat...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk54",
+      "TextList": [
+        {
+          "Line": 1279,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1283,
+          "OriginalText": " Do you have some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1290,
+          "OriginalText": "amber",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1294,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1297,
+          "OriginalText": "too?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1301,
+          "OriginalText": "\nI need a whole lot of it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk55",
+      "TextList": [
+        {
+          "Line": 1310,
+          "OriginalText": "In any case, do you have some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1314,
+          "OriginalText": "amber",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1317,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1321,
+          "OriginalText": "\nI need lots of it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk56",
+      "TextList": [
+        {
+          "Line": 1330,
+          "OriginalText": "Bring me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1334,
+          "OriginalText": "10 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1337,
+          "OriginalText": "of them, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1341,
+          "OriginalText": "and I\u0027ll buy them\nfor more than a shop would pay!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk57",
+      "TextList": [
+        {
+          "Line": 1350,
+          "OriginalText": "In any case, do you have ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1354,
+          "OriginalText": "10 pieces of\namber",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1357,
+          "OriginalText": "? If so, will you sell them to me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk59",
+      "TextList": [
+        {
+          "Line": 1366,
+          "OriginalText": "Yes, 10 pieces of amber... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1370,
+          "OriginalText": "Sell them\nto the shop, and you\u0027ll get 300 rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1374,
+          "OriginalText": "\nOr sell them to me for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1378,
+          "OriginalText": "500 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1381,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk60",
+      "TextList": [
+        {
+          "Line": 1398,
+          "OriginalText": "Tell me if you change your mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk61",
+      "TextList": [
+        {
+          "Line": 1407,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1411,
+          "OriginalText": " Here you go: ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1415,
+          "OriginalText": "500 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1418,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk62",
+      "TextList": [
+        {
+          "Line": 1427,
+          "OriginalText": "I need to procure other ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1431,
+          "OriginalText": "jewels ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1434,
+          "OriginalText": "too,\nso keep bringing me what you find.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1438,
+          "OriginalText": "\nBring me ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1442,
+          "OriginalText": "10 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1445,
+          "OriginalText": "at a time, got it?\nAs for what kinds of jewels I want\nto buy, well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1449,
+          "OriginalText": " That\u0027s likely to change\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1453,
+          "OriginalText": "every once in a while",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1456,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk63",
+      "TextList": [
+        {
+          "Line": 1465,
+          "OriginalText": "These days, those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1469,
+          "OriginalText": "magma bombs ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1472,
+          "OriginalText": "are\ncausing trouble and preventing me from\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1476,
+          "OriginalText": "working",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1479,
+          "OriginalText": ". I\u0027m not too happy about it.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

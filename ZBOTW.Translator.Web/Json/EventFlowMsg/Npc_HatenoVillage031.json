@@ -1,0 +1,930 @@
+{
+  "FileName": "Npc_HatenoVillage031",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Why?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I\u0027ll buy this place!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "That sounds tough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Why?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Why?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Oh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Uh...come again?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Good.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Yeah.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "What?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "Transferred...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0015",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "That\u0027s great!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0016",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Where will you go?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0017",
+      "TextList": [
+        {
+          "Line": 76,
+          "OriginalText": "That\u0027s pretty far.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0018",
+      "TextList": [
+        {
+          "Line": 80,
+          "OriginalText": "Good luck!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0019",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "Right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0021",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "I\u0027m Link.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0022",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "Son?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0023",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "That\u0027s too bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "Yo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 104,
+          "OriginalText": "Ho!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "Hmph!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Yah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near04",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Hahhhh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "Hey.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "Yeah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 161,
+          "OriginalText": "Hahhh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "...Hahhh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": ", huh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 221,
+          "OriginalText": "Farewell then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 230,
+          "OriginalText": "Oh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Hello.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "I\u0027m in the middle of moving here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": " \nCome talk when the work dies down.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "I\u0027m a carpenter for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": "Bolson Construction",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": "Name\u0027s Hudson.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 307,
+          "OriginalText": "I\u0027m knocking this place down.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "That\u0027s right. It\u0027s tough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 335,
+          "OriginalText": "\u0027Cause no one\u0027s living here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 352,
+          "OriginalText": "Can\u0027t help you. Ask the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": "boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 368,
+          "OriginalText": "The owner of this house took off.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 385,
+          "OriginalText": "Don\u0027t know.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 389,
+          "OriginalText": " Maybe skipped town without\npaying the bills?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 406,
+          "OriginalText": "Answered all your questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "Good.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 427,
+          "OriginalText": " A lot has happened since the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": "Great Calamity",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": " Tough to keep track of\nit all.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "For the first time since then, we\u0027re finally\ngetting back on our feet.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 472,
+          "OriginalText": "So best of luck to both of us.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "Yeah.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 498,
+          "OriginalText": "Taking a break.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "By the way...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": " Did you",
+          "TranslatedText": null
+        },
+        {
+          "Line": 515,
+          "OriginalText": " buy that house?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 532,
+          "OriginalText": "Impressive. You\u0027re just a pup.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 549,
+          "OriginalText": "Don\u0027t worry about it.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 553,
+          "OriginalText": " Anyway...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 570,
+          "OriginalText": "Looks like I\u0027ve gotta head out and leave\nthis place soon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 587,
+          "OriginalText": "I\u0027ve been transferred.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 604,
+          "OriginalText": "Mighta heard, but Bolson Construction\nis planning to expand big-time.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 621,
+          "OriginalText": "Yeah, big expansion.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 638,
+          "OriginalText": "Zora\u0027s Domain is north of here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": "\nWe\u0027re going north of that, though.\nAn area called the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 646,
+          "OriginalText": "Akkala region",
+          "TranslatedText": null
+        },
+        {
+          "Line": 649,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 666,
+          "OriginalText": "Yeah...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 670,
+          "OriginalText": "well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 687,
+          "OriginalText": "OK then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 696,
+          "OriginalText": "By the way...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 713,
+          "OriginalText": "Are you gonna buy that house?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 730,
+          "OriginalText": "You\u0027re pretty studly, aren\u0027t you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 747,
+          "OriginalText": "You\u0027d be a great hire for our company...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": "\nWhat\u0027s your name?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 768,
+          "OriginalText": "Oh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": "Well, too bad. Can\u0027t hire you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 789,
+          "OriginalText": "\u0027Cause your name doesn\u0027t end in \u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 793,
+          "OriginalText": "son",
+          "TranslatedText": null
+        },
+        {
+          "Line": 796,
+          "OriginalText": ".\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 808,
+          "OriginalText": "The boss, Bolson, has a strict hiring\nrule: ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 812,
+          "OriginalText": "need a name ending in \u0022son",
+          "TranslatedText": null
+        },
+        {
+          "Line": 815,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 819,
+          "OriginalText": "\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 822,
+          "OriginalText": "\nNo exceptions.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk41",
+      "TextList": [
+        {
+          "Line": 839,
+          "OriginalText": "\u0022Builds team unity,\u0022 he says.\n\n\nAnyway...\n\n\nYou got some stuff to do, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 843,
+          "OriginalText": "\nShould get going, then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 852,
+          "OriginalText": "Well... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 856,
+          "OriginalText": "No time like the present, right?\nI should be getting on my way...\n\nIf you\u0027d like, you should come to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 860,
+          "OriginalText": "Akkala region",
+          "TranslatedText": null
+        },
+        {
+          "Line": 866,
+          "OriginalText": " and say hello.\n\nWell... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 870,
+          "OriginalText": "Take care of yourself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 879,
+          "OriginalText": "I\u0027m off to my usual night spot.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 888,
+          "OriginalText": "I\u0027m on lookout.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk45",
+      "TextList": [
+        {
+          "Line": 897,
+          "OriginalText": "How goes it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 901,
+          "OriginalText": " How\u0027s the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 905,
+          "OriginalText": "boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 908,
+          "OriginalText": "?\nDoing well, I hope?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk46",
+      "TextList": [
+        {
+          "Line": 917,
+          "OriginalText": "Pretty sure that belongs to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 921,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 924,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 928,
+          "OriginalText": "\nBetter hurry up and take it back there.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "FileName": "Npc_King_Vagrant006",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "How did you...",
+          "TranslatedText": "คุณเป็นอย่างไร..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Did you...fly here?",
+          "TranslatedText": "คุณ ... บินมาที่นี่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "No, I remember.",
+          "TranslatedText": "ไม่, ฉันยังจำได้"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Yep, I forgot...",
+          "TranslatedText": "ใช่, ฉันลืม..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "How do you know?",
+          "TranslatedText": "คุณรู้ได้อย่างไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I got it.",
+          "TranslatedText": "ฉันเข้าใจแล้ว."
+        }
+      ]
+    },
+    {
+      "EntryName": "1002",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Help me out here.",
+          "TranslatedText": "ช่วยฉันที่นี่."
+        }
+      ]
+    },
+    {
+      "EntryName": "1003",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Bye.",
+          "TranslatedText": "บาย."
+        }
+      ]
+    },
+    {
+      "EntryName": "1004",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Yes!",
+          "TranslatedText": "ใช่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear1_00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Your confidence is to be admired...\nbut you\u0027ve only cleared one shrine.",
+          "TranslatedText": "ความมั่นใจของคุณเป็นที่ชื่นชม ...\nแต่คุณได้เคลียร์ศาลเจ้าเพียงแห่งเดียว."
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear2_00",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "A spirited answer!",
+          "TranslatedText": "คำตอบที่มีชีวิตชีวา!"
+        },
+        {
+          "Line": 70,
+          "OriginalText": " Yes, it appears you\nhave cleared two shrines now.",
+          "TranslatedText": " ใช่, ดูเหมือนว่า\nคุณได้เคลียร์ศาลเจ้าสองแห่งแล้ว."
+        }
+      ]
+    },
+    {
+      "EntryName": "Clear3_00",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "You have cleared three shrines now.\nGood work.\n\nHowever...",
+          "TranslatedText": "คุณเคลียร์ศาลเจ้าสามแห่งแล้ว\nทำได้ดีนี่.\nอย่างไรก็ตาม..."
+        },
+        {
+          "Line": 91,
+          "OriginalText": "there is still one more that\neludes you, correct?",
+          "TranslatedText": "ยังมีอีกหนึ่งแห่ง\nที่ซ่อนจาก คุณถูกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk00",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "I\u0027m surprised it took you so long to\ncatch up with an old man like me!",
+          "TranslatedText": "ฉันประหลาดใจที่คุณใช้เวลานานมาก\nในการติดต่อกับชายชราอย่างฉัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk01",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        },
+        {
+          "Line": 134,
+          "OriginalText": " Leave an old man his secrets.",
+          "TranslatedText": " ทิ้งความลับของชายชราไว้."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk02",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "Oho ho! So you think an old man like me\nneeds to fly to stay ahead of you?\n\n",
+          "TranslatedText": "โอโฮโฮ! คุณคิดว่าคนแก่อย่างฉัน\nต้องบินไปอยู่ข้างหน้าคุณรึ?\n"
+        },
+        {
+          "Line": 152,
+          "OriginalText": "I still have a few tricks left in me.",
+          "TranslatedText": "ฉันยังมีเทคนิคเล็กๆ น้อยๆ อีก."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk03",
+      "TextList": [
+        {
+          "Line": 164,
+          "OriginalText": "Well, you certainly took your time.\nDid you forget how to travel instantly?",
+          "TranslatedText": "คุณใช้เวลาของคุณอย่างแน่นอน\nคุณลืมวิธีเดินทางไปทันทีหรือไม่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk05",
+      "TextList": [
+        {
+          "Line": 176,
+          "OriginalText": "Open the ",
+          "TranslatedText": "เปิด "
+        },
+        {
+          "Line": 180,
+          "OriginalText": "map ",
+          "TranslatedText": "แผนที่ "
+        },
+        {
+          "Line": 183,
+          "OriginalText": "on your ",
+          "TranslatedText": "บน\n"
+        },
+        {
+          "Line": 187,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 190,
+          "OriginalText": ",\nand select one of the blue tower or\nshrine icons.\nIf you\u0027ve registered that location to the\n",
+          "TranslatedText": ",\nและเลือกหนึ่งในไอคอนหอคอยสีฟ้า\nหรือศาลเจ้า.\nหากคุณได้ลงทะเบียนสถานที่นั้นไว้กับ\n"
+        },
+        {
+          "Line": 194,
+          "OriginalText": "map",
+          "TranslatedText": "แผนที่"
+        },
+        {
+          "Line": 197,
+          "OriginalText": ", you can travel there instantly.",
+          "TranslatedText": ", คุณสามารถเดินทางไปที่นั่นได้ทันที."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk06",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "I was observing you the entire time you\nwere searching for the shrines...",
+          "TranslatedText": "ฉันเฝ้าสังเกตคุณ\nตลอดเวลาที่คุณค้นหาศาลเจ้า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk07",
+      "TextList": [
+        {
+          "Line": 210,
+          "OriginalText": "It\u0027s best to search for things from a\n",
+          "TranslatedText": "ควรค้นหาสิ่งต่างๆจาก\n"
+        },
+        {
+          "Line": 214,
+          "OriginalText": "high vantage point",
+          "TranslatedText": "จุดชมวิวสูง"
+        },
+        {
+          "Line": 217,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 221,
+          "OriginalText": " I doubt you need\na reminder of that, though.\nTaking in the view here can teach you\nmuch about shrine locations...",
+          "TranslatedText": " \nฉันสงสัยว่าคุณต้องการการเตือนความจำ\nแม้ว่า การได้ชมที่นี่สามารถสอนคุณได้มาก\nเกี่ยวกับสถานที่ตั้งศาลเจ้า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk08",
+      "TextList": [
+        {
+          "Line": 230,
+          "OriginalText": "Now then...\n\n\n",
+          "TranslatedText": "ตอนนี้แล้ว...\n"
+        },
+        {
+          "Line": 236,
+          "OriginalText": "I wanted you to join me up here so you\ncould use this as a vantage point to\nsearch for shrines.",
+          "TranslatedText": "ฉันอยากให้คุณมากับฉันที่นี่\nเพื่อที่คุณจะได้ใช้ที่นี่เป็นจุดชมวิว\nในการค้นหาศาลเจ้า."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk09",
+      "TextList": [
+        {
+          "Line": 245,
+          "OriginalText": "Now then...",
+          "TranslatedText": "ตอนนี้แล้ว..."
+        },
+        {
+          "Line": 254,
+          "OriginalText": " Have you been using the\n",
+          "TranslatedText": " คุณเคยใช้\n"
+        },
+        {
+          "Line": 258,
+          "OriginalText": "scope",
+          "TranslatedText": "กล้องส่องทางไกล"
+        },
+        {
+          "Line": 261,
+          "OriginalText": " on your ",
+          "TranslatedText": " ใน "
+        },
+        {
+          "Line": 265,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 268,
+          "OriginalText": "?\n\nYou can see all the shrines from up here.\nWhen you find one, just stick a pin in it.",
+          "TranslatedText": "มั้ย?\nคุณสามารถเห็นศาลเจ้าทั้งหมดได้จากที่นี่\nเมื่อคุณพบแล้วให้ปักหมุดไว้."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk10",
+      "TextList": [
+        {
+          "Line": 272,
+          "OriginalText": "Did you know about the ",
+          "TranslatedText": "คุณรู้หรือไม่เกี่ยวกับ "
+        },
+        {
+          "Line": 276,
+          "OriginalText": "scope",
+          "TranslatedText": "กล้องส่องทางไกล"
+        },
+        {
+          "Line": 279,
+          "OriginalText": "\non your ",
+          "TranslatedText": "\nใน "
+        },
+        {
+          "Line": 283,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 286,
+          "OriginalText": "?\n\nLook through it, and you can stick a pin\nanywhere you\u0027d like to mark on the map.",
+          "TranslatedText": "?\nมองผ่านและคุณสามารถติดหมุดที่ใดก็ได้\nที่คุณต้องการทำเครื่องหมายบนแผนที่."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk11",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "The pins on your ",
+          "TranslatedText": "หมุดบน "
+        },
+        {
+          "Line": 299,
+          "OriginalText": "map",
+          "TranslatedText": "แผนที่"
+        },
+        {
+          "Line": 302,
+          "OriginalText": " serve as reference\npoints for your travels. Just stick a pin\nanywhere you\u0027re interested in!",
+          "TranslatedText": " \nใช้เป็นจุดอ้างอิงสำหรับการเดินทางของคุณ \nเพียงติดหมุดไว้ที่ใดก็ได้ที่คุณสนใจ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk12",
+      "TextList": [
+        {
+          "Line": 322,
+          "OriginalText": "Oho ho! \n\n\n",
+          "TranslatedText": "โอโฮโฮ! \n"
+        },
+        {
+          "Line": 328,
+          "OriginalText": "Just a few tricks I\u0027ve picked up\nafter many, many years in the wild...",
+          "TranslatedText": "เป็นเพียงเทคนิคเล็ก ๆ น้อย ๆ \nที่ฉันหยิบขึ้นมาหลังจากที่\nผ่านไปหลายปีในป่า..."
+        },
+        {
+          "Line": 332,
+          "OriginalText": "\nYou may take my advice or leave it.",
+          "TranslatedText": "\nคุณอาจใช้คำแนะนำของฉันหรือไม่ก็ได้."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk13",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "Experience, wisdom...",
+          "TranslatedText": "ประสบการณ์,\nไหวพริบ..."
+        },
+        {
+          "Line": 345,
+          "OriginalText": "instinct?",
+          "TranslatedText": "สัญชาตญาณ?"
+        },
+        {
+          "Line": 349,
+          "OriginalText": "\nCall it what you will and believe\nit only if you so please.",
+          "TranslatedText": "\nเรียกมันว่าสิ่งที่คุณต้องการ\nและเชื่อก็ต่อเมื่อคุณเป็นเช่นนั้น ได้โปรด."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk14",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "Go ahead and take a look if you feel\ninclined to do so.",
+          "TranslatedText": "ลองดูว่าคุณมีแนวโน้มที่จะทำเช่นนั้นหรือไม่."
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye01",
+      "TextList": [
+        {
+          "Line": 372,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        },
+        {
+          "Line": 376,
+          "OriginalText": " If you still wish to acquire the\n",
+          "TranslatedText": " หากคุณยังต้องการ\n"
+        },
+        {
+          "Line": 380,
+          "OriginalText": "paraglider",
+          "TranslatedText": "paraglider"
+        },
+        {
+          "Line": 383,
+          "OriginalText": ", you must put in the effort.\nI will not simply give it away, you see.",
+          "TranslatedText": ", \nคุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณรู้ดี."
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye02",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "Oho ho! Wonderful!",
+          "TranslatedText": "โอโฮโฮ! ยอดเยี่ยม!"
+        },
+        {
+          "Line": 399,
+          "OriginalText": " Just two more until\nyou can have my paraglider.",
+          "TranslatedText": " \nอีกแค่สอง\nจนกว่าคุณจะมี paraglider."
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye03",
+      "TextList": [
+        {
+          "Line": 411,
+          "OriginalText": "Oho ho! Fantastic!",
+          "TranslatedText": "โอโฮโฮ! ยอดเยี่ยม!"
+        },
+        {
+          "Line": 415,
+          "OriginalText": " Just one more until\nyou can have my paraglider.",
+          "TranslatedText": " \nอีกแค่หนึ่ง\nจนกว่าคุณจะมี paraglider."
+        }
+      ]
+    },
+    {
+      "EntryName": "Kotsu00",
+      "TextList": [
+        {
+          "Line": 419,
+          "OriginalText": "I just remembered something that may\nhelp you.\n\nYou can review some of the abilities\nyou\u0027ve learned on the pause screen.",
+          "TranslatedText": "ฉันเพิ่งนึกถึงบางสิ่งที่อาจช่วยคุณได้\nคุณสามารถตรวจสอบความสามารถบางอย่าง\nที่คุณได้เรียนรู้บน หยุดหน้าจอชั่วคราว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Kotsu01",
+      "TextList": [
+        {
+          "Line": 428,
+          "OriginalText": "If you\u0027re searching for shrines, use the\n",
+          "TranslatedText": "หากคุณกำลังค้นหาศาลเจ้าให้ใช้\n"
+        },
+        {
+          "Line": 432,
+          "OriginalText": "scope ",
+          "TranslatedText": "กล้องส่อง "
+        },
+        {
+          "Line": 435,
+          "OriginalText": "on your ",
+          "TranslatedText": "ใน\n"
+        },
+        {
+          "Line": 439,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 442,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Kotsu02",
+      "TextList": [
+        {
+          "Line": 451,
+          "OriginalText": "Must I keep repeating myself?\nYou really need to learn some\nself-reliance, my friend.\nJust check the pause screen if you ever\nneed a reminder of what you can do.",
+          "TranslatedText": "ฉันจะต้องย้ำอยู่เรื่อย ๆ หรือไม่?\nคุณต้องเรียนรู้การพึ่งพาตนเองนะเพื่อน\nเพียงตรวจสอบ หยุดหน้าจอชั่วคราว \nหากคุณต้องการการแจ้งเตือน\nว่าคุณสามารถทำอะไรได้บ้าง"
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "Aren\u0027t you...a bit chilly?",
+          "TranslatedText": "นี่คงไม่ใช่คุณ...มันค่อนข้างเย็น?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 462,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 471,
+          "OriginalText": "One more...",
+          "TranslatedText": "อีกหนึ่ง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 480,
+          "OriginalText": "Two more...",
+          "TranslatedText": "อีกสอง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "Three more...",
+          "TranslatedText": "อีกสาม..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 498,
+          "OriginalText": "Having trouble finding the shrines?",
+          "TranslatedText": "มีปัญหาในการค้นหาศาลเจ้า?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 515,
+          "OriginalText": "So...",
+          "TranslatedText": "ดังนั้น..."
+        },
+        {
+          "Line": 519,
+          "OriginalText": " How long were you planning on\ngoing au naturel? Just curious.",
+          "TranslatedText": " คุณวางแผนที่จะไป\nau naturel นานแค่ไหน? ฉันแค่สงสัย."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "The sun will set soon.",
+          "TranslatedText": "พระอาทิตย์จะลับขอบฟ้าในไม่ช้า"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 537,
+          "OriginalText": "The plateau is so quiet at night...",
+          "TranslatedText": "ที่ราบสูงตอนกลางคืนเงียบมาก..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 546,
+          "OriginalText": "Your shrine search is going well,\nis it not?",
+          "TranslatedText": "การค้นหาศาลเจ้าของคุณ\nเป็นไปด้วยดี ใช่หรือไม่?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 563,
+          "OriginalText": "So then...",
+          "TranslatedText": "ถ้าอย่างนั้น..."
+        },
+        {
+          "Line": 567,
+          "OriginalText": " Can I surmise that your shrine\nsearch is going well?",
+          "TranslatedText": " \nฉันสามารถคาดเดาได้หรือไม่ว่าการค้นหา\nศาลเจ้าของคุณเป็นไปด้วยดี?"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 579,
+          "OriginalText": "What is this?!",
+          "TranslatedText": "นี่คืออะไร?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 583,
+          "OriginalText": "What is it?!",
+          "TranslatedText": "มันคืออะไร?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 587,
+          "OriginalText": "Huh?!",
+          "TranslatedText": "ฮะ?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 591,
+          "OriginalText": "Toasty...",
+          "TranslatedText": "ขนมปังปิ้ง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse",
+      "TextList": [
+        {
+          "Line": 595,
+          "OriginalText": "Whoa!",
+          "TranslatedText": "โว้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 599,
+          "OriginalText": "Easy there!",
+          "TranslatedText": "เหมือนจะง่าย!"
+        }
+      ]
+    }
+  ]
+}

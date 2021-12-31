@@ -1,0 +1,960 @@
+{
+  "FileName": "Npc_Zora033",
+  "EntryList": [
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, but thank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "A Lightscale Trident.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "A Ceremonial Trident.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "A trident?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "What is this place?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "So...the Hylian who stole Lady Mipha\naway thinks he can just come wandering\nin here like nothing happened.\nWhat business do you have here after\nall these years?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 183,
+          "OriginalText": "So I have heard. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "Hylian Champion Link...\n\n\nNow Lady Mipha\u0027s spirit can finally rest\nin peace.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "Link... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": "You have acquired the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": " is the royal\nfamily\u0027s secret weapon...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": " I am the\nonly person permitted to craft one.\nShould you ever overuse it to the point\nof breaking, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 231,
+          "OriginalText": "or should you ever lose\ntrack of it...\nSimply bring me a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": ",\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "one",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": ", and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "five pieces",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "\nof ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": ".\nDo that, and I will make you a new\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": " whenever you\nhave need.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 289,
+          "OriginalText": "... I somehow felt\nit had disappeared from this world.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "\nShall I remake it for you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "In that case,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": " I will need a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": ",\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 325,
+          "OriginalText": "one ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 331,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": ", and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": "five pieces",
+          "TranslatedText": null
+        },
+        {
+          "Line": 341,
+          "OriginalText": " of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 345,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 357,
+          "OriginalText": "You do not have it in your possession,\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "but I can sense the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": "\nis still in this world.\nIf a monster were to take hold of it,\nthat would be extremely dangerous.\n\nIf you have entrusted it to someone,\nthat is one thing...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "but if not, I must\nstrongly suggest you locate it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 381,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "You do not have all of the materials\nI require...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "You do not have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 403,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 415,
+          "OriginalText": "You do not have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "You do not have enough ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 447,
+          "OriginalText": "You do not have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": ", nor do you\nhave enough ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 470,
+          "OriginalText": "You do not have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": ", nor do you\nhave a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 493,
+          "OriginalText": "You do not have a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 497,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": ", nor do you\nhave enough ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 504,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "I will make a new one for you when you\nbring me all of the necessary materials.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": "\nCome see me again once you have them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 529,
+          "OriginalText": "Ah... I see you have brought me the\nmaterials I require.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": " Shall I remake\nthat weapon for you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 553,
+          "OriginalText": "Diamonds",
+          "TranslatedText": null
+        },
+        {
+          "Line": 556,
+          "OriginalText": " are rather hard to come by.\nAre you sure about this?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 573,
+          "OriginalText": "Hm. As you wish.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 577,
+          "OriginalText": " Come back when you\nare ready for me to remake it for you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 586,
+          "OriginalText": "Understood. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 590,
+          "OriginalText": "I\u0027ll get to work right away.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 599,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 603,
+          "OriginalText": " That was rather difficult to make.\n\n\nPlease take good care of it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 612,
+          "OriginalText": "As the Champion, you should be able to\nuse both the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 616,
+          "OriginalText": "Lightscale Trident ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 619,
+          "OriginalText": "and the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 623,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 626,
+          "OriginalText": ".\nIf you break either one...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 630,
+          "OriginalText": "please let me\nknow so I can remake it for you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 639,
+          "OriginalText": "You are here...\n\n\nWhat do you need?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 706,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 710,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 713,
+          "OriginalText": ", although it is a\ncounterfeit, is a secret weapon of the\nroyal family, like the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 717,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 720,
+          "OriginalText": ".\nI am the only person permitted to\ncraft one.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": "Should you ever break it or lose track\nof it...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 730,
+          "OriginalText": "simply bring me a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 734,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 737,
+          "OriginalText": "\nand ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 741,
+          "OriginalText": "five pieces",
+          "TranslatedText": null
+        },
+        {
+          "Line": 744,
+          "OriginalText": " of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 748,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": ".\nDo so, and I will make you a new\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 755,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 758,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 767,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 771,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 774,
+          "OriginalText": "... I somehow felt\nit had disappeared from this world.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 778,
+          "OriginalText": "\nShall I remake it for you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 795,
+          "OriginalText": "You do not have it in your possession,\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 799,
+          "OriginalText": "but I can sense the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 803,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 806,
+          "OriginalText": "\nis still in this world.\nIf you have entrusted it to someone,\nthat is one thing...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 810,
+          "OriginalText": "but if not, I must\nstrongly suggest you locate it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 819,
+          "OriginalText": "In that case, I will need ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 823,
+          "OriginalText": "a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 827,
+          "OriginalText": "Zora spear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 830,
+          "OriginalText": " and\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 834,
+          "OriginalText": "five pieces",
+          "TranslatedText": null
+        },
+        {
+          "Line": 837,
+          "OriginalText": " of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 841,
+          "OriginalText": "flint",
+          "TranslatedText": null
+        },
+        {
+          "Line": 844,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 853,
+          "OriginalText": "What do you want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 914,
+          "OriginalText": "The weapons workshop...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 923,
+          "OriginalText": "Trident maintenance...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 932,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 936,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 939,
+          "OriginalText": " and\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 943,
+          "OriginalText": "ceremonial trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 946,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 955,
+          "OriginalText": "You have been making a racket since you\nwalked in here.\n\nThere is no point in coming here if you\ndo not possess the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 959,
+          "OriginalText": "Lightscale Trident",
+          "TranslatedText": null
+        },
+        {
+          "Line": 962,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 966,
+          "OriginalText": "\nLeave. Now.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

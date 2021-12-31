@@ -1,0 +1,940 @@
+{
+  "FileName": "MiniGame_Crosscountry",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "You\u0027re on.",
+          "TranslatedText": "คุณอยู่ข้างบน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002_00",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Yahoo!",
+          "TranslatedText": "ยะฮู้!"
+        },
+        {
+          "Line": 27,
+          "OriginalText": " Now we\u0027re talking! ",
+          "TranslatedText": " ตอนนี้เรากำลังพูดถึง!\n"
+        },
+        {
+          "Line": 31,
+          "OriginalText": "This is\nfantastic!",
+          "TranslatedText": "มันเยี่ยมมาก!\n"
+        },
+        {
+          "Line": 35,
+          "OriginalText": " But every challenge has to\nhave some stakes.\nI\u0027ll bet you ",
+          "TranslatedText": " แต่ทุกความท้าทายมีเดิมพัน.\nI\u0027ll bet you "
+        },
+        {
+          "Line": 39,
+          "OriginalText": "20 rupees",
+          "TranslatedText": "20 rupees"
+        },
+        {
+          "Line": 45,
+          "OriginalText": " I can beat you in\na ",
+          "TranslatedText": " ฉันสามารถเอาชนะคุณได้\nการ "
+        },
+        {
+          "Line": 49,
+          "OriginalText": "race",
+          "TranslatedText": "แข่งขัน"
+        },
+        {
+          "Line": 52,
+          "OriginalText": ". You have to pay first, though!",
+          "TranslatedText": ". \nแต่คุณต้องจ่ายก่อน!\n"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002_01",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Yahoo!",
+          "TranslatedText": "ยะฮู้!"
+        },
+        {
+          "Line": 79,
+          "OriginalText": " Now we\u0027re talking!",
+          "TranslatedText": " ตอนนี้เรากำลังพูดถึง!\n"
+        },
+        {
+          "Line": 83,
+          "OriginalText": " This is\nfantastic! ",
+          "TranslatedText": " มันเยี่ยมมาก!\n"
+        },
+        {
+          "Line": 87,
+          "OriginalText": "Why don\u0027t you put down\nanother ",
+          "TranslatedText": "ทำไมคุณไม่วางเพิ่มอีก\n "
+        },
+        {
+          "Line": 91,
+          "OriginalText": "20 rupees",
+          "TranslatedText": "20 rupees"
+        },
+        {
+          "Line": 94,
+          "OriginalText": " and ",
+          "TranslatedText": " แล้วก็ "
+        },
+        {
+          "Line": 98,
+          "OriginalText": "race",
+          "TranslatedText": "แข่งขัน"
+        },
+        {
+          "Line": 101,
+          "OriginalText": " me again?",
+          "TranslatedText": " กับฉันอีกครั้ง?\n"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "I don\u0027t feel like it.",
+          "TranslatedText": "ฉันไม่ชอบเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004_00",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "Noooo!",
+          "TranslatedText": "ไม่มม!"
+        },
+        {
+          "Line": 132,
+          "OriginalText": " What a letdown...",
+          "TranslatedText": " น่าผิดหวังจริงๆ..."
+        },
+        {
+          "Line": 141,
+          "OriginalText": " I thought I\u0027d\nfinally met a tough boy with some real\npotential. ",
+          "TranslatedText": " ฉันคิดว่าในที่สุดฉันก็เจอผู้ชายที่มีศักยภาพ\n"
+        },
+        {
+          "Line": 148,
+          "OriginalText": "Guess I thought wrong.",
+          "TranslatedText": "ฉันคิดว่าฉันคิดผิด"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "Let\u0027s get started.",
+          "TranslatedText": "มาเริ่มกันเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_00",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Yesss!",
+          "TranslatedText": "ใช่!"
+        },
+        {
+          "Line": 174,
+          "OriginalText": " Now you\u0027re getting into the\nspirit of things!",
+          "TranslatedText": " ตอนนี้คุณเข้าสู่โลกของจิตวิญญาณ!\n"
+        },
+        {
+          "Line": 178,
+          "OriginalText": " I\u0027ll go set things up.\nDon\u0027t go anywhere!",
+          "TranslatedText": " ฉันจะจัดการให้\nอย่าไปไหนนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_01",
+      "TextList": [
+        {
+          "Line": 190,
+          "OriginalText": "OK!",
+          "TranslatedText": "ได้สิ!"
+        },
+        {
+          "Line": 197,
+          "OriginalText": " Thanks for waiting!",
+          "TranslatedText": " ขอบคุณที่รอ!"
+        },
+        {
+          "Line": 201,
+          "OriginalText": " I\u0027m so ready\nI could burst, and I bet you are too!\nSo let\u0027s begin...",
+          "TranslatedText": " ฉันพร้อมที่จะระเบิดพลัง\nฉันพนันได้เลยว่าคุณก็เหมือนกัน\nมาเริ่มกันเลย..."
+        },
+        {
+          "Line": 205,
+          "OriginalText": "the ",
+          "TranslatedText": "การ "
+        },
+        {
+          "Line": 209,
+          "OriginalText": "race",
+          "TranslatedText": "แข่งขัน"
+        },
+        {
+          "Line": 212,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_03",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "The goal is the ",
+          "TranslatedText": "เป้าหมายคือ "
+        },
+        {
+          "Line": 220,
+          "OriginalText": "flags on top of the \nmountain",
+          "TranslatedText": "ธงบนยอดเขา"
+        },
+        {
+          "Line": 223,
+          "OriginalText": "!",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 227,
+          "OriginalText": " There\u0027s only two of us, so the\nrace ends once someone reaches them!",
+          "TranslatedText": " เรามีแค่สองคนเท่านั้น ดังนั้น\nเมื่อใครบางคนพบธงการแข่งขันจะจบลง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_04",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "One more thing!",
+          "TranslatedText": "อีกอย่าง!"
+        },
+        {
+          "Line": 241,
+          "OriginalText": " You could probably\nguess this already, but this is a ",
+          "TranslatedText": " คุณอาจจะเดาได้\nแต่มันเป็น\n"
+        },
+        {
+          "Line": 245,
+          "OriginalText": "foot race",
+          "TranslatedText": "การแข่งเท้า"
+        },
+        {
+          "Line": 248,
+          "OriginalText": ",\nnot a ",
+          "TranslatedText": ",\nไม่อนุญาติให้ "
+        },
+        {
+          "Line": 252,
+          "OriginalText": "hoof race",
+          "TranslatedText": "สัตว์มีกีบแข่ง\n"
+        },
+        {
+          "Line": 255,
+          "OriginalText": ".\nIf you ride your horse or run away from\nthe goal instead of toward it, you\u0027ll\nbe ",
+          "TranslatedText": ".\nถ้าคุณขี่ม้าหรือวิ่งหนีออกจากเป้าหมาย\nแทนที่จะวิ่งไปที่เป้าหมายคุณจะ\n "
+        },
+        {
+          "Line": 259,
+          "OriginalText": "disqualified",
+          "TranslatedText": "ถูกตัดสิทธิ์"
+        },
+        {
+          "Line": 262,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_07",
+      "TextList": [
+        {
+          "Line": 274,
+          "OriginalText": "And now...",
+          "TranslatedText": "ตอนนี้...\n"
+        },
+        {
+          "Line": 278,
+          "OriginalText": "it\u0027s time!",
+          "TranslatedText": "ถึงเวลา!\n"
+        },
+        {
+          "Line": 282,
+          "OriginalText": " Get ready...",
+          "TranslatedText": " เตรียมตัว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_08",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Go!",
+          "TranslatedText": "ไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005_NotEnoughMoney",
+      "TextList": [
+        {
+          "Line": 315,
+          "OriginalText": "Oops!",
+          "TranslatedText": "โธ่เอ๋ย!"
+        },
+        {
+          "Line": 322,
+          "OriginalText": " I don\u0027t race without those ",
+          "TranslatedText": " ฉันจะไม่แข่ง\nถ้าไม่มี "
+        },
+        {
+          "Line": 326,
+          "OriginalText": "20\nrupees",
+          "TranslatedText": "20\nrupees"
+        },
+        {
+          "Line": 329,
+          "OriginalText": " on the line. Why don\u0027t you go\nget some so we can finally race?",
+          "TranslatedText": " ทำไมคุณไม่จ่ายมัน\nเพื่อให้เราสามารถแข่งขัน?"
+        },
+        {
+          "Line": 333,
+          "OriginalText": "\nI\u0027ll be waiting!",
+          "TranslatedText": "\nฉันจะคอยแล้วกัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 337,
+          "OriginalText": "You lost me.",
+          "TranslatedText": "คุณแพ้ฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006_00",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "What?!",
+          "TranslatedText": "อะไรก็ตาม?!"
+        },
+        {
+          "Line": 356,
+          "OriginalText": " You\u0027re giving up before we\neven start?",
+          "TranslatedText": " คุณยอมแพ้ก่อนที่เราจะเริ่ม?\n"
+        },
+        {
+          "Line": 360,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 364,
+          "OriginalText": "Yikes...",
+          "TranslatedText": "ยี้...\n"
+        },
+        {
+          "Line": 368,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 372,
+          "OriginalText": "You\u0027ll never get\nanywhere in life with that attitude!",
+          "TranslatedText": "ทัศนคตินี้จะไม่มีวันก้าวหน้าในชีวิต!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0009_01",
+      "TextList": [
+        {
+          "Line": 384,
+          "OriginalText": "Whew!",
+          "TranslatedText": "Whew!"
+        },
+        {
+          "Line": 388,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 392,
+          "OriginalText": "If you ever want to go again,\nI\u0027d jump at the chance!",
+          "TranslatedText": "ถ้าคุณต้องการที่จะไปอีกครั้ง\nฉันจะใช้โอกาสนี้!\n"
+        },
+        {
+          "Line": 396,
+          "OriginalText": " See you around!",
+          "TranslatedText": " แล้วเจอกัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 400,
+          "OriginalText": "Then I\u0027ll continue.",
+          "TranslatedText": "งั้นฉันจะทำต่อ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0014",
+      "TextList": [
+        {
+          "Line": 404,
+          "OriginalText": "One more time!",
+          "TranslatedText": "ขออีกที!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0014_00",
+      "TextList": [
+        {
+          "Line": 416,
+          "OriginalText": "Woooo-hooo!",
+          "TranslatedText": "วู้วววว-ฮู้วว!"
+        },
+        {
+          "Line": 420,
+          "OriginalText": " I love this guy!",
+          "TranslatedText": " ฉันชอบผู้ชายคนนี้!\n"
+        },
+        {
+          "Line": 424,
+          "OriginalText": " \nAll right!",
+          "TranslatedText": " \nไม่เป็นไร!"
+        },
+        {
+          "Line": 428,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 432,
+          "OriginalText": "Same rules as before. Whoever reaches\nthe goal first wins!",
+          "TranslatedText": "กฎเดียวกันกับครั้งก่อน\nใครก็ตามที่มาถึงเป้าหมายคนแรก ชนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0014_NotEnoughMoney",
+      "TextList": [
+        {
+          "Line": 444,
+          "OriginalText": "Whoops!",
+          "TranslatedText": "อ๊ะ!"
+        },
+        {
+          "Line": 448,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 452,
+          "OriginalText": "You need ",
+          "TranslatedText": "คุณต้องมี"
+        },
+        {
+          "Line": 456,
+          "OriginalText": "20 rupees",
+          "TranslatedText": "20 rupees"
+        },
+        {
+          "Line": 459,
+          "OriginalText": " if you\nwanna ",
+          "TranslatedText": " ถ้าคุณต้องการ "
+        },
+        {
+          "Line": 463,
+          "OriginalText": "race",
+          "TranslatedText": "แข่ง"
+        },
+        {
+          "Line": 466,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0015",
+      "TextList": [
+        {
+          "Line": 470,
+          "OriginalText": "I\u0027ve had enough.",
+          "TranslatedText": "ฉันมีเพียงพอแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0015_00",
+      "TextList": [
+        {
+          "Line": 482,
+          "OriginalText": "Aww.",
+          "TranslatedText": "Aww."
+        },
+        {
+          "Line": 486,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 490,
+          "OriginalText": "That\u0027s...",
+          "TranslatedText": "นั่นคือ..."
+        },
+        {
+          "Line": 497,
+          "OriginalText": "not the answer I hoped for...",
+          "TranslatedText": "ไม่ใช่คำตอบที่ฉันหวังไว้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0015_01",
+      "TextList": [
+        {
+          "Line": 509,
+          "OriginalText": "Use all that traveling you do as a\nchance to build up your leg muscles!",
+          "TranslatedText": "ใช้ทั้งหมดที่การเดินทางคุณ\nเพื่อเป็นโอกาสที่จะสร้างกล้ามเนื้อขาของคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "AtGoal_00",
+      "TextList": [
+        {
+          "Line": 521,
+          "OriginalText": "Wheeee!",
+          "TranslatedText": "Wheeee!"
+        },
+        {
+          "Line": 525,
+          "OriginalText": " I did it!",
+          "TranslatedText": " ฉันทำมันได้!"
+        },
+        {
+          "Line": 532,
+          "OriginalText": " I won!",
+          "TranslatedText": " ฉันชนะ!\n"
+        },
+        {
+          "Line": 536,
+          "OriginalText": " You gotta\ngive those flat feet some exercise if you\never wanna beat me, friend!",
+          "TranslatedText": " คุณต้องให้เท้าแบนๆคู่นั้นออกกำลังกายบ้าง \nถ้าคุณอยากเอาชนะฉัน เพื่อน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "AtGoal_00_00",
+      "TextList": [
+        {
+          "Line": 548,
+          "OriginalText": "Done!",
+          "TranslatedText": "เสร็จแล้ว!"
+        },
+        {
+          "Line": 552,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 556,
+          "OriginalText": "Wait...",
+          "TranslatedText": "รอ..."
+        },
+        {
+          "Line": 560,
+          "OriginalText": " You\u0027re done too?\nYou were done...first? ",
+          "TranslatedText": " คุณก็เช่นกันเหรอ?\nคุณถึง... ก่อน? "
+        },
+        {
+          "Line": 564,
+          "OriginalText": "Hrm...",
+          "TranslatedText": "ฮึ่ม..."
+        },
+        {
+          "Line": 571,
+          "OriginalText": "\nThat means I lose...",
+          "TranslatedText": "\nนั่นหมายความว่าฉันแพ้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "AtGoal_01_03",
+      "TextList": [
+        {
+          "Line": 583,
+          "OriginalText": "Your time was ",
+          "TranslatedText": "เวลาของคุณคือ "
+        },
+        {
+          "Line": 591,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 596,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 603,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 609,
+          "OriginalText": "I wasn\u0027t REALLY trying my best...",
+          "TranslatedText": "ฉันไม่ได้พยายามอย่างดีที่สุด..."
+        },
+        {
+          "Line": 613,
+          "OriginalText": "but a \nbet is a bet!",
+          "TranslatedText": "แต่การเดิมพันเป็นเดิมพัน!"
+        },
+        {
+          "Line": 617,
+          "OriginalText": " Here\u0027s your ",
+          "TranslatedText": " นี่คือ "
+        },
+        {
+          "Line": 621,
+          "OriginalText": "reward",
+          "TranslatedText": "รางวัล"
+        },
+        {
+          "Line": 624,
+          "OriginalText": " for a\nrace well run!",
+          "TranslatedText": " ของคุณ สำหรับการแข่งขันที่ทำงานได้ดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "AtGoal_01_04",
+      "TextList": [
+        {
+          "Line": 636,
+          "OriginalText": "Nice!",
+          "TranslatedText": "ดี!"
+        },
+        {
+          "Line": 643,
+          "OriginalText": " My time was ",
+          "TranslatedText": " เวลาของฉันคือ "
+        },
+        {
+          "Line": 651,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 656,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 663,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 669,
+          "OriginalText": "You did OK, but if you\u0027re ever gonna beat\nme, you\u0027ve gotta try harder than that!",
+          "TranslatedText": "คุณโอเคนะ แต่ถ้าคุณจะเอาชนะฉัน\nคุณต้องพยายามหนักกว่านั้น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "AtGoal_02",
+      "TextList": [
+        {
+          "Line": 681,
+          "OriginalText": "Whew! ",
+          "TranslatedText": "Whew! \n"
+        },
+        {
+          "Line": 688,
+          "OriginalText": "So...wanna race again? ",
+          "TranslatedText": "ดังนั้น... ต้องการแข่งอีกครั้ง? "
+        }
+      ]
+    },
+    {
+      "EntryName": "Halt_00",
+      "TextList": [
+        {
+          "Line": 708,
+          "OriginalText": "Whoa, whoa, whoa!",
+          "TranslatedText": "โว้ว โว้ว โว้ว!"
+        },
+        {
+          "Line": 712,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 716,
+          "OriginalText": "This is a ",
+          "TranslatedText": "มันคือ "
+        },
+        {
+          "Line": 720,
+          "OriginalText": "foot\nrace",
+          "TranslatedText": "การแข่งเท้า"
+        },
+        {
+          "Line": 723,
+          "OriginalText": ", not a hoof race!",
+          "TranslatedText": ", ไม่ใช่เกือกม้า! "
+        },
+        {
+          "Line": 732,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 736,
+          "OriginalText": "No horses\nallowed",
+          "TranslatedText": "ห้ามขี่ม้า\n"
+        },
+        {
+          "Line": 739,
+          "OriginalText": "! ",
+          "TranslatedText": "! "
+        },
+        {
+          "Line": 746,
+          "OriginalText": "Hey... That means I win by default!",
+          "TranslatedText": "นี่ๆ หมายความว่า\nฉันชนะตามจข้อตกลง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Halt_01",
+      "TextList": [
+        {
+          "Line": 761,
+          "OriginalText": "One more time!",
+          "TranslatedText": "ขออีกรอบ!\n"
+        },
+        {
+          "Line": 768,
+          "OriginalText": " Maybe I wasn\u0027t clear\nenough before, but a race is all about\n",
+          "TranslatedText": " บางทีฉันอาจจะไม่เข้าใจดีพอ\nแต่มันก็แค่เกม\n"
+        },
+        {
+          "Line": 772,
+          "OriginalText": "reaching the goal",
+          "TranslatedText": "บรรลุเป้าหมาย\n"
+        },
+        {
+          "Line": 775,
+          "OriginalText": " on ",
+          "TranslatedText": " ด้วย "
+        },
+        {
+          "Line": 779,
+          "OriginalText": "your own two feet",
+          "TranslatedText": "สองเท้าของคุณเอง"
+        },
+        {
+          "Line": 782,
+          "OriginalText": "!\n",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 788,
+          "OriginalText": "In other words,",
+          "TranslatedText": "อื่นๆ,"
+        },
+        {
+          "Line": 792,
+          "OriginalText": " running the wrong way\nor getting on your horse means you\u0027re\n",
+          "TranslatedText": " วิ่งผิดทางหรือขี่ม้า หมายถึงคุณ\n"
+        },
+        {
+          "Line": 796,
+          "OriginalText": "disqualified",
+          "TranslatedText": "ถูกตัดสิทธิ์"
+        },
+        {
+          "Line": 799,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Halt_02",
+      "TextList": [
+        {
+          "Line": 811,
+          "OriginalText": "What the heck?!",
+          "TranslatedText": "เกิดบ้าอะไรขึ้น?!\n"
+        },
+        {
+          "Line": 815,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 819,
+          "OriginalText": "Where do you think \nyou\u0027re going?",
+          "TranslatedText": "คุณต้องการไปที่ไหน?\n"
+        },
+        {
+          "Line": 823,
+          "OriginalText": " If you\u0027re not racing\ntoward the goal, you\u0027re just running!\n",
+          "TranslatedText": " ถ้าคุณไม่วิ่งไปที่เป้าหมาย\nคุณแค่วิ่งๆ!\n"
+        },
+        {
+          "Line": 829,
+          "OriginalText": "And that doesn\u0027t do anyone any good...",
+          "TranslatedText": "มันไม่ได้ดีสำหรับทุกคน..."
+        },
+        {
+          "Line": 833,
+          "OriginalText": "\nThe ",
+          "TranslatedText": "\nการ "
+        },
+        {
+          "Line": 837,
+          "OriginalText": "race is off",
+          "TranslatedText": "จบการแข่งขัน"
+        },
+        {
+          "Line": 840,
+          "OriginalText": "!",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 844,
+          "OriginalText": " Why don\u0027t you come back\nso I can explain the rules again?",
+          "TranslatedText": " ทำไมคุณไม่กลับมาให้ฉันอธิบายกฎอีกครั้ง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Initial_00",
+      "TextList": [
+        {
+          "Line": 856,
+          "OriginalText": "Hey, friend!",
+          "TranslatedText": "เฮ้เพื่อน!"
+        },
+        {
+          "Line": 860,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 864,
+          "OriginalText": "You look like a tough boy.\nBut how tough are you? Tough enough\nto challenge me to a ",
+          "TranslatedText": "คุณดูเหมือนคนแข็งแรง\nแต่คุณแข็งแรงแค่ไหน เข้มแข็งพอที่จะท้าทายฉัน\n"
+        },
+        {
+          "Line": 868,
+          "OriginalText": "race",
+          "TranslatedText": "race"
+        },
+        {
+          "Line": 871,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Initial_01",
+      "TextList": [
+        {
+          "Line": 891,
+          "OriginalText": "Hey, friend!",
+          "TranslatedText": "เฮ้เพื่อน!\n"
+        },
+        {
+          "Line": 898,
+          "OriginalText": " Sure, horses are\nconvenient and fast, but what about\n",
+          "TranslatedText": " แน่นอนม้าสะดวกและรวดเร็วแต่ม้า\n"
+        },
+        {
+          "Line": 902,
+          "OriginalText": "standing on your own two feet",
+          "TranslatedText": "พึ่งพากีบเท้าของมัน\n"
+        },
+        {
+          "Line": 905,
+          "OriginalText": "?\nDon\u0027t you think it\u0027s important to exercise\nyour legs too?",
+          "TranslatedText": "?\nคุณไม่คิดว่ามันสำคัญ\nที่จะออกกำลังกายขาของคุณด้วยเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Initial_02",
+      "TextList": [
+        {
+          "Line": 914,
+          "OriginalText": "I\u0027m itching to challenge you to\n",
+          "TranslatedText": "ฉันต้องการที่จะท้าทายคุณ\n"
+        },
+        {
+          "Line": 918,
+          "OriginalText": "a foot race",
+          "TranslatedText": "การแข่งเท้า"
+        },
+        {
+          "Line": 921,
+          "OriginalText": ", but you need to get off\nyour high horse first! ",
+          "TranslatedText": ", แต่คุณต้อง\nลงจากม้าก่อน! "
+        },
+        {
+          "Line": 925,
+          "OriginalText": "Please? ",
+          "TranslatedText": "ได้โปรด? "
+        },
+        {
+          "Line": 929,
+          "OriginalText": "For me?",
+          "TranslatedText": "เพื่อฉัน?"
+        }
+      ]
+    }
+  ]
+}

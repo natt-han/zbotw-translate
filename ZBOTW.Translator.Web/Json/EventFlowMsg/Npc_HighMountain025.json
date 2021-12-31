@@ -1,0 +1,485 @@
+{
+  "FileName": "Npc_HighMountain025",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Troubles?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Keep talkin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Take care.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Come on...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Open beds here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Welcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 41,
+          "OriginalText": "Swallow\u0027s Roost",
+          "TranslatedText": null
+        },
+        {
+          "Line": 44,
+          "OriginalText": ", the\nfinest inn this side of Death Mountain!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Welcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 57,
+          "OriginalText": "Swallow\u0027s Roost",
+          "TranslatedText": null
+        },
+        {
+          "Line": 60,
+          "OriginalText": ", the\nfinest inn you will ever step foot in.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 64,
+          "OriginalText": "\nYou must be tired at this late hour.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 73,
+          "OriginalText": "Haven\u0027t you seen it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": "\nThat ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": "monster",
+          "TranslatedText": null
+        },
+        {
+          "Line": 84,
+          "OriginalText": " just appeared one day.\n\nIt\u0027s been terrorizing the village nonstop.\nWe can\u0027t take much more of this.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "Ever since that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "monster",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": " appeared above\nthe village, there have been new victims\nevery day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "Heh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": " If you want a place to stay,\ntalk to the innkeeper.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "Come back soon!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 131,
+          "OriginalText": "Welcome to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "Swallow\u0027s Roost",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": ",\nvoted best (and only) inn in Rito Village.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "\nLooks like you got caught in the rain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "Look, I\u0027m just running my mouth here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "\nIf you want to know the details, talk to\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": "elder",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": " on the top floor.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Our inn is the perfect place to snooze\nyour troubles away!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "I will not keep you\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": "go get some rest.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "I decided to take a break.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "Today has been dead anyway, what with\nthat ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": "monster flying around ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "up there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "All right. I gotta get back to work.\n\n\nHey, buddy. You should stop by and\ntake a load off. I work at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": "Swallow\u0027s Roost",
+          "TranslatedText": null
+        },
+        {
+          "Line": 231,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "Oh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 244,
+          "OriginalText": "You\u0027re a traveler.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "We were just chatting about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 257,
+          "OriginalText": "that\nmonster in the sky",
+          "TranslatedText": null
+        },
+        {
+          "Line": 260,
+          "OriginalText": ". You know,\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 264,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 267,
+          "OriginalText": ".\nTurns out that a long, long time ago,\nthat thing was on our side.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 276,
+          "OriginalText": "Right. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 280,
+          "OriginalText": "A long time ago, the Champion of\nRito Village,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": " Revali, tamed ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "that beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": " and\nused it to protect the village.\n...According to the elder, at least.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "\nAnd I believe him!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "So the story goes, but why did it start\nattacking us now?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 313,
+          "OriginalText": "Hey, there!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": "\n\n\nBusiness is slow right now, thanks to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "Divine Beast Vah Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 324,
+          "OriginalText": "up there.\nIt\u0027s really ruining my commissions!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "Long ago, the village Champion, Revali,\ntamed that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 337,
+          "OriginalText": "thing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 340,
+          "OriginalText": "and used it to protect\nthe village.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "Hah! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": "He acts like a know-it-all even\nthough he simply regurgitates what the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": "elder ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 360,
+          "OriginalText": "says.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "Luck is on your side, pal!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "\nThe village has finally quieted down after\nall the commotion from the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "sky monster",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

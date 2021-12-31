@@ -1,0 +1,1535 @@
+{
+  "FileName": "Npc_Road_001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Maybe I\u0027ll buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Maybe I\u0027ll sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll buy, sure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "So it\u0027s to be violence, then. Very well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": " \nA watchman of my caliber won\u0027t fall to \nthe likes of these louts.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Curse your dark hearts, monsters!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 66,
+          "OriginalText": " \nYou think me an easy mark?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": "\nI am a watchman, and I do not flee!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "For starters, why don\u0027t you show me\nwhat you have?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 83,
+          "OriginalText": "You want to sell that?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "\nHow does ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 95,
+          "OriginalText": " rupees ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": "for it sound?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "My thanks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": " Is there anything else you\nwant to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "Very well, thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "My thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "Thanks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": " Very well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "I\u0027ll buy anything!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "There\u0027s nothing I won\u0027t buy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Care to sell something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Anything you wish to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "Anything catch your eye?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 188,
+          "OriginalText": "Sorry, I\u0027m out of that right now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "You don\u0027t have enough rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": " \nSo I\u0027d advise stopping shopping.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 210,
+          "OriginalText": "You don\u0027t have enough room, I\u0027m afraid.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "\nYou should sell or toss some stuff.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "You want to buy that?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 235,
+          "OriginalText": "Naught to fear if you have the right gear!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": "That\u0027s an excellent purchase.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Use it well!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 257,
+          "OriginalText": "I know you\u0027ll make good use of it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "You\u0027re an exceptional shopper.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "\nOr maybe I\u0027m an exceptional seller?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "I apologize for only having arrows.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": "\nBut arrows are something that you can\nnever have too many of, am I right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 287,
+          "OriginalText": "Willing to part with it, huh?\nHow many are you selling? ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "OK, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": " of them. Got it.\nHow does ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": " sound?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "I can\u0027t buy that from you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 337,
+          "OriginalText": " Sorry...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Now that\u0027s just weird. I\u0027m not buying\nyour gear while you\u0027re still wearing it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 355,
+          "OriginalText": "I\u0027m amazed you\u0027re out adventuring in\nthis weather.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": " To reward your fortitude,\nI\u0027ll throw in extra arrows today!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 363,
+          "OriginalText": "OK, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": " of them. Got it.\nHow does ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": " sound?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 391,
+          "OriginalText": "Got your eye on that, huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 395,
+          "OriginalText": "\nHow many do you need?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "Just one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": " That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 420,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 423,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 435,
+          "OriginalText": "All my stock?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 439,
+          "OriginalText": " That\u0027s a total of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": ",\nso it\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": ", OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 467,
+          "OriginalText": "So, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": " of them?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 476,
+          "OriginalText": " All right, then.\nI\u0027ll buy them for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 487,
+          "OriginalText": ", OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "And that\u0027s the last of those.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "\nThanks for your largesse!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 517,
+          "OriginalText": "I\u0027m all out of arrows for today.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": "\nWant to see the arrows I\u0027m planning to\nrestock later?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Just one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": " That\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 545,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 548,
+          "OriginalText": ".\nThat OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 565,
+          "OriginalText": "I may be a seasoned watchman, but no\none could have handled that alone!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 569,
+          "OriginalText": "\nI wish you had arrived sooner...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 578,
+          "OriginalText": "Owww... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 582,
+          "OriginalText": "Even I can\u0027t handle a monster\nattack of such ferocity by myself!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 586,
+          "OriginalText": "\nIf only you\u0027d fought beside me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 595,
+          "OriginalText": "OK! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 599,
+          "OriginalText": "Farewell!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 608,
+          "OriginalText": "Go! Run! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 612,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 616,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 619,
+          "OriginalText": " is coming!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 623,
+          "OriginalText": " \nWe don\u0027t stand a chance against the\nlikes of that thing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_00",
+      "TextList": [
+        {
+          "Line": 632,
+          "OriginalText": "...Who, me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 636,
+          "OriginalText": " What am I doing, you ask?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 640,
+          "OriginalText": "\nI\u0027m on patrol, keeping the watch!\nI am a watchman!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 644,
+          "OriginalText": "\nThis southwest corner of Hyrule Field is\nawash in monsters and suspicious types, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 648,
+          "OriginalText": "\nso you\u0027ve got to tread carefully!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_00_1",
+      "TextList": [
+        {
+          "Line": 657,
+          "OriginalText": "I\u0027m on patrol, keeping the watch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 661,
+          "OriginalText": "\nMonsters abound, so watch yourself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_01",
+      "TextList": [
+        {
+          "Line": 670,
+          "OriginalText": "A long time ago, there used to be an\narena for combat nearby,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 674,
+          "OriginalText": " but it\u0027s fallen\nto ruin and is a home for foul monsters.\nI suppose you could say",
+          "TranslatedText": null
+        },
+        {
+          "Line": 678,
+          "OriginalText": " it still IS an\narena for combat, but more the life-or-\ndeath-against-monsters variety.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_01_1",
+      "TextList": [
+        {
+          "Line": 687,
+          "OriginalText": "A long time ago, there used to be an\narena for combat nearby,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 691,
+          "OriginalText": " but it\u0027s fallen\nto ruin and is a home for foul monsters.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_02",
+      "TextList": [
+        {
+          "Line": 700,
+          "OriginalText": "Say...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 704,
+          "OriginalText": " Have you heard tell of the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 708,
+          "OriginalText": "Lord of the Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 711,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 715,
+          "OriginalText": "\n\nThey say he appears on Satori Mountain,\nnorthwest of here...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 719,
+          "OriginalText": "but what is he?\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "Lord of the Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_02_1",
+      "TextList": [
+        {
+          "Line": 735,
+          "OriginalText": "Have you heard of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 739,
+          "OriginalText": "Lord of the\nMountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 742,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 746,
+          "OriginalText": " It\u0027s said that he appears on \nSatori Mountain, northwest of here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_03",
+      "TextList": [
+        {
+          "Line": 755,
+          "OriginalText": "They say the north side of the stable is\nrelatively safe,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 759,
+          "OriginalText": " but even so, I won\u0027t shirk\nmy patrol duties! I am a watchman!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_03_1",
+      "TextList": [
+        {
+          "Line": 768,
+          "OriginalText": "They say it\u0027s relatively safe, but I won\u0027t\nshirk my patrol duties!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": " I always watch!\nThat\u0027s what it means to be a watchman!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_04",
+      "TextList": [
+        {
+          "Line": 781,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 785,
+          "OriginalText": "Lord of the Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 788,
+          "OriginalText": " is said to\nmake Satori Mountain its home... \nThat\u0027s just ahead, before Hyrule Ridge.\nAnimals rarely appear there, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 792,
+          "OriginalText": "they\nsay if this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 796,
+          "OriginalText": "lord",
+          "TranslatedText": null
+        },
+        {
+          "Line": 799,
+          "OriginalText": " appears, the animals will\nheed its call and gather.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 805,
+          "OriginalText": "But just what in the world could it be?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 809,
+          "OriginalText": "\nWhat is this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 813,
+          "OriginalText": "lord",
+          "TranslatedText": null
+        },
+        {
+          "Line": 816,
+          "OriginalText": " creature?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Bado_04_1",
+      "TextList": [
+        {
+          "Line": 825,
+          "OriginalText": "Normally, few animals make their home\naround Satori Mountain, just ahead...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 831,
+          "OriginalText": "But they say an appearance by the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 835,
+          "OriginalText": "Lord of the Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 838,
+          "OriginalText": " calls to the souls\nof the animals and makes them gather.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 842,
+          "OriginalText": "Now, back to my patrol...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 846,
+          "OriginalText": "A watchman watches...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 850,
+          "OriginalText": "Sunset pretty soon...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 854,
+          "OriginalText": "Ugh, night patrol...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 858,
+          "OriginalText": "RAIN!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 867,
+          "OriginalText": "You\u0027re not a watchman like me, are you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 871,
+          "OriginalText": "\nYet I fear we both have the stink of long\ntravel upon us. We are fragrant.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 880,
+          "OriginalText": "Rain obstructs one\u0027s view and steals\none\u0027s concentration.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 884,
+          "OriginalText": " If you aren\u0027t familiar\nwith the area, it\u0027s dangerous to wander!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 893,
+          "OriginalText": "Rain obstructs one\u0027s view and steals\none\u0027s concentration.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 897,
+          "OriginalText": " Why don\u0027t you take\nshelter from the rain here, too?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_00",
+      "TextList": [
+        {
+          "Line": 906,
+          "OriginalText": "Hey, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 910,
+          "OriginalText": "it\u0027s dangerous to travel alone!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 914,
+          "OriginalText": "\nMonsters of great strength haunt the\nway to the desert.\nIf you insist on going, make sure you\nhave proper weapons equipped",
+          "TranslatedText": null
+        },
+        {
+          "Line": 918,
+          "OriginalText": " so you\ncan protect yourself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_00_1",
+      "TextList": [
+        {
+          "Line": 927,
+          "OriginalText": "Monsters of great strength lie in wait on\nthe road to the desert.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 931,
+          "OriginalText": " If you insist on\ngoing, you\u0027ll have to protect yourself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_01",
+      "TextList": [
+        {
+          "Line": 940,
+          "OriginalText": "On the other side of those rocky\nmountains to the east",
+          "TranslatedText": null
+        },
+        {
+          "Line": 944,
+          "OriginalText": " are the ancient\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 948,
+          "OriginalText": "Coliseum Ruins",
+          "TranslatedText": null
+        },
+        {
+          "Line": 951,
+          "OriginalText": "...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 957,
+          "OriginalText": "It\u0027s a fell place, teeming with monsters.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 961,
+          "OriginalText": "\nOnly scavengers hunting for weapons\ndare to go near the ruins.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_01_1",
+      "TextList": [
+        {
+          "Line": 970,
+          "OriginalText": "The ancient ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 974,
+          "OriginalText": "Coliseum Ruins",
+          "TranslatedText": null
+        },
+        {
+          "Line": 977,
+          "OriginalText": " on the\nother side of those rocky mountains to\nthe east are alive with fell monsters.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_02",
+      "TextList": [
+        {
+          "Line": 986,
+          "OriginalText": "You can see the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 990,
+          "OriginalText": "remains of Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 993,
+          "OriginalText": "\nfrom the cliff in front of the stable, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 997,
+          "OriginalText": "\nThey say legendary weapons sleep there.\nAnd not just one or two, either...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1001,
+          "OriginalText": "\nBut do not be tempted!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1005,
+          "OriginalText": " It\u0027s far too\ndangerous to approach, so stay away!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_02_1",
+      "TextList": [
+        {
+          "Line": 1014,
+          "OriginalText": "They say legendary weapons sleep in the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1018,
+          "OriginalText": "remains of Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1021,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1025,
+          "OriginalText": " but it\u0027s far too\ndangerous, so don\u0027t be tempted!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_03",
+      "TextList": [
+        {
+          "Line": 1034,
+          "OriginalText": "Ever since that earthquake when the\ntowers appeared,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1038,
+          "OriginalText": " doesn\u0027t it seem like\nmonsters roam in greater numbers?\nIf you want to keep traveling, you\u0027d do\nwell to load up on weapons and gear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1042,
+          "OriginalText": " so\nyou can defend yourself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_03_1",
+      "TextList": [
+        {
+          "Line": 1051,
+          "OriginalText": "If you want to keep traveling, you\u0027d best\nprepare weapons and equipment",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1055,
+          "OriginalText": " so\nyou can defend yourself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_04",
+      "TextList": [
+        {
+          "Line": 1064,
+          "OriginalText": "You want to go to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1068,
+          "OriginalText": "Rito Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1071,
+          "OriginalText": ", right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1075,
+          "OriginalText": "\nThen just follow the road north.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1079,
+          "OriginalText": "\nHead for the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1083,
+          "OriginalText": "Tabantha Frontier",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1086,
+          "OriginalText": "!\nBut...if you don\u0027t want to run into any\nGuardians,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1090,
+          "OriginalText": " it may be wiser to take a\ndetour to the east!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Bado_04_1",
+      "TextList": [
+        {
+          "Line": 1099,
+          "OriginalText": "If you want to go to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1103,
+          "OriginalText": "Rito Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1106,
+          "OriginalText": ", follow\nthe road north.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1110,
+          "OriginalText": " Cutting through the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1114,
+          "OriginalText": "Tabantha Frontier",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1117,
+          "OriginalText": " is the fastest route.\nBut there are a bunch of Guardians in\nthat area,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1121,
+          "OriginalText": " so it may be wiser to take a\ndetour to the east!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1130,
+          "OriginalText": "You handle yourself rather well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1134,
+          "OriginalText": "\nYou\u0027re not quite as adept as a seasoned\nwatchman like me, but really, who is?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1143,
+          "OriginalText": "I was just taking an observer role to see\nhow the situation would play out,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1147,
+          "OriginalText": " but\nyou seem to have handled it fairly well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1156,
+          "OriginalText": "Let\u0027s...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1160,
+          "OriginalText": " Let\u0027s just keep this \u0022rescue\u0022\nbetween us, shall we? Yes, let\u0027s do.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1164,
+          "OriginalText": "I am a watchman, after all...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1173,
+          "OriginalText": "It\u0027s...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1177,
+          "OriginalText": " It\u0027s not as though I\u0027ve started\nfearing monsters or anything like that.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1181,
+          "OriginalText": "\nI am a watchman!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1190,
+          "OriginalText": "In",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1194,
+          "OriginalText": "explicable...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1198,
+          "OriginalText": " Though I nearly fell, I am\na watchman!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1202,
+          "OriginalText": " And though you saved me\ntoday, I shall save you tomorrow! Maybe.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1211,
+          "OriginalText": "I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1215,
+          "OriginalText": " I am a watchman! But...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1219,
+          "OriginalText": "perhaps even\nwatchmen need watchers to watch over\nthem now and then...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1228,
+          "OriginalText": "Say, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1232,
+          "OriginalText": "on an entirely different topic...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1236,
+          "OriginalText": "\nI\u0027ve recently begun selling adventuring\ngear as I travel.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1240,
+          "OriginalText": "\nDoing work as a watchman certainly\nfills my soul, but not my pockets...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01_1",
+      "TextList": [
+        {
+          "Line": 1258,
+          "OriginalText": "You can really never be too prepared.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1262,
+          "OriginalText": "\nIf you need proper gear for adventuring, \nyou\u0027ve come to the right fellow!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1280,
+          "OriginalText": "Need anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1298,
+          "OriginalText": "Well...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1302,
+          "OriginalText": " I guess a token of my gratitude\nwould be appropriate.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

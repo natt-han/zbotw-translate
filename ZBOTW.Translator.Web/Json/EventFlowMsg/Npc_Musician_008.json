@@ -1,0 +1,455 @@
+{
+  "FileName": "Npc_Musician_008",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Let\u0027s hear it.",
+          "TranslatedText": "มาฟังกันเถอะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Not right now.",
+          "TranslatedText": "ไม่ใช่ตอนนี้."
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Ancient songs?",
+          "TranslatedText": "เพลงโบราณ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No...",
+          "TranslatedText": "ไม่..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Promise?",
+          "TranslatedText": "สัญญา?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Are you a...bird?",
+          "TranslatedText": "คุณเป็น ... นกไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "No worries.",
+          "TranslatedText": "ไม่ต้องห่วง."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "Hmm?",
+          "TranslatedText": "อืม?"
+        },
+        {
+          "Line": 45,
+          "OriginalText": " Oh, did you want to hear my\nsong?",
+          "TranslatedText": " โอ้คุณต้องการเพลง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Excellent!",
+          "TranslatedText": "ยอดเยี่ยม!"
+        },
+        {
+          "Line": 66,
+          "OriginalText": " Without further ado...",
+          "TranslatedText": " โดยไม่ต้องกังวลใจต่อ ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "Thank you for listening.",
+          "TranslatedText": "ขอขอบคุณที่รับฟัง."
+        },
+        {
+          "Line": 79,
+          "OriginalText": "\nPlease come back and hear it again\nsometime.",
+          "TranslatedText": "\nโปรดกลับมาและฟังอีกครั้ง\nบางครั้ง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "I see...",
+          "TranslatedText": "ฉันเห็น..."
+        },
+        {
+          "Line": 92,
+          "OriginalText": " Well, do let me know if you\nchange your mind.",
+          "TranslatedText": " เอาล่ะแจ้งให้เราทราบหากคุณ\nเปลี่ยนความคิดของคุณ."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 101,
+          "OriginalText": "Have you...",
+          "TranslatedText": "คุณเคย ..."
+        },
+        {
+          "Line": 105,
+          "OriginalText": "never met a Rito before?",
+          "TranslatedText": "เคยพบ Rito มาก่อนหรือไม่ ?"
+        },
+        {
+          "Line": 109,
+          "OriginalText": " Odd.",
+          "TranslatedText": " แปลก."
+        },
+        {
+          "Line": 120,
+          "OriginalText": "My name is Kass.",
+          "TranslatedText": "ฉันชื่อ Kass."
+        },
+        {
+          "Line": 124,
+          "OriginalText": " As a bard, I spend my\ndays traveling this land in search of\nancient songs.",
+          "TranslatedText": " ในฐานะนักกวี,ฉันใช้เวลา\nทั้งวันเที่ยวดินแดนนี้เพื่อค้นหา\nเพลงโบราณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 133,
+          "OriginalText": "Ancient songs\u2014",
+          "TranslatedText": "เพลงโบราณ\u2014"
+        },
+        {
+          "Line": 137,
+          "OriginalText": "songs that sing the \npraises of a hero who beat back the\nCalamity in an age past.",
+          "TranslatedText": "เพลงที่ร้องเพลงสรร\nเสริญจากฮีโร่ที่เอาชนะความหาย\nนะในอดีต"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "I happen to know a song about the\nancient hero. It was passed down to me\nby my teacher.",
+          "TranslatedText": "ฉันรู้เพลงเกี่ยวกับฮีโร่\nโบราณ. ครูของฉันถูกถ่ายทอดลงมาให้ฉันr."
+        },
+        {
+          "Line": 150,
+          "OriginalText": " Do you care to hear it?",
+          "TranslatedText": " คุณสนใจฟังไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Ah, we meet again!",
+          "TranslatedText": "อ่าเราเจอกันใหม่!!"
+        },
+        {
+          "Line": 171,
+          "OriginalText": "\nI\u0027m glad to see you in one piece.\n\n",
+          "TranslatedText": "\nฉันดีใจที่ได้พบคุณในชิ้นเดียว\n\n"
+        },
+        {
+          "Line": 177,
+          "OriginalText": "We\u0027re actually very close to my\nhometown of Rito Village, and I must\nadmit I\u0027m feeling incredibly homesick.",
+          "TranslatedText": "จริงๆแล้วเราอยู่ใกล้กับบ้านเกิดขอ\nงฉันในหมู่บ้าน Ritoe, และฉันต้องยอมรับ\nว่าฉันรู้สึกคิดถึงบ้านอย่างไม่น่าเชื่อk."
+        },
+        {
+          "Line": 181,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 187,
+          "OriginalText": "I had to leave my wife and children back\nin the village. I\u0027m sure they\u0027re doing\njust fine...",
+          "TranslatedText": "ฉันต้องทิ้งภรรยาและลูก ๆ ของฉัน\nกลับเข้าไปในหมู่บ้าน. \u00A0 ฉันแน่ใจว่าพวกเขาทำได้ดี ...\n.."
+        },
+        {
+          "Line": 191,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 197,
+          "OriginalText": "But you see, I cannot go home until\nI fulfill my promise to my teacher.",
+          "TranslatedText": "แต่คุณเห็นไหมฉันกลับบ้านไม่ได้\nฉันทำตามสัญญากับอาจารย์ของฉัน."
+        },
+        {
+          "Line": 201,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n\n"
+        },
+        {
+          "Line": 207,
+          "OriginalText": "My promise to...",
+          "TranslatedText": "คำสัญญาของฉันที่จะ ..."
+        },
+        {
+          "Line": 211,
+          "OriginalText": "\nOn second thought, now is not the time.\n\nBut if I\u0027m able to learn all of the ancient\nsongs...",
+          "TranslatedText": "\nในความคิดที่สองตอนนี้ไม่ใช่เวลา\n\nแต่ถ้าฉันสามารถเรียนรู้เพลงโบราณ\nทั้งหมดได้ ....."
+        },
+        {
+          "Line": 215,
+          "OriginalText": "I will tell you of my promise,\nback in my hometown.\n",
+          "TranslatedText": "ฉันจะบอกคุณเกี่ยวกับคำ\nสัญญาของฉันกลับไปที่บ้านเกิดของฉัน\n"
+        },
+        {
+          "Line": 221,
+          "OriginalText": "But listen to me blathering on.",
+          "TranslatedText": "ต่ฟังฉันด้วยการพูดพร่ำ ."
+        },
+        {
+          "Line": 225,
+          "OriginalText": "\nI need to focus on my craft.",
+          "TranslatedText": "\nฉันต้องให้ความสำคัญกับงานฝีมือของฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 234,
+          "OriginalText": "One of the more famous among them\nrecounts the events of 10,000 years ago.",
+          "TranslatedText": "หนึ่งในผู้โด่งดังในหมู่พวกเขาเล่า\nเหตุการณ์ที่เกิดขึ้นเมื่อ 10,000 ปีก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 243,
+          "OriginalText": "I know a song about this place.",
+          "TranslatedText": "ฉันรู้จักเพลงเกี่ยวกับสถานที่นี้ "
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 252,
+          "OriginalText": "Would you like to hear the ancient verse\npassed down in this region?",
+          "TranslatedText": "คุณต้องการที่จะได้ยินบทกวีโบราณ\nที่ล่วงลับไปแล้วในภูมิภาคนี้?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "We meet again!",
+          "TranslatedText": "เราพบกันใหม่!"
+        },
+        {
+          "Line": 273,
+          "OriginalText": "\nIt\u0027s good to see you well.",
+          "TranslatedText": "\nเป็นเรื่องดีที่ได้พบคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "Greetings, traveler. ",
+          "TranslatedText": "Greetings, traveler. "
+        },
+        {
+          "Line": 286,
+          "OriginalText": "How about a song?",
+          "TranslatedText": "เพลงเป็นอย่างไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "Have you heard of the ",
+          "TranslatedText": "คุณเคยได้ยิน  "
+        },
+        {
+          "Line": 299,
+          "OriginalText": "ancient songs",
+          "TranslatedText": "เพลงที่ชื่นชอบ"
+        },
+        {
+          "Line": 302,
+          "OriginalText": "\nof Hyrule?",
+          "TranslatedText": "\nของ Hyrule?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 319,
+          "OriginalText": "Th-",
+          "TranslatedText": "-"
+        },
+        {
+          "Line": 323,
+          "OriginalText": "that there...",
+          "TranslatedText": "ที่นั่น ....."
+        },
+        {
+          "Line": 327,
+          "OriginalText": "on your hip!",
+          "TranslatedText": "ที่สะโพกของคุณ!!"
+        },
+        {
+          "Line": 341,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 345,
+          "OriginalText": "No, I\u0027m sorry\u2014",
+          "TranslatedText": "ไม่ฉันขอโทษ\u2014"
+        },
+        {
+          "Line": 349,
+          "OriginalText": "it\u0027s nothing.",
+          "TranslatedText": "ไม่มีอะไรเลย ."
+        },
+        {
+          "Line": 353,
+          "OriginalText": "\nI didn\u0027t mean to pry.",
+          "TranslatedText": "\nฉันไม่ได้ตั้งใจแงะ."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 370,
+          "OriginalText": "Allow me to introduce myself.",
+          "TranslatedText": "อนุญาตให้ฉันแนะนำตัวเอง."
+        },
+        {
+          "Line": 374,
+          "OriginalText": "\nMy name is Kass.",
+          "TranslatedText": "\nฉันชื่อ Kass."
+        },
+        {
+          "Line": 378,
+          "OriginalText": " I\u0027m a bard traveling\nthis land in search of ancient songs.",
+          "TranslatedText": " \u00A0 ฉันกวีที่เดินทาง\nไปดินแดนนี้ในการค้นหาเพลงโบราณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 382,
+          "OriginalText": "Stop it!",
+          "TranslatedText": "หยุดนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 386,
+          "OriginalText": "WAAAAAA!",
+          "TranslatedText": "ว้ากก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "Ack!",
+          "TranslatedText": "อ้าก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorHorse",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "Whoa!",
+          "TranslatedText": "ว้าก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "Knock it off!",
+          "TranslatedText": "เคาะมันออก!"
+        }
+      ]
+    }
+  ]
+}

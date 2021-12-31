@@ -1,0 +1,745 @@
+{
+  "FileName": "Npc_Road_042",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "*huff...* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": "*puff...* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 21,
+          "OriginalText": "*huff...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 25,
+          "OriginalText": " *puff...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 29,
+          "OriginalText": "\nYikes, I\u0027m really thirsty.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 38,
+          "OriginalText": "Argh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 42,
+          "OriginalText": "Those blasted monsters!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 51,
+          "OriginalText": "I almost had it...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Youch...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 64,
+          "OriginalText": " And I\u0027m pretty sturdy, too...\nOwww...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 73,
+          "OriginalText": "Run for your life!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": " A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 84,
+          "OriginalText": "\u0027s coming!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_00",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "Do ya have any ore?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": " If so, it\u0027s best to\nsell it at the shop. You can sell the\nrare ones for a high price!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_00_1",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "If ya have any ore ya don\u0027t need,\nit\u0027s a good idea to sell it at a shop.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 110,
+          "OriginalText": "\nThe sparklies go for a high price!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_01",
+      "TextList": [
+        {
+          "Line": 119,
+          "OriginalText": "Have ya ever been to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 123,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "\nIt\u0027s in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "Death Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": "to the west!\n\nOh, but I hear the journey\u0027s too hot for\nanyone who isn\u0027t a Goron...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_01_1",
+      "TextList": [
+        {
+          "Line": 149,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 152,
+          "OriginalText": " is in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 156,
+          "OriginalText": "Death Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": "to the\nwest of here.\n\nThe journey there\u0027s rough, but there are\nlots of great shops.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": " I\u0027d love for you to\npay a visit sometime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_02",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Do ya know a Goron named Boldon?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "\nHe\u0027s my brother!\n\nHe\u0027s a big-hearted Goron who doesn\u0027t\nget caught up in the little things.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 180,
+          "OriginalText": "\nWho knows where he\u0027s travelin\u0027 now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_02_1",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "I know my brother, Boldon, is off\ntravelin\u0027 somewhere.\n\nIf ya run into him, I\u0027d love it if you\u0027d\nstop and chat a bit!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_03",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "You can sell your ore for a high price!\n\n\nIf ya find ore deposits while travelin\u0027,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 202,
+          "OriginalText": "\nI suggest ya get into the habit of\nmining \u0027em!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_03_1",
+      "TextList": [
+        {
+          "Line": 211,
+          "OriginalText": "When I find an ore deposit, I have at it!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "\nThe sparklies that come out of \u0027em\ncan be sold at a high price!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_04",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "This is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": "East Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 231,
+          "OriginalText": "!\n\n\nIf ya have any ore, DO NOT eat it!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": "\nInstead, sell it at this stable!\n\nThough, I guess a non-Goron wouldn\u0027t\nbe tempted to eat it anyway... Weird.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_04_1",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "When you arrive at a stable, you can sell\nthem the things ya don\u0027t need.\n\nI would just eat the rocks I don\u0027t need,\nbut...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 248,
+          "OriginalText": "for a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": "Hylian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": "like you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": " I suppose\nyou\u0027d rather sell \u0027em?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 263,
+          "OriginalText": "Mornin\u0027...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 267,
+          "OriginalText": "Is it lunch time yet?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "I wanna eat some rocks...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "It\u0027s dark as onyx...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "This is hopeless...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "I\u0027m Naddon!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": " I have a brother\nnamed Boldon!\n\nHe\u0027s probably travelin\u0027 the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": "Eldin\nHigh Road ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": "about now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "The weather\u0027s awful...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 312,
+          "OriginalText": " I think it\u0027s best\nnot to force yourself to walk through\nthis stuff!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 321,
+          "OriginalText": "Rumble! Rumble!\n\n\nHm? What, that\u0027s not me! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 325,
+          "OriginalText": "\nThat was the thunder!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_00",
+      "TextList": [
+        {
+          "Line": 334,
+          "OriginalText": "We Gorons live on rocks! YUMMM!\n\n\nOre, on the other hand... Nah. I\u0027d sell\nthat before I ate a single bite!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_00_1",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "Rocks are the staple food of a healthy\nGoron diet.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": " That\u0027s why I always wonder\nwhether to sell rare rocks or eat \u0027em!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_01",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Do ya know of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 360,
+          "OriginalText": "Goron Hot Springs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 363,
+          "OriginalText": "\nthat are on the way to the peak of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 370,
+          "OriginalText": "?\nThe road there\u0027s dangerous, but there\nare travelers who go to try out the\nhot springs...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": " Or so I\u0027ve heard!\nThat sounds dangerous, though...\nNon-Gorons would be risking their\nlives if they tried that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_01_1",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "Goron Hot Springs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": " are a famous\nspot, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "but the road there is dangerous,\nand ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 398,
+          "OriginalText": "Death Mountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 401,
+          "OriginalText": "is crazy hot.\nIf you decide to go, just know that you\u0027re\nrisking your little Hylian life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_02",
+      "TextList": [
+        {
+          "Line": 410,
+          "OriginalText": "There\u0027s some particularly valuable ore\nout there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": " They\u0027re called gems.\n\nYou might find gems in treasure chests\nor ore deposits, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 418,
+          "OriginalText": "they don\u0027t taste\nso good. That\u0027s why I usually sell \u0027em.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_02_1",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "You can find gems inside treasure chests\nand ore deposits.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": " They taste awful, so I\ntend to sell \u0027em.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_03",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "The other day, a Gerudo woman talked to\nme on this road.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": " She was from the\nGerudo region in the southwest. \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 450,
+          "OriginalText": "She was so pretty! Her hair was as\nshiny as stone!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_03_1",
+      "TextList": [
+        {
+          "Line": 459,
+          "OriginalText": "The Gerudo woman who came from the\nGerudo region...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": " She was so pretty!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_04",
+      "TextList": [
+        {
+          "Line": 475,
+          "OriginalText": "East Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 485,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": "\nI get those two mixed up!\nBut I know I\u0027m definitely on my way to...\nErm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "Heh, actually I dunno!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_04_1",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "There\u0027s ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 506,
+          "OriginalText": "East Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": " and also\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "South Akkala Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": " But which one\nis which?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 529,
+          "OriginalText": "Wow! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": "You really helped me out, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 542,
+          "OriginalText": "You\u0027re super strong! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 546,
+          "OriginalText": "You really helped\nme out, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Wow! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": "You saved me, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 568,
+          "OriginalText": "You\u0027re strong!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": " Thanks so much, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 581,
+          "OriginalText": "I owe ya my life, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 590,
+          "OriginalText": "Thanks, brother!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": " Phew, that was close!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 603,
+          "OriginalText": "It\u0027s not much, but this is for you,\nbrother.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

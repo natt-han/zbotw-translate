@@ -1,0 +1,375 @@
+{
+  "FileName": "Npc_goron001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "A regular bed.",
+          "TranslatedText": "เตียงรุ่นธรรมดา"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "A bed and massage.",
+          "TranslatedText": "เตียงและเครื่องนวด"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": "No, thanks."
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Until morning.",
+          "TranslatedText": "Until morning."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Until noon.",
+          "TranslatedText": "จนถึงเที่ยง"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Until night.",
+          "TranslatedText": "จนถึงกลางคืน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "I changed my mind.",
+          "TranslatedText": "ฉันเปลี่ยนใจ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "A massage?",
+          "TranslatedText": "การนวด?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "A regular bed will cost ya ",
+          "TranslatedText": "เตียงธรรมดาราคา"
+        },
+        {
+          "Line": 49,
+          "OriginalText": "20 rupees",
+          "TranslatedText": "20 rupees"
+        },
+        {
+          "Line": 52,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 56,
+          "OriginalText": "\nIf ya wanna throw in a Goron massage,\nthat\u0027ll run ya ",
+          "TranslatedText": "\nถ้าคุณอยากจะนวดแบบ Goron ,\nราคา "
+        },
+        {
+          "Line": 60,
+          "OriginalText": "80 rupees",
+          "TranslatedText": "80 rupees"
+        },
+        {
+          "Line": 63,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "Don\u0027t overwork yourself!",
+          "TranslatedText": "อย่าทำงานหนักเกินไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 97,
+          "OriginalText": "Hey, buddy... ",
+          "TranslatedText": "Hเฮ้เพื่อน.. "
+        },
+        {
+          "Line": 101,
+          "OriginalText": "You\u0027re, uh, low on funds.",
+          "TranslatedText": "คุณเอ่อไม่มีเงิน"
+        },
+        {
+          "Line": 105,
+          "OriginalText": "\nI can\u0027t let ya stay unless ya pay.",
+          "TranslatedText": "\nฉันไม่ให้อยู่ถ้าคุณไม่จ่ายเงิน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 114,
+          "OriginalText": "How long do ya wanna sleep\non the regular bed?",
+          "TranslatedText": "คุณอยากนอนนานแค่ไหน\nบนเตียงธรรมดาเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 133,
+          "OriginalText": "A room and a massage, got it.\nHow long do ya wanna rest for?",
+          "TranslatedText": "รับห้องและนวดไหม\nคุณอยากพักผ่อนนานแค่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 152,
+          "OriginalText": "All right! Sleep well!",
+          "TranslatedText": "เอาล่ะ! ฝันดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk07",
+      "TextList": [
+        {
+          "Line": 161,
+          "OriginalText": "Go ahead and lay down on the rock bed.\nTime to loosen up those tiny muscles!",
+          "TranslatedText": "ไปข้างหน้าและนอนลงบนเตียงหิน\nถึงเวลาคลายกล้ามเนื้อเล็กๆ เหล่านั้น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "Good mornin\u0027!",
+          "TranslatedText": "สวัสดีตอนเช้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Did ya sleep well? Of course ya did!",
+          "TranslatedText": "คุณหลับสบายดีไหม? แน่นอนคุณต้อง!"
+        },
+        {
+          "Line": 189,
+          "OriginalText": "\nTake care, brother!",
+          "TranslatedText": "\nดูแลพี่ชาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "How was the massage? Amazing, right?",
+          "TranslatedText": "การนวดเป็นอย่างไร? น่าทึ่งใช่ไหม?"
+        },
+        {
+          "Line": 202,
+          "OriginalText": "\nTake care, brother!",
+          "TranslatedText": "\nดูแลพี่ชาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "Well, well...",
+          "TranslatedText": "เยี่ยม, เยี่ยม..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 229,
+          "OriginalText": "You must be sooo tired, buddy!\nRunnin\u0027 around at this hour!",
+          "TranslatedText": "คุณต้องเหนื่อยมากเพื่อน!\nวิ่งไปรอบ ๆ ในชั่วโมงนี้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "New to the art of Goron massage,\nI take it? That\u0027s OK. First time for\neverything, as they say.\n",
+          "TranslatedText": "ศิลปการนวดแบบใหม่ของ Goron,\nรับไหม? ไม่เป็นไร ครั้งแรกสำหรับ\nทุกสิ่ง, .\n"
+        },
+        {
+          "Line": 247,
+          "OriginalText": "A Goron-style massage is done on top of\na hard rock bed. ",
+          "TranslatedText": " การนวดของ Goronคือ นวดอยู่\nเตียงหินแข็งๆ.  "
+        },
+        {
+          "Line": 251,
+          "OriginalText": "Pressure is applied to\nyour body to squeeeeze the tension out.\n",
+          "TranslatedText": "แรงกดถูกใช้กับ\nร่างกายของคุณเพื่อบีบความตึงเครียดออกมา\n"
+        },
+        {
+          "Line": 257,
+          "OriginalText": "But I\u0027ll tell ya, it doesn\u0027t hurt one bit.",
+          "TranslatedText": "แต่ฉันจะบอกคุณมันไม่เจ็บสักหน่อย."
+        },
+        {
+          "Line": 261,
+          "OriginalText": "\nMostly.",
+          "TranslatedText": "\nส่วนใหญ่นะ."
+        },
+        {
+          "Line": 265,
+          "OriginalText": " Honestly, I doze off sometimes!\n\nWhen it\u0027s all over, you\u0027ll sleep like a\nrock and feel great when ya wake up.",
+          "TranslatedText": " พูดตามตรงฉันออกไปบ้างในบางครั้ง!\n\nเมื่อมันจบคุณจะนอนหลับเหมือนก้อนหิน\nและรู้สึกดีมากเมื่อคุณตื่นขึ้นมา.."
+        },
+        {
+          "Line": 269,
+          "OriginalText": "\nYou\u0027ll be all limber and full of energy!",
+          "TranslatedText": "\nคุณจะมีพลังและเต็มไปด้วยพลัง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 278,
+          "OriginalText": "Hey, buddy. Have ya heard?\n\n\n",
+          "TranslatedText": "เฮ้เพื่อน เคยได้ยินเหรอ?\n\n\n"
+        },
+        {
+          "Line": 282,
+          "OriginalText": "Rudania ",
+          "TranslatedText": "Rudania "
+        },
+        {
+          "Line": 285,
+          "OriginalText": "has stopped stirrin\u0027 up trouble,",
+          "TranslatedText": "\\u0002\uFFFFหยุดปัญหากวนใจ,"
+        },
+        {
+          "Line": 289,
+          "OriginalText": "\nand the ",
+          "TranslatedText": "\nและ "
+        },
+        {
+          "Line": 293,
+          "OriginalText": "magma bombs ",
+          "TranslatedText": "ระเบิดแมกม่า"
+        },
+        {
+          "Line": 296,
+          "OriginalText": "have stopped too!\n\nOf course, I don\u0027t go outside,\nso it makes no difference to me.\n\n",
+          "TranslatedText": "ก็หยุดเช่นกัน!\n\nแน่นอนฉันไม่ออกไปข้างนอก\nดังนั้นมันจึงไม่ต่างกับฉัน\n\n"
+        },
+        {
+          "Line": 302,
+          "OriginalText": "Anyhoo... ",
+          "TranslatedText": "อะไรก็ได้.. "
+        },
+        {
+          "Line": 306,
+          "OriginalText": "Time to get back to business!",
+          "TranslatedText": "ได้เวลากลับไปทำงาน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 318,
+          "OriginalText": "Hey!",
+          "TranslatedText": "ไง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "Hey, Volcon!",
+          "TranslatedText": "ไง, Volcon!"
+        },
+        {
+          "Line": 337,
+          "OriginalText": " We got a customer!",
+          "TranslatedText": " เรามีลูกค้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk17",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "How was the massage? Amazing, right?",
+          "TranslatedText": "How was the massage? Amazing, right?"
+        },
+        {
+          "Line": 353,
+          "OriginalText": "\nTake care, brother!",
+          "TranslatedText": "\nTake care, brother!"
+        }
+      ]
+    }
+  ]
+}

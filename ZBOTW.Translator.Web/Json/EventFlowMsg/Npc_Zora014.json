@@ -1,0 +1,845 @@
+{
+  "FileName": "Npc_Zora014",
+  "EntryList": [
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Good luck.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "It\u0027s too dangerous!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "...Whatcha doin\u0027?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "What do you mean?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I won\u0027t fail her again.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 33,
+          "OriginalText": "KEEEEAAAAAAAHHH!!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "*rumble*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "KYAAAAAAHHHH!!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "KEEEEYAAAAAHHH!!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "*pant...pant*\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": "Lady Mipha! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 89,
+          "OriginalText": "Watch THIS!\n\n\nI, Seggin, the aptly named Demon Sergeant,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": "\nshall strike down",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": " the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "Playing dumb, eh?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": " Nice try,\nbut you cannot fool me,\nChampion Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "\nYou were unable to protect Lady Mipha",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "\nfrom ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": "!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "It has been 100 years since we lost her...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 151,
+          "OriginalText": "\nPoor Lady Mipha... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "How heartbreaking...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Hmph! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "There is no way we would ask for\nyour help now, after all this time and\nafter all that has happened!\nSo says I, Seggin, the Demon Sergeant!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "\nEven if this body of mine is destroyed...\n\nI will drown ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": " in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": "shock arrows ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "myself!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": "\nAnd in doing so, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": "Lady Mipha",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": "\u0027s regrets\nshall be alleviated.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": "If you understand anything of courage,\nthen get out of my way at once!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 215,
+          "OriginalText": "You have acted so cold and unconcerned\nabout the harm that befell Lady Mipha...\n\nBut no matter\u2014it is too late now.\n\n\nI shall be the one to shoot ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": " down.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 226,
+          "OriginalText": "\nSo it was decided by the Zora council!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": "Just stay out of my way!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "You! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": "Link!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "You again?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 263,
+          "OriginalText": "Though I lack the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 267,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": " needed\nfor the job, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "I am on my way to take on\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": " all by myself!\nDo not try to stop me, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 285,
+          "OriginalText": "Link",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "Ha ha ha!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 309,
+          "OriginalText": " That is the very last thing\nI wish to hear from you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 321,
+          "OriginalText": "AAAARGH! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 325,
+          "OriginalText": "What did you say?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": "\n\n\nI, Seggin, used to strike fear into the\nhearts of demons",
+          "TranslatedText": null
+        },
+        {
+          "Line": 333,
+          "OriginalText": " just by setting foot\nonto the battlefield!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 339,
+          "OriginalText": "Stopping the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "\nwill be simpler than taking a fish from\na baby... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": "No trouble at all, I say!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "Still... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 366,
+          "OriginalText": "According to my fortune today,\nI should be cautious of injury.\n\nIn light of that, I think it would be for the\nbest if I call it a day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 375,
+          "OriginalText": "I still greatly wish to dispel ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": "Lady Mipha",
+          "TranslatedText": null
+        },
+        {
+          "Line": 382,
+          "OriginalText": "\u0027s\nlingering regrets, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": "but I fear it is time to\nretire for a while.\nIf I were to fall due to lack of sleep,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": "\nthat would only sadden Lady Mipha\nfurther still...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "Lady Mipha...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 403,
+          "OriginalText": " I, Seggin...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 407,
+          "OriginalText": "\nshall avenge you... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "The rain...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 424,
+          "OriginalText": "has stopped.\n\n\nCould this be Prince Sidon\u0027s doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 433,
+          "OriginalText": "Zzz... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "*snore* ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 446,
+          "OriginalText": "The Demon Sergeant...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 450,
+          "OriginalText": "has arrived...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 470,
+          "OriginalText": "You! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": "Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": " I have avenged Lady Mipha!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": "Actually...I wish I could say that, but it is\nnot true. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": "To think you of all people would\nbe the one to appease the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 492,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": "...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "What happened to Lady Mipha was\nunfortunate...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "but I understand now.\nI no longer have reason to despise you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 514,
+          "OriginalText": "Link... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 518,
+          "OriginalText": "I never thought you would be the\none to appease the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 522,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 525,
+          "OriginalText": "...\n\nEver since Lady Mipha was swallowed\nup by the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 532,
+          "OriginalText": " 100 years ago...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 536,
+          "OriginalText": "\nI have hated you with all my heart.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 542,
+          "OriginalText": "But it would seem my anger\nwas misplaced.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 551,
+          "OriginalText": "Link...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 555,
+          "OriginalText": " You are the true ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 562,
+          "OriginalText": ".\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "Will you please allow my prior rudeness\nto wash away with the tide?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": " Such is the\nmagic",
+          "TranslatedText": null
+        },
+        {
+          "Line": 576,
+          "OriginalText": " of Zora\u0027s Domain...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "Huh?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": " A Hylian!\n\n\nI am sorry, but the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 593,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": " council",
+          "TranslatedText": null
+        },
+        {
+          "Line": 600,
+          "OriginalText": "\ndoes not take kindly to Hylians.\n\nI advise you to not stick around here\nfor too long.\n\n...\n\n\n...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 612,
+          "OriginalText": "!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 624,
+          "OriginalText": "You... You\u0027re Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 628,
+          "OriginalText": " Finally, I can avenge\nLady Mipha!\n\nIt has been 100 years since you last\nshowed your face here! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "Now I, Seggin,\nwill cut you down myself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 647,
+          "OriginalText": "HEY!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 659,
+          "OriginalText": "In that case, YOU take the responsibility\nof appeasing the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 666,
+          "OriginalText": "!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 675,
+          "OriginalText": "Hmph!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 687,
+          "OriginalText": "I am in the middle of my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 691,
+          "OriginalText": "shock arrow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 694,
+          "OriginalText": "\ntraining. I MUST learn to withstand them!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 698,
+          "OriginalText": "...Did I not JUST tell you that?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 707,
+          "OriginalText": "To commit such violence with the great\nSeggin standing right before you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 719,
+          "OriginalText": "Ah, of course!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "\n\n\nBecause you stole my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": "shock arrow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 730,
+          "OriginalText": ",\nthat\u0027s why!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 739,
+          "OriginalText": "Who did it? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 743,
+          "OriginalText": "Who stole my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 747,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 750,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

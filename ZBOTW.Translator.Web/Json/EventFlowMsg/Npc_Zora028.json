@@ -1,0 +1,630 @@
+{
+  "FileName": "Npc_Zora028",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Prince Sidon?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Pack of geezers?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Ruta?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "\u266APrince Sidon...\u266A ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 46,
+          "OriginalText": "Amazing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 55,
+          "OriginalText": "Good morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "Good day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 73,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 82,
+          "OriginalText": "Yes?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "Do you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "Hm? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": "You don\u0027t have any fins...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "\nAre you a Hylian?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 156,
+          "OriginalText": "Oh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "Are you?!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "I feel like we may or may not have\nmet before...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 170,
+          "OriginalText": "at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 174,
+          "OriginalText": "Zora River",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": "...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 186,
+          "OriginalText": "I am the president of Prince Sidon\u0027s\nfan club. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": "My name is Tula.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": "Do you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 200,
+          "OriginalText": "know Prince Sidon?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "Farewell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 226,
+          "OriginalText": "Ahhh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "Mmm... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "Prince Sidon...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 238,
+          "OriginalText": "\nJust thinking of you turns me\nto mush...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 247,
+          "OriginalText": "On the other hand, if that pack of geezers shows\nup again, I swear...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 257,
+          "OriginalText": "Oh! I\u0027m sorry...\n\n\n*ahem* Anyway... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "Prince Sidon is a man\nwith magnificent ideas.\n\nOh, I know! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": "Why don\u0027t you go and have\na chat with Prince Sidon? Yes, do!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 274,
+          "OriginalText": "That\u0027s just what I\u0027d expect from our\nPrince Sidon! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "His renown has even\nreached you, Hylian.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 287,
+          "OriginalText": "Oh. I see...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 302,
+          "OriginalText": "You\u0027re...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 306,
+          "OriginalText": "in my way...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 320,
+          "OriginalText": "Do you have any more questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 368,
+          "OriginalText": "He has shiny, glorious fangs...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "\nand smooth, shimmering skin...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": "Just imagining Prince Sidon\u0027s fine form...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 382,
+          "OriginalText": "\nI just... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": "*siiiigh*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "The Zora elders intend for our people to\nstop ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 402,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": "without any outside help.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 410,
+          "OriginalText": "Even though touching ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 417,
+          "OriginalText": " for an\nextended period of time",
+          "TranslatedText": null
+        },
+        {
+          "Line": 421,
+          "OriginalText": " is impossible for us...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": "\n\nPrince Sidon, on the other hand, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": "had the\nidea that we could ask an outsider to\nshoot the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": " for us!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": "That\u0027s our Prince Sidon for you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": "\nHe has such bold ideas!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 455,
+          "OriginalText": "By ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 459,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": ", ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 466,
+          "OriginalText": "I mean ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 470,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 473,
+          "OriginalText": " in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": "East Reservoir Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "He\u0027s the culprit. The one who\u0027s making\nit rain and causing all this trouble.\n\nPrince Sidon needs ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 496,
+          "OriginalText": "\nto stop ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 503,
+          "OriginalText": "... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "That much he knows\nfor sure.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "But we Zora can only hold ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": "shock arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": "\nfor a very limited time before...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": "you know.\nLet\u0027s just say it\u0027s very dangerous for us.\nHowever, if a Hylian like you were to help\nus out, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": "I know Prince Sidon would be\nvery grateful!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 537,
+          "OriginalText": "Speaking of which... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 541,
+          "OriginalText": "The bad weather\nseems to have calmed down a bit lately.\n\nIs it possible...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 545,
+          "OriginalText": "that Prince Sidon finally\nappeased ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 549,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 552,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 561,
+          "OriginalText": "Yes, I\u0027ve heard all about it.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": " You...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 569,
+          "OriginalText": "\nYou\u0027re an amazing guy, aren\u0027t you?\n\nYes, you are. You saved us all.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 573,
+          "OriginalText": "\nThank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 582,
+          "OriginalText": "Thank you for saving the domain!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 591,
+          "OriginalText": "Now Lady Mipha\u0027s spirit can finally rest\nin peace.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 600,
+          "OriginalText": "Oh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 604,
+          "OriginalText": "So the Hylian chosen by Prince\nSidon...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 608,
+          "OriginalText": " That\u0027s you, isn\u0027t it?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

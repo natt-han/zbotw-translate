@@ -1,0 +1,415 @@
+{
+  "FileName": "Npc_Lanayru003",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Back at ya.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Her name is Mipha.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 21,
+          "OriginalText": "Mornin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 30,
+          "OriginalText": "Hello!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 39,
+          "OriginalText": "Good evening!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Hi there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "Zzz... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 61,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "I\u0027m going to sleep now...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": "\nSee ya later.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 83,
+          "OriginalText": "I\u0027m going to bed now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "\nPlease don\u0027t follow me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Huh?! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": "Aren\u0027t you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "that lying little worm\nfrom last time?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "It\u0027s rare to see a Hylian here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "The rain stopped!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": " That\u0027s why I was\nfinally able to reach ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": "!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "Now I\u0027m gonna stock up on rare\ngoods at the general store here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "\nDon\u0027t get in my way, understand?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "Huh?! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": "You\u0027re...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": "that guy from last time!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "I\u0027m a traveling merchant. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "I\u0027m everywhere!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "Oh! I should introduce myself...\n\n\nI\u0027m Douma! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": "Nice to meet ya!\n\n\nYa know, it used to rain aaaall the time\naround here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "The statue of that girl",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": " is pretty cute!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 211,
+          "OriginalText": "How would I know?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 220,
+          "OriginalText": "You don\u0027t need to keep telling me that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 229,
+          "OriginalText": "I\u0027ve arrived at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": ", so now I\ncan take a break and enjoy the sights.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 245,
+          "OriginalText": "OK, I need to take a break now...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "\nTime for some sightseeing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 258,
+          "OriginalText": "I purchased enough for today...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "\nTime to take a break!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "I\u0027m going to work now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": " Don\u0027t follow me\u2014\nI\u0027d just bore you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 284,
+          "OriginalText": "Work, work, work... Every day...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": "\nHmm, I wonder if the general store has\nanything good today!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Sasan said...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "he was going to stock up on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "Hylian rice",
+          "TranslatedText": null
+        },
+        {
+          "Line": 308,
+          "OriginalText": ".\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": "I didn\u0027t have the heart to tell him...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "\nthey sell that stuff everywhere!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 327,
+          "OriginalText": "You can\u0027t go wrong by buying some \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 331,
+          "OriginalText": "sizzlefin trout",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": " here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "If I were to buy something myself, it\u0027d be\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "chillfin trout",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": " You can\u0027t easily find\nthat anywhere else!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

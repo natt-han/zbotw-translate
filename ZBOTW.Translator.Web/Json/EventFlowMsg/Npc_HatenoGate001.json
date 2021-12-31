@@ -1,0 +1,825 @@
+{
+  "FileName": "Npc_HatenoGate001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What are you up to?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027ll...leave you to it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Do you need help?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Ancient texts?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Of course, Dr. Calip.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Gotcha, Calip.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "What do you mean?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "You\u0027re right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Read it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0012",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Leave it alone.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Book00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Book01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "There\u0027s a worn-looking book here.\nWould you like to read it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk20",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Don\u0027t go spreading this around, but I\u0027ve\nmade an interesting discovery in this\nancient text.\n\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022\nAfter cross-checking with a few other\nmanuscripts, I\u0027ve realized something\nabout this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": "cursed statue",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": "...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": "It can only refer to a dreadful variety of\ndoll with the ability to influence one\u0027s\nbehavior!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": "Ah, but my apologies.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": " I\u0027m delving into\nmatters too terrifying for laymen.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk22",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 117,
+          "OriginalText": "I\u0027ve been pondering the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 121,
+          "OriginalText": "dark light",
+          "TranslatedText": null
+        },
+        {
+          "Line": 124,
+          "OriginalText": "\nmentioned here for some time, and I\nmust admit I\u0027m stumped.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "Light can\u0027t be dark, obviously. Unless...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "\nWhoops!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": " Can\u0027t go divulging my research\nbefore I publish, now, can I?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 142,
+          "OriginalText": "What a mystery...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "I\u0027m not wrong, am I?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": " It must be around there...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "HA!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": " Let me guess...\n\n\nYou caught wind of the great Dr. Calip\u0027s\ngroundbreaking research and just HAD to\nmeet him for yourself.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": " Heh...\nNo?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": " Don\u0027t tell me you\u0027ve never even\nHEARD of me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": " After I\u0027ve dedicated my\nlife to researching the ancient shrines?!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 211,
+          "OriginalText": "*sigh*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": " Well, you\u0027d better remember my\nname, for it\u0027s not the last you\u0027ll hear\nof it!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": "And while I\u0027m at it, it\u0027s \u0022DOCTOR Calip,\u0022\nif you please. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 225,
+          "OriginalText": "I didn\u0027t study my rear end\noff to be called \u0022Mr. Calip.\u0022\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 229,
+          "OriginalText": "Everyone forgets I\u0027m a doctor for some reason...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 248,
+          "OriginalText": "And since you asked, I\u0027ll inform you that\nI\u0027m engaged in analyzing ancient texts.\nI haven\u0027t time for idle chitchat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "You again?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": " What now?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": " You want to tag\nalong on my fieldwork?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": "Well, I suppose it might do you some\ngood to see an expert at work.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": " Just try\nto stay out of my way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Oh, it\u0027s you. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "Can whatever it is wait?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "\nI\u0027m VERY busy deciphering these ancient\ntexts.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 327,
+          "OriginalText": "Soon, my long years of research will be\nrevealed...and all the world will hail it as\nthe discovery of the century!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 333,
+          "OriginalText": "To prevent any undue attention, I haven\u0027t\neven told my family about my work.\nYou understand, I\u0027m sure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 350,
+          "OriginalText": "...\n\n\nThese ancient writings are like a gauntlet\nlaid before us from long-dead\ncivilizations!\nOr, if you prefer, they are love letters\nmeant for the eyes of all archaeologists\nseduced by history.\nDo you see what I mean?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": " Either way,\nit\u0027s a private matter between me and my\nrelics. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 358,
+          "OriginalText": "There\u0027s no room for laypersons.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Did I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "just hear you call me doctor?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 375,
+          "OriginalText": "\nAs in,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": " not merely Calip,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": " but DOCTOR\nCalip?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "\nIt rolled off your tongue so naturally.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "\nIt was downright salivary!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 405,
+          "OriginalText": "Will you never cease pestering me?\nAnd call me by my proper title: Dr. Calip.\nThe \u0022Dr.\u0022 is important.\nAnyway, I\u0027m busy deciphering these\nancient texts. Can whatever you need\nwait until later?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 422,
+          "OriginalText": "Unusually sensible of you. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 426,
+          "OriginalText": "But if you\nhave the wit to address me by my proper\ntitle, perhaps I shouldn\u0027t be so surprised.\nMy work keeps me far too busy to sleep,\nso you can rest in my bed over there if\nyou need.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 435,
+          "OriginalText": "I only do fieldwork at shrines and ruins\nduring the day.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 439,
+          "OriginalText": " Why, you ask?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 445,
+          "OriginalText": "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 449,
+          "OriginalText": "What an ignoramus...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 458,
+          "OriginalText": "Hrm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 462,
+          "OriginalText": " This changes things...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 478,
+          "OriginalText": "Very well then!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": " I\u0027m feeling charitable,\nso I\u0027ll let a few things spill.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": " This is just\nbetween us, understand.\n\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 496,
+          "OriginalText": "I\u0027m still in the process of deciphering\nthat one, so I don\u0027t suppose there\u0027s\nany harm in sharing it with you.\nBut see here, there are far too many\ndangers lurking at this time of night for\nme to stand around discussing this.\nIf you want to rest in my bed, you may.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": "\nI tend to be far too engrossed in my\nwork to sleep...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 514,
+          "OriginalText": "For goodness\u0027 sake, can you not take\neven the broadest hint?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 518,
+          "OriginalText": " I\u0027m busy!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 522,
+          "OriginalText": " These\nancient texts won\u0027t decipher themselves!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": "Times like these make me long to be\nback in academia, where at least people\nunderstood the value of solitude...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 545,
+          "OriginalText": "I don\u0027t mind a little rain, but the lightning\nin Hyrule is alarmingly attracted to\nanything metallic.\nNo, on days like this, it\u0027s best to shut\noneself in and wait for the rain to clear.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 551,
+          "OriginalText": "If you must go gallivanting across the\ncountryside, take care you don\u0027t get\nstruck, at least.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 560,
+          "OriginalText": "Today\u0027s research trip is on hold.\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 577,
+          "OriginalText": "Monsters roam these parts after nightfall.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 581,
+          "OriginalText": "\nIt\u0027s best to stay safely inside until dawn.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "Today\u0027s research trip is on hold.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": "My glasses are unfortunately metallic...\nIn this weather, my life could be at risk!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 608,
+          "OriginalText": "I only do fieldwork at shrines and ruins\nduring the day.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 612,
+          "OriginalText": " Why, you ask?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 618,
+          "OriginalText": "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 622,
+          "OriginalText": "What an ignoramus...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 631,
+          "OriginalText": "I try not to set foot outside my hut when\nnight falls and monsters begin to roam\nthis area.\nJust because I\u0027m a trained archaeologist\ndoesn\u0027t mean I have any skill with\na blade. Quite the opposite, in fact.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 640,
+          "OriginalText": "Hrm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 644,
+          "OriginalText": " This changes things...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 660,
+          "OriginalText": "Very well then!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 664,
+          "OriginalText": " I\u0027m feeling charitable,\nso I\u0027ll let a few things spill.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 668,
+          "OriginalText": " This is just\nbetween us, understand.\n\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 672,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 678,
+          "OriginalText": "I\u0027m still in the process of deciphering\nthat one, so I don\u0027t suppose there\u0027s\nany harm in sharing it with you.\nThat\u0027s my life in a nutshell.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 682,
+          "OriginalText": " Days filled\nwith researching shrines and nights\nspent studying ancient texts.\nThat leaves no time to converse with\npassing strangers, so farewell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 696,
+          "OriginalText": "I mustn\u0027t be outside right now!\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 716,
+          "OriginalText": "A shrine? Here? But I hadn\u0027t completed my\ninquiry into the mystery of the ancient texts.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 722,
+          "OriginalText": "Hrm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": " This must be what we in the archaeology\nprofession refer to as \u0022a stroke of luck.\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 730,
+          "OriginalText": " Er, not\nthat I believe in any such thing...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 742,
+          "OriginalText": "Huh.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 746,
+          "OriginalText": " The mystery deepens...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": "My only response can be to redouble\nmy efforts\u2014now that the shrine is\nvisible\u2014to solve the mystery at last!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 764,
+          "OriginalText": "\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 768,
+          "OriginalText": "\nThe answer is here somewhere...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 772,
+          "OriginalText": "but what is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 797,
+          "OriginalText": "You again... You certainly look pleased\nwith yourself.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 803,
+          "OriginalText": "But no matter. It\u0027s time I headed out for\nsome more shrine fieldwork. ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 812,
+          "OriginalText": "I\u0027m feeling charitable, so I\u0027ll let a few\nthings spill.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 816,
+          "OriginalText": " This is just between us,\nunderstand.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 822,
+          "OriginalText": "\u0022When a dark light resides in the cursed\nstatue\u0027s eyes, pierce its gaze to purge\nthe seal from the shrine.\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 826,
+          "OriginalText": "\nI\u0027m still in the process of deciphering\nthat one, so I don\u0027t suppose there\u0027s\nany harm in sharing it with you.\nThat\u0027s my life:",
+          "TranslatedText": null
+        },
+        {
+          "Line": 830,
+          "OriginalText": " days spent researching\nshrines and nights filled with the study\nof ancient texts. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 834,
+          "OriginalText": "Back to work now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk35",
+      "TextList": [
+        {
+          "Line": 849,
+          "OriginalText": "Doctor...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 869,
+          "OriginalText": "It\u0027s close... It HAS to be...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 880,
+          "OriginalText": "Hmm, dawn is starting to break. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 884,
+          "OriginalText": "Time for another\nday of field research.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "FileName": "NPC_Common_B",
+  "EntryList": [
+    {
+      "EntryName": "ClearTerrorEnemy_00",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorEnemy_01",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "That was close...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorEnemy_02",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Hohhh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorGuardian_00",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "That was scary...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorGuardian_01",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "That was close...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorGuardian_02",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer_00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Where are his clothes?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer_01",
+      "TextList": [
+        {
+          "Line": 46,
+          "OriginalText": "What a weirdo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer_02",
+      "TextList": [
+        {
+          "Line": 55,
+          "OriginalText": "Not gonna put clothes on?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorAnimal_00",
+      "TextList": [
+        {
+          "Line": 59,
+          "OriginalText": "Aaaaauugh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorAnimal_01",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Gyaaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorAnimal_02",
+      "TextList": [
+        {
+          "Line": 67,
+          "OriginalText": "Run away!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow_00",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "What are you doing?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow_01",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "Hold it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow_02",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "Stop that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb_00",
+      "TextList": [
+        {
+          "Line": 83,
+          "OriginalText": "What the\u2014?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb_01",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "Wah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb_02",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "Hmm?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorEnemy_00",
+      "TextList": [
+        {
+          "Line": 95,
+          "OriginalText": "Run away!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorEnemy_01",
+      "TextList": [
+        {
+          "Line": 99,
+          "OriginalText": "Uwaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorEnemy_02",
+      "TextList": [
+        {
+          "Line": 103,
+          "OriginalText": "Help me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion_00",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Wahh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion_01",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "Gyah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion_02",
+      "TextList": [
+        {
+          "Line": 115,
+          "OriginalText": "Uwaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire_00",
+      "TextList": [
+        {
+          "Line": 119,
+          "OriginalText": "It\u0027s hot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire_01",
+      "TextList": [
+        {
+          "Line": 123,
+          "OriginalText": "Hot hot hot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire_02",
+      "TextList": [
+        {
+          "Line": 127,
+          "OriginalText": "That was close...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorGuardian_00",
+      "TextList": [
+        {
+          "Line": 131,
+          "OriginalText": "Eeee!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorGuardian_01",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "Uwaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorGuardian_02",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "Help me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorHorse_00",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "Hyahh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorHorse_01",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "That was close...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorHorse_02",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "Wah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse_00",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "Aaaaack!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse_01",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Uwaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse_02",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "Gyaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorInsect_00",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Gyahh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorInsect_01",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Ewwwww!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorInsect_02",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "Uwaah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorLightning_00",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "Wahh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorLightning_01",
+      "TextList": [
+        {
+          "Line": 183,
+          "OriginalText": "Gyah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorLightning_02",
+      "TextList": [
+        {
+          "Line": 187,
+          "OriginalText": "Yikes...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword_00",
+      "TextList": [
+        {
+          "Line": 191,
+          "OriginalText": "Hey!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword_01",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "Watch it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword_02",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "Wah!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

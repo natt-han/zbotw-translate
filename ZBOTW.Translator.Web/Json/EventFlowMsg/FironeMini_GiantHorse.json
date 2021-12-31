@@ -1,0 +1,470 @@
+{
+  "FileName": "FironeMini_GiantHorse",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Leave it to me.",
+          "TranslatedText": "ปล่อยให้ฉัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027m not interested.",
+          "TranslatedText": "ฉันไม่สนใจ."
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Giant horse?",
+          "TranslatedText": "ม้ายักษ์?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Monsters?",
+          "TranslatedText": "สัตว์ประหลาด?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Go ahead.",
+          "TranslatedText": "ลุยเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "So...big...",
+          "TranslatedText": "ใหญ่มาก..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Zzz...",
+          "TranslatedText": "Zzz..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Ohhh...",
+          "TranslatedText": "โอ้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Hey there!",
+          "TranslatedText": "สวัสดี!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Hey there!",
+          "TranslatedText": "สวัสดี!"
+        },
+        {
+          "Line": 53,
+          "OriginalText": " It\u0027s not every day that I see\nsomeone all the way out here!\n\nWe\u0027re doing an ecological study on the\nwild animals in the area.\n\nWe\u0027d heard that there was a ",
+          "TranslatedText": " ไม่ใช่ทุกวันที่ฉันจะเห็นใครบางคนออกไปที่นี่!\nเรากำลังทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่าในพื้นที่\nเราได้ยินมาว่ามี "
+        },
+        {
+          "Line": 57,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 60,
+          "OriginalText": "\nliving in this region.",
+          "TranslatedText": "\nอาศัยอยู่ในภูมิภาคนี้.\n"
+        },
+        {
+          "Line": 64,
+          "OriginalText": " Apparently it\ncan\u0027t be found anywhere else...\nThat was all we needed to hear!\nWe headed this way to investigate\nright away!",
+          "TranslatedText": " เห็นได้ชัดว่าหาไม่ได้จากที่อื่น ...\nนั่นคือทั้งหมดที่เราต้องการได้ยิน!\nเรามุ่งหน้าไปทางนี้เพื่อตรวจสอบทันที!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 76,
+          "OriginalText": "That horse...",
+          "TranslatedText": "ม้าตัวนั้น..."
+        },
+        {
+          "Line": 80,
+          "OriginalText": " It\u0027s huge...",
+          "TranslatedText": " มันใหญ่..."
+        },
+        {
+          "Line": 84,
+          "OriginalText": "\n\n\nI\u0027ve never seen one that big! That is\ndefinitely an endemic species!",
+          "TranslatedText": "\nไม่เคยเห็นใครตัวไหนใหญ่ขนาดนี้! \nนั่นเป็นพันธุ์เฉพาะถิ่นแน่นอน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "Well? What do you say?",
+          "TranslatedText": "ห๊า? พูดว่าอะไรนะ?"
+        },
+        {
+          "Line": 97,
+          "OriginalText": " Are you willing\nto help us investigate these stories of a\n",
+          "TranslatedText": " คุณยินดีที่จะช่วยเราตรวจสอบเรื่องราวของ\n"
+        },
+        {
+          "Line": 101,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 104,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "This is to thank you for helping with our\ninvestigation!",
+          "TranslatedText": "ขอขอบคุณสำหรับความช่วยเหลือ\nในการตรวจสอบของเรา!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "The really big horse in this region is\nlikely part of a rare, local species.\n\nHowever, with all the monsters roaming\naround, ",
+          "TranslatedText": "ม้าตัวใหญ่จริงๆในภูมิภาคนี้\nน่าจะเป็นส่วนหนึ่งของสายพันธุ์ท้องถิ่นที่หายาก\nอย่างไรก็ตามกับมอนสเตอร์ทั้งหมดที่สัญจรไปมา, \n"
+        },
+        {
+          "Line": 134,
+          "OriginalText": "we simply can\u0027t go any farther.",
+          "TranslatedText": "เราไม่สามารถไปได้ไกลกว่านี้."
+        },
+        {
+          "Line": 138,
+          "OriginalText": "\nTo be so close to discovery...",
+          "TranslatedText": "\nใกล้เคียงกับการค้นพบ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "To think that there is actually a horse\nthis big out there. How surprising!",
+          "TranslatedText": "คิดว่ามีม้าตัวใหญ่อยู่ที่นั่นจริงๆ \nน่าแปลกใจแค่ไหน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Ah, you\u0027re a lifesaver!",
+          "TranslatedText": "อ่า คุณเป็นผู้ช่วยชีวิต!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 168,
+          "OriginalText": "I see. Well... Oh, well, then...",
+          "TranslatedText": "ฉันเห็น. อืม ... อืมอย่างนั้น..."
+        },
+        {
+          "Line": 172,
+          "OriginalText": "\n\n\nIf you change your mind, come back and\ntalk to me again!",
+          "TranslatedText": "\nถ้าเปลี่ยนใจกลับมาคุยกันใหม่นะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "How\u0027s it going?",
+          "TranslatedText": "เป็นอย่างไรบ้าง?"
+        },
+        {
+          "Line": 185,
+          "OriginalText": " Have you made progress\nin studying the ",
+          "TranslatedText": " คุณมีความก้าวหน้าในการศึกษายังไง "
+        },
+        {
+          "Line": 189,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 192,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 201,
+          "OriginalText": "They say that the ",
+          "TranslatedText": "พวกเขาบอกว่า "
+        },
+        {
+          "Line": 205,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 208,
+          "OriginalText": " lives\naround the ",
+          "TranslatedText": " อาศัยอยู่รอบ ๆ "
+        },
+        {
+          "Line": 212,
+          "OriginalText": "Taobab Grassland",
+          "TranslatedText": "ทุ่งหญ้า Taobab Grassland"
+        },
+        {
+          "Line": 215,
+          "OriginalText": "... That\u0027d\nbe northwest of here.",
+          "TranslatedText": "... \nนั้นจะอยู่ทางตะวันตกเฉียงเหนือของที่นี่."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "Do you think you could catch it and\nbring it back here?",
+          "TranslatedText": "คิดว่าจะจับได้และนำกลับมาที่นี่หรือไม่?\n"
+        },
+        {
+          "Line": 228,
+          "OriginalText": " Don\u0027t stress out\nover the request, though!",
+          "TranslatedText": " อย่าเครียดกับคำขอ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "What do you want at this hour?",
+          "TranslatedText": "คุณต้องการอะไรในชั่วโมงนี้?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "It\u0027s gotten really late.",
+          "TranslatedText": "มันสายไปแล้ว.\n"
+        },
+        {
+          "Line": 250,
+          "OriginalText": " Why not rest for\nthe night, hmm?",
+          "TranslatedText": " ทำไมไม่พักสักคืน หืม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "That\u0027s right...",
+          "TranslatedText": "ถูกตัอง..."
+        },
+        {
+          "Line": 263,
+          "OriginalText": " There was even a monster\nthat looked quite a lot like a horse...\n\nI approached it, thinking at first that it\nwas the ",
+          "TranslatedText": " มีแม้แต่สัตว์ประหลาด\nที่ดูเหมือนม้ามาก ...\nฉันเข้าไปใกล้มันโดยคิดในตอนแรกว่ามันคือ "
+        },
+        {
+          "Line": 267,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 270,
+          "OriginalText": " we\u0027ve been looking\nfor,",
+          "TranslatedText": " เรากำลังมองหา,\n"
+        },
+        {
+          "Line": 274,
+          "OriginalText": " but... ",
+          "TranslatedText": " แต่... "
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Oh, it was terrible...\n",
+          "TranslatedText": "โอ้มันแย่มาก...\n"
+        },
+        {
+          "Line": 284,
+          "OriginalText": "Just from looking at you, I\u0027d guess that\nyou\u0027re an adventurer, right?\nYou certainly look strong.\nHrm...",
+          "TranslatedText": "แค่มองคุณฉันเดาว่าคุณเป็นนักผจญภัยใช่มั้ย?\nคุณดูแข็งแรงมาก.\nหือ..."
+        },
+        {
+          "Line": 288,
+          "OriginalText": " Hey, how would you like to go and\ncatch a ",
+          "TranslatedText": " เฮ้คุณอยากไปจับ "
+        },
+        {
+          "Line": 292,
+          "OriginalText": "giant horse",
+          "TranslatedText": "ม้ายักษ์"
+        },
+        {
+          "Line": 295,
+          "OriginalText": " for us?",
+          "TranslatedText": " สำหรับพวกเรา?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 312,
+          "OriginalText": "Hey,",
+          "TranslatedText": "เฮ้,"
+        },
+        {
+          "Line": 316,
+          "OriginalText": " we\u0027re out here doing an\necological study on the wildlife of\nthis area.\nSpecifically, we\u0027re here to look into\nreports of a giant horse.\n\n",
+          "TranslatedText": " เราอยู่ที่นี่เพื่อทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่าในพื้นที่นี้\nโดยเฉพาะอย่างยิ่งเรามาที่นี่เพื่อ\nตรวจสอบรายงานเกี่ยวกับม้ายักษ์.\n"
+        },
+        {
+          "Line": 322,
+          "OriginalText": "And you brought it right to us!",
+          "TranslatedText": "และคุณนำมาให้เรา!"
+        },
+        {
+          "Line": 326,
+          "OriginalText": " Thanks\nto you, we were able to meet the giant\nhorse without having to search!",
+          "TranslatedText": " ต้องขอบคุณคุณ\nเราสามารถพบม้ายักษ์ได้โดยไม่ต้องค้นหา!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 335,
+          "OriginalText": "Sorry, but can I take a good look\nat that horse?",
+          "TranslatedText": "ขอโทษที \nขอดูม้าตัวนั้นให้ดีๆหน่อยได้ไหม"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "Thanks, I\u0027ll be right back.",
+          "TranslatedText": "ขอบคุณ ฉันจะกลับมา."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Hrmmm.",
+          "TranslatedText": "อืม.\n"
+        },
+        {
+          "Line": 360,
+          "OriginalText": " This is impressive.",
+          "TranslatedText": " อันนี้น่าประทับใจ."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 372,
+          "OriginalText": "Wow. With this much info, I can feel my\nspirit for discovery murmuring in\ncontentment.\nIt\u0027s definitely different, seeing something\nwith your own eyes rather than just\nreading about it. Thank you!",
+          "TranslatedText": "ว้าว. ด้วยข้อมูลมากมายนี้ฉันรู้สึกได้ถึง\nจิตวิญญาณของฉันที่พบว่ามีการพึมพำในความพึงพอใจ\nมันแตกต่างอย่างแน่นอนการได้เห็นบางสิ่งบางอย่าง\nด้วยตาของคุณเองแทนที่จะอ่านมัน ขอบคุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 381,
+          "OriginalText": "Ah, hmm.",
+          "TranslatedText": "อ่า อืม.\n"
+        },
+        {
+          "Line": 385,
+          "OriginalText": " Quite interesting.",
+          "TranslatedText": " น่าสนใจทีเดียว."
+        }
+      ]
+    }
+  ]
+}

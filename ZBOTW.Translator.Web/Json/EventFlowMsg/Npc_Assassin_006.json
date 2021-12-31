@@ -1,0 +1,175 @@
+{
+  "FileName": "Npc_Assassin_006",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Lurk?",
+          "TranslatedText": "Lurk?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Lick?",
+          "TranslatedText": "Lick?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Leek?",
+          "TranslatedText": "Leek?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Link?",
+          "TranslatedText": "Link?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Henshin00",
+      "TextList": [
+        {
+          "Line": 38,
+          "OriginalText": "Lay down your life!",
+          "TranslatedText": "มอบชีวิตแกมาซะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Henshin01",
+      "TextList": [
+        {
+          "Line": 62,
+          "OriginalText": "Begone, enemy of my master!",
+          "TranslatedText": "หายไปซะ ศัตรูของนายข้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 77,
+          "OriginalText": "What was it...",
+          "TranslatedText": "อะไรกันนะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 86,
+          "OriginalText": "Hrm...",
+          "TranslatedText": "อืมม..."
+        },
+        {
+          "Line": 90,
+          "OriginalText": " What\u0027s that word? It\u0027s on the\ntip of my tongue, but I just can\u0027t think\nof it...\nIt starts with L...",
+          "TranslatedText": " มันว่ายังไงแล้วนะ? ติดอยู่ที่ลิ้นเนี่ย\nแต่นึกไม่ออก...\nมันขึ้นต้นด้วย L..."
+        },
+        {
+          "Line": 94,
+          "OriginalText": "ends in K...",
+          "TranslatedText": "ลงท้ายด้วย K..."
+        },
+        {
+          "Line": 98,
+          "OriginalText": "\nWhat is it, though...",
+          "TranslatedText": "\nมันคืออะไรนะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "Isn\u0027t that when you kinda sneak around\nand listen in on others? I think it is...",
+          "TranslatedText": "นั่นมันหลายถึงเวลาที่แอบย่องเข้าหลัง\nเพื่อแอบฟังคนอื่นใช่มั้ย? "
+        },
+        {
+          "Line": 201,
+          "OriginalText": "\nThe word sounds like that too...\nNot the word I was thinking of, though.",
+          "TranslatedText": "\nยังไม่ใช่คำที่คิดไว้นะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 210,
+          "OriginalText": "Oh, that word... That\u0027s when you use\nyour tongue to taste something, right?",
+          "TranslatedText": "นั่นมัน... ที่หมายถึงเวลา\nใช้ลิ้นชิมอะไรบางอย่างใช่มั้ย?"
+        },
+        {
+          "Line": 214,
+          "OriginalText": "\nYeah... \u0022Lick.\u0022 Hrm.\nNot the word I wanted, though.",
+          "TranslatedText": "\nยังไม่ใช่คำที่ต้องการนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "Ooh, the long vegetable! Wait... Is it a\nvegetable? I actually don\u0027t know.\n\n",
+          "TranslatedText": "อ้อ ไอ้ผักยาวๆ อะนะ! เดี๋ยว... มันเป็นผัก\nรึเปล่านะ? ไม่รู้แฮะ\n"
+        },
+        {
+          "Line": 229,
+          "OriginalText": "Regardless, not the word I was\nlooking for.",
+          "TranslatedText": "แต่ยังไม่ใช่คำที่ฉันต้องการนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 238,
+          "OriginalText": "Oh, right...",
+          "TranslatedText": "อ้อ ใช่..."
+        },
+        {
+          "Line": 242,
+          "OriginalText": " The Hylian Champion, or\nso I\u0027ve heard...somewhere...\n\nThat\u0027s you, right? ",
+          "TranslatedText": " Hylian Champion...\nนั่นคุณเองใช่มั้ย? "
+        },
+        {
+          "Line": 246,
+          "OriginalText": "You\u0027re Link.",
+          "TranslatedText": "คุณคือ Link"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Yes... We meet again, Link.",
+          "TranslatedText": "ใช่... เราพบกันอีกแล้ว Link"
+        }
+      ]
+    }
+  ]
+}

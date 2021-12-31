@@ -1,0 +1,840 @@
+{
+  "FileName": "Gerudo_tsukamidake",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What\u0027s the matter?",
+          "TranslatedText": "เกิดอะไรขึ้น?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I brought \u0027em.",
+          "TranslatedText": "ฉันเอาพวกเขามา."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Where are they?",
+          "TranslatedText": "พวกเขาอยู่ที่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Not yet.",
+          "TranslatedText": "ยัง."
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "Not enough...",
+          "TranslatedText": "ไม่พอ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_001",
+      "TextList": [
+        {
+          "Line": 38,
+          "OriginalText": "Buddy...\n\n\nGot any ",
+          "TranslatedText": "เพื่อน...\nได้ "
+        },
+        {
+          "Line": 42,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 45,
+          "OriginalText": "?",
+          "TranslatedText": "มาบ้างมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_002",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "See, I... I\u0027m tired.\n\n\nTired of going normal speed, I mean...\n\n\nI first tried ",
+          "TranslatedText": "เห็นฉัน... ฉันเหนื่อย.\nเบื่อที่จะใช้ความเร็วปกติฉันหมายถึง ...\nฉันพยายามกิน "
+        },
+        {
+          "Line": 61,
+          "OriginalText": "rushrooms ",
+          "TranslatedText": "rushrooms "
+        },
+        {
+          "Line": 64,
+          "OriginalText": "when I was five\nyears old...\n\nAnd come to think of it, I ate them every\nday since without fail...\n\n",
+          "TranslatedText": "\nครั้งแรกเมื่อฉันอายุห้าขวบ...\nลองคิดดูฉันกินมันทุกวันตั้งแต่นั้นมา...\n"
+        },
+        {
+          "Line": 70,
+          "OriginalText": "Back in the day, I\u0027d win every race I ran\nthanks to those things...\n\n",
+          "TranslatedText": "ย้อนกลับไปในวันนั้น\nฉันชนะการแข่งขันทุกครั้งที่วิ่งด้วยสิ่งเหล่านั้น...\n"
+        },
+        {
+          "Line": 76,
+          "OriginalText": "Cut to 55 years later...",
+          "TranslatedText": "ตัดมาที่ 55 ปีต่อมา..."
+        },
+        {
+          "Line": 80,
+          "OriginalText": "\n\n\nNow I can barely drag these bones off\nthe ground without those ",
+          "TranslatedText": "\nตอนนี้ฉันแทบจะไม่สามารถลุก\nขึ้นจากพื้นได้โดยไม่มี "
+        },
+        {
+          "Line": 84,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 87,
+          "OriginalText": ".\n\nBut no matter how many I eat to fortify\nmyself...\n\nI\u0027m just too old to get up the cliffs to\npick ",
+          "TranslatedText": ".\nแต่ไม่ว่าจะกินเยอะแค่ไหน\nเพื่อเสริมพลังให้ตัวเอง...\nฉันแก่เกินไปที่จะขึ้นหน้าผาเพื่อเลือก "
+        },
+        {
+          "Line": 91,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 94,
+          "OriginalText": " where they grow...\n\n",
+          "TranslatedText": " \nที่พวกเขาเติบโต...\n"
+        },
+        {
+          "Line": 100,
+          "OriginalText": "That\u0027s why I\u0027m letting all able-bodied\nsorts know that I\u0027m in the market for \u0027em.\n\nI\u0027ll give a ",
+          "TranslatedText": "นั่นเป็นเหตุผลที่ฉันปล่อยให้คนฉกรรจ์\nทุกคนรู้ว่าฉันอยู่ในตลาดของพวกเขา.\nฉันจะให้ "
+        },
+        {
+          "Line": 104,
+          "OriginalText": "diamond",
+          "TranslatedText": "เพชร"
+        },
+        {
+          "Line": 107,
+          "OriginalText": " for ",
+          "TranslatedText": " สำหรับ "
+        },
+        {
+          "Line": 111,
+          "OriginalText": "55 rushrooms",
+          "TranslatedText": "55 rushrooms"
+        },
+        {
+          "Line": 114,
+          "OriginalText": ". \nThat\u0027s worth the effort, right?\n\nIf you want to do business, just come\ntalk to me. I\u0027m always here.",
+          "TranslatedText": ". \nคุ้มค่ากับความพยายามใช่ไหม?\nหากคุณต้องการทำธุรกิจ\nเพียงมาคุยกับฉัน ฉันอยู่ตรงนี้เสมอ."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_011",
+      "TextList": [
+        {
+          "Line": 123,
+          "OriginalText": "Lady...",
+          "TranslatedText": "ผู้หญิง..."
+        },
+        {
+          "Line": 127,
+          "OriginalText": "\n\n\nOh, uhh... ",
+          "TranslatedText": "\nโอ้ เอ่อ... "
+        },
+        {
+          "Line": 131,
+          "OriginalText": "I mean, buddy... \nThrew me off with that outfit...",
+          "TranslatedText": "ฉันหมายความว่า, เพื่อน... \nทำให้ฉันหลุดด้วยชุดแบบนั้นทุกทีเลย..."
+        },
+        {
+          "Line": 135,
+          "OriginalText": "\n\nAnyway...",
+          "TranslatedText": "\nอย่างไรก็ตาม..."
+        },
+        {
+          "Line": 139,
+          "OriginalText": " Got any ",
+          "TranslatedText": " ได้\n"
+        },
+        {
+          "Line": 143,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 146,
+          "OriginalText": "?",
+          "TranslatedText": "มาบ้างมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_050",
+      "TextList": [
+        {
+          "Line": 158,
+          "OriginalText": "I thought you\u0027d come back...\n\n\nYou bring the stuff?",
+          "TranslatedText": "ฉันคิดว่าคุณจะกลับมา...\nคุณเอาของมา?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_051",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "5... ",
+          "TranslatedText": "5... "
+        },
+        {
+          "Line": 183,
+          "OriginalText": "15... ",
+          "TranslatedText": "15... "
+        },
+        {
+          "Line": 187,
+          "OriginalText": "25... ",
+          "TranslatedText": "25... "
+        },
+        {
+          "Line": 191,
+          "OriginalText": "35...",
+          "TranslatedText": "35..."
+        },
+        {
+          "Line": 195,
+          "OriginalText": " 55...",
+          "TranslatedText": " 55..."
+        },
+        {
+          "Line": 199,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 205,
+          "OriginalText": "Heh, yep, they\u0027re all here...",
+          "TranslatedText": "เฮ้ ใช่พวกเขาทั้งหมดอยู่ที่นี่..."
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\n\n\nI left that rock I promised you ",
+          "TranslatedText": "\nฉันทิ้งก้อนหินนั้นไว้ฉันสัญญากับคุณ "
+        },
+        {
+          "Line": 213,
+          "OriginalText": "behind the\nstable",
+          "TranslatedText": "\nหลังคอกม้า"
+        },
+        {
+          "Line": 216,
+          "OriginalText": ".\n\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 222,
+          "OriginalText": "Beats me why anyone would go to such\ntrouble for a little ol\u0027 rock...\n\n",
+          "TranslatedText": "เอาชนะฉัน ทำไมทุกๆคน\nถึงอยากมีปัญหากับหิน...\n"
+        },
+        {
+          "Line": 228,
+          "OriginalText": "I\u0027d rather have ",
+          "TranslatedText": "ฉันอยากจะกิน\n"
+        },
+        {
+          "Line": 232,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 235,
+          "OriginalText": " any day.",
+          "TranslatedText": " ทุกๆวัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_052",
+      "TextList": [
+        {
+          "Line": 244,
+          "OriginalText": "Heh. Come back when you get more.\nI\u0027m always here.\n\n",
+          "TranslatedText": "เฮ้ กลับมาอีกครั้งนะถ้าได้มาอีก.\nฉันอยู่ตรงนี้ตลอด.\n"
+        },
+        {
+          "Line": 250,
+          "OriginalText": "I can\u0027t give you any more diamonds,\nbut I CAN offer twice the market value\nfor \u0027em.\n",
+          "TranslatedText": "ฉันให้เพรชนายไม่ได้อีกแล้ว,\nแต่ฉันแลกได้2เท่าจากตลาด\n"
+        },
+        {
+          "Line": 256,
+          "OriginalText": "Just remember that I won\u0027t deal in any\nvolume other than ",
+          "TranslatedText": "จำไว้นะฉันไม่ตกกลงไปมากกว่านี้ ไปมากกว่า "
+        },
+        {
+          "Line": 260,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 263,
+          "OriginalText": " at a time.",
+          "TranslatedText": " ในแต่ละครั้ง."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_053",
+      "TextList": [
+        {
+          "Line": 272,
+          "OriginalText": "...Buddy.",
+          "TranslatedText": "...เพื่อน."
+        },
+        {
+          "Line": 276,
+          "OriginalText": " You know the deal was for ",
+          "TranslatedText": " คุณรู้ว่าข้อตกลงนี้มีไว้เพื่อ\n"
+        },
+        {
+          "Line": 280,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 283,
+          "OriginalText": "...\n\n\nI have no use for a random number of\n",
+          "TranslatedText": "...\nฉันไม่ได้มั่วจำนวนของเห็ดนะ\n"
+        },
+        {
+          "Line": 287,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 290,
+          "OriginalText": ". Just can\u0027t do it.\n\n",
+          "TranslatedText": ". แค่ทำไม่ได้.\n"
+        },
+        {
+          "Line": 296,
+          "OriginalText": "If you want to make a deal with me,\nbring me ",
+          "TranslatedText": "หากคุณต้องการทำข้อตกลงกับฉัน,\nเอามา "
+        },
+        {
+          "Line": 300,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 303,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 307,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 310,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_054",
+      "TextList": [
+        {
+          "Line": 325,
+          "OriginalText": "5... ",
+          "TranslatedText": "5... "
+        },
+        {
+          "Line": 329,
+          "OriginalText": "15...",
+          "TranslatedText": "15..."
+        },
+        {
+          "Line": 333,
+          "OriginalText": " Uh...",
+          "TranslatedText": " เอ่อ..."
+        },
+        {
+          "Line": 337,
+          "OriginalText": " Huh.",
+          "TranslatedText": " ฮะ."
+        },
+        {
+          "Line": 341,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 347,
+          "OriginalText": "...Hey. ",
+          "TranslatedText": "...เฮ้. "
+        },
+        {
+          "Line": 351,
+          "OriginalText": "Buddy.",
+          "TranslatedText": "เพื่อน."
+        },
+        {
+          "Line": 355,
+          "OriginalText": " The deal was for ",
+          "TranslatedText": " ข้อตกลงนี้มีไว้สำหรับ "
+        },
+        {
+          "Line": 359,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 362,
+          "OriginalText": ".\n\n\nWhat am I supposed to do with some\nrandom number of ",
+          "TranslatedText": ".\nฉันควรจะทำอย่างไรกับบาง\nจำนวน "
+        },
+        {
+          "Line": 366,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 369,
+          "OriginalText": "?\n\n",
+          "TranslatedText": "?\n"
+        },
+        {
+          "Line": 375,
+          "OriginalText": "If you want to make a deal with me,\nbring me ",
+          "TranslatedText": "ถ้าคุณต้องการจัดการกับฉัน\nก็เอามา "
+        },
+        {
+          "Line": 379,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 382,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 386,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 389,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_055",
+      "TextList": [
+        {
+          "Line": 398,
+          "OriginalText": "You want to know where to pick\n",
+          "TranslatedText": "อยากจะรู้ไหมว่าจะไปเก็บมันที่ไหน\n"
+        },
+        {
+          "Line": 402,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 405,
+          "OriginalText": "?\n\nThey grow all over the place.\n\n\n",
+          "TranslatedText": "?\nมันขึ้นทุกที่แหละ.\n"
+        },
+        {
+          "Line": 409,
+          "OriginalText": "Rushrooms ",
+          "TranslatedText": "Rushrooms "
+        },
+        {
+          "Line": 412,
+          "OriginalText": "tend to grow on cliffs, \nso they\u0027ll be everywhere around here.\nNo shortage of cliffs.\nIf I was five years younger, I\u0027d be picking\nthem myself...",
+          "TranslatedText": "tend โตบนเทือกเขา, \nมันจะขึ้นแถวไหน รอบๆนี้ก็ได้.\nไม่ใช่เทือกเขาเตี้ยๆนะ.\nถ้าฉันอายุน้อยกว่านี้ 5 ปี, ฉันจะเก็บมันได้\nด้วยตัวของฉันเอง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_056",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "5... ",
+          "TranslatedText": "5... "
+        },
+        {
+          "Line": 431,
+          "OriginalText": "15... ",
+          "TranslatedText": "15... "
+        },
+        {
+          "Line": 435,
+          "OriginalText": "25...",
+          "TranslatedText": "25..."
+        },
+        {
+          "Line": 439,
+          "OriginalText": " Uh...",
+          "TranslatedText": " เอ่อ..."
+        },
+        {
+          "Line": 443,
+          "OriginalText": " Huh.",
+          "TranslatedText": " ฮะ."
+        },
+        {
+          "Line": 447,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 459,
+          "OriginalText": "...Hey. ",
+          "TranslatedText": "...เฮ้. "
+        },
+        {
+          "Line": 463,
+          "OriginalText": "Buddy.",
+          "TranslatedText": "เพื่อน."
+        },
+        {
+          "Line": 467,
+          "OriginalText": " The deal was for ",
+          "TranslatedText": " ข้อตกลงนี้มีไว้สำหรับ \n"
+        },
+        {
+          "Line": 471,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 474,
+          "OriginalText": ".\n\n\nWhat am I supposed to do with some\nrandom number of ",
+          "TranslatedText": ".\nฉันควรจะทำอย่างไรกับจำนวนของ "
+        },
+        {
+          "Line": 478,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 481,
+          "OriginalText": "?\n\n",
+          "TranslatedText": "?\n"
+        },
+        {
+          "Line": 487,
+          "OriginalText": "If you want to make a deal with me,\nbring me ",
+          "TranslatedText": "ถ้าคุณต้องการจัดการกับฉัน\nก็เอามา "
+        },
+        {
+          "Line": 491,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 494,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 498,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 501,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_057",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "5... ",
+          "TranslatedText": "5... "
+        },
+        {
+          "Line": 520,
+          "OriginalText": "15... ",
+          "TranslatedText": "15... "
+        },
+        {
+          "Line": 524,
+          "OriginalText": "25... 35...",
+          "TranslatedText": "25... 35..."
+        },
+        {
+          "Line": 528,
+          "OriginalText": " Uh...",
+          "TranslatedText": " เอ่อ..."
+        },
+        {
+          "Line": 532,
+          "OriginalText": " Huh.",
+          "TranslatedText": " ฮะ."
+        },
+        {
+          "Line": 536,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 548,
+          "OriginalText": "...Hey. ",
+          "TranslatedText": "...เฮ้. "
+        },
+        {
+          "Line": 552,
+          "OriginalText": "Buddy.",
+          "TranslatedText": "เพื่อน."
+        },
+        {
+          "Line": 556,
+          "OriginalText": " The deal was for ",
+          "TranslatedText": " ข้อตกลงนี้มีไว้สำหรับ\n"
+        },
+        {
+          "Line": 560,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 563,
+          "OriginalText": ".\n\n\nWhat am I supposed to do with some\nrandom number of ",
+          "TranslatedText": ".\nฉันควรจะทำอย่างไรกับจำนวนของ"
+        },
+        {
+          "Line": 567,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 570,
+          "OriginalText": "?\n\n",
+          "TranslatedText": "?\n"
+        },
+        {
+          "Line": 576,
+          "OriginalText": "If you want to make a deal with me,\nbring me ",
+          "TranslatedText": "หากคุณต้องการทำข้อตกลงกับฉัน,\nเอามา "
+        },
+        {
+          "Line": 580,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 583,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 587,
+          "OriginalText": "rushrooms",
+          "TranslatedText": "rushrooms"
+        },
+        {
+          "Line": 590,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_059",
+      "TextList": [
+        {
+          "Line": 602,
+          "OriginalText": "5... ",
+          "TranslatedText": "5... "
+        },
+        {
+          "Line": 606,
+          "OriginalText": "15... ",
+          "TranslatedText": "15... "
+        },
+        {
+          "Line": 610,
+          "OriginalText": "25... ",
+          "TranslatedText": "25... "
+        },
+        {
+          "Line": 614,
+          "OriginalText": "35...",
+          "TranslatedText": "35..."
+        },
+        {
+          "Line": 618,
+          "OriginalText": " 55...",
+          "TranslatedText": " 55..."
+        },
+        {
+          "Line": 622,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 628,
+          "OriginalText": "Yesss. That\u0027s what I like to see!",
+          "TranslatedText": "ใช่. นั่นแหละคือสิ่งที่ฉันชอบ และอยากจะเห็น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_060",
+      "TextList": [
+        {
+          "Line": 640,
+          "OriginalText": "Heyyy...",
+          "TranslatedText": "เฮ้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_061",
+      "TextList": [
+        {
+          "Line": 652,
+          "OriginalText": "The deal\u0027s for ",
+          "TranslatedText": "ข้อตกลงสำหรับ "
+        },
+        {
+          "Line": 656,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 659,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 663,
+          "OriginalText": " It might be a pain to\nget \u0027em all, but I hear ",
+          "TranslatedText": " มันจะต้องลำบากมากแน่ที่จะต้อง\nเก็บมันมาทั้งหมด แต่ฉันได้ยินว่า "
+        },
+        {
+          "Line": 667,
+          "OriginalText": "diamonds ",
+          "TranslatedText": "เพชร \n"
+        },
+        {
+          "Line": 670,
+          "OriginalText": "have a\npretty high value throughout Hyrule.\nNot a bad deal, eh?",
+          "TranslatedText": "มีมูลค่าค่อนข้างสูงตลอด Hyrule.\nเป็นข้อตกลงที่ไม่เลวใช่ไหม?"
+        },
+        {
+          "Line": 674,
+          "OriginalText": " And I\u0027m always\nwaiting right here when you\u0027re ready\nto do business.",
+          "TranslatedText": " \nและฉันจะรอที่นี่เสมอ\nเมื่อคุณพร้อมที่จะทำธุรกิจ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_062",
+      "TextList": [
+        {
+          "Line": 683,
+          "OriginalText": "...Zero.",
+          "TranslatedText": "...ศูนย์."
+        },
+        {
+          "Line": 703,
+          "OriginalText": "...Hey.",
+          "TranslatedText": "...เฮ้."
+        },
+        {
+          "Line": 707,
+          "OriginalText": " Buddy.",
+          "TranslatedText": " เพื่อน."
+        },
+        {
+          "Line": 711,
+          "OriginalText": " The deal was for ",
+          "TranslatedText": " ข้อตกลงนี้มีไว้สำหรับ "
+        },
+        {
+          "Line": 715,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 718,
+          "OriginalText": "...\n\n\nI have no use for jokes. They\u0027re a waste\nof both breath and time.\n\n",
+          "TranslatedText": "...\nฉันไม่ได้พูดเล่น.\nพวกเขาเสียทั้งลมหายใจและเวลา\n"
+        },
+        {
+          "Line": 724,
+          "OriginalText": "If you want to make a deal with me,\nbring me ",
+          "TranslatedText": "หากคุณต้องการทำข้อตกลงกับฉัน,\nเอามา "
+        },
+        {
+          "Line": 728,
+          "OriginalText": "55 rushrooms",
+          "TranslatedText": "55 rushrooms"
+        },
+        {
+          "Line": 731,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_063",
+      "TextList": [
+        {
+          "Line": 740,
+          "OriginalText": "I\u0027ll happily take another batch anytime\nyou\u0027ve got one. I\u0027ll always be right here.",
+          "TranslatedText": "ฉันอยากได้พวกอื่นๆ\nฉันมีความสุขทุกครั้งที่คุณได้มา ฉันจะอยู่ที่นี่เสมอ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_1000",
+      "TextList": [
+        {
+          "Line": 752,
+          "OriginalText": "Rush... Rush...",
+          "TranslatedText": "เห็ด... เห็ด..."
+        }
+      ]
+    }
+  ]
+}

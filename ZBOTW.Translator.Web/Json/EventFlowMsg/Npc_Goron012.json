@@ -1,0 +1,570 @@
+{
+  "FileName": "Npc_Goron012",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What\u0027s Goron City?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Who are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Looks tough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Take care.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "We\u0027re gonna dig \u0027em dry!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Get serious!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Put your backs into it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Dig!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near04",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Let\u0027s go!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near05",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Clear out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near06",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Gahahaha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "We\u0027re gonna rip the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": "\nright outta this place!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "The more ya dig, the more ya earn!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": "\nKeep on diggin\u0027! DIG! DIG! DIG!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 101,
+          "OriginalText": "Everything we do is for the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 105,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 108,
+          "OriginalText": "...\nand for Goron City too!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "\nI want all that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "! All of it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "My happiness is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "Boss",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "\u0027s happiness!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": "\nAnd that means it\u0027s Goron City\u0027s\nhappiness too!\nDig, dig, and then dig some more!\nThen sell all that sweet, sweet ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "You need somethin\u0027 else?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 199,
+          "OriginalText": "...Hmph!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": " That has nothin\u0027 to do with you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 247,
+          "OriginalText": "Goron City is where us Gorons live. ",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "The reason Goron City is so prosperous\nis because of the work we do here.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "I actually wanna dig closer to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": "summit",
+          "TranslatedText": null
+        },
+        {
+          "Line": 269,
+          "OriginalText": ", but that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": "lizard monster",
+          "TranslatedText": null
+        },
+        {
+          "Line": 276,
+          "OriginalText": "\nis in the way...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 285,
+          "OriginalText": "That\u0027s right!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 294,
+          "OriginalText": "I\u0027m gonna get a piece of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 298,
+          "OriginalText": "ore ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "so bright,\nit\u0027ll keep me awake for days!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "The target for today is 1,000 pieces\nof ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": "! Don\u0027t settle for less!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "We\u0027ve gotta make that number!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 335,
+          "OriginalText": "My salary\u0027s increased because I found\nsome good ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 339,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 351,
+          "OriginalText": "I\u0027m gonna try to find some good ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 355,
+          "OriginalText": "ore",
+          "TranslatedText": null
+        },
+        {
+          "Line": 358,
+          "OriginalText": "\ntoday too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "I\u0027m headin\u0027 to work!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 376,
+          "OriginalText": "Mmph... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": "Dig... Dig...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "Dig faster... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": "Diiig...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 402,
+          "OriginalText": "Clear the site!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": " If ya need me for\nanything, come back tomorrow!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 415,
+          "OriginalText": "Just go straight down this road to get\nthere. But as a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "Hylian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": ", ya better be\ncareful not to get burned!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "This has nothin\u0027 to do with tourists!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 448,
+          "OriginalText": "...Hey! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": "You again?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "I\u0027m Dorill, head of the Goron Group\nMining Company!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 505,
+          "OriginalText": "We\u0027re diggin\u0027 this site out under direct\norders from the Boss of Goron City. \n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": "No time to chat! Gotta dig!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 520,
+          "OriginalText": "It is! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": "See, normally you can find better\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": "ore ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 531,
+          "OriginalText": "as you get closer to the summit.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": "...But lately we can\u0027t get close enough,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 541,
+          "OriginalText": "\nso we started diggin\u0027 here instead.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 550,
+          "OriginalText": "Oh, it\u0027s you!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

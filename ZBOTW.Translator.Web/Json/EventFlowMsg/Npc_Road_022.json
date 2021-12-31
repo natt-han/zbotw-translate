@@ -1,0 +1,765 @@
+{
+  "FileName": "Npc_Road_022",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "So terrifying...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": " A real nightmare...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "Maybe it would be better to just stay put\nuntil the monsters leave...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 35,
+          "OriginalText": "You...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 39,
+          "OriginalText": "you saved me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 43,
+          "OriginalText": " I mean, unless I\u0027m\nin heaven right now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "This journey... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "I\u0027m feeling a bit uneasy\nabout what lies ahead.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 60,
+          "OriginalText": " Still, I refuse to\ngive up!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "Run away! Hurry, you must escape!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": "\nDon\u0027t let the Guardian see you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 82,
+          "OriginalText": "The princess named Zelda...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": "\nDo you know of her?\n\nShe\u0027s not just a fairy tale.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 90,
+          "OriginalText": " She was a\nprincess who actually existed in the\nland of Hyrule.\nIn fact, I\u0027m retracing Princess Zelda\u0027s\nfootsteps, trying to find the locations\nwhere she journeyed way back when.\nI think I\u0027m probably moving a lot slower\nthan she did, though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 99,
+          "OriginalText": "Do you know about Princess Zelda?\n\n\nI\u0027m retracing her steps to visit the places\nshe journeyed to.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": " I wonder what she was\nfeeling at each of these locations...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Who, me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": " I\u0027m just a traveler trying to\nretrace Princess Zelda\u0027s footsteps and\nre-create her journey.\nMy next stop is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 123,
+          "OriginalText": " at\nMount Lanayru.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 127,
+          "OriginalText": " What might have\nPrincess Zelda found there?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 136,
+          "OriginalText": "I\u0027m retracing Princess Zelda\u0027s steps.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": "\nNext, I\u0027m off to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "\nat Mount Lanayru.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 156,
+          "OriginalText": "I, too, am a traveler. Or perhaps I should\nsay \u0022an adventurer.\u0022 ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "Yes, that\u0027s the one.\n\nIn fact, I\u0027m in the middle of a journey.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "\nI even had the great honor of meeting\nwith the leader of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 168,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": ".\nShe is very knowledgeable of the\nhistory of Hyrule,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": " and she is also\nblessed with a lovely personality.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 184,
+          "OriginalText": "The leader of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "Kakariko Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 191,
+          "OriginalText": "is a\nwonderful woman.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 195,
+          "OriginalText": " If you can,\nyou should meet with her, as well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "The traces of an ancient battle linger...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "\nCountless precious lives must have been\nlost here...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "Just think of all the lives that were\nlost here...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": " All we can do now is\npray that their souls found peace.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 233,
+          "OriginalText": "Hateno Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": "managed to escape the\nbrunt of the Great Calamity,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": " yet somehow\nthe peace here feels so precarious...\nAs one who has traveled and seen so\nmuch of the world,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 244,
+          "OriginalText": " surely you must\nfeel it too?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "Hateno Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "escaped the brunt of the\nGreat Calamity, but the peace enjoyed\nhere feels precarious...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": " Do you feel it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 267,
+          "OriginalText": "I\u0027m somehow still safe...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "Princess Zelda...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "I\u0027m an adventurer...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "Stay away, monsters...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 283,
+          "OriginalText": "It\u0027s raining...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "I am in the midst of a journey, not unlike\nyou are.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": " Though, to be frank, mine is\nmore of a pilgrimage.\nI do hope that Princess Zelda\u0027s devout\nprayers for peace will touch the lives\nof others ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 300,
+          "OriginalText": "as they have touched mine.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 309,
+          "OriginalText": "I take a break from my pilgrimage\nwhenever it rains.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": " It gives me time\nfor introspection.\nIs my heart truly devoted to prayer?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": "\nAm I deceiving myself in any way?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "\nYou know, things like that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "I wonder if this same rain is falling on\nHyrule Castle...\n\nMay the spirit of King Rhoam,\nPrincess Zelda\u0027s noble father,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "\nbe at peace...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "Have you already been to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": "\n\nIt is known that Princess Zelda visited\nthe spring in prayer. I have a great deal\nof love and respect for her.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 363,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": "Spring of Wisdom ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 370,
+          "OriginalText": "has strong ties\nto Princess Zelda...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": "\n\nIt is a place that the princesses of\nHyrule Castle have visited from\ngeneration to generation.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "I do not know the purpose of your\njourney, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "there is a place that\nI recommend you pay a visit to.\nDeep in the recesses of Mount Lanayru\nlies the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 398,
+          "OriginalText": " It is a storied\nspring to which I am making a pilgrimage.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 407,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "Spring of Wisdom ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "at Mount Lanayru.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 418,
+          "OriginalText": "\nIt is a storied spring... You can\u0027t tell me\nyou\u0027re not curious. Care to visit it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "This area was once the site of an\nancient battle...\n\nUnlike other well-known ruins,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": " I don\u0027t\nthink imagining what took place here\nwould be very satisfying.\nThe reason I say that is because none of\nthe old stories about the Great Calamity\nmention it being entirely defeated...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "An ancient battle took place here...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "\nEven just being near a place so full\nof tragic memories is painful.\nAll we can do...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 448,
+          "OriginalText": "is honor the brave lives\nthat were lost here...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 457,
+          "OriginalText": "These are the remains of a fortress that\nwas erected by villagers to try and halt\nthe advance of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": "Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 464,
+          "OriginalText": "...\nYou could safely say the fact that any\nof us are alive today",
+          "TranslatedText": null
+        },
+        {
+          "Line": 468,
+          "OriginalText": " is all thanks to\nthis fortress here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 477,
+          "OriginalText": "This is the fortress said to have\nbeen built to stop the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": "\nWe have it to thank for our lives.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "Do you have a final destination in mind\nfor your journey?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": " The last place I want\nto visit is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": ".\nI really want to re-create the journey that\nPrincess Zelda experienced.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 512,
+          "OriginalText": " I just love\nand respect her so very much...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 521,
+          "OriginalText": "The final destination of my journey is\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 525,
+          "OriginalText": "Spring of Wisdom",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 532,
+          "OriginalText": " I hope to feel\nPrincess Zelda\u0027s presence there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 541,
+          "OriginalText": "Thank you! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 545,
+          "OriginalText": "Really, I can\u0027t believe you\ndid that for me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 554,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 558,
+          "OriginalText": " Thank you so very much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 567,
+          "OriginalText": "You saved me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 571,
+          "OriginalText": " I...I don\u0027t have the right\nwords to properly thank you...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 580,
+          "OriginalText": "Because I was so sure I could take care\nof myself, I put you in the position of\nhaving to look after me. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 584,
+          "OriginalText": "Heh, sorry!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 593,
+          "OriginalText": "Thank you for saving me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 597,
+          "OriginalText": " Wow, that was\nso scary. I\u0027m still shaking...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 606,
+          "OriginalText": "Thank you for helping me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 610,
+          "OriginalText": " I\u0027m so sorry\nfor interrupting your journey...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 619,
+          "OriginalText": "Here. This is a small token of my thanks.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

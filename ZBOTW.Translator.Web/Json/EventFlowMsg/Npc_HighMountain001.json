@@ -1,0 +1,505 @@
+{
+  "FileName": "Npc_HighMountain001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "G\u0027day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Evening!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Cool!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Whoa.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Flight Range?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_00",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "Morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_01",
+      "TextList": [
+        {
+          "Line": 59,
+          "OriginalText": "Good day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_02",
+      "TextList": [
+        {
+          "Line": 77,
+          "OriginalText": "Evening!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_03",
+      "TextList": [
+        {
+          "Line": 95,
+          "OriginalText": "Good response!\n\n\n\u0022Great kids are great greeters.\u0022\nThat\u0027s what my ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": "dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": " always says!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_04",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "What? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "That\u0027s a weird way to greet\nsomeone!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_05",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "Yo! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "It\u0027s you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_06",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "Yo! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": "It\u0027s the weird-greeting guy!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_07",
+      "TextList": [
+        {
+          "Line": 150,
+          "OriginalText": "It\u0027s really fun!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_08",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Oh, listen to this! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 169,
+          "OriginalText": " promised he\u0027d\nplay with me later!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_10",
+      "TextList": [
+        {
+          "Line": 186,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 190,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_11",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "*yawn*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": "\nNight night...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_12",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "Totally! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": "Spread your wings at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": "Flight Range",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": " and it\u0027s like...FWOOSH! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "\nYou go flying way high!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_13",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "Whoa! Where are your clothes?! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "\nMOM!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_14",
+      "TextList": [
+        {
+          "Line": 267,
+          "OriginalText": "That place over there with the flag is the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 271,
+          "OriginalText": "Flight Range",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 280,
+          "OriginalText": "I hope ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": " comes back soon!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": "\nI want to go play there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_16",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "But he says he\u0027s gotten a lot better, so\nhe\u0027ll be able to take me flying again\nsoon!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_17",
+      "TextList": [
+        {
+          "Line": 309,
+          "OriginalText": "It sounds like ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": "\u0027s feeling a lot better!\n\n\nHe says he\u0027ll be able to take me to the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 320,
+          "OriginalText": "Flight Range",
+          "TranslatedText": null
+        },
+        {
+          "Line": 323,
+          "OriginalText": " soon!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18",
+      "TextList": [
+        {
+          "Line": 335,
+          "OriginalText": "Dad ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": "promised he\u0027d play with me at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "Flight Range ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 345,
+          "OriginalText": "when he gets back!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "Dad ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": "finally came back from work!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": "But it sounds like he got hurt...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "\u266ASoon soon!\u266A \n\u266ASoon soon!\u266A",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "\n\u266A",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "\u0027s coming back sooooooooooon!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_21",
+      "TextList": [
+        {
+          "Line": 403,
+          "OriginalText": "\u266ALa lala",
+          "TranslatedText": null
+        },
+        {
+          "Line": 407,
+          "OriginalText": " hmm ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "hmmmmmm...\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_22",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "Come back later and play with me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_23",
+      "TextList": [
+        {
+          "Line": 429,
+          "OriginalText": "Really, Dad?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": " YAAAAAAAAAY!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_24",
+      "TextList": [
+        {
+          "Line": 442,
+          "OriginalText": "Hey, guy!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": "\nCome play with us at the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 450,
+          "OriginalText": "Flight Range ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 453,
+          "OriginalText": "\nsometime!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

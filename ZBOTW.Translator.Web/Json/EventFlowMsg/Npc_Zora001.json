@@ -1,0 +1,490 @@
+{
+  "FileName": "Npc_Zora001",
+  "EntryList": [
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What is this place?",
+          "TranslatedText": "ที่นี่คือที่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Who are you?",
+          "TranslatedText": "คุณเป็นใคร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "What?",
+          "TranslatedText": "อะไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Yes.",
+          "TranslatedText": "ใช่"
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "It\u0027s not much.",
+          "TranslatedText": "ก็ไม่เท่าไหร่"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Oh! ",
+          "TranslatedText": "โอ้! "
+        },
+        {
+          "Line": 41,
+          "OriginalText": "You\u0027re that Hylian I met at\n",
+          "TranslatedText": "คุณคือ Hylian ที่ฉันเจอที่\n"
+        },
+        {
+          "Line": 45,
+          "OriginalText": "Zora River",
+          "TranslatedText": "Zora River"
+        },
+        {
+          "Line": 48,
+          "OriginalText": "!\n\n",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 54,
+          "OriginalText": "Are you here at Prince Sidon\u0027s request?\n\n\n",
+          "TranslatedText": "คุณมาที่นี่เพราะ Prince Sidon ขอใช่ไหม?\n"
+        },
+        {
+          "Line": 60,
+          "OriginalText": "Well, King Dorephan and Prince Sidon\nare waiting for you.",
+          "TranslatedText": "King Dorephan และ Prince Sidon\nกำลังรอคุณอยู่"
+        },
+        {
+          "Line": 64,
+          "OriginalText": " Please help them!",
+          "TranslatedText": " ได้โปรดช่วยพวกเขาด้วย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 73,
+          "OriginalText": "Ohoho... ",
+          "TranslatedText": "โฮ่ๆ... "
+        },
+        {
+          "Line": 77,
+          "OriginalText": "So you\u0027re back.",
+          "TranslatedText": "คุณกลับมาแล้ว"
+        },
+        {
+          "Line": 81,
+          "OriginalText": "\nYou\u0027re that Hylian our Prince Sidon\nbrought here, aren\u0027t you?\nPlease go and meet with him right away.",
+          "TranslatedText": "\nคุณคือ Hylian ที่ Prince Sidon ของเรา\nพามาที่นี่ใช่ไหม?\nโปรดรีบไปพบเขาทันที"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 90,
+          "OriginalText": "Good morning.",
+          "TranslatedText": "อรุณสวัสดิ์"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 99,
+          "OriginalText": "Good day.",
+          "TranslatedText": "สวัสดี"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "Good evening.",
+          "TranslatedText": "สายัณสวัสดิ์"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "Yes, sir! ",
+          "TranslatedText": "ครับท่าน! "
+        },
+        {
+          "Line": 121,
+          "OriginalText": "Nothing to report, sir!",
+          "TranslatedText": "ทุกอย่างปกติครับท่าน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "...Yes? ",
+          "TranslatedText": "...ว่าไง? "
+        },
+        {
+          "Line": 134,
+          "OriginalText": "Did you need something?",
+          "TranslatedText": "คุณต้องการอะไรงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "Ohoho, a Hylian, eh?",
+          "TranslatedText": "โฮ่ๆ Hylian งั้นเหรอ?"
+        },
+        {
+          "Line": 167,
+          "OriginalText": " The path\nto ",
+          "TranslatedText": " เส้นทางสู่ "
+        },
+        {
+          "Line": 171,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": "Zora\u0027s Domain"
+        },
+        {
+          "Line": 174,
+          "OriginalText": " is paved with\nmonsters, is it not?\nHere in the domain, ",
+          "TranslatedText": " นั้นเต็มไปด้วยมอนสเตอร์ใช่ไหม?\nที่อาณาจักรนี้ "
+        },
+        {
+          "Line": 178,
+          "OriginalText": "we are currently\nrecruiting warriors to join Prince Sidon\nin his fight.\nPlease hurry up and meet with him.",
+          "TranslatedText": "เรากำลังรับสมัครนักรบ\nเพื่อมาร่วมต่อสู่กับ Prince Sidon\nได้โปรดรีบไปพบกับเขา"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 187,
+          "OriginalText": "Farewell!",
+          "TranslatedText": "ลาก่อน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "At the top of these stairs is the throne\nroom of King Dorephan and his son,\nPrince Sidon.",
+          "TranslatedText": "ที่ด้านบนของบันไดนี้คือบัลลังค์ของ\nKing Dorephan และลูกชาย\nPrince Sidon"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "Me?",
+          "TranslatedText": "ฉันเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "My name is Tottika.",
+          "TranslatedText": "ฉันชื่อ Tottika"
+        },
+        {
+          "Line": 218,
+          "OriginalText": " I\u0027m a novice soldier.",
+          "TranslatedText": " ฉันเป็นทหารฝึกหัด"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "By the way...",
+          "TranslatedText": "ว่าแต่ว่า..."
+        },
+        {
+          "Line": 231,
+          "OriginalText": "HYLIAN...",
+          "TranslatedText": "HYLIAN..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 243,
+          "OriginalText": "You managed to make it to ",
+          "TranslatedText": "คุณเดินทางมายัง "
+        },
+        {
+          "Line": 247,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": "Zora\u0027s Domain"
+        },
+        {
+          "Line": 250,
+          "OriginalText": "\nall by yourself, eh?\n\n",
+          "TranslatedText": "\nได้โดยลำพังงั้นเหรอ?\n"
+        },
+        {
+          "Line": 256,
+          "OriginalText": "That would mean you\u0027ve got a pretty\nreliable weapon on you, yes?",
+          "TranslatedText": "นั่นแปลว่าคุณคงมีอาวุธที่พึ่งพาได้\nงั้นสินะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "I see.\n\n\nI\u0027ve been supplied a ",
+          "TranslatedText": "งั้นเหรอ\nฉันได้รับ "
+        },
+        {
+          "Line": 277,
+          "OriginalText": "silverscale spear",
+          "TranslatedText": "silverscale spear"
+        },
+        {
+          "Line": 280,
+          "OriginalText": ".",
+          "TranslatedText": " มาให้ใช้งาน"
+        },
+        {
+          "Line": 284,
+          "OriginalText": "\nI have no complaints about it, but...\n\n",
+          "TranslatedText": "\nก็ไม่มีอะไรจะบ่นหรอกนะ แต่ว่า...\n"
+        },
+        {
+          "Line": 290,
+          "OriginalText": "There are rumors of a ",
+          "TranslatedText": "มีข่าวลือเกี่ยวกับ "
+        },
+        {
+          "Line": 294,
+          "OriginalText": "legendary blade",
+          "TranslatedText": "ดาบในตำนาน"
+        },
+        {
+          "Line": 297,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 301,
+          "OriginalText": "\none that chooses its wielder.",
+          "TranslatedText": "\nดาบที่เลือกผู้ใช้งาน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "I want to become an important soldier...",
+          "TranslatedText": "ฉันอยากจะกลายเป็นทหารที่มีชื่อเสียง..."
+        },
+        {
+          "Line": 314,
+          "OriginalText": "\none who\u0027s worthy of being chosen by\na legendary weapon!",
+          "TranslatedText": "\nเป็นทหารที่ควรค่าแก่การถูกเลือกโดยอาวุธในตำนาน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 323,
+          "OriginalText": "Hylian!",
+          "TranslatedText": "Hylian!"
+        },
+        {
+          "Line": 327,
+          "OriginalText": " Have you seen?!\n\n\nThe rain that has been falling ever since\n",
+          "TranslatedText": " คุณเห็นมั้ย?!\nฝนที่ตกไม่หยุดมาตั้งแต่\n"
+        },
+        {
+          "Line": 331,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": "Divine Beast Vah Ruta"
+        },
+        {
+          "Line": 334,
+          "OriginalText": " was angered...",
+          "TranslatedText": " เริ่มอาละวาด..."
+        },
+        {
+          "Line": 338,
+          "OriginalText": "\nhas finally stopped!\nWas that you and Prince Sidon?",
+          "TranslatedText": "\nมันหยุดแล้ว!\nเป็นเพราะท่านเหรอ Prince Sidon?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "Oh! ",
+          "TranslatedText": "โอ้! "
+        },
+        {
+          "Line": 351,
+          "OriginalText": "Hylian!",
+          "TranslatedText": "Hylian!"
+        },
+        {
+          "Line": 355,
+          "OriginalText": " You have done us a\ngreat service!\n\n",
+          "TranslatedText": " คุณช่วยเราได้มาก!\n"
+        },
+        {
+          "Line": 361,
+          "OriginalText": "Captain Bazz filled me in.",
+          "TranslatedText": "Captain Bazz เล่าให้ฉันฟังแล้ว"
+        },
+        {
+          "Line": 365,
+          "OriginalText": " He told me you\nare the Champion who visited Zora\u0027s\nDomain 100 years ago. Or...something.",
+          "TranslatedText": " เขาบอกว่าคุณคือ \nChampion มีมายัง Zora\u0027s Domain เมื่อ 100 ปีก่อน\n...หรือไงเนี่ยแหละ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "Great Hylian Champion...",
+          "TranslatedText": "Hylian Champion ผู้ยิ่งใหญ่..."
+        },
+        {
+          "Line": 378,
+          "OriginalText": " Thank you so\nmuch for all you have done for us.",
+          "TranslatedText": " ขอบคุณมาก\nสำหรับทุกสิ่งที่ท่านทำเพื่อพวกเรา"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 387,
+          "OriginalText": "Now, even the elders who were so down\non you are likely looking upon you with\nregard and triumph!",
+          "TranslatedText": "ตอนนี้แม้แต่พวกผู้อาวุโสที่ดูหมิ่นท่าน\nก็ยังชื่นชมท่าน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 396,
+          "OriginalText": "Because of your glorious deeds, I\u0027m sure\nthe elders will be content to let the\nsubject of Mipha finally wash away.",
+          "TranslatedText": "เพราะวีรกรรมของท่าน ฉันแน่ใจว่า\nพวกผู้อาวุโสจะเต็มใจที่จะเลิกโทษท่านเรื่องท่าน Mipha"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 405,
+          "OriginalText": "Here in ",
+          "TranslatedText": "ที่ "
+        },
+        {
+          "Line": 409,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": "Zora\u0027s Domain"
+        },
+        {
+          "Line": 412,
+          "OriginalText": ", we\u0027re currently\nrecruiting warriors to join Prince Sidon\nin his noble struggle.\n",
+          "TranslatedText": " นี้ เรากำลังรับสมัคร\nนักรบเพื่อมาร่วมต่อสู้กับ Prince Sidon\n"
+        },
+        {
+          "Line": 418,
+          "OriginalText": "However, the elders are...stubborn.",
+          "TranslatedText": "แต่ว่า พวกผู้อาวุโสนั้น...หัวแข็งนัก"
+        },
+        {
+          "Line": 422,
+          "OriginalText": "\nThey are wholly against outsiders\ngetting involved in Zora affairs.\nBut King Dorephan, as well as the young\nfolk, are ready to accept anyone\u0027s help...",
+          "TranslatedText": "\nพวกเขาต่อต้านการที่คนจากภายนอกจะมา\nเกี่ยวของกับเรื่องของชาว Zora อย่างหัวชนฝา\nแต่ King Dorephan นั้นยอมรับความช่วยเหลือจากทุกฝ่าย\nเช่นเดียวกับพวก Zora รุ่นใหม่..."
+        },
+        {
+          "Line": 426,
+          "OriginalText": "\nWell, so long as they are trustworthy.\nIf you wish to learn more, please go and\nspeak with King Dorephan directly.",
+          "TranslatedText": "\nแน่นอนว่าหากว่าคนพวกนั้นเชื่อถือได้\nถ้าหากอยากทราบรายละเอียดมากกว่านี้\nก็ไปคุยกับ King Dorephan โดยตรง"
+        }
+      ]
+    }
+  ]
+}

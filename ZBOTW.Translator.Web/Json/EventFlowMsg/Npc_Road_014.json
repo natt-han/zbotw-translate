@@ -1,0 +1,615 @@
+{
+  "FileName": "Npc_Road_014",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Whoa... Whoa... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": "Gotta calm my horse\ndown somehow...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "OK, just stay calm... Find the calm\nplace inside...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 35,
+          "OriginalText": "Forget about me... I\u0027m worried about my\nhorse, Spinch...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Oof...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 48,
+          "OriginalText": " Hurt my arm a little...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "I\u0027m not sticking around! No way!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "Yee-haw!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": " My name is Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": " This is my\nhorse, Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 78,
+          "OriginalText": " That\u0027s right\u2014same name!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 82,
+          "OriginalText": "\nIs it confusing? I don\u0027t care!\nSpinch and I are taking a ride out\nto Lurelin Village!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": " Hi-hooooo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 95,
+          "OriginalText": "Spinch and I are taking a little gallop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": " out\nto Lurelin Village!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": "\nHeigh-hooooo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Yee-haw! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "The name\u0027s Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": "\nThe horse\u0027s name is Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 124,
+          "OriginalText": "\nThey call us the Spinches!\nDid you know... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 128,
+          "OriginalText": "Way out west in the\nTaobab Grasslands, along the Faron\nHighroad, there\u0027s tell of a giant horse?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 137,
+          "OriginalText": "I heard that, way out west in the\nTaobab Grasslands, along the Faron\nHighroad, there\u0027s a giant horse roaming.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "Hahaha! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "There, there!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 154,
+          "OriginalText": " You\u0027re pretty well\ninformed for a horse, you know!\n\nSpinch says that if you head south,\nyou\u0027ll find a heart-shaped pond.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "\nApparently that\u0027s where you find love!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "South of here is a heart-shaped pond\nthat is apparently a great place to find\nlove!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 176,
+          "OriginalText": "Yee-haw! Let me share a little Spinch\nwisdom with you!\n\nIf you want to take down monsters while\nriding on horseback,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 180,
+          "OriginalText": " you\u0027ve got to really\npractice your archery skills!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "If you want to take down monsters while\nriding on horseback,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 193,
+          "OriginalText": " you\u0027ve got to really\npractice your archery skills!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "Yee-haw! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": "Call me Spinch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": "\nCall my horse Spinch too!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "\n\nAre we a man-horse? A horse-man?\nWhere does one end and the other\nbegin? It\u0027s a mystery for the ages!\nWhat isn\u0027t a mystery is Lurelin Village\u0027s\nreally tasty fish! Kind of makes me and\nSpinch want to settle down here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "Lurelin Village has some of the best,\nmost tasty fish! Kind of makes me and\nSpinch want to settle down here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "My name is Spinch.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "My horse is Spinch.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 235,
+          "OriginalText": "We...are the Spinchs!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 239,
+          "OriginalText": "Hahaha!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 243,
+          "OriginalText": "Ugh... Seriously?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 252,
+          "OriginalText": "Everywhere I go, all I\u0027m hearing about is \nthis giant horse...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "Everyone\u0027s saying if you take the Faron\nHigh Road out west, you\u0027ll find a giant\nhorse in the Taobab Grassland.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "I\u0027m Spinch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": "My horse is also called\nSpinch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 279,
+          "OriginalText": "You should totally change\nyour name to Spinch! It\u0027d be great!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "I\u0027m Spinch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "My horse is also named\nSpinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": " We both hate the rain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "Yee-haw!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 309,
+          "OriginalText": " My name is Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": " This is my\nhorse, Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": " That\u0027s right\u2014same name!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 321,
+          "OriginalText": "\nIs it confusing? I don\u0027t care!\nHave you heard the rumors about the \ngiant horse! They say it appears waaay\nout west, in the Taobab Grassland!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Have you heard the rumors about the \ngiant horse?! They say it appears way\nout west in the Taobab Grassland!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 339,
+          "OriginalText": "Yee-haw!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 343,
+          "OriginalText": " Let me teach you something!\n\n\nYou\u0027ll have to do a really sweet acrobatic\nmove if you try to mount a horse from\nthe front. So cool!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 352,
+          "OriginalText": "Have you done the really sweet acrobatic\nmove where you try to mount a horse\nfrom the front? So cool!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 361,
+          "OriginalText": "Hahah! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "Whoa there!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": "\nYou\u0027re really well-informed for a horse!\n\nHe\u0027s saying that deep in the woods of\nFaron, to the west, is a place sometimes\ncalled the Mouth of the Dragon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "Deep in the woods of Faron, to the west,\nis a place sometimes called the Mouth\nof the Dragon...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 387,
+          "OriginalText": "Yee-haw! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "Let me teach you something!\n\n\nHorses vary in size and strength! Find\none that suits you and make it your own!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 400,
+          "OriginalText": "Horses vary in size and strength! Find\none that suits you and make it your own!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 409,
+          "OriginalText": "Yahoo! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 413,
+          "OriginalText": "My name is Spinch! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 417,
+          "OriginalText": "My horse \nis also Spinch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 421,
+          "OriginalText": " Is your name Spinch,\ntoo? That\u0027d be extra crazy...\nHere\u0027s a tip. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": "Pay close attention to how\nmuch stamina your horse has when\nyou\u0027re riding it really hard!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 434,
+          "OriginalText": "Listen, you gotta pay close attention to\nhow much stamina your horse has when\nyou\u0027re riding it really hard!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 443,
+          "OriginalText": "Thanks! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": "That was really close!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 456,
+          "OriginalText": "I\u0027m all right! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 460,
+          "OriginalText": "My horse, Spinch, is\nall right too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 469,
+          "OriginalText": "I can\u0027t thank you enough!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 478,
+          "OriginalText": "Damned monsters. Thinking they can just\nattack without a care...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 487,
+          "OriginalText": "Never mind about me\u2014are you OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "I thought I was a goner for sure...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 505,
+          "OriginalText": "Oh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": " I should give you something.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

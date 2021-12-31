@@ -1,0 +1,800 @@
+{
+  "FileName": "NPC_Lanayru001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Nope.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "What\u0027s that?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Nope.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk001",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "Heeey, man.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 33,
+          "OriginalText": " You here for some\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 37,
+          "OriginalText": "shield surfing",
+          "TranslatedText": null
+        },
+        {
+          "Line": 40,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk002",
+      "TextList": [
+        {
+          "Line": 57,
+          "OriginalText": "The wooden shield?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 61,
+          "OriginalText": " A decent choice\nfor shield surfing, sure.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 65,
+          "OriginalText": " How\u0027s about\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 69,
+          "OriginalText": "30 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 72,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk003",
+      "TextList": [
+        {
+          "Line": 89,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": "soldier\u2019s shield",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 100,
+          "OriginalText": " A reliable choice\nfor combat or the slopes, sure.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "\nHow\u0027s about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 108,
+          "OriginalText": "100 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 111,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk004",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "knight\u0027s shield",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": " A sturdy choice,\nsure. Perfect for shredding, my man!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": "\nHow\u0027s about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "300 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk005",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "Heeey, man.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": " You back to tear it up\nsome more?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": " Couldn\u0027t stay away,\ncould ya? Yeaaah, go nuts out there.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "I\u0027m all sold outta shields anyway, so I\u0027ve got\nnothin\u0027 for ya, my man.\n\nI shouldn\u0027t have sold my own shield... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 191,
+          "OriginalText": "Yeaaah.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 195,
+          "OriginalText": "Well, maybe I\u0027ll find another just lyin\u0027 around\nthe ruins.\nOr maybe I can try sneaking up on a monster\nwhen it\u0027s sleeping and stealing theirs...\nNah, too scary.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk006",
+      "TextList": [
+        {
+          "Line": 209,
+          "OriginalText": "Heeey, man!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": " You lookin\u0027 for a shield?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk007",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "Aww. Maybe next time.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "If I don\u0027t sell somethin\u0027 soon, my gang is doomed...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk008",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Rock solid, man! You just gotta shred it\nup and you\u0027ll be sold for life!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 255,
+          "OriginalText": "Phew! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "With this sell, maybe we can keep going\njust a little longer...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk009",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "Oh, awkward...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": " Looks like you\u0027re a little\nlight on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": "rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": ", my man.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk010",
+      "TextList": [
+        {
+          "Line": 293,
+          "OriginalText": "Whoa there...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 297,
+          "OriginalText": " Looks like your ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "inventory",
+          "TranslatedText": null
+        },
+        {
+          "Line": 304,
+          "OriginalText": "\nis full, my man.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk011",
+      "TextList": [
+        {
+          "Line": 313,
+          "OriginalText": "Heeey! Quit messin\u0027 around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk012",
+      "TextList": [
+        {
+          "Line": 322,
+          "OriginalText": "Phew! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": "That was dangerous!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 333,
+          "OriginalText": "Ugh, if I don\u0027t have shields to sell,\nmy gang is doomed...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk013",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "Thanks, my man! Now you\u0027re a bona fide\nshield surfer! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 351,
+          "OriginalText": "By the way, have ya heard\nabout the legend? Pretty epic.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": "The legend of the shield-surfing world is\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "Selmie",
+          "TranslatedText": null
+        },
+        {
+          "Line": 364,
+          "OriginalText": "! When ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 368,
+          "OriginalText": "Selmie ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "boarded a shield,\nnothin\u0027 could stand in her way.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "Everybody who saw her tear it up\nwas practically hypnotized!\nThat\u0027s raw skill, man.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 383,
+          "OriginalText": "She retired young and became a living\nlegend. They say she settled down in\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": "Hebra Mountains ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": "to the northwest.\nIf you\u0027re serious about shield surfing,\nmaybe you should try to track her down.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 397,
+          "OriginalText": "Actually, lots of folks have tried to meet her...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 401,
+          "OriginalText": "\nand they all ran into trouble along the way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk014",
+      "TextList": [
+        {
+          "Line": 415,
+          "OriginalText": "Rock solid, man!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": " That shield right there\nwon\u0027t easily break, that\u0027s for sure.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": "Oh! Speaking of not breaking, have ya\nheard about the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": "Hylian shield",
+          "TranslatedText": null
+        },
+        {
+          "Line": 432,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": " Everyone\nin the surfing scene covets that bad boy.\nIt\u0027s clearly commissioned by the royal\nfamily or somethin\u0027! Its sturdiness makes\nit perfect for shield surfing too.\nYou don\u0027t really see \u0027em around these\ndays...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 440,
+          "OriginalText": "but rumor has it there\u0027s one in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": "Though no one has ever gone there\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": "and returned in one piece...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk015",
+      "TextList": [
+        {
+          "Line": 472,
+          "OriginalText": "If ya slide down to the west of here,\nit\u0027s a smooth ride even for beginners.\n\nAll right, let\u0027s go!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 476,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": "Shield surf ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 483,
+          "OriginalText": "\u0027til ya\ncan\u0027t move!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": "Speaking of shields, I need one myself...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 499,
+          "OriginalText": "\nMaybe I\u0027ll try searching the ruins again\nto see if there are any just lying around.\nOr maybe I can try sneaking up on a monster\nwhen it\u0027s sleeping and stealing theirs...\nNah, too scary.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk016",
+      "TextList": [
+        {
+          "Line": 513,
+          "OriginalText": "Heeey, man.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": " Back for some more ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": "shield\nsurfing",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": "? Couldn\u0027t stay away, could ya?\nHeh. I feel ya.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 530,
+          "OriginalText": "Oh, and if ya don\u0027t have your own shield,\nwe\u0027ve got some lying around here you\ncan buy, if you wanna.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": "If people don\u0027t start buying them soon...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 541,
+          "OriginalText": "this gang will go out of business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk017",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "If you slide down to the west of here,\nit\u0027s a smooth ride even for beginners.\n\nAll right, let\u0027s go!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": " Don\u0027t be shy\u2014just\nshred it up.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": "And keep buying more shields, man!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk018",
+      "TextList": [
+        {
+          "Line": 580,
+          "OriginalText": "That\u0027s all right, that\u0027s all right!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 584,
+          "OriginalText": "\nNothing to worry about, my man!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 590,
+          "OriginalText": "Ya see, I\u0027m a member of the shield-\nsurfing gang, the Shield Breakers!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 601,
+          "OriginalText": "Fin and me are the only two members, though...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 607,
+          "OriginalText": "\n\n\nI make it my business to sell folks on\nthe experience. The lifestyle.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": " Yeaaah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 615,
+          "OriginalText": "\nShields were made to be surfed on!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 621,
+          "OriginalText": "Lucky for you, this hill here is the most\nsavage spot for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 625,
+          "OriginalText": "shield surfing",
+          "TranslatedText": null
+        },
+        {
+          "Line": 628,
+          "OriginalText": ". You just\ngotta crush it for yourself, my man.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 634,
+          "OriginalText": "Oh, and if ya don\u0027t have your own shield,\nwe\u0027ve got some lying around here you\ncan buy, if you wanna.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 641,
+          "OriginalText": "If people don\u0027t start buying them soon...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 645,
+          "OriginalText": "this gang will go out of business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20",
+      "TextList": [
+        {
+          "Line": 659,
+          "OriginalText": "Heeey, man. Nice of you to stop by!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "\nSorry about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": "Fin ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 670,
+          "OriginalText": "strong-armin\u0027 ya\ninto comin\u0027 up here, heh.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 676,
+          "OriginalText": "It\u0027s cuz we\u0027re members of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 680,
+          "OriginalText": "shield-\nsurfing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 683,
+          "OriginalText": "gang, the Shield Breakers!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 695,
+          "OriginalText": "Fin and me are the only two members, though...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 701,
+          "OriginalText": "\n\n\nYou just gotta live the experience.\nThe lifestyle, if you will.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 705,
+          "OriginalText": " Yeaaah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 709,
+          "OriginalText": "\nShields were made to be surfed on!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 715,
+          "OriginalText": "Oh, and if ya don\u0027t have your own shield,\nwe\u0027ve got some lying around here you\ncan buy, if you wanna.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 722,
+          "OriginalText": "If people don\u0027t start buying them soon...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": "this gang will go out of business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_21",
+      "TextList": [
+        {
+          "Line": 740,
+          "OriginalText": "Heeey, man! You came back!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 746,
+          "OriginalText": "You just gotta try the experience.\nThe lifestyle, if you will.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 750,
+          "OriginalText": " Yeaaah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 754,
+          "OriginalText": "\nShields were made to be surfed on!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 760,
+          "OriginalText": "Oh, and if ya don\u0027t have your own shield,\nwe\u0027ve got some lying around here you\ncan buy, if you wanna.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 767,
+          "OriginalText": "If you don\u0027t...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 771,
+          "OriginalText": "this gang is doomed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_22",
+      "TextList": [
+        {
+          "Line": 785,
+          "OriginalText": "Heeey, man! You came back!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": "You just gotta try the experience.\nThe lifestyle, if you will.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 795,
+          "OriginalText": " Yeaaah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 799,
+          "OriginalText": "\nShields were made to be surfed on!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 806,
+          "OriginalText": "Let up, man. I\u0027m all sold outta shields,\nso I\u0027ve got nothin\u0027 for ya...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near_00",
+      "TextList": [
+        {
+          "Line": 815,
+          "OriginalText": "I hope I can make a sale...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

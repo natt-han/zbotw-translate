@@ -1,0 +1,365 @@
+{
+  "FileName": "Npc_Kokiri008",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I found them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Not yet.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Near000",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Hrm?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk000",
+      "TextList": [
+        {
+          "Line": 25,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 29,
+          "OriginalText": "\nYou...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 33,
+          "OriginalText": "\nCould it be?!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 39,
+          "OriginalText": "You\u0027re Mr. Hero!\nMr. Hero is here!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 45,
+          "OriginalText": "The mushroom on my head suddenly\nsprouted today, so I knew something was\nup!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 51,
+          "OriginalText": "It was a prediction that you\u0027d come!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 62,
+          "OriginalText": "...I think.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk001",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "Now then...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 75,
+          "OriginalText": " The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": null
+        },
+        {
+          "Line": 82,
+          "OriginalText": " await!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": "Wait...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 92,
+          "OriginalText": " You haven\u0027t even touched the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": " yet? What are you waiting for?!\n\nYou\u0027ve got to go to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": "sword ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": "first!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "I\u0027ll tell you all about the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "\nonce you\u0027ve taken care of that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk002",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "First you must go to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk500",
+      "TextList": [
+        {
+          "Line": 144,
+          "OriginalText": "Actually, those three ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 148,
+          "OriginalText": "trials",
+          "TranslatedText": null
+        },
+        {
+          "Line": 151,
+          "OriginalText": " aren\u0027t the\nonly ones we\u0027ve prepared for you.\n\nThere\u0027s also all the hidden ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "Riddles of \nHyrule",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": ". Have you found them yet?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk501",
+      "TextList": [
+        {
+          "Line": 178,
+          "OriginalText": "What?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "\nYou found them already?!\n\nThen there is nothing left for me to\nteach you...\n\nActually, I could teach you how to grow\nmushrooms out of your head.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "Though I\u0027m not sure that would be of\nmuch use...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk502",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "In that case, you must climb to the very\ntop of the Great Deku Tree.\n\nThe ultimate ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": "trial",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": ", which none have yet\naccomplished, awaits you there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk503",
+      "TextList": [
+        {
+          "Line": 213,
+          "OriginalText": "What?\n\n\nYou haven\u0027t pulled out the Master Sword\nover there! Do whatever is necessary\nto pull it out!\nIt\u0027s the only way the Great Deku Tree \nand all of us Koroks will feel safe!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk504",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "Climb to the top of the Great Deku Tree,\nand face the ultimate trial!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk600",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "I was privileged enough to witness \nyou pull out the Master Sword!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk601",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "I have no more trials to give you!\nGo! Restore peace to Hyrule!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_Talk602",
+      "TextList": [
+        {
+          "Line": 249,
+          "OriginalText": "Now go!\nWe will be cheering you on from the\ndepths of the forest!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "I have feelings, you know!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 257,
+          "OriginalText": "Aah! Aah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 261,
+          "OriginalText": "Such violence!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 265,
+          "OriginalText": "I\u0027m going to burn!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorHorse",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "It\u0027s huge!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "What?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorInsect",
+      "TextList": [
+        {
+          "Line": 277,
+          "OriginalText": "I don\u0027t have any pollen!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 281,
+          "OriginalText": "Eeeek!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

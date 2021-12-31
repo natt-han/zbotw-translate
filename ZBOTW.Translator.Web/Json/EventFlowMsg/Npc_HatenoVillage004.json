@@ -1,0 +1,610 @@
+{
+  "FileName": "Npc_HatenoVillage004",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "It\u0027s raining...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "\u266A\uFF5E\uFF5E\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "*pant*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near03",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027m not so young now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near04",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Graaawww...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "You\u0027ve got the look of a traveler!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 45,
+          "OriginalText": " Is this\nyour first time in Hateno Village?\n\nWell, you\u0027re in luck, because you have\na lifelong resident to show you around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "Well, fine then...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 77,
+          "OriginalText": "OK!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": " Let\u0027s get you a good ol\u0027 fashioned\ndose of Hateno hospitality!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 90,
+          "OriginalText": "This is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 94,
+          "OriginalText": "general store, East Wind",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "\nThey sell a lot of everyday goods...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 105,
+          "OriginalText": "\nand even some everyday greats!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 117,
+          "OriginalText": "*pant pant...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 124,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "This is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "Kochi Dye Shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": ",\nknown for their ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 141,
+          "OriginalText": "Hateno dyeing",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 148,
+          "OriginalText": " They\u0027ll\ndye your clothes whatever color you like!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 160,
+          "OriginalText": "*pant pant...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 170,
+          "OriginalText": "This here is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 174,
+          "OriginalText": "Ton Pu Inn",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": "!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": "If you need to sleep overnight, then this\nis the place!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "*pant pant...* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": "This is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "clothing store,\nVentest Clothing",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 216,
+          "OriginalText": " They sell...well, I\u0027m\nsure you can guess what they sell.\nTo be straight with you, this is actually\nmy store! So come hang out when you\u0027ve\ngot some time.\nStock up here first before heading\nover to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": "Kochi Dye Shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "Whew... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": "I\u0027m pretty much beat!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": " Let\u0027s call\nthis the end of the tour, yah?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 247,
+          "OriginalText": "Just don\u0027t have the pep for tour guiding like\nI used to...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 261,
+          "OriginalText": "I\u0027m probably just gonna kick back for the\nrest of the day. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": "But if you want a guide\nagain, come find me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 277,
+          "OriginalText": "*grind grind*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 289,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 300,
+          "OriginalText": " Is that from Purah?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 309,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 313,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": "... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 320,
+          "OriginalText": "Grandma Purah might\nbe interested in seein\u0027 that...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 329,
+          "OriginalText": "And now, on with the tour!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "That\u0027s enough touristry for the day. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": "\nBut don\u0027t fret\u2014this village ain\u0027t goin\u0027\nanywhere. You can come back tomorrow!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "Maybe I\u0027ll be more awake then...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 363,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 370,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": " Does that belong to\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": "research lab director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 397,
+          "OriginalText": "... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 401,
+          "OriginalText": "Why don\u0027t you go \ndeliver it to the",
+          "TranslatedText": null
+        },
+        {
+          "Line": 405,
+          "OriginalText": " research lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 417,
+          "OriginalText": "The shop is in my daughter\u0027s capable\nhands these days, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 421,
+          "OriginalText": "so I\u0027ve got a lot of\ntime on my hands.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": "\nI thought it might be nice to do a good\nturn for the village where I was born and\nraised, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": "so I volunteered as a tour guide.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": "\nStick with me, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "and I\u0027ll show you around\nthe best parts of this place.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 443,
+          "OriginalText": "In fact, in just a minute, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": "I\u0027ll show you\nsomething really special!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 456,
+          "OriginalText": "My philosophy is, if it rains on you, then\nyou were meant to be wet.\n\nIf you share my outlook on life, then why\nnot let me show you around the village?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "You\u0027ve got the look of a traveler!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": " Is this\nyour first time in Hateno Village?\n\nWell, you\u0027re in luck, because you have\na lifelong resident to show you around!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 509,
+          "OriginalText": "*pant pant* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": "Almost there!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": " Keep it together,\nkeep it together...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 529,
+          "OriginalText": "Can\u0027t talk while I\u0027m on the move! Gotta\nkeep my heart rate up!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 538,
+          "OriginalText": "Thanks for using Seldon\u0027s Village Tours.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 542,
+          "OriginalText": "\nOur next tour will begin...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 546,
+          "OriginalText": "whenever I get\nmy breath back...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Seldon\u0027s Village Tours is now closed.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": "\nPlease come again if you like...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 563,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 570,
+          "OriginalText": "But let me rest for a bit first...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

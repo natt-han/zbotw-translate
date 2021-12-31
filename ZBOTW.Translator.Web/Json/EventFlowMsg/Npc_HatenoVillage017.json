@@ -1,0 +1,770 @@
+{
+  "FileName": "Npc_HatenoVillage017",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What\u0027s this thing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "What are you up to?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I\u0027m lost.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I\u0027m a thief.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027m a traveler.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Zzz... Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "So tired...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "The night wind is cold, eh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 67,
+          "OriginalText": "What an ugly day...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "I\u0027m headed to bed. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 89,
+          "OriginalText": "The day shift is up to\nmy lovely wife.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 98,
+          "OriginalText": "See you later.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Carrying the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 111,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 114,
+          "OriginalText": ", I see. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 118,
+          "OriginalText": "It\u0027s been\na while since I\u0027ve seen anyone rekindle\nit. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 122,
+          "OriginalText": "Is it finally back for good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "Huh. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "I always thought if anyone would\ncarry the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": ", it would be the\ndirector, not some wandering youth.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "It\u0027s about time I started work...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "It\u0027s bedtime for me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": " I spend nights\nworking, so I have to get my sleep in\nwhere I can.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 168,
+          "OriginalText": "Hrrrmmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 172,
+          "OriginalText": "is it my turn already?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 183,
+          "OriginalText": "Ah, well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": " Say, not to pry, but...I have to\nask. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 191,
+          "OriginalText": "Who are you supposed to be?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "The demands of my job mean that\nnights and days are switched for me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "\nSo please let me sleep just a bit more.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 213,
+          "OriginalText": "Funny, that was going to be my question\nto you!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 217,
+          "OriginalText": " What are you doing skulking\naround in the dead of night?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 236,
+          "OriginalText": "Hahaha, really?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 240,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": "Well, they say everyone\nis lost in the woods of life.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": " Or words\nto that effect.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": "inn ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": "is down the hill, past the bridge.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "\nThey\u0027ve got soft beds and reasonable\nrates there if you want a night\u0027s sleep.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "Haha, you want to play guards and\nbandits?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": " Sure, OK. \u0022You\u0027re under arrest!\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": "\nSatisfied?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "Something I can do for you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 314,
+          "OriginalText": "This?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": " Good question. I\u0027m not quite\nsure myself.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "But apparently the director at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": "Hateno Ancient Tech Lab ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 341,
+          "OriginalText": "lights it\nwith a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 345,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "The Hateno Ancient Tech Lab is at the\ntop of this hill. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 366,
+          "OriginalText": "Mark the smoke pouring\nfrom the chimney, and you\u0027ll find it.\nNobody lives there but a weird ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 370,
+          "OriginalText": "old man\nand a strange old lady",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "Only the kids in\ntown are foolish enough to go near it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 386,
+          "OriginalText": "What\u0027s it look like? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": "I\u0027m keeping watch\nover the windmills. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "My devoted wife and\nI stand guard day and night.\nShe\u0027s not here right now, I mean. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 398,
+          "OriginalText": "It\u0027s\nmore of a...time-sharing sort of thing.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 404,
+          "OriginalText": "My love for her is so powerful that she\nsuggested we take shifts.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": " That way it\nfeels more special when we\u0027re together!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 417,
+          "OriginalText": "I\u0027m watching the windmills. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 421,
+          "OriginalText": "They have\nto maintain a steady speed or the\nconsistency of the flour will be off.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 430,
+          "OriginalText": "I saw the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": "Hateno Ancient Tech Lab\ndirector ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "lighting the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "blue flame ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "long\nago, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 450,
+          "OriginalText": "but I never found out why.\nShe never was one for explaining herself\nto ordinary folks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 459,
+          "OriginalText": "Sure, robber man, sure. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": "You\u0027re wasting\nyour time here; we have nothing worth\nstealing.\nMy most valuable possession is my\nwife\u0027s boundless love for me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 472,
+          "OriginalText": "Be that as it may, I\u0027m in no position to\nshow you around. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 483,
+          "OriginalText": "But the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 487,
+          "OriginalText": "inn",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": " is always open. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 494,
+          "OriginalText": "You might\ntry them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 503,
+          "OriginalText": "It was once a common sight to see the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "\u0027s ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": "director ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": "go\naround setting the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": "lanterns",
+          "TranslatedText": null
+        },
+        {
+          "Line": 527,
+          "OriginalText": " alight.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 536,
+          "OriginalText": "It was once a common sight to see Ms.\nPurah of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 540,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 549,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 552,
+          "OriginalText": "go\naround setting the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 556,
+          "OriginalText": "lanterns",
+          "TranslatedText": null
+        },
+        {
+          "Line": 559,
+          "OriginalText": " alight.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 573,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 577,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 580,
+          "OriginalText": "\u0027s\ndirector has to be getting up there\nin years by now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 589,
+          "OriginalText": "Ms. Purah has to be getting up there\nin years by now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 598,
+          "OriginalText": "Well hello there, lost boy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 607,
+          "OriginalText": "Uh-oh, it\u0027s the robber man!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": " Hide your\njewels and heirlooms!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 620,
+          "OriginalText": "Hey there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "So what\u0027s your business out of doors\ntonight?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 648,
+          "OriginalText": "What are you really doing out tonight?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 667,
+          "OriginalText": "Hello and good morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 676,
+          "OriginalText": "Hello and good day.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 685,
+          "OriginalText": "Hello and good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 694,
+          "OriginalText": "Are you, now. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 698,
+          "OriginalText": "Well, that\u0027s fine. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 702,
+          "OriginalText": "You seem\nharmless enough.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

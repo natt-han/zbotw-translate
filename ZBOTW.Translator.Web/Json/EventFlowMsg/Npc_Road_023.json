@@ -1,0 +1,690 @@
+{
+  "FileName": "Npc_Road_023",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": " I don\u0027t need another close call\nlike THAT in my life.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "Shhh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 30,
+          "OriginalText": " I don\u0027t think we\u0027re out of\nthe woods yet, and I don\u0027t want any\nmonsters hearing us...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 39,
+          "OriginalText": "Urgh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 43,
+          "OriginalText": " I\u0027m not cut out for battle...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Oh, my aching bones...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": " I feel like\nI\u0027ve been trampled.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "Careful now\u2014there are ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 69,
+          "OriginalText": "Guardians ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 72,
+          "OriginalText": "on\nthe prowl!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": " We\u0027ll be in serious trouble\nif we don\u0027t get moving!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_00",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "Hey there, adventurer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 89,
+          "OriginalText": " You look like you\ncould use an adventure! If you head\nnortheast from here, you\u0027ll find Akkala.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 95,
+          "OriginalText": "Do you have Akkala on your map? Look\nfor a lake in the shape of a skull.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": " If it\u0027s\nadventure you\u0027re after, look no further.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_00_1",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "There\u0027s a region to the northeast of here\ncalled Akkala.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": " If you have a map, look for\na lake shaped like a skull. It\u0027s distinctive.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_01",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "Hey there, adventurer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 125,
+          "OriginalText": " Were you\nconsidering a trip to Skull Lake?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 131,
+          "OriginalText": "If you go, promise me you\u0027ll check out\nFang and Bone.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 135,
+          "OriginalText": " As shops go, it\u0027s\ndefinitely...interesting.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_01_1",
+      "TextList": [
+        {
+          "Line": 144,
+          "OriginalText": "Were you considering a trip out to\nSkull Lake?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 148,
+          "OriginalText": "\n\nIf you go, promise me you\u0027ll check out\nFang and Bone. As shops go, it\u0027s\ndefinitely...interesting.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_02",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "Hey there, adventurer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": " I\u0027m on my way\nto Riverside Stable, a bit southwest\nfrom here.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": "Southeast about the same distance from\nhere is Kakariko Village!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": " Check your map\nand you should find it easy enough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_02_1",
+      "TextList": [
+        {
+          "Line": 180,
+          "OriginalText": "I\u0027m on my way to Riverside Stable, a bit\nsouthwest from here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 184,
+          "OriginalText": "\n\nSoutheast about the same distance from\nhere is Kakariko Village! Check your map\nand you should find it easy enough.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_03",
+      "TextList": [
+        {
+          "Line": 193,
+          "OriginalText": "Hey there, adventurer! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": "It\u0027s quite a\njourney to the Riverside Stable from\nhere.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": "You could walk there if you HAD to, but",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "\nif you want to be prepared, bring a\ndetailed map and a horse, at least.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_03_1",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "It\u0027s quite a journey to the\nRiverside Stable from here...\n\nYou could walk there if you HAD to, but",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": "\nif you want to be prepared, bring a\ndetailed map and a horse, at least.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_04",
+      "TextList": [
+        {
+          "Line": 229,
+          "OriginalText": "Hey there, adventurer! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": "You can probably\nget a pretty good price for any ore you\nsell.\nIf you\u0027ve got some spare lying around,\nit\u0027s probably worth your while to sell\nit off",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": " and pocket the rupees!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Rane_04_1",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "You can probably get a pretty good price\nfor any ore you sell.\n\nIf you\u0027ve got some spare lying around,\nit\u0027s probably worth your while to sell\nit off",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": " and pocket the rupees!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "Lovely day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 258,
+          "OriginalText": "Whoa there...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 262,
+          "OriginalText": "Now, now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "Shush...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "Hush now. It\u0027s all right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "People are trying to rest here, but I\u0027ve\ngot stuff to share,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": " so I\u0027d better do it\nnice and quiet. You ready, adventurer?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": "\nIf you find a shop called Fang and Bone,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": "\nkeep an eye out for the special wares\nyou can buy only at night...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "I got nothing to say, adventurer.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 304,
+          "OriginalText": "\nSometimes, you just don\u0027t feel like\ntalking. Sometimes, you feel like a nap.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 313,
+          "OriginalText": "Seeing as how you\u0027re an adventurer and\nall,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": " I bet you\u0027re already familiar with the\nfact that cliffs are slippery in the rain.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_00",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Hey there, adventurer! A little word of\nadvice for you...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 332,
+          "OriginalText": "If you\u0027re headed to Akkala,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 336,
+          "OriginalText": " you\u0027re gonna\nneed some basic equipment!\n\nDeath Mountain is just to the north of\nhere.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 340,
+          "OriginalText": " I\u0027d recommend you head for its\nbase first and see about stocking up.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_00_1",
+      "TextList": [
+        {
+          "Line": 349,
+          "OriginalText": "If you\u0027re headed to Akkala,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": " you\u0027re gonna\nneed some basic equipment!\n\nDeath Mountain is just to the north of\nhere.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": " I\u0027d recommend you head for its\nbase first and see about stocking up.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_01",
+      "TextList": [
+        {
+          "Line": 366,
+          "OriginalText": "Hey there, adventurer! A word of\nwarning for you...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "You might get it into your head to go\ncheck out Hyrule Castle,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 376,
+          "OriginalText": " but I\u0027ve never\nencountered a more dangerous place...\nIf you head there hoping to find treasure,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": "\nbe careful that you don\u0027t lose your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_01_1",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "You might get it into your head to go\ncheck out Hyrule Castle,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": " but I\u0027ve never\nencountered a more dangerous place...\nIf you head there hoping to find treasure,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 397,
+          "OriginalText": "\nbe careful that you don\u0027t lose your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_02",
+      "TextList": [
+        {
+          "Line": 406,
+          "OriginalText": "Hey there, adventurer! A little treasure\ntip for you...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": "I\u0027ve heard tell of a secret cave",
+          "TranslatedText": null
+        },
+        {
+          "Line": 416,
+          "OriginalText": " on the\nwest side of Hyrule Castle!\n\nThere are many who\u0027ve tried to get in\nthrough the cave to hunt for treasure,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 420,
+          "OriginalText": "\nbut there are none who have returned!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_02_1",
+      "TextList": [
+        {
+          "Line": 429,
+          "OriginalText": "I\u0027ve heard tell of a secret cave",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": " on the\nwest side of Hyrule Castle!\n\nThere are many who\u0027ve tried to get in\nthrough the cave to hunt for treasure,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "\nbut there are none who have returned!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_03",
+      "TextList": [
+        {
+          "Line": 446,
+          "OriginalText": "Hey there, adventurer! I\u0027ve got a little\ninformation to share with you.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 452,
+          "OriginalText": "I\u0027ve heard of a secret way into Hyrule\nCastle.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": " You can find your way in through\nthe inlet behind the castle town.\nIt\u0027s just a rumor, mind you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 460,
+          "OriginalText": " For all I\nknow, it\u0027s a story spread to catch out\nthieves trying to break in.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_03_1",
+      "TextList": [
+        {
+          "Line": 469,
+          "OriginalText": "I\u0027ve heard of a secret way into Hyrule\nCastle.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 473,
+          "OriginalText": " You can find your way in through\nthe inlet behind the castle town.\nIt\u0027s just a rumor, mind you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": " For all I\nknow, it\u0027s a story spread to catch out\nthieves trying to break in.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_04",
+      "TextList": [
+        {
+          "Line": 486,
+          "OriginalText": "Listen up, adventurer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": " On your travels,\nyou may stumble across various kinds\nof ore. I recommend you collect it!\nOre will fetch a good price if you sell it,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 494,
+          "OriginalText": "\nwhich makes it a nice way to afford some\nof the pricier gear you\u0027ll find.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Rane_04_1",
+      "TextList": [
+        {
+          "Line": 503,
+          "OriginalText": "On your travels, you may stumble across\nvarious kinds of ore. I recommend you\ncollect it!\nOre will fetch a good price if you sell it,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "\nwhich makes it a nice way to afford some\nof the pricier gear you\u0027ll find.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "An adventurer!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": " And you\u0027ve saved me!\nHow very appropriate!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 529,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": " It\u0027s so nice to see an\nadventurer on an actual adventure!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 542,
+          "OriginalText": "That was a narrow escape!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 551,
+          "OriginalText": "They say a little bit of danger\u0027s all part of\nthe travel experience,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 555,
+          "OriginalText": " but that was really\nscary just now!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "My legs froze with fear when I saw\nthe danger I was in!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 573,
+          "OriginalText": "Now that things are a little bit safer\naround here, I should get on my way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 582,
+          "OriginalText": "Thank you, O brave adventurer!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

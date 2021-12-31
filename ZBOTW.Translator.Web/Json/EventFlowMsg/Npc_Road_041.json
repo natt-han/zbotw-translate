@@ -1,0 +1,800 @@
+{
+  "FileName": "Npc_Road_041",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "*huff...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": " *puff...*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 21,
+          "OriginalText": " *gasp...* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 25,
+          "OriginalText": "\nPhew...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 34,
+          "OriginalText": "That sucker\u0027s got his sights set on me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 38,
+          "OriginalText": "\nAnd my dance card is wide open!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 47,
+          "OriginalText": "If that had been any closer, I would have\nbeen done in for sure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Yee-owch!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 60,
+          "OriginalText": "\nI guess danger and traveling go hand\nin hand, huh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "Egads, it\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": "! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": "Run for your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_00",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "You ever heard of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "Spring of Power",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": "\nin the Akkala region? I\u0027ve only heard\nrumors about it myself.\nI wonder if what they say is true...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 109,
+          "OriginalText": "That a\nmystical force repels anyone who tries to\ntake a dip.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": " Or maybe it strengthens you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_00_1",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "What would happen if I took a dip in\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "Spring of Power",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": " in the Akkala\nregion?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": " Only one way to find out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_01",
+      "TextList": [
+        {
+          "Line": 142,
+          "OriginalText": "Have you heard about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "ancient arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 149,
+          "OriginalText": "\nfrom the Akkala region?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 153,
+          "OriginalText": " I happen to\nhave the latest gossip on them.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 159,
+          "OriginalText": "It\u0027s said they\u0027re so powerful they can\ntake down a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": "Guardian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "with a single shot.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_01_1",
+      "TextList": [
+        {
+          "Line": 175,
+          "OriginalText": "They say ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "ancient arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": " from the Akkala\nregion are so powerful they can take\ndown a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": "Guardian ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "with a single shot.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_02",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "Have you heard the stories of those\nlabyrinthine ruins in the Akkala region?\nI just recently learned about them myself.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 204,
+          "OriginalText": "You won\u0027t catch me wandering into them.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "\nI have trouble enough finding my way\nout of bed in the morning.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_02_1",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "You won\u0027t find me wandering into the\nAkkala region\u0027s labyrinthine ruins. Lousy\nsense of direction...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": " I\u0027d be lost for days.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_03",
+      "TextList": [
+        {
+          "Line": 230,
+          "OriginalText": "I heard there\u0027s a girl named ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "Cherry",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": " in\nthe Akkala region. They say she\u0027s a\ngreat chef!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 243,
+          "OriginalText": "That\u0027s all I know about her, though, so\nI can\u0027t give you any more info.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_03_1",
+      "TextList": [
+        {
+          "Line": 252,
+          "OriginalText": "I don\u0027t know much about this girl named\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "Cherry ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "in the Akkala region except that\nshe\u0027s supposed to be a great chef.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_04",
+      "TextList": [
+        {
+          "Line": 268,
+          "OriginalText": "Have you heard about the\nAkkala Ancient Tech Lab? I\nonly know one thing about it...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "Akkala Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": "\u0027s\ndirector reports to the director\nof the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 285,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": ".\nThat said, I\u0027ve never actually been\nto ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": " myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Akka_04_1",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 308,
+          "OriginalText": "Akkala Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 311,
+          "OriginalText": "\u0027s\ndirector reports to the director\nof the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 322,
+          "OriginalText": "Skull Lake... Where is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "The Spring of Power...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "Ancient arrows... Hmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 334,
+          "OriginalText": "The Fang and Bone...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 338,
+          "OriginalText": "What horrible weather.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "You don\u0027t know where I can find\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 354,
+          "OriginalText": "Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": ", do you? It\u0027s shaped like a\nskull, so it should be easy to find, but...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 363,
+          "OriginalText": "Well, I lost my map, so I have no idea\nwhere to look.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": " Otherwise I could spot\nit, no problem.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 376,
+          "OriginalText": "Ugh, this stubborn horse just shuts down\nin this weather.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": " He won\u0027t move an inch\non a day like today!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 389,
+          "OriginalText": "My horse is in a bad mood because the\nweather took a turn for the worse.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 393,
+          "OriginalText": " I hope\nit clears up soon.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_00",
+      "TextList": [
+        {
+          "Line": 402,
+          "OriginalText": "Have you heard about the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 406,
+          "OriginalText": "Fang and Bone",
+          "TranslatedText": null
+        },
+        {
+          "Line": 409,
+          "OriginalText": "\nin the Akkala region? I got the scoop if\nyou wanna hear it.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": "They say it only opens at nighttime. It\u0027s\nsupposed to be located at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": ",\nbut I have no idea where that is.\nLong story short...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 426,
+          "OriginalText": "\nWell, I\u0027ve misplaced my map.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_00_1",
+      "TextList": [
+        {
+          "Line": 435,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 439,
+          "OriginalText": "Fang and Bone",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": " only opens up at\nnighttime.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": " Apparently it\u0027s at ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 450,
+          "OriginalText": "Skull Lake",
+          "TranslatedText": null
+        },
+        {
+          "Line": 453,
+          "OriginalText": ",\nbut I don\u0027t know where that is.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_01",
+      "TextList": [
+        {
+          "Line": 462,
+          "OriginalText": "Have you met a woman in the Akkala\nregion by the name of Nobo?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 466,
+          "OriginalText": " I happen\nto know her, so I can give you the skinny.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": "She\u0027s the one who told me the rumors\nabout the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 476,
+          "OriginalText": "Spring of Power",
+          "TranslatedText": null
+        },
+        {
+          "Line": 479,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_01_1",
+      "TextList": [
+        {
+          "Line": 488,
+          "OriginalText": "I must admit, this woman I met in the\nAkkala region has me curious. Her name\nis Nobo, and she had some good info.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_02",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "Say, I bet you can\u0027t guess the total\npopulation of the Akkala region.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 507,
+          "OriginalText": "I have no idea myself.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 511,
+          "OriginalText": " I couldn\u0027t even\nbegin to fathom a guess.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_02_1",
+      "TextList": [
+        {
+          "Line": 520,
+          "OriginalText": "Do you know the total population of the\nAkkala region?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": " Because I sure don\u0027t.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_03",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Hey, do you know anything about this\nwandering chef in the Akkala region?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 539,
+          "OriginalText": "I don\u0027t know a single thing about him, so\nif you have any info on the guy, I\u0027d love\nto hear it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_03_1",
+      "TextList": [
+        {
+          "Line": 548,
+          "OriginalText": "I know a lot of things about a lot of\nthings, but this wandering chef from the\nAkkala region is a total mystery to me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_04",
+      "TextList": [
+        {
+          "Line": 557,
+          "OriginalText": "Have you heard about the special version\nof rock, paper, scissors that\u0027s played in\nthe Akkala region?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 563,
+          "OriginalText": "I don\u0027t know how to play it, but I don\u0027t\nreally care.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 567,
+          "OriginalText": " The information is probably\nbogus, anyway!\nI mean, the original version is just\nso perfect...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Akka_04_1",
+      "TextList": [
+        {
+          "Line": 576,
+          "OriginalText": "I heard there\u0027s a special version of rock,\npaper, scissors played in the Akkala\nregion, but it\u0027s probably just a rumor.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "Phew...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": " You really saved my skin!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 598,
+          "OriginalText": "Oh, I\u0027m saved!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 602,
+          "OriginalText": "\nThank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 611,
+          "OriginalText": "Oh, man, I barely held on to my life...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 615,
+          "OriginalText": "\nThanks for your help!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 624,
+          "OriginalText": "I...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 628,
+          "OriginalText": " I survived?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 632,
+          "OriginalText": "\nThank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 641,
+          "OriginalText": "Phew, I was no match for those\nmonsters.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 645,
+          "OriginalText": " Thanks for helping out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 654,
+          "OriginalText": "I barely made it out with my life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 663,
+          "OriginalText": "This is all I can offer you.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

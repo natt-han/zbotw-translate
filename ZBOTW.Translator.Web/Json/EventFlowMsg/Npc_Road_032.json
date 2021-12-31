@@ -1,0 +1,935 @@
+{
+  "FileName": "Npc_Road_032",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Grh... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": "I\u0027ll take any monster in a fair fight!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 21,
+          "OriginalText": "\nBut it\u0027s another story when they cheat\nand catch you by surprise.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 30,
+          "OriginalText": "Sa\u0027oten! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 34,
+          "OriginalText": "If I had my usual trusty blade,\nthese sands you see before you would\nbe littered with their guts!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 43,
+          "OriginalText": "Grr...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 47,
+          "OriginalText": " I hoped I wouldn\u0027t run into any\ntrouble here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Whew...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 60,
+          "OriginalText": " I\u0027m on an important mission.\nThose things almost got in the way of it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 69,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious around\nhere. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": "Still, I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 82,
+          "OriginalText": "Things seem fine around here. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": "Still, I\u0027ll\nkeep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 95,
+          "OriginalText": "Ever since ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 99,
+          "OriginalText": "Naboris ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": "showed up again,\nwe\u0027ve had no end of problems here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": "\n\nAnyone who knows anything about the\ndesert, like my people, takes pains to\navoid the thing.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "You should get to safety somewhere like\nKara Kara Bazaar before ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 116,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": "\u0027s\nlightning strikes you down.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_0100",
+      "TextList": [
+        {
+          "Line": 128,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious\naround here.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": "That doesn\u0027t mean I can relax, though.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": "\nThe surviving Yiga Clan could strike\nat any moment. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 142,
+          "OriginalText": "I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_0100_1",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "The surviving Yiga Clan could strike\nat any moment. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 155,
+          "OriginalText": "I\u0027d better keep my\neyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 164,
+          "OriginalText": "You\u0027re still here? Don\u0027t you understand\nthe dangers?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "Sa\u0027oten!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 181,
+          "OriginalText": " Don\u0027t blame me if ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "\u0027s\nlightning strikes you down.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01_2",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "Naboris ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 203,
+          "OriginalText": "has stopped terrorizing the\ndesert, but that doesn\u0027t mean it\u0027s a safe\nplace now. Not even for us Gerudo.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 213,
+          "OriginalText": "If you intend to travel the desert,\nbe sure that you\u0027re equipped for\nthe journey.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01_3",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "If you intend to travel the desert,\nbe sure that you\u0027re equipped for\nthe journey.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 231,
+          "OriginalText": "A lot of people gather around this little\noutpost, I\u0027ve noticed.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious around\nhere. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 241,
+          "OriginalText": "Still, I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 250,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious around\nhere. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 254,
+          "OriginalText": "Still, I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 263,
+          "OriginalText": "If you\u0027re going into the desert, traveler,\nlisten well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 269,
+          "OriginalText": "There are sandstorms out there so thick\nyou can\u0027t tell vai from voe. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": "Don\u0027t get\ncaught up in one if you value your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "There are sandstorms out there so thick\nyou can\u0027t tell vai from voe. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "Don\u0027t get\ncaught up in one if you value your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 295,
+          "OriginalText": "Relax around here for even one second,\nand you\u0027re begging for the Yiga Clan to\nmake you a target. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": "I have to stay alert.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "This is a nice place to relax in the middle\nof a long journey, huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 312,
+          "OriginalText": " WRONG! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 316,
+          "OriginalText": "That\u0027s\nwhat the Yiga Clan WANTS you to think!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 320,
+          "OriginalText": "It\u0027s getting warm.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 324,
+          "OriginalText": "Another broiling day...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "It\u0027s finally cooling off...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 332,
+          "OriginalText": "Tonight\u0027s chilly again.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "*sigh* Most guards don\u0027t stray too far\nfrom town.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 347,
+          "OriginalText": "They claim it\u0027s to keep a close eye on\nthings there, but I suspect it\u0027s so they\ndon\u0027t wear themselves out walking.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious\naround here.\nBut the other soldiers are working day\nand night to root out the surviving Yiga\nClan jackals. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "I\u0027ve got to do my part too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "The other soldiers are working day and\nnight to root out the surviving Yiga Clan\njackals. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": "I\u0027ve got to do my part too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 387,
+          "OriginalText": "Don\u0027t blame me if you go wandering the\ndeserts and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 394,
+          "OriginalText": "\u0027s lightning strikes\nyou down.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "We Gerudo know better than to go\nanywhere near that thing.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": "I heard our chief might be doing\nsomething about ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 418,
+          "OriginalText": ", but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": "until\nshe does, be smart and stay away.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_0100",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious\naround here.\nBut the survivors of the Yiga Clan could\nshow their faces here at any moment.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "We have to be ready when they do.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_0100_1",
+      "TextList": [
+        {
+          "Line": 450,
+          "OriginalText": "The survivors of the Yiga Clan could\nshow their faces here at any moment.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 454,
+          "OriginalText": "\nWe have to be ready when they do.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 463,
+          "OriginalText": "You\u0027re still hanging around here?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": " Don\u0027t\nblame me when ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 474,
+          "OriginalText": "\u0027s lightning fries\nyou to a crisp.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 483,
+          "OriginalText": "The people here never seem to get\ntired, no matter what time of day it is.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious around\nhere. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "Still, I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "I\u0027ve been watching, and I feel safe\nsaying there\u0027s no one suspicious around\nhere. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 506,
+          "OriginalText": "Still, I\u0027ll keep my eyes open.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 515,
+          "OriginalText": "One warning if you\u0027re planning to go\ninto the desert: ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 519,
+          "OriginalText": "there are sandstorms out\nthere so thick you can\u0027t tell vai from voe.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 525,
+          "OriginalText": "Don\u0027t get caught up in one if you value\nyour life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 534,
+          "OriginalText": "There are sandstorms out there so thick\nyou can\u0027t tell vai from voe. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 538,
+          "OriginalText": "Don\u0027t get\ncaught up in one if you value your life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 547,
+          "OriginalText": "If anyone at this stable lets their guard\ndown, those Yiga Clan jackals are bound\nto show their true colors.\nI have to keep a careful eye out for any\nsuspicious characters.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_0400",
+      "TextList": [
+        {
+          "Line": 556,
+          "OriginalText": "If the tip I heard is true about the Yiga\nClan being masters of disguise, they\ncould be anyone here at this stable.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 562,
+          "OriginalText": "I can\u0027t afford to let my guard slip for\neven a moment.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "Sooner or later, they\u0027ll mistake me for\na simple traveler, and that\u0027s when I\u0027ll\nhave them dead to rights.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_0400_1",
+      "TextList": [
+        {
+          "Line": 577,
+          "OriginalText": "The Yiga Clan are supposedly masters of\ndisguise, but I bet they won\u0027t count on\ntheir prey being in disguise too. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 581,
+          "OriginalText": "Heheh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 590,
+          "OriginalText": "Those Yiga Clan jackals will pounce on\nanyone who lets their guard down.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": "\nI can\u0027t afford to relax for even a moment.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 603,
+          "OriginalText": "I shouldn\u0027t have had so much trouble\nwith a weakling.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 607,
+          "OriginalText": " I\u0027m supposed to be\nbetter than that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 616,
+          "OriginalText": "That was a hot one, even for the desert.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 620,
+          "OriginalText": "\nI wouldn\u0027t have made it without your\nhelp.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 624,
+          "OriginalText": " Sarqso!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 633,
+          "OriginalText": "I wouldn\u0027t have made it out of that\nwithout your help. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 637,
+          "OriginalText": "Sarqso!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 646,
+          "OriginalText": "The way you fight... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 650,
+          "OriginalText": "I\u0027ve never seen\nanyone that good. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 654,
+          "OriginalText": "Not even the\nYiga Clan.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 663,
+          "OriginalText": "I hate this... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": "That should have been no\nproblem, but here we are.\n\nIf I had my usual gear, no monster that\nsmall would dare approach me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 676,
+          "OriginalText": "You seem at home in battle. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 680,
+          "OriginalText": "You\u0027re...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 684,
+          "OriginalText": "not\na member of the Yiga Clan, are you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": "Hah, what am I saying? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 694,
+          "OriginalText": "As if any of\nthose jackals would go to the trouble\nof saving me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 703,
+          "OriginalText": "I have to thank you somehow. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 707,
+          "OriginalText": "Is this\nenough?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "first",
+      "TextList": [
+        {
+          "Line": 716,
+          "OriginalText": "Hmmmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 720,
+          "OriginalText": " You look like your everyday\ntraveler, but how can I be sure?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 729,
+          "OriginalText": "Don\u0027t tell anyone...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 733,
+          "OriginalText": "but I\u0027m no merchant.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 737,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 743,
+          "OriginalText": "I\u0027m a Gerudo Town soldier in disguise.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 754,
+          "OriginalText": "Ever heard of the Yiga Clan?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 758,
+          "OriginalText": " They\u0027re a\ngroup of thieving bandits who have\ncaused all sorts of trouble back in town.\nI got a tip that some of them go\nincognito as travelers to ambush\nthe unwary.\nThat\u0027s why I\u0027m dressed as a simple\nmerchant. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 762,
+          "OriginalText": "My mission is to blend in\nand stay on guard in case they strike.\nThey were bold enough to strike at\nGerudo Town, so I wouldn\u0027t be shocked\nif they struck at travelers, too...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "first_00",
+      "TextList": [
+        {
+          "Line": 771,
+          "OriginalText": "Hmmmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 775,
+          "OriginalText": " You look like your everyday\ntraveler...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 789,
+          "OriginalText": "Don\u0027t tell anyone...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 793,
+          "OriginalText": "but I\u0027m no merchant.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 797,
+          "OriginalText": "\nI\u0027m a Gerudo Town soldier in disguise.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 803,
+          "OriginalText": "Ever heard of the Yiga Clan?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 807,
+          "OriginalText": " They\u0027re a\ngroup of thieving bandits who caused\ntrouble back in town a while back.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 813,
+          "OriginalText": "We put them down, but we may not have\ngotten them all... I was tipped off that\nsome have been ambushing travelers.\nThat\u0027s why I\u0027m dressed as a simple\nmerchant. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 817,
+          "OriginalText": "My mission is to blend in\nand stay on guard in case they strike.\nEven with their hideout sacked, any\nstragglers are still dangerous.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 821,
+          "OriginalText": "\nPerhaps more dangerous...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "hello",
+      "TextList": [
+        {
+          "Line": 835,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "hello01",
+      "TextList": [
+        {
+          "Line": 849,
+          "OriginalText": "Sav\u0027aaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "hello02",
+      "TextList": [
+        {
+          "Line": 863,
+          "OriginalText": "Sav\u0027saaba!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

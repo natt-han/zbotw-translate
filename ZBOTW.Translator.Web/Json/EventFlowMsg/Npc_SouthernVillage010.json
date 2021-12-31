@@ -1,0 +1,475 @@
+{
+  "FileName": "Npc_SouthernVillage010",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Sightseeing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Nope.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Sure, why not.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "I don\u0027t think so.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Test your luck?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "That\u0027s fine.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Umm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Oh, good. Rain...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Mmm...mmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Hey, sir! Haven\u0027t seen you around.\nYou sightseeing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "Huh? You haven\u0027t heard?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 70,
+          "OriginalText": " There\u0027s a\nspecial place where they say you can\nfind your true love.\nFolks come from all over to visit, hoping\nfor love.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": " It\u0027s the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 78,
+          "OriginalText": "Lover\u0027s Pond ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 81,
+          "OriginalText": "on\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": "Tuft Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 88,
+          "OriginalText": ".\nWhy don\u0027t you go check it out, mister?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 97,
+          "OriginalText": "I see, I see. There\u0027ve been lots of visitors\nto this village lately.\n\nThey come seeking the special place\nwhere it\u0027s said true love can be found...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 101,
+          "OriginalText": "Lover\u0027s Pond ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 104,
+          "OriginalText": "on ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 108,
+          "OriginalText": "Tuft Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 111,
+          "OriginalText": ".\nBut you look like you\u0027re probably already\npopular with the ladies, so maybe that\u0027s\nnot where you\u0027re headed.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 120,
+          "OriginalText": "Mmm...mmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 129,
+          "OriginalText": "Oh, yeah, there have been\npeople climbing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "Tuft Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": ".\nI wonder if they found love there...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "I\u0027m going to sleep.\nCome back tomorrow if you\nneed something.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "The ol\u0027 war chest has seen better days...\n\n\nSee, I\u0027ve gotten really into gambling\nlately, but the gambling hasn\u0027t gotten\nreally into me, if you get my meaning.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "I don\u0027t suppose you could spot me...\nsay, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "100 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": ", could you? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "Once I hit it\nbig, I\u0027ll repay you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "10 times",
+          "TranslatedText": null
+        },
+        {
+          "Line": 178,
+          "OriginalText": " over!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "That\u0027s...unfortunate.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": "\nGuess I\u0027ll just have to find someone else\nto give me a hand, huh...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 208,
+          "OriginalText": "Hey, it\u0027s my friend! Thanks for helping\nme out before\u2014I really appreciate it.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "Thing is, though...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 218,
+          "OriginalText": " I\u0027m flat broke again.\n\n\nWhat do you say to spotting me some\nmore rupees?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": " I think ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 226,
+          "OriginalText": "100 rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 229,
+          "OriginalText": " would\nbe enough. You know I\u0027m good for it!\nYou know I\u0027ll pay ya back ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": "10 times",
+          "TranslatedText": null
+        },
+        {
+          "Line": 236,
+          "OriginalText": " over!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "Whoa there, buddy!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 257,
+          "OriginalText": "\nNo need to rush me!\n\nI won\u0027t know the outcome of the bet\nuntil tomorrow, so you should come\nback then.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "My buddy! My pal! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "I won!\nI hit the jackpot!\n\nIt\u0027s all thanks to you, too!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "\nJust like I promised, here\u0027s your share:\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 278,
+          "OriginalText": "10 times",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": " what you lent me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 290,
+          "OriginalText": "I... I lost, buddy.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 294,
+          "OriginalText": "\nI\u0027m broke as broke can be.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "But I can\u0027t give up now.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": "\nYou\u0027d understand in my shoes.\nYou should give it a shot!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Ah, thanks. I\u0027m most grateful.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 325,
+          "OriginalText": "I\u0027m gonna go use this to make us some\nmoney. Don\u0027t you worry.\n\nCome back after tomorrow to hear\nhow it went.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 334,
+          "OriginalText": "Hold on, you don\u0027t have enough to lend\nme any!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 338,
+          "OriginalText": " Ah, man... Don\u0027t let me down\nlike that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 347,
+          "OriginalText": "Can\u0027t even go out fishing in this rain...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 351,
+          "OriginalText": "\nI could go test my luck, though...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 363,
+          "OriginalText": "Yeah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 367,
+          "OriginalText": "\nCloyne runs a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "treasure-chest game",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": ".\nIt\u0027s really fun, especially if you win!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "Just so we\u0027re clear, though... If my luck\nfails me, I won\u0027t be able to pay you back.\nYou\u0027re OK with that?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

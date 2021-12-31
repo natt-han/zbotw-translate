@@ -1,0 +1,1625 @@
+{
+  "FileName": "Npc_OldKorok",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Weapon stash!",
+          "TranslatedText": "ช่องเก็บอาวุธ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Bow stash!",
+          "TranslatedText": "ช่องเก็บธนู!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Shield stash!",
+          "TranslatedText": "ช่องเก็บโล่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Nothing right now.",
+          "TranslatedText": "ยังก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Yeah.",
+          "TranslatedText": "ใช่แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Never mind.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Yes!",
+          "TranslatedText": "ใช่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Nope, just me.",
+          "TranslatedText": "ไม่ แค่ฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "I must dance!",
+          "TranslatedText": "ฉันต้องเต้น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "\u266ALa dah dee!\u266A",
+          "TranslatedText": "\u266ALa dah dee!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "\u266ADah dee dah!\u266A",
+          "TranslatedText": "\u266ADah dee dah!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "\u266AShalaka!\u266A",
+          "TranslatedText": "\u266AShalaka!\u266A"
+        },
+        {
+          "Line": 68,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 74,
+          "OriginalText": "It\u0027s you! ",
+          "TranslatedText": "คุณน่ะเอง! "
+        },
+        {
+          "Line": 78,
+          "OriginalText": "We meet again!\n\n\nWhat\u0027s with the silent treatment?",
+          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบอย่างงั้นล่ะ?"
+        },
+        {
+          "Line": 82,
+          "OriginalText": "\nDon\u0027t you remember me?",
+          "TranslatedText": "\nจำฉันไม่ได้เหรอ?"
+        },
+        {
+          "Line": 86,
+          "OriginalText": " I\u0027m the\nmusician of Korok Forest,",
+          "TranslatedText": " ฉันคือ\nนักดนตรีแห่ง Korok Forest,"
+        },
+        {
+          "Line": 90,
+          "OriginalText": " Hestu!\nI\u0027m impressed you found your way\nthrough the Lost Woods and made it\nhere...\n",
+          "TranslatedText": " Hestu!\nฉันประทับใจนะที่คุณหาทางผ่าน Lost Woods จนมาถึงที่นี่...\n"
+        },
+        {
+          "Line": 96,
+          "OriginalText": "So have you brought me any\n",
+          "TranslatedText": "แล้วได้เอา\n"
+        },
+        {
+          "Line": 100,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 103,
+          "OriginalText": "?",
+          "TranslatedText": " มาให้ฉันบ้างมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "If you\u0027ll return my lost ",
+          "TranslatedText": "ถ้าคุณเอา "
+        },
+        {
+          "Line": 116,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 119,
+          "OriginalText": " to\nme,",
+          "TranslatedText": " ของฉันที่หายไปมาคืน"
+        },
+        {
+          "Line": 123,
+          "OriginalText": " I\u0027ll ",
+          "TranslatedText": " ฉันจะ "
+        },
+        {
+          "Line": 127,
+          "OriginalText": "expand",
+          "TranslatedText": "ขยาย"
+        },
+        {
+          "Line": 130,
+          "OriginalText": " the size of your ",
+          "TranslatedText": " ขนาดของ "
+        },
+        {
+          "Line": 134,
+          "OriginalText": "inventory",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 137,
+          "OriginalText": ".\nWhich stash do you want another slot in?",
+          "TranslatedText": "ให้\nอยากขยายอันไหนล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "Shaka... ",
+          "TranslatedText": "Shaka... "
+        },
+        {
+          "Line": 228,
+          "OriginalText": "How sad...",
+          "TranslatedText": "แย่จัง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "Shaka! Shakaka!",
+          "TranslatedText": "Shaka! Shakaka!"
+        },
+        {
+          "Line": 244,
+          "OriginalText": "\nYou are nekkid!\n\n",
+          "TranslatedText": "\nคุณโป๊!\n"
+        },
+        {
+          "Line": 250,
+          "OriginalText": "I am nekkid!",
+          "TranslatedText": "ฉันโป๊!"
+        },
+        {
+          "Line": 257,
+          "OriginalText": "\nWe are united in exposure!",
+          "TranslatedText": "\nเราสามัคคีกันเรื่องความเปิดเผย!"
+        },
+        {
+          "Line": 261,
+          "OriginalText": "\n\u266ANekky nokky nakey!\u266A",
+          "TranslatedText": "\n\u266ANekky nokky nakey!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 276,
+          "OriginalText": "\u266ANakey nakey!\u266A",
+          "TranslatedText": "\u266ANakey nakey!\u266A"
+        },
+        {
+          "Line": 280,
+          "OriginalText": "\n\u266ANekky nokky nakey!\u266A",
+          "TranslatedText": "\n\u266ANekky nokky nakey!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 292,
+          "OriginalText": "...Shakalo?!",
+          "TranslatedText": "...Shakalo?!"
+        },
+        {
+          "Line": 296,
+          "OriginalText": " You\u0027ve enlarged all of your\n",
+          "TranslatedText": " คุณขยาย\n"
+        },
+        {
+          "Line": 300,
+          "OriginalText": "stashes",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 303,
+          "OriginalText": "!\n\n",
+          "TranslatedText": "ครบหมดแล้ว!\n"
+        },
+        {
+          "Line": 309,
+          "OriginalText": "\u266ANaaaaaaice!\u266A",
+          "TranslatedText": "\u266ANaaaaaaice!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 318,
+          "OriginalText": "You enlarged all of your ",
+          "TranslatedText": "คุณขยาย"
+        },
+        {
+          "Line": 322,
+          "OriginalText": "inventories",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 325,
+          "OriginalText": "!",
+          "TranslatedText": "ครบแล้ว!"
+        },
+        {
+          "Line": 329,
+          "OriginalText": "\nShakala!\n\n",
+          "TranslatedText": "\nShakala!\n"
+        },
+        {
+          "Line": 335,
+          "OriginalText": "Thanks to you, my maracas sound so...\n",
+          "TranslatedText": "เป็นเพราะคุณ เสียง maracas ของฉันจึงช่าง...\n"
+        },
+        {
+          "Line": 339,
+          "OriginalText": "\u266Ashakey",
+          "TranslatedText": "\u266Ashakey"
+        },
+        {
+          "Line": 343,
+          "OriginalText": "-shake",
+          "TranslatedText": "-shake"
+        },
+        {
+          "Line": 347,
+          "OriginalText": " SHAKETY!\u266A\n\nBut there may still be some children of\nthe forest out there. I\u0027m sure they\u0027d\nstill love to meet you.",
+          "TranslatedText": " SHAKETY!\u266A\nแต่อาจจะยังมีพวกเด็กแห่งป่าอยู่ข้างนอกนั่น\nฉันแน่ใจว่าพวกเขายังอยากพบกับคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Let the expansion begin!",
+          "TranslatedText": "มาขยายกันเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "Do you want me to expand a different\nstash?",
+          "TranslatedText": "อยากให้ฉันขยายช่องเก็บของอื่นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 385,
+          "OriginalText": "Hey! Guess what!",
+          "TranslatedText": "เฮ้! ทายสิ!"
+        },
+        {
+          "Line": 389,
+          "OriginalText": "\n\n\nAll of the forest children returned to\nKorok Forest!\n\n",
+          "TranslatedText": "\nพวกเด็กแห่งป่าทั้งหมดกลับมายัง\nKorok Forest แล้ว!\n"
+        },
+        {
+          "Line": 395,
+          "OriginalText": "You must have had an army of people\nsearching for them, huh?",
+          "TranslatedText": "คุณต้องมีคนเป็นของทัพในการหาพวกเขา\nแน่เลยใช่มั้ยเนี่ย?"
+        },
+        {
+          "Line": 399,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 411,
+          "OriginalText": "NO WAY! ",
+          "TranslatedText": "ไม่มีทาง! "
+        },
+        {
+          "Line": 415,
+          "OriginalText": "Fwahahahaha!",
+          "TranslatedText": "Fwahahahaha!"
+        },
+        {
+          "Line": 419,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 425,
+          "OriginalText": "\u266ANAAAAAAAAICE!\u266A",
+          "TranslatedText": "\u266ANAAAAAAAAICE!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 434,
+          "OriginalText": "Expand-a-band-band...",
+          "TranslatedText": "Expand-a-band-band..."
+        },
+        {
+          "Line": 438,
+          "OriginalText": "weapon stash",
+          "TranslatedText": "weapon stash"
+        },
+        {
+          "Line": 441,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 445,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 449,
+          "OriginalText": "Shakala!",
+          "TranslatedText": "Shakala!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 461,
+          "OriginalText": "Expand-a-band-band...",
+          "TranslatedText": "Expand-a-band-band..."
+        },
+        {
+          "Line": 465,
+          "OriginalText": "bow stash",
+          "TranslatedText": "bow stash"
+        },
+        {
+          "Line": 468,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 472,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 476,
+          "OriginalText": "Shakala!",
+          "TranslatedText": "Shakala!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 488,
+          "OriginalText": "Expand-a-band-band...",
+          "TranslatedText": "Expand-a-band-band..."
+        },
+        {
+          "Line": 492,
+          "OriginalText": "shield stash",
+          "TranslatedText": "shield stash"
+        },
+        {
+          "Line": 495,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 499,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 503,
+          "OriginalText": "Shakala!",
+          "TranslatedText": "Shakala!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 515,
+          "OriginalText": "Shakalo...",
+          "TranslatedText": "Shakalo..."
+        },
+        {
+          "Line": 519,
+          "OriginalText": " I can expand your\n",
+          "TranslatedText": " ฉันขยาย\n"
+        },
+        {
+          "Line": 523,
+          "OriginalText": "weapon stash ",
+          "TranslatedText": "ช่องเก็บอาวุธ "
+        },
+        {
+          "Line": 526,
+          "OriginalText": "no further.",
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 535,
+          "OriginalText": "Shakalo...",
+          "TranslatedText": "Shakalo..."
+        },
+        {
+          "Line": 539,
+          "OriginalText": " I can expand your\n",
+          "TranslatedText": " ฉันขยาย\n"
+        },
+        {
+          "Line": 543,
+          "OriginalText": "bow stash ",
+          "TranslatedText": "ช่องเก็บธนู "
+        },
+        {
+          "Line": 546,
+          "OriginalText": "no further.",
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Shakalo...",
+          "TranslatedText": "Shakalo..."
+        },
+        {
+          "Line": 559,
+          "OriginalText": " I can expand your\n",
+          "TranslatedText": " ฉันขยาย\n"
+        },
+        {
+          "Line": 563,
+          "OriginalText": "shield stash ",
+          "TranslatedText": "ช่องเก็บโล่ "
+        },
+        {
+          "Line": 566,
+          "OriginalText": "no further.",
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 575,
+          "OriginalText": "So then-a-den-den...do you want to\nexpand another ",
+          "TranslatedText": "ถ้าอย่างงั้น-อะ-งั้น-งั้น...อยากขยาย"
+        },
+        {
+          "Line": 579,
+          "OriginalText": "stash",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 582,
+          "OriginalText": "?",
+          "TranslatedText": "อื่นมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 669,
+          "OriginalText": "Shakala!",
+          "TranslatedText": "Shakala!"
+        },
+        {
+          "Line": 673,
+          "OriginalText": " Come back again!",
+          "TranslatedText": " กลับมาอีกนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk33",
+      "TextList": [
+        {
+          "Line": 682,
+          "OriginalText": "\u266ASaw-reeeeee!\u266A",
+          "TranslatedText": "\u266ASaw-reeeeee!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 691,
+          "OriginalText": "Shalaka!",
+          "TranslatedText": "Shalaka!"
+        },
+        {
+          "Line": 695,
+          "OriginalText": " Which ",
+          "TranslatedText": " อยากให้ฉันขยาย "
+        },
+        {
+          "Line": 699,
+          "OriginalText": "stash ",
+          "TranslatedText": "ช่องเก็บ "
+        },
+        {
+          "Line": 702,
+          "OriginalText": "shall I expand?",
+          "TranslatedText": "อันไหนล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk46",
+      "TextList": [
+        {
+          "Line": 789,
+          "OriginalText": "In that case, I\u0027ll give you my treasure,",
+          "TranslatedText": "ถ้าอย่างงั้น ฉันจะมอบสมบัติของฉันให้"
+        },
+        {
+          "Line": 793,
+          "OriginalText": "\nbut let\u0027s expand your ",
+          "TranslatedText": "\nแต่มาขยาย "
+        },
+        {
+          "Line": 797,
+          "OriginalText": "inventory ",
+          "TranslatedText": "ช่องเก็บของ "
+        },
+        {
+          "Line": 800,
+          "OriginalText": "first.",
+          "TranslatedText": "ของคุณกันก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk53",
+      "TextList": [
+        {
+          "Line": 809,
+          "OriginalText": "If you find any ",
+          "TranslatedText": "ถ้าคุณเจอ "
+        },
+        {
+          "Line": 813,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 816,
+          "OriginalText": ",",
+          "TranslatedText": ","
+        },
+        {
+          "Line": 820,
+          "OriginalText": " bring them\nby. ",
+          "TranslatedText": " เอามาให้ฉันนะ\n"
+        },
+        {
+          "Line": 824,
+          "OriginalText": "I\u0027ll expand the size of your\ninventory as thanks!",
+          "TranslatedText": "ฉันจะขยายช่องเก็บของให้เป็นการตอบแทน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk57",
+      "TextList": [
+        {
+          "Line": 833,
+          "OriginalText": "You\u0027ve maxed all of your ",
+          "TranslatedText": "คุณขยาย "
+        },
+        {
+          "Line": 837,
+          "OriginalText": "stashes",
+          "TranslatedText": "ช่องเก็บของ"
+        },
+        {
+          "Line": 840,
+          "OriginalText": "!",
+          "TranslatedText": "จนเต็มหมดแล้ว!"
+        },
+        {
+          "Line": 844,
+          "OriginalText": "\nSo let me give you this!",
+          "TranslatedText": "\nฉันขอมอบสิ่งนี้ให้นะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk58",
+      "TextList": [
+        {
+          "Line": 853,
+          "OriginalText": "It\u0027s amazing that you found all the\nchildren of the forest. \n\n\u266AHumm-aaaaaaa-mazing!\u266A",
+          "TranslatedText": "มันยอดไปเลยที่คุณเจอพวกเด็กแห่งป่าครบทั้งหมด\n\u266AHumm-aaaaaaa-mazing!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk59",
+      "TextList": [
+        {
+          "Line": 862,
+          "OriginalText": "So?",
+          "TranslatedText": "ว่าไง?"
+        },
+        {
+          "Line": 866,
+          "OriginalText": " Do you like it?\n\n\n",
+          "TranslatedText": " ชอบมั้ย?\n"
+        },
+        {
+          "Line": 872,
+          "OriginalText": "I hope you\u0027ll still visit me. You can watch\nme dance whenever you want!\n\n\u266AShalaka!\u266A",
+          "TranslatedText": "หวังว่าคุณจะยังแวะมาเยี่ยมฉันบ้างนะ\nคุณมาดูฉันเต้นได้ทุกเมื่อที่ต้องการเลย!\n\u266AShalaka!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk60",
+      "TextList": [
+        {
+          "Line": 881,
+          "OriginalText": "\u266AShaka-kala!\u266A",
+          "TranslatedText": "\u266AShaka-kala!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk61",
+      "TextList": [
+        {
+          "Line": 890,
+          "OriginalText": "If you have ",
+          "TranslatedText": "ถ้าคุณมี "
+        },
+        {
+          "Line": 894,
+          "OriginalText": "Hestu\u0027s gift",
+          "TranslatedText": "Hestu\u0027s gift"
+        },
+        {
+          "Line": 897,
+          "OriginalText": ",",
+          "TranslatedText": ","
+        },
+        {
+          "Line": 901,
+          "OriginalText": " dance with me!\n\n\n",
+          "TranslatedText": " เต้นกับฉันสิ!\n"
+        },
+        {
+          "Line": 907,
+          "OriginalText": "What dance should we do?",
+          "TranslatedText": "เราเต้นอะไรกันดี?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk62",
+      "TextList": [
+        {
+          "Line": 921,
+          "OriginalText": "\u266ADANCE PARTY!\u266A",
+          "TranslatedText": "\u266ADANCE PARTY!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk63",
+      "TextList": [
+        {
+          "Line": 930,
+          "OriginalText": "Shala-laka!",
+          "TranslatedText": "Shala-laka!"
+        },
+        {
+          "Line": 934,
+          "OriginalText": "\nSo then...",
+          "TranslatedText": "\nงั้นก็..."
+        }
+      ]
+    },
+    {
+      "EntryName": "talk64",
+      "TextList": [
+        {
+          "Line": 943,
+          "OriginalText": "Shalaka!",
+          "TranslatedText": "Shalaka!"
+        },
+        {
+          "Line": 947,
+          "OriginalText": " Working up a nice sweat here!",
+          "TranslatedText": " ได้เหงื่อดีจัง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk65",
+      "TextList": [
+        {
+          "Line": 956,
+          "OriginalText": "Shaka!",
+          "TranslatedText": "Shaka!"
+        },
+        {
+          "Line": 960,
+          "OriginalText": " Did you like my dance?",
+          "TranslatedText": " ชอบการเต้นของฉันมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk66",
+      "TextList": [
+        {
+          "Line": 969,
+          "OriginalText": "Shakala!",
+          "TranslatedText": "Shakala!"
+        },
+        {
+          "Line": 973,
+          "OriginalText": " That was fun!",
+          "TranslatedText": " สนุกจัง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk67",
+      "TextList": [
+        {
+          "Line": 982,
+          "OriginalText": "Shakalay!",
+          "TranslatedText": "Shakalay!"
+        },
+        {
+          "Line": 986,
+          "OriginalText": " That felt great!",
+          "TranslatedText": " นั่นมันเยี่ยมไปเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk68",
+      "TextList": [
+        {
+          "Line": 995,
+          "OriginalText": "Hmmkay then.",
+          "TranslatedText": "งั้นก็โอเค"
+        },
+        {
+          "Line": 999,
+          "OriginalText": " Buh-bye.",
+          "TranslatedText": " บะบาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk69",
+      "TextList": [
+        {
+          "Line": 1008,
+          "OriginalText": "It looks like you have no\n",
+          "TranslatedText": "ดูเหมือนว่าคุณจะไม่มี\n"
+        },
+        {
+          "Line": 1012,
+          "OriginalText": "Korok seeds ",
+          "TranslatedText": "Korok seeds "
+        },
+        {
+          "Line": 1015,
+          "OriginalText": "at all.",
+          "TranslatedText": "อยู่เลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk70",
+      "TextList": [
+        {
+          "Line": 1024,
+          "OriginalText": "I sure hope so!",
+          "TranslatedText": "ฉันก็หวังอย่างนั้น!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk71",
+      "TextList": [
+        {
+          "Line": 1033,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1037,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1041,
+          "OriginalText": "one",
+          "TranslatedText": "1"
+        },
+        {
+          "Line": 1044,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1048,
+          "OriginalText": "Korok seed",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1051,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk72",
+      "TextList": [
+        {
+          "Line": 1068,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1072,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1076,
+          "OriginalText": "two",
+          "TranslatedText": "2"
+        },
+        {
+          "Line": 1079,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1083,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1086,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk73",
+      "TextList": [
+        {
+          "Line": 1103,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1107,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1111,
+          "OriginalText": "three",
+          "TranslatedText": "3"
+        },
+        {
+          "Line": 1114,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1118,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1121,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk74",
+      "TextList": [
+        {
+          "Line": 1138,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1142,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1146,
+          "OriginalText": "five",
+          "TranslatedText": "5"
+        },
+        {
+          "Line": 1149,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1153,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1156,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk75",
+      "TextList": [
+        {
+          "Line": 1173,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1177,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1181,
+          "OriginalText": "eight",
+          "TranslatedText": "8"
+        },
+        {
+          "Line": 1184,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1188,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1191,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk76",
+      "TextList": [
+        {
+          "Line": 1208,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1212,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1216,
+          "OriginalText": "12",
+          "TranslatedText": "12"
+        },
+        {
+          "Line": 1219,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1223,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1226,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk77",
+      "TextList": [
+        {
+          "Line": 1243,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1247,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1251,
+          "OriginalText": "17",
+          "TranslatedText": "17"
+        },
+        {
+          "Line": 1254,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1258,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1261,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk78",
+      "TextList": [
+        {
+          "Line": 1278,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1282,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1286,
+          "OriginalText": "25",
+          "TranslatedText": "25"
+        },
+        {
+          "Line": 1289,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1293,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1296,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk79",
+      "TextList": [
+        {
+          "Line": 1313,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1317,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1321,
+          "OriginalText": "35",
+          "TranslatedText": "35"
+        },
+        {
+          "Line": 1324,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1328,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1331,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk80",
+      "TextList": [
+        {
+          "Line": 1348,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1352,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1356,
+          "OriginalText": "45",
+          "TranslatedText": "45"
+        },
+        {
+          "Line": 1359,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1363,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1366,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk81",
+      "TextList": [
+        {
+          "Line": 1383,
+          "OriginalText": "Shokay!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1387,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1391,
+          "OriginalText": "55",
+          "TranslatedText": "55"
+        },
+        {
+          "Line": 1394,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1398,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seed"
+        },
+        {
+          "Line": 1401,
+          "OriginalText": ".\nDeal?",
+          "TranslatedText": "\nตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk83",
+      "TextList": [
+        {
+          "Line": 1418,
+          "OriginalText": "Hm?",
+          "TranslatedText": "Hm?"
+        },
+        {
+          "Line": 1425,
+          "OriginalText": " Fwah?!\n\n\n",
+          "TranslatedText": " Fwah?!\n"
+        },
+        {
+          "Line": 1437,
+          "OriginalText": "Fwahahahaha!",
+          "TranslatedText": "Fwahahahaha!"
+        },
+        {
+          "Line": 1441,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1447,
+          "OriginalText": "I...",
+          "TranslatedText": "I..."
+        },
+        {
+          "Line": 1451,
+          "OriginalText": " I think I remember",
+          "TranslatedText": " ฉันคิดว่าฉันจำได้แล้ว"
+        },
+        {
+          "Line": 1455,
+          "OriginalText": " how to get back to\nKorok Forest!\n\n",
+          "TranslatedText": " ว่าจะกลับไป\nKorok Forest ยังไง!\n"
+        },
+        {
+          "Line": 1461,
+          "OriginalText": "Maybe I\u0027ll head back now.",
+          "TranslatedText": "บางทีฉันควรจะกลับได้แล้ว"
+        },
+        {
+          "Line": 1465,
+          "OriginalText": " I bet ",
+          "TranslatedText": " ฉันมั่นใจ "
+        },
+        {
+          "Line": 1469,
+          "OriginalText": "Grandpa",
+          "TranslatedText": "ปู่"
+        },
+        {
+          "Line": 1472,
+          "OriginalText": "\nis waiting for me.\n\nThanks for the Korok seeds!",
+          "TranslatedText": "\nจะต้องรอฉันอยู่แน่\nขอบคุณสำหรับ Korok seeds นะ!"
+        },
+        {
+          "Line": 1476,
+          "OriginalText": " I\u0027m off to\nKorok Forest!\n\nCome visit me there sometime!",
+          "TranslatedText": " ฉันจะไป\nKorok Forest ล่ะ!\nแวะไปหาฉันที่นั่นบ้างนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk84",
+      "TextList": [
+        {
+          "Line": 1486,
+          "OriginalText": "\u266ADah-",
+          "TranslatedText": "\u266ADah-"
+        },
+        {
+          "Line": 1490,
+          "OriginalText": "na-na-na-",
+          "TranslatedText": "na-na-na-"
+        },
+        {
+          "Line": 1494,
+          "OriginalText": "naaaaaaaa!\u266A",
+          "TranslatedText": "naaaaaaaa!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk85",
+      "TextList": [
+        {
+          "Line": 1509,
+          "OriginalText": "Phwahh!",
+          "TranslatedText": "Phwahh!"
+        },
+        {
+          "Line": 1513,
+          "OriginalText": " You don\u0027t have enough\n",
+          "TranslatedText": " คุณมี\n"
+        },
+        {
+          "Line": 1517,
+          "OriginalText": "Korok seeds",
+          "TranslatedText": "Korok seeds"
+        },
+        {
+          "Line": 1520,
+          "OriginalText": ".",
+          "TranslatedText": " ไม่พอนะ"
+        },
+        {
+          "Line": 1524,
+          "OriginalText": " You should learn how\nto count good!",
+          "TranslatedText": " คุณน่าจะไปเรียนการนับมาใหม่!"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk86",
+      "TextList": [
+        {
+          "Line": 1533,
+          "OriginalText": "Hmmkay then!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1537,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1541,
+          "OriginalText": "four",
+          "TranslatedText": "4"
+        },
+        {
+          "Line": 1544,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1548,
+          "OriginalText": "Korok\nseeds ",
+          "TranslatedText": "Korok\nseeds "
+        },
+        {
+          "Line": 1551,
+          "OriginalText": "from you. Deal?",
+          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk87",
+      "TextList": [
+        {
+          "Line": 1568,
+          "OriginalText": "Hmmkay then!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1572,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1576,
+          "OriginalText": "10",
+          "TranslatedText": "10"
+        },
+        {
+          "Line": 1579,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1583,
+          "OriginalText": "Korok\nseeds ",
+          "TranslatedText": "Korok\nseeds "
+        },
+        {
+          "Line": 1586,
+          "OriginalText": "from you. Deal?",
+          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk88",
+      "TextList": [
+        {
+          "Line": 1603,
+          "OriginalText": "Hmmkay then!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1607,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1611,
+          "OriginalText": "15",
+          "TranslatedText": "15"
+        },
+        {
+          "Line": 1614,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1618,
+          "OriginalText": "Korok\nseeds ",
+          "TranslatedText": "Korok\nseeds "
+        },
+        {
+          "Line": 1621,
+          "OriginalText": "from you. Deal?",
+          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk89",
+      "TextList": [
+        {
+          "Line": 1638,
+          "OriginalText": "Hmmkay then!",
+          "TranslatedText": "โอเค!"
+        },
+        {
+          "Line": 1642,
+          "OriginalText": " I\u0027ll just need ",
+          "TranslatedText": " ฉันแค่ต้องการ"
+        },
+        {
+          "Line": 1646,
+          "OriginalText": "20",
+          "TranslatedText": "20"
+        },
+        {
+          "Line": 1649,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1653,
+          "OriginalText": "Korok\nseeds ",
+          "TranslatedText": "Korok\nseeds "
+        },
+        {
+          "Line": 1656,
+          "OriginalText": "from you. Deal?",
+          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "talk90",
+      "TextList": [
+        {
+          "Line": 1676,
+          "OriginalText": "\u266AShalaka!\u266A",
+          "TranslatedText": "\u266AShalaka!\u266A"
+        },
+        {
+          "Line": 1680,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1686,
+          "OriginalText": "We meet again!\n\n\nWhy so quiet? ",
+          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบล่ะ? "
+        },
+        {
+          "Line": 1690,
+          "OriginalText": " Don\u0027t you remember me?",
+          "TranslatedText": " จำฉันไม่ได้เหรอ?"
+        },
+        {
+          "Line": 1694,
+          "OriginalText": "\nHestu?",
+          "TranslatedText": "\nHestu ไง?"
+        },
+        {
+          "Line": 1698,
+          "OriginalText": " The famed musician of\nKorok Forest?\nI\u0027ve got to hand it to you\u2014it\u0027s not easy\nto find this place.",
+          "TranslatedText": " นักดนตรีผู้โด่งดังแห่ง\nKorok Forest?\nฉันต้องขอบอกเลยนะ\u2014มันไม่ง่ายเลย\nในการหาที่นี่"
+        },
+        {
+          "Line": 1702,
+          "OriginalText": " They don\u0027t call them\nthe Lost Woods for nothing!\n",
+          "TranslatedText": " ชื่อ Lost Woods (ป่าลับแล)นี่ไม่ได้มาเล่นๆ หรอกนะ!\n"
+        },
+        {
+          "Line": 1711,
+          "OriginalText": "Oh right!",
+          "TranslatedText": "อ้อ ใช่แล้ว!"
+        }
+      ]
+    }
+  ]
+}

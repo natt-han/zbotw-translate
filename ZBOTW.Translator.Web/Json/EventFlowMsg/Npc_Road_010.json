@@ -1,0 +1,1350 @@
+{
+  "FileName": "Npc_Road_010",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Fixin\u0027 to buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Lookin\u0027 to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Not right now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Sounds good!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Maybe not...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll take it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "On second thought...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "I\u0027ll sell them all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "I\u0027ll just wait here until the monsters go\naway on their own...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "I think I\u0027d better just stay here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 67,
+          "OriginalText": "Whatcha sellin\u0027?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 81,
+          "OriginalText": "Hrm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 85,
+          "OriginalText": " If that\u0027s what you\u0027re thinking,\ndoes ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": " rupees ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 96,
+          "OriginalText": "sound fair?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 113,
+          "OriginalText": "Thank you kindly!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 117,
+          "OriginalText": " Is there anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "Thank you kindly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "Thank you very much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 144,
+          "OriginalText": "Your business made it worth walking all\nthe way out here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 153,
+          "OriginalText": "Oooh, but I really want it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 157,
+          "OriginalText": "I\u0027ll buy anything you\u0027ve got.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": " Just try me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 165,
+          "OriginalText": "Just leave the buying to me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 169,
+          "OriginalText": "I\u0027ll be more than glad to buy anything\nyou don\u0027t want.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "I\u0027ll buy anything.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 177,
+          "OriginalText": " Seriously!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "Whatcha lookin\u0027 to buy?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 190,
+          "OriginalText": "Oh, so sorry!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": " Looks like I\u0027m fresh out of\nthat one.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 203,
+          "OriginalText": "Looks like you\u0027re a bit short on rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 207,
+          "OriginalText": "\nFind me the next time I come around.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 216,
+          "OriginalText": "Looks like your bag is a mite full.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": "\nJust sell or toss a few things to free\nup some space.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "Lookin\u0027 to buy\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 229,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 246,
+          "OriginalText": "Thank you kindly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Thank you much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "Much obliged!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "Thank you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "If it\u0027s rice you need, I\u0027m your gal!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "\nTake your time browsing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 290,
+          "OriginalText": "How many you looking to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "Hmm... You wanna sell ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 308,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "\nI can go as high as ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 326,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "I couldn\u0027t possibly buy that from you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 355,
+          "OriginalText": "I can\u0027t literally buy the clothes off your\nback. Go ahead and change first.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": "\nDon\u0027t worry, I ain\u0027t peekin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 368,
+          "OriginalText": "Be sure to check out my rainy-day\nspecial: ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 372,
+          "OriginalText": "Goron spice",
+          "TranslatedText": null
+        },
+        {
+          "Line": 375,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": " It\u0027s handier than\na Cucco on a rooftop if it\u0027s cold out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 383,
+          "OriginalText": "Well, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 388,
+          "OriginalText": " will cost ya ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 396,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 411,
+          "OriginalText": "How many can I do ya for?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 424,
+          "OriginalText": "Just one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 428,
+          "OriginalText": " I\u0027ll buy it for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 439,
+          "OriginalText": ".\nSound fair?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 451,
+          "OriginalText": "Well, well...I may close early today.\nI\u0027ve got ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": ", so that\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 464,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 479,
+          "OriginalText": "I\u0027ll give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 487,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": " for the lot.\nSound fair?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "Phew, that was the last of them.\nI\u0027m glad you bought me out!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 516,
+          "OriginalText": "Sorry, looks like I\u0027m all sold out for the\nday.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": " Want a sneak peek of what I\u0027ll\nhave in stock next time?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 532,
+          "OriginalText": "Just one, is that right?\nThat\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 540,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 543,
+          "OriginalText": ". Sound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 560,
+          "OriginalText": "That had me so scared I reckoned my\nlegs wouldn\u0027t be movin\u0027 again!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 569,
+          "OriginalText": "I\u0027m worried about my precious wares.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 578,
+          "OriginalText": "Thanks for stoppin\u0027 by.\nSee you down the road!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 587,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": "... We need to hightail it\nwhile we can!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_00",
+      "TextList": [
+        {
+          "Line": 603,
+          "OriginalText": "Say, are you a traveler too?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 607,
+          "OriginalText": "\nWhere you headed?\n\nI\u0027m passing through ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": "Serenne Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": " on\nmy way to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 618,
+          "OriginalText": "Snowfield Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 621,
+          "OriginalText": " myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_00_1",
+      "TextList": [
+        {
+          "Line": 630,
+          "OriginalText": "I\u0027m passing through ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 634,
+          "OriginalText": "Serenne Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 637,
+          "OriginalText": " on\nmy way to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 641,
+          "OriginalText": "Snowfield Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 644,
+          "OriginalText": " myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_01",
+      "TextList": [
+        {
+          "Line": 653,
+          "OriginalText": "Maybe you\u0027re already knowin\u0027 this, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 657,
+          "OriginalText": "\nlightning strikes ain\u0027t exactly uncommon\naround these here parts.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "You\u0027d best unequip your metal gear\nwhen there\u0027s a lightning storm a-brewin\u0027.\nAt least, that\u0027s what they say!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_01_1",
+      "TextList": [
+        {
+          "Line": 672,
+          "OriginalText": "You\u0027d best unequip your metal gear\nwhen there\u0027s a lightning storm a-brewin\u0027.\nAt least, that\u0027s what they say!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_02",
+      "TextList": [
+        {
+          "Line": 681,
+          "OriginalText": "My donkey is plum tuckered out, so\nI\u0027m fixin\u0027 to spend a few nights at\nthis here stable.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_02_1",
+      "TextList": [
+        {
+          "Line": 690,
+          "OriginalText": "My donkey is plum tuckered out, so\nI\u0027m fixin\u0027 to spend a few nights at\nthis here stable.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_03",
+      "TextList": [
+        {
+          "Line": 699,
+          "OriginalText": "This ain\u0027t much my business, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 703,
+          "OriginalText": "\nI heard there\u0027s some treasure hidden\nin Hyrule Castle.\nTreasure hunting ain\u0027t much my thing,\nbut you look like the adventuring sort.\nThought you\u0027d hanker a know!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_03_1",
+      "TextList": [
+        {
+          "Line": 717,
+          "OriginalText": "This ain\u0027t much my business, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 721,
+          "OriginalText": "\nI heard there\u0027s some treasure hidden\nin Hyrule Castle.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_04",
+      "TextList": [
+        {
+          "Line": 730,
+          "OriginalText": "*shiver...*\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 736,
+          "OriginalText": "N-n-no, I\u0027m not scared.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 740,
+          "OriginalText": "\nI\u0027m c-c-cold.\n\nThe trip from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 744,
+          "OriginalText": "Serenne Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 747,
+          "OriginalText": "to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": "Snowfield Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 754,
+          "OriginalText": " always gets me. The\nchange in weather is so drastic!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Kyu_04_1",
+      "TextList": [
+        {
+          "Line": 763,
+          "OriginalText": "Sure is a cold one, ain\u0027t it?\n\n\nThe trip from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 767,
+          "OriginalText": "Serenne Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 770,
+          "OriginalText": "to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 774,
+          "OriginalText": "Snowfield Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 777,
+          "OriginalText": " always gets me. The\nchange in weather is so drastic!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 786,
+          "OriginalText": "\u266ALa-la-la, da-donkey.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 795,
+          "OriginalText": "\u266ADonkey-dee, la-la-la.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 804,
+          "OriginalText": "\u266ATra-li-la, da-donkey.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 813,
+          "OriginalText": "\u266ALa-li-lu-li, da-donkey.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 822,
+          "OriginalText": "\u266ALi-li, rain, da-donkey.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 831,
+          "OriginalText": "I\u0027m a donkey-totin\u0027 merchant, ya see,\nspecializin\u0027 in all sorts of grain.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 835,
+          "OriginalText": " Peddlin\u0027\nrice for rice fans, wheat for bread fans!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 844,
+          "OriginalText": "Rain ain\u0027t welcome by most travelin\u0027\nmerchants, ya see.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 848,
+          "OriginalText": " But it ain\u0027t all bad.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 852,
+          "OriginalText": "\nGives us a chance to take a rest!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 861,
+          "OriginalText": "I ain\u0027t mindin\u0027 the rain. Gettin\u0027 a little wet\nain\u0027t never hurt anyone.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 865,
+          "OriginalText": " It\u0027s the lightning\nyou best be lookin\u0027 out for.\nEspecially if you\u0027re wearin\u0027 metal!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_00",
+      "TextList": [
+        {
+          "Line": 874,
+          "OriginalText": "If you\u0027re fixin\u0027 to travel west beyond\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 878,
+          "OriginalText": "Tabantha Great Bridge",
+          "TranslatedText": null
+        },
+        {
+          "Line": 881,
+          "OriginalText": ", you\u0027d best\nbe wary of what\u0027s over there.\nThese ancient weapons, some sort of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 885,
+          "OriginalText": "flying Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 888,
+          "OriginalText": ", have been a real\nmenace to travelers that far out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_00_1",
+      "TextList": [
+        {
+          "Line": 897,
+          "OriginalText": "If you\u0027re fixin\u0027 to travel west beyond the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 901,
+          "OriginalText": "Tabantha Great Bridge",
+          "TranslatedText": null
+        },
+        {
+          "Line": 904,
+          "OriginalText": ", be sure to keep\nan eye out for them ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 908,
+          "OriginalText": "flying Guardians",
+          "TranslatedText": null
+        },
+        {
+          "Line": 911,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_01",
+      "TextList": [
+        {
+          "Line": 920,
+          "OriginalText": "If you ever cross ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 924,
+          "OriginalText": "Tabantha Great Bridge",
+          "TranslatedText": null
+        },
+        {
+          "Line": 927,
+          "OriginalText": ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 931,
+          "OriginalText": "Tanagar Canyon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 934,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 940,
+          "OriginalText": "\nAnd they say that his ghost...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 944,
+          "OriginalText": "\nhaunts all who cross the bridge!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 948,
+          "OriginalText": "\nMwahahahaaaa!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_01_1",
+      "TextList": [
+        {
+          "Line": 962,
+          "OriginalText": "If you ever cross ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 966,
+          "OriginalText": "Tabantha Great Bridge",
+          "TranslatedText": null
+        },
+        {
+          "Line": 969,
+          "OriginalText": ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 973,
+          "OriginalText": "Tanagar Canyon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 976,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_02",
+      "TextList": [
+        {
+          "Line": 985,
+          "OriginalText": "Say, do you have any...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 989,
+          "OriginalText": "expensive metal\ngear on you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 993,
+          "OriginalText": "\nWait, what?\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 999,
+          "OriginalText": "No, no, it\u0027s not like that!\nIt\u0027s just, lightning strikes these here\nparts pretty often, you see?\nSo if you hear a rumblin\u0027 up in the sky,\nyou\u0027d best be unequipping any metal\ngear. That\u0027s all I was meanin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_02_1",
+      "TextList": [
+        {
+          "Line": 1008,
+          "OriginalText": "So if you hear a rumblin\u0027 up in the sky,\nyou\u0027d best be unequipping any metal\ngear. Armor, swords, and the like!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_03",
+      "TextList": [
+        {
+          "Line": 1017,
+          "OriginalText": "\u266AOoohhh, Hyrule Castle tooown!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1021,
+          "OriginalText": "\nThere\u0027s treasure to be foooound!\u266A\n\nOh, this song?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1025,
+          "OriginalText": " Some singin\u0027 traveler\nwandered past and I\u0027ve had it stuck in\nmy head since! No idea what it means...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_03_1",
+      "TextList": [
+        {
+          "Line": 1034,
+          "OriginalText": "\u266AOoohhh, Hyrule Castle tooown!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1038,
+          "OriginalText": "\nThere\u0027s treasure to be foooound!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_04",
+      "TextList": [
+        {
+          "Line": 1047,
+          "OriginalText": "This here donkey clip-clopped his way\nfrom ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1051,
+          "OriginalText": "Tabantha Bridge Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1054,
+          "OriginalText": ", full bags on\nhis back every clippin\u0027-clop of the way.\nI can\u0027t help but feel bad for the guy.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1058,
+          "OriginalText": "\nIf only I could lighten his load, even\njust a mite!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Kyu_04_1",
+      "TextList": [
+        {
+          "Line": 1067,
+          "OriginalText": "This here donkey\u0027s been carrying all this\nwheat and rice for days.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1071,
+          "OriginalText": " If only I could\nlighten his load, even just a mite!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1080,
+          "OriginalText": "Phew... You saved me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1089,
+          "OriginalText": "Much obliged.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1098,
+          "OriginalText": "You saved me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1102,
+          "OriginalText": " Not sure how I can repay\nyou, though.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1111,
+          "OriginalText": "Nice and safe again thanks to you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1120,
+          "OriginalText": "Phew, you\u0027re stronger than you look!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1129,
+          "OriginalText": "You saved me? I don\u0027t know what to say.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1133,
+          "OriginalText": "\nExcept...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1137,
+          "OriginalText": "sorry I interrupted your journey.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1146,
+          "OriginalText": "Oh, hey!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1150,
+          "OriginalText": " Got enough foodstuffs for your\njourney?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1154,
+          "OriginalText": " Best not tempt runnin\u0027 low, so\nwhy not take a look at what I\u0027ve got?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1172,
+          "OriginalText": "Fixin\u0027 on anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1190,
+          "OriginalText": "Here, take this.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1194,
+          "OriginalText": " It\u0027s a token of\nmy gratitude.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

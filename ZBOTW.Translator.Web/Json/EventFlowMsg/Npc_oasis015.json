@@ -1,0 +1,675 @@
+{
+  "FileName": "Npc_oasis015",
+  "EntryList": [
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "No, thank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "A different color?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Buy from me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Sure!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 41,
+          "OriginalText": "Which item?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 50,
+          "OriginalText": "I can do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 58,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 61,
+          "OriginalText": ".\nIs that all right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "Sarqso.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 82,
+          "OriginalText": "\nDid you need anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "Please feel free to show me anything\nyou\u0027d like to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 100,
+          "OriginalText": "No problem at all\u2014I\u0027ll buy as many\nas you like.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 109,
+          "OriginalText": "Sarqso for the sale.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 118,
+          "OriginalText": "Of course. I don\u0027t mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 127,
+          "OriginalText": "Was there something else you wanted\nto sell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 136,
+          "OriginalText": "Sarqso.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "I truly appreciate your business.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "I\u0027ve never seen such beautiful items.\nSarqso!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "How many?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "OK, so ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": " of them? I can do...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 194,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 197,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 214,
+          "OriginalText": "I\u0027m sorry, but I can\u0027t buy that from you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "I\u0027m sorry, but I can\u0027t buy clothes that\nyou\u0027re wearing. There\u0027s \u0022used,\u0022",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": " and then\nthere\u0027s buying them right off your body.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 236,
+          "OriginalText": "One is worth...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 247,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": ". OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 267,
+          "OriginalText": "I\u0027ll buy all ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 272,
+          "OriginalText": " of those for a total of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 280,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_60",
+      "TextList": [
+        {
+          "Line": 300,
+          "OriginalText": "Ah yes, it\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 308,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 311,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_61",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "I completely understand. It\u0027s part of the\nfun of shopping to go back and forth\non a purchase.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_003",
+      "TextList": [
+        {
+          "Line": 337,
+          "OriginalText": "It\u0027s so nice and cool this evening, isn\u0027t\nit? On nights like this, I like to relax\nand grab a drink at the canteen.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_004",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Oooh, that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 350,
+          "OriginalText": "Gerudo top",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": " looks really good\non you...\n\nBut you haven\u0027t really lived until you\u0027ve\ngot ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": "several colors",
+          "TranslatedText": null
+        },
+        {
+          "Line": 360,
+          "OriginalText": " to choose from!\nWhat do you say?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_006",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "You don\u0027t know? Really?!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 384,
+          "OriginalText": "Changing the color of your clothes is a\nreally trendy thing to do right now\nfor young vai traveling beyond town! \nThere\u0027s a store in Hateno Village\u2014the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 388,
+          "OriginalText": "Kochi Dye Shop",
+          "TranslatedText": null
+        },
+        {
+          "Line": 391,
+          "OriginalText": "\u2014where you can dye\nyour clothes!\nHateno Village is pretty far away, though.\nNot everyone gets to go there...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_007",
+      "TextList": [
+        {
+          "Line": 400,
+          "OriginalText": "It\u0027s really hot today, isn\u0027t it? Makes me\nwant to get an ice-cold something from\nthe canteen.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_008",
+      "TextList": [
+        {
+          "Line": 409,
+          "OriginalText": "Gladly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_009",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "Anything else you need?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_010",
+      "TextList": [
+        {
+          "Line": 436,
+          "OriginalText": "Anything else you need?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_011",
+      "TextList": [
+        {
+          "Line": 459,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_012",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "Sav\u0027aaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_013",
+      "TextList": [
+        {
+          "Line": 487,
+          "OriginalText": "Sav\u0027saaba!\n",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_014",
+      "TextList": [
+        {
+          "Line": 496,
+          "OriginalText": "Geez, it looks really good on you!\nHow about one more to try in a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": "different color",
+          "TranslatedText": null
+        },
+        {
+          "Line": 503,
+          "OriginalText": "! You\u0027ve got to buy it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_015",
+      "TextList": [
+        {
+          "Line": 517,
+          "OriginalText": "It\u0027s the trend now to create a stylish\nwardrobe by arranging different colors.\nWhy not buy one more Gerudo top?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_016",
+      "TextList": [
+        {
+          "Line": 535,
+          "OriginalText": "All our Gerudo clothing is sold out now.\n\n\nIf you already have a lot of clothes, you\nshould think about filling out your\nwardrobe with different colors instead.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_017",
+      "TextList": [
+        {
+          "Line": 553,
+          "OriginalText": "Little ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 557,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 560,
+          "OriginalText": " is acting all calm and\nproper now...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 564,
+          "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027ve got to do my best,\ntoo!\nAs long as you\u0027re here, why don\u0027t you\nsee about getting another outfit in a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "different color",
+          "TranslatedText": null
+        },
+        {
+          "Line": 571,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_018",
+      "TextList": [
+        {
+          "Line": 589,
+          "OriginalText": "Little ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 593,
+          "OriginalText": "Naboris",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": " is acting all calm and\nproper now...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 600,
+          "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027d better hurry up and\nrestock my shop!\nI think I\u0027ll try and restock it with a\nbunch of outfits in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 604,
+          "OriginalText": "different colors",
+          "TranslatedText": null
+        },
+        {
+          "Line": 607,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_019",
+      "TextList": [
+        {
+          "Line": 630,
+          "OriginalText": "Vasaaq!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_oasis015_Near01",
+      "TextList": [
+        {
+          "Line": 639,
+          "OriginalText": "Over here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_01",
+      "TextList": [
+        {
+          "Line": 648,
+          "OriginalText": "Sarqso.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_02",
+      "TextList": [
+        {
+          "Line": 657,
+          "OriginalText": "I recommend wearing all the items from\na particular series as a set!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_07",
+      "TextList": [
+        {
+          "Line": 666,
+          "OriginalText": "It\u0027s also a fashionable thing among vai\nlately to wear different colors of clothes\nthat are from the same set.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_08",
+      "TextList": [
+        {
+          "Line": 675,
+          "OriginalText": "You can always change the color of an\nitem, so there\u0027s really no reason not to\nown several of the same thing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_09",
+      "TextList": [
+        {
+          "Line": 684,
+          "OriginalText": "Ah,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 688,
+          "OriginalText": " um,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 692,
+          "OriginalText": " that doorway isn\u0027t for\ncustomers, actually...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 701,
+          "OriginalText": "If you\u0027re a member, please head around to the\ndoor on the side.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_10",
+      "TextList": [
+        {
+          "Line": 713,
+          "OriginalText": "I hope to do business with you again.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

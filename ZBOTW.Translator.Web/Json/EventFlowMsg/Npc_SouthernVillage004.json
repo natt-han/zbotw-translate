@@ -1,0 +1,400 @@
+{
+  "FileName": "Npc_SouthernVillage004",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Nope.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I have!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Oh, yeah, I like fish.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "No way, I hate fish.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I ate it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Not yet.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Gamble?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "What do you do?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Is it profitable?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "It\u0027s pouring!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Time for sleep!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "Hey, you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "Have you gone sailing with a",
+          "TranslatedText": null
+        },
+        {
+          "Line": 74,
+          "OriginalText": " raft",
+          "TranslatedText": null
+        },
+        {
+          "Line": 77,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 94,
+          "OriginalText": "I\u0027ve got an early morning, so I\u0027m going\nto sleep.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": " You should get some sleep, too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Well then, let me tell you a bit about it...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 111,
+          "OriginalText": "\nMost importantly, the wind is critical\nto getting around at sea.\nFishermen like us have learned, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "after\nyears of experience,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 119,
+          "OriginalText": " to predict and use\nthe wind to control our ships.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 125,
+          "OriginalText": "However...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 129,
+          "OriginalText": " I\u0027ve heard there is an object\ncalled a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "Korok leaf ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": "that will help you\ncontrol the wind yourself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 145,
+          "OriginalText": "Huh, never would have guessed that just\nfrom looking at ya.\n\nJust remember...going out to sea isn\u0027t\nsomething you should take lightly!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 149,
+          "OriginalText": " The\nwind can quickly strand you out there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 158,
+          "OriginalText": "Going out to sea on a rainy day is\ndangerous!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": "\n\nThe wind is really strong, making it tough\nto control your boat. There\u0027s no way to\nbe sure you\u0027ll even come back alive!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "Doesn\u0027t that fish look delicious?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": " I caught\nit myself, too!\n\nYou\u0027re welcome to help yourself.\nI cooked way too much for just myself\nalone.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "Those grilled fish look really good.\nI wonder if they were caught locally...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 188,
+          "OriginalText": "Do you like fish?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "The fish around here are really good!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": "\nAll it takes is a little taste to fall in love\nwith the local flavor!\nTake as many as you like\u2014just give it\na try!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 218,
+          "OriginalText": "How about it? Did you try the fish?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 222,
+          "OriginalText": "\nWasn\u0027t it delicious?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 239,
+          "OriginalText": "You should hurry up and eat it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Really delicious, wasn\u0027t it? These fish\nare the pride of our village!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 257,
+          "OriginalText": "Don\u0027t these fish look delicious?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "\nI caught them myself!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "Rain, huh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "\nOn days like this, the only thing I can do\nis gamble at Cloyne\u0027s shop.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 291,
+          "OriginalText": "Yup, that\u0027s right. Head over to Cloyne\u0027s\nplace next door and you can, too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "I\u0027m a fisherman by trade. But I can\u0027t go\nout fishing when it\u0027s raining, so each\nraindrop cuts into my bottom line.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 317,
+          "OriginalText": "Depends on your luck, for sure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

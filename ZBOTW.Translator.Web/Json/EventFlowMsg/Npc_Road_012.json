@@ -1,0 +1,765 @@
+{
+  "FileName": "Npc_Road_012",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "I should have stomped all over such a\nweak monster. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": "Where did I go wrong?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "If I was just a few years younger, that\nmonster would rue the day it met me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 35,
+          "OriginalText": "I\u0027m\u2014",
+          "TranslatedText": null
+        },
+        {
+          "Line": 39,
+          "OriginalText": " I\u0027m alive! Praise the gods!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "Oof...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 52,
+          "OriginalText": " Curse those monsters!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 61,
+          "OriginalText": "I\u0027m a legendary treasure hunter. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 65,
+          "OriginalText": "Been at\nit for 20 years...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": "The whole town\u0027s buzzing about that\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 80,
+          "OriginalText": "Yiga Clan",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": ". ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "You heard of \u0027em?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 93,
+          "OriginalText": "If you ask me, treasure hunters are a few\ncuts above common bandits... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "But in an\nodd sense, they\u0027re my competition.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "The whole town\u0027s been buzzing about\nthat ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 110,
+          "OriginalText": "Yiga Clan",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 122,
+          "OriginalText": "You\u0027re looking at Calisa, legendary\ntreasure hunter. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "The treasure I\u0027m\nafter these days is voe.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 132,
+          "OriginalText": "I think your word for voe is...\u0022man\u0022?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": "\nThat sounds right. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": "I\u0027m after the roughest,\ntoughest voe this world has to offer!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_0100",
+      "TextList": [
+        {
+          "Line": 149,
+          "OriginalText": "I\u0027m a legendary treasure hunter, and \nyou caught me in a good mood.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "They finally cracked the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "Yiga Clan",
+          "TranslatedText": null
+        },
+        {
+          "Line": 167,
+          "OriginalText": " case!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "\nNow I can hunt for voe\u2014I mean\ntreasure\u2014without worrying about it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_0100_1",
+      "TextList": [
+        {
+          "Line": 180,
+          "OriginalText": "Now that they cracked the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 184,
+          "OriginalText": "Yiga Clan",
+          "TranslatedText": null
+        },
+        {
+          "Line": 187,
+          "OriginalText": "\ncase, I can hunt for voe\u2014I mean\ntreasure\u2014without worrying about it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 196,
+          "OriginalText": "The main treasure I\u0027m after right now\nis a big, strapping voe.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 202,
+          "OriginalText": "I think your word for voe is...\u0022man\u0022?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 206,
+          "OriginalText": "\nAnd not just any voe. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 210,
+          "OriginalText": "The roughest,\ntoughest voe I can find!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 219,
+          "OriginalText": "If you\u0027re searching for Calisa, legendary\ntreasure hunter, then your search is over.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 223,
+          "OriginalText": "\nYou\u0027re looking at her!\nI\u0027ve been in the game for over 20 years.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 233,
+          "OriginalText": "When I set my sights on a treasure, you\ncan be sure that I\u0027ll claim it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 242,
+          "OriginalText": "I never rest until I get my hands on the\ntreasure I\u0027m after. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": "I\u0027ve been at this job\nfor 20 years, after all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "You\u0027re in the presence of the legendary\ntreasure hunter Calisa. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 259,
+          "OriginalText": "I\u0027m chasing down\nrumors of treasure chests in the desert.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": "No idea if people buried them or if the\nsands claimed them...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 269,
+          "OriginalText": " I care more about\ndigging them up and opening them!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 278,
+          "OriginalText": "They say there\u0027s buried chests in these\nsands. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 282,
+          "OriginalText": "I aim to dig them up and find out\nwhat\u0027s inside.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 291,
+          "OriginalText": "I\u0027m Calisa, legendary treasure hunter.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 295,
+          "OriginalText": "\nRight now I\u0027ve got my eye on the voe\nat this stable.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 301,
+          "OriginalText": "I wouldn\u0027t rate any of them as treasure,\nthough... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "Except maybe you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 314,
+          "OriginalText": "I look at the voe at this stable with a\ntreasure hunter\u0027s eye. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "Not much value\nin these runts, sad to say.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 322,
+          "OriginalText": "Where\u0027s that treasure...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Leviathan bones...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "In the desert, though?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 334,
+          "OriginalText": "If only I had a sand seal...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 343,
+          "OriginalText": "Have you heard of Calisa, legendary\ntreasure hunter?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "If not, let me inform you that you have\nthe honor of looking upon her.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 355,
+          "OriginalText": "I\u0027ve traveled to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": "Kara Kara Bazaar",
+          "TranslatedText": null
+        },
+        {
+          "Line": 362,
+          "OriginalText": ",\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 366,
+          "OriginalText": "Gerudo Canyon Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": ", and beyond in\nsearch of desert treasures.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "My name is Ca",
+          "TranslatedText": null
+        },
+        {
+          "Line": 382,
+          "OriginalText": "li",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": "sa! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 390,
+          "OriginalText": "Legendary treasure\nhunter!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 401,
+          "OriginalText": "And when I find a voe who meets\nmy standards...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 405,
+          "OriginalText": " I\u0027ll lock him in my vault,\nheh heh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_00_1",
+      "TextList": [
+        {
+          "Line": 414,
+          "OriginalText": "Any treasure, or any voe, I get my hands\non is mine forever. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 418,
+          "OriginalText": "Heh heh.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01",
+      "TextList": [
+        {
+          "Line": 427,
+          "OriginalText": "A runt like you wants to cross the \ndesert? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": "You have a Gerudo\u0027s daring,\nlittle one!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "I like that, so I\u0027ll share a secret with you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "\nBuried in those sands somewhere is a\ngreat treasure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_01_1",
+      "TextList": [
+        {
+          "Line": 450,
+          "OriginalText": "They say that buried in those sands\nsomewhere is a great treasure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02",
+      "TextList": [
+        {
+          "Line": 459,
+          "OriginalText": "Crossing the desert on foot would be\nhard even for me. With a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 463,
+          "OriginalText": "sand seal",
+          "TranslatedText": null
+        },
+        {
+          "Line": 466,
+          "OriginalText": ",\nthough, it\u0027s another story.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": "You have a sand seal and a shield,\nthey do all the work for you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_02_1",
+      "TextList": [
+        {
+          "Line": 481,
+          "OriginalText": "If only we had ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 485,
+          "OriginalText": "sand seals",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": ", then we\nwouldn\u0027t need to think twice about\ntraveling across these sands.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "How do you wring such strength, such\nendurance, out of that runty body?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 508,
+          "OriginalText": "Very few have ever seen the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 512,
+          "OriginalText": "leviathan\nbones",
+          "TranslatedText": null
+        },
+        {
+          "Line": 515,
+          "OriginalText": ", but keep an eye out in the desert\nand you might just get lucky!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_03_1",
+      "TextList": [
+        {
+          "Line": 524,
+          "OriginalText": "Few travelers have seen the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": "leviathan\nbones",
+          "TranslatedText": null
+        },
+        {
+          "Line": 531,
+          "OriginalText": ", but keep an eye out in the desert\nand you might just get lucky!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04",
+      "TextList": [
+        {
+          "Line": 540,
+          "OriginalText": "You\u0027re talking to none other than Calisa,\nlegendary treasure hunter. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 544,
+          "OriginalText": "Right now I\nhave my eye on the voe at this stable.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 550,
+          "OriginalText": "Calling any of these runts a treasure is\na stretch, though. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 554,
+          "OriginalText": "When will the voe who\ncan steal my heart arrive?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Gerud_04_1",
+      "TextList": [
+        {
+          "Line": 563,
+          "OriginalText": "When I get bored of treasure hunting,\nI come to this stable to check out\nthe voe.\nI\u0027m looking for the voe who\u0027ll steal my\nheart for good...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 567,
+          "OriginalText": "but it sure isn\u0027t any\nof these.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 576,
+          "OriginalText": "Are the monsters gone now?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 585,
+          "OriginalText": "That could\u0027ve been bad, huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 589,
+          "OriginalText": "Once was\nenough for me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 598,
+          "OriginalText": "I don\u0027t know how, but I made it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 607,
+          "OriginalText": "You OK?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": " No broken bones or anything?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 620,
+          "OriginalText": "Sa\u0027oten! Why are there so many\nmonsters all over the place?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 629,
+          "OriginalText": "*pant pant*... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 633,
+          "OriginalText": "How do I get into these\nscrapes?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 647,
+          "OriginalText": "Sav\u0027otta!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 661,
+          "OriginalText": "Sav\u0027aaq.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 675,
+          "OriginalText": "Sav\u0027saaba!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 684,
+          "OriginalText": "Here. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 688,
+          "OriginalText": "If you want it, it\u0027s yours.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1505 @@
+{
+  "FileName": "Npc_Road_002",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll buy some meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027d rather sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027m good, thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "OK.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Never mind.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "Go on, get!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 53,
+          "OriginalText": " Dang ol\u0027 monsters!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 57,
+          "OriginalText": "\nYou wanna fight? Is that it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 66,
+          "OriginalText": "You gotta be real tough to go toe-to-\ntoe with some of the monsters out here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "Whatcha got?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 79,
+          "OriginalText": "I\u0027ll give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 90,
+          "OriginalText": ". Sound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 107,
+          "OriginalText": "Great! You wanna sell anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Thanks! You\u0027re doin\u0027 me a real\nservice here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 125,
+          "OriginalText": "Thank you much!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 134,
+          "OriginalText": "Anything else I can do for you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "Well, that\u0027s a shame.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "Whatever you\u0027re sellin\u0027, I\u0027m buyin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "If you\u0027ve got somethin\u0027 to sell,\nshow me what it is!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "You gonna sell me somethin\u0027 or what?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "Why don\u0027t we just take a little look-see?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "Which one did you want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Sorry, I\u0027m fresh out.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 181,
+          "OriginalText": "What are you tryin\u0027 to pull? You don\u0027t\nhave enough rupees!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 190,
+          "OriginalText": "Your inventory\u0027s full up. You gotta make\nsome room. Maybe toss some stuff or,\nI don\u0027t know, sell it to me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 194,
+          "OriginalText": "Everything look good to you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 211,
+          "OriginalText": "Remember, if you want meat, you want\nMezer! That\u0027s my motto.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 220,
+          "OriginalText": "Thank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 229,
+          "OriginalText": "If you\u0027re after some choice meat,\nyou come find me, all right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 238,
+          "OriginalText": "Thanks, pal!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 247,
+          "OriginalText": "Mm, you can\u0027t beat ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 251,
+          "OriginalText": "raw prime meat",
+          "TranslatedText": null
+        },
+        {
+          "Line": 254,
+          "OriginalText": ",\nunless you\u0027ve got ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "raw bird thigh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": " \nNothing compares to rare!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "And how many did you want\nto sell me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "I could do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 290,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 293,
+          "OriginalText": ".\nSound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "You want me to buy what?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": "\nNo, thanks! I\u0027m not interested.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 323,
+          "OriginalText": "If you\u0027re fixin\u0027 to sell your clothes, you\nmight want to take \u0027em off first.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 327,
+          "OriginalText": " But\nnot in front of me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 336,
+          "OriginalText": "Look at you, chasing after adventure\nno matter the weather! You know what\nyou need? Some raw gourmet meat!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "That comes to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 351,
+          "OriginalText": ".\nSound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 363,
+          "OriginalText": "And how many are you after?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 376,
+          "OriginalText": "Let\u0027s say ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 384,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 387,
+          "OriginalText": ". Sound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "You want to buy all I\u0027ve got? Sure thing!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 403,
+          "OriginalText": "\nIt\u0027ll be ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": " rupees ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": "for all ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": ", OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 431,
+          "OriginalText": "You want to sell all of them, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 435,
+          "OriginalText": " I\u0027ll\nbuy them all for ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 443,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": ", OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 463,
+          "OriginalText": "That\u0027s the last of it.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 467,
+          "OriginalText": " I\u0027m afraid I\u0027ve sold\nevery last thing I\u0027ve got.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 476,
+          "OriginalText": "I don\u0027t have anything left to sell today...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 480,
+          "OriginalText": "\nTell you what, though. You want a quick\npeek at what I\u0027ll be ordering next?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 492,
+          "OriginalText": "That comes to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 500,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 503,
+          "OriginalText": ".\nSound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 520,
+          "OriginalText": "What took you so long?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": " I was about to\nbe some fiend\u0027s meaty treat!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 533,
+          "OriginalText": "Gosh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 537,
+          "OriginalText": " Being eaten was about the last\nthing I wanted to spend my day doing!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 546,
+          "OriginalText": "Thanks for stoppin\u0027 by.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 550,
+          "OriginalText": "\nGood luck out there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 559,
+          "OriginalText": "Oh man, oh man, oh man! Get outta\nhere! There\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 563,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 566,
+          "OriginalText": " a-comin\u0027!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 575,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 579,
+          "OriginalText": " What\u0027s the matter?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 583,
+          "OriginalText": "\nWhy the grumbles?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 587,
+          "OriginalText": "\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 593,
+          "OriginalText": "Well, if it\u0027s your tummy that\u0027s grumblin\u0027, \nyou\u0027re talkin\u0027 to the right guy. I\u0027m a\nbutcher, as luck would have it!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 599,
+          "OriginalText": "I\u0027d be happy to sell you whatever\nI\u0027ve got in stock.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 608,
+          "OriginalText": "You hungry?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 612,
+          "OriginalText": " Then you\u0027re talkin\u0027 to the\nright meat man!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 621,
+          "OriginalText": "What?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 625,
+          "OriginalText": " You smell it, don\u0027t you? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 629,
+          "OriginalText": "\nLike raw meat, wafting through the air?\nWell, you guessed right! It\u0027s me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 633,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 639,
+          "OriginalText": "I\u0027m Mezer.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 643,
+          "OriginalText": " I\u0027m a wandering butcher.\nHuh. That sounds a touch weird when\nI say it out loud like that.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 649,
+          "OriginalText": "How \u0027bout I whet your appetite with a\nlittle cooking tip?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 653,
+          "OriginalText": " I\u0027ve got just the thing\nto make your cuisine sizzle!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 659,
+          "OriginalText": "All you gotta do...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 663,
+          "OriginalText": "is add a dash of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 667,
+          "OriginalText": "rock salt ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 670,
+          "OriginalText": "to double your dish\u0027s\ndeliciousness!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 679,
+          "OriginalText": "The secret to delicious meat is to grill\nit well!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 683,
+          "OriginalText": " And adding a dash of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 687,
+          "OriginalText": "rock salt",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": "\ndoubles down on the deliciousness.\nYou feel that sensation? That\u0027s your\nmouth watering. That\u0027s what makes me\nsuch a good salesman right there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 699,
+          "OriginalText": "What\u0027s goin\u0027 on with you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 703,
+          "OriginalText": "\nAre you lost or somethin\u0027?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 712,
+          "OriginalText": "Kakariko Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 715,
+          "OriginalText": "is a ways north of here.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 719,
+          "OriginalText": "\nIf you\u0027re goin\u0027 to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 723,
+          "OriginalText": "Dueling Peaks Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 726,
+          "OriginalText": ",\nit\u0027s not much farther from here.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 732,
+          "OriginalText": "You can usually find me at the stables,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 736,
+          "OriginalText": "\nbut if you can\u0027t wait, we can do a little\nbusiness right here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 748,
+          "OriginalText": "Kakariko Village ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 751,
+          "OriginalText": "is a bit farther north of\nhere.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 755,
+          "OriginalText": " If what you\u0027re looking for is a little\nfresh meat, I\u0027m willing to trade with you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 764,
+          "OriginalText": "What\u0027s up?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 768,
+          "OriginalText": " You lookin\u0027 for someone\nto talk to?\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 774,
+          "OriginalText": "Fine by me, as long as we\u0027re talkin\u0027\nmeat, \u0027cuz that\u0027s all I really have\nthat\u0027s worth talking about.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 780,
+          "OriginalText": "Finest meat in the land, a-yup.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 784,
+          "OriginalText": "\nYou, uh, fixin\u0027 to buy some?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 793,
+          "OriginalText": "Speaking of meat, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 797,
+          "OriginalText": "and I\u0027m sure we were",
+          "TranslatedText": null
+        },
+        {
+          "Line": 801,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 805,
+          "OriginalText": "\nI\u0027m selling some, so if you want to buy,\nlet\u0027s get down to business!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 814,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 818,
+          "OriginalText": " You got opinions about where\nI rest my head at night? Well, I can\u0027t\nsee how it\u0027s any of your business.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 824,
+          "OriginalText": "Sure, I\u0027d love to stay in a nice, comfy\nbed. Who wouldn\u0027t? But the meat trade\nain\u0027t exactly rakin\u0027 in the dough.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 830,
+          "OriginalText": "Why not help a fella out by stockin\u0027\nup,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 834,
+          "OriginalText": " as long as you\u0027re here?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 843,
+          "OriginalText": "Hey. Hey, buddy.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 847,
+          "OriginalText": " You wanna buy\nsome meat?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 856,
+          "OriginalText": "Top-quality steak!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 865,
+          "OriginalText": "Tasty meats!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 874,
+          "OriginalText": "Farm fresh and ready!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 883,
+          "OriginalText": "Juicy sirloin!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 887,
+          "OriginalText": "It\u0027s raining...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 896,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 900,
+          "OriginalText": " Me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 904,
+          "OriginalText": " I gotta rest sometime,\ndon\u0027t I?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 908,
+          "OriginalText": " Of course, my body may\nneed rest, but meat waits for no one!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 914,
+          "OriginalText": "So you better believe I\u0027m open for\nbusiness. I sell...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 926,
+          "OriginalText": "meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 935,
+          "OriginalText": "When the weather\u0027s taken a turn for\nthe worse,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 939,
+          "OriginalText": " it\u0027s best to take it easy and\ncatch up on your rest.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 945,
+          "OriginalText": "At least that\u0027s what I do.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 949,
+          "OriginalText": " Of course, the\nweather may be crummy, but meat waits\nfor no one!\nSo you better believe I\u0027m open for\nbusiness. I sell...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 958,
+          "OriginalText": "meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 967,
+          "OriginalText": "Oh, man!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 971,
+          "OriginalText": " It\u0027s raining fierce out!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 975,
+          "OriginalText": " Guess\nI\u0027ll have to take cover for a while.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 981,
+          "OriginalText": "But even though I\u0027m wet to the bone,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 985,
+          "OriginalText": "\nmeat waits for no one!\n\nSo you better believe I\u0027m open for\nbusiness. I sell...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 994,
+          "OriginalText": "meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 1003,
+          "OriginalText": "What?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1007,
+          "OriginalText": " Don\u0027t give me that look!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1013,
+          "OriginalText": "Yeah, maybe it\u0027s a bit of a wasteland\nhere...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1017,
+          "OriginalText": " But I find it peaceful, being all\nalone out in the wilderness.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1023,
+          "OriginalText": "If you\u0027ve got time to judge, you\u0027ve got\ntime to buy some meat from me!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1027,
+          "OriginalText": "\nMaybe I can even cut you a deal.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 1036,
+          "OriginalText": "You know what would cheer me up right\nnow? If you bought some of my meat.\nThat\u0027s what.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 1045,
+          "OriginalText": "What is it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1049,
+          "OriginalText": " That face...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1053,
+          "OriginalText": " Is that...the face\nof hunger? You can\u0027t adventure on an\nempty stomach.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1057,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1063,
+          "OriginalText": "Grill some meat to get your strength\nback! In fact, why don\u0027t you give me\na sec, and I\u0027ll sell you some meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 1072,
+          "OriginalText": "What\u0027s the matter? Aren\u0027t you hungry?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1076,
+          "OriginalText": "\nI\u0027ll sell ya some meat.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 1085,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1089,
+          "OriginalText": " What\u0027s your problem?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1093,
+          "OriginalText": "\nYou look real salty...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1097,
+          "OriginalText": " Wait, is that what\nyou\u0027re after? Well, you\u0027re in luck!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1101,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1107,
+          "OriginalText": "I sell rock salt and meat, and I tell you\nwhat, they do go great together!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 1116,
+          "OriginalText": "If you\u0027re not getting enough salt in your\ndiet, I\u0027ll sell you some rock salt.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1120,
+          "OriginalText": " And\nwhy not some meat while I\u0027m at it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 1129,
+          "OriginalText": "Huh? What\u0027s the matter with you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1133,
+          "OriginalText": "\nYou look right tuckered out. You know,\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1137,
+          "OriginalText": "Dueling Peaks Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1140,
+          "OriginalText": "is real close.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1144,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1150,
+          "OriginalText": "If you\u0027re feelin\u0027 a mite peckish, I\u0027ve\ngot just the thing to get your strength\nback. A nice hunk o\u0027 meat!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 1162,
+          "OriginalText": "Dueling Peaks Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1165,
+          "OriginalText": " is right over there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1169,
+          "OriginalText": "\nIf you\u0027re feeling too tired to make it, how\nabout a little meat to charge you up?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 1178,
+          "OriginalText": "Huh? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1182,
+          "OriginalText": "You fixin\u0027 to buy some meat?\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1188,
+          "OriginalText": "I was just about to set myself down\nfor some sleep,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1192,
+          "OriginalText": " but business always\ncomes first! And meat is my business!\nI\u0027ll let you in on a little secret of mine...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1196,
+          "OriginalText": "\nPersonally? I don\u0027t touch the stuff. I\u0027m\nmore of a fruit-and-veggies guy myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 1205,
+          "OriginalText": "I was just headed back to my camp,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1209,
+          "OriginalText": " but\ncustomers come first. Well...second,\nbecause meat always comes first!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1218,
+          "OriginalText": "Phew!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1222,
+          "OriginalText": " I coulda sworn I was about to\nget eaten!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1226,
+          "OriginalText": " Which would have been bad\nfor everyone, because I taste AWFUL.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1235,
+          "OriginalText": "Phew!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1239,
+          "OriginalText": " Sure is dangerous out here.\nI probably...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1243,
+          "OriginalText": "shouldn\u0027t have gone alone...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1252,
+          "OriginalText": "Aw, dang!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1256,
+          "OriginalText": " I guess I\u0027m nothin\u0027 but a\nwalkin\u0027 pile of monster grub!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1265,
+          "OriginalText": "Aw, dang!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1269,
+          "OriginalText": " They must have been\nlured by the many fine meats I\u0027ve\ngot here in my bag!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1278,
+          "OriginalText": "Oh me, oh my...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1282,
+          "OriginalText": " I coulda sworn I was\ngonna be somethin\u0027s dinner right there!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1291,
+          "OriginalText": "Oh me, oh my...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1295,
+          "OriginalText": " At least my delicious\nselection of meats didn\u0027t get damaged!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1304,
+          "OriginalText": "I carry only the finest meats.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1308,
+          "OriginalText": "\nI guarantee these are top-choice\nprovisions, or your rupees back!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1326,
+          "OriginalText": "Anything else you need?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1330,
+          "OriginalText": " Be a shame\nto let all this meat go to waste.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1348,
+          "OriginalText": "Thank you for saving me.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1352,
+          "OriginalText": " Here, I want\nyou to have this.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1485 @@
+{
+  "FileName": "Npc_HighMountain004",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "That\u0027s right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, it\u0027s not.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ll listen.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Maybe later...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Who\u0027s Teba?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Who\u0027s Master Revali?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Medoh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Sword?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Great Eagle Bow?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 48,
+          "OriginalText": "How\u0027s Medoh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "Hoohoo!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 56,
+          "OriginalText": "Hoo?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 60,
+          "OriginalText": "Hoohooh!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 64,
+          "OriginalText": "Hoohoo?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "Hmmm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "Ah!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 81,
+          "OriginalText": "Ah, a visitor.\nWelcome to...\n\n...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 87,
+          "OriginalText": "Oh. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 91,
+          "OriginalText": "OH!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": "That object on your hip...\nCould it be...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": "Forgive me. Where are my manners?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 107,
+          "OriginalText": "\nI am Kaneli, elder of Rito Village.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Oh, my!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": " So it is true!\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 126,
+          "OriginalText": "That means you must be a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 133,
+          "OriginalText": "\nlike Master Revali\u2014one of the few able to\nboard ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 137,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": "!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 152,
+          "OriginalText": "No... What am I thinking?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 156,
+          "OriginalText": " The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 160,
+          "OriginalText": "Champions ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "have all\nbeen dead for 100 years.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 168,
+          "OriginalText": " This boy must be a mere\ndescendant...an inheritor of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 172,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": "Ah, forgive me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "Hoo hoo...\nSo I was mistaken...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "Hoo hoo...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 215,
+          "OriginalText": "Thank you. Truly.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 221,
+          "OriginalText": "Now that I know you have the blood of a\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 225,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": ", there is something I must ask\nof you.\nHow shall I put this...\n\n\nI would like you to deal with\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": ".\nThe giant beast circling above us.\nOnly a chosen one, a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": ", can stop\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": ". You must enter the beast\nand bend it to your will.\nI tried explaining this to the more\nheadstrong Rito warriors, but they\nwouldn\u0027t listen to reason.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "Teba",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": " and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 265,
+          "OriginalText": "Harth",
+          "TranslatedText": null
+        },
+        {
+          "Line": 268,
+          "OriginalText": " tried to confront ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 272,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 275,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 279,
+          "OriginalText": "\nbut it did not go well, and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 283,
+          "OriginalText": "Harth ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 286,
+          "OriginalText": "was\ninjured.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "Teba escaped unscathed, but I fear he\nnow plans to face ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 296,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 299,
+          "OriginalText": " alone. \n\nAs a descendant of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 303,
+          "OriginalText": "Champions",
+          "TranslatedText": null
+        },
+        {
+          "Line": 306,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 310,
+          "OriginalText": "\nperhaps you can help us.\n\nPlease. Find Teba. If you work together,\nyou may be able to stop\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 314,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 317,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Is there something else you wish to\nknow?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 345,
+          "OriginalText": "Did you perchance see that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": "giant bird",
+          "TranslatedText": null
+        },
+        {
+          "Line": 352,
+          "OriginalText": " up\nthere? Soaring high above our village?\n\nThat...is ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": ".\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 365,
+          "OriginalText": "The Divine Beasts.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 369,
+          "OriginalText": " Our misbegotten\ninheritance from the ancient Sheikah.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 373,
+          "OriginalText": "\nCreated eons ago to defeat ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "Ganon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 380,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": "In an ironic turn of events, the Divine\nBeasts were taken over by the same evil\nforce they were created to defeat.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 392,
+          "OriginalText": "But that was 100 years ago. To think the\nDivine Beasts would suddenly reappear",
+          "TranslatedText": null
+        },
+        {
+          "Line": 396,
+          "OriginalText": "\nand begin attacking innocent people...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 402,
+          "OriginalText": "Could this foretell the return of Ganon?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 411,
+          "OriginalText": "If you mean to help us, then allow me\nto fill you in on the particulars.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 430,
+          "OriginalText": "That there on your hip.\nIs that not a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 434,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": null
+        },
+        {
+          "Line": 437,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 459,
+          "OriginalText": "So you\u0027ve met Teba.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": "Hmm...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 472,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 475,
+          "OriginalText": "He says he will not come back\nuntil he has destroyed\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 479,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 492,
+          "OriginalText": "There is not a reasonable bone in that\nboy\u0027s body. Facing Medoh alone is\nunthinkably reckless...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 506,
+          "OriginalText": "Facing ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 510,
+          "OriginalText": "Divine Beast Vah Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "alone\nis unthinkably reckless...\n\nIf you could help Teba,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": " or at least talk\nsome sense into him,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": " I\u0027m sure his family\nwould be very grateful.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 530,
+          "OriginalText": "You have done it!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 534,
+          "OriginalText": " And you survived,\nat that!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 538,
+          "OriginalText": " You conquered\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 542,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 545,
+          "OriginalText": "!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 551,
+          "OriginalText": "To think the beast has taken up\nroost at the top of the village!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 555,
+          "OriginalText": "\nIt looks simply...divine.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "That bow I gave you is the finest in the\nland, crafted in the Rito tradition. The\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 571,
+          "OriginalText": " Revali once called it his own.\nI will not lie\u2014the bow is difficult to\nhandle.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 575,
+          "OriginalText": " No Rito alive is capable of using\nit to its full potential.\nFortunately, our bowyer, Harth, knows\nthe bow well. You should talk to him for\ndetails.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 584,
+          "OriginalText": "Teba is a warrior of Rito Village.\nHe lives right next door to my humble\nabode.\nHe\u0027s the one who decided to confront\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": ". He set off\nalongside another villager named Harth.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 597,
+          "OriginalText": "Unfortunately, Harth was shot down by\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 601,
+          "OriginalText": "Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 604,
+          "OriginalText": "and had to retreat.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 608,
+          "OriginalText": "\n\nThis defeat only made Teba more\ndetermined. I fear he has set out to face\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 612,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 615,
+          "OriginalText": " by himself.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 621,
+          "OriginalText": "As you can see, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 625,
+          "OriginalText": "Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 628,
+          "OriginalText": "is still flying\nabout up there. I hope Teba is OK.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 634,
+          "OriginalText": "Teba\u0027s wife Saki may be able to tell you\nmore about his whereabouts.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 643,
+          "OriginalText": "Master Revali was a fierce warrior from\nRito Village who died 100 years ago.\n\nAccording to the stories, he flew like the\nwind itself",
+          "TranslatedText": null
+        },
+        {
+          "Line": 647,
+          "OriginalText": " and wielded a bow twice his\nown size with ease.\nHis skill was recognized by ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 651,
+          "OriginalText": "King Rhoam",
+          "TranslatedText": null
+        },
+        {
+          "Line": 654,
+          "OriginalText": ",",
+          "TranslatedText": null
+        },
+        {
+          "Line": 658,
+          "OriginalText": "\nand he was entrusted to control\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 662,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 665,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 671,
+          "OriginalText": "Master Revali lost his life while piloting\nthe Divine Beast during the great battle\nwith ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 675,
+          "OriginalText": "Calamity",
+          "TranslatedText": null
+        },
+        {
+          "Line": 678,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 682,
+          "OriginalText": "Ganon",
+          "TranslatedText": null
+        },
+        {
+          "Line": 685,
+          "OriginalText": ".\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 691,
+          "OriginalText": "What could have happened inside \n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 695,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 701,
+          "OriginalText": " 100 years ago\nto kill such a celebrated warrior?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 710,
+          "OriginalText": "You, descendant of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 714,
+          "OriginalText": "Champions",
+          "TranslatedText": null
+        },
+        {
+          "Line": 717,
+          "OriginalText": "...\nPlease stop ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 721,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 724,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 728,
+          "OriginalText": "and help Teba.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 737,
+          "OriginalText": "Champion descendant, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 741,
+          "OriginalText": "it pains me to ask\nagain but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 745,
+          "OriginalText": " Please, help Teba and stop\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 749,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 756,
+          "OriginalText": " I beg of you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 765,
+          "OriginalText": "But never mind that now...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 777,
+          "OriginalText": "Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 780,
+          "OriginalText": "descendant...\nThe Rito you met at the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 784,
+          "OriginalText": "Flight Range ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 787,
+          "OriginalText": "was\nin fact none other than Teba...\nHe is the fiercest of warriors,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 791,
+          "OriginalText": " but I\ncannot say he was ever one to listen...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 800,
+          "OriginalText": "Now then...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 804,
+          "OriginalText": "is that not a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 808,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": null
+        },
+        {
+          "Line": 811,
+          "OriginalText": "\ndangling from your hip?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 828,
+          "OriginalText": "Champion descendant...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 837,
+          "OriginalText": "A thousand times, thank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 849,
+          "OriginalText": "Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 852,
+          "OriginalText": "descendant...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 856,
+          "OriginalText": " If you would\nlisten to this old man\u0027s request, you\nwould have my eternal gratitude.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 876,
+          "OriginalText": "Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 879,
+          "OriginalText": "descendant...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 883,
+          "OriginalText": " I have only just\nrealized. That sword you have in your\npossession...\nCould it be the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 887,
+          "OriginalText": "sword that seals the\ndarkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 890,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 901,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 905,
+          "OriginalText": "Hylian Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 908,
+          "OriginalText": "who fought\nalongside Master Revali 100 years ago...\n\nCould...that be you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 917,
+          "OriginalText": "What you did was miraculous.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 921,
+          "OriginalText": " Though I\nshould expect nothing less of one from\nthe bloodline of a Champion.\nWhy...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 925,
+          "OriginalText": "you are almost the equal of the\nvery ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 929,
+          "OriginalText": "Hylian Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 932,
+          "OriginalText": "who fought with\nMaster Revali 100 years ago...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 938,
+          "OriginalText": "All you lack is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 942,
+          "OriginalText": "sword that seals the\ndarkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 945,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 954,
+          "OriginalText": "If you had the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 958,
+          "OriginalText": "sword that seals the\ndarkness ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 961,
+          "OriginalText": "in your possession, you would\nbe the spitting image...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 970,
+          "OriginalText": "They say the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 974,
+          "OriginalText": "Hylian Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 977,
+          "OriginalText": "wielded\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 981,
+          "OriginalText": "sword that seals the darkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 984,
+          "OriginalText": " that\nnow sleeps deep within the forest.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk31",
+      "TextList": [
+        {
+          "Line": 993,
+          "OriginalText": "They say the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 997,
+          "OriginalText": "Hylian Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1000,
+          "OriginalText": "wielded\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1004,
+          "OriginalText": "sword that seals the darkness ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1007,
+          "OriginalText": "that\nnow sleeps in the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1011,
+          "OriginalText": "Lost Woods",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1014,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk32",
+      "TextList": [
+        {
+          "Line": 1023,
+          "OriginalText": "They say the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1027,
+          "OriginalText": "Hylian Champion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1030,
+          "OriginalText": "wielded\nthe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1034,
+          "OriginalText": "sword that seals the darkness ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1037,
+          "OriginalText": "that\nsleeps in the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1041,
+          "OriginalText": "Lost Woods ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1047,
+          "OriginalText": "east",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1050,
+          "OriginalText": " of here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk34",
+      "TextList": [
+        {
+          "Line": 1059,
+          "OriginalText": "I am happy to answer anything I can.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk36",
+      "TextList": [
+        {
+          "Line": 1078,
+          "OriginalText": "No, no, I was only joking...\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1084,
+          "OriginalText": "That sword you have there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1088,
+          "OriginalText": "\nThat is indeed the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1092,
+          "OriginalText": "sword that seals the\ndarkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1095,
+          "OriginalText": ", is it not?\nLegend has it that the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1099,
+          "OriginalText": "Hylian Champion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1102,
+          "OriginalText": "\nfought against ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1106,
+          "OriginalText": "Ganon ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1109,
+          "OriginalText": "with that very\nsword.\nChampion descendant...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1113,
+          "OriginalText": " That ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1117,
+          "OriginalText": "sword",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1120,
+          "OriginalText": " is a\nprecious gift from your ancestors...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1124,
+          "OriginalText": "\nYou must never let it go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk37",
+      "TextList": [
+        {
+          "Line": 1136,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1139,
+          "OriginalText": "...\n\n\nAn ancient Sheikah weapon with the\npower to seal evil. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1143,
+          "OriginalText": "It was once piloted by\nthe Rito Champion, Revali...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk38",
+      "TextList": [
+        {
+          "Line": 1152,
+          "OriginalText": "If the legends are true, \u0022the light from\nthe Divine Beasts will ravage the\nCalamity.\u0022\nFor now, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1156,
+          "OriginalText": "Divine Beast Vah Medoh ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1159,
+          "OriginalText": "will\nbecome the protector of this village\nand live on in legend...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1163,
+          "OriginalText": "alongside you.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1172,
+          "OriginalText": "Hoo hoo hoo...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk39",
+      "TextList": [
+        {
+          "Line": 1181,
+          "OriginalText": "...Oh, yes! Of course!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1185,
+          "OriginalText": "\nI must reward you properly!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk40",
+      "TextList": [
+        {
+          "Line": 1194,
+          "OriginalText": "Was there anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk41",
+      "TextList": [
+        {
+          "Line": 1213,
+          "OriginalText": "A guest...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk42",
+      "TextList": [
+        {
+          "Line": 1222,
+          "OriginalText": "Feel free to take what you find in that\ntreasure chest.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1226,
+          "OriginalText": " You will get more use out\nof it than I.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk43",
+      "TextList": [
+        {
+          "Line": 1235,
+          "OriginalText": "Hoo hoo hoo...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk44",
+      "TextList": [
+        {
+          "Line": 1244,
+          "OriginalText": "Your skills rival those of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1248,
+          "OriginalText": "Hylian\nChampion ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1251,
+          "OriginalText": "who lived 100 years ago.\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1257,
+          "OriginalText": "All you lack is the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1261,
+          "OriginalText": "sword that seals the \ndarkness",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1264,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

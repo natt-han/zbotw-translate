@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZBOTW.Translator.Web", "ZBOTW.Translator.Web\ZBOTW.Translator.Web.csproj", "{FEEBEFAD-F54B-48E5-8A1D-22EF45DE5FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEBEFAD-F54B-48E5-8A1D-22EF45DE5FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEBEFAD-F54B-48E5-8A1D-22EF45DE5FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEBEFAD-F54B-48E5-8A1D-22EF45DE5FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEBEFAD-F54B-48E5-8A1D-22EF45DE5FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0782A4B-D0B9-4407-B0DB-3AFE266EBD59}
+	EndGlobalSection
+EndGlobal

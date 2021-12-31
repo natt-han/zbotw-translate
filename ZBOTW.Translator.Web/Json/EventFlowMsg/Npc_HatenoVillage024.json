@@ -1,0 +1,590 @@
+{
+  "FileName": "Npc_HatenoVillage024",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "What is this thing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "What are you doing?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "What do you mean?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Lurelin Village?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Another day\u0027s work!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "\u266ALa la la, la la!\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near02",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Time to switch off again...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "What a strangely colored ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 49,
+          "OriginalText": "fire",
+          "TranslatedText": null
+        },
+        {
+          "Line": 52,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "\nIt\u0027s almost like an anglerfish\u0027s lure.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "That fire is mesmerizing.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 69,
+          "OriginalText": " I shouldn\u0027t stare\nany longer or I\u0027ll get sucked in.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 78,
+          "OriginalText": "It was nice talking with you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 87,
+          "OriginalText": "Heehee...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Good morning!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 105,
+          "OriginalText": "Hello!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 114,
+          "OriginalText": "Good evening.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 123,
+          "OriginalText": "I know it\u0027s all the same, more or less,\nbut the rain feels different on your skin\nthe higher you go.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 135,
+          "OriginalText": "What a nice breeze... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 139,
+          "OriginalText": "It doesn\u0027t carry\nthat tang of salt on it, though.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "Oh, you\u0027ve noticed these, have you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 157,
+          "OriginalText": "It\u0027s apparently one of the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 161,
+          "OriginalText": "lanterns",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "\nthat the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 168,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 171,
+          "OriginalText": "\u0027s\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 175,
+          "OriginalText": "director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 178,
+          "OriginalText": " lights with the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 182,
+          "OriginalText": "blue flame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "...\nBut if there\u0027s still a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": " there, I\u0027ve\nnever seen her.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 196,
+          "OriginalText": " Not even once since\nmoving here after my marriage.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 205,
+          "OriginalText": "I take care of the windmills during the\nday in place of my husband.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 216,
+          "OriginalText": "The windmills have to turn at the right\nspeed, or we can\u0027t grind the flour!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 227,
+          "OriginalText": "My husband is very particular when it\ncomes to our work. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 231,
+          "OriginalText": "But I take a more\nfreewheeling attitude toward it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 240,
+          "OriginalText": "I\u0027m getting ready for bed now. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 244,
+          "OriginalText": "Why don\u0027t\nwe talk tomorrow?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 253,
+          "OriginalText": "Oops! I forgot we just met.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 264,
+          "OriginalText": "I was reminiscing about my hometown\nof Lurelin Village by the sea.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 270,
+          "OriginalText": "The view and the air are different here\nin Hateno Village, but this is where my\nwonderful husband calls home.\nI count myself lucky to be able to live\nand work alongside such a wonderful,\nloving man.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 282,
+          "OriginalText": "Can I help you with anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "I\u0027m sorry, but I should go get ready\nfor bed now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 310,
+          "OriginalText": "What is it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 329,
+          "OriginalText": "It\u0027ll be time for work soon. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 333,
+          "OriginalText": "I have a lovely\njob that lets me sit here, watch the\nwindmills, and feel the breeze in my hair.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 342,
+          "OriginalText": "I\u0027ll be starting work soon. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 353,
+          "OriginalText": "Are you wondering what I do? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 357,
+          "OriginalText": "Heehee...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "I\u0027ll tell you all about it once I can sit.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 373,
+          "OriginalText": "It\u0027s so late... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 377,
+          "OriginalText": "Husband\u0027s turn now... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": "Zzz...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 396,
+          "OriginalText": "Mm...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "They say this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": "lantern",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": " needs ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 419,
+          "OriginalText": "blue\nflame",
+          "TranslatedText": null
+        },
+        {
+          "Line": 422,
+          "OriginalText": " from the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 426,
+          "OriginalText": "director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": " at the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 433,
+          "OriginalText": "Hateno Ancient Tech Lab",
+          "TranslatedText": null
+        },
+        {
+          "Line": 436,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 440,
+          "OriginalText": "\nOh, but I\u0027m not guarding it. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "I\u0027m just\nsitting here watching the windmill.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 455,
+          "OriginalText": "I was married recently and moved here\nto my husband\u0027s hometown, so I can\u0027t\ntell you much more than that.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 464,
+          "OriginalText": "If you\u0027re curious, why not head up the\nroad and pay a visit to the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 468,
+          "OriginalText": "director",
+          "TranslatedText": null
+        },
+        {
+          "Line": 471,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 480,
+          "OriginalText": "The windmills have to keep turning, so\nmy husband and I watch them in shifts.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 489,
+          "OriginalText": "It\u0027s a pleasant job. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "Sitting here and\nwatching the world go by makes it\nfeel like a very peaceful place.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "It\u0027s a small fishing community far to\nthe south. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 506,
+          "OriginalText": "I lived there before I moved\nhere with my new husband.\nWe had to cross the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 510,
+          "OriginalText": "Bridge of Hylia ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 513,
+          "OriginalText": "to\nget here, weighted down with everything\nI couldn\u0027t bear to leave behind.\nThinking back on it, it\u0027s a wonder either\nof us survived the trip...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 522,
+          "OriginalText": "Lurelin Village is a small fishing\ntown on the south side of the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 526,
+          "OriginalText": "Bridge of Hylia",
+          "TranslatedText": null
+        },
+        {
+          "Line": 529,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 533,
+          "OriginalText": "\nI haven\u0027t been back there yet since\nI moved here after the wedding.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 539,
+          "OriginalText": "I wonder if Father is still healthy enough\nto go raft fishing...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "FileName": "MiniGame_ParasailArchery",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Of course!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027m all right.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Sure!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Is that all the rules?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Maybe next time.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Yes.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "No.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Hey, Tulin!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Yaaay!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "near01",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "Good luck!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "Hey! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 57,
+          "OriginalText": "Hey, Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 71,
+          "OriginalText": "You\u0027re Link, right?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 75,
+          "OriginalText": " My dad told me\nabout you! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": "Also, he said you\u0027re REAL\ngood with a bow! Is that true?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "Wow! That\u0027s so neat!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 107,
+          "OriginalText": "You gotta show me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 116,
+          "OriginalText": "Nuh-uh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 120,
+          "OriginalText": " Dad said you were great, and\nDad never lies, so it must be true!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 131,
+          "OriginalText": "Come on, show me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 140,
+          "OriginalText": "I\u0027ll count down, and you\u0027ll break all the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 144,
+          "OriginalText": "targets ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 147,
+          "OriginalText": "before time\u0027s up!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 153,
+          "OriginalText": "When you break a bunch, I\u0027ll give you\na prize!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 164,
+          "OriginalText": "Are you ready yet?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Ooh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 186,
+          "OriginalText": "On your mark...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 195,
+          "OriginalText": "Aww...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 199,
+          "OriginalText": " You don\u0027t wanna?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 208,
+          "OriginalText": "Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 212,
+          "OriginalText": " Will you show me what you can do\nwith a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 216,
+          "OriginalText": "bow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 219,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 228,
+          "OriginalText": "Yeah, it\u0027s just like I said!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk100",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "It\u0027s you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 241,
+          "OriginalText": " Haven\u0027t seen you in a while.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": "\nNow that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 249,
+          "OriginalText": "Medoh",
+          "TranslatedText": null
+        },
+        {
+          "Line": 252,
+          "OriginalText": "\u0027s calmed down,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": " I\u0027ve\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 262,
+          "OriginalText": "He gets his bluntness from me, but he\ndoesn\u0027t mean anything by it.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 266,
+          "OriginalText": " Don\u0027t let\nwhatever he says get to you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk101",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "Would you mind showing Tulin how you\nhandle a bow?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk102",
+      "TextList": [
+        {
+          "Line": 290,
+          "OriginalText": "Show Tulin how you handle a bow.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 294,
+          "OriginalText": " It\ncould set a good example for him.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk103",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "Is something wrong?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": " If you want to stop,\nthen take it up with Tulin.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk12",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Is that really all you got?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 325,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 329,
+          "OriginalText": " You don\u0027t have a bow, Link?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 335,
+          "OriginalText": "You should go find a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 339,
+          "OriginalText": "bow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 342,
+          "OriginalText": " somewhere!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 346,
+          "OriginalText": "\nThen you can come back and show me\nyour neat bow tricks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 355,
+          "OriginalText": "Your ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 359,
+          "OriginalText": "bow",
+          "TranslatedText": null
+        },
+        {
+          "Line": 362,
+          "OriginalText": " is gone?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 366,
+          "OriginalText": " Wait, come back\nreal quick!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 375,
+          "OriginalText": "You\u0027re out of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 379,
+          "OriginalText": "arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 382,
+          "OriginalText": "?!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 386,
+          "OriginalText": " Wait, come back\nreal quick!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 395,
+          "OriginalText": "Time\u0027s up!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 399,
+          "OriginalText": " Come back!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "Uh-oh, you went too far! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 412,
+          "OriginalText": "Come back\nreal quick!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 421,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 425,
+          "OriginalText": " But...you\u0027re not carrying any\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 429,
+          "OriginalText": "arrows",
+          "TranslatedText": null
+        },
+        {
+          "Line": 432,
+          "OriginalText": " at all!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 438,
+          "OriginalText": "Go get some ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": "arrows ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 445,
+          "OriginalText": "somewhere so you\ncan show me your neat bow tricks!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 454,
+          "OriginalText": "What\u0027s wrong?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 458,
+          "OriginalText": " Are you quitting?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 475,
+          "OriginalText": "OK!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 479,
+          "OriginalText": " Go break those ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 483,
+          "OriginalText": "targets",
+          "TranslatedText": null
+        },
+        {
+          "Line": 486,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 495,
+          "OriginalText": "You\u0027re amazing, Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 499,
+          "OriginalText": " When you fired\nyour bow, it was like time stopped!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 505,
+          "OriginalText": "Oh, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 512,
+          "OriginalText": " told me to give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 516,
+          "OriginalText": "this ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 519,
+          "OriginalText": "to \nthank you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "Yaaay! I knew you could do it, Link!\nI\u0027ll remember the way you shoot when\nI practice!\nOh, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 532,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 535,
+          "OriginalText": " told me to give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 539,
+          "OriginalText": "this",
+          "TranslatedText": null
+        },
+        {
+          "Line": 542,
+          "OriginalText": " to\nthank you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 546,
+          "OriginalText": " Come back to show me\nyour neat tricks again anytime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk24",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "That was nifty, Link!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 561,
+          "OriginalText": "Oh, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 565,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": " told me to give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 572,
+          "OriginalText": "this",
+          "TranslatedText": null
+        },
+        {
+          "Line": 575,
+          "OriginalText": " to\nthank you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 579,
+          "OriginalText": " Come back and try again\nanytime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk25",
+      "TextList": [
+        {
+          "Line": 588,
+          "OriginalText": "You had some trouble, but that\u0027s OK.\nI have trouble too sometimes. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 592,
+          "OriginalText": "I still\nlearned a lot watching you!\nOh, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 596,
+          "OriginalText": "Dad",
+          "TranslatedText": null
+        },
+        {
+          "Line": 599,
+          "OriginalText": " told me to give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 603,
+          "OriginalText": "this",
+          "TranslatedText": null
+        },
+        {
+          "Line": 606,
+          "OriginalText": " to\nthank you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 610,
+          "OriginalText": " Come back and show me\nmore anytime!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk26",
+      "TextList": [
+        {
+          "Line": 619,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 623,
+          "OriginalText": " Um...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 627,
+          "OriginalText": "what was such a big deal\nabout that?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 638,
+          "OriginalText": "Next time, make sure you show me\nsomething a lot cooler, OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk27",
+      "TextList": [
+        {
+          "Line": 647,
+          "OriginalText": "Whooooooa!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 651,
+          "OriginalText": " Awesome!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk28",
+      "TextList": [
+        {
+          "Line": 660,
+          "OriginalText": "Oooooh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 664,
+          "OriginalText": " Look at that!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk29",
+      "TextList": [
+        {
+          "Line": 673,
+          "OriginalText": "Oooooh!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 677,
+          "OriginalText": " That\u0027s really cool!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk30",
+      "TextList": [
+        {
+          "Line": 686,
+          "OriginalText": "Wooooow!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": " You\u0027re amazing!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "FileName": "Npc_Road_007",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I wanna buy.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I wanna sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "That\u0027s it for now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Sounds good to me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "On second thought...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027ll take it.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "Maybe next time.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "5508",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "All of them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "I\u0027ll just pretend to be a boulder until\nthey go away.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "Is that all of them?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_00",
+      "TextList": [
+        {
+          "Line": 67,
+          "OriginalText": "What do you want to sell?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_01",
+      "TextList": [
+        {
+          "Line": 71,
+          "OriginalText": "I can give you ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 79,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 82,
+          "OriginalText": ".\nWhat do you think?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02",
+      "TextList": [
+        {
+          "Line": 99,
+          "OriginalText": "It\u0027s been a pleasure!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 103,
+          "OriginalText": "\nNeed anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02b",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Thanks for your business, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02c",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "Thank you very much, brother.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_02d",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "I appreciate your business, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_04",
+      "TextList": [
+        {
+          "Line": 139,
+          "OriginalText": "Oh...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 143,
+          "OriginalText": " Well, that\u0027s too bad.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05",
+      "TextList": [
+        {
+          "Line": 147,
+          "OriginalText": "I\u0027ll buy anything. Just try me!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05b",
+      "TextList": [
+        {
+          "Line": 151,
+          "OriginalText": "I\u0027ll buy whatever it is you\u0027re selling.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05c",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "If you have anything you don\u0027t need, I\u0027ll\nbe glad to buy it off you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_05d",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "I can buy some things from you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "What caught your eye?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "Uh-oh.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": " Looks like I\u0027m all sold out of that\nfor now.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Looks like you\u0027re short on rupees.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 189,
+          "OriginalText": "\nScrounge some up and get back to me.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "Your inventory is full...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 202,
+          "OriginalText": " You can toss\nsomething out to make some space,\nor I can buy some items off you.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 206,
+          "OriginalText": "We have a deal?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "Good doing business with you!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 232,
+          "OriginalText": "Thank you for stopping by, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 241,
+          "OriginalText": "Thanks, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 250,
+          "OriginalText": "I appreciate your business, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "I have some rare ore burning a hole in\nmy pack!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 263,
+          "OriginalText": " Take your time looking it over,\nand let me know what you want.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_13",
+      "TextList": [
+        {
+          "Line": 267,
+          "OriginalText": "How many would you like to part with?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_14",
+      "TextList": [
+        {
+          "Line": 280,
+          "OriginalText": "That\u0027ll get ya ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 288,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 291,
+          "OriginalText": ".\nSound like a deal?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_15",
+      "TextList": [
+        {
+          "Line": 308,
+          "OriginalText": "Nope, can\u0027t buy that from you.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 312,
+          "OriginalText": "\nJust can\u0027t do it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_16",
+      "TextList": [
+        {
+          "Line": 321,
+          "OriginalText": "Oh... I can\u0027t buy clothes while\nyou\u0027re still wearing them.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_20",
+      "TextList": [
+        {
+          "Line": 330,
+          "OriginalText": "This weather has me in a rare mood to\nsell rare ore. How about a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 334,
+          "OriginalText": "diamond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 337,
+          "OriginalText": "?\nYou interested in rare items?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 341,
+          "OriginalText": "That\u0027ll cost ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 349,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 352,
+          "OriginalText": ". Sound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 364,
+          "OriginalText": "How many do you want?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_33",
+      "TextList": [
+        {
+          "Line": 377,
+          "OriginalText": "Just one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 381,
+          "OriginalText": " I can do ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 389,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 392,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 404,
+          "OriginalText": "You want to buy all that I have?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": "\nLooks like ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 413,
+          "OriginalText": " will run ya ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 421,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 424,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_35",
+      "TextList": [
+        {
+          "Line": 436,
+          "OriginalText": "All ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 441,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 445,
+          "OriginalText": " Well, I can give you...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 453,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 456,
+          "OriginalText": " total.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "That\u0027s the last of it. I\u0027m all sold out!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": "\nThanks for your business, brother!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 486,
+          "OriginalText": "Kairo\u0027s ore shop is all sold out, but do\nyou want a sneak peek of what I\u0027ll have\nafter I restock in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 490,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 493,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 505,
+          "OriginalText": "Only one?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 509,
+          "OriginalText": " That\u0027ll cost you...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": " rupees",
+          "TranslatedText": null
+        },
+        {
+          "Line": 520,
+          "OriginalText": ". Sound good?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 537,
+          "OriginalText": "Eating me will do you no good! You will\njust break your teeth!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 546,
+          "OriginalText": "Us Gorons have pretty thick skin, so we\ncan take a lot of punishment.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 555,
+          "OriginalText": "Maybe we\u0027ll meet again down the road!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 564,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 571,
+          "OriginalText": "\u0027s beam can turn boulders\ninto pebbles!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 575,
+          "OriginalText": " I\u0027m out of here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_00",
+      "TextList": [
+        {
+          "Line": 584,
+          "OriginalText": "My hometown of ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 588,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 591,
+          "OriginalText": " is the fifth\nstop up the trail. I\u0027m just out here selling\nthe ore I dug up from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 595,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 598,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_00_1",
+      "TextList": [
+        {
+          "Line": 607,
+          "OriginalText": "The chunks of ore I dug up from ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 611,
+          "OriginalText": "Death\nMountain ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": "are pretty high quality.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 618,
+          "OriginalText": " Take a\nlook and you\u0027ll dig \u0027em too!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_01",
+      "TextList": [
+        {
+          "Line": 627,
+          "OriginalText": "You do not look to be made of rock,\nso here\u0027s some advice:",
+          "TranslatedText": null
+        },
+        {
+          "Line": 631,
+          "OriginalText": " you\u0027ll need some\nfire protection if you go any farther.\nI recommend a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 635,
+          "OriginalText": "fireproof elixir",
+          "TranslatedText": null
+        },
+        {
+          "Line": 638,
+          "OriginalText": ". You can\nmake it by cooking a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 642,
+          "OriginalText": "fireproof lizard",
+          "TranslatedText": null
+        },
+        {
+          "Line": 645,
+          "OriginalText": "\nwith a...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 649,
+          "OriginalText": " A, um...\nHuh, I forget what else.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_01_1",
+      "TextList": [
+        {
+          "Line": 658,
+          "OriginalText": "A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 662,
+          "OriginalText": "fireproof elixir ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 665,
+          "OriginalText": "will help a little Hylian\nlike you stand up to this heat. Just cook\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 669,
+          "OriginalText": "fireproof lizard ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 672,
+          "OriginalText": "with a...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 676,
+          "OriginalText": " With a, um...\nHuh. I just can\u0027t remember.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_02",
+      "TextList": [
+        {
+          "Line": 685,
+          "OriginalText": "I got plain sick and tired of working the\nGoron Hot Springs in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 689,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 692,
+          "OriginalText": ", so I\ndecided to just up and leave.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 698,
+          "OriginalText": "I\u0027m going to see the world! I want to see\nsomewhere cold, I want to see green\ntrees and hills!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_02_1",
+      "TextList": [
+        {
+          "Line": 707,
+          "OriginalText": "I am more suited to the life of a traveling\nmerchant for sure. The scenery is much\nnicer than the ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 711,
+          "OriginalText": "Goron Hot Springs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 714,
+          "OriginalText": ".",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_03",
+      "TextList": [
+        {
+          "Line": 723,
+          "OriginalText": "If you\u0027re thinking of checking out ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 727,
+          "OriginalText": "Goron\nCity",
+          "TranslatedText": null
+        },
+        {
+          "Line": 730,
+          "OriginalText": "\u0027s Goron Hot Springs, be careful of\nthe magma bombs on the way.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 736,
+          "OriginalText": "I\u0027ve been away from home for a while, so\nI can\u0027t say whether or not they\u0027re falling\nright now, but be careful, little Hylian!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_03_1",
+      "TextList": [
+        {
+          "Line": 745,
+          "OriginalText": "If you\u0027re heading to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 749,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 752,
+          "OriginalText": "\u0027s famed\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 756,
+          "OriginalText": "Goron Hot Springs",
+          "TranslatedText": null
+        },
+        {
+          "Line": 759,
+          "OriginalText": ", watch out for\nmagma bombs on the way.\nI haven\u0027t had to worry about them since\nleaving to travel the world, and I do NOT\nmiss dodging those things.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_04",
+      "TextList": [
+        {
+          "Line": 771,
+          "OriginalText": "Foothill Stable ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 774,
+          "OriginalText": "is nice and cool! I have\nnever felt anything like it! Ahh, the cool\nair really soothes the skin.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 780,
+          "OriginalText": "Huh?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 784,
+          "OriginalText": " You look a bit warm... Could it be\nthat even this cool weather is too hot\nfor a little Hylian like you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Orud_04_1",
+      "TextList": [
+        {
+          "Line": 793,
+          "OriginalText": "Ah, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 797,
+          "OriginalText": "Foothill Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 800,
+          "OriginalText": " sure is nice and cool.\nOr maybe...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 807,
+          "OriginalText": "Goron City ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 810,
+          "OriginalText": "is just really hot.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 814,
+          "OriginalText": "Let\u0027s find some ore to sell.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 818,
+          "OriginalText": "I could go for a good ore.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 822,
+          "OriginalText": "What great scenery.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 826,
+          "OriginalText": "I\u0027m digging this greenery.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 830,
+          "OriginalText": "I\u0027m getting soaked!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 839,
+          "OriginalText": "Does a little Hylian like you know about\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 843,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 846,
+          "OriginalText": "?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 850,
+          "OriginalText": " As you might have guessed,\nit\u0027s where the Gorons live!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 859,
+          "OriginalText": "Goron bodies are as tough as rocks.\nImpervious to heat, strong against\nscissors, and weak to paper.\nNo, wait...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 863,
+          "OriginalText": " That is...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 867,
+          "OriginalText": " Yes.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 871,
+          "OriginalText": "\nI definitely confused Gorons with\nrock-paper-scissors.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_00",
+      "TextList": [
+        {
+          "Line": 883,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 886,
+          "OriginalText": " is the fifth stop on this road.\nLook out for the swirling waves of heat,\nrock slides, and lurking monsters.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 892,
+          "OriginalText": "I make it sound like a lot of fun, but it\u0027s\nactually pretty dangerous. But those\naren\u0027t the reasons I left in such a hurry.\nI left home to start my new life as a\ntraveling salesrock. I\u0027m gonna see the\nworld and sell ore to everyone I meet!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_00_1",
+      "TextList": [
+        {
+          "Line": 904,
+          "OriginalText": "Goron City ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 907,
+          "OriginalText": "is the fifth stop on this road.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 911,
+          "OriginalText": "\nIt can be a pretty dangerous place, but\nthere\u0027s a lot of ore to be mined.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_01",
+      "TextList": [
+        {
+          "Line": 920,
+          "OriginalText": "I wonder how my old buddy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 924,
+          "OriginalText": "Yunobo ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 927,
+          "OriginalText": "back\nin ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 931,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 934,
+          "OriginalText": " is doing.\n\nNice guy, that ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 938,
+          "OriginalText": "Yunobo",
+          "TranslatedText": null
+        },
+        {
+          "Line": 941,
+          "OriginalText": ". Always a pleasure\nto chomp the ore with.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_01_1",
+      "TextList": [
+        {
+          "Line": 953,
+          "OriginalText": "I wonder if my old buddy ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 957,
+          "OriginalText": "Yunobo ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 960,
+          "OriginalText": "back in ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 964,
+          "OriginalText": "Goron\nCity ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 967,
+          "OriginalText": "is doing well.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 971,
+          "OriginalText": "\nOops.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 975,
+          "OriginalText": " Ya caught me talking to myself.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_02",
+      "TextList": [
+        {
+          "Line": 984,
+          "OriginalText": "Is it normal for magma bombs to not rain\ndown nonstop?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 988,
+          "OriginalText": " I just don\u0027t understand\nthe weather around here.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_02_1",
+      "TextList": [
+        {
+          "Line": 997,
+          "OriginalText": "Getting hit by a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1001,
+          "OriginalText": "magma bomb ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1004,
+          "OriginalText": "even hurts\nus Gorons!\n\nIf you\u0027re thinking about going for a climb\non ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1008,
+          "OriginalText": "Death Mountain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1011,
+          "OriginalText": ", you had better\nbe careful.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_03",
+      "TextList": [
+        {
+          "Line": 1020,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1024,
+          "OriginalText": "road up the volcano ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1027,
+          "OriginalText": "is so hot, it\u0027s\ndangerous for non-Gorons to travel.\n\nIf your heart is really set on a trip to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1031,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1034,
+          "OriginalText": ", be sure to bring some fire\nprotection.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1038,
+          "OriginalText": " Don\u0027t say I didn\u0027t warn ya!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_03_1",
+      "TextList": [
+        {
+          "Line": 1047,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1051,
+          "OriginalText": "mountain road",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1054,
+          "OriginalText": " is pretty dangerous\nbecause of how hot it gets.\n\nIf you\u0027re taking a trip to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1058,
+          "OriginalText": "Goron City",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1061,
+          "OriginalText": ", be\nsure to bring some fire protection.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_04",
+      "TextList": [
+        {
+          "Line": 1070,
+          "OriginalText": "Us Gorons make a living by mining ore.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1074,
+          "OriginalText": "\nWe eat the rocks we dig up as we mine,\nso we get to snack all day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Orud_04_1",
+      "TextList": [
+        {
+          "Line": 1083,
+          "OriginalText": "It\u0027s a Goron\u0027s nature to live in harmony\nwith rocks.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1087,
+          "OriginalText": " I make a living selling the ore\nI dig up, and I eat the tastier stones!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 1096,
+          "OriginalText": "Those monsters are pretty scary.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 1105,
+          "OriginalText": "We are not the monsters here!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 1114,
+          "OriginalText": "That was a close one!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 1123,
+          "OriginalText": "Phew. I\u0027m saved!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 1132,
+          "OriginalText": "Looks like I\u0027ll live to sell another day!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 1141,
+          "OriginalText": "We had better make a break for it while\nwe can.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 1150,
+          "OriginalText": "All right, let\u0027s get down to brass tacks.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1154,
+          "OriginalText": "\nFeel free to browse my wares!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1172,
+          "OriginalText": "Thanks, brother!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1176,
+          "OriginalText": " Need anything else?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 1194,
+          "OriginalText": "I survived?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1198,
+          "OriginalText": " All right!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 1202,
+          "OriginalText": " Here, take this as\na thank you, brother.",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "FileName": "Gerudo_Ch_SnowBoots",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I want snow boots.",
+          "TranslatedText": "ฉันต้องการรองเท้าหิมะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-BYE.",
+          "TranslatedText": "ลาก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "I\u0027ll go look for it.",
+          "TranslatedText": "ฉันจะไปหามัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Let me think about it.",
+          "TranslatedText": "ให้ฉันคิดเกี่ยวกับมัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Snow boots, please.",
+          "TranslatedText": "รองเท้าหิมะ ได้โปรด."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Feast your eyes.",
+          "TranslatedText": "ฉลองดวงตาของคุณ"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "The snow boots...",
+          "TranslatedText": "รองเท้าหิมะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Not a chance.",
+          "TranslatedText": "ไม่มีโอกาส."
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Where\u0027s the sword?",
+          "TranslatedText": "ดาบอยู่ที่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "LookPicture",
+      "TextList": [
+        {
+          "Line": 49,
+          "OriginalText": "WHAAAAAT?! It really exists?!",
+          "TranslatedText": "อออะไร?! มันมีอยู่จริง?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_00",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "A traveler swore he saw you in the\nGerudo Highlands, so I\u0027ve been gnawing\non my fingernails with worry!\nI mean, all that talk about the sword was\njust chitchat... I didn\u0027t think you\u0027d go up\nthere without snow boots!\nAnyway, are you OK?",
+          "TranslatedText": "นักท่องเที่ยวคนหนึ่งสาบานว่า\nเขาเห็นคุณที่ ที่ราบสูง Gerudo\nดังนั้นฉันจึงกัดเล็บด้วยความกังวล!\nฉันหมายความว่าทั้งหมดที่พูดถึงดาบ\nเป็นเพียงการพูดคุย ... ฉันไม่คิดว่า\nคุณจะขึ้นไปที่นั่นโดยไม่มีรองเท้าหิมะ!\nอย่างไรก็ตามคุณโอเค?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_02",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "And you went searching for it without\na decent pair of snow boots...\n\nI mean, the Gerudo Highlands are\nunforgiving. I doubt I could survive\nthere, and I\u0027m burly.\nWho ARE you?!",
+          "TranslatedText": "และคุณไปค้นหามันโดย\nไม่มีรองเท้าบูทลุยหิมะสักคู่ ...\nฉันหมายความว่า ที่ราบสูง Gerudo \nนั้นไม่น่าให้อภัย ฉันสงสัยว่าฉันจะอยู่รอด\nที่นั่นได้และฉันก็แข็งแรง\nคุณคือใคร?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_03",
+      "TextList": [
+        {
+          "Line": 85,
+          "OriginalText": "Yeah... You did risk your life to fulfill\nyour promise, after all...\n\nIt\u0027d be pretty uncouth of me to drop my \nend of the bargain.",
+          "TranslatedText": "ใช่ ... คุณได้เสี่ยงชีวิตเพื่อทำตามสัญญาแล้ว ...\nมันค่อนข้างจะไม่ยุติธรรม\nสำหรับฉันที่จะยุติการต่อรอง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_04",
+      "TextList": [
+        {
+          "Line": 94,
+          "OriginalText": "Well, now I\u0027m barefoot...\n\n\n",
+          "TranslatedText": "ตอนนี้ฉันเท้าเปล่า ...\n"
+        },
+        {
+          "Line": 100,
+          "OriginalText": "But if you\u0027re happy, then I\u0027m happy!\n\n\nAnd what\u0027s more, this whole episode\nhas endeared you even more to me!\n\nYour cutely greedy side. Your sassy,\nplayfully rude side...\n\nYour unexpectedly tough side...\n\n\nUm...\n\n\nWould you...\n\n\n...g-g-",
+          "TranslatedText": "แต่ถ้าคุณมีความสุขฉันก็มีความสุข!\nและยิ่งไปกว่านั้นทั้งตอนนี้\nยังรักคุณมากยิ่งขึ้นสำหรับฉัน!\nด้านโลภน่ารักของคุณ\nด้านที่ขี้เล่น\nด้านที่แข็งแกร่งอย่างคาดไม่ถึงของคุณ ...\nด้านที่แข็งแกร่งอย่างคาดไม่ถึงของคุณ...\nอืม...\nคุณจะ...\n...อ-อ-"
+        },
+        {
+          "Line": 104,
+          "OriginalText": "go out...",
+          "TranslatedText": "ออกไป..."
+        },
+        {
+          "Line": 108,
+          "OriginalText": "\n\n\n...w-w-w-",
+          "TranslatedText": "\n...ด-ด-ด-"
+        },
+        {
+          "Line": 112,
+          "OriginalText": "with...",
+          "TranslatedText": "ด้วย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_05",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "Oh, it\u0027s just a guy...",
+          "TranslatedText": "อ๋อเป็นแค่ผู้ชาย..."
+        },
+        {
+          "Line": 128,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 134,
+          "OriginalText": "But...hm.",
+          "TranslatedText": "แต่ ... หืม."
+        },
+        {
+          "Line": 138,
+          "OriginalText": " Listen, pal, a little free advice?\nYou\u0027re looking pretty sour.",
+          "TranslatedText": " ฟังเพื่อนคำแนะนำฟรีเล็กน้อย?\nคุณดูสวยเปรี้ยว."
+        },
+        {
+          "Line": 142,
+          "OriginalText": "\n\nYou keep walking around looking like\na grouch, and you\u0027ll never get a girl. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n",
+          "TranslatedText": "\nคุณเดินไปรอบๆ ดูเหมือนคนขี้บ่น\nและคุณจะไม่มีวันคบผู้หญิง อ๊ะฉันพูดอะไร \nขอโทษสำหรับเรื่องน่ายกย่องของฉัน\n\n"
+        },
+        {
+          "Line": 148,
+          "OriginalText": "I\u0027ve just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n",
+          "TranslatedText": "ฉันเพิ่งรู้สึกวูบในสมอง\nสาว ๆ ทำให้ฉันรำคาญมาตลอด \nแต่ตอนนี้ เธอคือทั้งหมดที่ฉันคิดได้!\n"
+        },
+        {
+          "Line": 154,
+          "OriginalText": "Sorry, but I don\u0027t even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else.",
+          "TranslatedText": "ขอโทษทีตอนนี้ฉันไม่มีเวลาให้กับ\nผู้หญิงคนอื่นเลยนับประสาอะไรกับคนอื่น\nรู้ไหมว่าฉันหมายถึงอะไร?\nถ้าคุณต้องการอะไร\nทำอะไรบางอย่างให้ได้ไหม...\nถามคนอื่น."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_06",
+      "TextList": [
+        {
+          "Line": 163,
+          "OriginalText": "Gah!\n\n\nS-sav\u0027otta!",
+          "TranslatedText": "Gah!\nอรุณสวัสดิ์!"
+        },
+        {
+          "Line": 167,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 173,
+          "OriginalText": "Wait.",
+          "TranslatedText": "เดี๋ยวก่อน."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_07",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Like I said...",
+          "TranslatedText": "อย่างที่บอก..."
+        },
+        {
+          "Line": 189,
+          "OriginalText": "\n\n\nI\u0027m not interested in talking to anyone\nbut HER. She is all things to me!\nIf you need something...\nbe a pal and ask someone else, huh?",
+          "TranslatedText": "\nฉันไม่สนใจที่จะคุยกับใครนอกจากเธอ \nเธอคือทุกสิ่งสำหรับฉัน!\nหากคุณต้องการบางสิ่ง ...\nเป็นเพื่อนและถามคนอื่น?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_08",
+      "TextList": [
+        {
+          "Line": 198,
+          "OriginalText": "Gaaaah!\n\n\nS-sav\u0027otta!",
+          "TranslatedText": "Gaaaah!\nอ-อรุณสวัสดิ์!"
+        },
+        {
+          "Line": 202,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 208,
+          "OriginalText": "Wait.",
+          "TranslatedText": "รอก่อน."
+        },
+        {
+          "Line": 217,
+          "OriginalText": " You again?",
+          "TranslatedText": " คุณอีกแล้ว?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_09",
+      "TextList": [
+        {
+          "Line": 226,
+          "OriginalText": "Oh, it\u0027s just you...",
+          "TranslatedText": "โอ้เป็นเพียงคุณ..."
+        },
+        {
+          "Line": 230,
+          "OriginalText": "\n\n\nBut...huh. ",
+          "TranslatedText": "\nแต่ ... หึ. "
+        },
+        {
+          "Line": 234,
+          "OriginalText": "Look, I feel like someone \nshould tell you that you have kind of a\nsulky look about you.",
+          "TranslatedText": "ดูสิฉันรู้สึกว่ามีใครบางคนบอกคุณ\nว่าคุณดูบึ้งตึงเกี่ยวกับตัวคุณ."
+        },
+        {
+          "Line": 238,
+          "OriginalText": "\nYou keep walking around looking all\nmiserable, and you\u0027ll never get a girl. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n",
+          "TranslatedText": "\nคุณเดินไปรอบ ๆ ดูน่าสังเวชและ\nคุณจะไม่มีวันได้ผู้หญิง อ๊ะฉันพูดอะไร \nขอโทษสำหรับเรื่องน่ายกย่องของฉัน\n"
+        },
+        {
+          "Line": 244,
+          "OriginalText": "I\u0027ve just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n",
+          "TranslatedText": "ฉันเพิ่งรู้สึกวูบในสมอง\nสาว ๆ ทำให้ฉันรำคาญมาตลอด \nแต่ตอนนี้ เธอคือทั้งหมดที่ฉันคิดได้!\n"
+        },
+        {
+          "Line": 250,
+          "OriginalText": "Sorry, but I don\u0027t even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else.",
+          "TranslatedText": "ขอโทษทีตอนนี้ฉันไม่มีเวลาให้กับ \nหญิงคนอื่นเลยนับประสาอะไรกับคนอื่น\nรู้ไหมว่าฉันหมายถึงอะไร?\nถ้าคุณต้องการอะไร\nทำอะไรบางอย่างให้ได้ไหม...\nถามคนอื่น."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_10",
+      "TextList": [
+        {
+          "Line": 259,
+          "OriginalText": "You!\n\n\nYou came! I mean, hey, yeah, of course.\nFigured you\u0027d swing by. Yup. \nDo the ol\u0027 swing-by.\nWe didn\u0027t get a chance to spend much\ntime together earlier, did we? Whoosh!\nTotal whirlwind! So...wanna hang out?",
+          "TranslatedText": "คุณ!\nคุณมา! ฉันหมายความว่า เฮ้ใช่แน่นอน\nคิดว่าคุณจะแกว่งไปมา ได้. ทำการสวิงโดย\nเราไม่ได้มีโอกาสใช้เวลาร่วมกันมาก\nก่อนหน้านี้ใช่ไหม? หวีด!\nลมกรดรวม! ดังนั้น ... อยากออกไปเที่ยว?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_11",
+      "TextList": [
+        {
+          "Line": 271,
+          "OriginalText": "You!\n\n\nYou came back! I mean, yeah. Heyyyyy.\nCourse you came by. What\u0027s up?\n\n",
+          "TranslatedText": "คุณ!\nคุณกลับมา! ฉันหมายความว่าใช่ เฮ้ยยยยยยยยย\nหลักสูตรที่คุณมา ว่าไง?\n"
+        },
+        {
+          "Line": 277,
+          "OriginalText": "And look at you, wearing those\n",
+          "TranslatedText": "และมองไปที่คุณสวมใส่\n"
+        },
+        {
+          "Line": 281,
+          "OriginalText": "sand boots",
+          "TranslatedText": "รองเท้าทราย"
+        },
+        {
+          "Line": 284,
+          "OriginalText": " already like a...saucy little\npink heron or something.\nY\u0027know, gotta say, they\u0027re designed for\nburly men like myself, so I was worried\nthey wouldn\u0027t fit such a flower as you...\nBut they look absolutely fantastic!\n\n\nGosh! Anyway, I realized we never really\ngot a chance to chat earlier, so you want\nto grab a spot somewhere and hang out?",
+          "TranslatedText": " ชอบ ... ทะลึ่งเล็กน้อย\nนกกระสาสีชมพูหรืออะไรบางอย่าง\nต้องบอกว่าพวกเขาออกแบบมาสำหรับ\nผู้ชายร่างกำยำอย่างตัวฉันเองฉันเลยกังวล\nว่าพวกเขาจะไม่เข้ากับดอกไม้แบบคุณ ...\nแต่พวกเขาดูยอดเยี่ยมมาก!\nเอ้ย! อย่างไรก็ตามฉันตระหนักว่าเรา\nไม่เคยมีโอกาสคุยกันก่อนหน้านี้จริงๆ\nดังนั้นคุณจึงต้องการหาสถานที่สักแห่ง\nและออกไปเที่ยว?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_12",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "What?\n\n\nYou want my snow boots, too?",
+          "TranslatedText": "อะไร?\nคุณต้องการรองเท้าหิมะของฉันด้วยใช่ไหม"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_13",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "Ha! Well aren\u0027t we greedy!\nOr should I say insatiable for boots.\nA boot thirst that cannot be slaked!\n",
+          "TranslatedText": "ฮา! เราไม่โลภ!\nหรือฉันควรจะบอกว่าไม่รู้จักพอสำหรับรองเท้าบูท\nความกระหายที่ไม่สามารถลดลงได้!\n"
+        },
+        {
+          "Line": 311,
+          "OriginalText": "Adorable. But listen, if I give you these,\nthen I\u0027ll have nothing for my feet!",
+          "TranslatedText": "น่ารัก แต่ฟังเถอะถ้าฉันให้เธอแล้ว\nฉันจะไม่มีอะไรให้เท้าของฉัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_14",
+      "TextList": [
+        {
+          "Line": 326,
+          "OriginalText": "Oh, man, what should I do? THINK, Bozai!\nCan\u0027t put her in a bad mood...\n\nOK... Do NOT blow this. Just relax and work a little\nverbal magic...",
+          "TranslatedText": "โอ้มนุษย์ฉันจะทำอย่างไรดี? คิดว่าโบไซ!\nไม่สามารถทำให้เธออารมณ์ไม่ดี...\nตกลง ... อย่าระเบิด เพียงแค่ผ่อนคลาย\nและใช้เวทมนตร์ด้วยวาจาเล็กน้อย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_15",
+      "TextList": [
+        {
+          "Line": 340,
+          "OriginalText": "How could I resist a request from you?",
+          "TranslatedText": "ฉันจะต้านทานคำขอจากคุณได้อย่างไร?"
+        },
+        {
+          "Line": 344,
+          "OriginalText": "\n\n\nNo lie, you really gave me a surprise\nearlier...and I love surprises.\nSurprise me again like that...\nand I\u0027ll give you these snow boots as a\nsurprise present!",
+          "TranslatedText": "\nไม่โกหกคุณทำให้ฉันประหลาดใจจริง ๆ \nก่อนหน้านี้ ... และฉันชอบเซอร์ไพรส์\nทำให้ฉันประหลาดใจอีกครั้งเช่นนั้น ...\nและฉันจะให้รองเท้าหิมะคู่นี้เป็น\nของขวัญสุดเซอร์ไพรส์!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_16",
+      "TextList": [
+        {
+          "Line": 353,
+          "OriginalText": "So let me ask you this: Did you notice\nthat the statue of the eighth heroine...\nisn\u0027t actually holding a sword?\nPretty weird, right? Seven other\nheroines, they all have their swords!",
+          "TranslatedText": "ฉันขอถามคุณว่าคุณสังเกตไหม\nว่ารูปปั้นของวีรสตรีคนที่แปด ...\nไม่ได้ถือดาบจริงหรือ?\nสวยแปลกใช่มั้ย? วีรสตรีคนอื่น ๆ \nอีกเจ็ดคนล้วนมีดาบประจำตัว!"
+        },
+        {
+          "Line": 357,
+          "OriginalText": "\nSuspicious, y\u0027know?\nWhich leads me to deduce that the\neighth heroine must have had a\nsword as well. Must have!\n",
+          "TranslatedText": "\nสงสัยใช่มั้ย?\nซึ่งทำให้ฉันอนุมานได้ว่าวีรสตรีคนที่แปด\nก็ต้องมีดาบเช่นกัน จำเป็นต้องมี!\n"
+        },
+        {
+          "Line": 363,
+          "OriginalText": "To see that such a sword actually\nexists, that my deduction is right...\nThere could be no greater surprise!",
+          "TranslatedText": "เพื่อดูว่าดาบแบบนั้นมีอยู่จริง\nการหักของฉันถูกต้อง ...\nคงไม่มีอะไรแปลกใจไปกว่านี้!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_17",
+      "TextList": [
+        {
+          "Line": 380,
+          "OriginalText": "What? You\u0027re really going?\n\n\nWow, all right, then. The sword would be\npretty big, so I doubt it could have been\ncarried off too far.\nI\u0027m betting it\u0027s probably somewhere in\nthe steeps of the ",
+          "TranslatedText": "อะไร? คุณจะไปจริงๆเหรอ?\nว้าว ไปเลย ดาบจะค่อนข้างใหญ่\nดังนั้นฉันสงสัยว่ามันน่าจะพกไปไกลเกินไป\nฉันพนันได้เลยว่ามันอาจจะอยู่ที่ไหนสักแห่งใน \n"
+        },
+        {
+          "Line": 384,
+          "OriginalText": "Gerudo Highlands",
+          "TranslatedText": "ที่ราบสูงGerudo "
+        },
+        {
+          "Line": 387,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18",
+      "TextList": [
+        {
+          "Line": 396,
+          "OriginalText": "And the thing is, I can\u0027t lend you the\n",
+          "TranslatedText": "และสิ่งนี้คือฉันไม่สามารถให้คุณยืม\n"
+        },
+        {
+          "Line": 400,
+          "OriginalText": "snow boots ",
+          "TranslatedText": "รองเท้าหิมะ "
+        },
+        {
+          "Line": 403,
+          "OriginalText": "this time. Just can\u0027t do it!\nI\u0027m really sorry.",
+          "TranslatedText": "เวลานี้. แค่ทำไม่ได้!\nฉันขอโทษจริงๆ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19",
+      "TextList": [
+        {
+          "Line": 418,
+          "OriginalText": "No way a normal person can make it through the\nGerudo Highlands without good snow boots...\n\nShe\u0027ll probably give up halfway through and come\ncrawling back...",
+          "TranslatedText": "ไม่มีทางที่คนทั่วไปจะผ่าน ที่ราบสูงGerudoได้หากไม่มี\nรองเท้าหิมะดีๆ\nเธออาจจะล้มเลิกกลางคันและคลานกลับมา..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20",
+      "TextList": [
+        {
+          "Line": 432,
+          "OriginalText": "Fine, you win. So headstrong!\nI love it.\n\nI\u0027ll just be waiting here, OK?\n\n\nIf you ever need me for anything above\nand beyond footwear, you just come find\nol\u0027 Bozai anytime!",
+          "TranslatedText": "ดีคุณชนะ ความเอาแต่ใจ!\nฉันรักมัน.\nฉันจะรอที่นี่โอเค?\nหากคุณต้องการฉันสำหรับสิ่งที่เหนือกว่ารองเท้า\nคุณเพียงแค่มาหาเฒ่าโบไซได้ตลอดเวลา!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_21",
+      "TextList": [
+        {
+          "Line": 441,
+          "OriginalText": "I hear you! Better to think about crazy\nsnow-boot quests than actually do \u0027em,\nam I right?\nInstead, how about you and I retire to\nsomeplace a bit more private and learn\nabout how witty we both no doubt are?",
+          "TranslatedText": "ฉันฟังคุณ! ดีกว่าที่จะคิดเกี่ยวกับเควสหิมะ\nที่บ้าคลั่งมากกว่าที่จะทำจริงๆฉันพูดถูกไหม?\nแต่คุณและฉันกลับไปพักผ่อนที่ใดที่หนึ่\nงเป็นส่วนตัวมากขึ้นและเรียนรู้ว่า\nเราทั้งคู่มีไหวพริบอย่างไร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_22",
+      "TextList": [
+        {
+          "Line": 453,
+          "OriginalText": "Knew it...",
+          "TranslatedText": "รู้แล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_23",
+      "TextList": [
+        {
+          "Line": 465,
+          "OriginalText": "Y-you look as b-b-b-b-",
+          "TranslatedText": "ค-คุณดูนั่น ส-ส-ส-ส-"
+        },
+        {
+          "Line": 469,
+          "OriginalText": "beautiful as ever.\n\n\nIf you\u0027re not doing anything, how about\nwe grab a spot of sand and chitchat?",
+          "TranslatedText": "สวยงามเสมอ.\nถ้าคุณไม่ได้ทำอะไรเราจะจับทรายและพูดคุยกัน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_24",
+      "TextList": [
+        {
+          "Line": 481,
+          "OriginalText": "Huh? But...\n\n\nRemember ",
+          "TranslatedText": "ฮะ? แต่...\nจำได้ว่า "
+        },
+        {
+          "Line": 485,
+          "OriginalText": "the sword of the eighth\nheroine",
+          "TranslatedText": "ดาบของวืรสตรีคนที่แปด"
+        },
+        {
+          "Line": 488,
+          "OriginalText": "? Probably somewhere in the\n",
+          "TranslatedText": "? น่าจะอยู่ที่ไหนสักแห่งใน\n"
+        },
+        {
+          "Line": 492,
+          "OriginalText": "Gerudo Highlands",
+          "TranslatedText": "ที่ราบสูงGerudo"
+        },
+        {
+          "Line": 495,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_25",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "So sorry, but proof of that sword is the\nprice of these sweet snow boots.",
+          "TranslatedText": "ขอโทษด้วย แต่การพิสูจน์ดาบเล่มนั้น\nคือราคาของรองเท้าหิมะแสนหวานเหล่านี้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_26",
+      "TextList": [
+        {
+          "Line": 524,
+          "OriginalText": "Oh! She\u0027s wearing the sand boots!\nAdvantage, Bozai...",
+          "TranslatedText": "โอ้! เธอใส่รองเท้าทราย!\nความได้เปรียบ, Bozai..."
+        },
+        {
+          "Line": 530,
+          "OriginalText": "\n\nAh, sorry, sorry. You just look so \nprecious in those sand boots.\nMy mind just went POOF!\nIf you\u0027d like, why don\u0027t we grab a spot\nby a tree and get to know each other?",
+          "TranslatedText": "\nอา, ขอโทษขอโทษ คุณดูมีค่ามาก\nในรองเท้าบูททรายเหล่านั้น\nความคิดของฉันไป POOF!\nหากคุณต้องการทำไมเราไม่จับต้นไม้\nและทำความรู้จักกัน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_27",
+      "TextList": [
+        {
+          "Line": 542,
+          "OriginalText": "Y-",
+          "TranslatedText": "ค-"
+        },
+        {
+          "Line": 546,
+          "OriginalText": "you!",
+          "TranslatedText": "คุณ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_28",
+      "TextList": [
+        {
+          "Line": 558,
+          "OriginalText": "Urk...",
+          "TranslatedText": "Urk..."
+        },
+        {
+          "Line": 562,
+          "OriginalText": " I kind of knew you\u0027d say that...\nbut would it have killed you to let me\nfinish the question?",
+          "TranslatedText": " ฉันรู้ว่าคุณพูดแบบนั้น ...\nแต่มันจะฆ่าคุณไหมถ้าให้ฉันจบคำถาม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_29",
+      "TextList": [
+        {
+          "Line": 574,
+          "OriginalText": "Huh? But your bag is full.\n\n\nI think it\u0027s adorable that you want MORE\nboots even with so many other clothing\noptions, but you need storage space.\nCome talk to me again once you\u0027ve\norganized your bag, OK?\n\n",
+          "TranslatedText": "ฮะ? แต่กระเป๋าของคุณเต็ม\nฉันคิดว่ามันน่ารักที่คุณอยากได้รองเท้า\nมากกว่านี้ แม้จะมีตัวเลือกเสื้อผ้าอื่น ๆ มากมาย \nแต่คุณก็ต้องการพื้นที่จัดเก็บ\nมาคุยกับฉันอีกครั้งเมื่อ\nคุณจัดกระเป๋าเรียบร้อยแล้วโอเค?\n"
+        },
+        {
+          "Line": 580,
+          "OriginalText": "I\u0027ll be waiting!",
+          "TranslatedText": "ฉันจะรอ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_30",
+      "TextList": [
+        {
+          "Line": 589,
+          "OriginalText": "I\u0027m still so flabbergasted that the eighth\nheroine\u0027s sword actually exists...\nI can hardly believe it...\n",
+          "TranslatedText": "ฉันยังรู้สึกท้อแท้ที่ดาบ\nของวืรสตรีคนที่แปดมีอยู่จริง ...\nฉันแทบไม่อยากจะเชื่อเลย...\n"
+        },
+        {
+          "Line": 595,
+          "OriginalText": "And you and I share this secret, along\nwith so many other meaningful and\nromantic exchanges...\nWe must be connected by dest\u2014",
+          "TranslatedText": "และคุณกับฉันแบ่งปันความลับนี้\nพร้อมกับการแลกเปลี่ยนที่มีความหมาย\nและโรแมนติกอื่น ๆ อีกมากมาย ...\nเราต้องเชื่อมต่อกันด้วย ปลายทาง\u2014"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_33",
+      "TextList": [
+        {
+          "Line": 613,
+          "OriginalText": "Huh? She\u0027s not seriously considering going to\nlook for it, is she? That\u0027s crazy talk.",
+          "TranslatedText": "ฮะ? เธอไม่ได้คิดจะมองหามันอย่างจริงจังใช่ไหม นั่นคือคำพูดที่บ้าคลั่ง."
+        },
+        {
+          "Line": 619,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 625,
+          "OriginalText": "Well, this is just the result of my own\ndeductions, but...\n\nThe statue of the eighth heroine is huge,\nright? So it stands to reason that the \nsword would be too.\nThat\u0027s why I think it wouldn\u0027t be possible\nfor anyone to carry it far. And THAT is\nwhy it must be in the ",
+          "TranslatedText": "นี่เป็นเพียงผลจากการหักเงินของฉันเอง \nแต่...รูปปั้นวีรสตรีคนที่แปดใหญ่มากใช่มั้ย? \nดังนั้นจึงอ้างเหตุผลว่าดาบก็เช่นกัน\nนั่นเป็นเหตุผลที่ฉันคิดว่าคงไม่มีใครพกไปไกล ๆ \nและนั่นคือสาเหตุที่ต้องอยู่ใน"
+        },
+        {
+          "Line": 629,
+          "OriginalText": "Gerudo Highlands",
+          "TranslatedText": "ที่ราบสูง Gerudo"
+        },
+        {
+          "Line": 632,
+          "OriginalText": ".\n",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 638,
+          "OriginalText": "But look, the terrain is treacherous \nenough by itself, and then you also have\nnasty monsters to deal with.\nI heard that many Gerudo don\u0027t even\ndare set foot there. The place is\nlegitimately scary.",
+          "TranslatedText": "แต่ดูสิภูมิประเทศนั้นทรยศพอสมควร\nแล้วคุณก็มีสัตว์ประหลาดที่น่ารังเกียจให้จัดการด้วย\nฉันได้ยินมาว่า Gerudo หลายคนไม่กล้า\nแม้แต่จะก้าวไปที่นั่น สถานที่นี้น่ากลัว\nอย่างถูกต้องตามกฎหมาย."
+        },
+        {
+          "Line": 642,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 648,
+          "OriginalText": "So...instead of opting for scary...\nWhy don\u0027t you and I opt for romantic\nand maybe even a little risqu\u00E9?",
+          "TranslatedText": "ดังนั้น ... แทนที่จะเลือกที่น่ากลัว ...\nทำไมคุณและฉันไม่เลือกที่จะโรแมนติก\nและอาจเป็นเรื่องเล็กน้อย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_34",
+      "TextList": [
+        {
+          "Line": 660,
+          "OriginalText": "G-good-bye...",
+          "TranslatedText": "ล-ลา-ก่อน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_35",
+      "TextList": [
+        {
+          "Line": 669,
+          "OriginalText": "Y-you look stunning today, too.\n\n\nI have to say, your insatiable craving for\nthese snow boots fascinates me.\n\nBut I hate the idea of you trekking in\nthem out in the dangerous wilds...\nSo I had a brilliant idea!\n",
+          "TranslatedText": "ว-วันนี้คุณก็ดูน่าทึ่งเช่นกัน\nฉันต้องบอกว่าความอยากที่ไม่รู้จักพอ\nสำหรับรองเท้าหิมะเหล่านี้ทำให้ฉันหลงใหล\nแต่ฉันเกลียดความคิดที่ว่าคุณเดินป่า\nท่ามกลางป่าอันตราย ...\nฉันจึงมีความคิดที่ยอดเยี่ยม!\n"
+        },
+        {
+          "Line": 675,
+          "OriginalText": "I could just keep the boots on and\nCARRY you around! Then you wouldn\u0027t\nneed to wear them! How about it?",
+          "TranslatedText": "ฉันสามารถใส่รองเท้าบูทไว้ได้\nและพาคุณไปรอบ ๆ ! ถ้าอย่างนั้น\nคุณก็ไม่จำเป็นต้องใส่มัน! เป็นไงล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_36",
+      "TextList": [
+        {
+          "Line": 692,
+          "OriginalText": "Next time... ",
+          "TranslatedText": "คราวหน้า... "
+        },
+        {
+          "Line": 696,
+          "OriginalText": "For sure...",
+          "TranslatedText": "อย่างแน่นอน..."
+        },
+        {
+          "Line": 700,
+          "OriginalText": " We will...",
+          "TranslatedText": " เราจะ..."
+        },
+        {
+          "Line": 704,
+          "OriginalText": "go on...",
+          "TranslatedText": "ต่อไป..."
+        },
+        {
+          "Line": 708,
+          "OriginalText": "\na da...",
+          "TranslatedText": "\nวะ..."
+        },
+        {
+          "Line": 712,
+          "OriginalText": "date...",
+          "TranslatedText": "วัน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "near00",
+      "TextList": [
+        {
+          "Line": 716,
+          "OriginalText": "Next time, maximum woo!",
+          "TranslatedText": "ครั้งต่อไป, สูงสุด woo!"
+        }
+      ]
+    }
+  ]
+}

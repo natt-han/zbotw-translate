@@ -1,0 +1,945 @@
+{
+  "FileName": "Npc_DressFairy_02",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Enhance away!",
+          "TranslatedText": "เสริมพลังเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "No, thanks.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": "ได้โปรด"
+        }
+      ]
+    },
+    {
+      "EntryName": "0003",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Never mind.",
+          "TranslatedText": "ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "0004",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Take a look.",
+          "TranslatedText": "ลองดู"
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "I\u0027d rather you not...",
+          "TranslatedText": "ฉันว่าไม่ดีกว่า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Revival00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Mmm... ",
+          "TranslatedText": "Mmm... "
+        },
+        {
+          "Line": 41,
+          "OriginalText": "So you\u0027re the one who brought\nme back from the brink.\n\nOh, my...",
+          "TranslatedText": "เธอเองสินะที่ทำให้ฉันกลับมา\nสดชื่นอีกครั้ง\nอุ๊ยตาย..."
+        },
+        {
+          "Line": 45,
+          "OriginalText": " I see now that my first\nimpression of you was correct. You\nmost definitely are pleasant to look at.\nHow would you like to live here with\nme,",
+          "TranslatedText": " ดูเหมือนว่าความรู้สึก\nของฉันในตอนแรกจะถูกนะ \nเธอนี่ช่างน่ามองจริงๆ อยากจะอยู่ที่นี่กับฉันมั้ยล่ะ"
+        },
+        {
+          "Line": 49,
+          "OriginalText": " hmm?",
+          "TranslatedText": " หืม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Revival00_1",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "Hah! ",
+          "TranslatedText": "ฮ่า! "
+        },
+        {
+          "Line": 62,
+          "OriginalText": "I\u0027m kidding, of course.",
+          "TranslatedText": "ล้อเล่นน่ะ"
+        },
+        {
+          "Line": 66,
+          "OriginalText": " But you\ncertainly are cute when you\u0027re\nblushing.",
+          "TranslatedText": " \nแต่เวลาเธอหน้าแดงนี่น่ารักดีนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Revival00_2",
+      "TextList": [
+        {
+          "Line": 70,
+          "OriginalText": "I really can\u0027t thank you enough, boy,",
+          "TranslatedText": "ฉันไม่รู้จะขอบคุณเธอยังไงถึงจะพอเลย หนุ่มน้อย"
+        },
+        {
+          "Line": 74,
+          "OriginalText": "\nbut that won\u0027t stop me from trying.",
+          "TranslatedText": "\nแต่นั่นไม่ได้แปลว่าฉันจะไม่ลองพยายามดูหรอกนะ"
+        },
+        {
+          "Line": 78,
+          "OriginalText": "\n\nIf you have the ",
+          "TranslatedText": "\nถ้าหากว่าเธอมี "
+        },
+        {
+          "Line": 82,
+          "OriginalText": "materials",
+          "TranslatedText": "วัตถุดิบ"
+        },
+        {
+          "Line": 85,
+          "OriginalText": " needed to\nenhance a piece of clothing,",
+          "TranslatedText": " ที่จำเป็น\nสำหรับการเสริมพลังละก็"
+        },
+        {
+          "Line": 89,
+          "OriginalText": " I will\n",
+          "TranslatedText": " ฉันจะ\n"
+        },
+        {
+          "Line": 93,
+          "OriginalText": "enhance",
+          "TranslatedText": "เสริมพลัง"
+        },
+        {
+          "Line": 96,
+          "OriginalText": " your ",
+          "TranslatedText": " ให้ "
+        },
+        {
+          "Line": 100,
+          "OriginalText": "clothes",
+          "TranslatedText": "ชุด"
+        },
+        {
+          "Line": 103,
+          "OriginalText": ".\nSo why don\u0027t you let me take a peek\nin that little pouch of yours?",
+          "TranslatedText": "ของเธอ\nเพราะงั้นทำไมไม่ลองให้ฉันดูของใน\nกระเป๋าใบน้อยของเธอดูหน่อยล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 112,
+          "OriginalText": "Mmmm, I thought I detected the\nfragrance of a young man nearby...\n\nSo...",
+          "TranslatedText": "Mmmm, ฉันก็คิดว่าได้กลิ่นของชายหนุ่มอยู่ไม่ไกล...\nแล้ว..."
+        },
+        {
+          "Line": 116,
+          "OriginalText": "you have some clothing you wish to\nenhance and the necessary materials?",
+          "TranslatedText": "เธอมีชุดที่อยากเสริมพลัง\nและวัตถุดิบที่ต้องใช่มั้ย?"
+        },
+        {
+          "Line": 120,
+          "OriginalText": "\nWhy don\u0027t you let me take a look?",
+          "TranslatedText": "\nทำไมไม่ให้ฉันลองเช็คดูล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 129,
+          "OriginalText": "Oh... ",
+          "TranslatedText": "โอ้... "
+        },
+        {
+          "Line": 133,
+          "OriginalText": "That\u0027s too bad.\n\n\nWon\u0027t you come see me again?",
+          "TranslatedText": "แย่จัง\nเธอจะมาหาฉันอีกมั้ย?"
+        },
+        {
+          "Line": 137,
+          "OriginalText": " I\u0027ll be\nwaiting...",
+          "TranslatedText": " ฉันจะรอนะ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 146,
+          "OriginalText": "I can feel it...",
+          "TranslatedText": "ฉันรู้สึกได้..."
+        },
+        {
+          "Line": 150,
+          "OriginalText": " My sisters\u0027 powers have\nnot yet been restored. ",
+          "TranslatedText": " พี่น้องของฉันยังไม่ได้พลังคืนมา\n"
+        },
+        {
+          "Line": 154,
+          "OriginalText": "Young man, if you\nmeet them, would you please help them?\nConsider it a...",
+          "TranslatedText": "หนุ่มน้อย ถ้าเธอพวกเขา\nช่วยพวกเขาหน่อยได้รึเปล่า?\nช่วยคิดว่า..."
+        },
+        {
+          "Line": 158,
+          "OriginalText": "special request from me.",
+          "TranslatedText": "เป็นคำขอร้องจากฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk06",
+      "TextList": [
+        {
+          "Line": 167,
+          "OriginalText": "And there we go... ",
+          "TranslatedText": "เรียบร้อยแล้ว... "
+        },
+        {
+          "Line": 171,
+          "OriginalText": "You should be able to\nfeel the care I put into that. ",
+          "TranslatedText": "เธอน่าจะรรับรู้ได้\nถึงความใส่ใจที่ฉันใส่ลงไปในชุดนั้น "
+        },
+        {
+          "Line": 175,
+          "OriginalText": "It radiates\noff those clothes...",
+          "TranslatedText": "มันส่องประกาย\nออกมาเลย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk08",
+      "TextList": [
+        {
+          "Line": 179,
+          "OriginalText": "So...",
+          "TranslatedText": "แล้ว..."
+        },
+        {
+          "Line": 183,
+          "OriginalText": "have you picked which clothes you\u0027d\nlike me to enhance?",
+          "TranslatedText": "ได้เลือกชุดที่ต้องการให้ฉันเสริมพลังหรือยัง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk09",
+      "TextList": [
+        {
+          "Line": 187,
+          "OriginalText": "\u266ATake care!\u266A",
+          "TranslatedText": "\u266Aเทคแคร์นะ!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk10",
+      "TextList": [
+        {
+          "Line": 191,
+          "OriginalText": "You want to know why you can\u0027t\nstrengthen it? Allow me to explain...",
+          "TranslatedText": "อยากรู้มั้ยว่าทำไมเธอถึง\nไม่อาจเสริมพลังมันได้? ขอให้ฉันได้อธิบาย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk11",
+      "TextList": [
+        {
+          "Line": 200,
+          "OriginalText": "I\u0027d love to enhance your clothing, but...",
+          "TranslatedText": "ฉันก็อยากเสริมพลังให้ชุดของเธอนะ แต่ว่า..."
+        },
+        {
+          "Line": 204,
+          "OriginalText": "\nYou know you aren\u0027t wearing any, right?\nOr carrying any...\nIf you get your hands on some clothes\nthat look like they could be enhanced,",
+          "TranslatedText": "\nเธอรู้ใช่มั้ยว่าเธอไม่ได้สวมอะไรอยู่เลย?\nถ้าหากได้เสื้อผ้าที่ดูแล้วน่าจะเสริมพลังได้มา"
+        },
+        {
+          "Line": 208,
+          "OriginalText": "\nstop by.",
+          "TranslatedText": "\nก็แวะมานะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk12",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "With the power available to me...",
+          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+        },
+        {
+          "Line": 221,
+          "OriginalText": "\nI should be able to enhance your\nclothing ",
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n"
+        },
+        {
+          "Line": 225,
+          "OriginalText": "a little bit",
+          "TranslatedText": "เล็กน้อย"
+        },
+        {
+          "Line": 228,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk13",
+      "TextList": [
+        {
+          "Line": 245,
+          "OriginalText": "With the power available to me...",
+          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+        },
+        {
+          "Line": 249,
+          "OriginalText": "\nI can enhance your clothing\n",
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n"
+        },
+        {
+          "Line": 253,
+          "OriginalText": "a fair amount",
+          "TranslatedText": "พอประมาณ"
+        },
+        {
+          "Line": 256,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk14",
+      "TextList": [
+        {
+          "Line": 273,
+          "OriginalText": "With the power available to me...",
+          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+        },
+        {
+          "Line": 277,
+          "OriginalText": "\nI can ",
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ "
+        },
+        {
+          "Line": 281,
+          "OriginalText": "greatly ",
+          "TranslatedText": "มากมาย "
+        },
+        {
+          "Line": 284,
+          "OriginalText": "enhance your clothing.",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk15",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "With the power available to me...",
+          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+        },
+        {
+          "Line": 305,
+          "OriginalText": "\nI can enhance your clothing ",
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ "
+        },
+        {
+          "Line": 309,
+          "OriginalText": "to the max",
+          "TranslatedText": "ถึงระดับสูงสุด"
+        },
+        {
+          "Line": 312,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk16",
+      "TextList": [
+        {
+          "Line": 329,
+          "OriginalText": "Young man...",
+          "TranslatedText": "พ่อหนุ่ม..."
+        },
+        {
+          "Line": 333,
+          "OriginalText": "you\u0027ve helped restore ",
+          "TranslatedText": "เธอได้ช่วยให้พี่น้องของฉัน "
+        },
+        {
+          "Line": 337,
+          "OriginalText": "\nmy sisters\u0027 powers.\n\n\u266AI\u0027m feeling extra special!\u266A",
+          "TranslatedText": "\nได้พลังคืนมา\n\n\u266Aฉันรู้สึกพิเศษมากๆ!\u266A"
+        },
+        {
+          "Line": 341,
+          "OriginalText": "\nIf you want to enhance your clothing,\ncome back anytime.",
+          "TranslatedText": "\nถ้าเธออยากเสริมพลังให้ชุดละก็ มาหาฉันได้ทุกเมื่อ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk17",
+      "TextList": [
+        {
+          "Line": 350,
+          "OriginalText": "OK. ",
+          "TranslatedText": "โอเค "
+        },
+        {
+          "Line": 354,
+          "OriginalText": "Got it!",
+          "TranslatedText": "ได้เลย!"
+        },
+        {
+          "Line": 358,
+          "OriginalText": " Now then...\n\u266AClose your eyes!\u266A",
+          "TranslatedText": " ถ้างั้นก็...\n\u266Aหลับตานะ!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk18",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "You want me to enhance your\n",
+          "TranslatedText": "อยากให้ฉันเสริมพลัง\n"
+        },
+        {
+          "Line": 372,
+          "OriginalText": ",",
+          "TranslatedText": ","
+        },
+        {
+          "Line": 376,
+          "OriginalText": " yeah?",
+          "TranslatedText": " ใช่มั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk19",
+      "TextList": [
+        {
+          "Line": 393,
+          "OriginalText": "You\u0027re telling me to enhance the\n",
+          "TranslatedText": "จะให้ฉันเสริมพลัง\n"
+        },
+        {
+          "Line": 398,
+          "OriginalText": ", yeah?",
+          "TranslatedText": ", งั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk20",
+      "TextList": [
+        {
+          "Line": 415,
+          "OriginalText": "You want to enhance the\n",
+          "TranslatedText": "อยากจะเสริมพลังให้กับ\n"
+        },
+        {
+          "Line": 420,
+          "OriginalText": ", correct? ",
+          "TranslatedText": ", ถูกมั้ย? "
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk21",
+      "TextList": [
+        {
+          "Line": 437,
+          "OriginalText": "I\u0027m gonna enhance the\n",
+          "TranslatedText": "ฉันจะเสริมพลังให้กับ\n"
+        },
+        {
+          "Line": 442,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 446,
+          "OriginalText": " Is that OK?",
+          "TranslatedText": " โอเคมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk22",
+      "TextList": [
+        {
+          "Line": 463,
+          "OriginalText": "Oh, no, no, no... ",
+          "TranslatedText": "โอ ไม่ๆๆ... "
+        },
+        {
+          "Line": 467,
+          "OriginalText": "I can\u0027t enhance this\nclothing item.",
+          "TranslatedText": "ฉันเสริมพลังให้ชุดนี้ไม่ได้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk23",
+      "TextList": [
+        {
+          "Line": 476,
+          "OriginalText": "No good... ",
+          "TranslatedText": "ไม่ไหว... "
+        },
+        {
+          "Line": 480,
+          "OriginalText": "I can\u0027t enhance that\nclothing item...",
+          "TranslatedText": "ฉันเสริมพลังให้ชุดนั้นไม่ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk24",
+      "TextList": [
+        {
+          "Line": 489,
+          "OriginalText": "I\u0027m sorry... ",
+          "TranslatedText": "ขอโทษนะ... "
+        },
+        {
+          "Line": 493,
+          "OriginalText": "That clothing item is\nimpossible to enhance...",
+          "TranslatedText": "ชุดนั้นมันเสริมพลังไม่ได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk25",
+      "TextList": [
+        {
+          "Line": 502,
+          "OriginalText": "I\u0027m sorry... ",
+          "TranslatedText": "ขอโทษนะ... "
+        },
+        {
+          "Line": 506,
+          "OriginalText": "It appears that it is\nimpossible to enhance that clothing\nitem...",
+          "TranslatedText": "ดูเหมือนว่ามันเป็นไปไม่ได้ที่จะ\nเสริมพลังให้กับชุดนั้น..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk26",
+      "TextList": [
+        {
+          "Line": 515,
+          "OriginalText": "To enhance that item, I need some power\nfrom my sisters...",
+          "TranslatedText": "การจะเสริมพลังให้ชุดนั้น ฉันต้องการพลังจกพี่น้องช่วย...\n"
+        },
+        {
+          "Line": 519,
+          "OriginalText": " If you see them, could\nyou please help restore their powers?",
+          "TranslatedText": " ถ้าเธอพบพวกนาง ช่วยฟื้นฟูพลังให้กับพวกนางได้ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk27",
+      "TextList": [
+        {
+          "Line": 528,
+          "OriginalText": "I cannot enhance that clothing item with\nmy power alone.",
+          "TranslatedText": "ฉันไม่สามารถเสริมพลังให้กับชุดนั้นได้ด้วยพลังของฉันคนเดียว\n"
+        },
+        {
+          "Line": 532,
+          "OriginalText": " I need to borrow some\npower from my sisters...",
+          "TranslatedText": " ฉันต้องยืมพลังบางส่วนจากพี่น้องของฉัน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk28",
+      "TextList": [
+        {
+          "Line": 541,
+          "OriginalText": "I can\u0027t right now... ",
+          "TranslatedText": "ฉันยังทำไม่ได้... "
+        },
+        {
+          "Line": 545,
+          "OriginalText": "However, if my sisters\nwere able to lend me their power,",
+          "TranslatedText": "แต่ว่า ถ้าพี่น้องของฉัน\nให้ฉันยืมพลังได้"
+        },
+        {
+          "Line": 549,
+          "OriginalText": " then I\ncould enhance that clothing item...",
+          "TranslatedText": " ฉันก็จะ\nเสริมพลังให้ชุดนั้นได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk29",
+      "TextList": [
+        {
+          "Line": 558,
+          "OriginalText": "Oh? ",
+          "TranslatedText": "อ้อ? "
+        },
+        {
+          "Line": 562,
+          "OriginalText": "If you want me to enhance that\nclothing item,",
+          "TranslatedText": "ถ้าเธออยากให้ฉันเสริมพลังให้ชุดนั้น\n"
+        },
+        {
+          "Line": 566,
+          "OriginalText": " then you will need to\nawaken my sisters, as well...",
+          "TranslatedText": " เธอต้องปลุกพี่น้องของฉันขึ้นมาด้วย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk30",
+      "TextList": [
+        {
+          "Line": 575,
+          "OriginalText": "Oh, myyy... ",
+          "TranslatedText": "อุ๊ยตายแล้ว... "
+        },
+        {
+          "Line": 579,
+          "OriginalText": "You don\u0027t seem to have the\nmaterials needed to enhance that\nclothing item.",
+          "TranslatedText": "เธอไม่มีวัตถุที่ต้องใช้\nสำหรับการเสริมพลังชุดนั้น"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk31",
+      "TextList": [
+        {
+          "Line": 588,
+          "OriginalText": "You don\u0027t have the necessary materials...",
+          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ..."
+        },
+        {
+          "Line": 592,
+          "OriginalText": "\n\u266AAll in good time, boy.\u266A",
+          "TranslatedText": "\n\u266Aไม่ต้องรีบนะ หนุ่มน้อย\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk32",
+      "TextList": [
+        {
+          "Line": 601,
+          "OriginalText": "You don\u0027t have the necessary materials...",
+          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ..."
+        },
+        {
+          "Line": 605,
+          "OriginalText": "\n\u266AAll in good time, boy.\u266A",
+          "TranslatedText": "\n\u266Aไม่ต้องรีบนะ หนุ่มน้อย\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk33",
+      "TextList": [
+        {
+          "Line": 614,
+          "OriginalText": "Notice anything missing?",
+          "TranslatedText": "เห็นมั้ยว่าขาดอะไรไป?"
+        },
+        {
+          "Line": 618,
+          "OriginalText": " You don\u0027t\nhave the materials needed to strengthen\nthat clothing item.",
+          "TranslatedText": " เธอไม่มี\nวัตถุดิบที่ต้องใช้ในการเสริมพลังชุดนั้นนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk34",
+      "TextList": [
+        {
+          "Line": 630,
+          "OriginalText": "Ahh-haaaaan!",
+          "TranslatedText": "Ahh-haaaaan!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk35",
+      "TextList": [
+        {
+          "Line": 645,
+          "OriginalText": "Ooooh-hoooon!!",
+          "TranslatedText": "Ooooh-hoooon!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk36",
+      "TextList": [
+        {
+          "Line": 660,
+          "OriginalText": "Hahhhhh!",
+          "TranslatedText": "Hahhhhh!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk37",
+      "TextList": [
+        {
+          "Line": 675,
+          "OriginalText": "AHHH-PHOOON!",
+          "TranslatedText": "AHHH-PHOOON!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk38",
+      "TextList": [
+        {
+          "Line": 682,
+          "OriginalText": "Aw, ooh... ",
+          "TranslatedText": "Aw, ooh... "
+        },
+        {
+          "Line": 686,
+          "OriginalText": "You want something else?",
+          "TranslatedText": "ต้องการอะไรอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk39",
+      "TextList": [
+        {
+          "Line": 690,
+          "OriginalText": "Oh, my... ",
+          "TranslatedText": "อุ๊ยตาย... "
+        },
+        {
+          "Line": 694,
+          "OriginalText": "Did you make a mistake?",
+          "TranslatedText": "เลือกผิดงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk40",
+      "TextList": [
+        {
+          "Line": 698,
+          "OriginalText": "Oooh... ",
+          "TranslatedText": "Oooh... "
+        },
+        {
+          "Line": 702,
+          "OriginalText": "Not that one?",
+          "TranslatedText": "ไม่ใช่งั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk41",
+      "TextList": [
+        {
+          "Line": 706,
+          "OriginalText": "Teasing me?",
+          "TranslatedText": "หลอกฉันเหรอ?"
+        },
+        {
+          "Line": 710,
+          "OriginalText": "\nYou little meanie...",
+          "TranslatedText": "\nหนุ่มน้อยขี้แกล้ง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk42",
+      "TextList": [
+        {
+          "Line": 719,
+          "OriginalText": "Oh, my.",
+          "TranslatedText": "โอ้"
+        },
+        {
+          "Line": 723,
+          "OriginalText": " You don\u0027t have any clothing that\nI can enhance? That won\u0027t do at all!\n\nLet me take a look at your things.",
+          "TranslatedText": " เธอไม่ชุดที่ฉันเสริมพลังได้เลยเหรอ? \nแบบนี้ไม่ได้นะ!\nลองมาดูของที่เธอมีกัน"
+        },
+        {
+          "Line": 727,
+          "OriginalText": "\nMaybe we can find something I can\nhelp you with...",
+          "TranslatedText": "\nบางทีเราอาจจะเจออะไรที่ฉันช่วยได้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk43",
+      "TextList": [
+        {
+          "Line": 739,
+          "OriginalText": "...Oh, my. ",
+          "TranslatedText": "...อุ๊ยตาย "
+        },
+        {
+          "Line": 743,
+          "OriginalText": "Do you have any other clothes\nI can enhance right now?",
+          "TranslatedText": "เธอมีชุดที่อยากให้ฉันเสริมพลังอีกมั้ย?\n"
+        },
+        {
+          "Line": 747,
+          "OriginalText": " It doesn\u0027t\nseem so, as much as I would like to...",
+          "TranslatedText": " ดูเหมือนว่าจะไม่มีนะ ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk44",
+      "TextList": [
+        {
+          "Line": 751,
+          "OriginalText": "If you gather more materials or return my\nsisters to their former glory, come back\nto see me!",
+          "TranslatedText": "ถ้าเธอมีวัตถุดิบมากกว่านี้\nหรือว่าช่วยให้พี่น้องของฉันได้พลังคืนมาล่ะก็\nกลับมาหาฉันนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk45",
+      "TextList": [
+        {
+          "Line": 755,
+          "OriginalText": "If you find any new clothes that you want\nme to enhance, come back to see me!",
+          "TranslatedText": "ถ้าหากมีชุดใหม่ๆ ที่อยากให้ฉันเสริมพลังล่ะก็\nกลับมาหาฉันนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk46",
+      "TextList": [
+        {
+          "Line": 759,
+          "OriginalText": "Have you got other clothes you\u0027d like me\nto work my magic on?",
+          "TranslatedText": "มีชุดอื่นที่อยากให้ฉันช่วยใช้เวทมนตร์ของฉันอีกมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk47",
+      "TextList": [
+        {
+          "Line": 771,
+          "OriginalText": "BWAAAAAAHHHH!",
+          "TranslatedText": "BWAAAAAAHHHH!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk48",
+      "TextList": [
+        {
+          "Line": 778,
+          "OriginalText": "HAAAAAAAAAAAAA!!",
+          "TranslatedText": "HAAAAAAAAAAAAA!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk49",
+      "TextList": [
+        {
+          "Line": 788,
+          "OriginalText": "AH-HAAAAAAAAA!!",
+          "TranslatedText": "AH-HAAAAAAAAA!!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk50",
+      "TextList": [
+        {
+          "Line": 800,
+          "OriginalText": "There you go! You should be able to\nfeel the care I put into this...",
+          "TranslatedText": "เรียบร้อย! เธอน่าจะรับรู้ได้ถึงความใส่ใจ\nที่ฉันใส่ลงไปนะ..."
+        },
+        {
+          "Line": 804,
+          "OriginalText": "\nOh... ",
+          "TranslatedText": "\nอ้อ... "
+        },
+        {
+          "Line": 808,
+          "OriginalText": "I just remembered...\nThere are some items in the world that,\nwhen twice enhanced and worn as a set,\ncan give you a nice set bonus.\nOnly some items, though!",
+          "TranslatedText": "เพิ่งนึกได้...\nมีไอเท็มบางชิ้นในโลกนี้ที่เมื่อทำการเสริมพลัง\nสองครั้งขึ้นไปและสวมใส่เป็นเซ็ต\nมันจะมอบโบนัสให้\nแค่บางชิ้นเท่านั้นนะ!"
+        },
+        {
+          "Line": 812,
+          "OriginalText": "\n\u266ANo promises!\u266A",
+          "TranslatedText": "\n\u266Aไม่การันตี!\u266A"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk51",
+      "TextList": [
+        {
+          "Line": 819,
+          "OriginalText": "AH HAHAHAHAHAAA!!",
+          "TranslatedText": "AH HAHAHAHAHAAA!!"
+        }
+      ]
+    }
+  ]
+}

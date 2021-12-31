@@ -1,0 +1,2455 @@
+{
+  "FileName": "Npc_Kakariko001",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I am.",
+          "TranslatedText": "พร้อมแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I don\u0027t know...",
+          "TranslatedText": "ฉันไม่รู้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Hateno Village?",
+          "TranslatedText": "หมู่บ้าน Hateno ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Understood.",
+          "TranslatedText": "เข้าใจแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "Four Divine Beasts?",
+          "TranslatedText": "สี่ Divine Beast?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0008",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Four Divine Beasts?",
+          "TranslatedText": "สี่ Divine Beasts?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "My memories?",
+          "TranslatedText": "ความทรงจำของฉัน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0010",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "I won\u0027t fail.",
+          "TranslatedText": "ฉันจะไม่พลาด"
+        }
+      ]
+    },
+    {
+      "EntryName": "0011",
+      "TextList": [
+        {
+          "Line": 40,
+          "OriginalText": "Where should I go?",
+          "TranslatedText": "ควรไปไหนต่อดี?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0013",
+      "TextList": [
+        {
+          "Line": 44,
+          "OriginalText": "10,000 years ago?",
+          "TranslatedText": "10,000 ปีก่อน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha00",
+      "TextList": [
+        {
+          "Line": 53,
+          "OriginalText": "What is the matter?",
+          "TranslatedText": "เป็นอะไรไป?"
+        },
+        {
+          "Line": 57,
+          "OriginalText": "\n\n\nYou are looking at me as though I am a\nstranger to you. Those eyes... They lack\nthe light of familiarity.\nIt is I, courageous one. Impa.",
+          "TranslatedText": "\nนายมองฉันอย่างกับว่าฉันเป็น\nคนแปลกหน้าอย่างนั้นแหละ สายตานั่น...\nมันดูขาดแววตาของความคุ้นเคย.\nนี่ฉันเองไง พ่อคนกล้า Impa."
+        },
+        {
+          "Line": 61,
+          "OriginalText": "\nSurely you must at least remember\nthe name Impa?",
+          "TranslatedText": "\nอย่างน้อยนายต้องจำชื่อของฉันได้แน่\nImpa น่ะ ใช่ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha01",
+      "TextList": [
+        {
+          "Line": 76,
+          "OriginalText": "However!",
+          "TranslatedText": "แต่ว่า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha02",
+      "TextList": [
+        {
+          "Line": 91,
+          "OriginalText": "These words, which the princess risked\nher life to leave you...",
+          "TranslatedText": "ข้อความที่เจ้าหญิงเสี่ยงชีวิตของเธอ\nเพื่อฝากไว้ให้นายนั้น..."
+        },
+        {
+          "Line": 95,
+          "OriginalText": " Well, if you are to\nhear them...\n",
+          "TranslatedText": " ถ้าหากว่านาย\nได้ฟังแล้ว...\n"
+        },
+        {
+          "Line": 101,
+          "OriginalText": "You must be prepared to risk your life\nas well.",
+          "TranslatedText": "นายต้องเตรียมใจที่จะเสี่ยงชีวิตของนาย\nด้วยเช่นกัน"
+        },
+        {
+          "Line": 105,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 111,
+          "OriginalText": "But I am afraid that burden ",
+          "TranslatedText": "แต่ฉันกลัวว่าภาระนั้น "
+        },
+        {
+          "Line": 115,
+          "OriginalText": "may be too\nmuch to bear while you are still without\nyour memories.\n",
+          "TranslatedText": "อาจจะหนัก\nเกินไปสำหรับนาย ในเมื่อนายยัง\nจำอะไรไม่ได้เลย\n"
+        },
+        {
+          "Line": 121,
+          "OriginalText": "I leave the choice to you. When you feel\nyou are ready to receive the princess\u0027s\nmessage, return to me.",
+          "TranslatedText": "ฉันจะให้นายเป็นคนเลือกเอง เมื่อนายคิดว่า\nพร้อมที่จะฟังข้อความของเจ้าหญิงแล้ว\nค่อยกลับมาหาฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha03",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "I see... ",
+          "TranslatedText": "อย่างนี้เองเหรอ... "
+        },
+        {
+          "Line": 134,
+          "OriginalText": "So you have lost your memory.",
+          "TranslatedText": "นายสุญเสียความทรงจำสินะ"
+        },
+        {
+          "Line": 138,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 144,
+          "OriginalText": "Well, it matters not. ",
+          "TranslatedText": "เอาเถอะ มันไม่สำคัญหรอก "
+        },
+        {
+          "Line": 148,
+          "OriginalText": "In fact, that may\nactually be a blessing in disguise for\nthe time being.\nDearest Link... ",
+          "TranslatedText": "ที่จริงแล้ว\nนั่นอาจจะเป็นเรื่องดีก็ได้\nสำหรับตอนนี้\nLink... "
+        },
+        {
+          "Line": 152,
+          "OriginalText": "Please come a bit closer.",
+          "TranslatedText": "ช่วยเข้ามาใกล้อีกหน่อย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha06",
+      "TextList": [
+        {
+          "Line": 161,
+          "OriginalText": "A hundred years ago...",
+          "TranslatedText": "เมื่อหนึ่งร้อยปีก่อน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha07",
+      "TextList": [
+        {
+          "Line": 173,
+          "OriginalText": "Yes...",
+          "TranslatedText": "ใช่แล้ว..."
+        },
+        {
+          "Line": 177,
+          "OriginalText": " A hundred years ago, the kingdom\nof Hyrule was destroyed.\n\nAfter you fell, Princess Zelda\u0027s final wish\nwas to place you in a sacred slumber.\n\nAnd then...all alone...",
+          "TranslatedText": " เมื่อหนึ่งร้อยปีก่อน\nอาณาจัก Hyrule ได้ถูกทำลาย\nหลังจากที่นายล้มลง ความปรารถนาสุดท้ายของเจ้าหญิง Zelda\nก็คือให้เจ้าได้หลับอย่างสงบ\nจากนั้น...ด้วยตัวคนเดียว..."
+        },
+        {
+          "Line": 181,
+          "OriginalText": " Alone she went\nto face ",
+          "TranslatedText": " เธอออกไป\nเผชิญหน้ากับ "
+        },
+        {
+          "Line": 185,
+          "OriginalText": "Ganon",
+          "TranslatedText": "Ganon"
+        },
+        {
+          "Line": 188,
+          "OriginalText": ".",
+          "TranslatedText": "เพียงลำพัง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha08",
+      "TextList": [
+        {
+          "Line": 197,
+          "OriginalText": "Before Princess Zelda went to nobly\nmeet her fate...she entrusted me with\n",
+          "TranslatedText": "ก่อนที่เจ้าหญิง Zelda จะออกไป\nเผชิญกับชะตาของเธอ...เธอได้ฝาก\n"
+        },
+        {
+          "Line": 201,
+          "OriginalText": "some words ",
+          "TranslatedText": "ข้อความ "
+        },
+        {
+          "Line": 204,
+          "OriginalText": "she wished to say to you.\n",
+          "TranslatedText": "ที่ต้องการบอกนายไว้กับฉัน.\n"
+        },
+        {
+          "Line": 210,
+          "OriginalText": "I have been waiting 100 years ",
+          "TranslatedText": "ฉันได้รอมาเป็นเวลา 100 ปี "
+        },
+        {
+          "Line": 214,
+          "OriginalText": "to\ndeliver the princess\u0027s message.",
+          "TranslatedText": "เพื่อ\nจะถ่ายทอดข้อความของเจ้าหญิง"
+        }
+      ]
+    },
+    {
+      "EntryName": "CarryingBlueFireEXMini02",
+      "TextList": [
+        {
+          "Line": 223,
+          "OriginalText": "Huh...",
+          "TranslatedText": "หือ..."
+        },
+        {
+          "Line": 227,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 233,
+          "OriginalText": "I heard Purah was giving you the\nrunaround, but you seem just fine.",
+          "TranslatedText": "ฉันได้ยินว่า Purah ใช้งานนายจนหัวหมุน\nแต่ดูเหมือนว่าจะยังสบายดีนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "CarryingBlueFireEXMini03",
+      "TextList": [
+        {
+          "Line": 242,
+          "OriginalText": "Now then...",
+          "TranslatedText": "เอาล่ะ..."
+        },
+        {
+          "Line": 246,
+          "OriginalText": " Let me see.",
+          "TranslatedText": " ไหนดูซิ"
+        }
+      ]
+    },
+    {
+      "EntryName": "CarryingBlueFireEXMini05",
+      "TextList": [
+        {
+          "Line": 255,
+          "OriginalText": "Aha!",
+          "TranslatedText": "อาฮ่า!"
+        },
+        {
+          "Line": 259,
+          "OriginalText": " This is, without a doubt, the ",
+          "TranslatedText": " ไม่ต้องสงสัยเลยว่านี่คือ "
+        },
+        {
+          "Line": 263,
+          "OriginalText": "Camera",
+          "TranslatedText": "Camera"
+        },
+        {
+          "Line": 266,
+          "OriginalText": "\nthat Princess Zelda used 100 years ago.",
+          "TranslatedText": "\nที่เจ้าหญิง Zelda เคยใช้เมื่อ 100 ปีก่อน"
+        }
+      ]
+    },
+    {
+      "EntryName": "CarryingBlueFireEXMini06",
+      "TextList": [
+        {
+          "Line": 275,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 279,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 285,
+          "OriginalText": "It could be that if you visit the locations\nwithin those ",
+          "TranslatedText": "บางทีถ้านายไปยังสถานที่ตาม\n"
+        },
+        {
+          "Line": 289,
+          "OriginalText": "pictures",
+          "TranslatedText": "pictures"
+        },
+        {
+          "Line": 292,
+          "OriginalText": ", ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 296,
+          "OriginalText": "you will be able\nto restore some of your lost memories.",
+          "TranslatedText": "นายอาจจะ\nฟื้นฟูความทรงจำบางส่วนได้"
+        }
+      ]
+    },
+    {
+      "EntryName": "ChottoMatte00",
+      "TextList": [
+        {
+          "Line": 305,
+          "OriginalText": "Princess Zelda is fighting ",
+          "TranslatedText": "เจ้าหญิง Zelda กำลังสู้กับ "
+        },
+        {
+          "Line": 309,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 312,
+          "OriginalText": "\nall alone.",
+          "TranslatedText": "\nเพียงลำพัง"
+        },
+        {
+          "Line": 316,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 322,
+          "OriginalText": "You are the only one who can save her\u2014\nthe only one who can save Hyrule.\nNow go. You must!",
+          "TranslatedText": "นายเป็นเพียงคนเดียวที่สามารถช่วยเจ้าหญิงได้\u2014\nเพียงคนเดียวที่สามารถช่วย Hyrule\nไปเถอะ นายต้องไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_CarryingBlueFireEXMini",
+      "TextList": [
+        {
+          "Line": 331,
+          "OriginalText": "I apologize... ",
+          "TranslatedText": "ขออภัย... "
+        },
+        {
+          "Line": 335,
+          "OriginalText": "It seems I strayed from\nthe topic at hand.",
+          "TranslatedText": "ดูเหมือนว่าฉันจะพูด\nนอกเรื่องไปหน่อย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_Comp_Find_4Relic",
+      "TextList": [
+        {
+          "Line": 344,
+          "OriginalText": "By the way...",
+          "TranslatedText": "ว่าแต่ว่า..."
+        },
+        {
+          "Line": 348,
+          "OriginalText": " How are you faring\nthus far?",
+          "TranslatedText": " การเดินทางของนายเป็นยังไงบ้าง?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_Demo309_0",
+      "TextList": [
+        {
+          "Line": 357,
+          "OriginalText": "Ah, that\u0027s right...",
+          "TranslatedText": "อ้อ ใช่แล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_Find_4Relic_One",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "I am curious how your adventure is\ngoing so far...",
+          "TranslatedText": "ฉันสงสัยว่าการเดินทางของนาย\nไปถึงไหนแล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_Find_4Relic_TwoOrMore",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "By the way...",
+          "TranslatedText": "อีกอย่างหนึ่ง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_Give_ChampionShirt",
+      "TextList": [
+        {
+          "Line": 390,
+          "OriginalText": "Ah, that\u0027s right...",
+          "TranslatedText": "อ้อ ใช่แล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Connective_PictureMemory_All",
+      "TextList": [
+        {
+          "Line": 399,
+          "OriginalText": "Ah, that\u0027s right...",
+          "TranslatedText": "อ้อ ใช่แล้ว..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk00",
+      "TextList": [
+        {
+          "Line": 411,
+          "OriginalText": "...So you\u0027re finally awake.",
+          "TranslatedText": "...ในที่สุดก็ตื่นสักทีนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk01",
+      "TextList": [
+        {
+          "Line": 426,
+          "OriginalText": "It has been quite a long time...Link.\n\n\n",
+          "TranslatedText": "มันช่างเป็นเวลานานเหลือเกินนะ...Link\n"
+        },
+        {
+          "Line": 430,
+          "OriginalText": "I am much older now, but...\nyou remember me, don\u0027t you?",
+          "TranslatedText": "ฉันแก่ขึ้นกว่าเดิมมาก แต่ว่า...\nนายยังจำฉันได้ใช่ไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk02",
+      "TextList": [
+        {
+          "Line": 439,
+          "OriginalText": "The words that the princess risked her\nlife to impart to you...",
+          "TranslatedText": "ข้อความที่เจ้าหญิงได้เสี่ยงชีวิตของเธอ\nเพื่อที่จะส่งต่อให้กับนาย..."
+        },
+        {
+          "Line": 443,
+          "OriginalText": "I cannot pass them\non to someone who lacks conviction.\nAre you prepared to risk your life\nfor the greater good?",
+          "TranslatedText": "ฉันไม่อาจมอบมัน\nให้กับคนที่ขาดการเตรียมใจ\nนายเพื่อที่จะเสียงชีวิต\nเพื่อโลกนี้รึเปล่า?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk05",
+      "TextList": [
+        {
+          "Line": 460,
+          "OriginalText": "Very well.",
+          "TranslatedText": "ดีมาก"
+        },
+        {
+          "Line": 464,
+          "OriginalText": "\n\n\nSince you have lost your memory,",
+          "TranslatedText": "\nในเมื่อนายสูญเสียความทรงจำ"
+        },
+        {
+          "Line": 468,
+          "OriginalText": " I will\nrecount for you all that has happened...",
+          "TranslatedText": " ฉันจะ\nทบทวนให้ ถึงสิ่งที่เกิดขึ้น..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk06",
+      "TextList": [
+        {
+          "Line": 480,
+          "OriginalText": "Very well.",
+          "TranslatedText": "เข้าใจแล้ว"
+        },
+        {
+          "Line": 484,
+          "OriginalText": " Since you lost your memory,",
+          "TranslatedText": " ในเมื่อนายสูญเสียความทรงจำ"
+        },
+        {
+          "Line": 488,
+          "OriginalText": "\nI will gladly tell you as many times as\nyou need me to.",
+          "TranslatedText": "\nฉันยินดีที่จะเล่าซ้ำ มากเท่าที่ต้องการ"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk07",
+      "TextList": [
+        {
+          "Line": 497,
+          "OriginalText": "A hundred years ago...",
+          "TranslatedText": "เมื่อหนึ่งร้อยปีก่อน..."
+        },
+        {
+          "Line": 501,
+          "OriginalText": "\n\n\nin preparation for the foretold revival of\nGanon, ",
+          "TranslatedText": "\nเพื่อที่จะเตรียมการสำหรับการฟื้นคืนชีพของ\nGanon "
+        },
+        {
+          "Line": 505,
+          "OriginalText": "we strove to follow the lead of\nour ancestors of 10,000 years prior.",
+          "TranslatedText": "เราพยายามที่จะทำตาม\nบรรพบุรุษของเราเมื่อ 10,000 ปีก่อน"
+        },
+        {
+          "Line": 509,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 515,
+          "OriginalText": "But...in the end...",
+          "TranslatedText": "แต่...สุดท้าย..."
+        },
+        {
+          "Line": 519,
+          "OriginalText": "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n",
+          "TranslatedText": "\nแม้ว่าเราจะพยายามอย่างเต็มที่ และวางแผน\nอย่างรอบคอบ เราก็ยังประเมินพลังของมันต่ำเกินไป\n"
+        },
+        {
+          "Line": 525,
+          "OriginalText": "In order to avoid ever making that grave\nmistake again, ",
+          "TranslatedText": "เพื่อที่จะไม่ให้เกิดความผิดพลาดเช่นนั้น\nอีกครั้ง "
+        },
+        {
+          "Line": 529,
+          "OriginalText": "the princess left you\nthese words...",
+          "TranslatedText": "เจ้าหญิงจึงได้ทิ้งข้อความ\nนี้ไว้ให้นาย..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk08",
+      "TextList": [
+        {
+          "Line": 538,
+          "OriginalText": "A hundred years ago...",
+          "TranslatedText": "เมื่อร้อยปีก่อน..."
+        },
+        {
+          "Line": 542,
+          "OriginalText": "\n\n\nin preparation for the foretold revival of\n",
+          "TranslatedText": "\nในการเตรียมตัวสำหรับการคืนชีพของ\n"
+        },
+        {
+          "Line": 546,
+          "OriginalText": "Ganon",
+          "TranslatedText": "Ganon"
+        },
+        {
+          "Line": 549,
+          "OriginalText": ", ",
+          "TranslatedText": ", "
+        },
+        {
+          "Line": 553,
+          "OriginalText": "we strove to follow the lead of\nour ancestors of 10,000 years prior.",
+          "TranslatedText": "เราทำตามการชี้นำของ\nบรรพบุรุษเมื่อ 10,000 ปีก่อน"
+        },
+        {
+          "Line": 557,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 563,
+          "OriginalText": "But...in the end...",
+          "TranslatedText": "แต่...สุดท้าย..."
+        },
+        {
+          "Line": 567,
+          "OriginalText": "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n",
+          "TranslatedText": "\nแม้ว่าเราจะพยายามและวางแผนอย่างดี\nเราก็ยังประเมินพลังของมันต่ำไป\n"
+        },
+        {
+          "Line": 573,
+          "OriginalText": "We must never again make that mistake.\nThe ",
+          "TranslatedText": "เราต้องไม่ทำผิดซ้ำ\n"
+        },
+        {
+          "Line": 577,
+          "OriginalText": "princess ",
+          "TranslatedText": "เจ้าหญิง "
+        },
+        {
+          "Line": 580,
+          "OriginalText": "has left the future of Hyrule\nin your hands.",
+          "TranslatedText": "ได้ฝากอนาคตของ Hyrule\nไว้ในมือนาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk_consecutive",
+      "TextList": [
+        {
+          "Line": 589,
+          "OriginalText": "Is something wrong?",
+          "TranslatedText": "เป็นอะไรไป?"
+        },
+        {
+          "Line": 593,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 599,
+          "OriginalText": "Do not tell me the steel has slipped from\nyour spine...\n\n",
+          "TranslatedText": "อย่าบอกนะว่านายกลายเป็นคนขี้ขลาดไปแล้ว...\n"
+        },
+        {
+          "Line": 605,
+          "OriginalText": "I realize you have just awoken. I am\nnot suggesting that you must defeat\n",
+          "TranslatedText": "ฉันรู้ว่านายเพิ่งตื่นขึ้นมา\nฉันไม่ได้บอกว่านายต้องเอาชนะ\n"
+        },
+        {
+          "Line": 609,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 612,
+          "OriginalText": " right this moment.\n",
+          "TranslatedText": " ในตอนนี้\n"
+        },
+        {
+          "Line": 618,
+          "OriginalText": "For now, you should focus on getting\nthat broken ",
+          "TranslatedText": "ก่อนอื่น นายควรจะสนใจเรื่องการ\nซ่อม "
+        },
+        {
+          "Line": 622,
+          "OriginalText": "Sheikah Slate ",
+          "TranslatedText": "Sheikah Slate "
+        },
+        {
+          "Line": 625,
+          "OriginalText": "fixed.\n\nHurry to the ",
+          "TranslatedText": "พังๆ นั่น\nรีบไปยัง "
+        },
+        {
+          "Line": 629,
+          "OriginalText": "research lab ",
+          "TranslatedText": "ห้องวิจัย "
+        },
+        {
+          "Line": 632,
+          "OriginalText": "in\n",
+          "TranslatedText": "ใน\n"
+        },
+        {
+          "Line": 636,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": "หมู่บ้าน Hateno "
+        },
+        {
+          "Line": 639,
+          "OriginalText": ".",
+          "TranslatedText": " ซะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Give_ChampionShirt_00",
+      "TextList": [
+        {
+          "Line": 658,
+          "OriginalText": "Now that you have seen some of the\nprincess\u0027s memories, you must have\nstarted to remember certain things...\nHere. I will hand this over to you now,\nbefore I forget.",
+          "TranslatedText": "ในเมื่อนายได้เห็นความทรงจำของ\nเจ้าหญิงบางส่วนแล้ว นายคงเริ่ม\nที่จะจำอะไรได้บ้างแล้ว...\nเอ้านี่ ให้จะให้สิ่งนี้กับนาย\nก่อนที่ฉันจะลืม"
+        }
+      ]
+    },
+    {
+      "EntryName": "Give_ChampionShirt_10",
+      "TextList": [
+        {
+          "Line": 667,
+          "OriginalText": "This is something of yours that I have\nbeen keeping safe, by request of\nthe princess.\nThis clothing was specially made for\nyou when you became a Champion.\nPlease handle it with care.",
+          "TranslatedText": "นี่เป็นของของนาย ที่ฉันได้\nเก็บรักษาเอาไว้ ตามคำขอ\nของเจ้าหญิง\nชุดนี้เป็นชุดที่ทำขึ้นมาพิเศษ\nเพื่อนาย ตอนที่ได้เป็น Champion\nโปรดใช้มันให้ดี"
+        }
+      ]
+    },
+    {
+      "EntryName": "Kotoba00",
+      "TextList": [
+        {
+          "Line": 679,
+          "OriginalText": "Free the four Divine Beasts",
+          "TranslatedText": "ปลดปล่อย Divine Beast ทั้งสี่"
+        },
+        {
+          "Line": 682,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 686,
+          "OriginalText": "\nThat is what she said.",
+          "TranslatedText": "\nนั่นคือข้อความของเธอ"
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer",
+      "TextList": [
+        {
+          "Line": 698,
+          "OriginalText": "Put on some clothes!",
+          "TranslatedText": "ใส่เสื้อผ้าซะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Sayonara00",
+      "TextList": [
+        {
+          "Line": 707,
+          "OriginalText": "Oh? I see...",
+          "TranslatedText": "อ้อ? งั้นเหรอ..."
+        },
+        {
+          "Line": 711,
+          "OriginalText": "\n\n\nThere was a time when you would have\nfearlessly charged forward on such a\nchallenge without a moment\u0027s hesitation.",
+          "TranslatedText": "\nเคยมีเวลาที่นายคงจะ\nพุ่งไปข้างหน้าอย่างไม่เกรงกลัว\nต่อความท้าทายโดยไม่ลังเลยแม้แต่น้อย"
+        },
+        {
+          "Line": 715,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 721,
+          "OriginalText": "Well, it is what it is. In any case, please\nreturn here once your heart remembers\nwhat your mind has forgotten.",
+          "TranslatedText": "เอาเถอะ ก็เป็นอย่างนั้นละนะ\nถ้าหากว่าหัวใจของนายระลึกถึงสิ่งที่ใจของนายหลงลืมไปได้แล้ว\nกลับมาหาฉันนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Sayonara01",
+      "TextList": [
+        {
+          "Line": 730,
+          "OriginalText": "I have been waiting for 100 years.",
+          "TranslatedText": "ฉันรอมาเป็นเวลา  100 ปีแล้ว"
+        },
+        {
+          "Line": 734,
+          "OriginalText": "\nNeedless to say, I can certainly wait\na bit longer, if I must.",
+          "TranslatedText": "\nแน่นอนว่าฉันสามารถรอต่อไป\nได้อีกหน่อย ถ้าต้องทำ"
+        },
+        {
+          "Line": 738,
+          "OriginalText": "\nThis is an important decision. You must\nnot make it lightly.",
+          "TranslatedText": "\nนี่เป็นการตัดสินใจสำคัญ นายต้อง\nคิดให้ดี"
+        },
+        {
+          "Line": 742,
+          "OriginalText": " Please take your\ntime thinking it over.",
+          "TranslatedText": " ใช้เวลาคิด\nให้รอบคอบเถอะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "SecondTalk01",
+      "TextList": [
+        {
+          "Line": 754,
+          "OriginalText": "You\u0027re still here?\n\n\n",
+          "TranslatedText": "ยังอยู่นี่อีกเหรอ?\n"
+        },
+        {
+          "Line": 760,
+          "OriginalText": "Princess Zelda gifted that ",
+          "TranslatedText": "เจ้าหญิง Zelda มอบ "
+        },
+        {
+          "Line": 764,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 767,
+          "OriginalText": "\nto you. ",
+          "TranslatedText": "\nนั่นให้กับนาย "
+        },
+        {
+          "Line": 771,
+          "OriginalText": "It is the only guide that can lead\nyou to ",
+          "TranslatedText": "มันเป็นสิ่งเดียวที่จะนำทางให้นาย\nไปหา "
+        },
+        {
+          "Line": 775,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 778,
+          "OriginalText": ".\nBut you cannot use it to its full potential\nin its present state...",
+          "TranslatedText": "\nแต่ในตอนนี้นายยังไม่สามารถใช้พลังของมัน\nได้อย่างเต็มที่..."
+        }
+      ]
+    },
+    {
+      "EntryName": "SecondTalk01_ch3",
+      "TextList": [
+        {
+          "Line": 787,
+          "OriginalText": "Hurry to",
+          "TranslatedText": "รีบไปยัง"
+        },
+        {
+          "Line": 791,
+          "OriginalText": " Hateno Village",
+          "TranslatedText": " หมู่บ้าน Hateno"
+        },
+        {
+          "Line": 794,
+          "OriginalText": ".",
+          "TranslatedText": "เถอะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "SecondTalk01_ch4",
+      "TextList": [
+        {
+          "Line": 812,
+          "OriginalText": "Hurry to ",
+          "TranslatedText": "รีบไปยัง "
+        },
+        {
+          "Line": 816,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": "หมู่บ้าน Hateno "
+        },
+        {
+          "Line": 819,
+          "OriginalText": ".",
+          "TranslatedText": "เถอะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju00",
+      "TextList": [
+        {
+          "Line": 838,
+          "OriginalText": "The ",
+          "TranslatedText": "The "
+        },
+        {
+          "Line": 842,
+          "OriginalText": "four Divine Beasts ",
+          "TranslatedText": "สี่ Divine Beasts "
+        },
+        {
+          "Line": 848,
+          "OriginalText": "are the ancient\nSheikah weapons wielded by the four\nChampions who Ganon defeated.\nThe ",
+          "TranslatedText": "คืออาวุธโบราณของ\nSheikah ที่ควบคุมโดย\nChampion ทั้งสี่ ที่ถูก Ganon จัดการไป\n"
+        },
+        {
+          "Line": 852,
+          "OriginalText": "Divine Beast Vah",
+          "TranslatedText": "Divine Beast Vah"
+        },
+        {
+          "Line": 855,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 859,
+          "OriginalText": "Rudania",
+          "TranslatedText": "Rudania"
+        },
+        {
+          "Line": 862,
+          "OriginalText": ",\ncontrolled by ",
+          "TranslatedText": ",\nควบคุมโดย "
+        },
+        {
+          "Line": 866,
+          "OriginalText": "Daruk ",
+          "TranslatedText": "Daruk "
+        },
+        {
+          "Line": 869,
+          "OriginalText": "of the Gorons.",
+          "TranslatedText": "แห่ง Gorons"
+        },
+        {
+          "Line": 873,
+          "OriginalText": "\n\nThe ",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 877,
+          "OriginalText": "Divine Beast Vah Medoh",
+          "TranslatedText": "Divine Beast Vah Medoh"
+        },
+        {
+          "Line": 880,
+          "OriginalText": ",\ncontrolled by ",
+          "TranslatedText": ",\nควบคุมโดย "
+        },
+        {
+          "Line": 884,
+          "OriginalText": "Revali ",
+          "TranslatedText": "Revali "
+        },
+        {
+          "Line": 887,
+          "OriginalText": "of the Rito.",
+          "TranslatedText": "แห่ง Rito"
+        },
+        {
+          "Line": 891,
+          "OriginalText": "\n\nThe ",
+          "TranslatedText": "\nThe "
+        },
+        {
+          "Line": 895,
+          "OriginalText": "Divine Beast Vah",
+          "TranslatedText": "Divine Beast Vah"
+        },
+        {
+          "Line": 898,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 902,
+          "OriginalText": "Ruta",
+          "TranslatedText": "Ruta"
+        },
+        {
+          "Line": 905,
+          "OriginalText": ",\ncontrolled by ",
+          "TranslatedText": ",\nควบคุมโดย "
+        },
+        {
+          "Line": 909,
+          "OriginalText": "Mipha ",
+          "TranslatedText": "Mipha "
+        },
+        {
+          "Line": 912,
+          "OriginalText": "of the Zora.",
+          "TranslatedText": "แห่ง Zora"
+        },
+        {
+          "Line": 916,
+          "OriginalText": "\n\nAnd the ",
+          "TranslatedText": "\nAnd the "
+        },
+        {
+          "Line": 920,
+          "OriginalText": "Divine Beast Vah",
+          "TranslatedText": "Divine Beast Vah"
+        },
+        {
+          "Line": 923,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 927,
+          "OriginalText": "Naboris",
+          "TranslatedText": "Naboris"
+        },
+        {
+          "Line": 930,
+          "OriginalText": ",\ncontrolled by ",
+          "TranslatedText": ",\nควบคุมโดย "
+        },
+        {
+          "Line": 934,
+          "OriginalText": "Urbosa ",
+          "TranslatedText": "Urbosa "
+        },
+        {
+          "Line": 937,
+          "OriginalText": "of the Gerudo.",
+          "TranslatedText": "แห่ง Gerudo"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju01",
+      "TextList": [
+        {
+          "Line": 949,
+          "OriginalText": "It would be extremely ill-advised to face\n",
+          "TranslatedText": "มันจะเป็นการไม่รอบคอบอย่างยิ่งที่จะเผชิญหน้ากับ\n"
+        },
+        {
+          "Line": 953,
+          "OriginalText": "Ganon ",
+          "TranslatedText": "Ganon "
+        },
+        {
+          "Line": 956,
+          "OriginalText": "without the power of the ",
+          "TranslatedText": "โดยไม่มีพลังของ "
+        },
+        {
+          "Line": 960,
+          "OriginalText": "Divine\nBeasts",
+          "TranslatedText": "Divine\nBeasts"
+        },
+        {
+          "Line": 963,
+          "OriginalText": " to help you...\nYou must infiltrate the ",
+          "TranslatedText": " ช่วย...\nนายต้องแอบเข้าไปใน "
+        },
+        {
+          "Line": 967,
+          "OriginalText": "Divine Beasts",
+          "TranslatedText": "Divine Beasts"
+        },
+        {
+          "Line": 970,
+          "OriginalText": " that\nwere stolen away by ",
+          "TranslatedText": "\nที่ถูกขโมยไปโดย "
+        },
+        {
+          "Line": 974,
+          "OriginalText": "Ganon",
+          "TranslatedText": "Ganon"
+        },
+        {
+          "Line": 977,
+          "OriginalText": " 100 years\nago and bring them back to our side.\n",
+          "TranslatedText": " เมื่อ 100 ปีก่อน\nและนำกลับมาเป็นพวกของเรา\n"
+        },
+        {
+          "Line": 983,
+          "OriginalText": "More information about these ",
+          "TranslatedText": "ข้อมูลเพิ่มเติมเกี่ยวกับ "
+        },
+        {
+          "Line": 987,
+          "OriginalText": "Divine\nBeasts ",
+          "TranslatedText": "Divine\nBeasts "
+        },
+        {
+          "Line": 990,
+          "OriginalText": "can be found by locating the\n",
+          "TranslatedText": "สามารถพบได้จาก\n"
+        },
+        {
+          "Line": 994,
+          "OriginalText": "four races ",
+          "TranslatedText": "เผ่าทั้งสี่ "
+        },
+        {
+          "Line": 997,
+          "OriginalText": "scattered across Hyrule.",
+          "TranslatedText": "ที่กระจายอยู่ทั่ว Hyrule"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju02",
+      "TextList": [
+        {
+          "Line": 1006,
+          "OriginalText": "You... You have already found them.\nYes, I can feel their power emanating\nfrom you even now...\n",
+          "TranslatedText": "นาย... นายพบพวกมันแล้ว\nแม้แต่ตอนนี้ฉันก็สามารถรู้สึกได้ถึงพลังที่ปล่อยออกมา\nจากตัวนาย...\n"
+        },
+        {
+          "Line": 1012,
+          "OriginalText": "Ha! It would seem I had no cause\nto worry after all.",
+          "TranslatedText": "ฮ่า! ดูเหมือนว่าไม่มีความจำเป็น\nที่ฉันจะต้องกังวลเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju4",
+      "TextList": [
+        {
+          "Line": 1024,
+          "OriginalText": "Come back here once you have tried\ngoing to at least one of those locations.\n\n",
+          "TranslatedText": "กลับมาที่นี่\nเมื่อหาสถานที่ในรูปเจอแล้วสักหนึ่งที่\n"
+        },
+        {
+          "Line": 1030,
+          "OriginalText": "There is something I wish to give to you.",
+          "TranslatedText": "มีบางอย่างที่ฉันจะมอบให้นาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_01",
+      "TextList": [
+        {
+          "Line": 1039,
+          "OriginalText": "Ha! I see...",
+          "TranslatedText": "ฮ่า! งั้นเหรอ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_02_Electric",
+      "TextList": [
+        {
+          "Line": 1048,
+          "OriginalText": "So, you\u0027ve gained the ",
+          "TranslatedText": "นายได้รับ "
+        },
+        {
+          "Line": 1052,
+          "OriginalText": "power of Urbosa",
+          "TranslatedText": "พลังของ Urbosa"
+        },
+        {
+          "Line": 1055,
+          "OriginalText": ".",
+          "TranslatedText": " มาแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_02_Fire",
+      "TextList": [
+        {
+          "Line": 1064,
+          "OriginalText": "So, you\u0027ve gained the ",
+          "TranslatedText": "นายได้รับ "
+        },
+        {
+          "Line": 1068,
+          "OriginalText": "power of Daruk",
+          "TranslatedText": "พลังของ Daruk"
+        },
+        {
+          "Line": 1071,
+          "OriginalText": ".",
+          "TranslatedText": " มาแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_02_Water",
+      "TextList": [
+        {
+          "Line": 1080,
+          "OriginalText": "So, you\u0027ve gained the ",
+          "TranslatedText": "นายได้รับ "
+        },
+        {
+          "Line": 1084,
+          "OriginalText": "power of Mipha",
+          "TranslatedText": "พลังของ Mipha"
+        },
+        {
+          "Line": 1087,
+          "OriginalText": ".",
+          "TranslatedText": " มาแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_02_Wind",
+      "TextList": [
+        {
+          "Line": 1096,
+          "OriginalText": "So, you\u0027ve gained the ",
+          "TranslatedText": "นายได้รับ "
+        },
+        {
+          "Line": 1100,
+          "OriginalText": "power of Revali",
+          "TranslatedText": "พลังของ Revali"
+        },
+        {
+          "Line": 1103,
+          "OriginalText": ".",
+          "TranslatedText": " มาแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_03",
+      "TextList": [
+        {
+          "Line": 1112,
+          "OriginalText": "I thank you for freeing one of the\n",
+          "TranslatedText": "ฉันขอขอบคุณสำหรับการปลดปล่อย\n"
+        },
+        {
+          "Line": 1116,
+          "OriginalText": "Divine Beasts",
+          "TranslatedText": "Divine Beasts"
+        },
+        {
+          "Line": 1119,
+          "OriginalText": " from",
+          "TranslatedText": " จากการควบคุมของ"
+        },
+        {
+          "Line": 1123,
+          "OriginalText": " Calamity Ganon",
+          "TranslatedText": " Calamity Ganon"
+        },
+        {
+          "Line": 1126,
+          "OriginalText": "\u0027s\ncontrol... But there are others still.",
+          "TranslatedText": "... \nแต่ว่ายังมีตัวอื่นอีก"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_04_Electric",
+      "TextList": [
+        {
+          "Line": 1138,
+          "OriginalText": "Urbosa\u0027s power",
+          "TranslatedText": "พลังของ Urbosa"
+        },
+        {
+          "Line": 1141,
+          "OriginalText": " is that of lightning.\nIt will help you put evil in its place.",
+          "TranslatedText": " คือพลังของสายฟ้า\nมันจะช่วยคุมความชั่วร้ายให้อยู่ในที่ๆ สมควร"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_04_Fire",
+      "TextList": [
+        {
+          "Line": 1153,
+          "OriginalText": "Daruk\u0027s power",
+          "TranslatedText": "พลังของ Daruk"
+        },
+        {
+          "Line": 1156,
+          "OriginalText": " is that of defense.\nIt will protect you from evil.",
+          "TranslatedText": " คือพลังแห่งการป้องกัน\nมันจะช่วยปกป้องนายจากสิ่งชั่วร้าย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_04_Water",
+      "TextList": [
+        {
+          "Line": 1171,
+          "OriginalText": "Mipha\u0027s power",
+          "TranslatedText": "พลังของ Mipha"
+        },
+        {
+          "Line": 1174,
+          "OriginalText": " is that of healing.\nIt will aid you when your strength\nhas been exhausted.",
+          "TranslatedText": " คือพลังแห่งการรักษา\nมันจะช่วยในยามที่นายหมดพลัง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_04_Wind",
+      "TextList": [
+        {
+          "Line": 1189,
+          "OriginalText": "Revali\u0027s power",
+          "TranslatedText": "พลังของ Revali"
+        },
+        {
+          "Line": 1192,
+          "OriginalText": " is that of wind.\nIt will prove to be most useful.",
+          "TranslatedText": " คือพลังของสายลม\nมันจะเป็นประโยชน์ที่สุด"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_Electric",
+      "TextList": [
+        {
+          "Line": 1204,
+          "OriginalText": "Divine Beast Vah Naboris",
+          "TranslatedText": "Divine Beast Vah Naboris"
+        },
+        {
+          "Line": 1207,
+          "OriginalText": " also remains.\nThat one was controlled by Urbosa\nof the Gerudo.",
+          "TranslatedText": " ก็ยังอยู่\nตัวที่เคยถูกควบคุมโดย Urbosa แห่ง Gerudo"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_Fire",
+      "TextList": [
+        {
+          "Line": 1219,
+          "OriginalText": "Divine Beast Vah Rudania",
+          "TranslatedText": "Divine Beast Vah Rudania"
+        },
+        {
+          "Line": 1222,
+          "OriginalText": " also remains.\nThat one was controlled by Daruk\nof the Gorons.",
+          "TranslatedText": " ก็ยังอยู่\nตัวที่เคยถูกควบคุมโดย Daruk แห่ง Gorons."
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_Water",
+      "TextList": [
+        {
+          "Line": 1234,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": "Divine Beast Vah Ruta"
+        },
+        {
+          "Line": 1237,
+          "OriginalText": " also remains.\nThat one was controlled by Mipha\nof the Zora.",
+          "TranslatedText": " ก็ยังอยู่\nตัวที่เคยถูกควบคุมโดย Mipha แห่ง Zora"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_Wind",
+      "TextList": [
+        {
+          "Line": 1246,
+          "OriginalText": "Still, the ",
+          "TranslatedText": "ยังมี "
+        },
+        {
+          "Line": 1250,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": "Divine Beast"
+        },
+        {
+          "Line": 1253,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1257,
+          "OriginalText": "Vah Medoh",
+          "TranslatedText": "Vah Medoh"
+        },
+        {
+          "Line": 1260,
+          "OriginalText": "\nremains. That one was controlled\nby Revali of the Rito.",
+          "TranslatedText": "\nเหลืออยู่ ตัวที่เคยถูกควบคุมโดย\nRevali แห่ง Rito"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_noko_Electric",
+      "TextList": [
+        {
+          "Line": 1269,
+          "OriginalText": "Still, the ",
+          "TranslatedText": "ยังมี "
+        },
+        {
+          "Line": 1273,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": "Divine Beast"
+        },
+        {
+          "Line": 1276,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1280,
+          "OriginalText": "Vah Naboris",
+          "TranslatedText": "Vah Naboris"
+        },
+        {
+          "Line": 1283,
+          "OriginalText": "\nremains. That one was controlled\nby Urbosa of the Gerudo.",
+          "TranslatedText": "\nเหลืออยู่ ตัวที่เคยถูกควบคุมโดย\nUrbosa แห่ง Gerudo"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_noko_Fire",
+      "TextList": [
+        {
+          "Line": 1292,
+          "OriginalText": "Still, the ",
+          "TranslatedText": "ยังมี "
+        },
+        {
+          "Line": 1296,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": "Divine Beast"
+        },
+        {
+          "Line": 1299,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1303,
+          "OriginalText": "Vah Rudania",
+          "TranslatedText": "Vah Rudania"
+        },
+        {
+          "Line": 1306,
+          "OriginalText": "\nremains. That one was controlled\nby Daruk of the Gorons.",
+          "TranslatedText": "\nเหลืออยู่ ตัวที่เคยถูกควบคุมโดย\nDaruk แห่ง Gorons"
+        }
+      ]
+    },
+    {
+      "EntryName": "Shinju_05_noko_Water",
+      "TextList": [
+        {
+          "Line": 1315,
+          "OriginalText": "Still, the ",
+          "TranslatedText": "ยังมี "
+        },
+        {
+          "Line": 1319,
+          "OriginalText": "Divine Beast",
+          "TranslatedText": "Divine Beast"
+        },
+        {
+          "Line": 1322,
+          "OriginalText": " ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1326,
+          "OriginalText": "Vah Ruta ",
+          "TranslatedText": "Vah Ruta "
+        },
+        {
+          "Line": 1329,
+          "OriginalText": "remains.\nThat one was controlled by Mipha\nof the Zora.",
+          "TranslatedText": "เหลืออยู่\nตัวที่เคยถูกควบคุมโดย Mipha แห่ง Zora"
+        }
+      ]
+    },
+    {
+      "EntryName": "Sukuitai00_ch3",
+      "TextList": [
+        {
+          "Line": 1338,
+          "OriginalText": "In any case... If you ever lose\nyour way, simply look to your\n",
+          "TranslatedText": "ถ้าเกิดว่า... นายเกิดหลงทางขึ้นมา\nก็จงดูที่\n"
+        },
+        {
+          "Line": 1342,
+          "OriginalText": "Sheikah Slate ",
+          "TranslatedText": "Sheikah Slate "
+        },
+        {
+          "Line": 1345,
+          "OriginalText": "to guide you.",
+          "TranslatedText": "ให้มันนำทาง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Sukuitai00_ch4",
+      "TextList": [
+        {
+          "Line": 1363,
+          "OriginalText": "In any case... If you ever lose\nyour way, simply look to your\n",
+          "TranslatedText": "ถ้าเกิดว่า... นายเกิดหลงทางขึ้นมา\nก็จงดูที่\n"
+        },
+        {
+          "Line": 1367,
+          "OriginalText": "Sheikah Slate ",
+          "TranslatedText": "Sheikah Slate "
+        },
+        {
+          "Line": 1370,
+          "OriginalText": "to guide you.",
+          "TranslatedText": "ให้มันนำทาง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 1389,
+          "OriginalText": "A hundred years ago, you and the\nprincess were quite close.\n\nYou were a comfort and an encouraging\npresence to her as she struggled\neach day to fulfill her destiny.",
+          "TranslatedText": "เมื่อร้อยปีก่อน นายกับเจ้าหญิง\nนั้นค่อนข้างสนิทกัน\nนายคือคนที่คอยปลอบและให้กำลังใจเจ้าหญิง\nในแต่ละวันที่เธอพยายามทำหน้าที่ของเธอให้ลุล่วง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 1398,
+          "OriginalText": "That is why she believes in you...\nand why she has the strength\nto fight ",
+          "TranslatedText": "เธอจึงเชื่อในตัวนาย...\nและเป็นเหตุผลว่าทำไมเธอจึงมีพลัง\nที่จะสู้กับ "
+        },
+        {
+          "Line": 1402,
+          "OriginalText": "Ganon ",
+          "TranslatedText": "Ganon "
+        },
+        {
+          "Line": 1405,
+          "OriginalText": "all alone.",
+          "TranslatedText": "เพียงลำพัง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 1414,
+          "OriginalText": "Link.\n\n\nThe princess...\n\n\nPlease hurry and save our princess!\nShe has been fighting all alone for\n100 years.",
+          "TranslatedText": "Link\nเจ้าหญิง...\nโปรดรีบไปช่วยเจ้าหญิงของเราด้วย!\nเธอได้ต่อสู้เพียงลำพังมาเป็นเวลา\n100 ปีแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk05",
+      "TextList": [
+        {
+          "Line": 1423,
+          "OriginalText": "It seems you have visited all of\nthe locations.",
+          "TranslatedText": "ดูเหมือนว่านายจะไปมาครบทุกที่แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_00",
+      "TextList": [
+        {
+          "Line": 1435,
+          "OriginalText": "You may not remember your last meeting\nwith Ganon,",
+          "TranslatedText": "นายอาจจะจำตอนที่นายต้องเจอกับ\nGanon"
+        },
+        {
+          "Line": 1439,
+          "OriginalText": " but it did not end well for\nyou.",
+          "TranslatedText": " ไม่ได้ แต่ขอบอกว่ามันจบไม่สวยเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_00_ch3",
+      "TextList": [
+        {
+          "Line": 1448,
+          "OriginalText": "If you want a different outcome this \ntime around, you\u0027ll need to be properly\nequipped.",
+          "TranslatedText": "ถ้าหากคราวนี้นายไม่ต้องการให้มัน\nเป็นเหมือนเดิม นายต้องเตรียมตัว\nให้พร้อม"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_00_ch4",
+      "TextList": [
+        {
+          "Line": 1466,
+          "OriginalText": "If you want a different outcome this \ntime around, you\u0027ll need to be properly\nequipped.",
+          "TranslatedText": "ถ้าหากคราวนี้นายไม่ต้องการให้มัน\nเป็นเหมือนเดิม นายต้องเตรียมตัว\nให้พร้อม"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_02",
+      "TextList": [
+        {
+          "Line": 1485,
+          "OriginalText": "You should be able to find the general\nlocation of any remaining Divine Beasts\non your map.",
+          "TranslatedText": "นายน่าจะหาตำแหน่งคร่าวๆ \nของ Divine Beasts ที่เหลือได้จากแผนที่"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_06",
+      "TextList": [
+        {
+          "Line": 1494,
+          "OriginalText": "It seems you are doing well in following\nthe princess\u0027s words.",
+          "TranslatedText": "ดูเหมือนว่านายจะทำตามคำพูดของ\nเจ้าหญิงเป็นอย่างดี"
+        },
+        {
+          "Line": 1498,
+          "OriginalText": "\n\nThe spirits of some Divine Beasts have\nbeen appeased, and the powers of\nevil have weakened.\nThe princess must sense this as well...",
+          "TranslatedText": "\nวิญญาณของ Divine Beasts บางตัว\nได้ถูกปลดปล่อย และพลังของปีศาจร้าย\nก็อ่อนแอลง\nเจ้าหญิงน่าจะรู้สึกถึงเรื่องนี้ได้เช่นกัน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_07",
+      "TextList": [
+        {
+          "Line": 1507,
+          "OriginalText": "I sense it...",
+          "TranslatedText": "I รับรู้สิ..."
+        },
+        {
+          "Line": 1511,
+          "OriginalText": "\n\n\nTheir presence.",
+          "TranslatedText": "\nตัวตนของพวกมัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_07_2",
+      "TextList": [
+        {
+          "Line": 1523,
+          "OriginalText": "Daruk.",
+          "TranslatedText": "Daruk."
+        },
+        {
+          "Line": 1527,
+          "OriginalText": " Urbosa.",
+          "TranslatedText": " Urbosa."
+        },
+        {
+          "Line": 1531,
+          "OriginalText": "\nRevali.",
+          "TranslatedText": "\nRevali."
+        },
+        {
+          "Line": 1535,
+          "OriginalText": " Mipha.",
+          "TranslatedText": " Mipha."
+        },
+        {
+          "Line": 1539,
+          "OriginalText": "\n\nA hundred years ago, ",
+          "TranslatedText": "\nเมื่อหนึ่งร้อยปีก่อน "
+        },
+        {
+          "Line": 1543,
+          "OriginalText": "I put my life on\nthe line to fight alongside everyone.\n\n",
+          "TranslatedText": "ฉันก็เสี่ยงชีวิต\nต่อสู้เคียงข้างกับทุกคน\n"
+        },
+        {
+          "Line": 1549,
+          "OriginalText": "But...I could not protect them.",
+          "TranslatedText": "แต่ว่า...ฉันไม่อาจปกป้องพวกเขาไว้ได้"
+        },
+        {
+          "Line": 1553,
+          "OriginalText": "\n\n\nThey died without fulfilling their\ndestinies. ",
+          "TranslatedText": "\nพวกเขาตายโดยที่ยังทำหน้าที่ไม่สำเร็จ\n"
+        },
+        {
+          "Line": 1557,
+          "OriginalText": "I have lived all this time\nthinking they died in vain.\n",
+          "TranslatedText": "ฉันอยู่มาจนถึงตอนนี้\nระลึกถึงพวกเข้าที่ตายอย่างสูญเปล่า\n"
+        },
+        {
+          "Line": 1563,
+          "OriginalText": "But this energy I feel from\ntheir presence...",
+          "TranslatedText": "แต่พลังนี้ที่ฉันรู้สึกได้จาก\nตัวตนของพวกเขา..."
+        },
+        {
+          "Line": 1567,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1573,
+          "OriginalText": "It seems they have not given up.\n\n\nI can also sense...",
+          "TranslatedText": "ดูเหมือนว่าพวกเขายังไม่ยอมแพ้\nฉันยังรับรู้ได้อีกว่า..."
+        },
+        {
+          "Line": 1577,
+          "OriginalText": "that they were all\noverjoyed to see you again.",
+          "TranslatedText": "พวกเขาดีใจมาก\nที่ได้เจอนายอีกครั้ง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_08",
+      "TextList": [
+        {
+          "Line": 1586,
+          "OriginalText": "Now you all serve the same purpose!\n\n\nNow it is time to attack ",
+          "TranslatedText": "ตอนนี้ทุกคนมีเป้าหมายเดียวกันแล้ว!\nตอนนี้ถึงเวลาโจมตี "
+        },
+        {
+          "Line": 1590,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 1593,
+          "OriginalText": ",\nwhile he is weak!",
+          "TranslatedText": ",\nในขณะที่มันอ่อนแอ!"
+        },
+        {
+          "Line": 1597,
+          "OriginalText": " Hurry to the princess!\nGo, now!",
+          "TranslatedText": " จงรีบไปหาเจ้าหญิง!\nรีบไป!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_09",
+      "TextList": [
+        {
+          "Line": 1606,
+          "OriginalText": "Even with blessings of the ",
+          "TranslatedText": "แม้จะมีพรจาก "
+        },
+        {
+          "Line": 1610,
+          "OriginalText": "Divine Beasts",
+          "TranslatedText": "Divine Beasts"
+        },
+        {
+          "Line": 1613,
+          "OriginalText": "\non your side, you must be careful.\n",
+          "TranslatedText": "\nอยู่ข้างนาย แต่ก็ต้องระวังตัว\n"
+        },
+        {
+          "Line": 1617,
+          "OriginalText": "Calamity Ganon ",
+          "TranslatedText": "Calamity Ganon "
+        },
+        {
+          "Line": 1620,
+          "OriginalText": "will be well protected.\nBe prepared for anything!",
+          "TranslatedText": " น่าจะถูกปกป้องอย่างดี\nจงเตรียมพร้อมเผชิญกับทุกสิ่ง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_10",
+      "TextList": [
+        {
+          "Line": 1629,
+          "OriginalText": "I believe you will find ",
+          "TranslatedText": "ฉันเชื่อว่านายจะพบ "
+        },
+        {
+          "Line": 1633,
+          "OriginalText": "Calamity Ganon",
+          "TranslatedText": "Calamity Ganon"
+        },
+        {
+          "Line": 1636,
+          "OriginalText": "\nin ",
+          "TranslatedText": "\nได้ใน "
+        },
+        {
+          "Line": 1640,
+          "OriginalText": "Hyrule Castle",
+          "TranslatedText": "ปราสาท Hyrule"
+        },
+        {
+          "Line": 1643,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_12_ch3",
+      "TextList": [
+        {
+          "Line": 1652,
+          "OriginalText": "All I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know.",
+          "TranslatedText": "สิ่งที่ฉันทำได้ก็มีเพียงบอกนายถึงเรื่องราวที่เกิดขึ้น...\nดังนั้นฉันจะเล่าให้นายฟัง\nทุกอย่างที่ฉันรู้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_12_ch4",
+      "TextList": [
+        {
+          "Line": 1670,
+          "OriginalText": "All I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know.",
+          "TranslatedText": "สิ่งที่ฉันทำได้ก็มีเพียงบอกนายถึงเรื่องราวที่เกิดขึ้น...\nดังนั้นฉันจะเล่าให้นายฟัง\nทุกอย่างที่ฉันรู้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_13",
+      "TextList": [
+        {
+          "Line": 1689,
+          "OriginalText": "Princess Zelda\u0027s memories are your\nmemories as well.",
+          "TranslatedText": "ความทรงจำของเจ้าหญิง Zelda ก็เป็น\nความทรงจำของนายด้วย"
+        },
+        {
+          "Line": 1693,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1699,
+          "OriginalText": "Visit the locations chronicled by the\n",
+          "TranslatedText": "ลองไปยังสถานที่ที่บันทึกอยู่ใน\n"
+        },
+        {
+          "Line": 1703,
+          "OriginalText": "Camera",
+          "TranslatedText": "Camera"
+        },
+        {
+          "Line": 1706,
+          "OriginalText": ", and you may be able to\nrecover bits of your memory.\n",
+          "TranslatedText": " แล้วนายอาจจะ\nระลึกถึงความทรงจำบางส่วนได้\n"
+        },
+        {
+          "Line": 1712,
+          "OriginalText": "Once you have visited all of\nthe locations, return to me.",
+          "TranslatedText": "กลับมาหาฉันเมื่อไปครบทุกที่แล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_14",
+      "TextList": [
+        {
+          "Line": 1721,
+          "OriginalText": "Hm?",
+          "TranslatedText": "หืม?"
+        },
+        {
+          "Line": 1725,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1731,
+          "OriginalText": "Ah...",
+          "TranslatedText": "อา..."
+        },
+        {
+          "Line": 1735,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1741,
+          "OriginalText": "So the sword has been returned to\nits rightful owner.",
+          "TranslatedText": "ดาบนั้นได้กลับสู่เจ้าของที่แท้จริงแล้วสินะ\n"
+        },
+        {
+          "Line": 1745,
+          "OriginalText": " Heh, just as I\nexpected of you, hero.",
+          "TranslatedText": "หึหึ ตามที่ฉันคาดเลยนะ ผู้กล้า"
+        },
+        {
+          "Line": 1749,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1755,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1759,
+          "OriginalText": "sword that seals the darkness",
+          "TranslatedText": "ดาบที่ผนึกความมืด"
+        },
+        {
+          "Line": 1762,
+          "OriginalText": " is\nyour counterpart...",
+          "TranslatedText": "\nเป็นของคู่ของนาย..."
+        },
+        {
+          "Line": 1766,
+          "OriginalText": "\n\nSo long as that blade is at your side,\nyou shall wield enormous power.\n\nThe princess risked everything for you\nand that sword. Do not forget that,\nand do not waste this chance.",
+          "TranslatedText": "\nตราบเท่าที่ดาบอยู่ข้างนาย\nนายจะมีพลังมหาศาล\nเจ้าหญิงได้เสี่ยงทุกอย่างเพื่อนายกับดาบเล่มนั้น\nจงอย่าลืม และอย่าปล่อยโห้โอกาสนี้เสียเปล่า"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_15",
+      "TextList": [
+        {
+          "Line": 1775,
+          "OriginalText": "Ha!",
+          "TranslatedText": "ฮ่า!"
+        },
+        {
+          "Line": 1779,
+          "OriginalText": " How strange...\n\n\nTo think, 100 years ago, you wore that\n",
+          "TranslatedText": " แปลกนะ...\nพอคิดว่า เมื่อ 100 ปีก่อนนายก็ใส่\n"
+        },
+        {
+          "Line": 1783,
+          "OriginalText": "Champion\u0027s tunic ",
+          "TranslatedText": "Champion\u0027s tunic "
+        },
+        {
+          "Line": 1786,
+          "OriginalText": "every day. ",
+          "TranslatedText": "นั่นทุกวัน "
+        },
+        {
+          "Line": 1790,
+          "OriginalText": "I feel as\nthough I\u0027ve been transported in time...",
+          "TranslatedText": "\nฉันรู้สึกเหมือนกับว่าได้ย้อนเวลาไปยังตอนนั้น..."
+        },
+        {
+          "Line": 1794,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 1800,
+          "OriginalText": "Link... ",
+          "TranslatedText": "Link... "
+        },
+        {
+          "Line": 1804,
+          "OriginalText": "Our ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 1808,
+          "OriginalText": "princess",
+          "TranslatedText": "เจ้าหญิง"
+        },
+        {
+          "Line": 1811,
+          "OriginalText": "...",
+          "TranslatedText": "ของเรา..."
+        },
+        {
+          "Line": 1815,
+          "OriginalText": "\nyou must rescue her!",
+          "TranslatedText": "\nนายต้องไปช่วยเธอให้ได้นะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_16",
+      "TextList": [
+        {
+          "Line": 1824,
+          "OriginalText": "Princess Zelda\u0027s memories ",
+          "TranslatedText": "ความทรงจำของเจ้าหญิง "
+        },
+        {
+          "Line": 1828,
+          "OriginalText": "are your\nmemories as well.\n\nEven if you do not remember,\nyou must surely feel something\nstirring in your heart...",
+          "TranslatedText": "ก็เป็น\nความทรงจำของนายด้วย\nแม้ว่านายจะจำไม่ได้\nแต่นายต้องรู้สึกถึงบางอย่างที่ก่อตัวขึ้นในหัวใจแน่..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_17",
+      "TextList": [
+        {
+          "Line": 1837,
+          "OriginalText": "The final location of Princess Zelda\u0027s\nlost memories...\n\n",
+          "TranslatedText": "สถานที่สุดท่ายในความทรงจำของเจ้าหญิง Zelda...\n"
+        },
+        {
+          "Line": 1843,
+          "OriginalText": "Even I do not know where it is.\n\n\n",
+          "TranslatedText": "แม้แต่ฉันเองก็ไม่รู้ว่ามันอยู่ที่ไหน\n"
+        },
+        {
+          "Line": 1849,
+          "OriginalText": "But although you do not remember,\nyou spent much time with the princess.\nI have faith you will find it somehow.",
+          "TranslatedText": "แต่แม้ว่านายจะจำไม่ได้\nนายก็ได้ใช้เวลาร่วมกับเจ้าหญิงอยู่นาน\nฉันเชื่อว่านายจะหามันพบ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18",
+      "TextList": [
+        {
+          "Line": 1858,
+          "OriginalText": "Though ",
+          "TranslatedText": "แม้ว่าพลังของ "
+        },
+        {
+          "Line": 1862,
+          "OriginalText": "Ganon",
+          "TranslatedText": "Ganon"
+        },
+        {
+          "Line": 1865,
+          "OriginalText": "\u0027s power is weak, I do not\nknow how much longer the princess\nwill be able to hold out.",
+          "TranslatedText": " จะอ่อนแอลง\nฉันก็ไม่รู้ว่าเจ้าหญิงนั้น\nจะทนได้อีกนานแค่ไหน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18_ch3",
+      "TextList": [
+        {
+          "Line": 1874,
+          "OriginalText": "The princess...our Zelda...",
+          "TranslatedText": "เจ้าหญิง... Zelda ของเรา..."
+        },
+        {
+          "Line": 1878,
+          "OriginalText": "I leave her life\nin your hands.",
+          "TranslatedText": "ฉันขอฝากชีวิตของเธอ\nไว้ในมือนาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_18_ch4",
+      "TextList": [
+        {
+          "Line": 1896,
+          "OriginalText": "The princess...our Zelda...",
+          "TranslatedText": "เจ้าหญิง... Zelda ของเรา..."
+        },
+        {
+          "Line": 1900,
+          "OriginalText": "I leave her life\nin your hands.",
+          "TranslatedText": "ฉันขอฝากชีวิตของเธอ\nไว้ในมือนาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19",
+      "TextList": [
+        {
+          "Line": 1919,
+          "OriginalText": "Princess Zelda\u0027s memories ",
+          "TranslatedText": "ความทรงจำของเจ้าหญิง Zelda "
+        },
+        {
+          "Line": 1923,
+          "OriginalText": "are your\nmemories as well.\n\n",
+          "TranslatedText": "ก็เป็น\nความทรงจำของนายด้วย\n"
+        },
+        {
+          "Line": 1929,
+          "OriginalText": "Visit the locations chronicled by the\n",
+          "TranslatedText": "ลองไปยังสถานที่ที่บันทึกอยู่ใน\n"
+        },
+        {
+          "Line": 1933,
+          "OriginalText": "Camera",
+          "TranslatedText": "Camera"
+        },
+        {
+          "Line": 1936,
+          "OriginalText": ", and you may be able to\nrecover bits of your memory.\n",
+          "TranslatedText": " แล้วนายอาจจะ\nระลึกถึงความทรงจำบางส่วนได้\n"
+        },
+        {
+          "Line": 1942,
+          "OriginalText": "If you manage to visit even one of\nthose locations...come back and\nsee me.\n",
+          "TranslatedText": "ถ้าหากเจอได้สักที่หนึ่งแล้ว...\nกลับมาหาฉัน\n"
+        },
+        {
+          "Line": 1948,
+          "OriginalText": "After all, there is still something I wish\nto give you.",
+          "TranslatedText": "ฉันมีของสิ่งหนึ่งจะมอบให้"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19_ch3",
+      "TextList": [
+        {
+          "Line": 1957,
+          "OriginalText": "You should have everything you need to\nconfront Ganon.",
+          "TranslatedText": "นายควรมีทุกอย่างที่จำเป็นในการ\nเผชิญหน้ากับ Ganon."
+        },
+        {
+          "Line": 1961,
+          "OriginalText": " I leave the princess\u0027s\nlife in your hands.",
+          "TranslatedText": " ฉันขอฝากชีวิตของเจ้าหญิง\nไว้ในมือนาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_19_ch4",
+      "TextList": [
+        {
+          "Line": 1979,
+          "OriginalText": "You should have everything you need to\nconfront Ganon.",
+          "TranslatedText": "นายควรมีทุกอย่างที่จำเป็นในการ\nเผชิญหน้ากับ Ganon"
+        },
+        {
+          "Line": 1983,
+          "OriginalText": " I leave the princess\u0027s\nlife in your hands.",
+          "TranslatedText": " ฉันขอฝากชีวิตของเจ้าหญิง\nไว้ในมือนาย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20",
+      "TextList": [
+        {
+          "Line": 2002,
+          "OriginalText": "Paya has been like that ever since the\n",
+          "TranslatedText": "Paya เป็นแบบนั้นตั้งแต่\n"
+        },
+        {
+          "Line": 2006,
+          "OriginalText": "Sheikah heirloom ",
+          "TranslatedText": "มรดกของ Sheikah "
+        },
+        {
+          "Line": 2009,
+          "OriginalText": "was stolen... ",
+          "TranslatedText": "ถูกขโมยไป... "
+        },
+        {
+          "Line": 2013,
+          "OriginalText": "To think\nthat it would be taken, just like that.\n",
+          "TranslatedText": "ไม่นึกเลยว่า\nมันจะถูกเอาไปง่ายๆ แบบนี้\n"
+        },
+        {
+          "Line": 2019,
+          "OriginalText": "We would like your help, of course,\nbut we understand you have an\nimportant mission to complete.",
+          "TranslatedText": "แน่นอนว่าเราอยากให้นายช่วย\nแต่เราเข้าใจว่านายมีภารกิจสำคัญที่ต้องทำ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20_ch3a",
+      "TextList": [
+        {
+          "Line": 2028,
+          "OriginalText": "I am only here to help guide you to\nthe princess...",
+          "TranslatedText": "ฉันอยู่ที่นี่เพียงเพื่อนำทางให้นาย\nไปหาเจ้าหญิง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20_ch3b",
+      "TextList": [
+        {
+          "Line": 2046,
+          "OriginalText": "I am only here to help guide you to\nthe princess...",
+          "TranslatedText": "ฉันอยู่ที่นี่เพียงเพื่อนำทางให้นาย\nไปหาเจ้าหญิง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20_ch4a",
+      "TextList": [
+        {
+          "Line": 2064,
+          "OriginalText": "I am only here to help guide you to\nthe princess...",
+          "TranslatedText": "ฉันอยู่ที่นี่เพียงเพื่อนำทางให้นาย\nไปหาเจ้าหญิง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk_20_ch4b",
+      "TextList": [
+        {
+          "Line": 2083,
+          "OriginalText": "I am only here to help guide you to\nthe princess...",
+          "TranslatedText": "ฉันอยู่ที่นี่เพียงเพื่อนำทางให้นาย\nไปหาเจ้าหญิง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 2097,
+          "OriginalText": "Settle down!",
+          "TranslatedText": "อยู่เฉยๆ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 2101,
+          "OriginalText": "Don\u0027t be a fool...",
+          "TranslatedText": "อย่างี่เง่าน่า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 2105,
+          "OriginalText": "What are you doing?!",
+          "TranslatedText": "ทำอะไรน่ะ?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 2109,
+          "OriginalText": "The joke has gone too far!",
+          "TranslatedText": "นี่มันเกินไปแล้วนะ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 2113,
+          "OriginalText": "Don\u0027t be a fool...",
+          "TranslatedText": "อย่างี่เง่าน่า..."
+        }
+      ]
+    },
+    {
+      "EntryName": "ThirdKioku02",
+      "TextList": [
+        {
+          "Line": 2122,
+          "OriginalText": "The location shining on the eastern edge\nis",
+          "TranslatedText": "สถานที่ที่ส่องแสงอยู่ทางขอบทิศตะวันออก\nคือ"
+        },
+        {
+          "Line": 2126,
+          "OriginalText": " Hateno Village",
+          "TranslatedText": " หมู่บ้าน Village"
+        },
+        {
+          "Line": 2129,
+          "OriginalText": ".",
+          "TranslatedText": "."
+        },
+        {
+          "Line": 2133,
+          "OriginalText": "\n\nIt is a small village... ",
+          "TranslatedText": "\n\nมันเป็นหมู่บ้านเล็กๆ... "
+        },
+        {
+          "Line": 2137,
+          "OriginalText": "One of the very few\nplaces that avoided suffering significant\ndamage during the Great Calamity.",
+          "TranslatedText": "หนึ่งในไม่กี่แห่ง\nที่สามารถหลีกเลี่ยงความเสียหายหนัก\nระหว่างที่เกิด Great Calamity มาได้"
+        }
+      ]
+    },
+    {
+      "EntryName": "ThirdKioku03",
+      "TextList": [
+        {
+          "Line": 2146,
+          "OriginalText": "You are Princess Zelda\u0027s only hope...\nand Hyrule\u0027s, as well...",
+          "TranslatedText": "นายเป็นความหวังเดียวของเจ้าหญิง Zelda...\nและของ Hyrule ด้วยเช่นกัน..."
+        },
+        {
+          "Line": 2150,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 2156,
+          "OriginalText": "You cannot turn back now.",
+          "TranslatedText": "นายถอยไม่ได้แล้ว"
+        },
+        {
+          "Line": 2160,
+          "OriginalText": "\nFollow your heart and\nseize your destiny!",
+          "TranslatedText": "\nจงตามหัวใจไป\nและกำหนดโชคชะตาด้วยตัวเอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "ThirdShinju02",
+      "TextList": [
+        {
+          "Line": 2174,
+          "OriginalText": "The ",
+          "TranslatedText": " "
+        },
+        {
+          "Line": 2178,
+          "OriginalText": "Sheikah Slate ",
+          "TranslatedText": "Sheikah Slate "
+        },
+        {
+          "Line": 2181,
+          "OriginalText": "will guide you on\nyour way. ",
+          "TranslatedText": "จะช่วยนำทาง\nให้กับนาย "
+        },
+        {
+          "Line": 2185,
+          "OriginalText": "You must go where it tells\nyou and meet with each ",
+          "TranslatedText": "นายต้องไปยังสถานที่ที่มันบอก\nและไปพบกับ "
+        },
+        {
+          "Line": 2189,
+          "OriginalText": "leader ",
+          "TranslatedText": "ผู้นำ "
+        },
+        {
+          "Line": 2192,
+          "OriginalText": "there.",
+          "TranslatedText": "ของที่เหล่านั้น"
+        }
+      ]
+    },
+    {
+      "EntryName": "hime00",
+      "TextList": [
+        {
+          "Line": 2201,
+          "OriginalText": "Ha!",
+          "TranslatedText": "ฮ่า!"
+        },
+        {
+          "Line": 2205,
+          "OriginalText": "\n\n\nNot a memory to your name, yet you are\nas intent as ever to charge forward with\nonly courage and justice on your side.\nYou have not changed a bit.\nOnce a hero, always a hero.",
+          "TranslatedText": "\nแม้แต่ชื่อตัวเองก็ยังจำไม่ได้ แต่นายก็ยัง\nมุ่งมั่นเหมือนเคย ที่จะพุ่งไปข้างหน้า\nโดยมีเพียงความกล้าหาญและความยุติธรรมอยู่ข้างกาย\nนายไม่เปลี่ยนไปเลยสักนิด\nเมื่อเป็นผู้กล้าแล้วครั้งหนึ่ง ก็เป็นตลอดไป"
+        }
+      ]
+    },
+    {
+      "EntryName": "kioku_00",
+      "TextList": [
+        {
+          "Line": 2217,
+          "OriginalText": "...It seems to me that your ",
+          "TranslatedText": "...ดูเหมือนว่า "
+        },
+        {
+          "Line": 2221,
+          "OriginalText": "Sheikah Slate",
+          "TranslatedText": "Sheikah Slate"
+        },
+        {
+          "Line": 2224,
+          "OriginalText": "\nis not yet complete.",
+          "TranslatedText": "\nของนายยังไม่สมบูรณ์"
+        }
+      ]
+    },
+    {
+      "EntryName": "kioku_01",
+      "TextList": [
+        {
+          "Line": 2233,
+          "OriginalText": "The device Princess Zelda left you is\nyour guide ",
+          "TranslatedText": "อุปกรณ์ที่เจ้าหญิง Zelda ทิ้งไว้ให้\nเป็นทั้งผู้นำทาง "
+        },
+        {
+          "Line": 2237,
+          "OriginalText": "and also your memory.",
+          "TranslatedText": "และความทรงจำของนายด้วย"
+        },
+        {
+          "Line": 2241,
+          "OriginalText": "\n\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 2247,
+          "OriginalText": "Now, let\u0027s see...",
+          "TranslatedText": "เอาล่ะ ดูซิ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "kioku_02",
+      "TextList": [
+        {
+          "Line": 2259,
+          "OriginalText": "Someone at the ",
+          "TranslatedText": "คนที่ "
+        },
+        {
+          "Line": 2263,
+          "OriginalText": "research lab in\nHateno Village ",
+          "TranslatedText": "ห้องวิจัยใน\nหมู่บ้าน Hateno "
+        },
+        {
+          "Line": 2266,
+          "OriginalText": "might be able to\nhelp you...",
+          "TranslatedText": "อาจจะสามารถ\nช่วยนายได้..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "FileName": "Npc_King_Common",
+  "EntryList": [
+    {
+      "EntryName": "2000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Who are you?",
+          "TranslatedText": "คุณเป็นใคร?"
+        }
+      ]
+    },
+    {
+      "EntryName": "2001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Where are we?",
+          "TranslatedText": "เราอยู่ที่ไหน?"
+        }
+      ]
+    },
+    {
+      "EntryName": "2003",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Bye.",
+          "TranslatedText": "บาย."
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha00",
+      "TextList": [
+        {
+          "Line": 25,
+          "OriginalText": "Me?",
+          "TranslatedText": "ฉัน?"
+        },
+        {
+          "Line": 29,
+          "OriginalText": " I\u0027ll spare you my life story.",
+          "TranslatedText": " ฉันจะเล่าเรื่องราวในชีวิตของฉันให้คุณฟัง"
+        }
+      ]
+    },
+    {
+      "EntryName": "Anataha01",
+      "TextList": [
+        {
+          "Line": 33,
+          "OriginalText": "I\u0027m just an old fool who has lived here,\nalone, for quite some time now.",
+          "TranslatedText": "ฉันเป็นแค่ชายแก่หน้าโง่ที่อาศัยอยู่ที่นี่\nคนเดียวมาสักระยะนึงแล้ว"
+        }
+      ]
+    },
+    {
+      "EntryName": "Bokangi10",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        },
+        {
+          "Line": 49,
+          "OriginalText": " It suits you quite well!",
+          "TranslatedText": " เหมาะกับคุณมากทีเดียวll!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Bokangi11",
+      "TextList": [
+        {
+          "Line": 58,
+          "OriginalText": "I assume you will want to try it on\nright away, yes?",
+          "TranslatedText": "ฉันคิดว่าคุณจะต้องลองทันทีใช่มั้ย?"
+        },
+        {
+          "Line": 62,
+          "OriginalText": "\n\nI thought you might be eager to see\nhow it looks... It\u0027s quite fetching!\n\nWell, I suppose it matters not. It is\nyours now.",
+          "TranslatedText": "\nฉันคิดว่าคุณอาจอยากเห็นว่ามันเป็นอย่างไร ...\nฉันคิดว่ามันไม่สำคัญ ตอนนี้เป็นของคุณแล้ว.\n"
+        },
+        {
+          "Line": 66,
+          "OriginalText": " Do take care to put it on\nbefore you get too cold, though.",
+          "TranslatedText": " โปรดระมัดระวังก่อนที่คุณจะเย็นเกินไป."
+        }
+      ]
+    },
+    {
+      "EntryName": "Bokangi13",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "With that, you will be able to resist the\nbite of colder environments.\n\nAs for me, I know a great ",
+          "TranslatedText": "ด้วยวิธีนี้คุณจะสามารถต้านทาน\nการกัดกินของสภาพแวดล้อมที่เย็นกว่าได้.\nสำหรับฉัน ฉันรู้ดี "
+        },
+        {
+          "Line": 79,
+          "OriginalText": "spicy\nmeat and seafood fry ",
+          "TranslatedText": "พริก\nทอดเนื้อสัตว์และอาหารทะเล "
+        },
+        {
+          "Line": 82,
+          "OriginalText": "recipe, so I can\ndo without that warm doublet.",
+          "TranslatedText": "สูตรอาหารดังนั้น\nฉันสามารถทำได้โดยไม่ต้องอบอุ่นเป็นสองเท่า."
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorEnemy",
+      "TextList": [
+        {
+          "Line": 86,
+          "OriginalText": "Hmm...",
+          "TranslatedText": "อืม ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "ClearTerrorGuardian",
+      "TextList": [
+        {
+          "Line": 90,
+          "OriginalText": "That was close...",
+          "TranslatedText": "มันปิด..."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstGoodBye00",
+      "TextList": [
+        {
+          "Line": 99,
+          "OriginalText": "Wait.",
+          "TranslatedText": "รอก่อน."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstGoodBye01",
+      "TextList": [
+        {
+          "Line": 108,
+          "OriginalText": "Where are you rushing off to now?",
+          "TranslatedText": "ตอนนี้คุณกำลังรีบไปที่ไหน?"
+        },
+        {
+          "Line": 112,
+          "OriginalText": "\nIs speaking with a strange old man truly\nsuch an awful use of your time?",
+          "TranslatedText": "\nการพูดคุยกับชายชราแปลกหน้า\nเป็นการรบกวนเวลาของคุณอย่างเลวร้ายงั้นหรือ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstGoodBye02",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "Hmph. Well, do as you like, then.",
+          "TranslatedText": "ฮึ่ม. งั้นก็ทำตามที่คุณต้องการแล้วกัน."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk00",
+      "TextList": [
+        {
+          "Line": 133,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        },
+        {
+          "Line": 137,
+          "OriginalText": " Well met, stranger!\nIt\u0027s rather unusual to see another soul\nin these parts.",
+          "TranslatedText": " เจอแล้วคนแปลกหน้า!\nมันค่อนข้างแปลกที่จะเห็น\nคนในพื้นที่แห่งนี้."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk01",
+      "TextList": [
+        {
+          "Line": 154,
+          "OriginalText": "It is a bit strange to see another soul\nin these parts.",
+          "TranslatedText": "เป็นเรื่องแปลกนิดหน่อยที่ได้เห็น\nคนในพื้นที่แห่งนี้."
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk02",
+      "TextList": [
+        {
+          "Line": 171,
+          "OriginalText": "What brings a bright-eyed young man\nlike you to a place like this?",
+          "TranslatedText": "อะไรทำให้ชายหนุ่ม ตาเป็นประกาย\nอย่างคุณมาอยู่ในสถานที่เช่นนี้?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk03",
+      "TextList": [
+        {
+          "Line": 188,
+          "OriginalText": "I hope you\u0027ll permit me a question...",
+          "TranslatedText": "ฉันหวังว่าคุณจะตอบคำถาม..."
+        },
+        {
+          "Line": 192,
+          "OriginalText": "\nIf I may be so bold...are you not chilly?",
+          "TranslatedText": "\nถ้าฉันกล้า...คุณไม่หนาว?"
+        }
+      ]
+    },
+    {
+      "EntryName": "FirstTalk05",
+      "TextList": [
+        {
+          "Line": 209,
+          "OriginalText": "Answering a question with a question.\nThat is fair enough.\n\nAs I cannot imagine our meeting to be a\nsimple coincidence...",
+          "TranslatedText": "ตอบคำถามด้วยคำถาม\nนั่นยุติธรรมแล้วเหรอ.\nอย่างที่ฉันนึกไม่ถึงว่าการพบกันของเรา\nจะเป็นเรื่องบังเอิญธรรมดา ๆ..."
+        },
+        {
+          "Line": 213,
+          "OriginalText": "I shall tell you.",
+          "TranslatedText": "ฉันจะบอกคุณ."
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye00",
+      "TextList": [
+        {
+          "Line": 222,
+          "OriginalText": "I look forward to seeing what type of\ntreasure you secure out there.",
+          "TranslatedText": "ฉันหวังว่าจะได้เห็นสมบัติอะไร\nที่คุณได้รับจากที่นั่น."
+        }
+      ]
+    },
+    {
+      "EntryName": "GoodBye01",
+      "TextList": [
+        {
+          "Line": 236,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        },
+        {
+          "Line": 240,
+          "OriginalText": " If you still wish to acquire the\n",
+          "TranslatedText": " หากคุณยังต้องการ\n"
+        },
+        {
+          "Line": 244,
+          "OriginalText": "paraglider",
+          "TranslatedText": "ร่มร่อน"
+        },
+        {
+          "Line": 247,
+          "OriginalText": ", you must put in the effort.\nI will not simply give it away, you see.",
+          "TranslatedText": ", คุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณก็รู้."
+        }
+      ]
+    },
+    {
+      "EntryName": "Kokoha00",
+      "TextList": [
+        {
+          "Line": 256,
+          "OriginalText": "This is the ",
+          "TranslatedText": "นี่คือ "
+        },
+        {
+          "Line": 260,
+          "OriginalText": "Great Plateau",
+          "TranslatedText": "ที่ราบสูงอันยิ่งใหญ่ Great Plateau"
+        },
+        {
+          "Line": 263,
+          "OriginalText": ".",
+          "TranslatedText": ".\n"
+        },
+        {
+          "Line": 267,
+          "OriginalText": " According to\nlegend, this is the birthplace of the\nentire kingdom of Hyrule.",
+          "TranslatedText": " ตามตำนานนี่คือสถานที่กำเนิด\nของอาณาจักร Hyrule."
+        }
+      ]
+    },
+    {
+      "EntryName": "Kokoha01",
+      "TextList": [
+        {
+          "Line": 276,
+          "OriginalText": "That temple there...",
+          "TranslatedText": "ที่วิหารนั้น..."
+        },
+        {
+          "Line": 280,
+          "OriginalText": " Long ago,\nit was the site of many sacred\nceremonies.\nEver since the decline of the kingdom\n100 years ago, it has sat abandoned,\nin a state of decay.",
+          "TranslatedText": " นานมาแล้ว\nเป็นสถานที่ประกอบพิธีศักดิ์สิทธิ์มากมาย\nนับตั้งแต่การล่มสลายของอาณาจักร\nเมื่อ 100 ปีที่แล้วก็ถูกทิ้งร้างในสภาพที่เสื่อมโทรม."
+        }
+      ]
+    },
+    {
+      "EntryName": "Kokoha02",
+      "TextList": [
+        {
+          "Line": 289,
+          "OriginalText": "Yet another forgotten entity. ",
+          "TranslatedText": "ผู้คนต่างลืมกันไปหมดแล้ว. "
+        },
+        {
+          "Line": 293,
+          "OriginalText": "A mere\nghost of its former self...",
+          "TranslatedText": "ฉันแวะ\nมาที่นี่เป็นบางครั้ง..."
+        }
+      ]
+    },
+    {
+      "EntryName": "NakedPlayer",
+      "TextList": [
+        {
+          "Line": 297,
+          "OriginalText": "Aren\u0027t you...a bit chilly?",
+          "TranslatedText": "คุณไม่ ... หนาวบ้างเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 304,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TalkHub1_01",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TalkHub1_02",
+      "TextList": [
+        {
+          "Line": 328,
+          "OriginalText": "Oho ho!",
+          "TranslatedText": "โอโฮโฮ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Tennokoe01",
+      "TextList": [
+        {
+          "Line": 337,
+          "OriginalText": "The blessing of the Goddess has made\nyou that much more resilient, I see...",
+          "TranslatedText": "พรของเทพธิดาทำให้\nคุณมีความยืดหยุ่นมากขึ้นฉันเห็น..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Tennokoe02",
+      "TextList": [
+        {
+          "Line": 346,
+          "OriginalText": "Here I am...",
+          "TranslatedText": "ฉันอยู่นี่..."
+        },
+        {
+          "Line": 350,
+          "OriginalText": "\nGet up here\u2014quickly!",
+          "TranslatedText": "\nปีนขึ้นมาที่นี่\u2014เร็วเข้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorArrow",
+      "TextList": [
+        {
+          "Line": 354,
+          "OriginalText": "What is this?!",
+          "TranslatedText": "นี่คืออะไร?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorBomb",
+      "TextList": [
+        {
+          "Line": 358,
+          "OriginalText": "What is it?!",
+          "TranslatedText": "มันคืออะไร?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorEnemy",
+      "TextList": [
+        {
+          "Line": 362,
+          "OriginalText": "Whoa!",
+          "TranslatedText": "โว้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorExplosion",
+      "TextList": [
+        {
+          "Line": 366,
+          "OriginalText": "Huh?!",
+          "TranslatedText": "ฮะ?!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorFire",
+      "TextList": [
+        {
+          "Line": 370,
+          "OriginalText": "Toasty...",
+          "TranslatedText": "ขนมปังปิ้ง ..."
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorGuardian",
+      "TextList": [
+        {
+          "Line": 374,
+          "OriginalText": "A Guardian!",
+          "TranslatedText": "ผู้พิทักษ์!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorImpulse",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "Whoa!",
+          "TranslatedText": "โว้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorInsect",
+      "TextList": [
+        {
+          "Line": 382,
+          "OriginalText": "Whoa!",
+          "TranslatedText": "โว้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorSword",
+      "TextList": [
+        {
+          "Line": 386,
+          "OriginalText": "Easy there!",
+          "TranslatedText": "สบายมาก!"
+        }
+      ]
+    }
+  ]
+}

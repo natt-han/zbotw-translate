@@ -1,0 +1,380 @@
+{
+  "FileName": "Npc_Assassin_005",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll buy!",
+          "TranslatedText": "ฉันซื้อ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "I\u0027ll pass.",
+          "TranslatedText": "ขอผ่าน"
+        }
+      ]
+    },
+    {
+      "EntryName": "5500",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Sure.",
+          "TranslatedText": "แน่นอน"
+        }
+      ]
+    },
+    {
+      "EntryName": "5501",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Nah.",
+          "TranslatedText": "ไม่อะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "5502",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "I\u0027ll buy!",
+          "TranslatedText": "ฉันซื้อ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "5503",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Actually, never mind.",
+          "TranslatedText": "ที่จริงแล้ว, ไม่เป็นไร"
+        }
+      ]
+    },
+    {
+      "EntryName": "5507",
+      "TextList": [
+        {
+          "Line": 32,
+          "OriginalText": "I\u0027ll take \u0027em all!",
+          "TranslatedText": "เหมา!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_06",
+      "TextList": [
+        {
+          "Line": 36,
+          "OriginalText": "Sweet, delicious, wonderful bananas!\nStep right up, and buy \u0027em right up!",
+          "TranslatedText": "กล้วยหวานอร่อย!\nเข้ามาซื้อไปได้เลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_07",
+      "TextList": [
+        {
+          "Line": 45,
+          "OriginalText": "No bananas left, all thanks to you!",
+          "TranslatedText": "กล้วยหมดแล้ว เป็นเพราะคุณเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_08",
+      "TextList": [
+        {
+          "Line": 54,
+          "OriginalText": "You haven\u0027t got enough rupees, friend.\nI\u0027m afraid you can\u0027t pay for these\nbananas in installments.",
+          "TranslatedText": "คุณมี rupees ไม่พอนะเพื่อน\nผ่อนจ่ายไม่ได้หรอกนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_09",
+      "TextList": [
+        {
+          "Line": 63,
+          "OriginalText": "Well, it looks like your inventory is full.\nNot even room for a banana in there.\nI can tell from here.",
+          "TranslatedText": "ดูเหมือนช่องเก็บของคุณจะเต็มนะ"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_10",
+      "TextList": [
+        {
+          "Line": 67,
+          "OriginalText": "Buy these sweet, sweet bananas!",
+          "TranslatedText": "ซื้อกล้วยหวานๆ พวกนี้สิ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "Sellin\u0027 over here! Sellin\u0027 over here!",
+          "TranslatedText": "ขายจ้า ขาย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11b",
+      "TextList": [
+        {
+          "Line": 93,
+          "OriginalText": "Thanky-thanky-thank-a you.",
+          "TranslatedText": "ขอบคุณจ้า"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11c",
+      "TextList": [
+        {
+          "Line": 102,
+          "OriginalText": "Even the bananas are happy now!",
+          "TranslatedText": "แม้แต่กล้วยก็ยังมีความสุข!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_11d",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "I bet you want more, don\u0027t you?",
+          "TranslatedText": "อยากได้อีกใช่มั้ยล่ะ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_12",
+      "TextList": [
+        {
+          "Line": 120,
+          "OriginalText": "These bananas are my pride and joy!",
+          "TranslatedText": "กล้วยพวกนี้คือว่าภาคภูมิใจของฉันเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_30",
+      "TextList": [
+        {
+          "Line": 124,
+          "OriginalText": "If you buy ",
+          "TranslatedText": "ถ้าคุณซื้อ"
+        },
+        {
+          "Line": 129,
+          "OriginalText": ", that\u0027ll come to a total\nof ",
+          "TranslatedText": ", ก็จะรวมเป็น\nof "
+        },
+        {
+          "Line": 137,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 140,
+          "OriginalText": ". Buy \u0027em right up!",
+          "TranslatedText": ". ซื้อเลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_31",
+      "TextList": [
+        {
+          "Line": 152,
+          "OriginalText": "Pick as many as you want.",
+          "TranslatedText": "หยิบไปได้เท่าที่ต้องการเลย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_34",
+      "TextList": [
+        {
+          "Line": 165,
+          "OriginalText": "All the bananas?! I don\u0027t know what to\nsay!",
+          "TranslatedText": "เหมาเลยเหรอ?! พูดไม่ออกเลยนะเนี่ย!"
+        },
+        {
+          "Line": 169,
+          "OriginalText": " So then...",
+          "TranslatedText": " งั้นก็..."
+        },
+        {
+          "Line": 174,
+          "OriginalText": " will run you ",
+          "TranslatedText": " will run you "
+        },
+        {
+          "Line": 182,
+          "OriginalText": "\nrupees",
+          "TranslatedText": "\nrupees"
+        },
+        {
+          "Line": 185,
+          "OriginalText": ". What a sale!",
+          "TranslatedText": ". ถูกโคตร!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_36",
+      "TextList": [
+        {
+          "Line": 202,
+          "OriginalText": "You really are a banana fan, aren\u0027t you?",
+          "TranslatedText": "ชอบกล้วยน่าดูเลยสินะเนี่ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_37",
+      "TextList": [
+        {
+          "Line": 211,
+          "OriginalText": "Well, well...",
+          "TranslatedText": "แหมๆ..."
+        },
+        {
+          "Line": 215,
+          "OriginalText": " Thanks to you, I haven\u0027t got\nany more bananas today.\n\nWant to take a look at the banana\ndelivery schedule before you go?",
+          "TranslatedText": " เป็นเพราะคุณ ฉันถึงขาย\nกล้วยได้หมด\nอยากดูรอบการส่งกล้วยก่อนไปมั้ย?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Com_Talk_56",
+      "TextList": [
+        {
+          "Line": 227,
+          "OriginalText": "Just one? That\u0027ll be ",
+          "TranslatedText": "อันเดียว? ก็จะเป็น "
+        },
+        {
+          "Line": 235,
+          "OriginalText": " rupees",
+          "TranslatedText": " rupees"
+        },
+        {
+          "Line": 238,
+          "OriginalText": ", then.\nBuy \u0027em right up!",
+          "TranslatedText": " นะ\nจ่ายมาได้เลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Henshin00",
+      "TextList": [
+        {
+          "Line": 264,
+          "OriginalText": "I will take your life!",
+          "TranslatedText": "ข้าจะเอาชีวิตแก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Henshin01",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "For the bana\u2014I mean, for the\nboss!",
+          "TranslatedText": "เพื่อกล้ว\u2014ไม่สิ เพื่อหัวหน้า!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 303,
+          "OriginalText": "Step right up and buy \u0027em!",
+          "TranslatedText": "ก้าวเข้ามาซื้อไปได้เลย!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk00",
+      "TextList": [
+        {
+          "Line": 312,
+          "OriginalText": "Step right up\u2014don\u0027t be shy! Check out\nmy fine bananas! They\u0027re available...\nto buy!\nSo yellow,",
+          "TranslatedText": "ก้าวเข้ามาเลย\u2014ไม่ต้องอาย! ลองดู\nกล้วยคุณภาพดีของฉันสิ! พร้อมขาย!\nเหลืองอร่าม"
+        },
+        {
+          "Line": 316,
+          "OriginalText": " they\u0027ll make you yell \u0022oh!\u0022 So\nfresh, you\u0027ll think there\u0027s a tree around\nthe corner. And the taste\u2014like a dream!\nStay right there and buy a pair!",
+          "TranslatedText": " จนต้องร้อง \u0022โอ้ว!\u0022 \nสดจนนึกว่าเพิ่งเด็ดจากต้น\nและรสชาติ\u2014อร่อยอย่างกับฝันไป!\nซื้อสักคู่สิ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk01",
+      "TextList": [
+        {
+          "Line": 333,
+          "OriginalText": "Pass? Pass?! It would be a mistake to\npass on these amazing, wonderful,\nfantastic bananas!\n",
+          "TranslatedText": "ผ่าน? ผ่านเหรอ?! คุณพลาดแล้วที่จะ\nขอผ่านกล้ายที่วิเศษ มหัศจรรย์ และยอดเยี่ยมขนาดนี้!\n"
+        },
+        {
+          "Line": 339,
+          "OriginalText": "Listen, here\u0027s how it works: I sell; you\nbuy! Stop holding up the show, and do\nyour part!",
+          "TranslatedText": "ฟังนะ ขั้นตอนมันต้องเป็นอย่างนี้: ฉันขาย; คุณซื้อ! \nเลิกทำให้ขั้นตอนชะงัก แล้วก็เล่นตามบทได้แล้ว!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk02",
+      "TextList": [
+        {
+          "Line": 356,
+          "OriginalText": "Well then... I hope you come back later...",
+          "TranslatedText": "งั้นก็... หวังว่าจะกลับมาใหม่นะ..."
+        },
+        {
+          "Line": 360,
+          "OriginalText": "\nThat\u0027s a lie as slippery as a banana peel.",
+          "TranslatedText": "\nโกหกได้ลื่นเหมือนเปลือกกล้วยเลยนะเนี่ย"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk03",
+      "TextList": [
+        {
+          "Line": 369,
+          "OriginalText": "...What\u2014do you hate bananas?",
+          "TranslatedText": "...ไรนะ\u2014คุณไม่ชอบกล้วยงั้นเหรอ?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Talk04",
+      "TextList": [
+        {
+          "Line": 378,
+          "OriginalText": "Come on down, young man! Looking to\nbuy bananas this time? You can!\n\nJust take a look at these fine bananas!\nBuy them up quick before you\u0027ve\nmissed your chance!",
+          "TranslatedText": "มาทางนี้สิ พ่อหนุ่ม! ซื้อกล้วยหน่อยมั้ย?\nดูกล้วยชั้นดีพวกนี้สิ!\nรีบซื้อก่อนจะขายหมดนะ!"
+        }
+      ]
+    }
+  ]
+}

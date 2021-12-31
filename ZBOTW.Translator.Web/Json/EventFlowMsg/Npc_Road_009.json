@@ -1,0 +1,680 @@
+{
+  "FileName": "Npc_Road_009",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "Ugh, I\u0027m really tired of this... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": "Seriously...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 26,
+          "OriginalText": "Oh, geez... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 30,
+          "OriginalText": "How\u0027d I get myself into\nthis mess...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 39,
+          "OriginalText": "Curse those monsters!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 43,
+          "OriginalText": " I\u0027ll remember this!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 52,
+          "OriginalText": "That really hurt! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 56,
+          "OriginalText": "Curse those monsters!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 65,
+          "OriginalText": "Hey! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 69,
+          "OriginalText": "It\u0027s heading this way!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 73,
+          "OriginalText": " Run!!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 82,
+          "OriginalText": "What is it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 86,
+          "OriginalText": " Oh, just thought you\u0027d come\nand talk to me, then?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 90,
+          "OriginalText": " Well, I\u0027m on my\nway to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 94,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 97,
+          "OriginalText": ".\nThey say the fish and fruit there are\nreally fantastic, so I thought I\u0027d go there\nand add them to my diet!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 106,
+          "OriginalText": "I\u0027m on my way to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 110,
+          "OriginalText": "Lurelin Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 113,
+          "OriginalText": "...\n\n\nThey say the fish and fruit there are\nreally delicious, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 117,
+          "OriginalText": "so I thought I\u0027d try and\nadd them to my diet!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 126,
+          "OriginalText": "Oh, hey! Hey! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 130,
+          "OriginalText": "Have you got a second?\nI wanted to ask...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 134,
+          "OriginalText": " Are you good at\ncooking with fish or fruit?\nYou\u0027ve had a lot of success combining\nthose ingredients, right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 143,
+          "OriginalText": "Have you had a lot of success cooking\nfish or fruit dishes?\n\nYou haven\u0027t ended up with dubious meals\nwhile you\u0027re learning new recipes,\nhave you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 152,
+          "OriginalText": "A famous place where love can become\na reality, huh...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 158,
+          "OriginalText": "Oh, sorry! I was talking to myself there.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 162,
+          "OriginalText": "\nI was just thinking about a place called\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 166,
+          "OriginalText": "Lover\u0027s Pond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 169,
+          "OriginalText": "...\nThey say it\u0027s to the south, and I think I\nsaw it on a map once...\n\nIt\u0027s literally heart shaped, which was\nsurprising to me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 173,
+          "OriginalText": "but I don\u0027t know\nwhat I expected.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 185,
+          "OriginalText": "Lover\u0027s Pond",
+          "TranslatedText": null
+        },
+        {
+          "Line": 188,
+          "OriginalText": ", which they say is to the\nsouth...\n\nAnd it\u0027s literally heart shaped, which\nwas surprising to me...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 192,
+          "OriginalText": "but I don\u0027t know\nwhat I expected.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 201,
+          "OriginalText": "What\u0027s that?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 205,
+          "OriginalText": " Did you want some\ninformation from me?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 209,
+          "OriginalText": " Let\u0027s see...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 215,
+          "OriginalText": "Meat dishes are well suited for refilling\nyour health, and you can expect some\nspecial effects from dishes with fishes.\nHehe. Is that the sort of thing you\u0027re\ncurious about?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 224,
+          "OriginalText": "Meat dishes are really great for helping\nyou recover your health. ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": "Fish dishes can\ncontain pretty-special effects, though!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 237,
+          "OriginalText": "If you take a boat and head east of\nLurelin Village, you can get all the way\nout to Eventide Island!\nHa! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 241,
+          "OriginalText": "Such a sudden revelation, I\u0027d expect\nnothing less than for you to make that\nface!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 250,
+          "OriginalText": "If you hop on a boat and head east of\nLurelin Village, you can get to\nEventide Island!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "I feel very...something.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 258,
+          "OriginalText": "This feeling...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 262,
+          "OriginalText": "I\u0027ve gotta cheer up...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 266,
+          "OriginalText": "Almost done with today...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "Rain\u2014seriously?!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 279,
+          "OriginalText": "That\u0027s right! The Faron Highroad!\nIt\u0027s warm and known for its fish and fruit!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 288,
+          "OriginalText": "This rain is really bringing me down.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 292,
+          "OriginalText": "\nI\u0027m sure I\u0027ll feel better when things clear\nup, though... *sigh*",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 301,
+          "OriginalText": "People often tell me that I can be a bit\ntemperamental. That...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 305,
+          "OriginalText": "doesn\u0027t mean I\u0027m\ngetting sick or anything...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00",
+      "TextList": [
+        {
+          "Line": 314,
+          "OriginalText": "\u266ALa dee da dee da!\u266A ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 318,
+          "OriginalText": "\n\n\nLakeside Stable is a great place for me to\ncook loads of different dishes",
+          "TranslatedText": null
+        },
+        {
+          "Line": 322,
+          "OriginalText": " and\nincrease the number of recipes I know!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_00_1",
+      "TextList": [
+        {
+          "Line": 331,
+          "OriginalText": "I think I\u0027m gonna try and cook a bunch\nof different dishes! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 335,
+          "OriginalText": "It\u0027s always good to\nknow a ton of different recipes!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01",
+      "TextList": [
+        {
+          "Line": 344,
+          "OriginalText": "What\u0027s up? Feeling bored?\nLooking for adventure?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": " Why don\u0027t you\ntravel west of the Lakeside Stable, then?\nThere\u0027s a place out there called\nHighland Stable. But be careful\u2014there\u0027s\na bunch of monsters on the way.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_01_1",
+      "TextList": [
+        {
+          "Line": 357,
+          "OriginalText": "What about trying to head further west\nof Lakeside Stable?\n\nThere\u0027s a place called Highland Stable,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 361,
+          "OriginalText": "\nbut you\u0027re bound to run into a bunch of\nmonsters on your way there...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02",
+      "TextList": [
+        {
+          "Line": 370,
+          "OriginalText": "Heya! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 374,
+          "OriginalText": "Wheeee!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 378,
+          "OriginalText": " I\u0027m feeling SO darn good\ntoday!\n\nI think I might head south of here to\nLover\u0027s Pond and try to find myself\na partner, yessir!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_02_1",
+      "TextList": [
+        {
+          "Line": 387,
+          "OriginalText": "I think I might head south of here and\nfind Lover\u0027s Pond! Maybe fortune will\nsmile on me and I\u0027ll find a partner!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03",
+      "TextList": [
+        {
+          "Line": 396,
+          "OriginalText": "Hey! Do you think I\u0027m...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 400,
+          "OriginalText": "temperamental?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 404,
+          "OriginalText": "\nYou do? You don\u0027t? Do you?! You think\nI\u0027ve got random mood swings, huh?!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 410,
+          "OriginalText": "Er, sorry...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 414,
+          "OriginalText": " Here, I\u0027ll share some nice info\nI came across as my form of apology.\n\nThe fish in Lurelin Village are pretty fatty.\nAs a result, I hear they\u0027re incredibly\ndelicious when you grill them!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_03_1",
+      "TextList": [
+        {
+          "Line": 423,
+          "OriginalText": "The fish around Lurelin Village are pretty\nfatty...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 427,
+          "OriginalText": " That means they\u0027re unbelievably\ndelicious if you grill them!\nAre you glad I was here to give you such\na great tip?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 431,
+          "OriginalText": " Of course you are!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04",
+      "TextList": [
+        {
+          "Line": 440,
+          "OriginalText": "What now? Whaddya want? *grouse*",
+          "TranslatedText": null
+        },
+        {
+          "Line": 444,
+          "OriginalText": "\nI don\u0027t have any food for your belly, but\nI do have some food for thought...\nApparently, there are ruins on the coast\nnear Lurelin Village!\n\nThat\u0027s all!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 448,
+          "OriginalText": " Did you get all that?\nIt was pretty short, after all.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Firo_04_1",
+      "TextList": [
+        {
+          "Line": 457,
+          "OriginalText": "What?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 461,
+          "OriginalText": " You want to hear the helpful info I\ngave you again? The really short info?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 465,
+          "OriginalText": "\nOK...\nApparently, there are ruins not too far\nfrom the coast near Lurelin Village!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 469,
+          "OriginalText": "\nThat\u0027s it!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 478,
+          "OriginalText": "It\u0027s safe now, right? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 482,
+          "OriginalText": "Right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 491,
+          "OriginalText": "Everything\u0027s OK now, isn\u0027t it?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": " Isn\u0027t it?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 504,
+          "OriginalText": "I thought I was a goner for sure!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 513,
+          "OriginalText": "Uh\u2014I think I\u0027ve got really bad luck!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 522,
+          "OriginalText": "Thank you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 526,
+          "OriginalText": "for saving me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 535,
+          "OriginalText": "You\u0027re pretty strong... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 539,
+          "OriginalText": "Thanks.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorAnimal",
+      "TextList": [
+        {
+          "Line": 543,
+          "OriginalText": "Give me a break...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "TerrorEnemy",
+      "TextList": [
+        {
+          "Line": 547,
+          "OriginalText": "Is this the end?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 556,
+          "OriginalText": "I\u0027ve got to give you a reward, huh...",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

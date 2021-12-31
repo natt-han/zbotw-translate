@@ -1,0 +1,695 @@
+{
+  "FileName": "KorokMini_KorokShiren",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "I\u0027ll do it!",
+          "TranslatedText": "ฉันจะทำมัน!"
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Korok Trials?",
+          "TranslatedText": "การทดลอง Korok?"
+        }
+      ]
+    },
+    {
+      "EntryName": "0002",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "Maybe later...",
+          "TranslatedText": "ไว้ก่อน..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Near000",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "Amazing!",
+          "TranslatedText": "น่าทึ่ง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk000",
+      "TextList": [
+        {
+          "Line": 29,
+          "OriginalText": "What?! ",
+          "TranslatedText": "อะไร?! "
+        },
+        {
+          "Line": 33,
+          "OriginalText": "You\u0027ve finished all of the ",
+          "TranslatedText": "คุณทำ"
+        },
+        {
+          "Line": 37,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 40,
+          "OriginalText": "?\n\n\n",
+          "TranslatedText": "เสร็จทั้งหมดแล้ว?\n"
+        },
+        {
+          "Line": 46,
+          "OriginalText": "*whistle*",
+          "TranslatedText": "*ผิวปาก*"
+        },
+        {
+          "Line": 50,
+          "OriginalText": "\nThat\u0027s amazing! You\u0027re so cool!",
+          "TranslatedText": "\nที่น่าตื่นตาตื่นใจ! คุณเจ๋งมาก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk010",
+      "TextList": [
+        {
+          "Line": 59,
+          "OriginalText": "Now it\u0027s only a matter of time before\nyou\u0027re able to pull out the ",
+          "TranslatedText": "ตอนนี้เป็นเพียงเรื่องของเวลา\nก่อนที่คุณจะสามารถดึง "
+        },
+        {
+          "Line": 63,
+          "OriginalText": "Master Sword",
+          "TranslatedText": "Master Sword"
+        },
+        {
+          "Line": 66,
+          "OriginalText": ".\n\nHurry up and show us what you\u0027ve got!",
+          "TranslatedText": ".\nรีบแสดงให้เราเห็นว่าคุณมีอะไรบ้าง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk020",
+      "TextList": [
+        {
+          "Line": 75,
+          "OriginalText": "Ah!",
+          "TranslatedText": "อา!"
+        },
+        {
+          "Line": 79,
+          "OriginalText": " I know that look.\n\n\nYou want me to give you something since\nyou visited all the places, don\u0027t you?",
+          "TranslatedText": " ฉันรู้รูปลักษณ์นั้น\nคุณต้องการให้ฉันให้อะไรคุณ\nตั้งแต่คุณเยี่ยมชมสถานที่ทั้งหมดใช่ไหม"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk030",
+      "TextList": [
+        {
+          "Line": 88,
+          "OriginalText": "...I guess I have no choice.",
+          "TranslatedText": "...ฉันเดาว่าฉันไม่มีทางเลือก."
+        },
+        {
+          "Line": 92,
+          "OriginalText": "\nI\u0027ll give you my treasured item.",
+          "TranslatedText": "\nฉันจะให้ของมีค่าของฉัน"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk040",
+      "TextList": [
+        {
+          "Line": 101,
+          "OriginalText": "...Hnngh!\nYou have too many ",
+          "TranslatedText": "...อ้าา!\nคุณมีมากเกินไป "
+        },
+        {
+          "Line": 105,
+          "OriginalText": "big hearty truffles",
+          "TranslatedText": "ทรัฟเฟิลแสนอร่อย"
+        },
+        {
+          "Line": 108,
+          "OriginalText": "!\n\n",
+          "TranslatedText": "!\n"
+        },
+        {
+          "Line": 114,
+          "OriginalText": "I wanted to give you a few\n",
+          "TranslatedText": "ฉันอยากจะให้คุณไม่กี่\n"
+        },
+        {
+          "Line": 118,
+          "OriginalText": "big hearty truffles ",
+          "TranslatedText": "ทรัฟเฟิลแสนอร่อย "
+        },
+        {
+          "Line": 121,
+          "OriginalText": "as a reward, but...\n\nIt would be rude to the ",
+          "TranslatedText": "เป็นรางวัล แต่...\nมันจะหยาบคายกับ "
+        },
+        {
+          "Line": 125,
+          "OriginalText": "big hearty truffle",
+          "TranslatedText": "ทรัฟเฟิลแสนอร่อย"
+        },
+        {
+          "Line": 128,
+          "OriginalText": "\nto jam it into your pouch so\nunceremoniously...",
+          "TranslatedText": "\nเพื่อยัดมันลงในกระเป๋าของคุณอย่างไม่ระมัดระวัง..."
+        },
+        {
+          "Line": 139,
+          "OriginalText": "Come back and see me when your\n",
+          "TranslatedText": "\nกลับมาหาฉันเมื่อ\n"
+        },
+        {
+          "Line": 143,
+          "OriginalText": "big hearty truffle",
+          "TranslatedText": "ทรัฟเฟิลแสนอร่อย"
+        },
+        {
+          "Line": 146,
+          "OriginalText": " supply runs out!",
+          "TranslatedText": " ขาดมือ!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_F_Talk060",
+      "TextList": [
+        {
+          "Line": 155,
+          "OriginalText": "Try eating a dish cooked with that\n",
+          "TranslatedText": "ลองรับประทานอาหารที่ปรุงด้วย\n"
+        },
+        {
+          "Line": 159,
+          "OriginalText": "big hearty truffle",
+          "TranslatedText": "ทรัฟเฟิลแสนอร่อย"
+        },
+        {
+          "Line": 162,
+          "OriginalText": "...",
+          "TranslatedText": "..."
+        },
+        {
+          "Line": 166,
+          "OriginalText": "\n\nIt\u0027ll soothe all of your aches and pains\nand then some!\n\n",
+          "TranslatedText": "\nมันจะช่วยบรรเทาอาการปวดเมื่อยของคุณได้บ้าง!\n"
+        },
+        {
+          "Line": 172,
+          "OriginalText": "I\u0027m not pulling your branch here!",
+          "TranslatedText": "ฉันไม่ได้หลอกคุณมาที่นี่!"
+        },
+        {
+          "Line": 176,
+          "OriginalText": "\nJust try it for yourself!",
+          "TranslatedText": "\nเพียงแค่ลองด้วยตัวคุณเอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Near000",
+      "TextList": [
+        {
+          "Line": 180,
+          "OriginalText": "Complete the trials!",
+          "TranslatedText": "เสร็จสิ้นการทดลอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk000",
+      "TextList": [
+        {
+          "Line": 189,
+          "OriginalText": "Us Koroks all got together and prepared\nsome ",
+          "TranslatedText": "พวกเรา Koroks ทั้งหมดมารวมตัวกัน\nและเตรียมการบางอย่าง "
+        },
+        {
+          "Line": 193,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 196,
+          "OriginalText": " just for you, Mr. Hero!\n\n",
+          "TranslatedText": " \nสำหรับคุณ Mr. Hero!\n"
+        },
+        {
+          "Line": 202,
+          "OriginalText": "Although you may not need them, since\nyou already pulled the ",
+          "TranslatedText": "แม้ว่าคุณอาจไม่ต้องการ \nเนื่องจากคุณดึง "
+        },
+        {
+          "Line": 206,
+          "OriginalText": "Master Sword",
+          "TranslatedText": "Master Sword"
+        },
+        {
+          "Line": 209,
+          "OriginalText": " out\nand all...\nBut these ",
+          "TranslatedText": " ออก\nและทั้งหมด...\nแต่สิ่งเหล่านี้ "
+        },
+        {
+          "Line": 213,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 216,
+          "OriginalText": " will help you grow even\nstronger than you are now!\n\nAmong them is an extra-tough one\ndesigned by me, the elder of\n",
+          "TranslatedText": " จะช่วยให้คุณ\nเติบโตขึ้นอย่างแข็งแกร่งกว่าที่เป็นอยู่ในตอนนี้!\nในหมู่พวกเขาเป็นสิ่งที่แข็งแกร่งเป็นพิเศษ\nที่ออกแบบโดยฉันผู้อาวุโสของ\n"
+        },
+        {
+          "Line": 220,
+          "OriginalText": "Korok Forest",
+          "TranslatedText": "ป่า Korok"
+        },
+        {
+          "Line": 223,
+          "OriginalText": ".\nSo will you test your mettle in the \n",
+          "TranslatedText": ".\nดังนั้นคุณจะทดสอบความกล้าหาญของคุณใน\n"
+        },
+        {
+          "Line": 227,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": "การทดลองKorok"
+        },
+        {
+          "Line": 230,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk010",
+      "TextList": [
+        {
+          "Line": 248,
+          "OriginalText": "Us Koroks all got together and prepared\nsome ",
+          "TranslatedText": "พวกเรา Koroks ทั้งหมดมารวมตัวกัน\nและเตรียมพร้อม\nบาง "
+        },
+        {
+          "Line": 252,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 255,
+          "OriginalText": " just for you, Mr. Hero!\n\nIf you pass the ve",
+          "TranslatedText": " \nสำหรับคุณ, Mr. Hero!\nหากคุณผ่าน ve"
+        },
+        {
+          "Line": 259,
+          "OriginalText": "e",
+          "TranslatedText": "e"
+        },
+        {
+          "Line": 263,
+          "OriginalText": "e",
+          "TranslatedText": "e"
+        },
+        {
+          "Line": 267,
+          "OriginalText": "e",
+          "TranslatedText": "e"
+        },
+        {
+          "Line": 271,
+          "OriginalText": "ry tough ",
+          "TranslatedText": "ry tough "
+        },
+        {
+          "Line": 275,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 278,
+          "OriginalText": "\nwe\u0027ve prepared...pulling out the\n",
+          "TranslatedText": "\nเราเตรียม ... ดึง\n"
+        },
+        {
+          "Line": 282,
+          "OriginalText": "Master Sword ",
+          "TranslatedText": "Master Sword "
+        },
+        {
+          "Line": 285,
+          "OriginalText": "will be a piece of cake!",
+          "TranslatedText": "จะเป็นเรื่องกล้วยๆ!"
+        },
+        {
+          "Line": 289,
+          "OriginalText": "\n...Probably!\n\n\n",
+          "TranslatedText": "\n...อาจจะนะ!\n"
+        },
+        {
+          "Line": 295,
+          "OriginalText": "Among the ",
+          "TranslatedText": "ท่ามกลาง "
+        },
+        {
+          "Line": 299,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 302,
+          "OriginalText": " is an extra-tough one\ndesigned by me, the elder of\n",
+          "TranslatedText": " เป็นสิ่งที่ยาก\nเป็นพิเศษที่สร้างโดยฉันผู้อาวุโสของ\n"
+        },
+        {
+          "Line": 306,
+          "OriginalText": "Korok Forest",
+          "TranslatedText": "ป่า Korok"
+        },
+        {
+          "Line": 309,
+          "OriginalText": ".\nSo will you test your mettle in the\n",
+          "TranslatedText": ".\nดังนั้นคุณจะทดสอบความกล้าหาญของคุณใน\n"
+        },
+        {
+          "Line": 313,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": "การทดลองKorok"
+        },
+        {
+          "Line": 316,
+          "OriginalText": "?",
+          "TranslatedText": "?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk020",
+      "TextList": [
+        {
+          "Line": 334,
+          "OriginalText": "Ya know, if you keep doing everything\neveryone asks of you without question,\nyou\u0027re gonna get conned eventually...\n",
+          "TranslatedText": "คุณรู้ไหมถ้าคุณทำทุกอย่าง\nที่ทุกคนถามถึงคุณโดยไม่มีคำถาม\nคุณจะถูกหลอกในที่สุด ...\n"
+        },
+        {
+          "Line": 340,
+          "OriginalText": "Anyway, where was I?",
+          "TranslatedText": "อย่างไรก็ตามฉันอยู่ที่ไหน?"
+        },
+        {
+          "Line": 344,
+          "OriginalText": "\nOh, yeah! The ",
+          "TranslatedText": "\nโอ้ ใช่! ที่ "
+        },
+        {
+          "Line": 348,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": "การทดลอง Korok"
+        },
+        {
+          "Line": 351,
+          "OriginalText": "!\n\nLong story short\u2014you need to visit all\nthe shrines in the Korok Forest so that\nyou can be considered ",
+          "TranslatedText": "!\nเรื่องสั้นแต่ยาว คุณต้องไปเยี่ยมชมศาลเจ้า\nทุกแห่งในป่า Korok เพื่อที่คุณจะได้รับ\nการทดลอง "
+        },
+        {
+          "Line": 355,
+          "OriginalText": "a real grown-up",
+          "TranslatedText": "การเติบโตที่แท้จริง"
+        },
+        {
+          "Line": 358,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk030",
+      "TextList": [
+        {
+          "Line": 367,
+          "OriginalText": "Ah, you need to think about it first...\nWise boy...\n\n",
+          "TranslatedText": "อาจะต้องคิดก่อน ...\nเด็กฉลาด...\n\n"
+        },
+        {
+          "Line": 373,
+          "OriginalText": "The ",
+          "TranslatedText": "การ "
+        },
+        {
+          "Line": 377,
+          "OriginalText": "Korok Trials",
+          "TranslatedText": "ทดลอง Korok "
+        },
+        {
+          "Line": 380,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        },
+        {
+          "Line": 386,
+          "OriginalText": "Long story short\u2014you need to visit all\nthe shrines in the Korok Forest so that\nyou can be considered ",
+          "TranslatedText": "เรื่องสั้นแต่ยาว \n- คุณต้องเยี่ยมชม\nศาลเจ้าในป่า Korok ทั้งหมด \nเพื่อให้คุณได้รับการทดลอง "
+        },
+        {
+          "Line": 390,
+          "OriginalText": "a real grown-up",
+          "TranslatedText": "การเติบโต - ที่แท้จริง"
+        },
+        {
+          "Line": 393,
+          "OriginalText": "!\nIt\u0027s a ceremony that every Korok must\nundertake, and it\u0027s based on the trials of\nthe legendary hero himself!\n",
+          "TranslatedText": "!\nเป็นพิธีที่ Korok ทุกคนต้องทำและมัน\nขึ้นอยู่กับการทดลองของฮีโร่ในตำนานเอง!\n"
+        },
+        {
+          "Line": 399,
+          "OriginalText": "I\u0027ve done it...and so has Hestu...and him\nover there, and her too, and even the\nGreat Deku Tree himself has done it!\nOK...that last part was a lie.\nHe\u0027s pretty rooted.",
+          "TranslatedText": "ฉันทำไปแล้ว ...  มี Hestu ด้วย ... \nและเขาที่นั่นกับเธอก็เช่นกัน และแม้แต่\nต้น Deku ที่ยิ่งใหญ่เองก็ทำสำเร็จแล้ว!\nโอเค ... ส่วนสุดท้ายนั้นเป็นเรื่องโกหก\nเขาค่อนข้างหยั่งรากลึก"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk040",
+      "TextList": [
+        {
+          "Line": 408,
+          "OriginalText": "You don\u0027t want to do it?! Well, why not?!\nDon\u0027t let this opportunity go to waste!\n\nIf you do it, I\u0027ll tell you all about the time\nHestu fell flat on his face while dancing!\n",
+          "TranslatedText": "ไม่อยากทำเหรอ! ทำไมไม่ล่ะ!\nอย่าปล่อยโอกาสอย่างนี้สูญเปล่า!\nถ้าคุณทำ ฉันจะบอกคุณทุกอย่างเกี่ยวกับเวลา\nHestu ก้มหน้าเขาขณะเต้น!!\n"
+        },
+        {
+          "Line": 412,
+          "OriginalText": "Even though I promised I wouldn\u0027t!",
+          "TranslatedText": "แม้ว่าฉันสัญญาว่าฉันจะไม่ทำ!"
+        },
+        {
+          "Line": 416,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 422,
+          "OriginalText": "You don\u0027t seem interested...",
+          "TranslatedText": "ดูเหมือนคุณจะไม่สนใจ..."
+        },
+        {
+          "Line": 426,
+          "OriginalText": "\n*sigh* I give up...",
+          "TranslatedText": "\n*ถอนหายใจ* ฉันยอมแพ้..."
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk500",
+      "TextList": [
+        {
+          "Line": 438,
+          "OriginalText": "Trial one!",
+          "TranslatedText": "การทดลองที่หนึ่ง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk510",
+      "TextList": [
+        {
+          "Line": 450,
+          "OriginalText": "In the southwest forest:\n",
+          "TranslatedText": "ในป่าตะวันตกเฉียงใต้:\n"
+        },
+        {
+          "Line": 457,
+          "OriginalText": "Trial of Second Sight",
+          "TranslatedText": "การทดลองของ สายตาที่สอง"
+        },
+        {
+          "Line": 460,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk520",
+      "TextList": [
+        {
+          "Line": 472,
+          "OriginalText": "Trial two!",
+          "TranslatedText": "การทดลองที่สอง!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk530",
+      "TextList": [
+        {
+          "Line": 484,
+          "OriginalText": "In the northwest forest:",
+          "TranslatedText": "ในป่าตะวันตกเฉียงเหนือ:"
+        },
+        {
+          "Line": 488,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 492,
+          "OriginalText": "The Lost Pilgrimage",
+          "TranslatedText": "การแสวงบุญที่หายไป"
+        },
+        {
+          "Line": 495,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk540",
+      "TextList": [
+        {
+          "Line": 507,
+          "OriginalText": "Trial three!",
+          "TranslatedText": "การทดลองที่สาม!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk550",
+      "TextList": [
+        {
+          "Line": 519,
+          "OriginalText": "In the eastern forest:",
+          "TranslatedText": "ในป่าตะวันออก:"
+        },
+        {
+          "Line": 523,
+          "OriginalText": "\n",
+          "TranslatedText": "\n"
+        },
+        {
+          "Line": 527,
+          "OriginalText": "The Test of Wood",
+          "TranslatedText": "การทดสอบไม้"
+        },
+        {
+          "Line": 530,
+          "OriginalText": "!",
+          "TranslatedText": "!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk560",
+      "TextList": [
+        {
+          "Line": 539,
+          "OriginalText": "If you can overcome the Korok Trials,\nyou can overcome anything!\n\nWe\u0027ve also prepared some wonderful\nprizes for you!",
+          "TranslatedText": "หากคุณเอาชนะการทดลอง Korok ได้\nคุณจะเอาชนะอะไรก็ได้!\nเราได้เตรียมรางวัลที่ยอดเยี่ยมไว้ให้คุณด้วย!\n"
+        },
+        {
+          "Line": 550,
+          "OriginalText": "Now show us what you\u0027re made of!",
+          "TranslatedText": "ตอนนี้แสดงให้เราเห็นว่าคุณทำมาจากอะไร!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk570",
+      "TextList": [
+        {
+          "Line": 559,
+          "OriginalText": "All right, do your be\u2014",
+          "TranslatedText": "เอาล่ะทำตามที่คุณต้องการ\u2014"
+        },
+        {
+          "Line": 563,
+          "OriginalText": "st...",
+          "TranslatedText": "st..."
+        },
+        {
+          "Line": 574,
+          "OriginalText": "You\u0027ve already completed all of the\n",
+          "TranslatedText": "คุณทำเสร็จแล้วทั้งหมดของ\n"
+        },
+        {
+          "Line": 578,
+          "OriginalText": "trials",
+          "TranslatedText": "การทดลอง"
+        },
+        {
+          "Line": 581,
+          "OriginalText": "?!\n\n",
+          "TranslatedText": "?!\n"
+        },
+        {
+          "Line": 587,
+          "OriginalText": "*whistle* ",
+          "TranslatedText": "*ผิวปาก* "
+        },
+        {
+          "Line": 591,
+          "OriginalText": "\nThat\u0027s amazing! You\u0027re so cool!",
+          "TranslatedText": "\nที่น่าตื่นตาตื่นใจ! คุณเจ๋งมาก!"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk580",
+      "TextList": [
+        {
+          "Line": 600,
+          "OriginalText": "Well? Will you do it?",
+          "TranslatedText": "ดีมั้ย? คุณจะทำมันไหม?"
+        }
+      ]
+    },
+    {
+      "EntryName": "Npc_Kokiri008_R_Talk590",
+      "TextList": [
+        {
+          "Line": 617,
+          "OriginalText": "All right!",
+          "TranslatedText": "เอาล่ะ!"
+        },
+        {
+          "Line": 621,
+          "OriginalText": " Do your best!",
+          "TranslatedText": "ทำให้ดีที่สุด!"
+        }
+      ]
+    }
+  ]
+}

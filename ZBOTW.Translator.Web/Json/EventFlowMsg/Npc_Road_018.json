@@ -1,0 +1,830 @@
+{
+  "FileName": "Npc_Road_018",
+  "EntryList": [
+    {
+      "EntryName": "Atacked00",
+      "TextList": [
+        {
+          "Line": 13,
+          "OriginalText": "*pant",
+          "TranslatedText": null
+        },
+        {
+          "Line": 17,
+          "OriginalText": " pant* ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 21,
+          "OriginalText": "\nFrankly, I thought I was done for...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Atacked01",
+      "TextList": [
+        {
+          "Line": 30,
+          "OriginalText": "Shh! ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 34,
+          "OriginalText": "Looks like there are still some\nmonsters about...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed00",
+      "TextList": [
+        {
+          "Line": 46,
+          "OriginalText": "Ouch, this scratch...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 50,
+          "OriginalText": " I hope it\u0027ll heal...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Failed01",
+      "TextList": [
+        {
+          "Line": 59,
+          "OriginalText": "Ow! Owowowow... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 63,
+          "OriginalText": "What a terrible thing\nto have happen to me...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Guardian00",
+      "TextList": [
+        {
+          "Line": 72,
+          "OriginalText": "We\u0027ve got to run!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 76,
+          "OriginalText": " There\u0027s a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 80,
+          "OriginalText": "Guardian",
+          "TranslatedText": null
+        },
+        {
+          "Line": 83,
+          "OriginalText": "\ncoming this way!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 92,
+          "OriginalText": "Hmm... I don\u0027t know how interested\nyou\u0027d be to hear about this, really...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 98,
+          "OriginalText": "Oh, what the heck!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": " I wanted to talk about\ngems!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 106,
+          "OriginalText": " Still interested? Maybe not, but...\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 112,
+          "OriginalText": "What would you say if I told you that you\ncan sell gems at ridiculously high prices!\nInterested now?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 121,
+          "OriginalText": "Even if the sight of gems doesn\u0027t spur\nyou to action, I\u0027m sure the sight of what\nthey sell for will!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 130,
+          "OriginalText": "...Have you ever been to the\nDueling Peaks?\n\nThose mountains are really rich in ore!\nI want to get out there with a trusty\nhammer and really mine up a fortune!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 136,
+          "OriginalText": "I can see it now...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 140,
+          "OriginalText": " Big piles of gems\nstacked neatly as far as the eye can see.\nA buyer giving me tons of rupees...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 146,
+          "OriginalText": "Oh! Sorry...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 150,
+          "OriginalText": " When I think about gems,\nI just get so excited...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 159,
+          "OriginalText": "You can dig up a bunch of ore on \nDueling Peaks!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 163,
+          "OriginalText": " Now that I think about it,\nI should use a hammer to mine that ore!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 172,
+          "OriginalText": "You wouldn\u0027t happen to be heading to\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 176,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 179,
+          "OriginalText": ", would you?\n\nIf you are, just follow the roads north.\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 185,
+          "OriginalText": "That village is one of the places I\nsell ore at, so I know the way\nreally well!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 194,
+          "OriginalText": "To get to ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 198,
+          "OriginalText": "Kakariko Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 201,
+          "OriginalText": ", follow the\nroads north.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 210,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 214,
+          "OriginalText": "\n\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 220,
+          "OriginalText": "Oh, yikes! I\u0027m sorry!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 224,
+          "OriginalText": " I was having such a\nbeautiful daydream, I was completely\nzoned out...\nThinking about",
+          "TranslatedText": null
+        },
+        {
+          "Line": 228,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 232,
+          "OriginalText": "rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 235,
+          "OriginalText": " and ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 239,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 242,
+          "OriginalText": "...\n\n\nThose two gems can be sold at really\nhigh prices!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 246,
+          "OriginalText": " They\u0027re some of the best\ngems to sell for serious money!!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 250,
+          "OriginalText": "\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 256,
+          "OriginalText": "...Sorry.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 260,
+          "OriginalText": " I just get so carried away when\nit comes to gems...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 269,
+          "OriginalText": "The best way to realize a gem\u0027s true\nvalue is by selling it!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 273,
+          "OriginalText": " ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": "Rubies",
+          "TranslatedText": null
+        },
+        {
+          "Line": 280,
+          "OriginalText": " and\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 284,
+          "OriginalText": "sapphires",
+          "TranslatedText": null
+        },
+        {
+          "Line": 287,
+          "OriginalText": " sell for a high price!\nBetter to sell than to hold on to them\nuntil you\u0027re old and gray!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 296,
+          "OriginalText": "A gem\u0027s value lies in its beauty... I was\njust thinking about all the wonderful\ngems I\u0027ve seen!\nAnd I was thinking about the glee I\u0027ve\nfelt when I consider all the money one\ncan sell a beautiful gem for!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 302,
+          "OriginalText": "Not to brag, but I just made a few sales\nand am feeling full of glee at\nthe moment...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "MSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 311,
+          "OriginalText": "Physically owning something as\nbeautiful as a gem is important, but...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 315,
+          "OriginalText": "\nmoney is nice, too.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near00",
+      "TextList": [
+        {
+          "Line": 319,
+          "OriginalText": "\u266AMorn\u0027n diamonds.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near01",
+      "TextList": [
+        {
+          "Line": 323,
+          "OriginalText": "\u266ASun rays of topaz.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near02",
+      "TextList": [
+        {
+          "Line": 327,
+          "OriginalText": "\u266ARupees over rubies.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near03",
+      "TextList": [
+        {
+          "Line": 331,
+          "OriginalText": "\u266AStars are sapphires.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Near04",
+      "TextList": [
+        {
+          "Line": 335,
+          "OriginalText": "\u266AIt\u0027s raining opals.\u266A",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_00",
+      "TextList": [
+        {
+          "Line": 344,
+          "OriginalText": "You\u0027ve got a nice pouch for carrying\nthings,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 348,
+          "OriginalText": " but are you carrying a lot of ore?\n\nIf you\u0027re just carrying it around,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 352,
+          "OriginalText": " you\u0027re\nmissing out on a chance to make a\nkilling!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 356,
+          "OriginalText": " Ore is valuable!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_01",
+      "TextList": [
+        {
+          "Line": 365,
+          "OriginalText": "When it\u0027s pouring rain, the fuses on\nbomb arrows will go out, so they\nwon\u0027t explode.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 371,
+          "OriginalText": "What\u0027s with that look?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 375,
+          "OriginalText": " Am I not allowed\nto talk about something besides ore?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Rest_02",
+      "TextList": [
+        {
+          "Line": 384,
+          "OriginalText": "...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 388,
+          "OriginalText": "\n\n\nHonestly, I don\u0027t feel much like talking\nwhen it\u0027s all rainy out...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00",
+      "TextList": [
+        {
+          "Line": 397,
+          "OriginalText": "I love pretty much everything that\nsparkles...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 401,
+          "OriginalText": " Stars in the night sky... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 405,
+          "OriginalText": "The\nshimmer off a lake...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 409,
+          "OriginalText": " Gems...\nOh, gems, I\u0027d pick you over everything\nelse!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 415,
+          "OriginalText": "...Because I can sell you at a high price\nand be rolling in money!\n\n*sigh* I love things that sparkle so much.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_00_1",
+      "TextList": [
+        {
+          "Line": 424,
+          "OriginalText": "I love the way a gem sparkles in the right\nlight, but the profits selling a gem can\nbring also sparkle something wonderful.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 430,
+          "OriginalText": "I guess I just really love things\nthat sparkle.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01",
+      "TextList": [
+        {
+          "Line": 439,
+          "OriginalText": "I know this may seem a little random, but\nhave you got a hammer?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 443,
+          "OriginalText": " It\u0027ll be helpful\nto have one if you\u0027re gonna collect ore.\nSome people use explosives instead,\nthough...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 447,
+          "OriginalText": " It\u0027s really dangerous, but they\nstill do it.\nJust... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 451,
+          "OriginalText": "Please don\u0027t use explosives near\nme, OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_01_1",
+      "TextList": [
+        {
+          "Line": 460,
+          "OriginalText": "Some people use bombs...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 464,
+          "OriginalText": " \nBut hammers are the best for mining.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02",
+      "TextList": [
+        {
+          "Line": 473,
+          "OriginalText": "You\u0027re lost, aren\u0027t you?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 477,
+          "OriginalText": " Oh, no, it\u0027s OK!\nEveryone gets lost from time to time.\n\nThe ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 481,
+          "OriginalText": "Dueling Peaks Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 484,
+          "OriginalText": " is to the south,\nand ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 488,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 491,
+          "OriginalText": " is to the east.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 495,
+          "OriginalText": " If you\nhave a map, look at it as you travel.\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 501,
+          "OriginalText": "It\u0027s too bad there isn\u0027t a map to life,\nyou know?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_02_1",
+      "TextList": [
+        {
+          "Line": 510,
+          "OriginalText": "The ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 514,
+          "OriginalText": "Dueling Peaks Stable",
+          "TranslatedText": null
+        },
+        {
+          "Line": 517,
+          "OriginalText": " is to the south,\nand ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 521,
+          "OriginalText": "Hateno Village",
+          "TranslatedText": null
+        },
+        {
+          "Line": 524,
+          "OriginalText": " is to the east.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 528,
+          "OriginalText": " Make\nuse of your map while you\u0027re traveling.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03",
+      "TextList": [
+        {
+          "Line": 537,
+          "OriginalText": "Have you got some experience handling\ndangerous items?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 541,
+          "OriginalText": " Like...bombs?\n\nThere\u0027s a ton of high-quality ore around\nhere, and bombs can be used to mine it\nquickly. Plus, there\u0027ll be a cool explosion!\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 547,
+          "OriginalText": "Just... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 551,
+          "OriginalText": "Don\u0027t set the bombs off near\nme, OK?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_03_1",
+      "TextList": [
+        {
+          "Line": 560,
+          "OriginalText": "There\u0027s a lot of high-quality ore around\nhere...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 564,
+          "OriginalText": " How about using a bomb to make\nan exciting ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 568,
+          "OriginalText": "explosion",
+          "TranslatedText": null
+        },
+        {
+          "Line": 571,
+          "OriginalText": "?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04",
+      "TextList": [
+        {
+          "Line": 580,
+          "OriginalText": "I can\u0027t think about anything else... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 584,
+          "OriginalText": "\nIt\u0027s just ore and gems and making money\nall the time...\nMaybe I should try thinking about things\nthat can help others and not just my\nwallet...\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 590,
+          "OriginalText": "For example... Did you know you can put\na ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 594,
+          "OriginalText": "bird egg",
+          "TranslatedText": null
+        },
+        {
+          "Line": 597,
+          "OriginalText": " into a hot spring and you\u0027ll\nmake a hard-boiled egg? That\u0027s helpful!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "RetMSG_Futa_04_1",
+      "TextList": [
+        {
+          "Line": 606,
+          "OriginalText": "My stomach is rumbling...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 610,
+          "OriginalText": "\nMaybe I\u0027ll put a ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 614,
+          "OriginalText": "bird egg ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 617,
+          "OriginalText": "into a \nhot spring to make a hard-boiled egg...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_00",
+      "TextList": [
+        {
+          "Line": 626,
+          "OriginalText": "The monsters are gone, right? ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 630,
+          "OriginalText": "Right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv1_01",
+      "TextList": [
+        {
+          "Line": 639,
+          "OriginalText": "Phew... ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 643,
+          "OriginalText": "I managed to get away\nsomehow...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_00",
+      "TextList": [
+        {
+          "Line": 652,
+          "OriginalText": "I thought for sure I was done for, but I\nsomehow managed to narrowly\nescape death!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv2_01",
+      "TextList": [
+        {
+          "Line": 661,
+          "OriginalText": "Wow, you\u0027re really powerful!",
+          "TranslatedText": null
+        },
+        {
+          "Line": 665,
+          "OriginalText": " I\u0027ll never\nforget that I owe you my life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_00",
+      "TextList": [
+        {
+          "Line": 674,
+          "OriginalText": "I owe you my life!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "SavedLv3_01",
+      "TextList": [
+        {
+          "Line": 686,
+          "OriginalText": "If you hadn\u0027t shown up when you did,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 690,
+          "OriginalText": "\nright now I\u0027d probably be... Well...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "Thanks00",
+      "TextList": [
+        {
+          "Line": 699,
+          "OriginalText": "This is to show my thanks!",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}

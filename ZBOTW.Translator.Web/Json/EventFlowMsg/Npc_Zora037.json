@@ -1,0 +1,420 @@
+{
+  "FileName": "Npc_Zora037",
+  "EntryList": [
+    {
+      "EntryName": "0000",
+      "TextList": [
+        {
+          "Line": 8,
+          "OriginalText": "Yes, please.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0001",
+      "TextList": [
+        {
+          "Line": 12,
+          "OriginalText": "Good-bye.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0005",
+      "TextList": [
+        {
+          "Line": 16,
+          "OriginalText": "King Dorephan?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0006",
+      "TextList": [
+        {
+          "Line": 20,
+          "OriginalText": "You\u0027re female, right?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0007",
+      "TextList": [
+        {
+          "Line": 24,
+          "OriginalText": "How old are you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "0009",
+      "TextList": [
+        {
+          "Line": 28,
+          "OriginalText": "Prince Sidon?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk00",
+      "TextList": [
+        {
+          "Line": 37,
+          "OriginalText": "Ah, a Hylian...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk01",
+      "TextList": [
+        {
+          "Line": 46,
+          "OriginalText": "Well, hello there.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk02",
+      "TextList": [
+        {
+          "Line": 55,
+          "OriginalText": "It looks like Father was rather excited to\nspeak with you...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 59,
+          "OriginalText": " Oh, well.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk03",
+      "TextList": [
+        {
+          "Line": 68,
+          "OriginalText": "I believe this is our first meeting, yes?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 72,
+          "OriginalText": "\nMy name is Dunma.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk04",
+      "TextList": [
+        {
+          "Line": 84,
+          "OriginalText": "...My, how observant you are.\nIs there a problem?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk05",
+      "TextList": [
+        {
+          "Line": 96,
+          "OriginalText": "That is NOT an appropriate question to\nask a lady you\u0027ve just met!\n\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 102,
+          "OriginalText": "*sigh* Let\u0027s just say I\u0027m less than\n100 years old. Can\u0027t you tell?\n\nI\u0027m so much less formal than the elders...\naren\u0027t I?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk06",
+      "TextList": [
+        {
+          "Line": 111,
+          "OriginalText": "At any rate, right now ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 115,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 121,
+          "OriginalText": "\nis looking for a Hylian warrior.\n\nFor more detailed information, ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 125,
+          "OriginalText": "please go\nspeak with King Dorephan in the back.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk07",
+      "TextList": [
+        {
+          "Line": 134,
+          "OriginalText": "What\u0027s wrong?",
+          "TranslatedText": null
+        },
+        {
+          "Line": 138,
+          "OriginalText": " Do you need something?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk08",
+      "TextList": [
+        {
+          "Line": 182,
+          "OriginalText": "Hm.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk09",
+      "TextList": [
+        {
+          "Line": 191,
+          "OriginalText": "To get to King Dorephan\u0027s throne room,\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 195,
+          "OriginalText": "go up that big staircase and then up\none more floor.\nTake care to mind your manners!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk10",
+      "TextList": [
+        {
+          "Line": 204,
+          "OriginalText": "Recently the weather ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 208,
+          "OriginalText": "has let up a bit.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk11",
+      "TextList": [
+        {
+          "Line": 217,
+          "OriginalText": "It\u0027s been a while since we\u0027ve seen the\nsun here...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk13",
+      "TextList": [
+        {
+          "Line": 226,
+          "OriginalText": "So...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 230,
+          "OriginalText": "you\u0027re the one who appeased the\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 234,
+          "OriginalText": "Divine Beast Vah Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 237,
+          "OriginalText": "!\n\nI heard from my father...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 241,
+          "OriginalText": "that you\u0027re\nactually the same Hylian Champion\nfrom 100 years ago. Or something.\nI should have expected as much from the\nHylian Champion...",
+          "TranslatedText": null
+        },
+        {
+          "Line": 245,
+          "OriginalText": " I will continue to pray\nfor good fortune in the coming war.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk14",
+      "TextList": [
+        {
+          "Line": 254,
+          "OriginalText": "You are no ordinary man...\n\n\nYou are always welcome here in\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 258,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 261,
+          "OriginalText": "!",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk15",
+      "TextList": [
+        {
+          "Line": 270,
+          "OriginalText": "King Dorephan is the regal ruler of\n",
+          "TranslatedText": null
+        },
+        {
+          "Line": 274,
+          "OriginalText": "Zora\u0027s Domain",
+          "TranslatedText": null
+        },
+        {
+          "Line": 277,
+          "OriginalText": ".",
+          "TranslatedText": null
+        },
+        {
+          "Line": 281,
+          "OriginalText": " He is also the father\nof Prince Sidon and Lady Mipha.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk16",
+      "TextList": [
+        {
+          "Line": 290,
+          "OriginalText": "How many times do I have to tell you?!\nI\u0027m less than 100 years old!\n\nYou can tell, can\u0027t you?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk17",
+      "TextList": [
+        {
+          "Line": 299,
+          "OriginalText": "Prince Sidon is King Dorephan\u0027s son.\n\n\nDespite his position as true successor \nto the throne...he\u0027s very sociable.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 303,
+          "OriginalText": "\nThat makes him popular with the youth.\nHowever, there are those among the\nelders",
+          "TranslatedText": null
+        },
+        {
+          "Line": 307,
+          "OriginalText": " who do not comprehend why\nhe behaves as he does.",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk18",
+      "TextList": [
+        {
+          "Line": 316,
+          "OriginalText": "Do you have any more questions?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk19",
+      "TextList": [
+        {
+          "Line": 360,
+          "OriginalText": "By the way, did you need something\nfrom me?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk20",
+      "TextList": [
+        {
+          "Line": 404,
+          "OriginalText": "I wonder if ",
+          "TranslatedText": null
+        },
+        {
+          "Line": 408,
+          "OriginalText": "Ruta",
+          "TranslatedText": null
+        },
+        {
+          "Line": 411,
+          "OriginalText": " has stopped spouting\nwater everywhere...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk21",
+      "TextList": [
+        {
+          "Line": 420,
+          "OriginalText": "A Hylian, eh?",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk22",
+      "TextList": [
+        {
+          "Line": 429,
+          "OriginalText": "Ah, so you\u0027re the Hylian that Prince\nSidon brought...",
+          "TranslatedText": null
+        }
+      ]
+    },
+    {
+      "EntryName": "talk23",
+      "TextList": [
+        {
+          "Line": 438,
+          "OriginalText": "At any rate,",
+          "TranslatedText": null
+        },
+        {
+          "Line": 442,
+          "OriginalText": " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan.",
+          "TranslatedText": null
+        },
+        {
+          "Line": 446,
+          "OriginalText": "\nDon\u0027t you think?",
+          "TranslatedText": null
+        }
+      ]
+    }
+  ]
+}
