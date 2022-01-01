@@ -7,12 +7,14 @@
         {
           "Line": 13,
           "OriginalText": "Yes...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Colour": null
         },
         {
           "Line": 17,
           "OriginalText": " It\u0027s nice to relax and observe the\nanimals every once in a while.",
-          "TranslatedText": " นานๆ ครั้ง ได้มาผ่อนคลาย\nแล้วมองดูสัตว์ แบบนี้ก็ดีนะ"
+          "TranslatedText": " นานๆ ครั้ง ได้มาผ่อนคลาย\nแล้วมองดูสัตว์ แบบนี้ก็ดีนะ",
+          "Colour": null
         }
       ]
     },
@@ -22,42 +24,50 @@
         {
           "Line": 26,
           "OriginalText": "Ah, these are...",
-          "TranslatedText": "อา พวกนี้คือ..."
+          "TranslatedText": "อา พวกนี้คือ...",
+          "Colour": null
         },
         {
           "Line": 30,
           "OriginalText": "the ",
-          "TranslatedText": "the "
+          "TranslatedText": "the ",
+          "Colour": null
         },
         {
           "Line": 34,
           "OriginalText": "ancient columns",
-          "TranslatedText": "ancient columns"
+          "TranslatedText": "ancient columns",
+          "Colour": "blue"
         },
         {
           "Line": 37,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         },
         {
           "Line": 48,
           "OriginalText": "If you cross the ",
-          "TranslatedText": "ถ้าข้าม "
+          "TranslatedText": "ถ้าข้าม ",
+          "Colour": null
         },
         {
           "Line": 52,
           "OriginalText": "Tabantha Great Bridge",
-          "TranslatedText": "Tabantha Great Bridge"
+          "TranslatedText": "Tabantha Great Bridge",
+          "Colour": "blue"
         },
         {
           "Line": 55,
           "OriginalText": "\nover there, there\u0027s a large cliff to the\nsouth.",
-          "TranslatedText": "\nตรงนั้นไป จะมีหน้าผาขนาดใหญ่อยู่ทางใต้\n"
+          "TranslatedText": "\nตรงนั้นไป จะมีหน้าผาขนาดใหญ่อยู่ทางใต้\n",
+          "Colour": null
         },
         {
           "Line": 59,
           "OriginalText": " The ruins are atop that cliff.",
-          "TranslatedText": " สถานที่ในรูปอยู่บนยอดผานั้นแหละ"
+          "TranslatedText": " สถานที่ในรูปอยู่บนยอดผานั้นแหละ",
+          "Colour": null
         }
       ]
     },
@@ -67,19 +77,23 @@
         {
           "Line": 68,
           "OriginalText": "I recall that ",
-          "TranslatedText": "ฉันจำ "
+          "TranslatedText": "ฉันจำ ",
+          "Colour": null
         },
         {
           "Line": 72,
           "OriginalText": "shrine",
-          "TranslatedText": "shrine"
+          "TranslatedText": "shrine",
+          "Colour": "red"
         },
         {
           "Line": 75,
           "OriginalText": " you can see on the\nright there, too, so I\u0027m pretty certain\nthat\u0027s the place.",
-          "TranslatedText": " ที่อยู่ตรงนั้นได้\nฉันค่อนข้างแน่ใจว่ามันคือที่นั่น"
+          "TranslatedText": " ที่อยู่ตรงนั้นได้\nฉันค่อนข้างแน่ใจว่ามันคือที่นั่น",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

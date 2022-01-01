@@ -7,32 +7,38 @@
         {
           "Line": 18,
           "OriginalText": "Don\u0027t you think the waterfall flowing\ndown from ",
-          "TranslatedText": "คิดมั้ยว่าภาพของน้ำตก\nที่ไหลลงมากจาก "
+          "TranslatedText": "คิดมั้ยว่าภาพของน้ำตก\nที่ไหลลงมากจาก ",
+          "Colour": null
         },
         {
           "Line": 22,
           "OriginalText": "Lake Floria ",
-          "TranslatedText": "Lake Floria "
+          "TranslatedText": "Lake Floria ",
+          "Colour": "blue"
         },
         {
           "Line": 25,
           "OriginalText": "is the very picture\nof perfection?",
-          "TranslatedText": " นั้นช่าง\nสมบูรณ์แบบ?"
+          "TranslatedText": " นั้นช่าง\nสมบูรณ์แบบ?",
+          "Colour": null
         },
         {
           "Line": 31,
           "OriginalText": "There is something strange at the ",
-          "TranslatedText": "แต่ว่ามีบางอย่างแปลกๆ "
+          "TranslatedText": "แต่ว่ามีบางอย่างแปลกๆ ",
+          "Colour": null
         },
         {
           "Line": 35,
           "OriginalText": "top of\nthat waterfall",
-          "TranslatedText": "\nอยู่ที่ด้านบนของน้ำตก"
+          "TranslatedText": "\nอยู่ที่ด้านบนของน้ำตก",
+          "Colour": "red"
         },
         {
           "Line": 38,
           "OriginalText": ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow.",
-          "TranslatedText": "...\nและแม้ว่ามันจะลดขนาดลงตามกาลเวลา \nแต่ก็ยังมองเห็นได้ว่ามันส่องแสงจางๆ"
+          "TranslatedText": "...\nและแม้ว่ามันจะลดขนาดลงตามกาลเวลา \nแต่ก็ยังมองเห็นได้ว่ามันส่องแสงจางๆ",
+          "Colour": null
         }
       ]
     },
@@ -42,12 +48,14 @@
         {
           "Line": 47,
           "OriginalText": "Maybe I\u0027m just imagining things...",
-          "TranslatedText": "บางที่ฉันอาจจะคิดไปเอง..."
+          "TranslatedText": "บางที่ฉันอาจจะคิดไปเอง...",
+          "Colour": null
         },
         {
           "Line": 51,
           "OriginalText": "\nWas it like that the whole time?",
-          "TranslatedText": "\nมันเป็นแบบนั้นมาตลอดเลยงั้นเหรอ?"
+          "TranslatedText": "\nมันเป็นแบบนั้นมาตลอดเลยงั้นเหรอ?",
+          "Colour": null
         }
       ]
     },
@@ -57,9 +65,11 @@
         {
           "Line": 60,
           "OriginalText": "Zzz...zzz...",
-          "TranslatedText": "Zzz...zzz..."
+          "TranslatedText": "Zzz...zzz...",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

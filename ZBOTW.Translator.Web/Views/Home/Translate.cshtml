@@ -47,7 +47,7 @@ textarea {
                         <td>
                             <div v-for="text in item.textList" class="row gx-2">                                
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-translated-'+text.Line" v-model="text.translatedText" ></textarea>
+                                    <textarea type="text" v-bind:id="'txt-translated-'+text.Line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
                                 </div>
                                 <div class="col-auto">
                                     <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>

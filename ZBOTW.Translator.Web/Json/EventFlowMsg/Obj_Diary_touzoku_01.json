@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Don\u0027t read.",
-          "TranslatedText": "ไม่อ่าน"
+          "TranslatedText": "ไม่อ่าน",
+          "Colour": null
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Next page.",
-          "TranslatedText": "หน้าถัดไป"
+          "TranslatedText": "หน้าถัดไป",
+          "Colour": null
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Previous page.",
-          "TranslatedText": "หน้าก่อน"
+          "TranslatedText": "หน้าก่อน",
+          "Colour": null
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Stop reading.",
-          "TranslatedText": "หยุดอ่าน"
+          "TranslatedText": "หยุดอ่าน",
+          "Colour": null
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "First page.",
-          "TranslatedText": "หน้าแรก"
+          "TranslatedText": "หน้าแรก",
+          "Colour": null
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Last page.",
-          "TranslatedText": "หน้าสุดท้าย"
+          "TranslatedText": "หน้าสุดท้าย",
+          "Colour": null
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Was this book always here?",
-          "TranslatedText": "ตรงนี้เคยมีสมุดวางอยู่ด้วยเหรอ?"
+          "TranslatedText": "ตรงนี้เคยมีสมุดวางอยู่ด้วยเหรอ?",
+          "Colour": null
         }
       ]
     },
@@ -77,12 +84,14 @@
         {
           "Line": 45,
           "OriginalText": "I hid the eight priceless relics I stole\nfrom Hyrule Castle in treasure chests...\nI shall write down their locations. -",
-          "TranslatedText": "ฉันซ่อนสมบัติล้ำค่าแปดชิ้นที่ขโมยมาจาก\nHyrule Castle ไว้ในหีบ...\nฉันจะเขียนตำแหน่งของพวกมันเอาไว้-"
+          "TranslatedText": "ฉันซ่อนสมบัติล้ำค่าแปดชิ้นที่ขโมยมาจาก\nHyrule Castle ไว้ในหีบ...\nฉันจะเขียนตำแหน่งของพวกมันเอาไว้-",
+          "Colour": null
         },
         {
           "Line": 49,
           "OriginalText": "Misko",
-          "TranslatedText": "Misko"
+          "TranslatedText": "Misko",
+          "Colour": "blue"
         }
       ]
     },
@@ -92,27 +101,32 @@
         {
           "Line": 63,
           "OriginalText": "The ancient mask lies ",
-          "TranslatedText": "หน้ากากโบราณอยู่ที่ "
+          "TranslatedText": "หน้ากากโบราณอยู่ที่ ",
+          "Colour": null
         },
         {
           "Line": 67,
           "OriginalText": "at the ruins where\nsoldiers gathered",
-          "TranslatedText": "ซากปรักหักพัง\nที่ทหารมารวมตัวกัน"
+          "TranslatedText": "ซากปรักหักพัง\nที่ทหารมารวมตัวกัน",
+          "Colour": "red"
         },
         {
           "Line": 70,
           "OriginalText": ". From there, ",
-          "TranslatedText": ". จากตรงนั้น "
+          "TranslatedText": ". จากตรงนั้น ",
+          "Colour": null
         },
         {
           "Line": 74,
           "OriginalText": "the waters\nof Lake Kolomo are visible",
-          "TranslatedText": "สามารถมองเห็น\nLake Kolomo ได้"
+          "TranslatedText": "สามารถมองเห็น\nLake Kolomo ได้",
+          "Colour": "red"
         },
         {
           "Line": 77,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -122,47 +136,56 @@
         {
           "Line": 90,
           "OriginalText": "The green garments of the man who\nwished to be a fairy are hidden ",
-          "TranslatedText": "ชุดสีเขียวของชายผู้ปรารถนาจะเป็น\nแฟรี่ถูกซ่อนไว้ "
+          "TranslatedText": "ชุดสีเขียวของชายผู้ปรารถนาจะเป็น\nแฟรี่ถูกซ่อนไว้ ",
+          "Colour": null
         },
         {
           "Line": 94,
           "OriginalText": "in\nthe ruins of Hyrule Field",
-          "TranslatedText": "in\nซากปรักหักพังแห่ง Hyrule Field"
+          "TranslatedText": "in\nซากปรักหักพังแห่ง Hyrule Field",
+          "Colour": "red"
         },
         {
           "Line": 97,
           "OriginalText": ".\nFind these pieces ",
-          "TranslatedText": "\nหาพวกมันได้จาก "
+          "TranslatedText": "\nหาพวกมันได้จาก ",
+          "Colour": null
         },
         {
           "Line": 101,
           "OriginalText": "at the ruins\nwhere trade flourished",
-          "TranslatedText": "ซากปรักหักพัง\nที่เคยมีการค้ารุ่งเรือง"
+          "TranslatedText": "ซากปรักหักพัง\nที่เคยมีการค้ารุ่งเรือง",
+          "Colour": "red"
         },
         {
           "Line": 104,
           "OriginalText": "...\n\n",
-          "TranslatedText": "...\n"
+          "TranslatedText": "...\n",
+          "Colour": null
         },
         {
           "Line": 108,
           "OriginalText": "at the ruins where sinners\nwere imprisoned",
-          "TranslatedText": "ซากปรักหักพังที่คนบาป\nถูกจองจำ"
+          "TranslatedText": "ซากปรักหักพังที่คนบาป\nถูกจองจำ",
+          "Colour": "red"
         },
         {
           "Line": 111,
           "OriginalText": "...\n\nand ",
-          "TranslatedText": "...\nและ "
+          "TranslatedText": "...\nและ ",
+          "Colour": null
         },
         {
           "Line": 115,
           "OriginalText": "at the village ruins next to\nfarmland where many people\nonce gathered",
-          "TranslatedText": "ที่ซากหมู่บ้านถัดจากฟาร์ม\nที่เคยมีคนรวมกันอยู่จำนวนมาก"
+          "TranslatedText": "ที่ซากหมู่บ้านถัดจากฟาร์ม\nที่เคยมีคนรวมกันอยู่จำนวนมาก",
+          "Colour": "red"
         },
         {
           "Line": 118,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -172,17 +195,20 @@
         {
           "Line": 131,
           "OriginalText": "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found ",
-          "TranslatedText": "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found "
+          "TranslatedText": "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found ",
+          "Colour": null
         },
         {
           "Line": 135,
           "OriginalText": "at the\ntemple ruins soaked in the waters\nof Regencia River",
-          "TranslatedText": "at the\ntemple ruins soaked in the waters\nof Regencia River"
+          "TranslatedText": "at the\ntemple ruins soaked in the waters\nof Regencia River",
+          "Colour": "red"
         },
         {
           "Line": 138,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -192,47 +218,56 @@
         {
           "Line": 151,
           "OriginalText": "Armor worn by fierce phantoms,\nfeared even by heroes, is hidden\n",
-          "TranslatedText": "ชุดเกราะที่เคยสวมใส่โดยผีร้าย\nที่แม้แต่ผู้กล้ายังหวาดกลัว ถูกซ่อนไว้\n"
+          "TranslatedText": "ชุดเกราะที่เคยสวมใส่โดยผีร้าย\nที่แม้แต่ผู้กล้ายังหวาดกลัว ถูกซ่อนไว้\n",
+          "Colour": null
         },
         {
           "Line": 155,
           "OriginalText": "in the ruins of Hyrule Field",
-          "TranslatedText": "ใน Hyrule Field"
+          "TranslatedText": "ใน Hyrule Field",
+          "Colour": "red"
         },
         {
           "Line": 158,
           "OriginalText": ".\nFind these pieces ",
-          "TranslatedText": "\nหาพวกมันได้จาก "
+          "TranslatedText": "\nหาพวกมันได้จาก ",
+          "Colour": null
         },
         {
           "Line": 162,
           "OriginalText": "at a battleground\nwhere brave souls tested their skill",
-          "TranslatedText": "สนามประลอง\nที่ซึ่งผู้มีใจกล้าหาญมาทดสอบความสามารถกัน"
+          "TranslatedText": "สนามประลอง\nที่ซึ่งผู้มีใจกล้าหาญมาทดสอบความสามารถกัน",
+          "Colour": "red"
         },
         {
           "Line": 165,
           "OriginalText": "...\n\n",
-          "TranslatedText": "...\n"
+          "TranslatedText": "...\n",
+          "Colour": null
         },
         {
           "Line": 169,
           "OriginalText": "at ceremonial grounds where\nroyal guards are honored",
-          "TranslatedText": "พื้นที่เคยจัดพิธี\nสรรเสริญเหล่าองครักษ์ราชวงศ์"
+          "TranslatedText": "พื้นที่เคยจัดพิธี\nสรรเสริญเหล่าองครักษ์ราชวงศ์",
+          "Colour": "red"
         },
         {
           "Line": 172,
           "OriginalText": "...\n\nand ",
-          "TranslatedText": "...\nและ "
+          "TranslatedText": "...\nและ ",
+          "Colour": null
         },
         {
           "Line": 176,
           "OriginalText": "at the ruins where the soldiers\nof Hyrule gathered",
-          "TranslatedText": "ที่ซากปรักหักพักที่\nเหล่าทหารของ Hyrule รวมตัวกัน"
+          "TranslatedText": "ที่ซากปรักหักพักที่\nเหล่าทหารของ Hyrule รวมตัวกัน",
+          "Colour": "red"
         },
         {
           "Line": 179,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -242,9 +277,11 @@
         {
           "Line": 192,
           "OriginalText": "\u0022EX\u0022 is all that\u0027s written on the last page.\nWhat could it mean?",
-          "TranslatedText": "ที่หน้าสุดท้ายมีเขียนไว้แค่ \u0022EX\u0022 \nมันหมายถึงอะไรกันนะ?"
+          "TranslatedText": "ที่หน้าสุดท้ายมีเขียนไว้แค่ \u0022EX\u0022 \nมันหมายถึงอะไรกันนะ?",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

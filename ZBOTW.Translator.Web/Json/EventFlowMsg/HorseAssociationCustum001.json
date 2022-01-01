@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Yes, please!",
-          "TranslatedText": "ได้โปรด!"
+          "TranslatedText": "ได้โปรด!",
+          "Colour": null
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "No, thanks.",
-          "TranslatedText": "ไม่เป็นไรขอบคุณ."
+          "TranslatedText": "ไม่เป็นไรขอบคุณ.",
+          "Colour": null
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Change the mane.",
-          "TranslatedText": "เปลี่ยนแผงคอ."
+          "TranslatedText": "เปลี่ยนแผงคอ.",
+          "Colour": null
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Change the bridle.",
-          "TranslatedText": "เปลี่ยนบังเหียน"
+          "TranslatedText": "เปลี่ยนบังเหียน",
+          "Colour": null
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Change the saddle.",
-          "TranslatedText": "เปลี่ยนอาน."
+          "TranslatedText": "เปลี่ยนอาน.",
+          "Colour": null
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร."
+          "TranslatedText": "ไม่เป็นไร.",
+          "Colour": null
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Yes.",
-          "TranslatedText": "ใช่."
+          "TranslatedText": "ใช่.",
+          "Colour": null
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "No.",
-          "TranslatedText": "ไม่"
+          "TranslatedText": "ไม่",
+          "Colour": null
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 40,
           "OriginalText": "I\u0027m done.",
-          "TranslatedText": "ฉันทำเสร็จแล้ว"
+          "TranslatedText": "ฉันทำเสร็จแล้ว",
+          "Colour": null
         }
       ]
     },
@@ -97,42 +106,50 @@
         {
           "Line": 49,
           "OriginalText": "Hello there, traveler. Welcome to\nour ",
-          "TranslatedText": "สวัสดีนักเดินทาง ยินดีต้อนรับสู่ "
+          "TranslatedText": "สวัสดีนักเดินทาง ยินดีต้อนรับสู่ ",
+          "Colour": null
         },
         {
           "Line": 53,
           "OriginalText": "stable",
-          "TranslatedText": "คอก"
+          "TranslatedText": "คอก",
+          "Colour": "blue"
         },
         {
           "Line": 56,
           "OriginalText": ". You will stay awhile,\nwon\u0027t you?\nIf you have a horse, we can help you\nchange its ",
-          "TranslatedText": ". \nคุณจะอยู่สักพักหรือไม่?\nหากคุณมีม้าเราสามารถช่วยคุณเปลี่ยนมันได้ \n"
+          "TranslatedText": ". \nคุณจะอยู่สักพักหรือไม่?\nหากคุณมีม้าเราสามารถช่วยคุณเปลี่ยนมันได้ \n",
+          "Colour": null
         },
         {
           "Line": 60,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 63,
           "OriginalText": " or ",
-          "TranslatedText": " หรือ \n"
+          "TranslatedText": " หรือ \n",
+          "Colour": null
         },
         {
           "Line": 67,
           "OriginalText": "mane",
-          "TranslatedText": "สไตล์แผงคอ"
+          "TranslatedText": "สไตล์แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 70,
           "OriginalText": " style.\n\n",
-          "TranslatedText": " .\n"
+          "TranslatedText": " .\n",
+          "Colour": null
         },
         {
           "Line": 76,
           "OriginalText": "We\u0027re always happy to meet new horses,\nso stop on by!",
-          "TranslatedText": "เรามีความสุขเสมอที่ได้พบกับม้าตัวใหม่\nโปรดแวะมา!"
+          "TranslatedText": "เรามีความสุขเสมอที่ได้พบกับม้าตัวใหม่\nโปรดแวะมา!",
+          "Colour": null
         }
       ]
     },
@@ -142,12 +159,14 @@
         {
           "Line": 85,
           "OriginalText": "Ahhh...",
-          "TranslatedText": "อ่า..."
+          "TranslatedText": "อ่า...",
+          "Colour": null
         },
         {
           "Line": 89,
           "OriginalText": " Just being around horses\nmakes you forget all about the\npassing of time, doesn\u0027t it?",
-          "TranslatedText": " แค่อยู่ใกล้ ๆ ม้า\nก็ทำให้คุณลืมเวลาที่ผ่านไปแล้ว\nใช่หรือไม่?"
+          "TranslatedText": " แค่อยู่ใกล้ ๆ ม้า\nก็ทำให้คุณลืมเวลาที่ผ่านไปแล้ว\nใช่หรือไม่?",
+          "Colour": null
         }
       ]
     },
@@ -157,22 +176,26 @@
         {
           "Line": 98,
           "OriginalText": "Hello there, traveler. Welcome to\nour ",
-          "TranslatedText": "สวัสดีนักเดินทาง ยินดีต้อนรับสู่ "
+          "TranslatedText": "สวัสดีนักเดินทาง ยินดีต้อนรับสู่ ",
+          "Colour": null
         },
         {
           "Line": 102,
           "OriginalText": "stable",
-          "TranslatedText": "คอก"
+          "TranslatedText": "คอก",
+          "Colour": "blue"
         },
         {
           "Line": 105,
           "OriginalText": ". You will stay awhile,\nwon\u0027t you?\n",
-          "TranslatedText": ". \nคุณจะอยู่สักพักหรือไม่?\n"
+          "TranslatedText": ". \nคุณจะอยู่สักพักหรือไม่?\n",
+          "Colour": null
         },
         {
           "Line": 111,
           "OriginalText": "Oh?",
-          "TranslatedText": "โอ้?"
+          "TranslatedText": "โอ้?",
+          "Colour": null
         }
       ]
     },
@@ -182,7 +205,8 @@
         {
           "Line": 120,
           "OriginalText": "Oooh... That\u0027s a mighty fine horse\nyou have there.",
-          "TranslatedText": "โอ้... นั่นเป็นม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี."
+          "TranslatedText": "โอ้... นั่นเป็นม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี.",
+          "Colour": null
         }
       ]
     },
@@ -192,27 +216,32 @@
         {
           "Line": 129,
           "OriginalText": "If you\u0027re interested, may I help you\nchange your horse\u0027s ",
-          "TranslatedText": "หากคุณสนใจ \nฉันขอช่วยเปลี่ยนม้าของคุณได้ไหม\n"
+          "TranslatedText": "หากคุณสนใจ \nฉันขอช่วยเปลี่ยนม้าของคุณได้ไหม\n",
+          "Colour": null
         },
         {
           "Line": 133,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 136,
           "OriginalText": " or ",
-          "TranslatedText": " หรือ "
+          "TranslatedText": " หรือ ",
+          "Colour": null
         },
         {
           "Line": 140,
           "OriginalText": "mane",
-          "TranslatedText": "แผงคอ"
+          "TranslatedText": "แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 143,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Colour": null
         }
       ]
     },
@@ -222,27 +251,32 @@
         {
           "Line": 160,
           "OriginalText": "So you\u0027d like me to change the ",
-          "TranslatedText": "คุณต้องการให้ฉันเปลี่ยน\n"
+          "TranslatedText": "คุณต้องการให้ฉันเปลี่ยน\n",
+          "Colour": null
         },
         {
           "Line": 164,
           "OriginalText": "gear ",
-          "TranslatedText": "เครื่องเทียมม้า "
+          "TranslatedText": "เครื่องเทียมม้า ",
+          "Colour": "blue"
         },
         {
           "Line": 167,
           "OriginalText": "or\n",
-          "TranslatedText": "หรือ\n"
+          "TranslatedText": "หรือ\n",
+          "Colour": null
         },
         {
           "Line": 171,
           "OriginalText": "mane ",
-          "TranslatedText": "แผงคอ "
+          "TranslatedText": "แผงคอ ",
+          "Colour": "blue"
         },
         {
           "Line": 174,
           "OriginalText": "on this little one again, correct?",
-          "TranslatedText": "กับเจ้าตัวเล็กนี้อีกครั้งถูกมั้ย?"
+          "TranslatedText": "กับเจ้าตัวเล็กนี้อีกครั้งถูกมั้ย?",
+          "Colour": null
         }
       ]
     },
@@ -252,12 +286,14 @@
         {
           "Line": 191,
           "OriginalText": "Oh? Your horse doesn\u0027t seem to\nbe tamed. At all.\n\n",
-          "TranslatedText": "โอ้? ม้าของคุณดูเหมือนจะไม่เชื่อง เลย.\n"
+          "TranslatedText": "โอ้? ม้าของคุณดูเหมือนจะไม่เชื่อง เลย.\n",
+          "Colour": null
         },
         {
           "Line": 197,
           "OriginalText": "Did you just catch it, by any chance?\nPlease spend some time showing this\nsweetie you care, and then come back.",
-          "TranslatedText": "คุณเพิ่งจับได้โดยบังเอิญหรือไม่?\nโปรดใช้เวลาแสดงความรักที่คุณห่วงใย\nแล้วค่อยกลับมา."
+          "TranslatedText": "คุณเพิ่งจับได้โดยบังเอิญหรือไม่?\nโปรดใช้เวลาแสดงความรักที่คุณห่วงใย\nแล้วค่อยกลับมา.",
+          "Colour": null
         }
       ]
     },
@@ -267,12 +303,14 @@
         {
           "Line": 206,
           "OriginalText": "Hm? This little one doesn\u0027t seem to trust\nyou just yet...\n\n",
-          "TranslatedText": "หืม? เจ้าตัวเล็กนี้ดูเหมือนจะยังไม่ไว้ใจคุณ ...\n"
+          "TranslatedText": "หืม? เจ้าตัวเล็กนี้ดูเหมือนจะยังไม่ไว้ใจคุณ ...\n",
+          "Colour": null
         },
         {
           "Line": 212,
           "OriginalText": "Spend some time showing this little love\nhow much you care, and you\u0027ll tame it in\nno time.",
-          "TranslatedText": "ใช้เวลาแสดงความรักห่วงใยเล็ก ๆ น้อย ๆ \nและมันจะเชื่องได้ในเวลาไม่นาน"
+          "TranslatedText": "ใช้เวลาแสดงความรักห่วงใยเล็ก ๆ น้อย ๆ \nและมันจะเชื่องได้ในเวลาไม่นาน",
+          "Colour": null
         }
       ]
     },
@@ -282,17 +320,20 @@
         {
           "Line": 221,
           "OriginalText": "Nice! This little one has calm eyes,\nbut it doesn\u0027t fully trust you yet.\n\nYou need to show it some more love!\nDo that and I\u0027ll be happy to help you\nout with some ",
-          "TranslatedText": "ดี! หนูน้อยตัวนี้มีดวงตาที่สงบ \nแต่ยังไม่เชื่อใจคุณ.\nคุณต้องแสดงความรักมากกว่านี้!\nและเรายินดีที่จะช่วยเหลือคุณ \n"
+          "TranslatedText": "ดี! หนูน้อยตัวนี้มีดวงตาที่สงบ \nแต่ยังไม่เชื่อใจคุณ.\nคุณต้องแสดงความรักมากกว่านี้!\nและเรายินดีที่จะช่วยเหลือคุณ \n",
+          "Colour": null
         },
         {
           "Line": 225,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 228,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -302,17 +343,20 @@
         {
           "Line": 237,
           "OriginalText": "Wow! This one\u0027s eyes are positively\nsparkling with affection!\n\nI can tell this little one is just head over\nheels for you. That settles it! I\u0027ll gladly\nhelp you out with some ",
-          "TranslatedText": "ว้าว! ดวงตาคู่นี้เป็นประกายด้วยความรัก!\nฉันบอกได้เลยว่าเจ้าตัวเล็กตัวนี้\nเป็นเหมือนรองเท้าส้นสูง ที่มั่นคง!สำหรับคุณ\nเรายินดีที่จะช่วยเหลือคุณ "
+          "TranslatedText": "ว้าว! ดวงตาคู่นี้เป็นประกายด้วยความรัก!\nฉันบอกได้เลยว่าเจ้าตัวเล็กตัวนี้\nเป็นเหมือนรองเท้าส้นสูง ที่มั่นคง!สำหรับคุณ\nเรายินดีที่จะช่วยเหลือคุณ ",
+          "Colour": null
         },
         {
           "Line": 241,
           "OriginalText": "gear",
-          "TranslatedText": "gear"
+          "TranslatedText": "gear",
+          "Colour": "blue"
         },
         {
           "Line": 244,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Colour": null
         }
       ]
     },
@@ -322,7 +366,8 @@
         {
           "Line": 253,
           "OriginalText": "Oh, but you should know I\u0027m only\ninterested in horses that are raised\nwith lots of love!\nHow\u0027s your horse faring on that front?",
-          "TranslatedText": "โอ้ คุณควรรู้ว่าฉันสนใจ \nแต่ม้าที่เลี้ยงด้วยความรัก!\nม้าของคุณอยู่ตรงหน้าได้อย่างไร?"
+          "TranslatedText": "โอ้ คุณควรรู้ว่าฉันสนใจ \nแต่ม้าที่เลี้ยงด้วยความรัก!\nม้าของคุณอยู่ตรงหน้าได้อย่างไร?",
+          "Colour": null
         }
       ]
     },
@@ -332,17 +377,20 @@
         {
           "Line": 262,
           "OriginalText": "Aw, that\u0027s too bad... Please come back\nagain when you\u0027re ready to change your\nhorse\u0027s ",
-          "TranslatedText": "แย่จัง ... โปรดกลับมาอีกครั้ง\nเมื่อคุณพร้อมที่จะเปลี่ยนแปลง\n"
+          "TranslatedText": "แย่จัง ... โปรดกลับมาอีกครั้ง\nเมื่อคุณพร้อมที่จะเปลี่ยนแปลง\n",
+          "Colour": null
         },
         {
           "Line": 266,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 269,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         }
       ]
     },
@@ -352,57 +400,68 @@
         {
           "Line": 278,
           "OriginalText": "Hello there! That\u0027s a mighty fine horse\nyou have.\n\nIf you like, I can change out its ",
-          "TranslatedText": "สวัสดี! นั่นคือม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี.\nถ้าคุณชอบฉันสามารถเปลี่ยนมันได้ \n"
+          "TranslatedText": "สวัสดี! นั่นคือม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี.\nถ้าคุณชอบฉันสามารถเปลี่ยนมันได้ \n",
+          "Colour": null
         },
         {
           "Line": 282,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 285,
           "OriginalText": "\nor maybe...",
-          "TranslatedText": "\nหรืออาจจะ..."
+          "TranslatedText": "\nหรืออาจจะ...",
+          "Colour": null
         },
         {
           "Line": 301,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Colour": null
         },
         {
           "Line": 307,
           "OriginalText": "Oh? My goodness, that\u0027s no pony, is it?\nIt\u0027s so big!\n\n",
-          "TranslatedText": "โอ้? เยี่ยมจริงๆ, นั่นไม่ใช่ม้าใช่ไหม\nมันใหญ่มาก!\n"
+          "TranslatedText": "โอ้? เยี่ยมจริงๆ, นั่นไม่ใช่ม้าใช่ไหม\nมันใหญ่มาก!\n",
+          "Colour": null
         },
         {
           "Line": 313,
           "OriginalText": "I\u0027m sorry, but I don\u0027t think I have any\n",
-          "TranslatedText": "ฉันขอโทษ แต่ฉันไม่คิดว่าจะมี\n"
+          "TranslatedText": "ฉันขอโทษ แต่ฉันไม่คิดว่าจะมี\n",
+          "Colour": null
         },
         {
           "Line": 317,
           "OriginalText": "gear ",
-          "TranslatedText": "เครื่องเทียมม้า "
+          "TranslatedText": "เครื่องเทียมม้า ",
+          "Colour": "blue"
         },
         {
           "Line": 320,
           "OriginalText": "that\u0027d fit such a large horse, and I\nbet it wouldn\u0027t like its ",
-          "TranslatedText": "พอดีกับม้าตัวใหญ่ขนาดนี้\nและฉันพนันได้เลยว่ามันจะไม่ชอบ "
+          "TranslatedText": "พอดีกับม้าตัวใหญ่ขนาดนี้\nและฉันพนันได้เลยว่ามันจะไม่ชอบ ",
+          "Colour": null
         },
         {
           "Line": 324,
           "OriginalText": "mane",
-          "TranslatedText": "แผงคอ"
+          "TranslatedText": "แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 327,
           "OriginalText": " handled...\n",
-          "TranslatedText": " จัดการ...\n"
+          "TranslatedText": " จัดการ...\n",
+          "Colour": null
         },
         {
           "Line": 333,
           "OriginalText": "I\u0027m so sorry about that.",
-          "TranslatedText": "ฉันขอโทษที่บอกแบบนี้."
+          "TranslatedText": "ฉันขอโทษที่บอกแบบนี้.",
+          "Colour": null
         }
       ]
     },
@@ -412,7 +471,8 @@
         {
           "Line": 342,
           "OriginalText": "So what do you think?",
-          "TranslatedText": "ดังนั้นสิ่งที่คุณคิดว่า?"
+          "TranslatedText": "ดังนั้นสิ่งที่คุณคิดว่า?",
+          "Colour": null
         }
       ]
     },
@@ -422,7 +482,8 @@
         {
           "Line": 351,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Colour": null
         }
       ]
     },
@@ -432,7 +493,8 @@
         {
           "Line": 363,
           "OriginalText": "What would you like to change?",
-          "TranslatedText": "คุณต้องการเปลี่ยนแปลงอะไร?"
+          "TranslatedText": "คุณต้องการเปลี่ยนแปลงอะไร?",
+          "Colour": null
         }
       ]
     },
@@ -442,17 +504,20 @@
         {
           "Line": 382,
           "OriginalText": "It looks like you don\u0027t have any other\n",
-          "TranslatedText": "ดูเหมือนว่าคุณไม่มี\n"
+          "TranslatedText": "ดูเหมือนว่าคุณไม่มี\n",
+          "Colour": null
         },
         {
           "Line": 386,
           "OriginalText": "bridles",
-          "TranslatedText": "บังเหียน"
+          "TranslatedText": "บังเหียน",
+          "Colour": "blue"
         },
         {
           "Line": 389,
           "OriginalText": " yet, but I can help you put it on if\nyou get one.",
-          "TranslatedText": " \nแต่ฉันสามารถช่วยคุณใส่ได้ ถ้าคุณมีมัน."
+          "TranslatedText": " \nแต่ฉันสามารถช่วยคุณใส่ได้ ถ้าคุณมีมัน.",
+          "Colour": null
         }
       ]
     },
@@ -462,17 +527,20 @@
         {
           "Line": 398,
           "OriginalText": "It looks like you don\u0027t have any other\n",
-          "TranslatedText": "ดูเหมือนว่าคุณไม่มี\n"
+          "TranslatedText": "ดูเหมือนว่าคุณไม่มี\n",
+          "Colour": null
         },
         {
           "Line": 402,
           "OriginalText": "saddles",
-          "TranslatedText": "อานม้า"
+          "TranslatedText": "อานม้า",
+          "Colour": "blue"
         },
         {
           "Line": 405,
           "OriginalText": " yet, but I can help you put it on\nif you get one.",
-          "TranslatedText": " \nแต่ฉันสามารถช่วยคุณใส่ได้ถ้าคุณมีมัน."
+          "TranslatedText": " \nแต่ฉันสามารถช่วยคุณใส่ได้ถ้าคุณมีมัน.",
+          "Colour": null
         }
       ]
     },
@@ -482,17 +550,20 @@
         {
           "Line": 414,
           "OriginalText": "Which ",
-          "TranslatedText": "ที่ "
+          "TranslatedText": "ที่ ",
+          "Colour": null
         },
         {
           "Line": 418,
           "OriginalText": "mane",
-          "TranslatedText": "แผงคอ"
+          "TranslatedText": "แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 421,
           "OriginalText": " would you like?",
-          "TranslatedText": " คุณชอบมั้ย?"
+          "TranslatedText": " คุณชอบมั้ย?",
+          "Colour": null
         }
       ]
     },
@@ -502,12 +573,14 @@
         {
           "Line": 430,
           "OriginalText": "Change to ",
-          "TranslatedText": "เปลี่ยนเป็น "
+          "TranslatedText": "เปลี่ยนเป็น ",
+          "Colour": null
         },
         {
           "Line": 440,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Colour": null
         }
       ]
     },
@@ -517,17 +590,20 @@
         {
           "Line": 457,
           "OriginalText": "Which ",
-          "TranslatedText": "บังเหียน "
+          "TranslatedText": "บังเหียน ",
+          "Colour": null
         },
         {
           "Line": 461,
           "OriginalText": "bridle",
-          "TranslatedText": "อันไหน"
+          "TranslatedText": "อันไหน",
+          "Colour": "blue"
         },
         {
           "Line": 464,
           "OriginalText": " would you like?",
-          "TranslatedText": " ที่คุณชอบ?"
+          "TranslatedText": " ที่คุณชอบ?",
+          "Colour": null
         }
       ]
     },
@@ -537,17 +613,20 @@
         {
           "Line": 473,
           "OriginalText": "Which ",
-          "TranslatedText": "อาน "
+          "TranslatedText": "อาน ",
+          "Colour": null
         },
         {
           "Line": 477,
           "OriginalText": "saddle ",
-          "TranslatedText": "อันไหน "
+          "TranslatedText": "อันไหน ",
+          "Colour": "blue"
         },
         {
           "Line": 480,
           "OriginalText": "would you like?",
-          "TranslatedText": "ที่คุณชอบ?"
+          "TranslatedText": "ที่คุณชอบ?",
+          "Colour": null
         }
       ]
     },
@@ -557,7 +636,8 @@
         {
           "Line": 489,
           "OriginalText": "Is there anything else you\u0027d like\nto change?",
-          "TranslatedText": "มีอะไรอีกไหมที่คุณต้องการเปลี่ยนแปลง?"
+          "TranslatedText": "มีอะไรอีกไหมที่คุณต้องการเปลี่ยนแปลง?",
+          "Colour": null
         }
       ]
     },
@@ -567,22 +647,26 @@
         {
           "Line": 508,
           "OriginalText": "That looks great!",
-          "TranslatedText": "นั่นดูดีมาก!\n"
+          "TranslatedText": "นั่นดูดีมาก!\n",
+          "Colour": null
         },
         {
           "Line": 512,
           "OriginalText": " Please come back\nanytime you feel like changing your\nhorse\u0027s ",
-          "TranslatedText": " กลับมาได้ทุกเมื่อที่คุณต้องการเปลี่ยน\n"
+          "TranslatedText": " กลับมาได้ทุกเมื่อที่คุณต้องการเปลี่ยน\n",
+          "Colour": null
         },
         {
           "Line": 516,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 519,
           "OriginalText": "!",
-          "TranslatedText": "ของคุณ !"
+          "TranslatedText": "ของคุณ !",
+          "Colour": null
         }
       ]
     },
@@ -592,17 +676,20 @@
         {
           "Line": 528,
           "OriginalText": "So you want a different ",
-          "TranslatedText": "ดังนั้นคุณต้องการ "
+          "TranslatedText": "ดังนั้นคุณต้องการ ",
+          "Colour": null
         },
         {
           "Line": 532,
           "OriginalText": "mane",
-          "TranslatedText": "แผงคอ"
+          "TranslatedText": "แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 535,
           "OriginalText": "? Got it!",
-          "TranslatedText": "ที่แตกต่าง? \nเข้าใจแล้ว!"
+          "TranslatedText": "ที่แตกต่าง? \nเข้าใจแล้ว!",
+          "Colour": null
         }
       ]
     },
@@ -612,17 +699,20 @@
         {
           "Line": 544,
           "OriginalText": "So you want a different ",
-          "TranslatedText": "ดังนั้นคุณต้องการ "
+          "TranslatedText": "ดังนั้นคุณต้องการ ",
+          "Colour": null
         },
         {
           "Line": 548,
           "OriginalText": "bridle",
-          "TranslatedText": "บังเหียน"
+          "TranslatedText": "บังเหียน",
+          "Colour": "blue"
         },
         {
           "Line": 551,
           "OriginalText": ", eh?",
-          "TranslatedText": "ที่แตกต่าง, เอ๊ะ?"
+          "TranslatedText": "ที่แตกต่าง, เอ๊ะ?",
+          "Colour": null
         }
       ]
     },
@@ -632,17 +722,20 @@
         {
           "Line": 560,
           "OriginalText": "OK, let\u0027s try a different ",
-          "TranslatedText": "ตกลง เรามาลอง\n"
+          "TranslatedText": "ตกลง เรามาลอง\n",
+          "Colour": null
         },
         {
           "Line": 564,
           "OriginalText": "saddle",
-          "TranslatedText": "อาน"
+          "TranslatedText": "อาน",
+          "Colour": "blue"
         },
         {
           "Line": 567,
           "OriginalText": ".",
-          "TranslatedText": "อันอื่น ."
+          "TranslatedText": "อันอื่น .",
+          "Colour": null
         }
       ]
     },
@@ -652,37 +745,44 @@
         {
           "Line": 576,
           "OriginalText": "Hello there! That\u0027s a mighty fine horse\nyou have.\n\nIf you like, I can change out her ",
-          "TranslatedText": "สวัสดี! นั่นคือม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี.\nถ้าคุณชอบฉันสามารถเปลี่ยนเธอได้ \n"
+          "TranslatedText": "สวัสดี! นั่นคือม้าชั้นดีที่ยิ่งใหญ่ที่คุณมี.\nถ้าคุณชอบฉันสามารถเปลี่ยนเธอได้ \n",
+          "Colour": null
         },
         {
           "Line": 580,
           "OriginalText": "gear",
-          "TranslatedText": "เครื่องเทียมม้า"
+          "TranslatedText": "เครื่องเทียมม้า",
+          "Colour": "blue"
         },
         {
           "Line": 583,
           "OriginalText": "\nor maybe...",
-          "TranslatedText": "\nหรืออาจจะ..."
+          "TranslatedText": "\nหรืออาจจะ...",
+          "Colour": null
         },
         {
           "Line": 599,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Colour": null
         },
         {
           "Line": 605,
           "OriginalText": "Oh? Actually, this horse is different\nfrom any I\u0027ve ever seen before.\nMy, she\u0027s so lovely and graceful...\n",
-          "TranslatedText": "โอ้? จริงๆแล้วม้าตัวนี้แตกต่างจากที่ฉันเคยเห็นมาก่อน\nเธอช่างน่ารักและสง่างาม...\n"
+          "TranslatedText": "โอ้? จริงๆแล้วม้าตัวนี้แตกต่างจากที่ฉันเคยเห็นมาก่อน\nเธอช่างน่ารักและสง่างาม...\n",
+          "Colour": null
         },
         {
           "Line": 611,
           "OriginalText": "I\u0027m sorry, but I\u0027m pretty sure this little\nlady would absolutely hate it if you\nchanged her mane or gear.\n",
-          "TranslatedText": "ฉันขอโทษ แต่ฉันค่อนข้างมั่นใจว่า\nสาวน้อยตัวนี้จะเกลียดมันอย่างแน่นอน\nถ้าคุณเปลี่ยนแผงคอหรือเครื่องเทียม.\n"
+          "TranslatedText": "ฉันขอโทษ แต่ฉันค่อนข้างมั่นใจว่า\nสาวน้อยตัวนี้จะเกลียดมันอย่างแน่นอน\nถ้าคุณเปลี่ยนแผงคอหรือเครื่องเทียม.\n",
+          "Colour": null
         },
         {
           "Line": 617,
           "OriginalText": "I\u0027m so sorry about that.",
-          "TranslatedText": "ฉันขอโทษที่บอกแบบนี้."
+          "TranslatedText": "ฉันขอโทษที่บอกแบบนี้.",
+          "Colour": null
         }
       ]
     },
@@ -692,27 +792,32 @@
         {
           "Line": 626,
           "OriginalText": "Isn\u0027t ",
-          "TranslatedText": "ไม่ "
+          "TranslatedText": "ไม่ ",
+          "Colour": null
         },
         {
           "Line": 634,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Colour": "red"
         },
         {
           "Line": 637,
           "OriginalText": "the ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Colour": null
         },
         {
           "Line": 641,
           "OriginalText": "mane",
-          "TranslatedText": "แผงคอ"
+          "TranslatedText": "แผงคอ",
+          "Colour": "blue"
         },
         {
           "Line": 644,
           "OriginalText": "\nyour horse companion already has?",
-          "TranslatedText": "\nม้าของคุณ มีอยู่แล้ว?"
+          "TranslatedText": "\nม้าของคุณ มีอยู่แล้ว?",
+          "Colour": null
         }
       ]
     },
@@ -722,22 +827,26 @@
         {
           "Line": 660,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Colour": "red"
         },
         {
           "Line": 663,
           "OriginalText": "seems to be \nthe ",
-          "TranslatedText": "ดูเหมือนว่า\n"
+          "TranslatedText": "ดูเหมือนว่า\n",
+          "Colour": null
         },
         {
           "Line": 667,
           "OriginalText": "bridle ",
-          "TranslatedText": "บังเหียน "
+          "TranslatedText": "บังเหียน ",
+          "Colour": "blue"
         },
         {
           "Line": 670,
           "OriginalText": "your horse companion\nalready has.",
-          "TranslatedText": "ม้าของคุณ มีอยู่แล้ว."
+          "TranslatedText": "ม้าของคุณ มีอยู่แล้ว.",
+          "Colour": null
         }
       ]
     },
@@ -747,19 +856,23 @@
         {
           "Line": 688,
           "OriginalText": " seems to be\nthe ",
-          "TranslatedText": " ดูเหมือนว่า\n"
+          "TranslatedText": " ดูเหมือนว่า\n",
+          "Colour": null
         },
         {
           "Line": 692,
           "OriginalText": "saddle ",
-          "TranslatedText": "อาน "
+          "TranslatedText": "อาน ",
+          "Colour": "blue"
         },
         {
           "Line": 695,
           "OriginalText": "your horse companion \nalready has.",
-          "TranslatedText": "ม้าของคุณ มีอยู่แล้ว."
+          "TranslatedText": "ม้าของคุณ มีอยู่แล้ว.",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

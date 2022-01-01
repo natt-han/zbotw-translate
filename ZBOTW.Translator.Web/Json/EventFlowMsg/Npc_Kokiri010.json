@@ -7,24 +7,29 @@
         {
           "Line": 13,
           "OriginalText": "Congratulations! You completed my\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Colour": null
         },
         {
           "Line": 17,
           "OriginalText": "Korok Trial",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Colour": "red"
         },
         {
           "Line": 20,
           "OriginalText": "!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Colour": null
         },
         {
           "Line": 24,
           "OriginalText": " I hope you found something\nnice inside of the shrine!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

@@ -7,17 +7,20 @@
         {
           "Line": 13,
           "OriginalText": "With this, you have now acquired all of\nthe ",
-          "TranslatedText": "ด้วยสิ่งนี้ตอนนี้\nคุณได้มาทั้งหมด "
+          "TranslatedText": "ด้วยสิ่งนี้ตอนนี้\nคุณได้มาทั้งหมด ",
+          "Colour": null
         },
         {
           "Line": 17,
           "OriginalText": "Spirit Orbs ",
-          "TranslatedText": "Spirit Orbs "
+          "TranslatedText": "Spirit Orbs ",
+          "Colour": "blue"
         },
         {
           "Line": 20,
           "OriginalText": "from the shrines on\nthis plateau.",
-          "TranslatedText": "จากศาลเจ้า\nบนที่ราบสูง"
+          "TranslatedText": "จากศาลเจ้า\nบนที่ราบสูง",
+          "Colour": null
         }
       ]
     },
@@ -27,7 +30,8 @@
         {
           "Line": 32,
           "OriginalText": "Oho ho! Extraordinary!",
-          "TranslatedText": "โอ โฮ โฮ! วิเศษ!"
+          "TranslatedText": "โอ โฮ โฮ! วิเศษ!",
+          "Colour": null
         }
       ]
     },
@@ -37,12 +41,14 @@
         {
           "Line": 41,
           "OriginalText": "That means...it is finally time.\n\n\nLink, it is finally time for me to\ntell you everything. ",
-          "TranslatedText": "นั่นหมายความว่า...ในที่สุดก็เป็น\n\n\nLink, ในที่สุดก็ถึงเวลา\nที่ฉันจะบอกคุณทุกอย่าง "
+          "TranslatedText": "นั่นหมายความว่า...ในที่สุดก็เป็น\n\n\nLink, ในที่สุดก็ถึงเวลา\nที่ฉันจะบอกคุณทุกอย่าง ",
+          "Colour": null
         },
         {
           "Line": 45,
           "OriginalText": "But first...",
-          "TranslatedText": "แต่ก่อนอื่น..."
+          "TranslatedText": "แต่ก่อนอื่น...",
+          "Colour": null
         }
       ]
     },
@@ -52,22 +58,26 @@
         {
           "Line": 54,
           "OriginalText": "Imagine an X on your map, with the four\nshrines as the end points. Find the spot\n",
-          "TranslatedText": "ลองนึกภาพ X บนแผนที่ของคุณ\nด้วยศาลเจ้าสี่แห่งเป็นจุดสิ้นสุด ค้นหาจุด\n"
+          "TranslatedText": "ลองนึกภาพ X บนแผนที่ของคุณ\nด้วยศาลเจ้าสี่แห่งเป็นจุดสิ้นสุด ค้นหาจุด\n",
+          "Colour": null
         },
         {
           "Line": 58,
           "OriginalText": "where those lines intersect",
-          "TranslatedText": "ที่เส้นเหล่านั้นตัดกัน"
+          "TranslatedText": "ที่เส้นเหล่านั้นตัดกัน",
+          "Colour": "red"
         },
         {
           "Line": 61,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Colour": null
         },
         {
           "Line": 65,
           "OriginalText": "\nI shall wait for you there.",
-          "TranslatedText": "\nฉันจะรอให้คุณอยู่ที่นั่น"
+          "TranslatedText": "\nฉันจะรอให้คุณอยู่ที่นั่น",
+          "Colour": null
         }
       ]
     },
@@ -77,29 +87,35 @@
         {
           "Line": 69,
           "OriginalText": "Do you understand?",
-          "TranslatedText": "คุณเข้าใจไหม?"
+          "TranslatedText": "คุณเข้าใจไหม?",
+          "Colour": null
         },
         {
           "Line": 73,
           "OriginalText": " Where two lines\nconnecting the shrines would cross...",
-          "TranslatedText": " ที่ซึ่งสองเส้น\nเชื่อมต่อศาลเจ้าเป็นกากบาท..."
+          "TranslatedText": " ที่ซึ่งสองเส้น\nเชื่อมต่อศาลเจ้าเป็นกากบาท...",
+          "Colour": null
         },
         {
           "Line": 77,
           "OriginalText": "\nThere...",
-          "TranslatedText": "\nที่นั่น..."
+          "TranslatedText": "\nที่นั่น...",
+          "Colour": null
         },
         {
           "Line": 81,
           "OriginalText": "I will...",
-          "TranslatedText": "ฉันจะ..."
+          "TranslatedText": "ฉันจะ...",
+          "Colour": null
         },
         {
           "Line": 85,
           "OriginalText": "be waiting...",
-          "TranslatedText": "รอยู่..."
+          "TranslatedText": "รอยู่...",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

@@ -87,8 +87,7 @@ namespace ZBOTW.Translator.Web.Controllers
                     {
 
                         var trim = unescapedDoublequoteRegex.Replace(lines[i].Trim().Replace("- text: ", ""), "").Replace("\\\"", "\"");
-                        trim = trim.Replace("\\n", "\n");
-                        var text = new MessageText() { Line = i + 1, OriginalText = trim };
+                        trim = trim.Replace("\\n", "\n");                        
                         var entry = mstb.EntryList.FirstOrDefault(c => c.EntryName == entryName);
                         if (entry == null) throw new InvalidOperationException($"{fileName} Entry {entryName} Not Found");
                         var messageText = entry.TextList.FirstOrDefault(c => c.Line == i + 1);
@@ -99,6 +98,54 @@ namespace ZBOTW.Translator.Web.Controllers
                 System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
             }
         }
+
+        private void ExecUpdateColour()
+        {
+            var entryNameRegex = new Regex("^  [a-zA-Z0-9\"]");
+            var unescapedDoublequoteRegex = new Regex("(?<!\\\\)\"");
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Msyt", "Original", "EventFlowMsg"));
+
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileNameWithoutExtension(file.Name);
+                var lines = System.IO.File.ReadAllLines(file.FullName);
+
+                var mstb = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json")));
+                if (mstb == null) throw new InvalidOperationException("Null MessageTable");
+                var entryName = "";
+                string? colour = null;
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    if (entryNameRegex.Match(lines[i]).Success)
+                    {
+
+                        var name = lines[i].Replace("\"", "").Replace(":", "").Trim();
+                        entryName = name;
+                        colour = null;
+                    }
+                    if (lines[i].Trim().StartsWith("kind: reset_colour")) {
+                        colour = null;
+                    }
+                    if (lines[i].Trim().StartsWith("colour: "))
+                    {
+                        colour = lines[i].Replace("colour:", "").Trim();
+                    }
+                    if (lines[i].Trim().StartsWith("- text:"))
+                    {
+                        //var trim = unescapedDoublequoteRegex.Replace(lines[i].Trim().Replace("- text: ", ""), "").Replace("\\\"", "\"");
+                        //trim = trim.Replace("\\n", "\n");
+                        var entry = mstb.EntryList.FirstOrDefault(c => c.EntryName == entryName);
+                        if (entry == null) throw new InvalidOperationException($"{fileName} Entry {entryName} Not Found");
+                        var messageText = entry.TextList.FirstOrDefault(c => c.Line == i + 1);
+                        if (messageText == null) throw new InvalidOperationException($"{fileName} Text Line {i + 1} Not Found");
+                        messageText.Colour = colour;
+                    }
+                }
+                System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
+            }
+        }
+
         private FileStreamResult ExportMsyt()
         {
             
@@ -158,6 +205,12 @@ namespace ZBOTW.Translator.Web.Controllers
         public IActionResult MergeFromTranslatedMsyt()
         {
             ExecMergeFromTranslatedMsyt();
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult UpdateColour()
+        {
+            ExecUpdateColour();
             return RedirectToAction("Index");
         }
 

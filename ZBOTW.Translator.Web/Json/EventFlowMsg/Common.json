@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "A voice calls to you...",
-          "TranslatedText": "เสียงเรียกหาคุณ..."
+          "TranslatedText": "เสียงเรียกหาคุณ...",
+          "Colour": null
         }
       ]
     },
@@ -17,19 +18,23 @@
         {
           "Line": 12,
           "OriginalText": "The Divine Beast is taking aim at\n",
-          "TranslatedText": "Divine Beast กำลังเล็งไปที่\n"
+          "TranslatedText": "Divine Beast กำลังเล็งไปที่\n",
+          "Colour": null
         },
         {
           "Line": 16,
           "OriginalText": "Calamity Ganon",
-          "TranslatedText": "Calamity Ganon"
+          "TranslatedText": "Calamity Ganon",
+          "Colour": "red"
         },
         {
           "Line": 19,
           "OriginalText": " in Hyrule Castle...\nIt\u0027s too dangerous to go near.",
-          "TranslatedText": " ในปราสาท Hyrule ...\nมันอันตรายเกินไปที่จะเข้าไปใกล้."
+          "TranslatedText": " ในปราสาท Hyrule ...\nมันอันตรายเกินไปที่จะเข้าไปใกล้.",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

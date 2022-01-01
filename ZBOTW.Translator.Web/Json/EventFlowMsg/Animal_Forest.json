@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Crown of bone...",
-          "TranslatedText": "\u0E21\u0E07\u0E01\u0E38\u0E0E\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01..."
+          "TranslatedText": "มงกุฎกระดูก...",
+          "Colour": null
         }
       ]
     },
@@ -17,22 +18,26 @@
         {
           "Line": 17,
           "OriginalText": "I get it now! The \u0022crown of bone\u0022 refers\nto antlers! Of course that\u0027s a mountain\nbuck!\n",
-          "TranslatedText": "\u0E09\u0E31\u0E19\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E41\u0E25\u0E49\u0E27! \u0022\u0E21\u0E07\u0E01\u0E38\u0E0E\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01\u0022 \n\u0E2B\u0E21\u0E32\u0E22\u0E16\u0E36\u0E07\u0E40\u0E02\u0E32\u0E01\u0E27\u0E32\u0E07! \n\u0E41\u0E19\u0E48\u0E19\u0E2D\u0E19\u0E27\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E27\u0E32\u0E07\u0E20\u0E39\u0E40\u0E02\u0E32!\n"
+          "TranslatedText": "ฉันเข้าใจแล้ว! \u0022มงกุฎกระดูก\u0022 \nหมายถึงเขากวาง! \nแน่นอนว่าเป็นกวางภูเขา!\n",
+          "Colour": null
         },
         {
           "Line": 23,
           "OriginalText": "Those majestic creatures ARE a bit like\nthe kings of the forest, aren\u0027t they?\n\n",
-          "TranslatedText": "\u0E2A\u0E34\u0E48\u0E07\u0E21\u0E35\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E17\u0E35\u0E48\u0E19\u0E48\u0E32\u0E40\u0E01\u0E23\u0E07\u0E02\u0E32\u0E21\u0E40\u0E2B\u0E25\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19\n\u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E19\u0E23\u0E32\u0E0A\u0E32\u0E41\u0E2B\u0E48\u0E07\u0E1B\u0E48\u0E32 \u0E44\u0E21\u0E48\u0E43\u0E0A\u0E48\u0E2B\u0E23\u0E37\u0E2D?\n\n"
+          "TranslatedText": "สิ่งมีชีวิตที่น่าเกรงขามเหล่านั้น\nเหมือนราชาแห่งป่า ไม่ใช่หรือ?\n\n",
+          "Colour": null
         },
         {
           "Line": 29,
           "OriginalText": "Your exploits here could be their own\nheroic song, you know...\n\n",
-          "TranslatedText": "\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E0A\u0E19\u0E4C\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\n\u0E2D\u0E32\u0E08\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E1E\u0E25\u0E07\u0E17\u0E35\u0E48\u0E01\u0E25\u0E49\u0E32\u0E2B\u0E32\u0E0D\u0E02\u0E2D\u0E07\u0E1E\u0E27\u0E01\u0E40\u0E02\u0E32\u0E40\u0E2D\u0E07 \u0E04\u0E38\u0E13\u0E01\u0E47\u0E23\u0E39\u0E49...\n\n"
+          "TranslatedText": "การหาประโยชน์ของคุณที่นี่\nอาจเป็นเพลงที่กล้าหาญของพวกเขาเอง คุณก็รู้...\n\n",
+          "Colour": null
         },
         {
           "Line": 35,
           "OriginalText": "Take care, and may the light illuminate\nyour path.",
-          "TranslatedText": "\u0E23\u0E31\u0E01\u0E29\u0E32\u0E15\u0E31\u0E27 \u0E41\u0E25\u0E30\u0E02\u0E2D\u0E43\u0E2B\u0E49\u0E41\u0E2A\u0E07\u0E2A\u0E48\u0E2D\u0E07\u0E17\u0E32\u0E07\u0E41\u0E01\u0E48\u0E04\u0E38\u0E13"
+          "TranslatedText": "รักษาตัว และขอให้แสงส่องทางแก่คุณ",
+          "Colour": null
         }
       ]
     },
@@ -42,27 +47,32 @@
         {
           "Line": 48,
           "OriginalText": "A beast that wears",
-          "TranslatedText": "\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E23\u0E49\u0E32\u0E22\u0E17\u0E35\u0E48\u0E2A\u0E27\u0E21\u0E43\u0E2A\u0E48"
+          "TranslatedText": "สัตว์ร้ายที่สวมใส่",
+          "Colour": null
         },
         {
           "Line": 52,
           "OriginalText": " a crown of bone,\nPrancing through the lush green.",
-          "TranslatedText": " \u0E21\u0E07\u0E01\u0E38\u0E0E\u0E02\u0E2D\u0E07\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01\u0E17\u0E35\u0E48\u0E23\u0E48\u0E32\u0E22\u0E23\u0E33\u0E1C\u0E48\u0E32\u0E19\u0E2A\u0E35\u0E40\u0E02\u0E35\u0E22\u0E27\u0E0A\u0E2D\u0E38\u0E48\u0E21\n"
+          "TranslatedText": " มงกุฎของกระดูกที่ร่ายรำผ่านสีเขียวชอุ่ม\n",
+          "Colour": null
         },
         {
           "Line": 56,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n\n"
+          "TranslatedText": "\n\n",
+          "Colour": null
         },
         {
           "Line": 66,
           "OriginalText": "Mount the beast ",
-          "TranslatedText": "\u0E02\u0E35\u0E48\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E23\u0E49\u0E32\u0E22 "
+          "TranslatedText": "ขี่สัตว์ร้าย ",
+          "Colour": null
         },
         {
           "Line": 70,
           "OriginalText": "upon its throne,\nFor only then the shrine is seen.",
-          "TranslatedText": "\u0E1A\u0E19\u0E1A\u0E31\u0E25\u0E25\u0E31\u0E07\u0E01\u0E4C\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E41\u0E04\u0E48\u0E19\u0E31\u0E49\u0E19\n\u0E01\u0E47\u0E08\u0E30\u0E40\u0E2B\u0E47\u0E19\u0E28\u0E32\u0E25\u0E40\u0E08\u0E49\u0E32"
+          "TranslatedText": "บนบัลลังก์เพียงแค่นั้น\nก็จะเห็นศาลเจ้า",
+          "Colour": null
         }
       ]
     },
@@ -72,17 +82,20 @@
         {
           "Line": 82,
           "OriginalText": "Oh!",
-          "TranslatedText": "\u0E42\u0E2D\u0E49!"
+          "TranslatedText": "โอ้!",
+          "Colour": null
         },
         {
           "Line": 86,
           "OriginalText": " Pardon me!",
-          "TranslatedText": " \u0E22\u0E01\u0E42\u0E17\u0E29\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E14\u0E49\u0E27\u0E22!\n"
+          "TranslatedText": " ยกโทษให้ฉันด้วย!\n",
+          "Colour": null
         },
         {
           "Line": 90,
           "OriginalText": " I didn\u0027t think anyone\nwas around...",
-          "TranslatedText": " \u0E09\u0E31\u0E19\u0E44\u0E21\u0E48\u0E04\u0E34\u0E14\u0E27\u0E48\u0E32\u0E08\u0E30\u0E21\u0E35\u0E43\u0E04\u0E23\u0E2D\u0E22\u0E39\u0E48\u0E41\u0E16\u0E27\u0E19\u0E35\u0E49..."
+          "TranslatedText": " ฉันไม่คิดว่าจะมีใครอยู่แถวนี้...",
+          "Colour": null
         }
       ]
     },
@@ -92,29 +105,35 @@
         {
           "Line": 99,
           "OriginalText": "I suppose \u0022the lush green\u0022 could refer\nto this place.",
-          "TranslatedText": "\u0E09\u0E31\u0E19\u0E04\u0E34\u0E14\u0E27\u0E48\u0E32 \u0022\u0E2A\u0E35\u0E40\u0E02\u0E35\u0E22\u0E27\u0E0A\u0E2D\u0E38\u0E48\u0E21\u0022 \n\u0E2D\u0E32\u0E08\u0E2B\u0E21\u0E32\u0E22\u0E16\u0E36\u0E07\u0E2A\u0E16\u0E32\u0E19\u0E17\u0E35\u0E48\u0E41\u0E2B\u0E48\u0E07\u0E19\u0E35\u0E49\n"
+          "TranslatedText": "ฉันคิดว่า \u0022สีเขียวชอุ่ม\u0022 \nอาจหมายถึงสถานที่แห่งนี้\n",
+          "Colour": null
         },
         {
           "Line": 103,
           "OriginalText": " But what sort of beast\nwears a \u0022crown of bone\u0022?\n",
-          "TranslatedText": " \u0E41\u0E15\u0E48\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E0A\u0E19\u0E34\u0E14\u0E43\u0E14\u0E2A\u0E27\u0E21 \u0022\u0E21\u0E07\u0E01\u0E38\u0E0E\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01\u0022?\n"
+          "TranslatedText": " แต่สัตว์ชนิดใดสวม \u0022มงกุฎกระดูก\u0022?\n",
+          "Colour": null
         },
         {
           "Line": 109,
           "OriginalText": "There\u0027s definitely a secret hiding here,",
-          "TranslatedText": "\u0E21\u0E35\u0E04\u0E27\u0E32\u0E21\u0E25\u0E31\u0E1A\u0E0B\u0E48\u0E2D\u0E19\u0E2D\u0E22\u0E39\u0E48\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E41\u0E19\u0E48\u0E19\u0E2D\u0E19,"
+          "TranslatedText": "มีความลับซ่อนอยู่ที่นี่แน่นอน,",
+          "Colour": null
         },
         {
           "Line": 113,
           "OriginalText": "\nbut it\u0027s beyond me.\n\n",
-          "TranslatedText": "\n\u0E41\u0E15\u0E48\u0E21\u0E31\u0E19\u0E40\u0E2B\u0E19\u0E37\u0E2D\u0E01\u0E27\u0E48\u0E32\u0E04\u0E27\u0E32\u0E21\u0E04\u0E34\u0E14\u0E09\u0E31\u0E19\n\n"
+          "TranslatedText": "\nแต่มันเหนือกว่าความคิดฉัน\n\n",
+          "Colour": null
         },
         {
           "Line": 119,
           "OriginalText": "May the light illuminate your path.",
-          "TranslatedText": "\u0E02\u0E2D\u0E43\u0E2B\u0E49\u0E41\u0E2A\u0E07\u0E2A\u0E48\u0E2D\u0E07\u0E17\u0E32\u0E07\u0E41\u0E01\u0E48\u0E04\u0E38\u0E13"
+          "TranslatedText": "ขอให้แสงส่องทางแก่คุณ",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

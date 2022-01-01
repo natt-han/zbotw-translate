@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Don\u0027t read.",
-          "TranslatedText": "ไม่อ่าน"
+          "TranslatedText": "ไม่อ่าน",
+          "Colour": null
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Next page.",
-          "TranslatedText": "หน้าถัดไป"
+          "TranslatedText": "หน้าถัดไป",
+          "Colour": null
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Previous page.",
-          "TranslatedText": "หน้าก่อน"
+          "TranslatedText": "หน้าก่อน",
+          "Colour": null
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Stop reading.",
-          "TranslatedText": "หยุดอ่าน"
+          "TranslatedText": "หยุดอ่าน",
+          "Colour": null
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "First page.",
-          "TranslatedText": "หน้าแรก"
+          "TranslatedText": "หน้าแรก",
+          "Colour": null
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Last page.",
-          "TranslatedText": "หน้าสุดท้าย"
+          "TranslatedText": "หน้าสุดท้าย",
+          "Colour": null
         }
       ]
     },
@@ -67,17 +73,20 @@
         {
           "Line": 32,
           "OriginalText": "Read ",
-          "TranslatedText": "อ่าน "
+          "TranslatedText": "อ่าน ",
+          "Colour": null
         },
         {
           "Line": 36,
           "OriginalText": "Mipha\u0027s Diary",
-          "TranslatedText": "ไดอารี่ของ Mipha"
+          "TranslatedText": "ไดอารี่ของ Mipha",
+          "Colour": "blue"
         },
         {
           "Line": 39,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Colour": null
         }
       ]
     },
@@ -87,7 +96,8 @@
         {
           "Line": 52,
           "OriginalText": "At the request of Hyrule\u0027s king,\na group of outsiders came to\ngreet us at the domain.\nOne of them was a Hylian child of\nonly about four years of age.\nHis name was Link.\nHe made quite a first impression. He was\ncurious and full of energy, with a ready\nsmile. Are all Hylian children that way?\nOne thing that surely sets him apart is\nhis swordsmanship, which I hear is\nexceptional. He has even bested adults.\nHe must be somewhat reckless, however,\nas he was covered in bruises. Wishing to\nbe helpful, I healed his wounds for him.\nIt must have been his first time seeing\nhealing magic, as he looked up at me\nwith big, round eyes. It was...adorable.",
-          "TranslatedText": "ตามคำขอของกษัตริย์ Hyrule\nคนนอกกลุ่มหนึ่งได้เดินทางมายังอาณาจักรของเรา\nหนึ่งในนั้นคือเด็กชาว Hylian คนหนึ่ง\nอายุประมาณสี่ปีเท่านั้น\nชื่อของเขาคือ Link\nเขาค่อนข้างน่าประทับใจ เขาเต็มไปด้วย\nความใคร่รู้และกระตือรือล้นและรอยยิ้ม\nเด็กชาว Hylian เป็นแบบนี้กันทุกคนเหรอ?\nสิ่งหนึ่งที่ทำให้เขาแตกต่างคือวิชาดาบของเขา\nซึ่งฉันได้ยินมาว่าโดดเด่นมาก ถึงขั้นเอาชนะผู้ใหญ่ได้\nเขาคงไม่ค่อยระวังตัวเท่าไหร่ เพราะว่าตัวเขา\nเต็มไปด้วยรอยถลอก\nเนื่องจากอยากเป็นประโยชน์ \nฉันจึงช่วยรักษาเขาแผลให้เขา\nมันคงเป็นครั้งแรกที่เขาได้เห็นเวทย์รักษา\nเขามองมายังฉันด้วยดวงตากลมโต\nมันช่าง...น่ารักเหลือเกิน"
+          "TranslatedText": "ตามคำขอของกษัตริย์ Hyrule\nคนนอกกลุ่มหนึ่งได้เดินทางมายังอาณาจักรของเรา\nหนึ่งในนั้นคือเด็กชาว Hylian คนหนึ่ง\nอายุประมาณสี่ปีเท่านั้น\nชื่อของเขาคือ Link\nเขาค่อนข้างน่าประทับใจ เขาเต็มไปด้วย\nความใคร่รู้และกระตือรือล้นและรอยยิ้ม\nเด็กชาว Hylian เป็นแบบนี้กันทุกคนเหรอ?\nสิ่งหนึ่งที่ทำให้เขาแตกต่างคือวิชาดาบของเขา\nซึ่งฉันได้ยินมาว่าโดดเด่นมาก ถึงขั้นเอาชนะผู้ใหญ่ได้\nเขาคงไม่ค่อยระวังตัวเท่าไหร่ เพราะว่าตัวเขา\nเต็มไปด้วยรอยถลอก\nเนื่องจากอยากเป็นประโยชน์ \nฉันจึงช่วยรักษาเขาแผลให้เขา\nมันคงเป็นครั้งแรกที่เขาได้เห็นเวทย์รักษา\nเขามองมายังฉันด้วยดวงตากลมโต\nมันช่าง...น่ารักเหลือเกิน",
+          "Colour": null
         }
       ]
     },
@@ -97,7 +107,8 @@
         {
           "Line": 65,
           "OriginalText": "A Divine Beast was excavated from\nZora\u0027s Domain. This one is called\nVah Ruta.\nThe first time I laid eyes on Ruta, I was\nsurprised by how cute it was. It\u0027s so big\nand round, with a long, awkward nose.\nAccording to the Sheikah who found\nRuta, Divine Beasts require someone\nworthy to control them.\nIt\u0027s fun to imagine someone piloting this\nenormous beast in the distant past.\nI wonder who will have that honor next.",
-          "TranslatedText": "Divine Beast ตัวหนึ่งถูกพบใน\nZora\u0027s Domain ชื่อของมันคือ Vah Ruta\nครั้งแรกที่ฉันได้เห็น Ruta ฉันต้องประหลาดใจ\nในความน่ารักของมัน มันช่างตัวกลมใหญ่\nมีจมูกที่ยาวและดูตลก\nตามที่ชาว Sheikah ผู้ค้นพบ Ruta บอก\nDivine Beasts นั้นต้องการผู้ที่ควรค่า\nเพื่อมาควบคุมพวกมัน\nมันสนุกดีที่จินตนาการถึงผู้ที่เคยบังคับอสูรขนาดยักษ์นี้\nในอดีตอันไกลโพ้น สงสัยจังว่าใครกันนะที่จะ\nเป็นผู้ได้รับเกียรติคนต่อไป"
+          "TranslatedText": "Divine Beast ตัวหนึ่งถูกพบใน\nZora\u0027s Domain ชื่อของมันคือ Vah Ruta\nครั้งแรกที่ฉันได้เห็น Ruta ฉันต้องประหลาดใจ\nในความน่ารักของมัน มันช่างตัวกลมใหญ่\nมีจมูกที่ยาวและดูตลก\nตามที่ชาว Sheikah ผู้ค้นพบ Ruta บอก\nDivine Beasts นั้นต้องการผู้ที่ควรค่า\nเพื่อมาควบคุมพวกมัน\nมันสนุกดีที่จินตนาการถึงผู้ที่เคยบังคับอสูรขนาดยักษ์นี้\nในอดีตอันไกลโพ้น สงสัยจังว่าใครกันนะที่จะ\nเป็นผู้ได้รับเกียรติคนต่อไป",
+          "Colour": null
         }
       ]
     },
@@ -107,7 +118,8 @@
         {
           "Line": 78,
           "OriginalText": "Link came to visit the domain. It feels like\nforever since he was here last. He no\nlonger resembles the child I first met.\nHe is now an accomplished knight and\nkeeper of the sword that seals the\ndarkness. I am so proud. However...\nHe hardly speaks anymore, and smiles\neven more rarely. He is still the kind\nsoul I knew, but something has changed.\nI asked him if something had happened,\nif something was wrong. He merely\nshook his head.\nPerhaps it is his newly acquired height,\nbut I feel he is ever looking past me,\ninto the distance beyond...",
-          "TranslatedText": "Link กลับมาที่อาณาจักรอีกครั้ง\nมันรู้สึกเหมือนนานมากแล้วจากครั้งก่อน\nที่เขาที่นี่ เขาดูไม่เหมือนกับเด็กชายที่ฉัน\nได้พบในตอนนั้นอีกแล้ว\nตอนนี้เขาเป็นอัศวินเต็มตัวและยังเป็น\nผู้ครองดาบที่ผนึกความมืด\nฉันรู้สึกภูมิใจมาก แต่ว่า...\nเขาแทบไม่พูดเลยต่างจากเมื่อก่อน\nและยิ้มน้อยยิ่งกว่า เขายังคงเป็นคนจิตใจดี\nที่ฉันรู้จัก แต่บางอย่างได้เปลี่ยนไป\nฉันถามเขาว่ามีเรื่องอะไรหรือเปล่า เขาก็เพียงส่ายหน้า\nบางทีอาจเป็นเพราะภาระหน้าที่ใหม่ของเขา\nแต่ฉันรู้สึกเหมือนกับว่าเขาเพียงมองผ่านฉันไป\nยังที่ห่างไกลออกไป..."
+          "TranslatedText": "Link กลับมาที่อาณาจักรอีกครั้ง\nมันรู้สึกเหมือนนานมากแล้วจากครั้งก่อน\nที่เขาที่นี่ เขาดูไม่เหมือนกับเด็กชายที่ฉัน\nได้พบในตอนนั้นอีกแล้ว\nตอนนี้เขาเป็นอัศวินเต็มตัวและยังเป็น\nผู้ครองดาบที่ผนึกความมืด\nฉันรู้สึกภูมิใจมาก แต่ว่า...\nเขาแทบไม่พูดเลยต่างจากเมื่อก่อน\nและยิ้มน้อยยิ่งกว่า เขายังคงเป็นคนจิตใจดี\nที่ฉันรู้จัก แต่บางอย่างได้เปลี่ยนไป\nฉันถามเขาว่ามีเรื่องอะไรหรือเปล่า เขาก็เพียงส่ายหน้า\nบางทีอาจเป็นเพราะภาระหน้าที่ใหม่ของเขา\nแต่ฉันรู้สึกเหมือนกับว่าเขาเพียงมองผ่านฉันไป\nยังที่ห่างไกลออกไป...",
+          "Colour": null
         }
       ]
     },
@@ -117,7 +129,8 @@
         {
           "Line": 91,
           "OriginalText": "The princess of Hyrule paid a special\nvisit to the domain. She asked me if I\nwould agree to pilot a Divine Beast.\nShe told me she needs my help to face\nthe Calamity. My heart knew at once\nwhat to do. I agreed without reservation.\nCalamity Ganon must not be resurrected.\nIf he is, there is no way to ensure the\nsafety of my people, or of anyone.\nI do not know what will happen. All I\nknow is that if there is anything I can do\nto help, I must try. I must protect Hyrule.\nThere is also that...the Divine Beasts are\nmeant to assist the chosen hero when he\nfaces Ganon. In this way, I can help Link.",
-          "TranslatedText": "เจ้าหญิงแห่ง Hyrule ได้มาเยือนอาณาจักรด้วยตนเอง\nเธอถามฉันว่าฉันตกลงที่จะควบคุม Divine Beast หรือไม่\nเธอบอกว่าเธอต้องการความช่วยเหลือจากฉัน\nเพื่อเผชิญหน้ากับ Calamity\nหัวใจของฉันรู้ในทันทีว่าต้องทำอย่างไร\nฉันตอบตกลงอย่างไม่ลังเล\nCalamity Ganon ต้องไม่ฟื้นคืนกลับมา\nไม่เช่นนั้นคงไม่มีทางรับประกันถึงความปลอดภัยในชีวิต\nของผู้คนของฉัน หรือของใครก็ตาม\nฉันไม่รู้ว่าอนาคตจะเกิดอะไรขึ้น\nที่ฉันรู้มีเพียงว่า หากมีสิ่งใดที่ฉันสามารถช่วยได้\nฉันจะทำ ฉันต้องปกป้อง Hyrule\nและมีอีกอย่าง... Divine Beasts นั้นมีอยู่เพื่อช่วยเหลือ\nผู้กล้าผู้ถูกเลือกเมื่อเขาต้องเผชิญกับ Ganon\nด้วยหนทางนี้ ฉันสามารถช่วย Link ได้"
+          "TranslatedText": "เจ้าหญิงแห่ง Hyrule ได้มาเยือนอาณาจักรด้วยตนเอง\nเธอถามฉันว่าฉันตกลงที่จะควบคุม Divine Beast หรือไม่\nเธอบอกว่าเธอต้องการความช่วยเหลือจากฉัน\nเพื่อเผชิญหน้ากับ Calamity\nหัวใจของฉันรู้ในทันทีว่าต้องทำอย่างไร\nฉันตอบตกลงอย่างไม่ลังเล\nCalamity Ganon ต้องไม่ฟื้นคืนกลับมา\nไม่เช่นนั้นคงไม่มีทางรับประกันถึงความปลอดภัยในชีวิต\nของผู้คนของฉัน หรือของใครก็ตาม\nฉันไม่รู้ว่าอนาคตจะเกิดอะไรขึ้น\nที่ฉันรู้มีเพียงว่า หากมีสิ่งใดที่ฉันสามารถช่วยได้\nฉันจะทำ ฉันต้องปกป้อง Hyrule\nและมีอีกอย่าง... Divine Beasts นั้นมีอยู่เพื่อช่วยเหลือ\nผู้กล้าผู้ถูกเลือกเมื่อเขาต้องเผชิญกับ Ganon\nด้วยหนทางนี้ ฉันสามารถช่วย Link ได้",
+          "Colour": null
         }
       ]
     },
@@ -127,7 +140,8 @@
         {
           "Line": 104,
           "OriginalText": "Link came to visit me. It had been ages.\nI told him the Lynel of Ploymus Mountain\nhas been terrorizing everyone lately.\nWhen I said that, he started walking\ntoward the mountain, without a word.\nSpellbound, I followed him there.\nWhen we were almost there, he told me\nto turn back. He insisted he would be\nfine on his own. I stubbornly stayed.\nWhile I argued, the Lynel attacked us\nfrom behind! I was sure we had met\nour end. How silly of me to doubt.\nWith a sure hand and a fierce gleam in\nhis eye, Link unsheathed the sword that\nseals the darkness and defeated our foe.\nHis swordsmanship was swift and\ngraceful. I was fascinated by the\nbeauty of his movements.\nThough I should have been terrified,\nI could not help but feel safe in the\npresence of my dear friend.\nHis kindness and determination to help\nthose in need... His strength and skill...\nMy heart is drawn to his. I am doomed.\nThe last beautiful move Link performed\non the mountain is called a Spin Attack.\nPerhaps I will attempt it with my spear.",
-          "TranslatedText": "Link แวะมาหาฉัน ฉันไม่ได้เจอเขามานานแล้ว\nฉันบอกเขาว่า Lynel ที่ Ploymus Mountain\nได้ทำให้ทุกคนขวัญผวากันหมด\nพอฉันบอกไป เขาก็เริ่มเดินไปยังภูเขาโดยไม่พูดอะไร\nฉันตามเขาไปที่นั่น รู้สึกราวต้องมนต์\nตอนที่เราเกือบจะถึง เขาบอกให้ฉันกลับไป\nเขายืนยันว่าเขาจะไม่เป็นอะไร แต่ฉันดึงดันจะอยู่\nขณะเถียงกันอยู่  Lynel ก็เริ่มโจมตีเราจากข้างหลัง! \nตอนนั้นฉันแน่ใจว่านี่คือจุดจบของเรา \nฉันช่างงี่เง่าเหลือเกินที่เกิดความสงสัย\nด้วยมือที่มั่นคงและสายตาที่เป็นเฉียบคม\nLink ชักดาบที่ผนึกความมืดออกมาจากฝัก\nและเอาชนะศัตรูของเรา\nวิชาดาบของเขานั้นช่างว่องไวและสง่างาม\nฉันหลงใหลไปกับความงดงามของการเคลื่อนไหว\nของเขา ฉันนึกว่าฉันควรจะรู้สึกกลัว\nแต่ฉันกลับรู้สึกปลอดภัย\nเพียงเพราะของเพื่อนที่รักของฉันอยู่ตรงนั้นด้วย\nความใจดีและความตั้งใจที่จะช่วยเหลือผู้ที่ต้องการของเขา... \nความแข็งแกร่งและทักษะของเขา...\nหัวใจของฉันถูกดึงดูดเข้าหาเขา ฉันแย่แล้ว\nท่าสุดท้ายอันงดงามที่ Link ใช้ออกมาบนภูเขานั้น\nเรียกว่า Spin Attack\nบางทีฉันน่าจะลองใช้มันด้วยหอกของฉัน"
+          "TranslatedText": "Link แวะมาหาฉัน ฉันไม่ได้เจอเขามานานแล้ว\nฉันบอกเขาว่า Lynel ที่ Ploymus Mountain\nได้ทำให้ทุกคนขวัญผวากันหมด\nพอฉันบอกไป เขาก็เริ่มเดินไปยังภูเขาโดยไม่พูดอะไร\nฉันตามเขาไปที่นั่น รู้สึกราวต้องมนต์\nตอนที่เราเกือบจะถึง เขาบอกให้ฉันกลับไป\nเขายืนยันว่าเขาจะไม่เป็นอะไร แต่ฉันดึงดันจะอยู่\nขณะเถียงกันอยู่  Lynel ก็เริ่มโจมตีเราจากข้างหลัง! \nตอนนั้นฉันแน่ใจว่านี่คือจุดจบของเรา \nฉันช่างงี่เง่าเหลือเกินที่เกิดความสงสัย\nด้วยมือที่มั่นคงและสายตาที่เป็นเฉียบคม\nLink ชักดาบที่ผนึกความมืดออกมาจากฝัก\nและเอาชนะศัตรูของเรา\nวิชาดาบของเขานั้นช่างว่องไวและสง่างาม\nฉันหลงใหลไปกับความงดงามของการเคลื่อนไหว\nของเขา ฉันนึกว่าฉันควรจะรู้สึกกลัว\nแต่ฉันกลับรู้สึกปลอดภัย\nเพียงเพราะของเพื่อนที่รักของฉันอยู่ตรงนั้นด้วย\nความใจดีและความตั้งใจที่จะช่วยเหลือผู้ที่ต้องการของเขา... \nความแข็งแกร่งและทักษะของเขา...\nหัวใจของฉันถูกดึงดูดเข้าหาเขา ฉันแย่แล้ว\nท่าสุดท้ายอันงดงามที่ Link ใช้ออกมาบนภูเขานั้น\nเรียกว่า Spin Attack\nบางทีฉันน่าจะลองใช้มันด้วยหอกของฉัน",
+          "Colour": null
         }
       ]
     },
@@ -137,7 +151,8 @@
         {
           "Line": 117,
           "OriginalText": "Father has finally given his blessing for\nme to pilot the Divine Beast. The threat\nof the Calamity can no longer be ignored.\nFather said the Zora must play their part.\nHe seemed on the brink of tears when\nhe made me promise to return unharmed.\nMy eyes burned with tears as well, so I\nsimply nodded. Seggin could hardly\nlook at me. Muzu left partway through.\nI feel awful for putting them through this,\nbut I must do what I can to help Link.\nI could never forgive myself otherwise.\nSpeaking of Link... I have at last finished\ngathering the materials for the armor.\nI shall start making it at once.",
-          "TranslatedText": "ในที่สุดพ่อก็ยอมให้ฉันควบคุม Divine Beast\nภัยคุกคามจาก Calamity นั้นไม่อาจเมินเฉยได้อีกต่อไป\nพ่อบอกว่า Zora ต้องทำหน้าที่ของพวกเรา\nเขาดูแทบจะร้องไห้ออกมาตอนที่บอกให้ฉันสัญญา\nว่าจะกลับมาอย่างปลอดภัย\nตาของฉันก็รื้นไปด้วยน้ำตาเช่นกัน\nฉันจึงเพียงพยักหน้า \nSeggin แทบไม่ยอมมองฉัน\nMuzu ก็ออกไปก่อนกลางคัน\nฉันรู้สึกแย่ที่ทำให้พวกเขาต้องเป็นแบบนี้\nแต่ฉันต้องทำเท่าที่ทำได้เพื่อช่วย Link\nไม่เช่นนั้นฉันคงไม่ยอมยกโทษให้ตัวเอง\nพุดถึง Link แล้ว... ในที่สุดฉันก็รวบรวมวัสดุ\nสำหรับชุดเกราะได้ครบแล้ว\nฉันควรเริ่มทำมันทันที"
+          "TranslatedText": "ในที่สุดพ่อก็ยอมให้ฉันควบคุม Divine Beast\nภัยคุกคามจาก Calamity นั้นไม่อาจเมินเฉยได้อีกต่อไป\nพ่อบอกว่า Zora ต้องทำหน้าที่ของพวกเรา\nเขาดูแทบจะร้องไห้ออกมาตอนที่บอกให้ฉันสัญญา\nว่าจะกลับมาอย่างปลอดภัย\nตาของฉันก็รื้นไปด้วยน้ำตาเช่นกัน\nฉันจึงเพียงพยักหน้า \nSeggin แทบไม่ยอมมองฉัน\nMuzu ก็ออกไปก่อนกลางคัน\nฉันรู้สึกแย่ที่ทำให้พวกเขาต้องเป็นแบบนี้\nแต่ฉันต้องทำเท่าที่ทำได้เพื่อช่วย Link\nไม่เช่นนั้นฉันคงไม่ยอมยกโทษให้ตัวเอง\nพุดถึง Link แล้ว... ในที่สุดฉันก็รวบรวมวัสดุ\nสำหรับชุดเกราะได้ครบแล้ว\nฉันควรเริ่มทำมันทันที",
+          "Colour": null
         }
       ]
     },
@@ -147,7 +162,8 @@
         {
           "Line": 130,
           "OriginalText": "Today was the inauguration ceremony\nat Hyrule Castle. It was an honor to\ntake part. However...\nHonestly, I do not remember much\nabout it, but only because something\nunforgettable happened afterward.\nI experienced something wondrous,\na beautiful moment in time I shall\ntreasure forever.\nI am grateful to the princess for agreeing\nto my request, and to Daruk for...um...\nwell, for bringing me closer to Link.\nOh... I did hear something that shocked\nme enough to almost overshadow that\nhappy moment.\nLink has been chosen to guard the\nprincess wherever she goes. They shall...\nbe spending much time together...",
-          "TranslatedText": "วันนี้มีพิธีเปิดที่ Hyrule Castle\nช่างเป็นเกียรติที่ได้เป็นส่วนหนึ่งของงาน แต่ว่า...\nพูดตามตรงแล้ว ฉันจำอะไรไม่ค่อยได้\nเพราะมีเรื่องอันลืมไม่ลมเกิดขึ้นหลังจากนั้น\nฉันได้พบกับประสบการณ์แสนวิเศษ\nวินาทีอันงดงามที่ฉันจะจดจำไว้ตลอดไป\nฉันรู้สึกซาบซึ้งที่เจ้าหญิงยอมรับคำขอของฉัน\nและที่ Daruk ...เอ่อ...\nคือ ที่ช่วยให้ฉันได้ใกล้ชิดกับ Link\nอ้อ... ฉันได้ยินเรื่องน่าตกใจที่แทบจะกลบ\nวินาทีแห่งความสุขนั้นไปเลย\nLink ได้ถูกเลือกให้เป็นองครักษ์ของเจ้าหญิง \nพวกเขาคง... จะได้ใช้เวลาร่วมกันอีกมาก..."
+          "TranslatedText": "วันนี้มีพิธีเปิดที่ Hyrule Castle\nช่างเป็นเกียรติที่ได้เป็นส่วนหนึ่งของงาน แต่ว่า...\nพูดตามตรงแล้ว ฉันจำอะไรไม่ค่อยได้\nเพราะมีเรื่องอันลืมไม่ลมเกิดขึ้นหลังจากนั้น\nฉันได้พบกับประสบการณ์แสนวิเศษ\nวินาทีอันงดงามที่ฉันจะจดจำไว้ตลอดไป\nฉันรู้สึกซาบซึ้งที่เจ้าหญิงยอมรับคำขอของฉัน\nและที่ Daruk ...เอ่อ...\nคือ ที่ช่วยให้ฉันได้ใกล้ชิดกับ Link\nอ้อ... ฉันได้ยินเรื่องน่าตกใจที่แทบจะกลบ\nวินาทีแห่งความสุขนั้นไปเลย\nLink ได้ถูกเลือกให้เป็นองครักษ์ของเจ้าหญิง \nพวกเขาคง... จะได้ใช้เวลาร่วมกันอีกมาก...",
+          "Colour": null
         }
       ]
     },
@@ -157,9 +173,11 @@
         {
           "Line": 143,
           "OriginalText": "I finally completed that special armor\nfor Link. I am confident it will fit\nhim perfectly.\nHe is coming to the domain soon. I hope\nto give him my gift when I see him, but...\nshould I really go through with it?\nAccording to the old legend, long ago a\nZora princess fell in love with a Hylian\nswordsman. Perhaps there is hope.\nThis will be a rare occasion that Link\nis not accompanying the princess.\nWe should have some time to ourselves.\nOh, I have an idea! At sunset I shall ride\nupon Ruta with Link. Zora princess of\nthe past...please lend me your courage!",
-          "TranslatedText": "ในที่สุดฉันก็ทำชุดเกราะพิเศษสำหรับ Link เสร็จแล้ว\nฉันมั่นใจว่าเขาจะใส่มันได้พอดี\nเขาจะมายังอาณาจักรในไม่ช้า ฉันหวังว่า\nจะมอบให้กับเขาเมื่อเจอกัน แต่ว่า...\nฉันควรจะทำแบบนั้นหรือเปล่านะ?\nตามตำนานเก่าแก่นานมาแล้ว เคยมีเจ้าหญิง Zora \nที่ตกหลุมรักกับนักดาบชาว Hylian\nบางทีอาจจะมีความหวังอยู่\nนี่จะเป็นโอกาสที่หาได้ยากที่ Link จะไม่ได้\nร่วมเดินทางมากับเจ้าหญิง\nเราน่าจะมีเวลาเป็นส่วนตัว\nอ้อ นึกออกแล้ว! ฉันจะขึ้นไปบน Ruta กับ Link \nตอนอาทิตย์ตก\nเจ้าหญิง Zora ในอดีต...ได้โปรด\nให้ฉันยืมความกล้าของท่านด้วย!"
+          "TranslatedText": "ในที่สุดฉันก็ทำชุดเกราะพิเศษสำหรับ Link เสร็จแล้ว\nฉันมั่นใจว่าเขาจะใส่มันได้พอดี\nเขาจะมายังอาณาจักรในไม่ช้า ฉันหวังว่า\nจะมอบให้กับเขาเมื่อเจอกัน แต่ว่า...\nฉันควรจะทำแบบนั้นหรือเปล่านะ?\nตามตำนานเก่าแก่นานมาแล้ว เคยมีเจ้าหญิง Zora \nที่ตกหลุมรักกับนักดาบชาว Hylian\nบางทีอาจจะมีความหวังอยู่\nนี่จะเป็นโอกาสที่หาได้ยากที่ Link จะไม่ได้\nร่วมเดินทางมากับเจ้าหญิง\nเราน่าจะมีเวลาเป็นส่วนตัว\nอ้อ นึกออกแล้ว! ฉันจะขึ้นไปบน Ruta กับ Link \nตอนอาทิตย์ตก\nเจ้าหญิง Zora ในอดีต...ได้โปรด\nให้ฉันยืมความกล้าของท่านด้วย!",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

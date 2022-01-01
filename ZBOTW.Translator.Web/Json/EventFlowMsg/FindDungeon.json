@@ -7,22 +7,26 @@
         {
           "Line": 13,
           "OriginalText": "Go on...",
-          "TranslatedText": "ไปเถอะ..."
+          "TranslatedText": "ไปเถอะ...",
+          "Colour": null
         },
         {
           "Line": 17,
           "OriginalText": " Here is the ",
-          "TranslatedText": " ส่วนนี่คือ "
+          "TranslatedText": " ส่วนนี่คือ ",
+          "Colour": null
         },
         {
           "Line": 21,
           "OriginalText": "paraglider",
-          "TranslatedText": "paraglider"
+          "TranslatedText": "paraglider",
+          "Colour": "blue"
         },
         {
           "Line": 24,
           "OriginalText": ", just as\nI promised.",
-          "TranslatedText": "ตามที่\nข้าสัญญาไว้"
+          "TranslatedText": "ตามที่\nข้าสัญญาไว้",
+          "Colour": null
         }
       ]
     },
@@ -32,7 +36,8 @@
         {
           "Line": 33,
           "OriginalText": "With that, you should be able to safely\nfly off the cliffs surrounding this area.",
-          "TranslatedText": "เมื่อมีมันแล้ว เจ้าก็น่าจะสามารถบินออกจากหน้าผา\nที่รอบล้อมที่แห่งนี้ออกไปได้อย่างปลอดภัย"
+          "TranslatedText": "เมื่อมีมันแล้ว เจ้าก็น่าจะสามารถบินออกจากหน้าผา\nที่รอบล้อมที่แห่งนี้ออกไปได้อย่างปลอดภัย",
+          "Colour": null
         }
       ]
     },
@@ -42,17 +47,20 @@
         {
           "Line": 42,
           "OriginalText": "And...",
-          "TranslatedText": "และ..."
+          "TranslatedText": "และ...",
+          "Colour": null
         },
         {
           "Line": 46,
           "OriginalText": "I think that\u0027s it.\n\n\n",
-          "TranslatedText": "ข้าคิดว่าคงจบแค่นี้ล่ะ\n\n\n"
+          "TranslatedText": "ข้าคิดว่าคงจบแค่นี้ล่ะ\n\n\n",
+          "Colour": null
         },
         {
           "Line": 52,
           "OriginalText": "I\u0027ve told you everything I can...",
-          "TranslatedText": " ข้าได้บอกทุกอย่างที่ข้าบอกได้แล้ว..."
+          "TranslatedText": " ข้าได้บอกทุกอย่างที่ข้าบอกได้แล้ว...",
+          "Colour": null
         }
       ]
     },
@@ -62,19 +70,23 @@
         {
           "Line": 56,
           "OriginalText": "Link...",
-          "TranslatedText": "Link..."
+          "TranslatedText": "Link...",
+          "Colour": null
         },
         {
           "Line": 60,
           "OriginalText": " You must save...",
-          "TranslatedText": " เจ้าต้องช่วย..."
+          "TranslatedText": " เจ้าต้องช่วย...",
+          "Colour": null
         },
         {
           "Line": 64,
           "OriginalText": "Hyrule...",
-          "TranslatedText": "Hyrule..."
+          "TranslatedText": "Hyrule...",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }

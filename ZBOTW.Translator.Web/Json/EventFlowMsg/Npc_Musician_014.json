@@ -7,12 +7,14 @@
         {
           "Line": 13,
           "OriginalText": "Ah, I knew we\u0027d meet again!",
-          "TranslatedText": "อ่าฉันรู้ว่าเราจะได้พบกันอีกครั้ง!"
+          "TranslatedText": "อ่าฉันรู้ว่าเราจะได้พบกันอีกครั้ง!",
+          "Colour": null
         },
         {
           "Line": 17,
           "OriginalText": "\nThough, I never imagined it would be\nhere...",
-          "TranslatedText": "\nแม้ว่าฉันไม่เคยคิดว่ามัน\nจะอยู่ที่นี่ ..."
+          "TranslatedText": "\nแม้ว่าฉันไม่เคยคิดว่ามัน\nจะอยู่ที่นี่ ...",
+          "Colour": null
         }
       ]
     },
@@ -22,7 +24,8 @@
         {
           "Line": 21,
           "OriginalText": "Stop it!",
-          "TranslatedText": "หยุดมัน!"
+          "TranslatedText": "หยุดมัน!",
+          "Colour": null
         }
       ]
     },
@@ -32,7 +35,8 @@
         {
           "Line": 25,
           "OriginalText": "WAAAAAA!",
-          "TranslatedText": "ว้ากก!"
+          "TranslatedText": "ว้ากก!",
+          "Colour": null
         }
       ]
     },
@@ -42,7 +46,8 @@
         {
           "Line": 34,
           "OriginalText": "Ack!",
-          "TranslatedText": "อ้าก!"
+          "TranslatedText": "อ้าก!",
+          "Colour": null
         }
       ]
     },
@@ -52,7 +57,8 @@
         {
           "Line": 38,
           "OriginalText": "Watch it!",
-          "TranslatedText": "ดูนั่น!"
+          "TranslatedText": "ดูนั่น!",
+          "Colour": null
         }
       ]
     },
@@ -62,9 +68,11 @@
         {
           "Line": 42,
           "OriginalText": "Knock it off!",
-          "TranslatedText": "เคาะมัน!"
+          "TranslatedText": "เคาะมัน!",
+          "Colour": null
         }
       ]
     }
-  ]
+  ],
+  "IsCompleted": false
 }
