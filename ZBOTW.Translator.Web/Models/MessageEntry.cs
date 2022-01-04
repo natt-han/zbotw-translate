@@ -42,4 +42,31 @@
             EntryList = new List<MessageEntry>();
         }
     }
+
+    public class MessageTableInfo
+    {
+        public string FileName { get; set; }
+        public bool IsCompleted { get; set; }
+
+        public int Entry { get; set; }
+        public int Text { get; set; }
+        public int TranslatedText { get; set; }
+    }
+
+    public class ProgressViewModel
+    {
+        public int TotalText { get; set; }
+        public int TotalTranslatedText { get; set; }
+
+        public ProgressViewModel()
+        {
+
+        }
+
+        public ProgressViewModel(List<MessageTableInfo> summary)
+        {
+            this.TotalText = summary.Sum(s => s.Text);
+            this.TotalTranslatedText = summary.Sum(s => s.IsCompleted ? s.Text : s.TranslatedText);
+        }
+    }
 }

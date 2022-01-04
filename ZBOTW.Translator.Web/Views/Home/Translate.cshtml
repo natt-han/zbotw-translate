@@ -7,9 +7,20 @@ td{
 }
 textarea {
     resize: none;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
     min-height: 30px;
-    min-width:350px;
+    width:350px;
+    white-space: pre;
+    overflow-wrap: normal;
+    /*overflow-x: scroll;*/
+}
+.preview {
+    width: 350px;
+    border: solid orange 1px;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 2px;
 }
 .list-group-item{
     padding: 0.2em 0.5em;
@@ -17,28 +28,44 @@ textarea {
 .entry-name{
     width:150px
 }
+.navbar-text{
+    font-weight:bold;
+}
 </style>
 <div id="main-div">
     
     <div class="row">
-        <div class="col-sm-2" style="overflow-x:hidden; font-size:.7em;height:900px;">
+        <div class="col-auto" style="overflow-x:hidden; font-size:.7em;height:100vh;">
             <input type="text" v-model="fileNameFilter" class="form-control form-control-sm" />
-            <div class="list-group">
-              <button v-for="fileName in filteredFileList" class="list-group-item list-group-item-action" v-bind:class="{active:selectedFile==fileName}" v-on:click="select(fileName)" >{{fileName}}</button>
+            <div class="btn-group btn-group-sm" role="group" aria-label="">
+              <button type="button" class="btn btn-outline-secondary" v-bind:class="{active:fileGroupFilter==''}" v-on:click="selectGroup('')">All</button>              
+              <button type="button" class="btn btn-outline-success" v-bind:class="{active:fileGroupFilter=='Completed'}" v-on:click="selectGroup('Completed')">Completed</button>
+              <button type="button" class="btn btn-outline-warning" v-bind:class="{active:fileGroupFilter=='Incompleted'}" v-on:click="selectGroup('Incompleted')">Incomplete</button>
+            </div>
+            <div class="list-group" style="min-width:240px">
+              <button v-for="file in filteredFileList" class="list-group-item list-group-item-action" v-bind:class="{active:selectedFile.fileName==file.fileName,'list-group-item-success':(file.isCompleted || file.translatedText==file.text),'list-group-item-warning':(!file.isCompleted && file.translatedText>0)}" v-on:click="select(file)" >{{file.fileName}} <span v-if="file.isCompleted==false&&file.translatedText<file.text">({{file.translatedText}}/{{file.text}})</span></button>
             </div>
         </div>
-        <div class="col-sm-10">
+        <div class="col">
             <div class="row"> 
-                <div class="col-sm-6">
+                <div class="col-auto">
                     <h5>{{messageTable.fileName}}</h5>
                 </div>
-                <div class="col-sm-4 text-end">
+                <div class="col-auto me-auto">
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" v-model="messageTable.isCompleted" value="true" id="flexCheckDefault">
+                      <label class="form-check-label" for="flexCheckDefault">
+                        Completed
+                      </label>
+                    </div>
+                </div>
+                <div class="col-sm-2 text-end">
                     <button type="button" class="btn-primary btn" v-on:click="save()">Save</button>
                 </div>
             </div>
             
-            
-            <table class="table">
+            <div style="height:100vh;overflow-y:scroll">
+                <table class="table">
                 <tbody >
                     <tr v-for="item in messageTable.entryList">
                         <td class="entry-name text-break">
@@ -53,9 +80,22 @@ textarea {
                                     <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
                                 </div>
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-model="text.originalText" readonly tabindex="-1"></textarea>
+                                    <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.originalText" readonly tabindex="-1"></textarea>
                                 </div>
-                            </div>                    
+                            </div>
+                            <div v-if="item.textList.length>1" class="row gx-2">                                
+                                <div class="col-auto">
+                                    Preview
+                                    <pre class="preview"><span v-for="text in item.textList" v-bind:style="text.colour?'color:'+text.colour:''">{{text.translatedText}}</span></pre>
+                                </div>
+                                <div class="col-auto">
+                                    <div style="width:30.25px"></div>
+                                </div>
+                                <div class="col-auto">
+                                    Preview
+                                    <pre class="preview"><span v-for="text in item.textList"  v-bind:style="text.colour?'color:'+text.colour:''">{{text.originalText}}</span></pre>
+                                </div>
+                            </div>
                         </td>
                         @*<td>
                             <template v-for="text in item.textList">
@@ -66,6 +106,8 @@ textarea {
                     </tr>        
                 </tbody>
             </table>
+            </div>
+            
         </div>
     </div>
     
@@ -79,9 +121,14 @@ textarea {
     var vue = new Vue({
         el:"#main-div",
         data:{
+            progress:{
+                totalText:100,
+                totalTranslatedText:100,
+            },
             fileList:[],
             selectedFile:"",
             fileNameFilter:"",
+            fileGroupFilter:"Incompleted",
             messageTable:{
                 fileName:"",
                 entryList:[]
@@ -90,15 +137,37 @@ textarea {
         computed:{
             filteredFileList(){
                 var filter = this.fileNameFilter.toLowerCase()
-                return this.fileList.filter(x=>x.toLowerCase().includes(filter));
+                if(filter!=""){
+                    return this.fileList.filter(x=>x.fileName.toLowerCase().includes(filter));
+                }
+                if(this.fileGroupFilter==""){
+                    this.fileNameFilter = "";
+                    return this.fileList;
+                }else if(this.fileGroupFilter=="Completed"){
+                    return this.fileList.filter(x=>x.isCompleted);
+                }else if(this.fileGroupFilter=="Incompleted"){
+                    return this.fileList.filter(x=>!x.isCompleted);
+                }
+            },
+            totalText(){
+                var total = 0;
+                 this.fileList.reduce(function(prev,cur){ total += cur.text });
+                 return total;
+            },
+            totalTranslatedText(){
+                var total = 0;
+                return this.fileList.reduce(function(prev,cur){ total += cur.translatedText });
             }
         },
         methods:{
-            select(fileName){
-                this.selectedFile=fileName;
-                this.getMessageTable(fileName);
+            selectGroup(group){
+                this.fileGroupFilter = group;
             },
-            getMessageTable:function(fileName){                
+            select(file){
+                this.selectedFile=file;
+                this.getMessageTable(file.fileName);
+            },
+            getMessageTable:function(fileName){
                 var v = this;
                 $.ajax({
                     url:"@Url.Action("GetMessageTable")",
@@ -112,18 +181,22 @@ textarea {
                 }).fail(function(){
                     console.log('fail');
                 });
-                
             },
             copyOrigin:function(text){
                 text.translatedText=text.originalText;
             },
             save(){
+                var v = this;
                 $.post({
                     url:"@Url.Action("Save")",
                     contentType:"application/json",
                     data:JSON.stringify(this.messageTable),
-                }).done(function(){
+                }).done(function(result){
+                    v.progress = result.progress;
+                    v.selectedFile.translatedText = result.currentTranslatedText;
+                    v.selectedFile.isCompleted = v.messageTable.isCompleted;
                     toastr.success("Saved");
+                    v.updateProgress()
                 }).fail(function(){
                     toastr.error("Error!");
                 });
@@ -137,14 +210,19 @@ textarea {
                     element.style.height = "5px";
                     element.style.height = (element.scrollHeight)+"px";
                 });
+            },
+            updateProgress(){
+                $("#navbar-percent-completed").html((this.progress.totalTranslatedText/this.progress.totalText*100.0).toFixed(2)).attr("title",this.progress.totalTranslatedText+"/"+this.progress.totalText);
             }
         },
         created: function(){
             var v = this;
             $.ajax({url:"@Url.Action("GetFileList")",dataType:"json"})            
             .done(function(result){
-                v.fileList = result;
-                v.select(v.fileList[0]);
+                v.fileList = result.files;
+                v.progress = result.progress;
+                v.select(v.filteredFileList[0]);
+                v.updateProgress();
             });
         }
     });

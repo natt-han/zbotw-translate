@@ -214,6 +214,31 @@ namespace ZBOTW.Translator.Web.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult GenSummaryFile()
+        {
+            var summary = new List<MessageTableInfo>();
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Json", "EventFlowMsg"));
+            var exportDir = System.IO.Directory.CreateDirectory(Path.Combine("Msyt", "Export", "EventFlowMsg"));
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var json = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(file.FullName));
+                var text = json.EntryList.Sum(s => s.TextList.Count());
+                var translatedText = json.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Count());
+                var info = new MessageTableInfo()
+                {
+                    FileName = json.FileName,
+                    IsCompleted = json.IsCompleted || text==translatedText,
+                    Entry = json.EntryList.Count(),
+                    Text = text,
+                    TranslatedText = translatedText
+                };
+                summary.Add(info);
+            }
+            System.IO.File.WriteAllText(Path.Combine("Json", $"EventFlowMsg.json"), JsonSerializer.Serialize(summary, jsonSerializerOptions));
+            return RedirectToAction("Index");
+        }
+
         public IActionResult ExportTranslatedMsyt()
         {
             return ExportMsyt();
@@ -243,11 +268,25 @@ namespace ZBOTW.Translator.Web.Controllers
             }
         }
 
+        private List<MessageTableInfo> GetSummary()
+        {
+            return JsonSerializer.Deserialize<List<MessageTableInfo>>(System.IO.File.ReadAllText(Path.Combine("Json", "EventFlowMsg.json")));
+        }
+        private List<MessageTableInfo> SaveSummary(MessageTable messageTable)
+        {
+            var summary = GetSummary();
+            var info = summary.Find(c => c.FileName.Equals(messageTable.FileName));
+            info.IsCompleted = messageTable.IsCompleted;
+            info.TranslatedText = messageTable.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Count());
+            System.IO.File.WriteAllText(Path.Combine("Json", $"EventFlowMsg.json"), JsonSerializer.Serialize(summary, jsonSerializerOptions));
+            return summary;
+        }
+
         public IActionResult GetFileList()
         {
-            var dir = new System.IO.DirectoryInfo(Path.Combine("Json", "EventFlowMsg"));
-            var files = dir.GetFiles();
-            return Json(files.Select(s => Path.GetFileNameWithoutExtension(s.Name)));
+            var summary = GetSummary();
+            var progress = new ProgressViewModel(summary);
+            return Json(new { files= summary, progress});
         }
         public IActionResult GetMessageTable(string fileName)
         {
@@ -255,23 +294,20 @@ namespace ZBOTW.Translator.Web.Controllers
             return Json(json);
         }
 
-        public IActionResult Edit()
-        {
-            var json = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(@"Json\EventFlowMsg\Animal_Forest.json"));
-            return View(json);
-        }
-
         public IActionResult Translate()
         {            
             return View();
         }
+               
 
         public IActionResult Save([FromBody]MessageTable messageTable)
         {
             System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{messageTable.FileName}.json"), JsonSerializer.Serialize(messageTable, jsonSerializerOptions));
-            return Json(1);
+            var summary = SaveSummary(messageTable);
+            var progress = new ProgressViewModel(summary);
+            var currentTranslatedText = summary.Find(c => c.FileName == messageTable.FileName)?.TranslatedText ?? 0;
+            return Json(new { progress, currentTranslatedText});
         }
-
         
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
