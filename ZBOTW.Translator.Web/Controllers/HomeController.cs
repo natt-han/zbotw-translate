@@ -14,9 +14,10 @@ namespace ZBOTW.Translator.Web.Controllers
         private readonly ILogger<HomeController> _logger;
         JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions
         {
-            Encoder = JavaScriptEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Thai),
+            Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),//(UnicodeRanges.BasicLatin, UnicodeRanges.Thai,UnicodeRanges.GeometricShapes,UnicodeRanges.MiscellaneousSymbols),
             WriteIndented = true
         };
+        
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -148,7 +149,16 @@ namespace ZBOTW.Translator.Web.Controllers
 
         private FileStreamResult ExportMsyt()
         {
+            var encoderSettings = new TextEncoderSettings();
+            encoderSettings.AllowCharacters('\u0027');
+            encoderSettings.AllowRange(UnicodeRanges.BasicLatin);
             
+            JsonSerializerOptions msytSerializerOptions = new JsonSerializerOptions
+            {
+                Encoder = JavaScriptEncoder.Create(encoderSettings)
+
+            };
+
             var textValueRegex = new Regex("text: .+");
             var dir = new System.IO.DirectoryInfo(Path.Combine("Json", "EventFlowMsg"));
             var exportDir = System.IO.Directory.CreateDirectory(Path.Combine("Msyt", "Export", "EventFlowMsg"));
@@ -162,7 +172,7 @@ namespace ZBOTW.Translator.Web.Controllers
                     foreach(var item in entry.TextList)
                     {
                         var t = msyt[item.Line - 1];
-                        msyt[item.Line - 1] = textValueRegex.Replace(t, "text: " + JsonSerializer.Serialize(item.TranslatedText,jsonSerializerOptions));
+                        msyt[item.Line - 1] = textValueRegex.Replace(t, "text: " + JsonSerializer.Serialize(item.TranslatedText,msytSerializerOptions));
                     }
                 }
                 System.IO.File.WriteAllLines(Path.Combine("Msyt", "Export", "EventFlowMsg", $"{Path.GetFileNameWithoutExtension(file.Name)}.msyt"), msyt);

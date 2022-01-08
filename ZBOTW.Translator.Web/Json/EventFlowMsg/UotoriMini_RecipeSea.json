@@ -91,7 +91,7 @@
         {
           "Line": 64,
           "OriginalText": "\n\n\nThis is Lurelin Village. We\u0027re a small\nfishing town and proud of it!\n\nMy husband is a fisherman, and I have\ntwo sons who will probably grow up to\nbe fishermen too.",
-          "TranslatedText": "\nที่นี่คือ Lurelin Village เราเป็นหมู่บ้านประมงเล็กๆ\nแต่เราก็ภูมิใจกับมัน!\nสามีของฉันเป็นชาวประมง และฉันมีลูกชายสองคน\nที่น่าจะโตขึ้นเป็นชาวประมงเช่นกัน",
+          "TranslatedText": "\n\n\nที่นี่คือหมู่บ้าน Lurelin เราเป็นหมู่บ้านประมงเล็กๆ\nแต่เราก็ภูมิใจกับมัน!\n\nสามีของฉันเป็นชาวประมง และฉันมีลูกชายสองคน\nที่น่าจะโตขึ้นเป็นชาวประมงเช่นกัน",
           "Colour": null
         }
       ]
@@ -170,13 +170,13 @@
         {
           "Line": 127,
           "OriginalText": "We seem to be a bit short on ingredients\nthough.",
-          "TranslatedText": "ดูเหมือนเราจะมีวัตถุดิบไม่พอนะ",
+          "TranslatedText": "ดูเหมือนเราจะมีวัตถุดิบไม่พอนะ\n",
           "Colour": null
         },
         {
           "Line": 131,
           "OriginalText": " We\u0027ll need ",
-          "TranslatedText": " เราต้องใช้ ",
+          "TranslatedText": "เราต้องใช้ ",
           "Colour": null
         },
         {
@@ -200,7 +200,7 @@
         {
           "Line": 145,
           "OriginalText": ".",
-          "TranslatedText": ".",
+          "TranslatedText": "",
           "Colour": null
         }
       ]
@@ -256,7 +256,7 @@
         {
           "Line": 200,
           "OriginalText": "My, aren\u0027t we feeling grumpy...",
-          "TranslatedText": "My, aren\u0027t we feeling grumpy...",
+          "TranslatedText": "โธ่ น่าหงุดหงิดไหมล่ะ...",
           "Colour": null
         }
       ]
@@ -308,7 +308,7 @@
         {
           "Line": 236,
           "OriginalText": "\nYou brought the ingredients?\n\nWell, I thought you forgot about us, so\nI went ahead and made dinner already.",
-          "TranslatedText": "\nได้เอาวัตถุดิบมาไหม?\nฉันนึกว่าคุณลืมเราไปแล้ว \nฉันก็เลยทำมื้อเย็นไปแล้ว",
+          "TranslatedText": "\nได้เอาวัตถุดิบมาไหม?\n\nฉันนึกว่าคุณลืมเราไปแล้ว \nฉันก็เลยทำมื้อเย็นไปแล้ว",
           "Colour": null
         }
       ]
@@ -319,7 +319,7 @@
         {
           "Line": 245,
           "OriginalText": "I thought you forgot about us, so I went\nahead and made dinner already.\n\nBut I\u0027d still like to make ",
-          "TranslatedText": "ฉันนึกว่าคุณลืมเราไปแล้ว \nฉันก็เลยทำมื้อเย็นไปแล้ว\nแต่ฉันยังอยากทำ ",
+          "TranslatedText": "ฉันนึกว่าคุณลืมเราไปแล้ว \nฉันก็เลยทำมื้อเย็นไปแล้ว\n\nแต่ฉันยังอยากทำ ",
           "Colour": null
         },
         {
@@ -331,7 +331,7 @@
         {
           "Line": 252,
           "OriginalText": "\nfor tomorrow night!",
-          "TranslatedText": "\nสำหรับเย็นพรุ่งนี้!",
+          "TranslatedText": "\nสำหรับเย็นพรุ่งนี้อยู่นะ!",
           "Colour": null
         }
       ]
@@ -506,7 +506,7 @@
         {
           "Line": 401,
           "OriginalText": "Shhhh! You\u0027ll wake the kids.",
-          "TranslatedText": "Shhhh! เดี๋ยวเด็กก็ตื่นหรอก",
+          "TranslatedText": "ชู่วววว! เดี๋ยวเด็กๆ ก็ตื่นหรอก",
           "Colour": null
         }
       ]
@@ -523,5 +523,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

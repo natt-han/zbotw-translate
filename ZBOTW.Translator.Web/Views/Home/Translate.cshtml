@@ -10,13 +10,13 @@ textarea {
     overflow-x: hidden;
     overflow-y: hidden;
     min-height: 30px;
-    width:350px;
+    width:340px;
     white-space: pre;
     overflow-wrap: normal;
     /*overflow-x: scroll;*/
 }
 .preview {
-    width: 350px;
+    width: 340px;
     border: solid orange 1px;
     font-family: inherit;
     font-size: inherit;
@@ -26,7 +26,7 @@ textarea {
     padding: 0.2em 0.5em;
 }
 .entry-name{
-    width:150px
+    max-width:150px
 }
 .navbar-text{
     font-weight:bold;
@@ -35,7 +35,12 @@ textarea {
 <div id="main-div">
     
     <div class="row">
-        <div class="col-auto" style="overflow-x:hidden; font-size:.7em;height:100vh;">
+        <div class="col-auto d-lg-none">
+            <select id="ddl-filelist" v-model="selectedFile" v-on:change="select(selectedFile)" class="form-control">
+                <option v-for="file in fileList" v-bind:value="file" v-bind:class="{active:selectedFile.fileName==file.fileName,'list-group-item-success':(file.isCompleted || file.translatedText==file.text),'list-group-item-warning':(!file.isCompleted && file.translatedText>0)}" >{{file.fileName}} <template v-if="file.isCompleted==false&&file.translatedText<file.text">({{file.translatedText}}/{{file.text}})</template></option>
+            </select>
+        </div>
+        <div class="col-auto d-none d-lg-block" style="overflow-x:hidden; font-size:.7em;height:100vh;">
             <input type="text" v-model="fileNameFilter" class="form-control form-control-sm" />
             <div class="btn-group btn-group-sm" role="group" aria-label="">
               <button type="button" class="btn btn-outline-secondary" v-bind:class="{active:fileGroupFilter==''}" v-on:click="selectGroup('')">All</button>              
@@ -65,22 +70,23 @@ textarea {
             </div>
             
             <div style="height:100vh;overflow-y:scroll">
-                <table class="table">
+                <table id="main-table" class="table" style="transform-origin: top left;">
                 <tbody >
                     <tr v-for="item in messageTable.entryList">
-                        <td class="entry-name text-break">
-                            {{item.entryName}}
+                        <td class="entry-name d-none d-xl-table-cell">
+                            <span class="text-break">{{item.entryName}}</span>                            
                         </td>
-                        <td>
+                        <td style="min-width:750px">
+                            <span class="d-xl-none fw-bold">{{item.entryName}}</span>
                             <div v-for="text in item.textList" class="row gx-2">                                
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-translated-'+text.Line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
+                                    <textarea type="text" v-bind:id="'txt-translated-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
                                 </div>
                                 <div class="col-auto">
                                     <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
                                 </div>
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.originalText" readonly tabindex="-1"></textarea>
+                                    <textarea type="text" v-bind:id="'txt-original-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.originalText" readonly tabindex="-1"></textarea>
                                 </div>
                             </div>
                             <div v-if="item.textList.length>1" class="row gx-2">                                
@@ -97,12 +103,6 @@ textarea {
                                 </div>
                             </div>
                         </td>
-                        @*<td>
-                            <template v-for="text in item.textList">
-                                <textarea type="text" v-bind:id="'txt-original-'+text.Line" v-model="text.originalText" readonly tabindex="-1"></textarea>
-                                <br/>
-                            </template>                    
-                        </td>*@
                     </tr>        
                 </tbody>
             </table>
@@ -114,10 +114,17 @@ textarea {
 </div>
 
 @section Scripts{
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
 <script>
-    
+    var isChanged = false;
+    window.onbeforeunload = function () {
+        if (isChanged) {
+            return true
+	    }
+    };
     var vue = new Vue({
         el:"#main-div",
         data:{
@@ -126,7 +133,7 @@ textarea {
                 totalTranslatedText:100,
             },
             fileList:[],
-            selectedFile:"",
+            selectedFile:{},
             fileNameFilter:"",
             fileGroupFilter:"Incompleted",
             messageTable:{
@@ -183,7 +190,12 @@ textarea {
                 });
             },
             copyOrigin:function(text){
+                isChanged = true;
                 text.translatedText=text.originalText;
+                var v = this;
+                Vue.nextTick(function(){
+                    v.auto_grow($("#txt-translated-"+text.line)[0]);
+                })                
             },
             save(){
                 var v = this;
@@ -194,9 +206,10 @@ textarea {
                 }).done(function(result){
                     v.progress = result.progress;
                     v.selectedFile.translatedText = result.currentTranslatedText;
-                    v.selectedFile.isCompleted = v.messageTable.isCompleted;
+                    v.selectedFile.isCompleted = v.messageTable.isCompleted || v.selectedFile.text==v.selectedFile.translatedText;
                     toastr.success("Saved");
-                    v.updateProgress()
+                    v.updateProgress();
+                    isChanged = false;
                 }).fail(function(){
                     toastr.error("Error!");
                 });
@@ -233,8 +246,19 @@ textarea {
             element.style.height = "5px";
             element.style.height = (element.scrollHeight)+"px";
         }
+        $("#main-div").on("change","input,textarea",function(){isChanged=true;});
+        if(window.innerWidth<765){
+            scaleBasedOnWindow($("#main-table")[0],1,true);
+        }
+        //$("#ddl-filelist").select2();
     });
-    
+    function scaleBasedOnWindow(elm, scale=1, fit=false){
+    if(!fit){
+        elm.style.transform='scale('+Math.min(elm.clientWidth/window.innerWidth,elm.clientHeight/window.innerHeight)+')';
+    }else{
+        elm.style.transform='scale('+(window.innerWidth/765)+')';
+    }
+}
     //function getMessageTable(fileName){
     //    $.ajax({
     //        url:"@Url.Action("GetMessageTable")",
