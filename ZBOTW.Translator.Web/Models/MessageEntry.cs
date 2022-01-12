@@ -1,15 +1,23 @@
-﻿namespace ZBOTW.Translator.Web.Models
+﻿using System.Text.Json;
+using System.Text.Json.Serialization;
+
+namespace ZBOTW.Translator.Web.Models
 {
     public class MessageText
     {
         public int Line { get; set; }
         public string? OriginalText { get; set; }
         public string? TranslatedText { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public string? Colour { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public string? Variable { get; set; }
     }
     public class MessageEntry
     {
         public string? EntryName { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public string? NPC { get; set; }
         public List<MessageText> TextList { get; set; }
 
         public MessageEntry()

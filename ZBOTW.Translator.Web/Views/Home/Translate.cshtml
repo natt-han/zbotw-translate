@@ -10,10 +10,13 @@ textarea {
     overflow-x: hidden;
     overflow-y: hidden;
     min-height: 30px;
-    width:330px;
+    
     white-space: pre;
     overflow-wrap: normal;
     /*overflow-x: scroll;*/
+}
+.text-control{
+    width:330px;
 }
 .preview {
     width: 330px;
@@ -72,32 +75,36 @@ textarea {
                 <tbody >
                     <tr v-for="item in messageTable.entryList">
                         <td class="entry-name d-none d-xl-table-cell">
-                            <span class="text-break">{{item.entryName}}</span>                            
+                            <span class="text-break">{{item.entryName}}</span>
+                            <span v-if="item.npc">({{item.npc}})</span>
                         </td>
                         <td style="min-width:730px">
-                            <span class="d-xl-none fw-bold">{{item.entryName}}</span>
+                            <span class="d-xl-none fw-bold">{{item.entryName}} <span v-if="item.npc">({{item.npc}})</span></span>
                             <div v-for="text in item.textList" class="row gx-2">                                
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-translated-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
+                                    <div class="input-group input-group-sm text-control">
+                                        <span v-if="text.variable" class="input-group-text" v-bind:title="text.variable">@@</span>
+                                        <textarea type="text" class="form-control" v-bind:id="'txt-translated-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
+                                    </div>
                                 </div>
                                 <div class="col-auto">
                                     <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
                                 </div>
                                 <div class="col-auto">
-                                    <textarea type="text" v-bind:id="'txt-original-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.originalText" readonly tabindex="-1"></textarea>
+                                    <textarea type="text" class="text-control form-control form-control-sm" v-bind:id="'txt-original-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" readonly tabindex="-1">{{text.variable?'['+text.variable+']':''}}{{text.originalText}}</textarea>
                                 </div>
                             </div>
                             <div v-if="item.textList.length>1" class="row gx-2">                                
                                 <div class="col-auto">
                                     Preview
-                                    <pre class="preview"><span v-for="text in item.textList" v-bind:style="text.colour?'color:'+text.colour:''">{{text.translatedText}}</span></pre>
+                                    <pre class="preview"><span v-for="text in item.textList" v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.translatedText}}</span></pre>
                                 </div>
                                 <div class="col-auto">
                                     <div style="width:30.25px"></div>
                                 </div>
                                 <div class="col-auto">
                                     Preview
-                                    <pre class="preview"><span v-for="text in item.textList"  v-bind:style="text.colour?'color:'+text.colour:''">{{text.originalText}}</span></pre>
+                                    <pre class="preview"><span v-for="text in item.textList"  v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.originalText}}</span></pre>
                                 </div>
                             </div>
                         </td>

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 using System.Diagnostics;
 using System.IO.Compression;
 using System.Text.Encodings.Web;
@@ -147,6 +148,111 @@ namespace ZBOTW.Translator.Web.Controllers
             }
         }
 
+        private void ExecUpdateNPC()
+        {
+            var entryNameRegex = new Regex("^  [a-zA-Z0-9\"]");
+            var unescapedDoublequoteRegex = new Regex("(?<!\\\\)\"");
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Msyt", "Original", "EventFlowMsg"));
+            var NpcJson = JObject.Parse(System.IO.File.ReadAllText(Path.Combine("Json", "NPC.json")));
+            var entries = NpcJson["entries"] as JObject;
+            if (entries == null) return;
+            var NpcDic = (from key in entries.Properties().Select(s => s.Name)
+                          select new { Key = key.Replace("_Name",""), Value = entries[key]["text"].Value<string>() }).ToDictionary(x=>x.Key,x=>x.Value);
+                         
+            
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileNameWithoutExtension(file.Name);
+                var lines = System.IO.File.ReadAllLines(file.FullName);
+
+                var mstb = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json")));               
+                if (mstb == null) throw new InvalidOperationException("Null MessageTable");
+                var entryName = "";
+                string? npc = null;
+                string? npcname = null;
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    if (entryNameRegex.Match(lines[i]).Success)
+                    {
+
+                        var name = lines[i].Replace("\"", "").Replace(":", "").Trim();
+                        entryName = name;
+                    }
+                    
+                    if (lines[i].Trim().StartsWith("attributes: "))
+                    {
+                        var temp = lines[i].Replace("attributes:", "").Trim().Replace("\"", "");
+                        if (!string.IsNullOrEmpty(temp))
+                        {
+                            if (npc != temp)
+                            {
+                                npc = temp;
+                                npcname = null;
+                                NpcDic.TryGetValue(npc, out npcname);
+                            }
+                            if(npcname != null)
+                            {
+                                var entry = mstb.EntryList.FirstOrDefault(c => c.EntryName == entryName);
+                                if (entry == null) throw new InvalidOperationException($"{fileName} Entry {entryName} Not Found");
+                                entry.NPC = npcname;
+                            }
+                        }
+                    }                    
+                }
+                System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
+            }
+        }
+
+        private void ExecUpdateVariable()
+        {
+            var entryNameRegex = new Regex("^  [a-zA-Z0-9\"]");
+            var unescapedDoublequoteRegex = new Regex("(?<!\\\\)\"");
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Msyt", "Original", "EventFlowMsg"));
+
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileNameWithoutExtension(file.Name);
+                var lines = System.IO.File.ReadAllLines(file.FullName);
+
+                var mstb = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json")));
+                if (mstb == null) throw new InvalidOperationException("Null MessageTable");
+                var entryName = "";
+                bool foundVariable = false;
+                string? variable = null;
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    if (entryNameRegex.Match(lines[i]).Success)
+                    {
+
+                        var name = lines[i].Replace("\"", "").Replace(":", "").Trim();
+                        entryName = name;
+                        foundVariable = false;
+                        variable = null;
+                    }
+                    if (lines[i].Trim().StartsWith("kind: variable"))
+                    {
+                        foundVariable = true;
+                    }
+                    if (foundVariable && lines[i].Trim().StartsWith("name: "))
+                    {
+                        variable = lines[i].Replace("\"", "").Replace("name: ", "").Trim();
+                    }
+                    if (lines[i].Trim().StartsWith("- text:"))
+                    {
+                        var entry = mstb.EntryList.FirstOrDefault(c => c.EntryName == entryName);
+                        if (entry == null) throw new InvalidOperationException($"{fileName} Entry {entryName} Not Found");
+                        var messageText = entry.TextList.FirstOrDefault(c => c.Line == i + 1);
+                        if (messageText == null) throw new InvalidOperationException($"{fileName} Text Line {i + 1} Not Found");
+                        messageText.Variable = variable;
+                        foundVariable = false;
+                        variable = null;
+                    }
+                }
+                System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
+            }
+        }
         private FileStreamResult ExportMsyt()
         {
             var encoderSettings = new TextEncoderSettings();
@@ -218,9 +324,11 @@ namespace ZBOTW.Translator.Web.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult UpdateColour()
+        public IActionResult UpdateJson()
         {
-            ExecUpdateColour();
+            //ExecUpdateColour();
+            //ExecUpdateNPC();
+            ExecUpdateVariable();
             return RedirectToAction("Index");
         }
 
