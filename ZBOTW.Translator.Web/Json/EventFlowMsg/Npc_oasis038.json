@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "What happened?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Who\u0027s Tali?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Who are you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,30 +47,29 @@
         {
           "Line": 24,
           "OriginalText": "Sand-seal racing?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Tali",
       "TextList": [
         {
           "Line": 33,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_02",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 45,
           "OriginalText": "So everyone in the world has heard of\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 49,
@@ -85,14 +80,12 @@
         {
           "Line": 52,
           "OriginalText": "except you...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 56,
           "OriginalText": "\nHave you been sleeping under a rock?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 60,
@@ -103,8 +96,7 @@
         {
           "Line": 63,
           "OriginalText": "is a sport where people\nguide ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 67,
@@ -115,14 +107,12 @@
         {
           "Line": 70,
           "OriginalText": " through arches as they\nrace toward the finish line.\nThe racer with the fastest time wins.\nIt\u0027s a true Gerudo tradition!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 76,
           "OriginalText": "But because of this blasted ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 80,
@@ -133,30 +123,29 @@
         {
           "Line": 83,
           "OriginalText": ",\nwe can\u0027t run a single race right now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_03",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 124,
           "OriginalText": "Sorry, kid. The great Tali isn\u0027t in the\nmood to give autographs right now.\nCould you come back later?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_04",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 165,
           "OriginalText": "\u0022Who\u0027s Tali\u0022? Are you serious right now?\n\n\nYou aren\u0027t seriously saying you don\u0027t\nrecognize Tali, the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 169,
@@ -167,8 +156,7 @@
         {
           "Line": 172,
           "OriginalText": ", are you?\nThat stupid ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
@@ -179,25 +167,23 @@
         {
           "Line": 179,
           "OriginalText": " is the only\nthing stopping us from showing you\nTali\u0027s sand-seal skills firsthand!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_05",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 188,
           "OriginalText": "Use your eyes!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 192,
           "OriginalText": " The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 196,
@@ -208,8 +194,7 @@
         {
           "Line": 199,
           "OriginalText": " is\nstomping around, so obviously we can\u0027t\nuse the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 203,
@@ -220,19 +205,18 @@
         {
           "Line": 206,
           "OriginalText": ".\nI suppose you can stand around here if\nyou want, but I\u0027d prefer you did it\nelsewhere.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_06",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 215,
           "OriginalText": "Not to toot my own horn, but I\u0027m the one\nwho raised Tali into the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 219,
@@ -243,41 +227,40 @@
         {
           "Line": 222,
           "OriginalText": " she is.\nIt wasn\u0027t easy, let me tell you.\nShe\u0027s always been a bit shy, but her and\nI have a great relationship now.\nIsn\u0027t that right, Tali?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_07",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 231,
           "OriginalText": "...That big thing out there is seriously\nbad for business.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_08",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 240,
           "OriginalText": "I don\u0027t care who does it, but someone\nbetter go address that thing soon...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_09",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 249,
           "OriginalText": "\u0022Who\u0027s Tali\u0022? Are you serious right now?\n\n\nYou aren\u0027t seriously saying you don\u0027t\nrecognize Tali, the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 253,
@@ -288,8 +271,7 @@
         {
           "Line": 256,
           "OriginalText": ", are you?\nThat stupid ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 260,
@@ -300,25 +282,23 @@
         {
           "Line": 263,
           "OriginalText": " is the only\nthing stopping us from showing you\nTali\u0027s sand-seal skills firsthand!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_12",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 304,
           "OriginalText": "Use your eyes! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 308,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 312,
@@ -329,8 +309,7 @@
         {
           "Line": 315,
           "OriginalText": " is\nstomping around, so obviously we can\u0027t\nuse the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 319,
@@ -341,30 +320,29 @@
         {
           "Line": 322,
           "OriginalText": ".\nI suppose you can stand around here if\nyou want, but I\u0027d prefer you did it\nelsewhere.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_18",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 363,
           "OriginalText": "Again? I told you earlier, didn\u0027t I?\n\n\nTali is really annoyed right now.\nIf you want an autograph, could you\ncome back later?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_23",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 404,
           "OriginalText": "So everyone in the world has heard of\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 408,
@@ -375,14 +353,12 @@
         {
           "Line": 411,
           "OriginalText": "except you...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 415,
           "OriginalText": "\nHave you been sleeping under a rock?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 419,
@@ -393,8 +369,7 @@
         {
           "Line": 422,
           "OriginalText": "is a sport where\npeople guide ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 426,
@@ -405,14 +380,12 @@
         {
           "Line": 429,
           "OriginalText": " through arches\nwhile racing toward the finish line.\nThe racer with the fastest time wins.\nIt\u0027s a true Gerudo tradition!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 435,
           "OriginalText": "But because of this blasted ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 439,
@@ -423,81 +396,77 @@
         {
           "Line": 442,
           "OriginalText": ",\nwe can\u0027t run a single race right now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_36",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 451,
           "OriginalText": "The frigid temperatures of the desert at\nnight are pretty rough on you Hylians,\naren\u0027t they?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 457,
           "OriginalText": "I guess we\u0027re all used to it...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_37",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 466,
           "OriginalText": "The intense heat of the desert during the\nday is pretty hard on you, huh.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 472,
           "OriginalText": "I guess we\u0027re all just used to it...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_39",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 481,
           "OriginalText": "Who in the blazing sands does this\nDivine Beast think it is?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 485,
           "OriginalText": " No one upsets\nthe great Tali and gets away with it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_45",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 494,
           "OriginalText": "Who in the blazing sands is this divine\nprotector that thinks it\u0027s so high and\nmighty it can upset my adorable Tali?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_46",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 535,
           "OriginalText": "Yes, yes, right. Understood, Tali.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -507,8 +476,7 @@
         {
           "Line": 539,
           "OriginalText": "Hrn!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -518,8 +486,7 @@
         {
           "Line": 543,
           "OriginalText": "Gah!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -529,8 +496,7 @@
         {
           "Line": 547,
           "OriginalText": "Nwah!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -540,8 +506,7 @@
         {
           "Line": 551,
           "OriginalText": "N-no! Not good!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -550,9 +515,8 @@
       "TextList": [
         {
           "Line": 555,
-          "OriginalText": "Wha\u2014?!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Wha—?!",
+          "TranslatedText": null
         }
       ]
     }

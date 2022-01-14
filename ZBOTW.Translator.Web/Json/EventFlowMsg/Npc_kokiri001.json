@@ -3,48 +3,48 @@
   "EntryList": [
     {
       "EntryName": "Npc_kokiri001_NearActorsNear000",
+      "NPC": "Tasho",
       "TextList": [
         {
           "Line": 8,
           "OriginalText": "Well done!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ทำได้ดีมาก!"
         }
       ]
     },
     {
       "EntryName": "Npc_kokiri001_NearActorsTalk000",
+      "NPC": "Tasho",
       "TextList": [
         {
           "Line": 17,
           "OriginalText": "You did a great job on the trial.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "คุณทำได้ดีมากในการทดสอบนั้น"
         }
       ]
     },
     {
       "EntryName": "Npc_kokiri001_NearActorsTalk010",
+      "NPC": "Oaki",
       "TextList": [
         {
           "Line": 26,
           "OriginalText": "I was cool and composed the whole time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฉันนิ่งและสงบตลอดเวลาเลย!"
         }
       ]
     },
     {
       "EntryName": "Npc_kokiri001_Talk000",
+      "NPC": "Tasho",
       "TextList": [
         {
           "Line": 35,
           "OriginalText": "My little baby\u0027s all grown up.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "เด็กน้อยของฉันโตเป็นผู้ใหญ่แล้ว"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

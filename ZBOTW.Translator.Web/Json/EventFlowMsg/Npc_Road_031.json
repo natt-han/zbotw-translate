@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027ll buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Can I sell to you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Yes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "No.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I\u0027ll buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 49,
           "OriginalText": "I\u0027m still too nervous to relax.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,20 +107,17 @@
         {
           "Line": 58,
           "OriginalText": "Why this? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 62,
           "OriginalText": "Why now? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 66,
           "OriginalText": "Why me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -140,8 +127,7 @@
         {
           "Line": 75,
           "OriginalText": "Can\u0027t hurt to look.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -151,20 +137,19 @@
         {
           "Line": 79,
           "OriginalText": "You\u0027re selling that? I guess I can give\nyou ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 87,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 90,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -174,14 +159,12 @@
         {
           "Line": 107,
           "OriginalText": "Great.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 111,
           "OriginalText": " Was that all you wanted?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -191,8 +174,7 @@
         {
           "Line": 120,
           "OriginalText": "*nod*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -202,8 +184,7 @@
         {
           "Line": 129,
           "OriginalText": "*nod* Thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -213,8 +194,7 @@
         {
           "Line": 138,
           "OriginalText": "Did you need something else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -224,8 +204,7 @@
         {
           "Line": 147,
           "OriginalText": "Too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -235,8 +214,7 @@
         {
           "Line": 151,
           "OriginalText": "I buy anything.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -246,8 +224,7 @@
         {
           "Line": 155,
           "OriginalText": "If you have something to sell, don\u0027t hold\nout on me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -257,8 +234,7 @@
         {
           "Line": 159,
           "OriginalText": "What are you offering?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -268,8 +244,7 @@
         {
           "Line": 163,
           "OriginalText": "Why not just show me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -279,8 +254,7 @@
         {
           "Line": 167,
           "OriginalText": "What did you want?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -290,14 +264,12 @@
         {
           "Line": 176,
           "OriginalText": "Sorry, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 180,
           "OriginalText": "I\u0027m out.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -307,14 +279,12 @@
         {
           "Line": 189,
           "OriginalText": "You can\u0027t afford that. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 193,
           "OriginalText": "I\u0027m running a shop,\nnot a charity.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -324,14 +294,12 @@
         {
           "Line": 202,
           "OriginalText": "You\u0027re out of room. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 206,
           "OriginalText": "I can\u0027t sell you stuff\nyou can\u0027t carry.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -341,8 +309,7 @@
         {
           "Line": 210,
           "OriginalText": "You\u0027re sure?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -352,8 +319,7 @@
         {
           "Line": 227,
           "OriginalText": "Thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -363,8 +329,7 @@
         {
           "Line": 236,
           "OriginalText": "OK. Thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -374,8 +339,7 @@
         {
           "Line": 245,
           "OriginalText": "We got both kinds of bugs here: warm\nAND cool.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -385,8 +349,7 @@
         {
           "Line": 254,
           "OriginalText": "Nice. Thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -396,25 +359,23 @@
         {
           "Line": 263,
           "OriginalText": "I\u0027ve got some darners...and that\u0027s\nabout it. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 267,
           "OriginalText": "See for yourself.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_13",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 271,
           "OriginalText": "How many were you thinking of selling?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -424,20 +385,19 @@
         {
           "Line": 284,
           "OriginalText": "I\u0027ll give you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 292,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 295,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -447,14 +407,12 @@
         {
           "Line": 312,
           "OriginalText": "Hmm, nah. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 316,
           "OriginalText": "Nothing personal, I just don\u0027t\nthink I could flip it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -464,14 +422,12 @@
         {
           "Line": 325,
           "OriginalText": "I\u0027m not going to buy clothes that you\u0027re\nstill wearing. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 329,
           "OriginalText": "No merchant would...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -481,14 +437,12 @@
         {
           "Line": 338,
           "OriginalText": "I hope you don\u0027t catch cold in this rain.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 342,
           "OriginalText": "\nWould it help if I offered to sell you\na summerwing butterfly?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -498,31 +452,30 @@
         {
           "Line": 346,
           "OriginalText": "That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 354,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 357,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_31",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 369,
           "OriginalText": "How many you need?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -532,106 +485,102 @@
         {
           "Line": 382,
           "OriginalText": "Only one? OK. That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 390,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 393,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_34",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 405,
           "OriginalText": "ALL of them? OK. That\u0027ll be\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 413,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 416,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_35",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 428,
           "OriginalText": "So...all of them? Sure. I\u0027ll pay\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 436,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 439,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_36",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 456,
           "OriginalText": "That\u0027s it. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 460,
           "OriginalText": "I\u0027m out. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 464,
           "OriginalText": "Thanks for that.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_37",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 473,
           "OriginalText": "What can I say? You bought everything\nI had. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 477,
           "OriginalText": "I could...pretend I still had some\nin stock? Yeah?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -641,20 +590,19 @@
         {
           "Line": 489,
           "OriginalText": "One? Sure. That\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 497,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 500,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -664,14 +612,12 @@
         {
           "Line": 517,
           "OriginalText": "Now\u0027s my chance! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 521,
           "OriginalText": "To run away, I mean.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -681,48 +627,44 @@
         {
           "Line": 530,
           "OriginalText": "Ooog... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 534,
           "OriginalText": "My donkey... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 538,
           "OriginalText": "Is my donkey OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "GoodBye00",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 547,
           "OriginalText": "Sounds good. See you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_00",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 556,
           "OriginalText": "I\u0027m turning back. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 560,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 564,
@@ -733,19 +675,18 @@
         {
           "Line": 567,
           "OriginalText": "\nsands are murder on my feet, and my\ndonkey\u0027s too loaded down to ride.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_00_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 581,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 585,
@@ -756,47 +697,45 @@
         {
           "Line": 588,
           "OriginalText": "sands are murder on\nmy feet, and my donkey\u0027s too loaded\ndown to ride.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_01",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 597,
           "OriginalText": "The desert\u0027s scorching by day and\nfreezing at night.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 603,
           "OriginalText": "Those Gerudo women are probably the\nonly ones prepared for both.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_01_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 612,
           "OriginalText": "The desert\u0027s scorching by day and\nfreezing at night. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 616,
           "OriginalText": "You\u0027d better be\nprepared for both!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_02",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 628,
@@ -807,171 +746,163 @@
         {
           "Line": 631,
           "OriginalText": "is a nice place\nand all, but are you going further into\nthe desert from here?\nBecause if so, you should make some\nelixirs to keep you both warm\nand cool.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_02_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 640,
           "OriginalText": "You should make some elixirs to keep\nyou both warm and cool in the desert.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_03",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 649,
           "OriginalText": "Got enough elixir for your trip into the\ndesert? Need any monster parts to\nmake more?\nThe daytime heat is much worse than the\nchill at night. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 653,
           "OriginalText": "If you can only do one,\nI\u0027d make some cooling elixir.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_03_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 662,
           "OriginalText": "The daytime heat is much worse than\nthe chill at night. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 666,
           "OriginalText": "If you can only do one,\nI\u0027d make some cooling elixir.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_04",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 675,
           "OriginalText": "Careful... There\u0027s lots of monsters past \nthis point.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 679,
           "OriginalText": " If they claim any more\ntravelers, my business is sunk.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 685,
           "OriginalText": "After all, what\u0027s a monster need with\nmy bugs? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 689,
           "OriginalText": "Nah...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 693,
           "OriginalText": " This is the end of the\nline for me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Gerud_04_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 702,
           "OriginalText": "I\u0027m turning back. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 706,
           "OriginalText": "Too many monsters\npast this point for my tastes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near00",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 710,
           "OriginalText": "I got both kinds here...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near01",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 714,
           "OriginalText": "Anyone need some bugs?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near02",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 718,
           "OriginalText": "Hot and cold bugs here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near03",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 722,
           "OriginalText": "Bugs for sale! All kinds!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Rest_00",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 731,
           "OriginalText": "I\u0027d like to travel the desert to sell my\nwares, but I haven\u0027t found a pack animal\nyet that won\u0027t get stuck in the sand.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_00",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 740,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 744,
@@ -982,8 +913,7 @@
         {
           "Line": 747,
           "OriginalText": "just beyond the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 751,
@@ -994,31 +924,28 @@
         {
           "Line": 754,
           "OriginalText": "is an oasis packed with\nmerchants.\nToo much competition for me. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 758,
           "OriginalText": "Plus I\ndon\u0027t wanna drag my donkey out there. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 762,
           "OriginalText": "\nThe stables are more my speed.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_00_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 776,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 780,
@@ -1029,8 +956,7 @@
         {
           "Line": 783,
           "OriginalText": "just beyond the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 787,
@@ -1041,156 +967,145 @@
         {
           "Line": 790,
           "OriginalText": "is an oasis packed with\nmerchants.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_01",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 799,
           "OriginalText": "Bound for the desert? Did you stock up\non medicine?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 805,
           "OriginalText": "Did you know you can make an elixir\nthat keeps you warm or cool with just\na few bugs and monster parts?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_01_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 814,
           "OriginalText": "Did you know you can make an elixir\nthat keeps you warm or cool with just\na few bugs and monster parts?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_02",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 823,
           "OriginalText": "Are you REALLY ready to cross the\ndesert?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 827,
           "OriginalText": " If not, you should stock up on\nelixir.\nYou can make some that warm you up\nor cool you down while taking a break\nright here at the stable. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 831,
           "OriginalText": "Try it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_02_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 840,
           "OriginalText": "You can make an elixir that warms you\nup or cools you down while taking a\nbreak right here at the stable. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 844,
           "OriginalText": "Try it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_03",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 853,
           "OriginalText": "If you\u0027re planning a trip through the\ndesert by day, you\u0027ll need an elixir to\ncool you off.\nAt night, it\u0027s a different story. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 857,
           "OriginalText": "That\u0027s\nwhen you need some warming tonic.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 863,
           "OriginalText": "Either one just takes a few bugs and\nsome monster parts.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_03_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 872,
           "OriginalText": "There are elixirs that can warm you up\nand elixirs that can cool you down.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 878,
           "OriginalText": "Either one just takes a few bugs and\nsome monster parts.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_04",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 887,
           "OriginalText": "You\u0027ll need some of my bugs if you have\na long trip planned.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 893,
           "OriginalText": "Why, you ask? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 897,
           "OriginalText": "Good question. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 901,
           "OriginalText": "They\u0027re\nimportant ingredients in the elixirs\nyou need to survive harsh climates.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Gerud_04_1",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 910,
           "OriginalText": "Bugs are important ingredients in the\nelixirs you need to survive the desert\nclimate.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1200,14 +1115,12 @@
         {
           "Line": 919,
           "OriginalText": "Well, I\u0027m still alive. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 923,
           "OriginalText": "Guess that counts\nfor something.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1217,8 +1130,7 @@
         {
           "Line": 932,
           "OriginalText": "And here I thought that might be\nthe end...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1228,14 +1140,12 @@
         {
           "Line": 941,
           "OriginalText": "Wow, look at you. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 945,
           "OriginalText": "Nice \u0022moves.\u0022",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1245,14 +1155,12 @@
         {
           "Line": 954,
           "OriginalText": "If a monster attacks and you don\u0027t run,\nwell... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 958,
           "OriginalText": "You\u0027re not me, that\u0027s for sure.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1262,14 +1170,12 @@
         {
           "Line": 967,
           "OriginalText": "Is my donkey OK? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 971,
           "OriginalText": "What about my cargo?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1279,42 +1185,39 @@
         {
           "Line": 980,
           "OriginalText": "Yipes... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 984,
           "OriginalText": "That could\u0027ve gone better.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk01",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 993,
           "OriginalText": "I sell bugs.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 997,
           "OriginalText": " What? It\u0027s a living!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk02",
+      "NPC": "Maypin",
       "TextList": [
         {
           "Line": 1015,
           "OriginalText": "You all set?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1324,14 +1227,12 @@
         {
           "Line": 1033,
           "OriginalText": "You saw me through alive.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1037,
           "OriginalText": " I don\u0027t know if\nyou\u0027d even want this, but it\u0027s yours.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

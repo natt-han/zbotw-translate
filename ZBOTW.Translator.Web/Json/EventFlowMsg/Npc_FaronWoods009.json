@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "OK.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "I\u0027ll buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 37,
           "OriginalText": "What do you want to sell me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,20 +77,19 @@
         {
           "Line": 41,
           "OriginalText": "I\u0027ll give you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 49,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 52,
           "OriginalText": "...\nThat OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -107,14 +99,12 @@
         {
           "Line": 69,
           "OriginalText": "Thank you much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 73,
           "OriginalText": " Anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -124,8 +114,7 @@
         {
           "Line": 82,
           "OriginalText": "Thanks a lot! Anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -135,8 +124,7 @@
         {
           "Line": 91,
           "OriginalText": "Thanks a bunch! Anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -146,8 +134,7 @@
         {
           "Line": 100,
           "OriginalText": "Thanks for that! Anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -157,20 +144,17 @@
         {
           "Line": 109,
           "OriginalText": "Hrmm",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 113,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 120,
           "OriginalText": " Too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -180,8 +164,7 @@
         {
           "Line": 124,
           "OriginalText": "I\u0027ll buy anything!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -190,9 +173,8 @@
       "TextList": [
         {
           "Line": 128,
-          "OriginalText": "I\u0027ll still buy stuff\u2014just let me!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "I\u0027ll still buy stuff—just let me!",
+          "TranslatedText": null
         }
       ]
     },
@@ -202,8 +184,7 @@
         {
           "Line": 132,
           "OriginalText": "I\u0027m still game to buy stuff!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -213,8 +194,7 @@
         {
           "Line": 136,
           "OriginalText": "I\u0027ll buy all kinds of things if ya let me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -224,8 +204,7 @@
         {
           "Line": 140,
           "OriginalText": "What do you need?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -235,14 +214,12 @@
         {
           "Line": 149,
           "OriginalText": "Sorry! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 153,
           "OriginalText": "I\u0027m all out right now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -252,14 +229,12 @@
         {
           "Line": 162,
           "OriginalText": "You don\u0027t have enough rupees.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 166,
           "OriginalText": "\nFigure out your funds, and come\nback again later!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -269,14 +244,12 @@
         {
           "Line": 175,
           "OriginalText": "Your pouch is full!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 179,
           "OriginalText": " Discard or sell some\nstuff to make room.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -286,8 +259,7 @@
         {
           "Line": 183,
           "OriginalText": "You want that, then?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -297,8 +269,7 @@
         {
           "Line": 200,
           "OriginalText": "Thanks a million!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -308,8 +279,7 @@
         {
           "Line": 209,
           "OriginalText": "Thanks a ton!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -319,8 +289,7 @@
         {
           "Line": 218,
           "OriginalText": "Thanks so much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -330,8 +299,7 @@
         {
           "Line": 227,
           "OriginalText": "That\u0027s a huge help! Thanks!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -341,14 +309,12 @@
         {
           "Line": 236,
           "OriginalText": "I have an impressive collection here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 240,
           "OriginalText": "\nTake your time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -358,8 +324,7 @@
         {
           "Line": 244,
           "OriginalText": "How many do you want to sell?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -369,20 +334,19 @@
         {
           "Line": 257,
           "OriginalText": "I\u0027ll give you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 265,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 268,
           "OriginalText": ". OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -392,8 +356,7 @@
         {
           "Line": 285,
           "OriginalText": "I can\u0027t buy that from you...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -403,8 +366,7 @@
         {
           "Line": 294,
           "OriginalText": "I\u0027ll need you to take that off first...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -414,14 +376,12 @@
         {
           "Line": 303,
           "OriginalText": "I\u0027ve got a special rainy-day deal for you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 307,
           "OriginalText": "\nI\u0027ll sell you the best item I\u0027ve got!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -431,20 +391,19 @@
         {
           "Line": 311,
           "OriginalText": "That\u0027d be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 319,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 322,
           "OriginalText": ". Sound OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -454,8 +413,7 @@
         {
           "Line": 334,
           "OriginalText": "How many were you thinking?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -465,26 +423,24 @@
         {
           "Line": 347,
           "OriginalText": "Only one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 351,
           "OriginalText": " I\u0027ll give you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 359,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 362,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -494,26 +450,24 @@
         {
           "Line": 374,
           "OriginalText": "All of them?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 378,
           "OriginalText": " That will be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 386,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 389,
           "OriginalText": ".\nThat OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -523,42 +477,41 @@
         {
           "Line": 401,
           "OriginalText": "So all of them, yeah? I can pay you\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 409,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 412,
           "OriginalText": ". That OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_36",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 429,
           "OriginalText": "That\u0027s all of it. Thanks for buying\nso much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_37",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 438,
           "OriginalText": "Sorry, I\u0027m all out of arrows for today.\nDo you want to look at the list of stuff\nI plan to stock up on?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -568,26 +521,24 @@
         {
           "Line": 450,
           "OriginalText": "Only one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 454,
           "OriginalText": " That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 462,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 465,
           "OriginalText": ".\nThat OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

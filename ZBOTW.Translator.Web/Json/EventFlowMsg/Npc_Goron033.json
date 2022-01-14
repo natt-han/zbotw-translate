@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "What now?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "No, I\u0027m good.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "I probably do.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "I\u0027ll buy it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,46 +47,46 @@
         {
           "Line": 24,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near00",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 28,
           "OriginalText": "Raaaarghhhh!!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 32,
           "OriginalText": "Zzz...zzz...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near02",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 36,
           "OriginalText": "Yaaaargh...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 54,
@@ -114,6 +110,7 @@
     },
     {
       "EntryName": "talk01",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 84,
@@ -124,25 +121,23 @@
         {
           "Line": 90,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 96,
           "OriginalText": "Er, nothin\u0027!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 105,
           "OriginalText": "Here\u0027s what I\u0027ll do, fella. Just for you,\nI\u0027ll sell ya that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 109,
@@ -153,8 +148,7 @@
         {
           "Line": 112,
           "OriginalText": " at a\nspecial price of only ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 116,
@@ -165,65 +159,60 @@
         {
           "Line": 119,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 136,
-          "OriginalText": "Whaa\u2014?! ",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Whaa—?! ",
+          "TranslatedText": null
         },
         {
           "Line": 140,
           "OriginalText": "You don\u0027t have enough rupees!\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 146,
           "OriginalText": "Hm... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 150,
           "OriginalText": "Times are tough, aren\u0027t they?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 159,
           "OriginalText": "A sale! I actually made a sale!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 163,
           "OriginalText": "\nHere ya go, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 172,
           "OriginalText": "A ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
@@ -234,14 +223,12 @@
         {
           "Line": 179,
           "OriginalText": " like you will need more\nthan that!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 183,
           "OriginalText": " A ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 187,
@@ -252,8 +239,7 @@
         {
           "Line": 190,
           "OriginalText": " will\ncost ya ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 194,
@@ -264,47 +250,45 @@
         {
           "Line": 197,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 214,
           "OriginalText": "Huh? Your pouch is full!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 218,
           "OriginalText": "\nMake some room and come back.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 227,
           "OriginalText": "Hey, fella! Buy somethin\u0027!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 244,
           "OriginalText": "A ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 248,
@@ -315,14 +299,12 @@
         {
           "Line": 251,
           "OriginalText": " like you needs this, right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 255,
           "OriginalText": "\nIt\u0027s a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 259,
@@ -333,30 +315,29 @@
         {
           "Line": 262,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 279,
           "OriginalText": "Well, don\u0027t come cryin\u0027 to me when\nyou\u0027re on fire, fella!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 288,
           "OriginalText": "Need a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 292,
@@ -367,81 +348,77 @@
         {
           "Line": 295,
           "OriginalText": "?\nYou do, yeah?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 315,
           "OriginalText": "Hmm hm hmmmm...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 319,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 325,
           "OriginalText": "Whoa! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 329,
           "OriginalText": "An actual customer?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 338,
           "OriginalText": "Then why\u0027d you wake me up?!\nSheesh!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 347,
           "OriginalText": "See ya later!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 356,
           "OriginalText": "Here ya go!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Offrak",
       "TextList": [
         {
           "Line": 365,
           "OriginalText": "Hey, it\u0027s the Hylian!\n\n\nI know ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 369,
@@ -452,8 +429,7 @@
         {
           "Line": 372,
           "OriginalText": "has chilled out, but the\ntemperature here is still burnin\u0027 hot!\n\nIf ya get too hot, try some good ol\u0027\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 376,
@@ -464,14 +440,12 @@
         {
           "Line": 379,
           "OriginalText": ", OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 383,
           "OriginalText": " Speakin\u0027 of...\nNeed some?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

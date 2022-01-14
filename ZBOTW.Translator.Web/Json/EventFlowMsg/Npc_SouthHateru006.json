@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Wild horses?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Kakariko Village?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Hateno Village?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,30 +37,29 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near00",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 29,
           "OriginalText": "I can give you directions!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 38,
           "OriginalText": "Welcome to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 42,
@@ -74,20 +70,17 @@
         {
           "Line": 45,
           "OriginalText": "!\nWhat do you think of the place?\nPretty nice, yeah?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 51,
           "OriginalText": "It might be hard to imagine now, but this\nplace was nearly destroyed about 100\nyears ago.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 57,
           "OriginalText": "However, thanks to the blessings of the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 61,
@@ -98,65 +91,60 @@
         {
           "Line": 64,
           "OriginalText": ", everything is full of life\nagain.\nEven the wild horses are back. There\u0027s a\nlot of energy in this place!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 70,
           "OriginalText": "So where are you heading? Both\nKakariko Village and Hateno Village\nare nearby.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 89,
           "OriginalText": "Huh? Did you not see any horses on\nyour way here?\n\nCertainly not as many as in years past,\nbut there are still quite a few around...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 95,
           "OriginalText": "Horses in the wild are...well, wild!\nNo one has trained or cared for them.\n\nIf you manage to catch one, let my\nbrother Tasseren know. He\u0027ll register the\nhorse for you! \nMy boys are wellsprings of information\nabout horses, so feel free to pick\ntheir brains.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 104,
           "OriginalText": "Kakariko Village is the village where the\nSheikah clan lives.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 110,
           "OriginalText": "It\u0027s said that, some time ago, they had\nadvanced techniques that were more\npowerful than anything anyone had seen.\nBut that power put them at odds with the\nking at the time, and they were scattered\nacross the land...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 116,
           "OriginalText": "Anyway, if you leave here and follow the\nroad straight to the north, you\u0027ll find a\nbig bridge.\nCross that and keep following the path,\nand you\u0027ll come to the Kakariko Village\ngate.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 125,
           "OriginalText": "Hateno Village is a village on the\nedge of Hyrule.\n\nIt was largely unaffected by the events\nof the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 129,
@@ -167,14 +155,12 @@
         {
           "Line": 132,
           "OriginalText": ", so the people\nthere are pretty easygoing.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 138,
           "OriginalText": "I hear they even have a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 142,
@@ -185,42 +171,39 @@
         {
           "Line": 145,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 149,
           "OriginalText": " But folks tend to avoid the\nweird scientist who lives there...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 155,
           "OriginalText": "Anyway, head north from here until you\nreach a fork in the road. Then go east\nand just follow the road.\nIt\u0027s a little far if you walk it, but with a\nhorse, you should get there in under\na day!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 164,
           "OriginalText": "Leave it to Rensa to tell you about the\nroads around this area.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 183,
           "OriginalText": "Everything looks just as it always has,\nbut the effects of the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 187,
@@ -231,14 +214,12 @@
         {
           "Line": 190,
           "OriginalText": "\nstill linger.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 196,
           "OriginalText": "For example, a lot of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 200,
@@ -249,42 +230,39 @@
         {
           "Line": 203,
           "OriginalText": " come out\nat night, so be careful when the\nsun sets...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 212,
           "OriginalText": "You\u0027re asking me now?\n\n\nThere certainly are not as many as in\nyears past, but there are still quite a few\naround...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 218,
           "OriginalText": "If you manage to catch one, let my\nbrother Tasseren know. He\u0027ll register the\nhorse for you!\nMy boys are wellsprings of information\nabout horses, but I\u0027m sure you don\u0027t\nneed another lecture.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 224,
           "OriginalText": "After all, you\u0027re the one who beat me,\nthe guy who took second in the Hyrule\nHorse-Taming Competition.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Rensa",
       "TextList": [
         {
           "Line": 233,
           "OriginalText": "Ya know, someone who can handle a\nhorse has a real leg up on the \ncompetition when it comes to ladies...\nI know what I\u0027m talking about! I took\nsecond in the Hyrule Horse-Taming\nCompetition!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

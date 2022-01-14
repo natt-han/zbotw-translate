@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Zora armor?",
-          "TranslatedText": "Zora armor?",
-          "Colour": null
+          "TranslatedText": "Zora armor?"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Diving?",
-          "TranslatedText": "โดดน้ำ?",
-          "Colour": null
+          "TranslatedText": "โดดน้ำ?"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Your soul\u0027s memory?",
-          "TranslatedText": "ความทรงจำของจิตวิญญาณ?",
-          "Colour": null
+          "TranslatedText": "ความทรงจำของจิตวิญญาณ?"
         }
       ]
     },
@@ -40,41 +37,40 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน",
-          "Colour": null
+          "TranslatedText": "ลาก่อน"
         }
       ]
     },
     {
       "EntryName": "near00",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 29,
           "OriginalText": "Diving is beauty!",
-          "TranslatedText": "การโดดน้ำนั้นงดงาม!",
-          "Colour": null
+          "TranslatedText": "การโดดน้ำนั้นงดงาม!"
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 38,
           "OriginalText": "Hey! It\u0027s you!",
-          "TranslatedText": "เฮ้! คุณน่ะเอง!",
-          "Colour": null
+          "TranslatedText": "เฮ้! คุณน่ะเอง!"
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 47,
           "OriginalText": "Congratulations on the new ",
-          "TranslatedText": "ยินดีด้วยที่ได้รับ ",
-          "Colour": null
+          "TranslatedText": "ยินดีด้วยที่ได้รับ "
         },
         {
           "Line": 51,
@@ -85,30 +81,29 @@
         {
           "Line": 54,
           "OriginalText": ".\nIt is most impressive indeed.",
-          "TranslatedText": "\nมันน่าประทับใจจริงๆ",
-          "Colour": null
+          "TranslatedText": "\nมันน่าประทับใจจริงๆ"
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 63,
           "OriginalText": "It is my observation that a person\u0027s true\ncolors shine the brightest when they\ndive freely into the waves!",
-          "TranslatedText": "ฉันสังเกตเห็นว่าคนเราจะเปล่งประกายที่แท้จริง\nออกมาในตอนที่กระโดดอย่างอิสระสู่คลื่น!",
-          "Colour": null
+          "TranslatedText": "ฉันสังเกตเห็นว่าคนเราจะเปล่งประกายที่แท้จริง\nออกมาในตอนที่กระโดดอย่างอิสระสู่คลื่น!"
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 72,
           "OriginalText": "Wearing the ",
-          "TranslatedText": "เมื่อสวมใส่ ",
-          "Colour": null
+          "TranslatedText": "เมื่อสวมใส่ "
         },
         {
           "Line": 76,
@@ -119,14 +114,12 @@
         {
           "Line": 79,
           "OriginalText": ", ",
-          "TranslatedText": " ",
-          "Colour": null
+          "TranslatedText": " "
         },
         {
           "Line": 83,
           "OriginalText": "even a Hylian\nlike you can ",
-          "TranslatedText": "แม้แต่ Hylian\nอย่างคุณก็สามารถ ",
-          "Colour": null
+          "TranslatedText": "แม้แต่ Hylian\nอย่างคุณก็สามารถ "
         },
         {
           "Line": 87,
@@ -137,19 +130,18 @@
         {
           "Line": 90,
           "OriginalText": " and get\nback up here in no time at all.",
-          "TranslatedText": " และกลับขึ้นมา\nที่นี่ได้ในทันที",
-          "Colour": null
+          "TranslatedText": " และกลับขึ้นมา\nที่นี่ได้ในทันที"
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 99,
           "OriginalText": "That said, if you don\u0027t mind me asking,\nwould you please show me your true\ncolors as you dive into the water?\nYou can dive ",
-          "TranslatedText": "ว่าไปแล้ว ถ้าคุณไม่ถือ\nคุณจะช่วยแสดงสีสันที่แท้จริงของคุณ\nในขณะที่ทำการโดดลงไปในน้ำได้ไหม?\nคุณสามารถโดด ",
-          "Colour": null
+          "TranslatedText": "ว่าไปแล้ว ถ้าคุณไม่ถือ\nคุณจะช่วยแสดงสีสันที่แท้จริงของคุณ\nในขณะที่ทำการโดดลงไปในน้ำได้ไหม?\nคุณสามารถโดด "
         },
         {
           "Line": 103,
@@ -160,59 +152,55 @@
         {
           "Line": 106,
           "OriginalText": " from here into the\nwater below!",
-          "TranslatedText": " จากที่นี่\nลงไปในน้ำด้านล่าง!",
-          "Colour": null
+          "TranslatedText": " จากที่นี่\nลงไปในน้ำด้านล่าง!"
         },
         {
           "Line": 110,
           "OriginalText": " It would be true beauty\nmade flesh! Please consider!",
-          "TranslatedText": " มันจะต้องงดงามมากแน่! \nลองคิดดูนะ!",
-          "Colour": null
+          "TranslatedText": " มันจะต้องงดงามมากแน่! \nลองคิดดูนะ!"
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 119,
           "OriginalText": "Come now!",
-          "TranslatedText": "เถอะน่า!",
-          "Colour": null
+          "TranslatedText": "เถอะน่า!"
         },
         {
           "Line": 123,
           "OriginalText": " Won\u0027t you please express\nyour soul\u0027s potential with a glorious\ndive from here?",
-          "TranslatedText": " คุณจะไม่ช่วยแสดง\nศักยภาพของจิดวิญญาณด้วยการโดดน้ำ\nอันงดงามจากที่นี่ดูหน่อยเหรอ?",
-          "Colour": null
+          "TranslatedText": " คุณจะไม่ช่วยแสดง\nศักยภาพของจิดวิญญาณด้วยการโดดน้ำ\nอันงดงามจากที่นี่ดูหน่อยเหรอ?"
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 132,
           "OriginalText": "I want nothing more than to witness the\nbeauty of an effortless and free dive!",
-          "TranslatedText": "ฉันไม่ต้องการอะไรมากไปกว่าการได้เห็น\nความงดงามของการโดดน้ำอันธรรมชาติ!",
-          "Colour": null
+          "TranslatedText": "ฉันไม่ต้องการอะไรมากไปกว่าการได้เห็น\nความงดงามของการโดดน้ำอันธรรมชาติ!"
         },
         {
           "Line": 136,
           "OriginalText": "\nTo feel it burned on my soul\u0027s memory!",
-          "TranslatedText": "\nเพื่อรับรู้ถึงการที่มันเผาไหม้ความทรงจำแห่ง\nจิตวิญญาณของฉัน!",
-          "Colour": null
+          "TranslatedText": "\nเพื่อรับรู้ถึงการที่มันเผาไหม้ความทรงจำแห่ง\nจิตวิญญาณของฉัน!"
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 163,
           "OriginalText": "If you have any soul at all, then dive into\nthe ",
-          "TranslatedText": "ถ้าคุณมีจิตวิญญาณละก็ โดดลงไปใน\n",
-          "Colour": null
+          "TranslatedText": "ถ้าคุณมีจิตวิญญาณละก็ โดดลงไปใน\n"
         },
         {
           "Line": 167,
@@ -223,100 +211,91 @@
         {
           "Line": 170,
           "OriginalText": "! ",
-          "TranslatedText": "สิ! ",
-          "Colour": null
+          "TranslatedText": "สิ! "
         },
         {
           "Line": 174,
           "OriginalText": "Go on, I\u0027m on the edge\nof my seat!",
-          "TranslatedText": "เอาเลย ฉันแทบอดใจรอ\nไม่ไหวแล้ว!",
-          "Colour": null
+          "TranslatedText": "เอาเลย ฉันแทบอดใจรอ\nไม่ไหวแล้ว!"
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 183,
           "OriginalText": "Do you have a question for me?",
-          "TranslatedText": "มีคำถามอะไรรึเปล่า?",
-          "Colour": null
+          "TranslatedText": "มีคำถามอะไรรึเปล่า?"
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 210,
           "OriginalText": "As a traveler, I am sure you must have\ntried diving at least once or twice, yes?\n\nWould you mind showing me? Please?\n\n\n",
-          "TranslatedText": "การเป็นนักเดินทาง ฉันแน่ใจว่าคุณคงเคย\nโดดน้ำมาแล้วสักที่สองที่ใช่ไหม?\n\nช่วยแสดงให้ฉันดูหน่อยได้ไหม? ได้โปรด?\n\n\n",
-          "Colour": null
+          "TranslatedText": "การเป็นนักเดินทาง ฉันแน่ใจว่าคุณคงเคย\nโดดน้ำมาแล้วสักที่สองที่ใช่ไหม?\n\nช่วยแสดงให้ฉันดูหน่อยได้ไหม? ได้โปรด?\n\n\n"
         },
         {
           "Line": 216,
           "OriginalText": "When you dive, do so headfirst.",
-          "TranslatedText": "ตอนที่โดดให้เอาหัวลงนะ",
-          "Colour": null
+          "TranslatedText": "ตอนที่โดดให้เอาหัวลงนะ"
         },
         {
           "Line": 220,
           "OriginalText": "\nBreak the water\u0027s surface straight\non down to the tips of your toes!",
-          "TranslatedText": "\nแหวกผิวน้ำลงไปเป็นเส้นตรง\nลงไปจนถึงปลายนิ้วเท้าเลย!",
-          "Colour": null
+          "TranslatedText": "\nแหวกผิวน้ำลงไปเป็นเส้นตรง\nลงไปจนถึงปลายนิ้วเท้าเลย!"
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 229,
           "OriginalText": "Have you ever seen something that made\nyour heart flutter with emotion? ",
-          "TranslatedText": "คุณเคยเห็นอะไรที่ทำให้หัวใจ\nสั่นสะท้านไปด้วยความรู้สึกมั้ยมาก่อนมั้ย? ",
-          "Colour": null
+          "TranslatedText": "คุณเคยเห็นอะไรที่ทำให้หัวใจ\nสั่นสะท้านไปด้วยความรู้สึกมั้ยมาก่อนมั้ย? "
         },
         {
           "Line": 233,
           "OriginalText": "For me,\nseeing a person\u0027s diving form does that.\n",
-          "TranslatedText": "\nสำหรับฉันแล้ว มันคือการได้เห็นคนกระโดดน้ำ\n",
-          "Colour": null
+          "TranslatedText": "\nสำหรับฉันแล้ว มันคือการได้เห็นคนกระโดดน้ำ\n"
         },
         {
           "Line": 239,
           "OriginalText": "The sight of a diver just before they\nbecome one with the water... ",
-          "TranslatedText": "ภาพของผู้ที่โดดน้ำก่อนที่เขาจะรวมเป็นหนึ่งเดียว\nกับสายน้ำ... ",
-          "Colour": null
+          "TranslatedText": "ภาพของผู้ที่โดดน้ำก่อนที่เขาจะรวมเป็นหนึ่งเดียว\nกับสายน้ำ... "
         },
         {
           "Line": 243,
           "OriginalText": "I believe\nthat to be the ultimate form of beauty.",
-          "TranslatedText": "ฉันเชื่อว่า\nนั่นคือที่สุดแห่งความงดงาม",
-          "Colour": null
+          "TranslatedText": "ฉันเชื่อว่า\nนั่นคือที่สุดแห่งความงดงาม"
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 255,
           "OriginalText": "Blinding brightness!",
-          "TranslatedText": "ความเจิดจ้า!",
-          "Colour": null
+          "TranslatedText": "ความเจิดจ้า!"
         },
         {
           "Line": 259,
           "OriginalText": "\n\n\nRadiant beauty!\n\n\n",
-          "TranslatedText": "\n\n\nความงดงามอันเปล่งประกาย!\n\n\n",
-          "Colour": null
+          "TranslatedText": "\n\n\nความงดงามอันเปล่งประกาย!\n\n\n"
         },
         {
           "Line": 265,
           "OriginalText": "*ahem* OK, now ",
-          "TranslatedText": "*อะแฮ่ม* โอเค งั้นก็ ",
-          "Colour": null
+          "TranslatedText": "*อะแฮ่ม* โอเค งั้นก็ "
         },
         {
           "Line": 269,
@@ -327,88 +306,81 @@
         {
           "Line": 272,
           "OriginalText": " and\nthen meet me back here!",
-          "TranslatedText": " \nและกลับมาพบฉันที่นี่!",
-          "Colour": null
+          "TranslatedText": " \nและกลับมาพบฉันที่นี่!"
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 284,
           "OriginalText": "Fantastic!",
-          "TranslatedText": "มหัศจรรย์!",
-          "Colour": null
+          "TranslatedText": "มหัศจรรย์!"
         },
         {
           "Line": 288,
           "OriginalText": "\n\n\nCan you feel that?! My soul is on fire!\nIt\u0027s pulsating with beauty!\n\n",
-          "TranslatedText": "\n\n\nคุณรู้สึกมั้ย?! วิญญาณฉันกำลังลุกไหม้!\nมันสั่นไหวเพราะความงดงาม!\n\n",
-          "Colour": null
+          "TranslatedText": "\n\n\nคุณรู้สึกมั้ย?! วิญญาณฉันกำลังลุกไหม้!\nมันสั่นไหวเพราะความงดงาม!\n\n"
         },
         {
           "Line": 294,
           "OriginalText": "You showed me something truly special!",
-          "TranslatedText": "คุณแสดงให้ฉันเห็นสิ่งที่พิเศษมาก!",
-          "Colour": null
+          "TranslatedText": "คุณแสดงให้ฉันเห็นสิ่งที่พิเศษมาก!"
         },
         {
           "Line": 298,
           "OriginalText": "\nThank you so much!",
-          "TranslatedText": "\nขอบคุณมาก!",
-          "Colour": null
+          "TranslatedText": "\nขอบคุณมาก!"
         },
         {
           "Line": 302,
           "OriginalText": " Now then,\ncome over here real quick!",
-          "TranslatedText": " ทีนี้ก็\nมาตรงนี้เร็ว!",
-          "Colour": null
+          "TranslatedText": " ทีนี้ก็\nมาตรงนี้เร็ว!"
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 314,
           "OriginalText": "That was amazing!",
-          "TranslatedText": "นั่นมันอัศจรรย์มาก!",
-          "Colour": null
+          "TranslatedText": "นั่นมันอัศจรรย์มาก!"
         },
         {
           "Line": 318,
           "OriginalText": "\n\n\nI saw your dive and waterfall climb with\nmy own lucky eyes!",
-          "TranslatedText": "\n\n\nฉันเห็นคุณโดดน้ำและว่ายทวนน้ำตก\nด้วยดวงตาอันแสนโชคดีของฉันเอง!",
-          "Colour": null
+          "TranslatedText": "\n\n\nฉันเห็นคุณโดดน้ำและว่ายทวนน้ำตก\nด้วยดวงตาอันแสนโชคดีของฉันเอง!"
         },
         {
           "Line": 322,
           "OriginalText": " And now those very\neyes are flooded with tears of joy!",
-          "TranslatedText": " \nตอนนี้ดวงตานั้นกำลังเต็มไปด้วยน้ำตาแห่งความสุข!",
-          "Colour": null
+          "TranslatedText": " \nตอนนี้ดวงตานั้นกำลังเต็มไปด้วยน้ำตาแห่งความสุข!"
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 331,
           "OriginalText": "Yes! I must thank you somehow!",
-          "TranslatedText": "ใช่แล้ว! ฉันต้องตอบแทน!",
-          "Colour": null
+          "TranslatedText": "ใช่แล้ว! ฉันต้องตอบแทน!"
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 340,
           "OriginalText": "I\u0027d like to give you something as\nthanks, but it seems you do not have\nroom for my ",
-          "TranslatedText": "ฉันอยากจะให้ของเป็นการตอบแทน\nแต่ดูเหมือนคุณจะไม่มีที่ว่าง\nสำหรับ ",
-          "Colour": null
+          "TranslatedText": "ฉันอยากจะให้ของเป็นการตอบแทน\nแต่ดูเหมือนคุณจะไม่มีที่ว่าง\nสำหรับ "
         },
         {
           "Line": 344,
@@ -419,8 +391,7 @@
         {
           "Line": 347,
           "OriginalText": " ",
-          "TranslatedText": " ",
-          "Colour": null
+          "TranslatedText": " "
         },
         {
           "Line": 351,
@@ -431,48 +402,44 @@
         {
           "Line": 354,
           "OriginalText": ".\nPlease lighten your load, and then come\nback to speak with me again.",
-          "TranslatedText": " ของฉัน\nโปรดจัดการหาที่ว่างแล้วกลับมาคุยกับฉันใหม่",
-          "Colour": null
+          "TranslatedText": " ของฉัน\nโปรดจัดการหาที่ว่างแล้วกลับมาคุยกับฉันใหม่"
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 363,
           "OriginalText": "Oh! I feel emotionally ravaged after that!\n\n\nIt\u0027s not every day I get to see a diving\nform as beautiful as yours, you know!\n\n",
-          "TranslatedText": "โอ้! หลังจากนั้นอารมณ์ฉันรู้สึกย่ำแย่!\n\n\nการโดดน้ำอันสวยงามเช่นนั้นของคุณน่ะ\nไม่ใช่ว่าจะหาดูได้ทุกวันหรอกนะ รู้มั้ย!\n\n",
-          "Colour": null
+          "TranslatedText": "โอ้! หลังจากนั้นอารมณ์ฉันรู้สึกย่ำแย่!\n\n\nการโดดน้ำอันสวยงามเช่นนั้นของคุณน่ะ\nไม่ใช่ว่าจะหาดูได้ทุกวันหรอกนะ รู้มั้ย!\n\n"
         },
         {
           "Line": 369,
           "OriginalText": "I\u0027ll be looking forward to your next dive!\nI really will!",
-          "TranslatedText": "ฉันจะรอชมการโดดน้ำครั้งต่อไปของคุณนะ!\nอย่างแน่นอน!",
-          "Colour": null
+          "TranslatedText": "ฉันจะรอชมการโดดน้ำครั้งต่อไปของคุณนะ!\nอย่างแน่นอน!"
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 378,
           "OriginalText": "Huh? ",
-          "TranslatedText": "หืม? ",
-          "Colour": null
+          "TranslatedText": "หืม? "
         },
         {
           "Line": 382,
           "OriginalText": "How did you get back here",
-          "TranslatedText": "คุณกลับมาที่นี่ได้ยังไง",
-          "Colour": null
+          "TranslatedText": "คุณกลับมาที่นี่ได้ยังไง"
         },
         {
           "Line": 386,
           "OriginalText": " without\n",
-          "TranslatedText": " โดยที่ไม่ได้\n",
-          "Colour": null
+          "TranslatedText": " โดยที่ไม่ได้\n"
         },
         {
           "Line": 390,
@@ -483,19 +450,18 @@
         {
           "Line": 393,
           "OriginalText": "?",
-          "TranslatedText": " ขึ้นมา?",
-          "Colour": null
+          "TranslatedText": " ขึ้นมา?"
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Gruve",
       "TextList": [
         {
           "Line": 402,
           "OriginalText": "If you don\u0027t mind, I\u0027d love for you to\nshow me how you ",
-          "TranslatedText": "ถ้าคุณไม่ว่าอะไร ฉันอยากจะให้คุณช่วย \n",
-          "Colour": null
+          "TranslatedText": "ถ้าคุณไม่ว่าอะไร ฉันอยากจะให้คุณช่วย \n"
         },
         {
           "Line": 406,
@@ -506,14 +472,12 @@
         {
           "Line": 409,
           "OriginalText": "\nfrom the water below.\n",
-          "TranslatedText": "\nขึ้นมาจากน้ำด้านล่าง\n",
-          "Colour": null
+          "TranslatedText": "\nขึ้นมาจากน้ำด้านล่าง\n"
         },
         {
           "Line": 415,
           "OriginalText": "If you have the ",
-          "TranslatedText": "ถ้าคุณมี ",
-          "Colour": null
+          "TranslatedText": "ถ้าคุณมี "
         },
         {
           "Line": 419,
@@ -524,8 +488,7 @@
         {
           "Line": 422,
           "OriginalText": ", it should be\nfairly easy!",
-          "TranslatedText": "\nมันน่าจะง่ายมาก",
-          "Colour": null
+          "TranslatedText": "\nมันน่าจะง่ายมาก"
         }
       ]
     }

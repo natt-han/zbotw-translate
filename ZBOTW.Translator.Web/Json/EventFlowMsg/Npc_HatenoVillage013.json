@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Hullo!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "I need to talk to you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Calamity Ganon?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "What is this place?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Who are you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,30 +67,29 @@
         {
           "Line": 32,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 36,
           "OriginalText": "Hrgh...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 45,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 49,
@@ -107,126 +100,120 @@
         {
           "Line": 52,
           "OriginalText": " is as beautiful as ever...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 61,
           "OriginalText": "That flame... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 65,
           "OriginalText": "Purah used to carry it\naround all the time a while ago.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 74,
           "OriginalText": "...Yes?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 91,
           "OriginalText": "*sigh*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 100,
           "OriginalText": "*sigh* ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 104,
           "OriginalText": "Hullo.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 113,
           "OriginalText": "What is it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 130,
           "OriginalText": "To me? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 134,
           "OriginalText": "About what?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 183,
           "OriginalText": "Well...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 187,
           "OriginalText": "it\u0027s a farm. But you knew that\nmuch, right?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 193,
           "OriginalText": "OH! Are you talking about that odd\nhouse up top there?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 202,
           "OriginalText": "The place on that hill to the east\nis the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 206,
@@ -237,8 +224,7 @@
         {
           "Line": 209,
           "OriginalText": ".\n\nI heard a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 213,
@@ -249,42 +235,39 @@
         {
           "Line": 216,
           "OriginalText": " is doing\nsome mysterious things up there.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 225,
           "OriginalText": "Me? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 229,
           "OriginalText": "Well, I\u0027m just an old man.\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 235,
           "OriginalText": "Nothing more to it than that.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 244,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 248,
@@ -295,31 +278,28 @@
         {
           "Line": 251,
           "OriginalText": "?\n\n\nDid Uma put some ideas in your head?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 255,
           "OriginalText": "\nWhat good is sniffing around on a thing\nthat happened 100 years ago?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 261,
           "OriginalText": "I can tell you what my father told me,\nbut I don\u0027t see what good it will do...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 270,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 274,
@@ -330,8 +310,7 @@
         {
           "Line": 277,
           "OriginalText": "was a catastrophe\nthat...contaminated ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 281,
@@ -342,14 +321,12 @@
         {
           "Line": 284,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 288,
           "OriginalText": " That\u0027s\nhow I understood it, anyway.\nOur world was once filled with beautiful\ncities and prosperous villages, but the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 292,
@@ -360,8 +337,7 @@
         {
           "Line": 295,
           "OriginalText": " destroyed all of that.\nLuckily, Hateno Village was far enough\naway from ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 299,
@@ -372,8 +348,7 @@
         {
           "Line": 302,
           "OriginalText": " that the damage\nhere was minor in comparison.\nAnd then there was something about a\nbrave soul that tried to stop the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 306,
@@ -384,58 +359,56 @@
         {
           "Line": 309,
           "OriginalText": ",\nI think...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 315,
           "OriginalText": "I don\u0027t remember it all. What does it\nmatter, though? That\u0027s all in the past.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 327,
           "OriginalText": "Zzz...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 342,
           "OriginalText": "Zzz...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 359,
           "OriginalText": "What is Purah gonna do with this...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 368,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 372,
@@ -446,8 +419,7 @@
         {
           "Line": 375,
           "OriginalText": "... The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 379,
@@ -458,75 +430,72 @@
         {
           "Line": 382,
           "OriginalText": "used to carry\nthat around a while ago.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 391,
           "OriginalText": "Well, I guess I can say good-bye\nto sleep.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 400,
           "OriginalText": "I\u0027m going to bed. See you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 409,
           "OriginalText": "I\u0027m heading out to my usual spot.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 413,
           "OriginalText": " Out\nof the way, please!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 422,
           "OriginalText": "I don\u0027t mind chatting with you,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 426,
           "OriginalText": " but let\nme have a seat first.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Tokk",
       "TextList": [
         {
           "Line": 435,
           "OriginalText": "Any other business with me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

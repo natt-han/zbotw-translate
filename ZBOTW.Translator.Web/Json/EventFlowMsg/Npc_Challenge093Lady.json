@@ -3,38 +3,36 @@
   "EntryList": [
     {
       "EntryName": "Talk_00",
+      "NPC": "Magda",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "You\u0027re not stepping on my flowers,\nare you?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "คุณไม่ได้เหยียบดอกไม้ของฉันใช่ไหม?!"
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Magda",
       "TextList": [
         {
           "Line": 22,
           "OriginalText": "Look! Do you see?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ดูสิ! เห็นมั้ย?"
         },
         {
           "Line": 26,
           "OriginalText": " The shrine has\nchanged to a pretty color!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " ศาลเจ้า\nเปลี่ยนสีไปแล้ว!"
         },
         {
           "Line": 30,
           "OriginalText": " It must\nbe pleased with my gorgeous flowers!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " มันต้องพอใจใน\nดอกไม้อันสวยงามของฉันแน่!"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

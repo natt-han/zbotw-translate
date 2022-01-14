@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "I wanna buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I wanna sell.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "That\u0027s it for now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Sounds good to me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "On second thought...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I\u0027ll take it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Maybe next time.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 49,
           "OriginalText": "I\u0027ll just pretend to be a boulder until\nthey go away.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,8 +107,7 @@
         {
           "Line": 58,
           "OriginalText": "Is that all of them?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -128,8 +117,7 @@
         {
           "Line": 67,
           "OriginalText": "What do you want to sell?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -139,20 +127,19 @@
         {
           "Line": 71,
           "OriginalText": "I can give you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 79,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 82,
           "OriginalText": ".\nWhat do you think?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -162,14 +149,12 @@
         {
           "Line": 99,
           "OriginalText": "It\u0027s been a pleasure!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 103,
           "OriginalText": "\nNeed anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -179,8 +164,7 @@
         {
           "Line": 112,
           "OriginalText": "Thanks for your business, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -190,8 +174,7 @@
         {
           "Line": 121,
           "OriginalText": "Thank you very much, brother.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -201,8 +184,7 @@
         {
           "Line": 130,
           "OriginalText": "I appreciate your business, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -212,14 +194,12 @@
         {
           "Line": 139,
           "OriginalText": "Oh...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 143,
           "OriginalText": " Well, that\u0027s too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -229,8 +209,7 @@
         {
           "Line": 147,
           "OriginalText": "I\u0027ll buy anything. Just try me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -240,8 +219,7 @@
         {
           "Line": 151,
           "OriginalText": "I\u0027ll buy whatever it is you\u0027re selling.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -251,8 +229,7 @@
         {
           "Line": 155,
           "OriginalText": "If you have anything you don\u0027t need, I\u0027ll\nbe glad to buy it off you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -262,8 +239,7 @@
         {
           "Line": 159,
           "OriginalText": "I can buy some things from you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -273,8 +249,7 @@
         {
           "Line": 163,
           "OriginalText": "What caught your eye?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -284,14 +259,12 @@
         {
           "Line": 172,
           "OriginalText": "Uh-oh.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
           "OriginalText": " Looks like I\u0027m all sold out of that\nfor now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -301,14 +274,12 @@
         {
           "Line": 185,
           "OriginalText": "Looks like you\u0027re short on rupees.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 189,
           "OriginalText": "\nScrounge some up and get back to me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -318,14 +289,12 @@
         {
           "Line": 198,
           "OriginalText": "Your inventory is full...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 202,
           "OriginalText": " You can toss\nsomething out to make some space,\nor I can buy some items off you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -335,8 +304,7 @@
         {
           "Line": 206,
           "OriginalText": "We have a deal?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -346,8 +314,7 @@
         {
           "Line": 223,
           "OriginalText": "Good doing business with you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -357,8 +324,7 @@
         {
           "Line": 232,
           "OriginalText": "Thank you for stopping by, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -368,8 +334,7 @@
         {
           "Line": 241,
           "OriginalText": "Thanks, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -379,8 +344,7 @@
         {
           "Line": 250,
           "OriginalText": "I appreciate your business, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -390,14 +354,12 @@
         {
           "Line": 259,
           "OriginalText": "I have some rare ore burning a hole in\nmy pack!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 263,
           "OriginalText": " Take your time looking it over,\nand let me know what you want.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -407,8 +369,7 @@
         {
           "Line": 267,
           "OriginalText": "How many would you like to part with?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -418,20 +379,19 @@
         {
           "Line": 280,
           "OriginalText": "That\u0027ll get ya ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 288,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 291,
           "OriginalText": ".\nSound like a deal?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -441,14 +401,12 @@
         {
           "Line": 308,
           "OriginalText": "Nope, can\u0027t buy that from you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 312,
           "OriginalText": "\nJust can\u0027t do it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -458,8 +416,7 @@
         {
           "Line": 321,
           "OriginalText": "Oh... I can\u0027t buy clothes while\nyou\u0027re still wearing them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -469,8 +426,7 @@
         {
           "Line": 330,
           "OriginalText": "This weather has me in a rare mood to\nsell rare ore. How about a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 334,
@@ -481,8 +437,7 @@
         {
           "Line": 337,
           "OriginalText": "?\nYou interested in rare items?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -492,20 +447,19 @@
         {
           "Line": 341,
           "OriginalText": "That\u0027ll cost ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 349,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 352,
           "OriginalText": ". Sound good?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -515,8 +469,7 @@
         {
           "Line": 364,
           "OriginalText": "How many do you want?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -526,26 +479,24 @@
         {
           "Line": 377,
           "OriginalText": "Just one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 381,
           "OriginalText": " I can do ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 389,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 392,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -555,32 +506,30 @@
         {
           "Line": 404,
           "OriginalText": "You want to buy all that I have?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 408,
           "OriginalText": "\nLooks like ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 413,
           "OriginalText": " will run ya ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 421,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 424,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -590,60 +539,57 @@
         {
           "Line": 436,
           "OriginalText": "All ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 441,
           "OriginalText": "?",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 445,
           "OriginalText": " Well, I can give you...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 453,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 456,
           "OriginalText": " total.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_36",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 473,
           "OriginalText": "That\u0027s the last of it. I\u0027m all sold out!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 477,
           "OriginalText": "\nThanks for your business, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_37",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 486,
           "OriginalText": "Kairo\u0027s ore shop is all sold out, but do\nyou want a sneak peek of what I\u0027ll have\nafter I restock in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 490,
@@ -654,8 +600,7 @@
         {
           "Line": 493,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -665,26 +610,24 @@
         {
           "Line": 505,
           "OriginalText": "Only one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 509,
           "OriginalText": " That\u0027ll cost you...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 517,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 520,
           "OriginalText": ". Sound good?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -694,8 +637,7 @@
         {
           "Line": 537,
           "OriginalText": "Eating me will do you no good! You will\njust break your teeth!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -705,30 +647,29 @@
         {
           "Line": 546,
           "OriginalText": "Us Gorons have pretty thick skin, so we\ncan take a lot of punishment.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "GoodBye00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 555,
           "OriginalText": "Maybe we\u0027ll meet again down the road!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Guardian00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 564,
           "OriginalText": "A ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 568,
@@ -739,25 +680,23 @@
         {
           "Line": 571,
           "OriginalText": "\u0027s beam can turn boulders\ninto pebbles!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 575,
           "OriginalText": " I\u0027m out of here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 584,
           "OriginalText": "My hometown of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 588,
@@ -768,8 +707,7 @@
         {
           "Line": 591,
           "OriginalText": " is the fifth\nstop up the trail. I\u0027m just out here selling\nthe ore I dug up from ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 595,
@@ -780,19 +718,18 @@
         {
           "Line": 598,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_00_1",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 607,
           "OriginalText": "The chunks of ore I dug up from ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 611,
@@ -803,14 +740,12 @@
         {
           "Line": 614,
           "OriginalText": "are pretty high quality.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 618,
           "OriginalText": " Take a\nlook and you\u0027ll dig \u0027em too!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -820,14 +755,12 @@
         {
           "Line": 627,
           "OriginalText": "You do not look to be made of rock,\nso here\u0027s some advice:",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 631,
           "OriginalText": " you\u0027ll need some\nfire protection if you go any farther.\nI recommend a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 635,
@@ -838,8 +771,7 @@
         {
           "Line": 638,
           "OriginalText": ". You can\nmake it by cooking a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 642,
@@ -850,14 +782,12 @@
         {
           "Line": 645,
           "OriginalText": "\nwith a...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 649,
           "OriginalText": " A, um...\nHuh, I forget what else.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -867,8 +797,7 @@
         {
           "Line": 658,
           "OriginalText": "A ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 662,
@@ -879,8 +808,7 @@
         {
           "Line": 665,
           "OriginalText": "will help a little Hylian\nlike you stand up to this heat. Just cook\na ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 669,
@@ -891,14 +819,12 @@
         {
           "Line": 672,
           "OriginalText": "with a...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 676,
           "OriginalText": " With a, um...\nHuh. I just can\u0027t remember.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -908,8 +834,7 @@
         {
           "Line": 685,
           "OriginalText": "I got plain sick and tired of working the\nGoron Hot Springs in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 689,
@@ -920,14 +845,12 @@
         {
           "Line": 692,
           "OriginalText": ", so I\ndecided to just up and leave.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 698,
           "OriginalText": "I\u0027m going to see the world! I want to see\nsomewhere cold, I want to see green\ntrees and hills!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -937,8 +860,7 @@
         {
           "Line": 707,
           "OriginalText": "I am more suited to the life of a traveling\nmerchant for sure. The scenery is much\nnicer than the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 711,
@@ -949,19 +871,18 @@
         {
           "Line": 714,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_03",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 723,
           "OriginalText": "If you\u0027re thinking of checking out ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 727,
@@ -972,25 +893,23 @@
         {
           "Line": 730,
           "OriginalText": "\u0027s Goron Hot Springs, be careful of\nthe magma bombs on the way.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 736,
           "OriginalText": "I\u0027ve been away from home for a while, so\nI can\u0027t say whether or not they\u0027re falling\nright now, but be careful, little Hylian!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_03_1",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 745,
           "OriginalText": "If you\u0027re heading to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 749,
@@ -1001,8 +920,7 @@
         {
           "Line": 752,
           "OriginalText": "\u0027s famed\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 756,
@@ -1013,13 +931,13 @@
         {
           "Line": 759,
           "OriginalText": ", watch out for\nmagma bombs on the way.\nI haven\u0027t had to worry about them since\nleaving to travel the world, and I do NOT\nmiss dodging those things.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_04",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 771,
@@ -1030,31 +948,28 @@
         {
           "Line": 774,
           "OriginalText": "is nice and cool! I have\nnever felt anything like it! Ahh, the cool\nair really soothes the skin.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 780,
           "OriginalText": "Huh?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 784,
           "OriginalText": " You look a bit warm... Could it be\nthat even this cool weather is too hot\nfor a little Hylian like you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "MSG_Orud_04_1",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 793,
           "OriginalText": "Ah, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 797,
@@ -1065,8 +980,7 @@
         {
           "Line": 800,
           "OriginalText": " sure is nice and cool.\nOr maybe...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 807,
@@ -1077,74 +991,73 @@
         {
           "Line": 810,
           "OriginalText": "is just really hot.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 814,
           "OriginalText": "Let\u0027s find some ore to sell.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near01",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 818,
           "OriginalText": "I could go for a good ore.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near02",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 822,
           "OriginalText": "What great scenery.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near03",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 826,
           "OriginalText": "I\u0027m digging this greenery.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near04",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 830,
           "OriginalText": "I\u0027m getting soaked!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Rest_00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 839,
           "OriginalText": "Does a little Hylian like you know about\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 843,
@@ -1155,48 +1068,44 @@
         {
           "Line": 846,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 850,
           "OriginalText": " As you might have guessed,\nit\u0027s where the Gorons live!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Rest_01",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 859,
           "OriginalText": "Goron bodies are as tough as rocks.\nImpervious to heat, strong against\nscissors, and weak to paper.\nNo, wait...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 863,
           "OriginalText": " That is...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 867,
           "OriginalText": " Yes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 871,
           "OriginalText": "\nI definitely confused Gorons with\nrock-paper-scissors.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Orud_00",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 883,
@@ -1207,19 +1116,18 @@
         {
           "Line": 886,
           "OriginalText": " is the fifth stop on this road.\nLook out for the swirling waves of heat,\nrock slides, and lurking monsters.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 892,
           "OriginalText": "I make it sound like a lot of fun, but it\u0027s\nactually pretty dangerous. But those\naren\u0027t the reasons I left in such a hurry.\nI left home to start my new life as a\ntraveling salesrock. I\u0027m gonna see the\nworld and sell ore to everyone I meet!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Orud_00_1",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 904,
@@ -1230,25 +1138,23 @@
         {
           "Line": 907,
           "OriginalText": "is the fifth stop on this road.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 911,
           "OriginalText": "\nIt can be a pretty dangerous place, but\nthere\u0027s a lot of ore to be mined.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Orud_01",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 920,
           "OriginalText": "I wonder how my old buddy ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 924,
@@ -1259,8 +1165,7 @@
         {
           "Line": 927,
           "OriginalText": "back\nin ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 931,
@@ -1271,8 +1176,7 @@
         {
           "Line": 934,
           "OriginalText": " is doing.\n\nNice guy, that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 938,
@@ -1283,19 +1187,18 @@
         {
           "Line": 941,
           "OriginalText": ". Always a pleasure\nto chomp the ore with.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "RetMSG_Orud_01_1",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 953,
           "OriginalText": "I wonder if my old buddy ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 957,
@@ -1306,8 +1209,7 @@
         {
           "Line": 960,
           "OriginalText": "back in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 964,
@@ -1318,20 +1220,17 @@
         {
           "Line": 967,
           "OriginalText": "is doing well.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 971,
           "OriginalText": "\nOops.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 975,
           "OriginalText": " Ya caught me talking to myself.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1341,14 +1240,12 @@
         {
           "Line": 984,
           "OriginalText": "Is it normal for magma bombs to not rain\ndown nonstop?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 988,
           "OriginalText": " I just don\u0027t understand\nthe weather around here.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1358,8 +1255,7 @@
         {
           "Line": 997,
           "OriginalText": "Getting hit by a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1001,
@@ -1370,8 +1266,7 @@
         {
           "Line": 1004,
           "OriginalText": "even hurts\nus Gorons!\n\nIf you\u0027re thinking about going for a climb\non ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1008,
@@ -1382,8 +1277,7 @@
         {
           "Line": 1011,
           "OriginalText": ", you had better\nbe careful.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1393,8 +1287,7 @@
         {
           "Line": 1020,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1024,
@@ -1405,8 +1298,7 @@
         {
           "Line": 1027,
           "OriginalText": "is so hot, it\u0027s\ndangerous for non-Gorons to travel.\n\nIf your heart is really set on a trip to\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1031,
@@ -1417,14 +1309,12 @@
         {
           "Line": 1034,
           "OriginalText": ", be sure to bring some fire\nprotection.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1038,
           "OriginalText": " Don\u0027t say I didn\u0027t warn ya!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1434,8 +1324,7 @@
         {
           "Line": 1047,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1051,
@@ -1446,8 +1335,7 @@
         {
           "Line": 1054,
           "OriginalText": " is pretty dangerous\nbecause of how hot it gets.\n\nIf you\u0027re taking a trip to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1058,
@@ -1458,8 +1346,7 @@
         {
           "Line": 1061,
           "OriginalText": ", be\nsure to bring some fire protection.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1469,14 +1356,12 @@
         {
           "Line": 1070,
           "OriginalText": "Us Gorons make a living by mining ore.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1074,
           "OriginalText": "\nWe eat the rocks we dig up as we mine,\nso we get to snack all day!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1486,14 +1371,12 @@
         {
           "Line": 1083,
           "OriginalText": "It\u0027s a Goron\u0027s nature to live in harmony\nwith rocks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1087,
           "OriginalText": " I make a living selling the ore\nI dig up, and I eat the tastier stones!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1503,8 +1386,7 @@
         {
           "Line": 1096,
           "OriginalText": "Those monsters are pretty scary.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1514,8 +1396,7 @@
         {
           "Line": 1105,
           "OriginalText": "We are not the monsters here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1525,8 +1406,7 @@
         {
           "Line": 1114,
           "OriginalText": "That was a close one!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1536,8 +1416,7 @@
         {
           "Line": 1123,
           "OriginalText": "Phew. I\u0027m saved!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1547,8 +1426,7 @@
         {
           "Line": 1132,
           "OriginalText": "Looks like I\u0027ll live to sell another day!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1558,42 +1436,39 @@
         {
           "Line": 1141,
           "OriginalText": "We had better make a break for it while\nwe can.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk01",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 1150,
           "OriginalText": "All right, let\u0027s get down to brass tacks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1154,
           "OriginalText": "\nFeel free to browse my wares!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk02",
+      "NPC": "Kairo",
       "TextList": [
         {
           "Line": 1172,
           "OriginalText": "Thanks, brother!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1176,
           "OriginalText": " Need anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -1603,20 +1478,17 @@
         {
           "Line": 1194,
           "OriginalText": "I survived?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1198,
           "OriginalText": " All right!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1202,
           "OriginalText": " Here, take this as\na thank you, brother.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

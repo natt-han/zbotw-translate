@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Let\u0027s seal the deal!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "How do I set seal?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Seal you later!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "A sand seal?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "How do I catch one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "I came on foot.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "I rode here.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "Sand seal? Sealiously?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,75 +97,72 @@
         {
           "Line": 44,
           "OriginalText": "How do I ride one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_01",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 48,
           "OriginalText": "Come on, everybody!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_02",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 52,
           "OriginalText": "I\u0027ve got to keep up...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_03",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 56,
           "OriginalText": "I have to hurry!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_04",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 65,
-          "OriginalText": "Sand seals\u201420 rupees!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Sand seals—20 rupees!",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 74,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 78,
           "OriginalText": " If you are hoping to cross the\nvast Gerudo Desert,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 82,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 86,
@@ -185,8 +173,7 @@
         {
           "Line": 89,
           "OriginalText": " surfing is\nthe way to do it!\nIt\u0027s only ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 93,
@@ -197,14 +184,12 @@
         {
           "Line": 96,
           "OriginalText": " to rent one!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 100,
           "OriginalText": "\nNeed a shield, too? Just pay ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 104,
@@ -215,66 +200,59 @@
         {
           "Line": 107,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 111,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 117,
           "OriginalText": "What do you say?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_02",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 136,
           "OriginalText": "What? Is that some kind of slang?\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 145,
           "OriginalText": "I wonder if it\u0027s just a thing outside Gerudo Town...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_03",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 157,
           "OriginalText": "What? Is that some kind of slang?\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 166,
           "OriginalText": "I wonder if it\u0027s just a thing outside Gerudo Town...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 170,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
           "OriginalText": "Anyway. The Gerudo Desert is vast.\nYou\u0027d be wise to take a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 180,
@@ -285,37 +263,33 @@
         {
           "Line": 183,
           "OriginalText": " if\nyou\u0027re traveling beyond town.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_04",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 192,
           "OriginalText": "What? Is that some kind of slang?\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 201,
           "OriginalText": "I wonder if it\u0027s just a thing outside Gerudo Town...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 205,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 211,
           "OriginalText": "Hrm. It looks like you haven\u0027t got\nenough to pay the rental fee.\n\nYou know, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 215,
@@ -326,25 +300,23 @@
         {
           "Line": 218,
           "OriginalText": " care isn\u0027t cheap...\nI hate to say it, but you can\u0027t rent one if\nyou can\u0027t afford it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_05",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 227,
           "OriginalText": "Oh, um... Do you not have a shield?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 231,
           "OriginalText": "\nYou need a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 235,
@@ -355,8 +327,7 @@
         {
           "Line": 238,
           "OriginalText": "if you want to go\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 242,
@@ -367,8 +338,7 @@
         {
           "Line": 245,
           "OriginalText": "surfing.\nFor ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 249,
@@ -379,14 +349,12 @@
         {
           "Line": 252,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 256,
           "OriginalText": " I can give you a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 260,
@@ -397,31 +365,28 @@
         {
           "Line": 263,
           "OriginalText": ".\nWhat do you think?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_07",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 280,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 284,
           "OriginalText": " If you are hoping to cross the\nvast Gerudo Desert,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 288,
           "OriginalText": " a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 292,
@@ -432,8 +397,7 @@
         {
           "Line": 295,
           "OriginalText": " is a\nmust! It\u0027d be sealy not to have one!\nIt\u0027s only ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 299,
@@ -444,14 +408,12 @@
         {
           "Line": 302,
           "OriginalText": " to rent one!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 306,
           "OriginalText": "\nNeed a shield, too? Just pay ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 310,
@@ -462,42 +424,39 @@
         {
           "Line": 313,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 317,
           "OriginalText": "\nWhat do you say?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_08",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 336,
           "OriginalText": "Seal you another time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 340,
           "OriginalText": "\nSav\u0027orq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_09",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 349,
           "OriginalText": "Anyway... The Gerudo Desert is vast.\nIt\u0027d be a sealious mistake not to take a\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 353,
@@ -508,30 +467,29 @@
         {
           "Line": 356,
           "OriginalText": " if you\u0027re traveling out of town.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_10",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 370,
           "OriginalText": "They say practice makes perfect, so why\nnot just try for yourself?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_11",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 389,
           "OriginalText": "Hrm. I seal a problem, though... It looks\nlike you haven\u0027t got enough to pay the\nrental fee.\nYou know, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 393,
@@ -542,25 +500,23 @@
         {
           "Line": 396,
           "OriginalText": " care isn\u0027t cheap...\nI hate to say it, but you can\u0027t rent one if\nyou can\u0027t afford it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_12",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 405,
           "OriginalText": "Oh, um... I seal a problem... Do you not\nhave a shield?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 409,
           "OriginalText": " You need a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 413,
@@ -571,8 +527,7 @@
         {
           "Line": 416,
           "OriginalText": "if you\nwant to go ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 420,
@@ -583,8 +538,7 @@
         {
           "Line": 423,
           "OriginalText": "surfing.\nFor ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 427,
@@ -595,14 +549,12 @@
         {
           "Line": 430,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 434,
           "OriginalText": " I can give you a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 438,
@@ -613,48 +565,44 @@
         {
           "Line": 441,
           "OriginalText": ".\nWhat do you think?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_13",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 463,
           "OriginalText": "They say practice makes perfect, so why\nnot just try for yourself? I doubt\nanything will go sealiously wrong.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_14",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 482,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 486,
           "OriginalText": " You came! Sarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 490,
           "OriginalText": " If you are\nhoping to cross the vast Gerudo Desert,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 494,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 498,
@@ -665,14 +613,12 @@
         {
           "Line": 501,
           "OriginalText": " surfing is the way to do it!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 507,
           "OriginalText": "It\u0027s only ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 511,
@@ -683,14 +629,12 @@
         {
           "Line": 514,
           "OriginalText": " to rent one!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 518,
           "OriginalText": "\nNeed a shield, too? Just pay ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 522,
@@ -701,25 +645,23 @@
         {
           "Line": 525,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 529,
           "OriginalText": "\nWhat do you say?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_15",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 548,
           "OriginalText": "So you do want to ride after all? It\u0027s only\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 552,
@@ -730,14 +672,12 @@
         {
           "Line": 555,
           "OriginalText": " to rent one!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 559,
           "OriginalText": " Need a shield,\ntoo? Just pay ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 563,
@@ -748,92 +688,88 @@
         {
           "Line": 566,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_16",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 590,
           "OriginalText": "\u0022Practice makes perfect!\u0022",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 594,
           "OriginalText": " That\u0027s right!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_17",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 613,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_18",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 625,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_19",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 637,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_20",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 649,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 653,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 659,
           "OriginalText": "Oh, wow... Don\u0027t tell me you crossed the\nGerudo Desert",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 663,
           "OriginalText": " on foot?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_21",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 683,
@@ -844,71 +780,65 @@
         {
           "Line": 686,
           "OriginalText": " are especially sensitive to the\nsounds around them. The trick is to\napproach very, very slowly...\nIt\u0027s a pain in the neck, though, so most\nGerudo just end up renting one instead.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_22",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 695,
           "OriginalText": "You know, the best way for you to learn\nhow to do this is by just doing it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_23",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 714,
           "OriginalText": "If you\u0027re having a hard time catching\none,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 718,
           "OriginalText": " come by my shop in Gerudo Town.\nI rent out sand seals and...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 722,
           "OriginalText": "oh.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 728,
           "OriginalText": "You\u0027re a voe...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 732,
           "OriginalText": "\nMy shop is inside the town walls,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 736,
           "OriginalText": " so\nyou won\u0027t be able to get in...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_25",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 745,
-          "OriginalText": "Must have been hard to walk through the\ndesert\u2014especially having your feet sink\ninto the sand.\nIt\u0027s common sense to travel the desert \nwith ",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Must have been hard to walk through the\ndesert—especially having your feet sink\ninto the sand.\nIt\u0027s common sense to travel the desert \nwith ",
+          "TranslatedText": null
         },
         {
           "Line": 749,
@@ -919,14 +849,12 @@
         {
           "Line": 752,
           "OriginalText": "around here. \n\nMy name is Frelly.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 756,
           "OriginalText": "\nI run a shop in Gerudo Town where I rent\nout ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 760,
@@ -937,8 +865,7 @@
         {
           "Line": 763,
           "OriginalText": ".\nMost people can\u0027t take the time to train\ntheir own ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 767,
@@ -949,20 +876,17 @@
         {
           "Line": 770,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 774,
           "OriginalText": " so I rent out the\nones I\u0027ve trained!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 780,
           "OriginalText": "If you need to know anything about\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 784,
@@ -973,13 +897,13 @@
         {
           "Line": 787,
           "OriginalText": ", I should be your first stop.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_26",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 799,
@@ -990,8 +914,7 @@
         {
           "Line": 802,
           "OriginalText": " are animals native to the\nGerudo Desert Gateway.\n\nIt\u0027s quite dangerous to cross the desert\non foot, but if you have a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 806,
@@ -1002,8 +925,7 @@
         {
           "Line": 809,
           "OriginalText": ",\nyou\u0027ll breeze right along!\nObviously, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 813,
@@ -1014,19 +936,18 @@
         {
           "Line": 816,
           "OriginalText": " are incredibly\nimportant to the Gerudo people.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_27",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 830,
           "OriginalText": "Catching them is really tough work. It\u0027s\nmuch easier to save yourself some time\nand just rent one instead!\nMy shop in Gerudo Town has a big\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 834,
@@ -1037,19 +958,18 @@
         {
           "Line": 837,
           "OriginalText": "on it. Just look for\nthat, and you\u0027ll find me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_28",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 846,
           "OriginalText": "Wow... A Hylian voe who has mastered\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 850,
@@ -1060,25 +980,23 @@
         {
           "Line": 853,
           "OriginalText": " surfing?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 859,
           "OriginalText": "I didn\u0027t think it was possible.\nI\u0027m speechless! I think I may need a\nmoment...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_29",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 868,
           "OriginalText": "If you have any questions about\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 872,
@@ -1089,37 +1007,33 @@
         {
           "Line": 875,
           "OriginalText": ", come talk to me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 879,
           "OriginalText": " I\u0027m quite\nskilled at training them!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_30",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 898,
           "OriginalText": "Phew. Anyway...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 902,
           "OriginalText": " \n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 908,
           "OriginalText": "I bet it was a real challenge to catch\na ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 912,
@@ -1130,20 +1044,17 @@
         {
           "Line": 915,
           "OriginalText": ", wasn\u0027t it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 919,
           "OriginalText": "\n\nMy name is Frelly.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 923,
           "OriginalText": "\nI run a shop in Gerudo Town where I rent\nout ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 927,
@@ -1154,8 +1065,7 @@
         {
           "Line": 930,
           "OriginalText": ".\nMost people can\u0027t take the time to train\ntheir own ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 934,
@@ -1166,20 +1076,17 @@
         {
           "Line": 937,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 941,
           "OriginalText": " so I rent out the\nones I\u0027ve trained!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 947,
           "OriginalText": "If you need to know anything about\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 951,
@@ -1190,19 +1097,18 @@
         {
           "Line": 954,
           "OriginalText": ", I should be your first stop.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_31",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 963,
           "OriginalText": "Wow... A Hylian vai who has mastered\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 967,
@@ -1213,14 +1119,12 @@
         {
           "Line": 970,
           "OriginalText": "surfing? Impressive...\n\nMy name is Frelly.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 974,
           "OriginalText": "\nI run a shop in Gerudo Town where I rent\nout ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 978,
@@ -1231,8 +1135,7 @@
         {
           "Line": 981,
           "OriginalText": ".\nMost people can\u0027t take the time to train\ntheir own ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 985,
@@ -1243,20 +1146,17 @@
         {
           "Line": 988,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 992,
           "OriginalText": " so I rent out the\nones I\u0027ve trained!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 998,
           "OriginalText": "If you need to know anything about\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1002,
@@ -1267,13 +1167,13 @@
         {
           "Line": 1005,
           "OriginalText": ", I should be your first stop.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_32",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1017,
@@ -1284,8 +1184,7 @@
         {
           "Line": 1020,
           "OriginalText": "are an important means of\ntransportation for the Gerudo. \n\nBut the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1024,
@@ -1296,14 +1195,12 @@
         {
           "Line": 1027,
           "OriginalText": " in the wild haven\u0027t \nbeen trained. This makes them especially\ntough to catch.\nMany people find it easier just to rent\none...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1033,
           "OriginalText": "And that\u0027s where a skilled ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1037,
@@ -1314,8 +1211,7 @@
         {
           "Line": 1040,
           "OriginalText": "\ntrainer like me comes in!\n\nCome talk to me if you have any \nquestions about ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1044,
@@ -1326,19 +1222,18 @@
         {
           "Line": 1047,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_34",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1066,
           "OriginalText": "Steering a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1070,
@@ -1348,15 +1243,13 @@
         },
         {
           "Line": 1073,
-          "OriginalText": " is really easy\u2014\nthey\u0027ll go in whatever direction\nyou want.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": " is really easy—\nthey\u0027ll go in whatever direction\nyou want.",
+          "TranslatedText": null
         },
         {
           "Line": 1077,
           "OriginalText": " But!\nYou need a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1081,
@@ -1367,19 +1260,18 @@
         {
           "Line": 1084,
           "OriginalText": " to sand-seal surf,\nso don\u0027t forget about that.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_35",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1093,
           "OriginalText": "Once you get ahold of a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1097,
@@ -1390,99 +1282,92 @@
         {
           "Line": 1100,
           "OriginalText": ", all\nyou need to do is guide it in the\ndirection you want to go!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_37",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1109,
           "OriginalText": "I\u0027m sorry, but can you give me a minute?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1113,
           "OriginalText": "\nI\u0027ve still got to open up shop.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_38",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1122,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1126,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1132,
           "OriginalText": "Oh, wow... Don\u0027t tell me you crossed the\nGerudo Desert",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1136,
           "OriginalText": " on foot?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_39",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1153,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1157,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1163,
           "OriginalText": "Oh, wow... Don\u0027t tell me you crossed the\nGerudo Desert",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1167,
           "OriginalText": " on foot?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_40",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1184,
           "OriginalText": "Just giving it a shot is best, but if there\u0027s\nanything you don\u0027t get, let me know!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_41",
+      "NPC": "Frelly",
       "TextList": [
         {
           "Line": 1206,
@@ -1493,8 +1378,7 @@
         {
           "Line": 1209,
           "OriginalText": " are animals native to the\nGerudo Desert Gateway.\n\nIt\u0027s quite dangerous to cross the desert\non foot, but if you have a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1213,
@@ -1505,8 +1389,7 @@
         {
           "Line": 1216,
           "OriginalText": ",\nyou\u0027ll breeze right along!\nObviously, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1220,
@@ -1517,8 +1400,7 @@
         {
           "Line": 1223,
           "OriginalText": " are incredibly\nimportant to the Gerudo people.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

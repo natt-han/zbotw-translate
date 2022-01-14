@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Yep.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Nope.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Right, right.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Sounds...weird.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Beauties?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Sounds tough.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Princess?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Great Calamity?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "\u0022Checkin\u0027 out?\u0022",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 44,
           "OriginalText": "Bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,8 +107,7 @@
         {
           "Line": 48,
           "OriginalText": "Do you know Prima?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -128,8 +117,7 @@
         {
           "Line": 52,
           "OriginalText": "I talked to Prima.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -139,8 +127,7 @@
         {
           "Line": 56,
           "OriginalText": "I got the goods!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -150,30 +137,29 @@
         {
           "Line": 60,
           "OriginalText": "Are you...checkin\u0027?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 64,
           "OriginalText": "*mumble mumble*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 73,
           "OriginalText": "Whoa! I haven\u0027t seen that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 77,
@@ -184,19 +170,18 @@
         {
           "Line": 80,
           "OriginalText": " in\na long time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 89,
           "OriginalText": "Ever stayed at the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 93,
@@ -207,103 +192,99 @@
         {
           "Line": 96,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 113,
           "OriginalText": "Makes no difference to me, but...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 122,
           "OriginalText": "If you\u0027re not staying there, then...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 131,
           "OriginalText": "I\u0027m supposed to check out everyone who\ncomes into town.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 148,
           "OriginalText": "Thought so.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 157,
           "OriginalText": "I know things have been peaceful \nrecently, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 161,
           "OriginalText": "but the outside world is\nstill pretty dangerous, yeah?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 167,
-          "OriginalText": "So I gotta check and make sure if any\nbeauties\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "So I gotta check and make sure if any\nbeauties—",
+          "TranslatedText": null
         },
         {
           "Line": 171,
-          "OriginalText": "er, I mean\u2014suspicious\nfolks have come around here.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "er, I mean—suspicious\nfolks have come around here.",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 188,
           "OriginalText": "YOUR job is weird.\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 194,
           "OriginalText": "...Whatever it is you do.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 209,
@@ -315,123 +296,121 @@
     },
     {
       "EntryName": "talk09",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 223,
           "OriginalText": "Yeah. It is a tough job! I\u0027m over here\nmakin\u0027 it look easy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 232,
           "OriginalText": "Don\u0027t matter if it\u0027s rain or dark or\nwhatever else, I gotta check\neveryone out...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 241,
           "OriginalText": "This is totally unrelated, but this village\nhas its share of beauties, huh?\nLike Prima at the Ton Pu Inn.\nI bet that Purah",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 245,
           "OriginalText": " was a looker when she\nwas young too, y\u0027know?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 254,
           "OriginalText": "Checkin\u0027 everyone out today, too. The\ncheckin\u0027 just never stops...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 263,
           "OriginalText": "Night or day, don\u0027t matter. Gotta check\neveryone out...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 272,
           "OriginalText": "Even in the rain, still gotta check\neveryone out...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 281,
           "OriginalText": "You need somethin\u0027?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 344,
           "OriginalText": "Yeah?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 353,
           "OriginalText": "See ya later.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 362,
-          "OriginalText": "Just checking out the beauties\u2014\ner, I mean tourists\u2014er, I mean\u2014\nsuspicious folk! ",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Just checking out the beauties—\ner, I mean tourists—er, I mean—\nsuspicious folk! ",
+          "TranslatedText": null
         },
         {
           "Line": 366,
           "OriginalText": "That\u0027s what I\u0027m doing!\nWell...if we\u0027re gonna talk about beauties,\nthough, no one can hold a candle to\nPrima, y\u0027know?\nThey say the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 370,
@@ -442,8 +421,7 @@
         {
           "Line": 373,
           "OriginalText": " of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 377,
@@ -454,31 +432,28 @@
         {
           "Line": 380,
           "OriginalText": "\nwho lived 100 years ago was super\npretty, too.\nMaybe she coulda given Prima a run for\nher beauty, but that\u0027s the level we\u0027re\ntalkin\u0027 about here.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 389,
           "OriginalText": "Really?! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 393,
           "OriginalText": "Are you serious?\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 399,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 403,
@@ -489,8 +464,7 @@
         {
           "Line": 406,
           "OriginalText": " of Hyrule Castle who got\nswallowed up by the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 410,
@@ -501,8 +475,7 @@
         {
           "Line": 413,
           "OriginalText": "!\n\nThat\u0027s the only reason we got peace here\nnow. We really owe that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 417,
@@ -513,19 +486,18 @@
         {
           "Line": 420,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 429,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 433,
@@ -536,14 +508,12 @@
         {
           "Line": 436,
           "OriginalText": "was that awful thing\nfrom 100 years ago! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 440,
           "OriginalText": "You been asleep\ninside a cave or somethin\u0027?!\nSome people will say it was some kind\nof ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 444,
@@ -554,14 +524,12 @@
         {
           "Line": 447,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 451,
           "OriginalText": " Others say it was like some\nkind of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 455,
@@ -572,41 +540,40 @@
         {
           "Line": 458,
           "OriginalText": "or something.\nI didn\u0027t see it myself, so I don\u0027t really\nknow. But the old timers around here\nmight know more about it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk23",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 467,
           "OriginalText": "What is it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk24",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 508,
           "OriginalText": "You need anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk25",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 549,
           "OriginalText": "If you\u0027re lucky enough to stay at the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 553,
@@ -617,36 +584,34 @@
         {
           "Line": 556,
           "OriginalText": ", you\u0027ll see what I mean.\nSay hullo to Prima for me if you do.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 560,
           "OriginalText": "Not that she even knows who I am...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk26",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 572,
           "OriginalText": "That\u0027s Ms. Prima to you! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 581,
           "OriginalText": "You ever been\nto the inn here?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk28",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 596,
@@ -664,12 +629,12 @@
     },
     {
       "EntryName": "talk29",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 614,
           "OriginalText": "What kind of gift do you think Prima at\nthe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 618,
@@ -680,37 +645,33 @@
         {
           "Line": 621,
           "OriginalText": "would want? Just take\na guess.\nIt\u0027s not for me, you understand.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 625,
           "OriginalText": "\nIt\u0027s for...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 629,
           "OriginalText": "my buddy\u0027s friend.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk30",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 638,
           "OriginalText": "What? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 642,
           "OriginalText": "Prima told you what she wants?!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 654,
@@ -733,31 +694,28 @@
         {
           "Line": 676,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 688,
           "OriginalText": "*ahem*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 692,
           "OriginalText": " I mean, that\u0027s cool, that\u0027s cool...\n\n\nSO THEN, WHAT IS IT?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk31",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 701,
           "OriginalText": "You have some ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 705,
@@ -768,14 +726,12 @@
         {
           "Line": 708,
           "OriginalText": "\nalready?! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 712,
           "OriginalText": "Wow, that was fast!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 724,
@@ -787,29 +743,28 @@
     },
     {
       "EntryName": "talk32",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 738,
           "OriginalText": "You really got them?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 742,
           "OriginalText": " I thought you\nwere just messing with me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk33",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 751,
           "OriginalText": "...Uh, I\u0027m no counting scientist, but I\nthink that\u0027s less than ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 755,
@@ -820,31 +775,28 @@
         {
           "Line": 758,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 764,
           "OriginalText": "C\u0027mon, man! I got a date with Prima\nriding on this! Help me out.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk34",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 773,
           "OriginalText": "OK, so... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 777,
           "OriginalText": "Hrm...\n\n\nYup, that\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 781,
@@ -855,30 +807,29 @@
         {
           "Line": 784,
           "OriginalText": ". Thanks, I\u0027ll take \u0027em.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk35",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 793,
           "OriginalText": "A little somethin\u0027 for your troubles...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk36",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 807,
           "OriginalText": "Prima wants ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 816,
@@ -889,8 +840,7 @@
         {
           "Line": 819,
           "OriginalText": "? And ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 823,
@@ -901,20 +851,17 @@
         {
           "Line": 826,
           "OriginalText": "?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 830,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 836,
           "OriginalText": "Hahaha! What a small world!\n\nI love ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 840,
@@ -925,8 +872,7 @@
         {
           "Line": 843,
           "OriginalText": "! I\u0027m a\nconnoisseur of them! \n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 853,
@@ -937,14 +883,12 @@
         {
           "Line": 859,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 865,
           "OriginalText": "But catching ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 869,
@@ -955,20 +899,17 @@
         {
           "Line": 872,
           "OriginalText": " of them is gonna be\ntough.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 876,
           "OriginalText": " Think you could help me get\nstarted on those?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 882,
           "OriginalText": "How about you get me...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 886,
@@ -979,31 +920,28 @@
         {
           "Line": 889,
           "OriginalText": " of them? I\u0027ll\nget you something nice for your trouble.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk37",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 898,
           "OriginalText": "Right then! I\u0027ll go ahead and catch the\nrest of \u0027em.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 904,
           "OriginalText": "Then I\u0027ll take \u0027em to Prima",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 908,
           "OriginalText": " and we\u0027ll have\nthat d-d-date...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 920,
@@ -1015,52 +953,49 @@
     },
     {
       "EntryName": "talk38",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 934,
           "OriginalText": "There\u0027s weird, suspicious folks out there!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 938,
           "OriginalText": "\nSo I gotta check everyone out to make\nsure no one dangerous gets through.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 944,
           "OriginalText": "I\u0027m volunteerin\u0027 my own time because\nit\u0027s an important service for the village.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk39",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 953,
           "OriginalText": "That\u0027s Purah\u0027s, right? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 957,
           "OriginalText": "I haven\u0027t seen her\nin a while. Wonder how she\u0027s doing...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk40",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 966,
           "OriginalText": "That\u0027s the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 970,
@@ -1071,19 +1006,18 @@
         {
           "Line": 973,
           "OriginalText": "\u0027s, right? I wonder\nhow they\u0027re all doin\u0027 up there...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk41",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 982,
           "OriginalText": "Well, lemme see those ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 986,
@@ -1094,30 +1028,29 @@
         {
           "Line": 989,
           "OriginalText": "\nyou caught!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk42",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 998,
           "OriginalText": "I already told you, that\u0027s Ms. Prima!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk43",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 1007,
           "OriginalText": "Prima works at the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1011,
@@ -1128,19 +1061,18 @@
         {
           "Line": 1014,
           "OriginalText": ". She\u0027s\nthe lady at the front desk.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk44",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 1023,
           "OriginalText": "Prima is the clerk over at the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1027,
@@ -1151,19 +1083,18 @@
         {
           "Line": 1030,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk45",
+      "NPC": "Manny",
       "TextList": [
         {
           "Line": 1039,
           "OriginalText": "Hrm?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

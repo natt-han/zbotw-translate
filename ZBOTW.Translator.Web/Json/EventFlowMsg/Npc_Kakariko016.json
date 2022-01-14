@@ -3,40 +3,39 @@
   "EntryList": [
     {
       "EntryName": "SupriseHouse",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "Argh! Who\u0027s there?!",
-          "TranslatedText": "Argh! ใครน่ะ?!",
-          "Colour": null
+          "TranslatedText": "Argh! ใครน่ะ?!"
         }
       ]
     },
     {
       "EntryName": "SupriseHouse_00",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 22,
           "OriginalText": "Oh! ",
-          "TranslatedText": "โอ้! ",
-          "Colour": null
+          "TranslatedText": "โอ้! "
         },
         {
           "Line": 26,
           "OriginalText": "It\u0027s Mr. Hero...\n\n\n",
-          "TranslatedText": "คูรผู้กล้านี่เอง...\n",
-          "Colour": null
+          "TranslatedText": "คูรผู้กล้านี่เอง...\n"
         },
         {
           "Line": 30,
           "OriginalText": "You scared me half to death...",
-          "TranslatedText": "ทำฉันหัวใจจะวายแน่ะ...",
-          "Colour": null
+          "TranslatedText": "ทำฉันหัวใจจะวายแน่ะ..."
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 45,
@@ -47,59 +46,55 @@
         {
           "Line": 48,
           "OriginalText": " is open for business every\nday of the year!",
-          "TranslatedText": " เปิดทำการทุกวันจ้า!",
-          "Colour": null
+          "TranslatedText": " เปิดทำการทุกวันจ้า!"
         },
         {
           "Line": 52,
           "OriginalText": "\n\n...Oh, my.",
-          "TranslatedText": "\n...โอ๊ะ",
-          "Colour": null
+          "TranslatedText": "\n...โอ๊ะ"
         },
         {
           "Line": 56,
           "OriginalText": " Look at that face!\nYou are TOTALLY my type.\nHi.",
-          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลย \nสวัสดี",
-          "Colour": null
+          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลย \nสวัสดี"
         }
       ]
     },
     {
       "EntryName": "Talk_02",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 68,
           "OriginalText": "A Sheikah Slate?!",
-          "TranslatedText": "Sheikah Slate?!",
-          "Colour": null
+          "TranslatedText": "Sheikah Slate?!"
         }
       ]
     },
     {
       "EntryName": "Talk_03",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 80,
           "OriginalText": "Isn\u0027t that, like...",
-          "TranslatedText": "นั่นมัน...",
-          "Colour": null
+          "TranslatedText": "นั่นมัน..."
         },
         {
           "Line": 84,
           "OriginalText": "an incredible thing that\nonly incredible people can have?",
-          "TranslatedText": "ไม่ใช่ของสุดยอด\nที่มีเพียงคนที่สุดยอดจะมีหรอกเหรอ?",
-          "Colour": null
+          "TranslatedText": "ไม่ใช่ของสุดยอด\nที่มีเพียงคนที่สุดยอดจะมีหรอกเหรอ?"
         }
       ]
     },
     {
       "EntryName": "Talk_04",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 93,
           "OriginalText": "We\u0027re open rain or shine!\n",
-          "TranslatedText": "เราเปิดทุกวันไม่ว่าฝนตกหรือแดดออก!\n",
-          "Colour": null
+          "TranslatedText": "เราเปิดทุกวันไม่ว่าฝนตกหรือแดดออก!\n"
         },
         {
           "Line": 97,
@@ -110,19 +105,18 @@
         {
           "Line": 100,
           "OriginalText": ", right this way!",
-          "TranslatedText": ", ทางนี้เลย!",
-          "Colour": null
+          "TranslatedText": ", ทางนี้เลย!"
         }
       ]
     },
     {
       "EntryName": "Talk_05",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 109,
           "OriginalText": "We\u0027re open every day!\n",
-          "TranslatedText": "เราเปิดทุกวันนะ!\n",
-          "Colour": null
+          "TranslatedText": "เราเปิดทุกวันนะ!\n"
         },
         {
           "Line": 113,
@@ -133,84 +127,74 @@
         {
           "Line": 116,
           "OriginalText": ", right this way!",
-          "TranslatedText": ", ทางนี้เลย!",
-          "Colour": null
+          "TranslatedText": ", ทางนี้เลย!"
         }
       ]
     },
     {
       "EntryName": "Talk_06",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 125,
           "OriginalText": "Good morniiing! You sure look chipper,\neven though the day\u0027s just begun!\n\nI\u0027m about to go into Claree\u0027s place.\nIf you\u0027re after some new threads,\nyou\u0027re welcome to come along.",
-          "TranslatedText": "อรุณสวัสด์จ้าาา! คุณนี่ดูร่าเริงจังนะ\nทั้งที่เช้าขนาดนี้!\nฉันกำลังจะไปร้านของ Claree\nถ้ากำลังมองหาเสื้อผ้าใหม่อยู่ละก็\nมาด้วยกันได้นะ",
-          "Colour": null
+          "TranslatedText": "อรุณสวัสด์จ้าาา! คุณนี่ดูร่าเริงจังนะ\nทั้งที่เช้าขนาดนี้!\nฉันกำลังจะไปร้านของ Claree\nถ้ากำลังมองหาเสื้อผ้าใหม่อยู่ละก็\nมาด้วยกันได้นะ"
         }
       ]
     },
     {
       "EntryName": "Talk_09",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 134,
           "OriginalText": "...",
-          "TranslatedText": "...",
-          "Colour": null
+          "TranslatedText": "..."
         },
         {
           "Line": 138,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 144,
           "OriginalText": "HEY!",
-          "TranslatedText": "เฮ้!",
-          "Colour": null
+          "TranslatedText": "เฮ้!"
         },
         {
           "Line": 148,
           "OriginalText": " How could you BE so rude!\nBothering a lady in her room!",
-          "TranslatedText": " ทำไมหยาบคายขนาดนี้!\nมารบกวนหญิงสาวถึงห้องเนี่ยนะ!",
-          "Colour": null
+          "TranslatedText": " ทำไมหยาบคายขนาดนี้!\nมารบกวนหญิงสาวถึงห้องเนี่ยนะ!"
         },
         {
           "Line": 152,
           "OriginalText": "\nAnd AT NIGHT of all times!\n...",
-          "TranslatedText": "\nแล้วยังดึกขนาดนี้อีก!\n...",
-          "Colour": null
+          "TranslatedText": "\nแล้วยังดึกขนาดนี้อีก!\n..."
         },
         {
           "Line": 156,
           "OriginalText": "\n...",
-          "TranslatedText": "\n...",
-          "Colour": null
+          "TranslatedText": "\n..."
         },
         {
           "Line": 160,
           "OriginalText": "\n...Huh?",
-          "TranslatedText": "\n...หือ?",
-          "Colour": null
+          "TranslatedText": "\n...หือ?"
         },
         {
           "Line": 164,
           "OriginalText": "\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 170,
           "OriginalText": "Isn\u0027t that...",
-          "TranslatedText": "นั่นมัน...",
-          "Colour": null
+          "TranslatedText": "นั่นมัน..."
         },
         {
           "Line": 174,
           "OriginalText": "a ",
-          "TranslatedText": "a ",
-          "Colour": null
+          "TranslatedText": "a "
         },
         {
           "Line": 178,
@@ -221,79 +205,68 @@
         {
           "Line": 181,
           "OriginalText": "?\n\n\nAre you the hero Grandmother told me\nabout?",
-          "TranslatedText": "?\nคุณเป็นผู้กล้าที่ท่านย่าพูดถึงเหรอ?\n",
-          "Colour": null
+          "TranslatedText": "?\nคุณเป็นผู้กล้าที่ท่านย่าพูดถึงเหรอ?\n"
         },
         {
           "Line": 185,
           "OriginalText": " The legendary swordsman...",
-          "TranslatedText": " นักดาบในตำนาน...",
-          "Colour": null
+          "TranslatedText": " นักดาบในตำนาน..."
         },
         {
           "Line": 189,
           "OriginalText": "\nof the Great Calamity?\n",
-          "TranslatedText": "\nแห่ง Great Calamity?\n",
-          "Colour": null
+          "TranslatedText": "\nแห่ง Great Calamity?\n"
         },
         {
           "Line": 195,
           "OriginalText": "WOW!",
-          "TranslatedText": "ว้าว!",
-          "Colour": null
+          "TranslatedText": "ว้าว!"
         },
         {
           "Line": 199,
           "OriginalText": " I figured you\u0027d be all old and\nwrinkly by now. ",
-          "TranslatedText": " ฉันนึกว่าคุณจะแก่และ\nก็หน้าเหี่ยวแล้วซะอีก ",
-          "Colour": null
+          "TranslatedText": " ฉันนึกว่าคุณจะแก่และ\nก็หน้าเหี่ยวแล้วซะอีก "
         },
         {
           "Line": 203,
           "OriginalText": "But you SO are not...\n\nYoung people like me have a hard time\nwrapping our heads around something\nlike the Great Calamity.\n",
-          "TranslatedText": "แต่ไม่เลยนี่...\nคนหนุ่มสาวอย่างฉันเนี่ย ไม่ค่อยเข้าใจ\nเรื่องอยาก Great Calamity กันหรอก\n",
-          "Colour": null
+          "TranslatedText": "แต่ไม่เลยนี่...\nคนหนุ่มสาวอย่างฉันเนี่ย ไม่ค่อยเข้าใจ\nเรื่องอยาก Great Calamity กันหรอก\n"
         },
         {
           "Line": 209,
           "OriginalText": "Huh... Judging by the look on your face,\nI dare say you\u0027re having a hard time\nwith it too.",
-          "TranslatedText": "หือ... ดูจากหน้าคุณแล้ว\nฉันกล้าพูดว่าคุณก็น่าจะคิดเหมือนกันนะ",
-          "Colour": null
+          "TranslatedText": "หือ... ดูจากหน้าคุณแล้ว\nฉันกล้าพูดว่าคุณก็น่าจะคิดเหมือนกันนะ"
         }
       ]
     },
     {
       "EntryName": "Talk_10",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 218,
           "OriginalText": "Oh! You\u0027re paying me a visit?\nThat\u0027s sweet of you.\n\n",
-          "TranslatedText": "โอ้! คุณมาหาฉันเหรอ?\nน่ารักจังเลย\n",
-          "Colour": null
+          "TranslatedText": "โอ้! คุณมาหาฉันเหรอ?\nน่ารักจังเลย\n"
         },
         {
           "Line": 224,
           "OriginalText": "Ya know, I used to really love the night.\nAt night the world sparkles and shines\nin an almost magical way. It\u0027s beautiful.\nOh, and fireflies are everywhere!",
-          "TranslatedText": "รู้มั้ย ฉันเคยชอบตอนกลางคืนมากเลยนะ\nตอนกลางคืนโลกจะมีประกายแสง\nราวกับเวทย์มนต์ มันสวยงาม\nอ้อ แล้วก็มีหิ่งห้อยเต็มไปหมด!",
-          "Colour": null
+          "TranslatedText": "รู้มั้ย ฉันเคยชอบตอนกลางคืนมากเลยนะ\nตอนกลางคืนโลกจะมีประกายแสง\nราวกับเวทย์มนต์ มันสวยงาม\nอ้อ แล้วก็มีหิ่งห้อยเต็มไปหมด!"
         },
         {
           "Line": 228,
           "OriginalText": "\nThough trying to sneak up on and\ncatch them is quite a challenge.\n",
-          "TranslatedText": "\nแต่ว่าการพยายามจะจับมันนี่ยากมากเลย\n",
-          "Colour": null
+          "TranslatedText": "\nแต่ว่าการพยายามจะจับมันนี่ยากมากเลย\n"
         },
         {
           "Line": 234,
           "OriginalText": "There were times when I\u0027d stay out so\nlate, I didn\u0027t realize morning had come.\nGrandmother always scolded me for that.\n",
-          "TranslatedText": "เคยมีครั้งที่ฉันอยู่ข้างนอกจนเพลิน\nรู้ตัวอีกทีก็เช้าแล้ว\nฉันโดนคุณย่าว่าเรื่องนี้ตลอดเลย\n",
-          "Colour": null
+          "TranslatedText": "เคยมีครั้งที่ฉันอยู่ข้างนอกจนเพลิน\nรู้ตัวอีกทีก็เช้าแล้ว\nฉันโดนคุณย่าว่าเรื่องนี้ตลอดเลย\n"
         },
         {
           "Line": 240,
           "OriginalText": "But that\u0027s all in the past. Now there are\nmonsters around the village and rumors\nthat the ",
-          "TranslatedText": "แต่ว่านั่นก็เป็นเรื่องในอดีตแล้ว ตอนนี้\nมีมอนสเตอร์อยู่รอบหมู่บ้านและมีข่าวลือว่า\n",
-          "Colour": null
+          "TranslatedText": "แต่ว่านั่นก็เป็นเรื่องในอดีตแล้ว ตอนนี้\nมีมอนสเตอร์อยู่รอบหมู่บ้านและมีข่าวลือว่า\n"
         },
         {
           "Line": 244,
@@ -304,105 +277,97 @@
         {
           "Line": 247,
           "OriginalText": " is nearby and active...\n",
-          "TranslatedText": " ก็มาวนเวียนอยู่รอบๆ...\n",
-          "Colour": null
+          "TranslatedText": " ก็มาวนเวียนอยู่รอบๆ...\n"
         },
         {
           "Line": 253,
           "OriginalText": "That\u0027s why I\u0027m forced to lounge around\nat home instead of chasing the night.",
-          "TranslatedText": "ฉันก็เลยต้องมาอยู่อยู่ในบ้าน\nแทนที่จะออกไปเล่นข้างนอกตอนกลางคืน",
-          "Colour": null
+          "TranslatedText": "ฉันก็เลยต้องมาอยู่อยู่ในบ้าน\nแทนที่จะออกไปเล่นข้างนอกตอนกลางคืน"
         },
         {
           "Line": 257,
           "OriginalText": "\n*sigh*",
-          "TranslatedText": "\nเฮ้อ",
-          "Colour": null
+          "TranslatedText": "\nเฮ้อ"
         },
         {
           "Line": 261,
           "OriginalText": " I wish I could do something...",
-          "TranslatedText": " ฉันหวังว่าจะทำอะไรได้บ้าง...",
-          "Colour": null
+          "TranslatedText": " ฉันหวังว่าจะทำอะไรได้บ้าง..."
         }
       ]
     },
     {
       "EntryName": "Talk_11",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 270,
           "OriginalText": "The fireflies were so pretty...",
-          "TranslatedText": "พวกหิ่งห้อยมันสวยมาก...",
-          "Colour": null
+          "TranslatedText": "พวกหิ่งห้อยมันสวยมาก..."
         },
         {
           "Line": 274,
           "OriginalText": "\nI didn\u0027t think I\u0027d ever see them again.",
-          "TranslatedText": "\nฉันไม่คิดว่าจะได้เห็นมันอีกครั้ง",
-          "Colour": null
+          "TranslatedText": "\nฉันไม่คิดว่าจะได้เห็นมันอีกครั้ง"
         },
         {
           "Line": 278,
           "OriginalText": "\nThank you, Mr. Hero.",
-          "TranslatedText": "\nขอบคุณนะ คุณผู้กล้า",
-          "Colour": null
+          "TranslatedText": "\nขอบคุณนะ คุณผู้กล้า"
         }
       ]
     },
     {
       "EntryName": "Talk_12",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 287,
           "OriginalText": "I don\u0027t know why, ",
-          "TranslatedText": "ไม่รู้ว่าทำไม ",
-          "Colour": null
+          "TranslatedText": "ไม่รู้ว่าทำไม "
         },
         {
           "Line": 291,
           "OriginalText": "but seeing fireflies\nalways warms my heart...",
-          "TranslatedText": "แต่พอได้เห็นหิ่งห้อย\nแล้วรู้สึกอบอุ่นใจเสมอเลย...",
-          "Colour": null
+          "TranslatedText": "แต่พอได้เห็นหิ่งห้อย\nแล้วรู้สึกอบอุ่นใจเสมอเลย..."
         }
       ]
     },
     {
       "EntryName": "Talk_13",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 300,
           "OriginalText": "Oh, my! It\u0027s already so dark!\nI\u0027ve gotta get back home right away,\nor Grandmother will scold me!",
-          "TranslatedText": "อ้าว! มืดขนาดนี้แล้ว!\nฉันต้องกลับบ้านทันที ไม่งั้นโดนย่าดุแน่!",
-          "Colour": null
+          "TranslatedText": "อ้าว! มืดขนาดนี้แล้ว!\nฉันต้องกลับบ้านทันที ไม่งั้นโดนย่าดุแน่!"
         }
       ]
     },
     {
       "EntryName": "Talk_14",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 309,
           "OriginalText": "Wow, the fireflies were gorgeous today.\nI love that you can see them all year\nlong in this village.\nBut...they\u0027re really hard to catch.\nI was pretty good at it when I was\na kid, though.",
-          "TranslatedText": "ว้าว พวกหิ่งห้อยสวยเหลือเกินวันนี้\nฉันชอบที่หมู่บ้านนี้สามารถเห็นพวกมันได้ตลอดทั้งปี\nแต่ว่า...พวกมันจับได้ยากมากเลย\nฉันค่อนข้างจับเก่งนะ สมัยยังเด็กน่ะ",
-          "Colour": null
+          "TranslatedText": "ว้าว พวกหิ่งห้อยสวยเหลือเกินวันนี้\nฉันชอบที่หมู่บ้านนี้สามารถเห็นพวกมันได้ตลอดทั้งปี\nแต่ว่า...พวกมันจับได้ยากมากเลย\nฉันค่อนข้างจับเก่งนะ สมัยยังเด็กน่ะ"
         }
       ]
     },
     {
       "EntryName": "Talk_15",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 318,
           "OriginalText": "I used to go out at night to catch\nfireflies. They fly away quickly, so you \nhave to sneak up on them slowly.\nIt\u0027s more than fun...it\u0027s magical.\n\n\n",
-          "TranslatedText": "ฉันเคยออกไปข้างนอกตอนกลางคืนเพื่อจับ\nหิ่งห้อย พวกมันบินหนีเร็วมาก\nจะต้องค่อยๆ ย่องเข้าหาพวกมันจากด้านหลัง\nมันยิ่งกว่าสนุกอีกนะ...มันเหมือนเวทย์มนต\n",
-          "Colour": null
+          "TranslatedText": "ฉันเคยออกไปข้างนอกตอนกลางคืนเพื่อจับ\nหิ่งห้อย พวกมันบินหนีเร็วมาก\nจะต้องค่อยๆ ย่องเข้าหาพวกมันจากด้านหลัง\nมันยิ่งกว่าสนุกอีกนะ...มันเหมือนเวทย์มนต\n"
         },
         {
           "Line": 324,
           "OriginalText": "But that\u0027s all in the past. Now there are\nmonsters around the village and rumors\nthat the ",
-          "TranslatedText": "แต่ว่านั่นก็เป็นเรื่องในอดีตแล้ว ตอนนี้\nมีมอนสเตอร์อยู่รอบหมู่บ้านและมีข่าวลือว่า\n",
-          "Colour": null
+          "TranslatedText": "แต่ว่านั่นก็เป็นเรื่องในอดีตแล้ว ตอนนี้\nมีมอนสเตอร์อยู่รอบหมู่บ้านและมีข่าวลือว่า\n"
         },
         {
           "Line": 328,
@@ -413,105 +378,97 @@
         {
           "Line": 331,
           "OriginalText": " is nearby and active...\n",
-          "TranslatedText": " ก็มาวนเวียนอยู่รอบๆ...\n",
-          "Colour": null
+          "TranslatedText": " ก็มาวนเวียนอยู่รอบๆ...\n"
         },
         {
           "Line": 337,
           "OriginalText": "That\u0027s why I\u0027m forced to stay inside\nwhen it\u0027s dark instead of chasing the\nnight.",
-          "TranslatedText": "ฉันก็เลยต้องมาอยู่อยู่ในบ้าน\nแทนที่จะออกไปเล่นข้างนอกตอนกลางคืน\n",
-          "Colour": null
+          "TranslatedText": "ฉันก็เลยต้องมาอยู่อยู่ในบ้าน\nแทนที่จะออกไปเล่นข้างนอกตอนกลางคืน\n"
         },
         {
           "Line": 341,
           "OriginalText": " *sigh*",
-          "TranslatedText": " เฮ้อ",
-          "Colour": null
+          "TranslatedText": " เฮ้อ"
         },
         {
           "Line": 345,
           "OriginalText": " I wish I could do something.",
-          "TranslatedText": " ฉันหวังว่าจะทำอะไรได้บ้าง...",
-          "Colour": null
+          "TranslatedText": " ฉันหวังว่าจะทำอะไรได้บ้าง..."
         }
       ]
     },
     {
       "EntryName": "Talk_16",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 354,
           "OriginalText": "I saw some fireflies fireflying around,\nso now I\u0027m in a good mood and ready\nto face the day!\nI\u0027m gonna do my best to get lots of\ncustomers today! ",
-          "TranslatedText": "ฉันได้เห็นหิ่งห้อยบินไปมา\nตอนนี้ฉันก็เลยอารมณ์ดีพร้อมรับวันใหม่แล้ว!\nวันนี้ฉันจะพยายามเต็มที่เพื่อให้มี\nลูกค้าเยอะๆ! ",
-          "Colour": null
+          "TranslatedText": "ฉันได้เห็นหิ่งห้อยบินไปมา\nตอนนี้ฉันก็เลยอารมณ์ดีพร้อมรับวันใหม่แล้ว!\nวันนี้ฉันจะพยายามเต็มที่เพื่อให้มี\nลูกค้าเยอะๆ! "
         },
         {
           "Line": 358,
           "OriginalText": "Promise to come\nback again soon, Mr. Hero!",
-          "TranslatedText": "\nอย่าลืมแวะมาอีกนะ คุณผู้กล้า!",
-          "Colour": null
+          "TranslatedText": "\nอย่าลืมแวะมาอีกนะ คุณผู้กล้า!"
         }
       ]
     },
     {
       "EntryName": "Talk_20",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 367,
           "OriginalText": "We\u0027ve sold through all of our stock... \n\n\n",
-          "TranslatedText": "ของเราขายหมดแล้ว... \n",
-          "Colour": null
+          "TranslatedText": "ของเราขายหมดแล้ว... \n"
         },
         {
           "Line": 373,
           "OriginalText": "But don\u0027t worry! The lovely Claree\nis always happy to greet you.\nSee for yourself!",
-          "TranslatedText": "แต่ไม่ต้องห่วง! Claree\nยินดีต้อนรับคุณเสมอแหละ\nลองเข้าไปดูสิ!",
-          "Colour": null
+          "TranslatedText": "แต่ไม่ต้องห่วง! Claree\nยินดีต้อนรับคุณเสมอแหละ\nลองเข้าไปดูสิ!"
         }
       ]
     },
     {
       "EntryName": "Talk_21",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 382,
           "OriginalText": "Good morniiing!",
-          "TranslatedText": "อรุณสวัสดิ์จ้าาา!",
-          "Colour": null
+          "TranslatedText": "อรุณสวัสดิ์จ้าาา!"
         }
       ]
     },
     {
       "EntryName": "Talk_23",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 394,
           "OriginalText": "I can\u0027t believe it! I can see fireflies right\noutside my house! ",
-          "TranslatedText": "ไม่อยากเชื่อเลย! ฉันเจอหิ่งห้อยอยู่\nหน้าบ้านเลย! ",
-          "Colour": null
+          "TranslatedText": "ไม่อยากเชื่อเลย! ฉันเจอหิ่งห้อยอยู่\nหน้าบ้านเลย! "
         },
         {
           "Line": 398,
           "OriginalText": "Life doesn\u0027t get any\nbetter than this.\nI really owe you one... ",
-          "TranslatedText": "ชีวิตจะมีอะไรดีไปกว่านี้\nเป็นเพราะคุณเลย... ",
-          "Colour": null
+          "TranslatedText": "ชีวิตจะมีอะไรดีไปกว่านี้\nเป็นเพราะคุณเลย... "
         },
         {
           "Line": 402,
           "OriginalText": "Oh! Oh!\nI bet Claree would like a picture\nof this!",
-          "TranslatedText": "อ้อ! ใช่!\nฉันว่า Claree ต้องอยากได้รูปนี้แน่!",
-          "Colour": null
+          "TranslatedText": "อ้อ! ใช่!\nฉันว่า Claree ต้องอยากได้รูปนี้แน่!"
         }
       ]
     },
     {
       "EntryName": "Talk_25",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 411,
           "OriginalText": "We\u0027re open rain or shine!\n",
-          "TranslatedText": "เราเปิดทุกวันไม่ว่าฝนตกหรือแดดออก!\n",
-          "Colour": null
+          "TranslatedText": "เราเปิดทุกวันไม่ว่าฝนตกหรือแดดออก!\n"
         },
         {
           "Line": 415,
@@ -522,72 +479,64 @@
         {
           "Line": 418,
           "OriginalText": ", right this...",
-          "TranslatedText": ", ทางนี้...",
-          "Colour": null
+          "TranslatedText": ", ทางนี้..."
         },
         {
           "Line": 422,
           "OriginalText": "\nright this way...\n",
-          "TranslatedText": "\nทางนี้เลย...\n",
-          "Colour": null
+          "TranslatedText": "\nทางนี้เลย...\n"
         },
         {
           "Line": 428,
           "OriginalText": "Oh, my... What\u0027s this?",
-          "TranslatedText": "โอ๊ะ... อะไรกันเนี่ย?",
-          "Colour": null
+          "TranslatedText": "โอ๊ะ... อะไรกันเนี่ย?"
         },
         {
           "Line": 432,
           "OriginalText": " Look at that face!\nYou are TOTALLY my type. Hi.",
-          "TranslatedText": " \nคุณนี่สเป็คฉันเลย สวัสดีนะ",
-          "Colour": null
+          "TranslatedText": " \nคุณนี่สเป็คฉันเลย สวัสดีนะ"
         }
       ]
     },
     {
       "EntryName": "Talk_26",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 444,
           "OriginalText": "You must be kidding me...",
-          "TranslatedText": "คุณต้องล้อเล่นแน่...",
-          "Colour": null
+          "TranslatedText": "คุณต้องล้อเล่นแน่..."
         },
         {
           "Line": 448,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 457,
           "OriginalText": "I don\u0027t...know about that kind of stuff.\nBut I\u0027m pretty sure the hero of legend\nis on...like, a quest or something?\nI\u0027m, uh, running a clothing shop here...\nso stop by if you\u0027re looking for\nsomething cute to wear.",
-          "TranslatedText": "ฉันไม่ค่อยรู้เรื่องพวกนั้นหรอกนะ\nแต่ค่อนข้างแน่ใจว่าผู้กล้าในตำนาน\nน่าจะ...มีภารกิจ อะไรพวกนั้นมั้ย?\nฉัน เอ่อ เปิดร้านเสื้อผ้าอยู่ตรงนั้น...\nแวะมานะถ้าเกิดมองหา\nเสื้อผ้าน่ารักอยู่",
-          "Colour": null
+          "TranslatedText": "ฉันไม่ค่อยรู้เรื่องพวกนั้นหรอกนะ\nแต่ค่อนข้างแน่ใจว่าผู้กล้าในตำนาน\nน่าจะ...มีภารกิจ อะไรพวกนั้นมั้ย?\nฉัน เอ่อ เปิดร้านเสื้อผ้าอยู่ตรงนั้น...\nแวะมานะถ้าเกิดมองหา\nเสื้อผ้าน่ารักอยู่"
         }
       ]
     },
     {
       "EntryName": "Talk_27",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 469,
           "OriginalText": "...Are you kidding me?",
-          "TranslatedText": "...จริงเหรอเนี่ย?",
-          "Colour": null
+          "TranslatedText": "...จริงเหรอเนี่ย?"
         },
         {
           "Line": 476,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 482,
           "OriginalText": "Um, you should go see ",
-          "TranslatedText": "เอ่อ คุณควรไปหา ",
-          "Colour": null
+          "TranslatedText": "เอ่อ คุณควรไปหา "
         },
         {
           "Line": 486,
@@ -598,47 +547,45 @@
         {
           "Line": 489,
           "OriginalText": ".\nShe seems like she would know about\nthat kind of thing.",
-          "TranslatedText": " นะ\nเธอดูน่าจะรู้เรื่องพวกนี้",
-          "Colour": null
+          "TranslatedText": " นะ\nเธอดูน่าจะรู้เรื่องพวกนี้"
         }
       ]
     },
     {
       "EntryName": "Talk_28",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 498,
           "OriginalText": "Wow, it\u0027s really coming down!",
-          "TranslatedText": "ว้าว มันลงมาจริงๆ!",
-          "Colour": null
+          "TranslatedText": "ว้าว มันลงมาจริงๆ!"
         }
       ]
     },
     {
       "EntryName": "Talk_29",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 507,
           "OriginalText": "Good morniiing! The weather\u0027s kinda\nyuck today, isn\u0027t it?\n\nI\u0027m going into Claree\u0027s place now,\nbut feel free to tag along if you\u0027re\nlooking to buy some new clothes.",
-          "TranslatedText": "อรุณสวัสดิ์จ้าาา! \nอากาศไม่ดีเลยนะวันนี้\nฉันกำลังจะไปร้านของ Claree\nมาด้วยกันได้นะ\nถ้ากำลังมองหาเสื้อผ้าใหม่อยู่ละก็",
-          "Colour": null
+          "TranslatedText": "อรุณสวัสดิ์จ้าาา! \nอากาศไม่ดีเลยนะวันนี้\nฉันกำลังจะไปร้านของ Claree\nมาด้วยกันได้นะ\nถ้ากำลังมองหาเสื้อผ้าใหม่อยู่ละก็"
         }
       ]
     },
     {
       "EntryName": "Talk_30",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 511,
           "OriginalText": "Ooh, ",
-          "TranslatedText": "อู้ว ",
-          "Colour": null
+          "TranslatedText": "อู้ว "
         },
         {
           "Line": 515,
           "OriginalText": "and you even have a ",
-          "TranslatedText": "และคุณยังมี ",
-          "Colour": null
+          "TranslatedText": "และคุณยังมี "
         },
         {
           "Line": 519,
@@ -649,123 +596,112 @@
         {
           "Line": 522,
           "OriginalText": "\non your hip!\n\n",
-          "TranslatedText": "\nอีกด้วย!\n",
-          "Colour": null
+          "TranslatedText": "\nอีกด้วย!\n"
         },
         {
           "Line": 528,
           "OriginalText": "...",
-          "TranslatedText": "...",
-          "Colour": null
+          "TranslatedText": "..."
         },
         {
           "Line": 532,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 538,
           "OriginalText": "Wait...",
-          "TranslatedText": "เดี๋ยวนะ...",
-          "Colour": null
+          "TranslatedText": "เดี๋ยวนะ..."
         },
         {
           "Line": 542,
           "OriginalText": "huh?",
-          "TranslatedText": "huh?",
-          "Colour": null
+          "TranslatedText": "huh?"
         }
       ]
     },
     {
       "EntryName": "Talk_32",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 551,
           "OriginalText": "You sure look chipper even though\nit\u0027s such a rainy day.\n\n",
-          "TranslatedText": "คุณนี่ดูร่าเริงดีนะ\nทั้งที่ฝนตกขนาดนี้\n",
-          "Colour": null
+          "TranslatedText": "คุณนี่ดูร่าเริงดีนะ\nทั้งที่ฝนตกขนาดนี้\n"
         },
         {
           "Line": 557,
           "OriginalText": "...Oh, my.",
-          "TranslatedText": "...โอ๊ะ.",
-          "Colour": null
+          "TranslatedText": "...โอ๊ะ."
         },
         {
           "Line": 561,
           "OriginalText": " Look at that face!\nYou are TOTALLY my type.\nHi.",
-          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลย สวัสดีนะ",
-          "Colour": null
+          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลย สวัสดีนะ"
         }
       ]
     },
     {
       "EntryName": "Talk_33",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 570,
           "OriginalText": "Hm? ",
-          "TranslatedText": "หืม? ",
-          "Colour": null
+          "TranslatedText": "หืม? "
         },
         {
           "Line": 574,
           "OriginalText": "Who is it?\n\n\n",
-          "TranslatedText": "ใครน่ะ?\n",
-          "Colour": null
+          "TranslatedText": "ใครน่ะ?\n"
         },
         {
           "Line": 580,
           "OriginalText": "Oh, my... What\u0027s this?",
-          "TranslatedText": "โอ๊ะ... อะไรกันเนี่ย?",
-          "Colour": null
+          "TranslatedText": "โอ๊ะ... อะไรกันเนี่ย?"
         },
         {
           "Line": 584,
           "OriginalText": " Look at that face!\nYou are TOTALLY my type!",
-          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลยล่ะ!",
-          "Colour": null
+          "TranslatedText": " ดูนั่นสิ!\nคุณนี่สเป็คฉันเลยล่ะ!"
         }
       ]
     },
     {
       "EntryName": "Talk_34",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 593,
           "OriginalText": "I\u0027m not sure what this all means, mister...",
-          "TranslatedText": "ฉันก็ไม่รู้ว่านี่มันหมายถึงอะไรหรอกนะ...",
-          "Colour": null
+          "TranslatedText": "ฉันก็ไม่รู้ว่านี่มันหมายถึงอะไรหรอกนะ..."
         },
         {
           "Line": 597,
           "OriginalText": "\nBut it seems you\u0027re a great deal more\nimportant than you appear.",
-          "TranslatedText": "\nแต่ดูเหมือนว่าคุณจะเป็น\nคนสำคัญมากกว่าที่เห็นเยอะเลย",
-          "Colour": null
+          "TranslatedText": "\nแต่ดูเหมือนว่าคุณจะเป็น\nคนสำคัญมากกว่าที่เห็นเยอะเลย"
         }
       ]
     },
     {
       "EntryName": "near00",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 601,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?",
-          "Colour": null
+          "TranslatedText": "หืม?"
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Lasli",
       "TextList": [
         {
           "Line": 610,
           "OriginalText": "New clothes! Cute outfits!",
-          "TranslatedText": "เสื้อผ้าใหม่! ชุดน่ารัก!",
-          "Colour": null
+          "TranslatedText": "เสื้อผ้าใหม่! ชุดน่ารัก!"
         }
       ]
     }

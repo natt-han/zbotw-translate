@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "What have you got?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Look what I\u0027ve got.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "It\u0027s a deal!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Sorry, but no.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "OK.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "On second thought...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 44,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,8 +107,7 @@
         {
           "Line": 48,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -128,8 +117,7 @@
         {
           "Line": 57,
           "OriginalText": "Phew...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -139,210 +127,203 @@
         {
           "Line": 66,
           "OriginalText": "That was scary...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_00",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 75,
           "OriginalText": "What would you like to sell?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_01",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 79,
           "OriginalText": "How does ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 87,
           "OriginalText": " rupees ",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 90,
           "OriginalText": "sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 107,
           "OriginalText": "Thank you very much! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 111,
           "OriginalText": "Is there anything \nelse you would like to sell?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02b",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 120,
           "OriginalText": "Thank you for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 124,
           "OriginalText": "\nDid you want to sell me anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02c",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 133,
           "OriginalText": "Thank you very much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 137,
           "OriginalText": "\nDid you have anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02d",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 146,
           "OriginalText": "Thank you for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 150,
           "OriginalText": "\nDid you have anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_04",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 159,
           "OriginalText": "Oh, no, no...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 163,
           "OriginalText": " That\u0027s too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 172,
           "OriginalText": "I\u0027ll buy aaaaaaanything!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05b",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 181,
           "OriginalText": "Don\u0027t hesitate to sell me things!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05c",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 190,
           "OriginalText": "I\u0027ll take anything off your hands!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05d",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 199,
           "OriginalText": "Sell me anything you\u0027ve got!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_06",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 203,
           "OriginalText": "Buy whatever you want! I recommend\neeeeeeverything!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_07",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 212,
           "OriginalText": "Oh! So sorry.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 216,
           "OriginalText": "\nFresh out of that.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_08",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 225,
           "OriginalText": "Oh! You don\u0027t have enough ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 229,
@@ -353,25 +334,23 @@
         {
           "Line": 232,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 236,
           "OriginalText": "\nThat\u0027s embarrassing.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_09",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 245,
           "OriginalText": "Oh! Your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 249,
@@ -382,14 +361,12 @@
         {
           "Line": 252,
           "OriginalText": "appears to be full.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 256,
           "OriginalText": "\nPlease make some room in your\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 260,
@@ -400,342 +377,338 @@
         {
           "Line": 263,
           "OriginalText": ", and come back.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_10",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 267,
           "OriginalText": "You want to buy that?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 284,
           "OriginalText": "Thank you for your constant patronage!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11b",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 293,
           "OriginalText": "Thank you for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11c",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 302,
           "OriginalText": "Thank you very much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11d",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 311,
           "OriginalText": "Thanks again for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_12",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 320,
           "OriginalText": "I\u0027m sure I have something you\u0027ll find\nuseful! Please have a good look!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_13",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 324,
           "OriginalText": "I\u0027ll take it. How many would you like\nto sell me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_14",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 337,
           "OriginalText": "I think ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 342,
           "OriginalText": " of those would be worth\nabout ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 350,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 353,
           "OriginalText": ". Is that OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_15",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 370,
           "OriginalText": "I\u0027m afraid I can\u0027t buy that.\nWish I could, but them\u0027s the rules.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_16",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 379,
           "OriginalText": "Maybe you should take those clothes off\nbefore you try to sell them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_30",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 383,
           "OriginalText": "All right, how many would you like\nto buy?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_31",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 396,
           "OriginalText": "I think ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 401,
           "OriginalText": " of those will run\nyou ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 409,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 412,
           "OriginalText": ". Does that work?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_32",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 424,
           "OriginalText": "Just one, then? That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 432,
           "OriginalText": "\nrupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 435,
           "OriginalText": ", please.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_33",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 447,
           "OriginalText": "Just one, then? How does ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 455,
           "OriginalText": "\nrupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 458,
           "OriginalText": " sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_34",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 480,
           "OriginalText": "All of them?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 484,
           "OriginalText": "\nWell, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 489,
           "OriginalText": " of them will be ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 497,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 500,
           "OriginalText": ". \nHow does that sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_35",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 522,
           "OriginalText": "So that\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 527,
           "OriginalText": "? Which is all of them!\nThat\u0027ll be ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 535,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 538,
           "OriginalText": ".\nHow does that sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_36",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 555,
           "OriginalText": "Sold out for today!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 559,
           "OriginalText": " Thank you for\nbuying so much, and thank you for\nyour business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_37",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 568,
           "OriginalText": "Thanks to you, I\u0027m sold out for today!\nBut that\u0027s a good thing!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 574,
           "OriginalText": "Would you like to look at the items \nI\u0027m planning to have stocked?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_talk_17",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 597,
           "OriginalText": "Hey! You\u0027re a great customer, and since\ntoday is Customer Appreciation Day...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_talk_18",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 606,
           "OriginalText": "This even works on those ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 610,
@@ -746,14 +719,12 @@
         {
           "Line": 613,
           "OriginalText": "\nthings. It\u0027s amazing!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 619,
           "OriginalText": "I hear it works best if you hit the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 623,
@@ -764,8 +735,7 @@
         {
           "Line": 626,
           "OriginalText": " in the eye with it. This old guy\nnamed ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 630,
@@ -776,14 +746,12 @@
         {
           "Line": 633,
           "OriginalText": "gave it to me.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 639,
           "OriginalText": "To find him, go waaay north past\nZora\u0027s Domain, all the way to\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 643,
@@ -794,14 +762,12 @@
         {
           "Line": 646,
           "OriginalText": ".\nOld Robbie makes a bunch of other\nweird weapons and clothes and stuff.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 652,
           "OriginalText": "I guess he\u0027s what you\u0027d call a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 656,
@@ -812,59 +778,55 @@
         {
           "Line": 659,
           "OriginalText": ",",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 663,
           "OriginalText": " which is kind of cool...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 667,
           "OriginalText": "\nbut also terrifying.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 673,
           "OriginalText": "If you want strong weapons and stuff,\nyou should go see him.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_talk_19",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 682,
           "OriginalText": "Oh! You\u0027ve met Robbie too?\nHe must be pretty popular.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_talk_20",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 691,
           "OriginalText": "I want you to have this!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 700,
           "OriginalText": "Come on oooooover!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -874,8 +836,7 @@
         {
           "Line": 704,
           "OriginalText": "Get back!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -885,8 +846,7 @@
         {
           "Line": 708,
           "OriginalText": "Please stop!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -896,8 +856,7 @@
         {
           "Line": 712,
           "OriginalText": "WHOA NOW!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -907,8 +866,7 @@
         {
           "Line": 716,
           "OriginalText": "Eeeeeeeeek!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -918,8 +876,7 @@
         {
           "Line": 720,
           "OriginalText": "Haaaaeeeeee!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -929,8 +886,7 @@
         {
           "Line": 724,
           "OriginalText": "I don\u0027t like fire!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -940,8 +896,7 @@
         {
           "Line": 728,
           "OriginalText": "Hyeeeeeeehh!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -951,8 +906,7 @@
         {
           "Line": 732,
           "OriginalText": "Whoa!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -962,8 +916,7 @@
         {
           "Line": 736,
           "OriginalText": "Ohh!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -973,8 +926,7 @@
         {
           "Line": 740,
           "OriginalText": "NOT BEES! AHHHH!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -984,8 +936,7 @@
         {
           "Line": 744,
           "OriginalText": "AHHH!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -995,69 +946,67 @@
         {
           "Line": 748,
           "OriginalText": "Oww!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_00",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 763,
           "OriginalText": "Hey! I don\u0027t believe I\u0027ve made your\nacquaintance!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_01",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 775,
           "OriginalText": "Oh! That\u0027s too bad...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 779,
           "OriginalText": "\nHope to see you around.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_02",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 788,
           "OriginalText": "Thank you very much!\nHope to see you again soon!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_03",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 797,
           "OriginalText": "Oh, hiiiiiiiiiiiiii!\nWe meet again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_04",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 806,
           "OriginalText": "Hey! It\u0027s you again.\nOl\u0027",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 810,
@@ -1068,25 +1017,23 @@
         {
           "Line": 813,
           "OriginalText": "\u0027s glad to see you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_05",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 822,
           "OriginalText": "Oh! You appear to have a",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 826,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 830,
@@ -1097,14 +1044,12 @@
         {
           "Line": 833,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 839,
           "OriginalText": "Beedle loves ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 843,
@@ -1115,19 +1060,18 @@
         {
           "Line": 846,
           "OriginalText": "!\nWould you consider giving it to me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_06",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 855,
           "OriginalText": "Wow! You have a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 859,
@@ -1138,14 +1082,12 @@
         {
           "Line": 862,
           "OriginalText": "\nin your inventory!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 868,
           "OriginalText": "Beedle just loooooooooves\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 872,
@@ -1156,19 +1098,18 @@
         {
           "Line": 875,
           "OriginalText": "! Can I take\nit off your hands?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_07",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 884,
           "OriginalText": "I\u0027ll give you something in return, of\ncourse. How does a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 888,
@@ -1179,19 +1120,18 @@
         {
           "Line": 891,
           "OriginalText": " sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_08",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 908,
           "OriginalText": "You\u0027d get something in return, of course!\nHow about I trade you for this\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 912,
@@ -1202,37 +1142,33 @@
         {
           "Line": 915,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_09",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 932,
           "OriginalText": "Huh?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 936,
           "OriginalText": "\nCould that be?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 940,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 946,
           "OriginalText": "Th-that\u0027s an ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 950,
@@ -1243,14 +1179,12 @@
         {
           "Line": 953,
           "OriginalText": "!\nIt\u0027s a rare beetle you almost never see!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 959,
           "OriginalText": "P-p-please! Would you please consider\ngiving your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 963,
@@ -1261,19 +1195,18 @@
         {
           "Line": 966,
           "OriginalText": "\nto Beedle?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_10",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 975,
           "OriginalText": "I would certainly offer you something as\nthanks! How about a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 979,
@@ -1284,14 +1217,12 @@
         {
           "Line": 982,
           "OriginalText": "?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 993,
           "OriginalText": "Yep, just take a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 997,
@@ -1301,43 +1232,40 @@
         },
         {
           "Line": 1000,
-          "OriginalText": "and mix\nit with some monster parts, and BAM\u2014\nyou\u0027ve got yourself a mighty-fine elixir!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "and mix\nit with some monster parts, and BAM—\nyou\u0027ve got yourself a mighty-fine elixir!",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_11",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1023,
           "OriginalText": "Hey! Welco...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_12",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1035,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1052,
           "OriginalText": "Oh. And here I thought I knew what\nkind of person you were...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1058,
           "OriginalText": "No, it\u0027s fine.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1062,
@@ -1348,25 +1276,23 @@
         {
           "Line": 1065,
           "OriginalText": " just isn\u0027t a very good judge of\ncharacter, apparently...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_13",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1077,
           "OriginalText": "Whooooooa! Thank you so much!\nYou\u0027re even more awesome than I\nthought you were!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1083,
           "OriginalText": "I will cherish this ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1087,
@@ -1377,25 +1303,23 @@
         {
           "Line": 1090,
           "OriginalText": "you have given\nme for the rest of my days.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_14",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1099,
           "OriginalText": "Oh, no...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1103,
           "OriginalText": " Your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1107,
@@ -1406,37 +1330,33 @@
         {
           "Line": 1110,
           "OriginalText": "is full.\nIt\u0027s a real shame, but I guess we\u0027ll have\nto give up on this for now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_15",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1119,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1133,
           "OriginalText": "Really? But this is such a good deal...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1137,
           "OriginalText": "\nand that beetle really wants to be with\nme.\nI just don\u0027t understand your thought\nprocess here...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1143,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1166,
@@ -1453,65 +1373,60 @@
         {
           "Line": 1192,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1196,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1202,
           "OriginalText": "Oh, you\u0027re still here? I thought you left.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1208,
           "OriginalText": "Uh, well let me know if you change your\nmind!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_16",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1223,
           "OriginalText": "Wooooooooow!\nThank you so much!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1232,
           "OriginalText": "You just don\u0027t see these very often!\nThis has to be a sign...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_17",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1244,
           "OriginalText": "What are you looking for?\nOr are you selling?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_18",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1268,
           "OriginalText": "Hey! Thanks again for giving me that\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1272,
@@ -1522,19 +1437,18 @@
         {
           "Line": 1275,
           "OriginalText": "earlier!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_19",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1290,
           "OriginalText": "Ohhhhhh! So maybe you DO want to give\nBeedle that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1294,
@@ -1545,19 +1459,18 @@
         {
           "Line": 1297,
           "OriginalText": "?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_20",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1312,
           "OriginalText": "Yeah, yeah! So DO you want to give\nBeedle that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1316,
@@ -1568,19 +1481,18 @@
         {
           "Line": 1319,
           "OriginalText": "?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_21",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1334,
           "OriginalText": "AHHHH! So DO you want to give ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1338,
@@ -1591,8 +1503,7 @@
         {
           "Line": 1341,
           "OriginalText": "\nthat ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1345,
@@ -1603,19 +1514,18 @@
         {
           "Line": 1348,
           "OriginalText": "?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_22",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1357,
           "OriginalText": "Not for free, mind you! How about I trade\nyou a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1361,
@@ -1626,14 +1536,12 @@
         {
           "Line": 1364,
           "OriginalText": "for it?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1375,
           "OriginalText": "You know, the elixir you get when you\nmix a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1379,
@@ -1644,19 +1552,18 @@
         {
           "Line": 1382,
           "OriginalText": "with some monster\nparts?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_23",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1399,
           "OriginalText": "I just can\u0027t leave here without that\nbeetle! I\u0027ll trade you a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1403,
@@ -1667,14 +1574,12 @@
         {
           "Line": 1406,
           "OriginalText": "\nfor it!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1417,
           "OriginalText": "Just mix a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1421,
@@ -1685,19 +1590,18 @@
         {
           "Line": 1424,
           "OriginalText": " with some\nmonster parts, and you\u0027ve got yourself a\nnice little elixir!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_24",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1441,
-          "OriginalText": "And if you\u0027re on the fence, I\u0027ve got just\nthe thing for you\u2014a ",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "And if you\u0027re on the fence, I\u0027ve got just\nthe thing for you—a ",
+          "TranslatedText": null
         },
         {
           "Line": 1445,
@@ -1708,14 +1612,12 @@
         {
           "Line": 1448,
           "OriginalText": "!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1459,
           "OriginalText": "Just heat up a little bit of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1463,
@@ -1725,81 +1627,79 @@
         },
         {
           "Line": 1466,
-          "OriginalText": "dust, and\nBAM\u2014you\u0027ve got yourself something\nreally special!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "dust, and\nBAM—you\u0027ve got yourself something\nreally special!",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_25",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1483,
           "OriginalText": "Anyway, back to business...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_26",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1495,
           "OriginalText": "Oh! It\u0027s you again.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1499,
           "OriginalText": " Was there something\nyou forgot to buy?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_27",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1514,
-          "OriginalText": "You know, I was just thinking about yo\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "You know, I was just thinking about yo—",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_28",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1532,
           "OriginalText": "Ohh! Thanks for coming to see me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_29",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1550,
-          "OriginalText": "Hey! How are you feeling toda\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Hey! How are you feeling toda—",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_30",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1568,
           "OriginalText": "Oh, hiiiiiiiiii!\nI am still so thankful for and excited\nabout that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1572,
@@ -1810,30 +1710,29 @@
         {
           "Line": 1575,
           "OriginalText": "you gave me earlier!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_31",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1584,
           "OriginalText": "If you find another, please come again\ntomorrow! I\u0027m just going to concentrate\nall my love on this little guy for today...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_32",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1596,
           "OriginalText": "Yahoo! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1600,
@@ -1844,14 +1743,12 @@
         {
           "Line": 1603,
           "OriginalText": " is so excited!\nYou\u0027re such a sweetheart!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1609,
           "OriginalText": "I\u0027ll add this bad boy to my ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1613,
@@ -1862,36 +1759,34 @@
         {
           "Line": 1616,
           "OriginalText": "\ncollection! Yaaaaaaaaaaaaaay!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_33",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1631,
           "OriginalText": "Yaaaay! I\u0027m so happy right now!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1640,
           "OriginalText": "This is a really hard beetle to find!\nThis is a good omen for sure.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_34",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1649,
           "OriginalText": "Will you trade it to me for a\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1653,
@@ -1902,25 +1797,23 @@
         {
           "Line": 1656,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_35",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1673,
           "OriginalText": "You\u0027d get something in return, of course!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1677,
           "OriginalText": "How about I give you this ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1681,
@@ -1931,36 +1824,34 @@
         {
           "Line": 1684,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_36",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1701,
           "OriginalText": "Thanks for the business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1705,
           "OriginalText": "\nDid you need anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk_37",
+      "NPC": "Beedle",
       "TextList": [
         {
           "Line": 1723,
           "OriginalText": "The name\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1727,
@@ -1970,21 +1861,18 @@
         },
         {
           "Line": 1730,
-          "OriginalText": ", but you can call\nme\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": ", but you can call\nme—",
+          "TranslatedText": null
         },
         {
           "Line": 1734,
           "OriginalText": " Actually,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1738,
           "OriginalText": " let\u0027s just stick with ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1742,
@@ -1995,8 +1883,7 @@
         {
           "Line": 1745,
           "OriginalText": ".\n\nBut even if you forget my face, you can\nremember me by my ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1749,
@@ -2007,26 +1894,22 @@
         {
           "Line": 1752,
           "OriginalText": "\nbackpack!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1758,
           "OriginalText": "Despite these dangerous times, you\u0027ll\nfind me traveling all over Hyrule to fulfill\nyour shopping needs.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1764,
           "OriginalText": "I stock many special bugs and must-have\nitems for travelers, and I always charge\na fair price...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1768,
           "OriginalText": "or my name\u0027s not ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1772,
@@ -2037,14 +1920,12 @@
         {
           "Line": 1775,
           "OriginalText": "!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1781,
           "OriginalText": "I also buy all sorts of things, if you\u0027re in\nneed of rupees. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1785,
@@ -2055,14 +1936,12 @@
         {
           "Line": 1788,
           "OriginalText": "in particular\nfetch a high price!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1797,
           "OriginalText": "How can I help you today?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

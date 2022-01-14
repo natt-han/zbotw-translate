@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027m ready.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Maybe later.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Let\u0027s do this.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Wait a second.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "I\u0027ll never give up!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,30 +57,29 @@
         {
           "Line": 28,
           "OriginalText": "I give up...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_001",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 32,
           "OriginalText": "Are you ready?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_011",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 41,
           "OriginalText": "Hey, hero guy! I was told you\u0027d be\ncoming.\n\nBut do you really think you\u0027re ready for\nthe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 45,
@@ -96,14 +90,12 @@
         {
           "Line": 48,
           "OriginalText": "?! Some say it\u0027s the\nhardest of the Korok Trials.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 54,
-          "OriginalText": "But it\u0027s not complicated\u2014all you need to\ndo is equip this ",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "But it\u0027s not complicated—all you need to\ndo is equip this ",
+          "TranslatedText": null
         },
         {
           "Line": 58,
@@ -114,30 +106,29 @@
         {
           "Line": 61,
           "OriginalText": " and\nreach the shrine at the back of the area.\nAre you ready to try it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_031",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 78,
           "OriginalText": "I see. Well, come back when you\u0027re\nready.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_041",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 87,
           "OriginalText": "All you have to do is reach the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 91,
@@ -148,30 +139,29 @@
         {
           "Line": 94,
           "OriginalText": "in\nthe back of the area. Off you go!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_071",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 103,
           "OriginalText": "Hold it.\n\n\nYou can\u0027t go in there unless you\u0027re\ntaking on the trial.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_081",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 112,
           "OriginalText": "You can sign up for the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 116,
@@ -182,8 +172,7 @@
         {
           "Line": 119,
           "OriginalText": "\nhere.\n\nTo pass the test, you just need to equip\nthe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 123,
@@ -194,92 +183,88 @@
         {
           "Line": 126,
           "OriginalText": " and reach the\ngoal. Nothing to it!\nWant to give it a try?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_091",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 143,
           "OriginalText": "HEY!\n\n\nThat equipment is for trial participants\nonly!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_101",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 152,
           "OriginalText": "GAAAH!\n\n\nKnock it off, pyro!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_111",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 161,
           "OriginalText": "Phew...\n\n\nThat was a close one.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S10_021",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 165,
           "OriginalText": "Gotta get the area ready...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S10_031",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 174,
           "OriginalText": "Huh?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 178,
           "OriginalText": " Your inventory is full!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 184,
           "OriginalText": "You need to make some space for a\nsword, a shield, and a bow before we\ncan get started.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S10_051",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 193,
           "OriginalText": "All right. Go get \u0027em!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 204,
           "OriginalText": "You have to keep the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 208,
@@ -290,8 +275,7 @@
         {
           "Line": 211,
           "OriginalText": ", ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 215,
@@ -302,8 +286,7 @@
         {
           "Line": 218,
           "OriginalText": ", and\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 222,
@@ -314,30 +297,29 @@
         {
           "Line": 225,
           "OriginalText": "equipped the whole time. If they\nbreak or you unequip them, you\u0027re out!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S10_061",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 234,
           "OriginalText": "Let me know when you\u0027re ready.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S10_071",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 243,
           "OriginalText": "Are you ready to take the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 247,
@@ -348,53 +330,50 @@
         {
           "Line": 250,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_001",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 270,
           "OriginalText": "DISQUALIFIED!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 274,
           "OriginalText": " You lose!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 283,
           "OriginalText": "You have to keep all three forest-dweller\nitems equipped the whole time!\n\nThat\u0027s the forest dweller\u0027s sword,\nthe forest dweller\u0027s bow, and the\nforest dweller\u0027s shield.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_051",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 295,
           "OriginalText": "Gooooooooal!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_052",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 307,
           "OriginalText": "CONGRATULATIONS!\nYou\u0027ve passed the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 311,
@@ -405,48 +384,44 @@
         {
           "Line": 314,
           "OriginalText": "!\n\nWell done, hero man!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 318,
           "OriginalText": "\nHappiness awaits you at the shrine.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_053",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 327,
           "OriginalText": "Oh, yeah!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 333,
           "OriginalText": "If you ever want to do the trial again,\njust let me know.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 339,
           "OriginalText": "See ya!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_061",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 348,
           "OriginalText": "Hey, guy!\n\n\nWhere are you going?! The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 352,
@@ -457,19 +432,18 @@
         {
           "Line": 355,
           "OriginalText": " is \nthataway! You\u0027re not Cuccoing out,\nare ya?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_071",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 372,
           "OriginalText": "Oh, my, hero guy!\nDid you get lost in the mist?\nDo you want to give up on the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 376,
@@ -480,31 +454,28 @@
         {
           "Line": 379,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_S20_081",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 396,
           "OriginalText": "Too bad, Mr. Hero...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 400,
           "OriginalText": "\nWe all fail sometimes.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 406,
           "OriginalText": "Do you want to try again right away?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

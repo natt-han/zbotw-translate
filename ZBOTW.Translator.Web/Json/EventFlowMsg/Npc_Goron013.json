@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Who are you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "What is this place?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "The Boss?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,30 +47,29 @@
         {
           "Line": 24,
           "OriginalText": "Got it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 28,
-          "OriginalText": "\u266ABreak time!\u266A",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "♪Break time!♪",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 37,
           "OriginalText": "I need to concentrate while I\u0027m workin\u0027.\nIf you wanna talk, come see me when\nit\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 41,
@@ -85,155 +80,146 @@
         {
           "Line": 44,
           "OriginalText": ". ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 53,
           "OriginalText": "Bah! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 57,
           "OriginalText": "You scared me!\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 63,
           "OriginalText": "What is it?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 81,
           "OriginalText": "Me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 85,
           "OriginalText": " I\u0027m Jengo.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 94,
           "OriginalText": "Oh, it\u0027s you again. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 98,
           "OriginalText": "It\u0027s not time for me\nto stop workin\u0027 yet, ya know...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 116,
           "OriginalText": "I\u0027m Jengo.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 125,
           "OriginalText": "Well then... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 129,
           "OriginalText": "Time to work.\n\n\nDon\u0027t talk to me while I\u0027m workin\u0027, OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 133,
           "OriginalText": "\nI need to concentrate.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 142,
-          "OriginalText": "\u266AWork, work, work!\u266A",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "♪Work, work, work!♪",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 151,
           "OriginalText": "It\u0027s finally break time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 155,
           "OriginalText": " We can talk once\nI\u0027m good and relaxed.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 164,
           "OriginalText": "If you wanna talk, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 168,
           "OriginalText": "lemme sit down\na bit first, OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 177,
           "OriginalText": "Take a look around. This is where we dig\nup ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 181,
@@ -244,53 +230,50 @@
         {
           "Line": 184,
           "OriginalText": ". ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 188,
           "OriginalText": "We call it the Southern Mine.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 197,
           "OriginalText": "Heh... I\u0027m exhausted.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 201,
           "OriginalText": " But now I\u0027ve got\nsome time to talk. So what did ya wanna\nask me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 219,
           "OriginalText": "See ya later.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 228,
           "OriginalText": "I\u0027m a proud Goron of Goron City.\nIf we dig up ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 232,
@@ -301,30 +284,29 @@
         {
           "Line": 235,
           "OriginalText": "like this, Goron City \nwill prosper. Everyone wins!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 244,
           "OriginalText": "Yeah, yeah. What is it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk23",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 262,
           "OriginalText": "But right now, we\u0027ve got that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 266,
@@ -335,8 +317,7 @@
         {
           "Line": 269,
           "OriginalText": "sittin\u0027 up on ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 273,
@@ -347,8 +328,7 @@
         {
           "Line": 276,
           "OriginalText": ".\n\nNormally we can pull up good ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 280,
@@ -359,20 +339,17 @@
         {
           "Line": 283,
           "OriginalText": "from\nnear the mountain peak...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 287,
           "OriginalText": " But for now,\nwe have to mine here instead.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 293,
           "OriginalText": "You should ask the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 297,
@@ -383,19 +360,18 @@
         {
           "Line": 300,
           "OriginalText": "for more details.\nHe\u0027s in Goron City.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk24",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 322,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 326,
@@ -406,14 +382,12 @@
         {
           "Line": 329,
           "OriginalText": "is the most important Goron\nin Goron City! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 333,
           "OriginalText": "His name is ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 337,
@@ -424,8 +398,7 @@
         {
           "Line": 340,
           "OriginalText": ".\n\nHe\u0027s the visionary who thought to set up\ndig sites here and at ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 344,
@@ -436,8 +409,7 @@
         {
           "Line": 347,
           "OriginalText": "so\nwe can sell the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 351,
@@ -448,25 +420,23 @@
         {
           "Line": 354,
           "OriginalText": "we find.\nThanks to the Boss, Goron City is happy\nand prosperous.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 358,
           "OriginalText": " Nowhere else can even\ncompete! No way, no how!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk25",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 367,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 371,
@@ -477,8 +447,7 @@
         {
           "Line": 374,
           "OriginalText": "on ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 378,
@@ -489,14 +458,12 @@
         {
           "Line": 381,
           "OriginalText": "\ncalmed down, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 385,
           "OriginalText": "so the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 389,
@@ -507,30 +474,29 @@
         {
           "Line": 392,
           "OriginalText": "has instructed\nus to start mining this site again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk26",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 401,
           "OriginalText": "Anything else you wanna ask?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk27",
+      "NPC": "Jengo",
       "TextList": [
         {
           "Line": 419,
           "OriginalText": "Problem is, there\u0027s a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 423,
@@ -541,14 +507,12 @@
         {
           "Line": 426,
           "OriginalText": "\non the summit right now.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 432,
           "OriginalText": "We can get better ore up there,\nbut we\u0027re stuck mining here for the\ntime being.\nThe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 436,
@@ -559,8 +523,7 @@
         {
           "Line": 439,
           "OriginalText": "at Goron City can explain the\nwhole thing if you\u0027re interested.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

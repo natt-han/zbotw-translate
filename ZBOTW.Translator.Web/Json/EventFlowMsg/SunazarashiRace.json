@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Let\u0027s do this.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Hold on.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Sand-seal race?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Tali?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Of course.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I\u0027ll pass.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "OK.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Forget it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "Tell me the rules.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 44,
           "OriginalText": "I want to try again.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,8 +107,7 @@
         {
           "Line": 48,
           "OriginalText": "Not right now.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -128,8 +117,7 @@
         {
           "Line": 52,
           "OriginalText": "Who are you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -139,8 +127,7 @@
         {
           "Line": 56,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -150,48 +137,46 @@
         {
           "Line": 60,
           "OriginalText": "I\u0027m ready to race. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_AfterGoal_010",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 69,
           "OriginalText": "Well, you passed through all of the\narches...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 75,
           "OriginalText": "But you didn\u0027t break the champ\u0027s\nrecord of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 85,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_L"
         },
         {
           "Line": 95,
           "OriginalText": ".\nToo bad.",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_M"
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_AfterGoal_020",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 104,
           "OriginalText": "You\u0027ll have to pass through all ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 108,
@@ -202,141 +187,138 @@
         {
           "Line": 111,
           "OriginalText": "\narches on the course, or you\u0027ll be\ndisqualified.\nDon\u0027t forget!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_AfterGoal_030",
+      "NPC": "Tali",
       "TextList": [
         {
           "Line": 125,
           "OriginalText": "...Come show us your funky seal\ntechnique again sometime...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_Demo330_1_530",
+      "NPC": "Tali",
       "TextList": [
         {
           "Line": 134,
           "OriginalText": "...Just three years?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_S1_001",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 146,
           "OriginalText": "I didn\u0027t think you were a quitter.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_S3_001",
+      "NPC": "Tali",
       "TextList": [
         {
           "Line": 155,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 159,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 165,
           "OriginalText": "That was some solid riding...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis038_S3_002",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 174,
           "OriginalText": "Heh...\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 180,
           "OriginalText": "The champion talking to someone\nbesides me? I must admit...\nI\u0027m a little jealous.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_Demo330_1_510",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 194,
           "OriginalText": "Never thought I\u0027d see that record broken\nin my lifetime.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_Demo330_1_520",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 208,
-          "OriginalText": "I got so excited seeing a run that good\u2014\nit probably shaved three years off of my\nlife.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "I got so excited seeing a run that good—\nit probably shaved three years off of my\nlife.",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_Demo330_1_540",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 222,
           "OriginalText": "I need to sit down for a moment...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_R_005",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 231,
           "OriginalText": "Then let\u0027s do this!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_R_Near",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 235,
           "OriginalText": "Finally, Tali!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S1_001",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 252,
@@ -347,8 +329,7 @@
         {
           "Line": 255,
           "OriginalText": ", the traditional\nGerudo sport!\n\nBeat the great Tali\u0027s time and walk away\nwith the one and only trophy! Just\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 259,
@@ -359,19 +340,18 @@
         {
           "Line": 262,
           "OriginalText": " per race. How about it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S1_002",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 280,
           "OriginalText": "Excellent. A good answer is a rare thing\nthese days. That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 284,
@@ -382,36 +362,34 @@
         {
           "Line": 287,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S1_003",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 296,
           "OriginalText": "Hehe, these stomach butterflies before a\nrace...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 300,
           "OriginalText": "\n\nI never get sick of it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S1_007",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 309,
           "OriginalText": "Hey, hey, hey! You don\u0027t have a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 313,
@@ -422,8 +400,7 @@
         {
           "Line": 316,
           "OriginalText": "!\n\n\nDidn\u0027t they teach you in school that you\nneed a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 320,
@@ -434,14 +411,12 @@
         {
           "Line": 323,
           "OriginalText": "to sand-seal surf?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 327,
           "OriginalText": "\nThat\u0027s basic knowledge!\nCome back when you\u0027ve got a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 331,
@@ -452,19 +427,18 @@
         {
           "Line": 334,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S1_100",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 343,
           "OriginalText": "Ride the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 347,
@@ -475,8 +449,7 @@
         {
           "Line": 350,
           "OriginalText": "to compete for the\nbest time while also going through\nthe marked arches.\nIf you get off your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 354,
@@ -487,38 +460,34 @@
         {
           "Line": 357,
           "OriginalText": ", you\u0027re disqualified.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 363,
           "OriginalText": "If you beat the champion\u0027s record\nof ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 373,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_L"
         },
         {
           "Line": 383,
           "OriginalText": ", you become the new\nworld champion!\nNot only that, but you\u0027ll also receive the\ngrand trophy, which has been passed\ndown for generations!",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_M"
         },
         {
           "Line": 387,
           "OriginalText": "\nBut that\u0027s enough talk. Time to put your\nrupees where your mouth is.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 393,
           "OriginalText": "It costs ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 397,
@@ -529,19 +498,18 @@
         {
           "Line": 400,
           "OriginalText": " per attempt. Are you\nready to challenge the champion\u0027s time?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_001",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 418,
           "OriginalText": "Hey, hey, HEY! I told you, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 422,
@@ -552,30 +520,29 @@
         {
           "Line": 425,
           "OriginalText": "!\n\nThat\u0027s it. The race is over!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_002",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 439,
           "OriginalText": "Pfft... You need some training wheels on\nthat sand seal?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_003",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 448,
           "OriginalText": "Hey, hey, hey! I told you, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 452,
@@ -586,30 +553,29 @@
         {
           "Line": 455,
           "OriginalText": "!\n\nThat\u0027s it. This race is over!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_004",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 464,
           "OriginalText": "Hey, hey, hey!\n\n\nIf you need something, you talk to me.\n\n\nTali is the world champion! You can\u0027t\njust walk up and talk to her!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_005",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 478,
           "OriginalText": "You want to try again? It\u0027ll be another\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 482,
@@ -620,64 +586,61 @@
         {
           "Line": 485,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S2_006",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 507,
           "OriginalText": "Heh, I see you now understand how\ndifficult the record is to crack.\n\nOur Tali is a world champion!\nCome back after you get some practice.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis039_S3_001",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 516,
           "OriginalText": "Oh...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 520,
           "OriginalText": "\n\n\nI guess you\u0027re the new champion now.\n\n\nThere\u0027s a legend shared among sand-\nseal racers that the grand trophy is the\nkey to finding an ancient treasure.\n...But that\u0027s a load of seal snot if you ask\nme.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0000",
+      "NPC": "Tali",
       "TextList": [
         {
           "Line": 529,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0005",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 541,
           "OriginalText": "What do you want?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 545,
           "OriginalText": " The great Tali\ndoesn\u0027t have time to chat with just\nanyone!\nYou see, now that the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 549,
@@ -688,8 +651,7 @@
         {
           "Line": 552,
           "OriginalText": " is\ngone, we can finally use the race course.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 556,
@@ -700,8 +662,7 @@
         {
           "Line": 559,
           "OriginalText": " is busy focusing her energy for the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 563,
@@ -712,49 +673,43 @@
         {
           "Line": 566,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 570,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 576,
           "OriginalText": "Actually...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 580,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 586,
           "OriginalText": "Did you want to try to beat Tali\u0027s record?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 590,
-          "OriginalText": "\nI\u0027ll warn you\u2014they don\u0027t call her Dame\nof the Dunes for nothing.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "\nI\u0027ll warn you—they don\u0027t call her Dame\nof the Dunes for nothing.",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0006",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 609,
           "OriginalText": "Hey, hey now!\nTali is Tali!\n\nTali is the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 613,
@@ -765,19 +720,18 @@
         {
           "Line": 616,
           "OriginalText": "! Who else would Tali be?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0007",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 625,
           "OriginalText": "You\u0027ve never heard of Hyrule\u0027s pastime?\nThe world-famous ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 629,
@@ -788,36 +742,34 @@
         {
           "Line": 632,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0008",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 641,
           "OriginalText": "If you must know, I am the one who\nraised Tali into a world champion.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 647,
           "OriginalText": "She\u0027s always been shy, but for some \nreason she opened up to me.\nIsn\u0027t that right, Tali?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0009",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 656,
           "OriginalText": "Now we ride!\nNow that the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 660,
@@ -828,36 +780,34 @@
         {
           "Line": 663,
           "OriginalText": " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali\u0027s time, though.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0010",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 682,
           "OriginalText": "Hey, are you really just going to leave?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 686,
           "OriginalText": "\nTali wants to see what you\u0027ve got.\n\nA true vai never backs down from a\nchallenge.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0011",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 695,
           "OriginalText": "The competition will, of course, be\na ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 699,
@@ -868,8 +818,7 @@
         {
           "Line": 702,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 706,
@@ -880,19 +829,18 @@
         {
           "Line": 709,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0012",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 718,
           "OriginalText": "You surf with a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 722,
@@ -903,8 +851,7 @@
         {
           "Line": 725,
           "OriginalText": "to compete for\nthe best time while also going through\nthe marked arches.\nIt\u0027s been a traditional Gerudo sport since\ntime immemorial!\n\nOh, yes. And if you get off your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 729,
@@ -915,31 +862,30 @@
         {
           "Line": 732,
           "OriginalText": ", you\u0027re\ndisqualified.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0013",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 741,
           "OriginalText": "Tali\u0027s record is ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 751,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_L"
         },
         {
           "Line": 761,
           "OriginalText": "!\nIf you can beat that record,\nthat ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "SunazarashiRace_BestTime_M"
         },
         {
           "Line": 765,
@@ -950,19 +896,18 @@
         {
           "Line": 768,
           "OriginalText": " is yours. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0014",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 777,
           "OriginalText": "This is the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 781,
@@ -973,53 +918,50 @@
         {
           "Line": 784,
           "OriginalText": " that\u0027s been\npassed down by ten thousand years of\nsand-seal-racing champions.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0015",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 793,
           "OriginalText": "Tali here is the current champion.\nWill you try challenging her record?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0016",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 810,
-          "OriginalText": "Wha\u2014?\n\n\n...\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Wha—?\n\n\n...\n\n\n",
+          "TranslatedText": null
         },
         {
           "Line": 816,
           "OriginalText": "Oh, well. No point in having some\nnobody try to beat Tali\u0027s record anyway.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 822,
           "OriginalText": "She\u0027d sweep the floor with you...\nand mop it, too!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0022",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 831,
           "OriginalText": "I forgot to mention...\nSince you\u0027re racing against the champ\u0027s\nrecord, it\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 835,
@@ -1030,30 +972,29 @@
         {
           "Line": 838,
           "OriginalText": " per race.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0023",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 855,
           "OriginalText": "All right. Payday!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0025",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 864,
           "OriginalText": "You surf with a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 868,
@@ -1064,8 +1005,7 @@
         {
           "Line": 871,
           "OriginalText": "and race to the\nfinish line while also going through the\narches. That\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 875,
@@ -1076,8 +1016,7 @@
         {
           "Line": 878,
           "OriginalText": "!\nAnd if you get off your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 882,
@@ -1088,77 +1027,70 @@
         {
           "Line": 885,
           "OriginalText": ", you\u0027re\ndisqualified.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0026",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 894,
-          "OriginalText": "Wha\u2014?!",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Wha—?!",
+          "TranslatedText": null
         },
         {
           "Line": 898,
           "OriginalText": " HAHA!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 902,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 908,
           "OriginalText": "You can\u0027t even afford the modest price to\nchallenge the champ\u0027s time?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 914,
           "OriginalText": "The race is off! It\u0027d be a waste of time\nfor some scrub like you to take on the\ngreat Tali!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0027",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 923,
           "OriginalText": "Hey, are you really just going to leave?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 927,
           "OriginalText": "\nTali wants to see what you\u0027ve got.\n\nA voe\u0027s voe wouldn\u0027t back down.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0028",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 936,
           "OriginalText": "You again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 940,
           "OriginalText": " Don\u0027t bother ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 944,
@@ -1169,8 +1101,7 @@
         {
           "Line": 947,
           "OriginalText": " while she\u0027s\ngetting pumped up for the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 951,
@@ -1181,8 +1112,7 @@
         {
           "Line": 954,
           "OriginalText": "!\nNow that the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 958,
@@ -1193,95 +1123,85 @@
         {
           "Line": 961,
           "OriginalText": " is gone, we\ncan finally use the race course!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 967,
           "OriginalText": "Actually...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 971,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 977,
           "OriginalText": "Did you want to try to beat Tali\u0027s record?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 981,
-          "OriginalText": "\nI\u0027ll warn you\u2014they don\u0027t call her Dame\nof the Dunes for nothing.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "\nI\u0027ll warn you—they don\u0027t call her Dame\nof the Dunes for nothing.",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0029",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1000,
           "OriginalText": "Haha!\nYou\u0027re so funny, Tali.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0030",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1009,
           "OriginalText": "You again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1013,
           "OriginalText": " Tali is too important to be\nmingling with common folk.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1017,
           "OriginalText": " She\u0027s the\nsand-seal racing champion!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1023,
           "OriginalText": "Or...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1027,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1033,
           "OriginalText": "So you do want to challenge the\nchampion\u0027s record after all?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0031",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1052,
           "OriginalText": "Now we ride!\nNow that the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1056,
@@ -1292,52 +1212,51 @@
         {
           "Line": 1059,
           "OriginalText": " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali\u0027s time, though.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0032",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1078,
           "OriginalText": "I thought everyone knew about it.\nIsn\u0027t that shocking, Tali?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0040",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1087,
           "OriginalText": "Hey, hey, hey!\nYou don\u0027t have the \u0027pees!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0041",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1096,
           "OriginalText": "How dare you bring chump change\nto the house of Tali!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0042",
+      "NPC": "Shabonne",
       "TextList": [
         {
           "Line": 1105,
           "OriginalText": "Enough talk!\nLet\u0027s begin!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

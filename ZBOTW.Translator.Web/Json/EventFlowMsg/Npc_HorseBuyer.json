@@ -3,24 +3,22 @@
   "EntryList": [
     {
       "EntryName": "Talk00",
+      "NPC": "Zyle",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "Hey, hey, you\u0027re that traveler who sold\nme the horse before! Really appreciate\nthat, seriously!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 19,
           "OriginalText": "Thanks to you, I made it back to \ncivilization. Yeah, and after I got back, \nI made a niiiiice profit selling it to...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 25,
           "OriginalText": "Erm... I mean... Hey, HEY!\nI am taking great care of the horse!\nMy trusted partner! Real great care!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 37,
@@ -32,12 +30,12 @@
     },
     {
       "EntryName": "Talk03",
+      "NPC": "Zyle",
       "TextList": [
         {
           "Line": 51,
           "OriginalText": "Be sure to say hello if you see me on\nyour travels!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

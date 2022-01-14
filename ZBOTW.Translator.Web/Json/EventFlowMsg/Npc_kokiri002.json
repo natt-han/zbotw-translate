@@ -3,27 +3,25 @@
   "EntryList": [
     {
       "EntryName": "Npc_kokiri002_Talk000",
+      "NPC": "Walton",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "*yawn*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "* หาว*"
         },
         {
           "Line": 22,
           "OriginalText": "You already solved all of the riddles...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "คุณแก้ปริศนาได้ทั้งหมดแล้ว..."
         },
         {
           "Line": 26,
           "OriginalText": "\nI admit defeat...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "\nฉันยอมรับความพ่ายแพ้..."
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

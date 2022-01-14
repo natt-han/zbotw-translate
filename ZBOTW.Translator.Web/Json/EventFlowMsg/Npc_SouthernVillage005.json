@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027ll buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ll sell.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Quit",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Yes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "No.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I\u0027d like to buy.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,59 +87,57 @@
         {
           "Line": 40,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_00",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 49,
           "OriginalText": "What will ya sell me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_01",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 53,
           "OriginalText": "You\u0027re gonna sell me that?\nIt\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 61,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 64,
           "OriginalText": ", OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 81,
           "OriginalText": "Thank you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 85,
           "OriginalText": "\nAre you gonna sell me anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -157,14 +147,12 @@
         {
           "Line": 94,
           "OriginalText": "Thank you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 98,
           "OriginalText": "\nI\u0027ll take anything you don\u0027t need off\nyour hands!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -174,14 +162,12 @@
         {
           "Line": 107,
           "OriginalText": "You make me so happy!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 111,
           "OriginalText": "\nI\u0027ll keep buying stuff from you if\nyou bring it to me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -191,36 +177,34 @@
         {
           "Line": 120,
           "OriginalText": "Thank you very much!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 124,
           "OriginalText": "\nDid you need anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_04",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 133,
           "OriginalText": "Oh, that\u0027s too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 137,
           "OriginalText": "I\u0027ll buy anything!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -230,8 +214,7 @@
         {
           "Line": 141,
           "OriginalText": "I\u0027ll buy anything off ya!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -241,8 +224,7 @@
         {
           "Line": 145,
           "OriginalText": "Don\u0027t hesitate to sell me stuff!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -252,160 +234,157 @@
         {
           "Line": 149,
           "OriginalText": "I\u0027ll buy a lot of different things from ya!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_10",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 153,
           "OriginalText": "You want that, then?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 170,
           "OriginalText": "Thank you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11b",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 179,
           "OriginalText": "Thanks for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11c",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 188,
           "OriginalText": "Thank you! You\u0027re helping me out a \nbunch!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_11d",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 197,
           "OriginalText": "Thank youuu!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_13",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 201,
           "OriginalText": "That\u0027s what you\u0027re selling?\nHow many? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_14",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 214,
           "OriginalText": "So that\u0027s...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 219,
           "OriginalText": " of them.\nI\u0027d say ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 227,
           "OriginalText": " rupees ",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 230,
           "OriginalText": "is a fair price. OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_15",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 247,
           "OriginalText": "I can\u0027t take that off your hands.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_16",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 256,
           "OriginalText": "I can\u0027t buy something you\u0027re wearing!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 260,
           "OriginalText": "\nTake it off, and then sell it to me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_33",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 264,
           "OriginalText": "Only one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 268,
           "OriginalText": " That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 276,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 279,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -415,20 +394,19 @@
         {
           "Line": 291,
           "OriginalText": "All of them? OK... That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 299,
           "OriginalText": "\nrupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 302,
           "OriginalText": ", I think. Agreed?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -438,20 +416,19 @@
         {
           "Line": 314,
           "OriginalText": "Every last one, eh? That\u0027ll be\na total of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 322,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 325,
           "OriginalText": ", OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -461,20 +438,19 @@
         {
           "Line": 342,
           "OriginalText": "It\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 350,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 353,
           "OriginalText": ". Is that OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -484,8 +460,7 @@
         {
           "Line": 365,
           "OriginalText": "How many would ya like?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -495,26 +470,25 @@
         {
           "Line": 388,
           "OriginalText": "So that\u0027s...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 393,
           "OriginalText": " in total. That\u0027ll\nbe ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 401,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 404,
           "OriginalText": ". Sound good?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -524,8 +498,7 @@
         {
           "Line": 421,
           "OriginalText": "Oh, you\u0027ve changed your mind?\nWhat a shame.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -535,14 +508,12 @@
         {
           "Line": 430,
           "OriginalText": "You don\u0027t have enough rupees!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 434,
           "OriginalText": "\nCome back later!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -552,233 +523,224 @@
         {
           "Line": 443,
           "OriginalText": "You have so much stuff!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 447,
           "OriginalText": "\nOrganize your stuff, make some room,\nand then come back!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_56",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 451,
           "OriginalText": "Only one? That\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 459,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 462,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near00",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 474,
           "OriginalText": "Affordable and delicious!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near01",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 478,
           "OriginalText": "You stop that!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 487,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 491,
           "OriginalText": "\nYou\u0027re a new face!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 500,
           "OriginalText": "Come again!\nI\u0027ll be waiting!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 509,
           "OriginalText": "Thanks for your business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 518,
           "OriginalText": "Fresh fish! Just recently caught!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 522,
           "OriginalText": "\nTake a look!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 540,
           "OriginalText": "If you want something, just let me know\nby standing in front of it and selecting it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 549,
           "OriginalText": "You need more?\nI\u0027ll be sure to get some \nmore for next time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 558,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 562,
           "OriginalText": "\nThanks for coming by on such a\nrainy day!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 571,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 575,
           "OriginalText": "\nI just got fresh stuff in this morning!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 584,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 588,
           "OriginalText": "\nKnow what sounds good on such a hot\nday? Some fish! What do you think?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 597,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 601,
           "OriginalText": "\nYou here to buy something for dinner?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 610,
           "OriginalText": "Heeey! Welcome!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 614,
           "OriginalText": "\nGot a case of the midnight munchies?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Mubs",
       "TextList": [
         {
           "Line": 623,
           "OriginalText": "Sorry, but I don\u0027t have anything left\nto sell today.\n\nI can still buy stuff from you, though.\nYou interested?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

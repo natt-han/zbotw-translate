@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Sounds good to me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Nah, I\u0027m cool.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "I\u0027m in!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,36 +37,34 @@
         {
           "Line": 20,
           "OriginalText": "I\u0027ll pass this time.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_Kokiri011_R_001",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 24,
           "OriginalText": "I hope you studied!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0000",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 33,
           "OriginalText": "Hey, Mr. Swordsman!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 37,
           "OriginalText": " Congrats on\ncompleting the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 41,
@@ -80,20 +75,17 @@
         {
           "Line": 44,
           "OriginalText": "!\nWasn\u0027t too hot for you, was it?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 50,
           "OriginalText": "Well, if you thought that was fun, how\nabout taking a crack at a trial that\u0027ll\nreally turn up the heat?\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 56,
           "OriginalText": "Don\u0027t worry, Mr. Hero, you\u0027ll be doing\nthe same thing as before! The only\ndifference is how long you have to do it.\nIf you can make it to the goal within\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 60,
@@ -104,42 +96,39 @@
         {
           "Line": 63,
           "OriginalText": ", you\u0027ll get a prize!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0001",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 72,
           "OriginalText": "Oh, OK.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 76,
           "OriginalText": "\nJust come back again if you change\nyour mind!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0002",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 85,
           "OriginalText": "OK, cool!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 91,
           "OriginalText": "The rules are the same as before.\nEquip the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 95,
@@ -150,8 +139,7 @@
         {
           "Line": 98,
           "OriginalText": ", ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 102,
@@ -162,8 +150,7 @@
         {
           "Line": 105,
           "OriginalText": ", and ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 109,
@@ -174,65 +161,65 @@
         {
           "Line": 112,
           "OriginalText": ", and\nmake it to the shrine in the back.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0002_1",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 121,
           "OriginalText": "I\u0027ll get everything ready for you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0002_2",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 130,
           "OriginalText": "If you can reach the goal in under\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 138,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_BestTime_L"
         },
         {
           "Line": 143,
           "OriginalText": ".",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_BestTime_M"
         },
         {
           "Line": 150,
           "OriginalText": ", there\u0027ll be a prize for you!",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "ShieldofKolog_mini_BestTime_S"
         }
       ]
     },
     {
       "EntryName": "Talk_0004",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 159,
           "OriginalText": "Hi there, Mr. Hero!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 163,
           "OriginalText": "\nWanna take the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 167,
@@ -243,14 +230,12 @@
         {
           "Line": 170,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
           "OriginalText": "You just gotta make it to the goal within\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 180,
@@ -261,25 +246,23 @@
         {
           "Line": 183,
           "OriginalText": "to win a prize!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_0005",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 192,
           "OriginalText": "Hey-hey, Mr. Hero!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 196,
           "OriginalText": "\nWelcome to the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 200,
@@ -290,95 +273,95 @@
         {
           "Line": 203,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 209,
           "OriginalText": "The current record is ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 217,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_BestTime_L"
         },
         {
           "Line": 222,
           "OriginalText": ".",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_BestTime_M"
         },
         {
           "Line": 229,
           "OriginalText": ".\nWanna try to shatter it?!",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "ShieldofKolog_mini_BestTime_S"
         }
       ]
     },
     {
       "EntryName": "Talk_1000",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 233,
           "OriginalText": "You made it in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 241,
           "OriginalText": ":",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_ThisTime_L"
         },
         {
           "Line": 246,
           "OriginalText": ".",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShieldofKolog_mini_ThisTime_M"
         },
         {
           "Line": 253,
           "OriginalText": "!",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "ShieldofKolog_mini_ThisTime_S"
         }
       ]
     },
     {
       "EntryName": "Talk_1001",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 262,
           "OriginalText": "Wow, a new record!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 266,
           "OriginalText": " Congrats, Mr. Hero!\nI knew you\u0027d be great at this!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1001_1",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 275,
           "OriginalText": "All right!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 279,
           "OriginalText": " You made it here ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 283,
@@ -389,121 +372,114 @@
         {
           "Line": 286,
           "OriginalText": ", so you get a prize!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1001_2",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 295,
           "OriginalText": "All right!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 299,
           "OriginalText": " You made it to the goal faster\nthan your previous time, so you get a\nprize!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1002",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 308,
           "OriginalText": "Ta-daaa!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 312,
           "OriginalText": " Congrats, Mr. Hero!\nHope you like it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1003",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 321,
           "OriginalText": "Let me know if you wanna try to break\nyour record!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1008",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 330,
           "OriginalText": "You didn\u0027t manage to beat your own\nrecord, but you did get a pretty good\ntime. Here\u0027s a consolation prize!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1009",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 342,
           "OriginalText": "That\u0027s it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 349,
           "OriginalText": "\n\n\nSorry, Mr. Hero, but you didn\u0027t finish\nwithin five minutes, so you\u0027re done. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 353,
           "OriginalText": "\nTry harder next time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1010",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 362,
           "OriginalText": "Gosh, that\u0027s too bad.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 366,
           "OriginalText": " You didn\u0027t beat\nthe current record.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 372,
           "OriginalText": "Well, I\u0027ll hold on to the prize for now.\nYou\u0027ll beat it next time!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1011",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 381,
           "OriginalText": "I\u0027ll just need a security deposit of ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 385,
@@ -514,31 +490,28 @@
         {
           "Line": 388,
           "OriginalText": " to cover the cost of the gear\nrental.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 392,
           "OriginalText": " Sound fair?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1012",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 409,
           "OriginalText": "Oh, what do ya know! Looks like you\u0027re\nalready well equipped, Mr. Hero.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 420,
           "OriginalText": "You don\u0027t need to borrow the entire\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 424,
@@ -549,8 +522,7 @@
         {
           "Line": 427,
           "OriginalText": ", so I can cut\n50% off your entry fee.\nSo, that\u0027ll be just ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 431,
@@ -561,19 +533,18 @@
         {
           "Line": 434,
           "OriginalText": " to get in!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1013",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 443,
           "OriginalText": "You can rent what you need from the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 447,
@@ -584,59 +555,55 @@
         {
           "Line": 450,
           "OriginalText": ". I\u0027ll take it back\nonce you\u0027re done.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1014",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 459,
           "OriginalText": "Uh oh, Mr. Hero...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 463,
           "OriginalText": "\nYou don\u0027t have enough rupees!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1100",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 472,
           "OriginalText": "Oops, I almost forgot! I need to collect\nthat gear you borrowed.\n\nI\u0027ll go ahead and take you back to the\nstart, too. Hold on tight!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 476,
           "OriginalText": "\nYaaaa-hooooooeeeyyy!!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1101",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 485,
           "OriginalText": "So, do you wanna give it another go?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 489,
           "OriginalText": "\nI\u0027ll need ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 493,
@@ -647,25 +614,23 @@
         {
           "Line": 496,
           "OriginalText": " to cover the gear.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1102",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 513,
           "OriginalText": "So, do you wanna give it another go?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 519,
           "OriginalText": "With the weapon rental discount, that\u0027ll\nbe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 523,
@@ -676,105 +641,97 @@
         {
           "Line": 526,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1103",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 543,
           "OriginalText": "All right! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 547,
           "OriginalText": "I\u0027ll just get us back to the start.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 553,
           "OriginalText": "Aaaaand...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 557,
           "OriginalText": "\nYaaaa-hooooooeeeyyy!!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1104",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 566,
           "OriginalText": "Oh, no problem.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 570,
           "OriginalText": "\nSee you next time, Mr. Swordsman!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1105",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 579,
           "OriginalText": "Aw, did you think I\u0027d just leave you here?\nI\u0027d never leave you hanging, Mr. Hero!\nLet\u0027s go back to the start!\nAaaaand...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 583,
           "OriginalText": "\nYaaaa-hooooooeeeyyy!!!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1106",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 592,
           "OriginalText": "Too bad, Mr. Hero.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 596,
           "OriginalText": " We all fail from time\nto time.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 600,
           "OriginalText": " Don\u0027t be too hard on yourself.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_1107",
+      "NPC": "Damia",
       "TextList": [
         {
           "Line": 609,
           "OriginalText": "If you wanna give it another shot, save\nup your rupees and come see me again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

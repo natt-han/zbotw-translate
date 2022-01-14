@@ -3,23 +3,23 @@
   "EntryList": [
     {
       "EntryName": "Near_00",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 8,
           "OriginalText": "Put your back into it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ออกแรงอีก!"
         }
       ]
     },
     {
       "EntryName": "Near_01",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 12,
           "OriginalText": "Hah! Hah!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Hah! Hah!"
         }
       ]
     },
@@ -29,8 +29,7 @@
         {
           "Line": 16,
           "OriginalText": "An ambush!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "An ambush!"
         }
       ]
     },
@@ -40,8 +39,7 @@
         {
           "Line": 20,
           "OriginalText": "What\u0027s that?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "What\u0027s that?"
         }
       ]
     },
@@ -51,8 +49,7 @@
         {
           "Line": 24,
           "OriginalText": "Wh-what?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Wh-what?!"
         }
       ]
     },
@@ -62,8 +59,7 @@
         {
           "Line": 28,
           "OriginalText": "Hot! That\u0027s hot!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Hot! That\u0027s hot!"
         }
       ]
     },
@@ -73,118 +69,113 @@
         {
           "Line": 32,
           "OriginalText": "You wanna throw down?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "You wanna throw down?!"
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 41,
           "OriginalText": "Can\u0027t you tell that we\u0027re on high\nalert right now?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ดูไม่ออกเหรอว่าตอนนี้เรากำลัง\nเพิ่ม"
         },
         {
           "Line": 45,
           "OriginalText": " And no, you can\u0027t help!\nOutsiders must stay out of it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " และไม่ คุณช่วยอะไรไม่ได้!\nคนนอกห้ามเข้ามายุ่ง!"
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 54,
           "OriginalText": "Despite my warnings, you and this vai\nhere keep wandering into the barracks!\n\nKnow that the only reason you\u0027re not\nalready sliced into pieces is because\nwe are otherwise occupied!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ทั้งที่ฉันเตือนแล้ว คุณและ vai นี้ก็ยัง\nเข้ามาป้วนเปี้ยนในค่าย!\n\nรู้ไว้นะว่าเหตุผลเดียวทึ่คุณไม่ถูก\nหั่นเป็นชิ้นนั้นเป็นเพราะว่าเรากำลังยุ่ง!"
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 63,
           "OriginalText": "As you can see, we are in the middle of\nspear training!\n\nTeake\u0027s permission or no, I would ask\nthat you not interfere!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "อย่างที่คุณเห็น เรากำลังอยู่ระหว่าง\nการฝึกใช้หอกกันอยู่!\n\nไม่ว่า Teake จะอนุญาตหรือไม่ \nฉันก็ขอให้คุณอย่าเข้ามายุ่ง!"
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 72,
           "OriginalText": "Now that the chief\u0027s heirloom has been\nreturned, we must prevent such a crime\nfrom happening again!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ตอนนี้เมื่อมรดกของหัวหน้ากลับคืนมาแล้ว\nเราต้องหาทางป้องกันไม่ให้เรื่องแบบนี้\nเกิดขึ้นซ้ำอีก!\n"
         },
         {
           "Line": 78,
           "OriginalText": "I must never neglect my training. My\ndiligence will inspire each and every one\nof those who strive to be like me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฉันต้องไม่ละเลยการฝึก ความขยันของฉัน\nจะเป็นแรงบันดาลใจให้กับทุกคน\nที่ต้องการจะเป็นเหมือนกับฉัน!"
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 87,
           "OriginalText": "Heh...\nMy brave, strong appearance...\n\nI can feel the gazes of those weaker than\nI am.\n\nIf you want to be like me, too, then\nyou must never neglect your training!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "หึ...\nภาพลักษณ์อันกล้าหาญและแข็งแกร่งของฉัน...\n\nฉันรู้สึกสายตาที่มองมาของผู้ที่อ่อนแอกว่าฉัน\n\nถ้าหากคุณต้องการเป็นอย่างฉันละก็\nเช่นนั้นก็ต้องไม่ละเลยการฝึกฝน!"
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 96,
           "OriginalText": "I\u0027d like to help that vai out, but...\n\n\nA ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฉันก็อยากช่วย vai คนนั้น แต่ว่า...\n\n\n"
         },
         {
           "Line": 105,
           "OriginalText": "Molduga",
-          "TranslatedText": null,
+          "TranslatedText": "Molduga",
           "Colour": "blue"
         },
         {
           "Line": 108,
           "OriginalText": " is a much stronger foe\nthan even I can handle. It would be\nimpossible for an average soldier.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " นั้นแข็งแกร่งกว่าศัตรู\nที่ฉันเคยรับมือมามาก มันคงเป็นไปไม่ได้\nสำหรับทหารธรรมดาคนหนึ่ง"
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Babi",
       "TextList": [
         {
           "Line": 117,
           "OriginalText": "You\u0027re not going to hear any gratitude\nfrom me.\n\nI got too wrapped up in coaching my\nsubordinates and fell behind is all.\n\nAs a member of the Gerudo, it is my duty\nto prevent something like this from ever\nhappening again!\nI will protect the town and Lady Riju with\nall my strength.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "คุณจะไม่ได้ยินคำขอบคุณจากหรอกนะ\n\nฉันก็แค่วุ่นวายอยู่กับการต้องคอยสอน\nลูกน้องก็เลยช้ากว่าเท่านั้นเอง\n\nในฐานะสมาชิกของ Gerudo มันเป็นหน้าที่\nของฉันที่จะต้องป้องกันไม่ให้เรื่องแบบนี้\nเกิดขึ้นได้อีก!\nฉันจะปกป้องเมืองนี้และ Lady Riju ด้วย\nกำลังทั้งหมดที่มี"
         },
         {
           "Line": 121,
           "OriginalText": " And you\u0027d better not\nget in the way!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " คุณอย่ามาเกะกะล่ะ!"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Is something wrong?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Hmm?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "I\u0027ll light it for you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Easily.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I give up.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "No way.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "The lab?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "I\u0027ll do it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 44,
           "OriginalText": "Horse-handling fee?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,98 +107,93 @@
         {
           "Line": 48,
           "OriginalText": "If you say so.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Ask",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 57,
           "OriginalText": "You\u0027re not thinking of quitting, are you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "BeforeStart_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 79,
           "OriginalText": "Alrighty... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 83,
           "OriginalText": "On your mark...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 87,
           "OriginalText": "get set... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "BeforeStart_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 99,
           "OriginalText": "Three...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 105,
           "OriginalText": "Two...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 111,
           "OriginalText": "One...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 122,
           "OriginalText": "Go!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "BeforeStart_02",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 134,
           "OriginalText": "See, I\u0027ll say that, and then you\u0027ll start.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "CantPlay_End",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 143,
           "OriginalText": "Don\u0027t put it out!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "CantPlay_End_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 158,
@@ -220,12 +205,12 @@
     },
     {
       "EntryName": "CantPlay_LanternOn_AfterTalk",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 172,
           "OriginalText": "Is there anything in all the world\nas pretty as the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
@@ -236,31 +221,28 @@
         {
           "Line": 179,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 183,
           "OriginalText": "\nI\u0027m thinking...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 187,
           "OriginalText": "no.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "CantPlay_LanternOn_BeforeTalk",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 196,
           "OriginalText": "*sigh...* Good old ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 200,
@@ -271,36 +253,34 @@
         {
           "Line": 203,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 207,
           "OriginalText": " It\u0027s so\nsoothing to stare at, don\u0027t you think?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "CantPlay_Weather",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 216,
           "OriginalText": "The weather\u0027s pretty lousy, though,\nso maybe not.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "CantPlay_Weather_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 225,
           "OriginalText": "You can try anyway, but the reward is\nstill the same ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 229,
@@ -311,42 +291,39 @@
         {
           "Line": 232,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 249,
           "OriginalText": "You? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 253,
           "OriginalText": "Hmm...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 257,
           "OriginalText": " That\u0027s one possibility,\nI guess.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 266,
           "OriginalText": "How fast can you do it? Do you think\nyou can bring the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 270,
@@ -357,8 +334,7 @@
         {
           "Line": 273,
           "OriginalText": "to this\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 277,
@@ -369,8 +345,7 @@
         {
           "Line": 280,
           "OriginalText": "in under ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 284,
@@ -381,19 +356,18 @@
         {
           "Line": 287,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_02",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 304,
           "OriginalText": "How fast can you do it? Do you think\nyou can bring the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 308,
@@ -404,8 +378,7 @@
         {
           "Line": 311,
           "OriginalText": "to this\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 315,
@@ -416,8 +389,7 @@
         {
           "Line": 318,
           "OriginalText": "in under ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 322,
@@ -428,19 +400,18 @@
         {
           "Line": 325,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_03",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 342,
           "OriginalText": "How fast can you do it? Do you think\nyou can bring the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 346,
@@ -451,8 +422,7 @@
         {
           "Line": 349,
           "OriginalText": "to this\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 353,
@@ -463,8 +433,7 @@
         {
           "Line": 356,
           "OriginalText": "in under ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 360,
@@ -475,25 +444,23 @@
         {
           "Line": 363,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_04",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 380,
           "OriginalText": "Great!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 384,
           "OriginalText": " But I\u0027ll be taking ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 388,
@@ -504,26 +471,22 @@
         {
           "Line": 391,
           "OriginalText": "as a\nhorse-handling fee.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 405,
           "OriginalText": "Well, you\u0027re going to use a horse, right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 409,
           "OriginalText": "\nI don\u0027t see any other way to do it that\nfast.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 413,
           "OriginalText": " So yeah, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 417,
@@ -534,25 +497,23 @@
         {
           "Line": 420,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_05",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 437,
           "OriginalText": "Great!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 441,
           "OriginalText": " But I\u0027ll be taking ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 445,
@@ -563,42 +524,39 @@
         {
           "Line": 448,
           "OriginalText": "as a\nhorse-handling fee.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_06",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 465,
           "OriginalText": "You won\u0027t regret it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_07",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 474,
           "OriginalText": "Unless I\u0027m counting wrong...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 478,
           "OriginalText": "this isn\u0027t\nenough rupees. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 482,
           "OriginalText": "Come back when you\u0027ve\nsaved up at least ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 486,
@@ -609,48 +567,44 @@
         {
           "Line": 489,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Explanation_08",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 498,
           "OriginalText": "Thank you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Fail",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 507,
           "OriginalText": "You failed... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 511,
           "OriginalText": "Why\u0027d you go and get my\nhopes up?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 522,
           "OriginalText": "I hope you\u0027ll try again sometime.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 526,
           "OriginalText": " Come\ntalk to me when the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 530,
@@ -661,19 +615,18 @@
         {
           "Line": 533,
           "OriginalText": "isn\u0027t lit.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Fail02",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 542,
           "OriginalText": "Of course, if the rain hits it, it\u0027s bye-bye\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 546,
@@ -684,36 +637,34 @@
         {
           "Line": 549,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 560,
           "OriginalText": "You\u0027ll never get it here in this weather.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 564,
           "OriginalText": "\nWait for it to clear up, and then give it\nanother try.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 573,
           "OriginalText": "*sigh...*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 591,
@@ -737,24 +688,22 @@
     },
     {
       "EntryName": "FirstTalk_02",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 620,
           "OriginalText": "Oh, sorry! Guess I was daydreaming.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 631,
           "OriginalText": "Life has been so dull since I married into\nthis family.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 635,
           "OriginalText": " I used to pass the time by\nstaring at the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 639,
@@ -765,8 +714,7 @@
         {
           "Line": 642,
           "OriginalText": "\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 646,
@@ -777,14 +725,12 @@
         {
           "Line": 649,
           "OriginalText": "...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 655,
           "OriginalText": "But the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 659,
@@ -795,8 +741,7 @@
         {
           "Line": 662,
           "OriginalText": "at the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 666,
@@ -807,25 +752,23 @@
         {
           "Line": 669,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 673,
           "OriginalText": "hasn\u0027t\nlit the fire in so long.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_03",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 753,
           "OriginalText": "What\u0027s wrong with the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 757,
@@ -836,14 +779,12 @@
         {
           "Line": 760,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 771,
           "OriginalText": "Why won\u0027t he light the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 775,
@@ -854,8 +795,7 @@
         {
           "Line": 778,
           "OriginalText": "with\nthat beautiful ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 782,
@@ -866,25 +806,23 @@
         {
           "Line": 785,
           "OriginalText": "again?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_04",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 865,
           "OriginalText": "Yes... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 869,
           "OriginalText": "Its ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 873,
@@ -895,8 +833,7 @@
         {
           "Line": 876,
           "OriginalText": " used to light the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 880,
@@ -907,8 +844,7 @@
         {
           "Line": 883,
           "OriginalText": "with a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 887,
@@ -919,31 +855,28 @@
         {
           "Line": 890,
           "OriginalText": " for his",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 894,
           "OriginalText": "\nexperiments.\nBut he\u0027s getting up there in age now,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 898,
           "OriginalText": "\nso maybe he can\u0027t get out as often as\nhe used to.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_05",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 907,
           "OriginalText": "I\u0027m talking about the \n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 911,
@@ -954,163 +887,160 @@
         {
           "Line": 914,
           "OriginalText": "right",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 918,
           "OriginalText": "\nup this road, if you haven\u0027t been.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "FirstTalk_06",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 927,
           "OriginalText": "They remodeled it from an old\nlighthouse, so it\u0027s easy to spot.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Goodbye",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 936,
           "OriginalText": "I\u0027ll see you later!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 940,
           "OriginalText": " Bye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Goodbye_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 949,
           "OriginalText": "Well, thanks anyway.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Greetings_AboutNoon",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 958,
           "OriginalText": "Hello!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Greetings_Again",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 967,
           "OriginalText": "Hi, hi!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Greetings_Morning",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 976,
           "OriginalText": "G\u0027morning!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Greetings_Night",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 985,
           "OriginalText": "Evening!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_Game",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 989,
           "OriginalText": "So excited!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_LanternOff",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 993,
           "OriginalText": "*sigh*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_LanternOn",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 997,
           "OriginalText": "Tum te dum...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "NotAccept_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1006,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "NotAccept_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1015,
           "OriginalText": "I see...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Please_00",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1024,
-          "OriginalText": "Remember\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Remember—",
+          "TranslatedText": null
         },
         {
           "Line": 1028,
@@ -1121,19 +1051,18 @@
         {
           "Line": 1031,
           "OriginalText": "or less!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Please_01",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1040,
-          "OriginalText": "Remember\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Remember—",
+          "TranslatedText": null
         },
         {
           "Line": 1044,
@@ -1144,19 +1073,18 @@
         {
           "Line": 1047,
           "OriginalText": "or less!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Please_02",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1056,
-          "OriginalText": "Remember\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Remember—",
+          "TranslatedText": null
         },
         {
           "Line": 1060,
@@ -1167,47 +1095,45 @@
         {
           "Line": 1063,
           "OriginalText": "or less!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Restart",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1072,
           "OriginalText": "You can do it! I know you can!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Reward",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1081,
           "OriginalText": "I really ought to do something to thank\nyou, huh?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Succeed_First",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1090,
           "OriginalText": "Unbelievable!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1094,
           "OriginalText": " It\u0027s back! The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1098,
@@ -1218,36 +1144,34 @@
         {
           "Line": 1101,
           "OriginalText": "\nis really back!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Succeed_Rain",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1110,
           "OriginalText": "You even managed to light it in the rain?!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1114,
           "OriginalText": "\nThat deserves a little something extra!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_AfterMiniGameClear",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1128,
           "OriginalText": "The ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1132,
@@ -1258,25 +1182,23 @@
         {
           "Line": 1135,
           "OriginalText": "went out...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1139,
           "OriginalText": "\nCan you light it again?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_BeforeMiniGameClear",
+      "NPC": "Aya",
       "TextList": [
         {
           "Line": 1156,
           "OriginalText": "Will I ever get to see that wondrous\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1160,
@@ -1287,8 +1209,7 @@
         {
           "Line": 1163,
           "OriginalText": "in its ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1167,
@@ -1299,8 +1220,7 @@
         {
           "Line": 1170,
           "OriginalText": "again?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Where is it?",
-          "TranslatedText": "มันอยู่ที่ไหน?",
-          "Colour": null
+          "TranslatedText": "มันอยู่ที่ไหน?"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Blessing?",
-          "TranslatedText": "พร?",
-          "Colour": null
+          "TranslatedText": "พร?"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "What are you doing?",
-          "TranslatedText": "คุณกำลังทำอะไร?",
-          "Colour": null
+          "TranslatedText": "คุณกำลังทำอะไร?"
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Gotta go.",
-          "TranslatedText": "ต้องไปแล้ว.",
-          "Colour": null
+          "TranslatedText": "ต้องไปแล้ว."
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "My lips are sealed.",
-          "TranslatedText": "ฉันรูดซิปปาก.",
-          "Colour": null
+          "TranslatedText": "ฉันรูดซิปปาก."
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "I need to go.",
-          "TranslatedText": "ฉันต้องไป",
-          "Colour": null
+          "TranslatedText": "ฉันต้องไป"
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Blessing?",
-          "TranslatedText": "พร?",
-          "Colour": null
+          "TranslatedText": "พร?"
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "I see.",
-          "TranslatedText": "ฉันเข้าใจ.",
-          "Colour": null
+          "TranslatedText": "ฉันเข้าใจ."
         }
       ]
     },
@@ -95,76 +87,71 @@
         {
           "Line": 40,
           "OriginalText": "Bye!",
-          "TranslatedText": "บาย!",
-          "Colour": null
+          "TranslatedText": "บาย!"
         }
       ]
     },
     {
       "EntryName": "Near_002",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 44,
           "OriginalText": "I see...",
-          "TranslatedText": "ฉันเข้าใจ...",
-          "Colour": null
+          "TranslatedText": "ฉันเข้าใจ..."
         }
       ]
     },
     {
       "EntryName": "Talk_00",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 53,
           "OriginalText": "It was over there the whole time?",
-          "TranslatedText": "มันอยู่ที่นั่นตลอดเวลาเหรอ?",
-          "Colour": null
+          "TranslatedText": "มันอยู่ที่นั่นตลอดเวลาเหรอ?"
         },
         {
           "Line": 57,
           "OriginalText": "\nI thought it strange that the sandstorm over there\nnever lifted...",
-          "TranslatedText": "\nฉันคิดว่ามันแปลกที่พายุทรายตรงนั้นไม่เคยพัด...",
-          "Colour": null
+          "TranslatedText": "\nฉันคิดว่ามันแปลกที่พายุทรายตรงนั้นไม่เคยพัด..."
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 72,
           "OriginalText": "I\u0027m not sure what exactly it means, but\nmaybe I\u0027ll find out once I\u0027ve deciphered\nmore of the text.\n",
-          "TranslatedText": "ฉันไม่แน่ใจว่ามันหมายถึงอะไรกันแน่ \nแต่บางทีฉันจะรู้เมื่อฉันถอดรหัสข้อความมากขึ้น.\n",
-          "Colour": null
+          "TranslatedText": "ฉันไม่แน่ใจว่ามันหมายถึงอะไรกันแน่ \nแต่บางทีฉันจะรู้เมื่อฉันถอดรหัสข้อความมากขึ้น.\n"
         },
         {
           "Line": 78,
           "OriginalText": "I\u0027m not sure if this is related, but it\u0027s said\nthe heroines held powers that were part\nof a bigger whole.\nEach heroine had a different power:\nskill, spirit, endurance, knowledge, flight,\nmotion, and gentleness.\nBut they all look the same to me.",
-          "TranslatedText": "ฉันไม่แน่ใจว่ามันเกี่ยวข้องกันหรือเปล่า\nแต่มีการกล่าวว่าวีรสตรีมีอำนาจ\nซึ่งเป็นส่วนหนึ่งของทั้งหมดที่ใหญ่กว่า\nวีรสตรีแต่ละคนมีพลังที่แตกต่างกัน:\nทักษะวิญญาณ ความอดทน ความรู้การบิน\nการเคลื่อนไหว และความอ่อนโยน\nแต่พวกเขาดูเหมือนกันกับฉัน.",
-          "Colour": null
+          "TranslatedText": "ฉันไม่แน่ใจว่ามันเกี่ยวข้องกันหรือเปล่า\nแต่มีการกล่าวว่าวีรสตรีมีอำนาจ\nซึ่งเป็นส่วนหนึ่งของทั้งหมดที่ใหญ่กว่า\nวีรสตรีแต่ละคนมีพลังที่แตกต่างกัน:\nทักษะวิญญาณ ความอดทน ความรู้การบิน\nการเคลื่อนไหว และความอ่อนโยน\nแต่พวกเขาดูเหมือนกันกับฉัน."
         }
       ]
     },
     {
       "EntryName": "Talk_02",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 87,
           "OriginalText": "I should understand the entire script\nbefore long, but that\u0027s only the\nbeginning of my problems.",
-          "TranslatedText": "ฉันควรจะเข้าใจสคริปต์ทั้งหมดก่อนที่จะใช้เวลานาน \nแต่นั่นเป็นเพียงจุดเริ่มต้นของปัญหาของฉัน.",
-          "Colour": null
+          "TranslatedText": "ฉันควรจะเข้าใจสคริปต์ทั้งหมดก่อนที่จะใช้เวลานาน \nแต่นั่นเป็นเพียงจุดเริ่มต้นของปัญหาของฉัน."
         },
         {
           "Line": 91,
           "OriginalText": "\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 97,
           "OriginalText": "That ",
-          "TranslatedText": "ที่ ",
-          "Colour": null
+          "TranslatedText": "ที่ "
         },
         {
           "Line": 101,
@@ -175,128 +162,118 @@
         {
           "Line": 104,
           "OriginalText": "has been moving\naround the area, making it harder for me\nto conduct my research.\nThat thing has no respect for academia!",
-          "TranslatedText": "ได้เคลื่อนไหว\nไปรอบ ๆ พื้นที่ทำให้ยากขึ้นสำหรับฉันในการทำวิจัย\nสิ่งนั้นไม่มีความเคารพต่อวิชาการเลย!",
-          "Colour": null
+          "TranslatedText": "ได้เคลื่อนไหว\nไปรอบ ๆ พื้นที่ทำให้ยากขึ้นสำหรับฉันในการทำวิจัย\nสิ่งนั้นไม่มีความเคารพต่อวิชาการเลย!"
         }
       ]
     },
     {
       "EntryName": "Talk_03",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 113,
           "OriginalText": "Wait, you\u0027re leaving already?\n\n\n",
-          "TranslatedText": "เดี๋ยวก่อนคุณกำลังจะออกไปแล้วเหรอ?\n",
-          "Colour": null
+          "TranslatedText": "เดี๋ยวก่อนคุณกำลังจะออกไปแล้วเหรอ?\n"
         },
         {
           "Line": 119,
           "OriginalText": "Oh. I thought that you came to hear\nthe Legend of the Seven Heroines...",
-          "TranslatedText": "โอ้. ฉันนึกว่าคุณมาเพื่อฟังตำนานเจ็ดวีรสตรี...",
-          "Colour": null
+          "TranslatedText": "โอ้. ฉันนึกว่าคุณมาเพื่อฟังตำนานเจ็ดวีรสตรี..."
         },
         {
           "Line": 123,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 127,
           "OriginalText": "My sister won\u0027t listen to me, so I was hoping\nsomeone else would...",
-          "TranslatedText": "พี่สาวของฉันจะไม่ฟังฉัน\nดังนั้นฉันหวังว่าจะมีคนอื่น...",
-          "Colour": null
+          "TranslatedText": "พี่สาวของฉันจะไม่ฟังฉัน\nดังนั้นฉันหวังว่าจะมีคนอื่น..."
         }
       ]
     },
     {
       "EntryName": "Talk_04",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 139,
           "OriginalText": "\u0022When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\u0022\nWell, we know the place it\u0027s referring to.\nI just need to finish deciphering the full\ntext now.",
-          "TranslatedText": "\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบสถานที่ของพวกเขา\nเส้นทางแห่งพระพรก็จะถูกเปิดเผย \n\u0022เรารู้ดีว่ามันหมายถึงสถานที่ใด\nตอนนี้ฉันต้องถอดรหัสข้อความทั้งหมดให้เสร็จ.",
-          "Colour": null
+          "TranslatedText": "\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบสถานที่ของพวกเขา\nเส้นทางแห่งพระพรก็จะถูกเปิดเผย \n\u0022เรารู้ดีว่ามันหมายถึงสถานที่ใด\nตอนนี้ฉันต้องถอดรหัสข้อความทั้งหมดให้เสร็จ."
         }
       ]
     },
     {
       "EntryName": "Talk_05",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 157,
           "OriginalText": "I wish my sister was more like you. If\nshe\u0027d take more interest in my research,\nshe might learn something useful.\n",
-          "TranslatedText": "ฉันหวังว่าพี่สาวของฉันจะเป็นเหมือนคุณ\nถ้าเธอสนใจงานวิจัยของฉันมากกว่านี้\nเธออาจได้เรียนรู้สิ่งที่มีประโยชน์.\n",
-          "Colour": null
+          "TranslatedText": "ฉันหวังว่าพี่สาวของฉันจะเป็นเหมือนคุณ\nถ้าเธอสนใจงานวิจัยของฉันมากกว่านี้\nเธออาจได้เรียนรู้สิ่งที่มีประโยชน์.\n"
         },
         {
           "Line": 163,
           "OriginalText": "Instead she spends her time obsessing\nover Lady Urbosa. She won\u0027t even give\nme the time of day.",
-          "TranslatedText": "แต่เธอกลับใช้เวลาหมกมุ่นอยู่กับ\nLady Urbosa. เธอแทบจะไม่ให้เวลากับฉันด้วยซ้ำ.",
-          "Colour": null
+          "TranslatedText": "แต่เธอกลับใช้เวลาหมกมุ่นอยู่กับ\nLady Urbosa. เธอแทบจะไม่ให้เวลากับฉันด้วยซ้ำ."
         }
       ]
     },
     {
       "EntryName": "Talk_07",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 172,
           "OriginalText": "Mmm... Huh?\n\n\nAnd what is a Hylian vai like yourself\ndoing here?",
-          "TranslatedText": "อืม... หือ?\nแล้ว ผู้หญิง Hylian แบบเธอ\nมาทำอะไรที่นี่?",
-          "Colour": null
+          "TranslatedText": "อืม... หือ?\nแล้ว ผู้หญิง Hylian แบบเธอ\nมาทำอะไรที่นี่?"
         }
       ]
     },
     {
       "EntryName": "Talk_08",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 189,
           "OriginalText": "I\u0027m an archaeologist...of sorts. I was just\nporing over some ancient text that I\ndiscovered the other day...\n",
-          "TranslatedText": "ฉันเป็นนักโบราณคดี ... \nฉันเพิ่งอ่านข้อความโบราณที่ฉันค้นพบเมื่อวันก่อน...\n",
-          "Colour": null
+          "TranslatedText": "ฉันเป็นนักโบราณคดี ... \nฉันเพิ่งอ่านข้อความโบราณที่ฉันค้นพบเมื่อวันก่อน...\n"
         },
         {
           "Line": 198,
           "OriginalText": "And I\u0027ve finally decoded it!",
-          "TranslatedText": "และในที่สุดฉันก็ถอดรหัสมันได้!",
-          "Colour": null
+          "TranslatedText": "และในที่สุดฉันก็ถอดรหัสมันได้!"
         },
         {
           "Line": 202,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 208,
           "OriginalText": "Well...part of it, at least.\n...But the rest is not far off.\n\nWith this discovery, I\u0027ll finally be able to\nmake a name for myself as an\narchaeologist!\n",
-          "TranslatedText": "อืม ... ส่วนหนึ่งอย่างน้อย\n... แต่ที่เหลืออยู่ไม่ไกล.\nด้วยการค้นพบนี้\nในที่สุดฉันก็สามารถสร้างชื่อ\nให้กับตัวเองในฐานะนักโบราณคดีได้!\n",
-          "Colour": null
+          "TranslatedText": "อืม ... ส่วนหนึ่งอย่างน้อย\n... แต่ที่เหลืออยู่ไม่ไกล.\nด้วยการค้นพบนี้\nในที่สุดฉันก็สามารถสร้างชื่อ\nให้กับตัวเองในฐานะนักโบราณคดีได้!\n"
         },
         {
           "Line": 217,
           "OriginalText": "OF COURSE!",
-          "TranslatedText": "แน่นอน!",
-          "Colour": null
+          "TranslatedText": "แน่นอน!"
         },
         {
           "Line": 224,
           "OriginalText": "\n\n\nYou and I meeting here is no\ncoincidence. I\u0027ve never been one to\nquestion fate.\nI can\u0027t explain why...but I trust you for\nsome reason. I\u0027ll tell you the details of\nmy research if you can keep a secret.",
-          "TranslatedText": "\nคุณและฉันพบกันที่นี่ไม่ใช่เรื่องบังเอิญ\nฉันไม่เคยเป็นคนถามโชคชะตา\nฉันไม่สามารถอธิบายได้ว่าทำไม... \nแต่ฉันเชื่อใจคุณด้วยเหตุผลบางอย่าง\nฉันจะบอกรายละเอียดเกี่ยวกับการวิจัยของฉัน\nหากคุณสามารถเก็บเป็นความลับได้.",
-          "Colour": null
+          "TranslatedText": "\nคุณและฉันพบกันที่นี่ไม่ใช่เรื่องบังเอิญ\nฉันไม่เคยเป็นคนถามโชคชะตา\nฉันไม่สามารถอธิบายได้ว่าทำไม... \nแต่ฉันเชื่อใจคุณด้วยเหตุผลบางอย่าง\nฉันจะบอกรายละเอียดเกี่ยวกับการวิจัยของฉัน\nหากคุณสามารถเก็บเป็นความลับได้."
         }
       ]
     },
     {
       "EntryName": "Talk_09",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 241,
           "OriginalText": "There\u0027s a temple east of here near\nthe entrance to the ",
-          "TranslatedText": "มีวัดทางตะวันออกของที่นี่ใกล้ทางเข้า \n",
-          "Colour": null
+          "TranslatedText": "มีวัดทางตะวันออกของที่นี่ใกล้ทางเข้า \n"
         },
         {
           "Line": 245,
@@ -307,8 +284,7 @@
         {
           "Line": 248,
           "OriginalText": ".\n\nIt\u0027s dedicated to the ",
-          "TranslatedText": ".\nที่อุทิศให้กับ ",
-          "Colour": null
+          "TranslatedText": ".\nที่อุทิศให้กับ "
         },
         {
           "Line": 252,
@@ -319,55 +295,48 @@
         {
           "Line": 255,
           "OriginalText": ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\u0022When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\u0022\n...That\u0027s all I\u0027ve been able to decipher\nso far.\n\nIt\u0027s believed that people once came from\naround the world in search of the\nheroines\u0027 blessing.\n",
-          "TranslatedText": ", \nกล่าวกันว่าเป็นผู้ปกป้องอันศักดิ์สิทธิ์ของ Gerudo\nที่วัดแห่งนี้เดิมทีฉันได้ค้นพบคัมภีร์โบราณ\nมันบอกว่า:\n\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบที่อยู่ของพวกเขา\nเส้นทางแห่งพระพรจะถูกเปิดเผย\u0022 \n...นั่นคือทั้งหมดที่ฉันสามารถถอดรหัสได้จนถึงตอนนี้\nเชื่อกันว่าครั้งหนึ่งผู้คนมาจากทั่วโลก\nเพื่อค้นหาพรของวีรสตรี.\n",
-          "Colour": null
+          "TranslatedText": ", \nกล่าวกันว่าเป็นผู้ปกป้องอันศักดิ์สิทธิ์ของ Gerudo\nที่วัดแห่งนี้เดิมทีฉันได้ค้นพบคัมภีร์โบราณ\nมันบอกว่า:\n\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบที่อยู่ของพวกเขา\nเส้นทางแห่งพระพรจะถูกเปิดเผย\u0022 \n...นั่นคือทั้งหมดที่ฉันสามารถถอดรหัสได้จนถึงตอนนี้\nเชื่อกันว่าครั้งหนึ่งผู้คนมาจากทั่วโลก\nเพื่อค้นหาพรของวีรสตรี.\n"
         },
         {
           "Line": 261,
           "OriginalText": "But as far as I can tell, it doesn\u0027t appear\nthat anyone has found it yet...",
-          "TranslatedText": "แต่เท่าที่บอกยังไม่ปรากฏว่ามีใครพบมัน...",
-          "Colour": null
+          "TranslatedText": "แต่เท่าที่บอกยังไม่ปรากฏว่ามีใครพบมัน..."
         }
       ]
     },
     {
       "EntryName": "Talk_10",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 278,
           "OriginalText": "What? You\u0027re joking, right?",
-          "TranslatedText": "อะไร? คุณล้อเล่นใช่มั้ย?",
-          "Colour": null
+          "TranslatedText": "อะไร? คุณล้อเล่นใช่มั้ย?"
         },
         {
           "Line": 282,
           "OriginalText": "\n\n\nLook, whenever I talk to my sister about\nthis, she spaces out. I need someone to\ntalk to, so YOU\u0027RE GOING TO LISTEN!",
-          "TranslatedText": "\nดูสิเมื่อใดก็ตามที่ฉันคุยกับพี่สาวเรื่องนี้\nเธอก็มึนๆงงๆ ฉันต้องการใครสักคน\nที่จะคุยด้วย ดังนั้นคุณจะไปฟัง!",
-          "Colour": null
+          "TranslatedText": "\nดูสิเมื่อใดก็ตามที่ฉันคุยกับพี่สาวเรื่องนี้\nเธอก็มึนๆงงๆ ฉันต้องการใครสักคน\nที่จะคุยด้วย ดังนั้นคุณจะไปฟัง!"
         },
         {
           "Line": 286,
           "OriginalText": "\n",
-          "TranslatedText": "\n",
-          "Colour": null
+          "TranslatedText": "\n"
         },
         {
           "Line": 292,
           "OriginalText": "Hoo...",
-          "TranslatedText": "ฮู้วว...",
-          "Colour": null
+          "TranslatedText": "ฮู้วว..."
         },
         {
           "Line": 296,
           "OriginalText": " Sorry about that.",
-          "TranslatedText": " ขอโทษสำหรับเรื่องนั้น.",
-          "Colour": null
+          "TranslatedText": " ขอโทษสำหรับเรื่องนั้น."
         },
         {
           "Line": 300,
           "OriginalText": "\nThere\u0027s a temple east of here near\nthe entrance to the ",
-          "TranslatedText": "\nมีวัดทางตะวันออกของที่นี่ใกล้ทางเข้า \n",
-          "Colour": null
+          "TranslatedText": "\nมีวัดทางตะวันออกของที่นี่ใกล้ทางเข้า \n"
         },
         {
           "Line": 304,
@@ -378,14 +347,12 @@
         {
           "Line": 307,
           "OriginalText": ".",
-          "TranslatedText": ".\n",
-          "Colour": null
+          "TranslatedText": ".\n"
         },
         {
           "Line": 311,
           "OriginalText": "\nIt\u0027s dedicated to the ",
-          "TranslatedText": "ที่อุทิศให้กับ ",
-          "Colour": null
+          "TranslatedText": "ที่อุทิศให้กับ "
         },
         {
           "Line": 315,
@@ -396,37 +363,33 @@
         {
           "Line": 318,
           "OriginalText": ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\u0022When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\u0022",
-          "TranslatedText": ",\nกล่าวกันว่าเป็นผู้ปกป้องอันศักดิ์สิทธิ์ของ Gerudo\nที่วัดแห่งนี้เดิมทีฉันได้ค้นพบคัมภีร์โบราณ\nมันบอกว่า:\n\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบที่อยู่ของพวกเขา\nเส้นทางแห่งพระพรจะถูกเปิดเผย\u0022",
-          "Colour": null
+          "TranslatedText": ",\nกล่าวกันว่าเป็นผู้ปกป้องอันศักดิ์สิทธิ์ของ Gerudo\nที่วัดแห่งนี้เดิมทีฉันได้ค้นพบคัมภีร์โบราณ\nมันบอกว่า:\n\u0022เมื่อสัญลักษณ์ของทั้งเจ็ดพบที่อยู่ของพวกเขา\nเส้นทางแห่งพระพรจะถูกเปิดเผย\u0022"
         },
         {
           "Line": 322,
           "OriginalText": "\n...That\u0027s all I\u0027ve been able to decipher\nso far.\n\nIt\u0027s believed that people once came from\naround the world in search of the\nheroines\u0027 blessing.\n",
-          "TranslatedText": "\n...นั่นคือทั้งหมดที่ฉันสามารถถอดรหัสได้จนถึงตอนนี้\nเชื่อกันว่าครั้งหนึ่งผู้คนมาจากทั่วโลก\nเพื่อค้นหาพรของวีรสตรี.\n",
-          "Colour": null
+          "TranslatedText": "\n...นั่นคือทั้งหมดที่ฉันสามารถถอดรหัสได้จนถึงตอนนี้\nเชื่อกันว่าครั้งหนึ่งผู้คนมาจากทั่วโลก\nเพื่อค้นหาพรของวีรสตรี.\n"
         },
         {
           "Line": 328,
           "OriginalText": "But as far as I can tell, no one has found\nit yet.",
-          "TranslatedText": "แต่เท่าที่บอกยังไม่มีใครพบ.",
-          "Colour": null
+          "TranslatedText": "แต่เท่าที่บอกยังไม่มีใครพบ."
         }
       ]
     },
     {
       "EntryName": "Talk_11",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 345,
           "OriginalText": "Before long, I\u0027ll understand the entire\ntext!",
-          "TranslatedText": "อีกไม่นานฉันจะเข้าใจข้อความทั้งหมด!",
-          "Colour": null
+          "TranslatedText": "อีกไม่นานฉันจะเข้าใจข้อความทั้งหมด!"
         },
         {
           "Line": 349,
           "OriginalText": "\n\nFortunately that ",
-          "TranslatedText": "\nโชคดีที่ ",
-          "Colour": null
+          "TranslatedText": "\nโชคดีที่ "
         },
         {
           "Line": 353,
@@ -437,19 +400,18 @@
         {
           "Line": 356,
           "OriginalText": "has\nquieted down, so I can conduct my\nresearch in peace.",
-          "TranslatedText": "เงียบลง\nฉันจึงสามารถทำการวิจัยได้อย่างสบายใจ.",
-          "Colour": null
+          "TranslatedText": "เงียบลง\nฉันจึงสามารถทำการวิจัยได้อย่างสบายใจ."
         }
       ]
     },
     {
       "EntryName": "Talk_12",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 365,
           "OriginalText": "The temple with the giant statues is ",
-          "TranslatedText": "วัดที่มีรูปปั้นยักษ์อยู่ ",
-          "Colour": null
+          "TranslatedText": "วัดที่มีรูปปั้นยักษ์อยู่ "
         },
         {
           "Line": 369,
@@ -460,8 +422,7 @@
         {
           "Line": 372,
           "OriginalText": ", but the\nsandstorm presents a problem.\nAnd that ",
-          "TranslatedText": ", \nแต่พายุทรายทำให้เกิดปัญหา\nและนั่น ",
-          "Colour": null
+          "TranslatedText": ", \nแต่พายุทรายทำให้เกิดปัญหา\nและนั่น "
         },
         {
           "Line": 376,
@@ -472,19 +433,18 @@
         {
           "Line": 379,
           "OriginalText": " isn\u0027t in the most\nwelcoming mood. Approaching the\ntemple will be difficult.",
-          "TranslatedText": " ยังไม่ได้สงบ\nการเข้าใกล้วัดจะเป็นเรื่องยาก.",
-          "Colour": null
+          "TranslatedText": " ยังไม่ได้สงบ\nการเข้าใกล้วัดจะเป็นเรื่องยาก."
         }
       ]
     },
     {
       "EntryName": "Talk_13",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 388,
           "OriginalText": "The temple with the giant statues is ",
-          "TranslatedText": "วัดที่มีรูปปั้นยักษ์อยู่ ",
-          "Colour": null
+          "TranslatedText": "วัดที่มีรูปปั้นยักษ์อยู่ "
         },
         {
           "Line": 392,
@@ -495,8 +455,7 @@
         {
           "Line": 395,
           "OriginalText": ".\n\nNow that the ",
-          "TranslatedText": ".\nตอนนี้ที่ ",
-          "Colour": null
+          "TranslatedText": ".\nตอนนี้ที่ "
         },
         {
           "Line": 399,
@@ -507,41 +466,40 @@
         {
           "Line": 402,
           "OriginalText": "has calmed\ndown, I should be able to explore the\narea.\nAlthough I still have the sandstorm to\ncontend with...",
-          "TranslatedText": "สงบลงแล้ว\nฉันคงจะสำรวจพื้นที่ได้\nแม้ว่าฉันจะยังมีพายุทรายที่ต้องต่อสู้...",
-          "Colour": null
+          "TranslatedText": "สงบลงแล้ว\nฉันคงจะสำรวจพื้นที่ได้\nแม้ว่าฉันจะยังมีพายุทรายที่ต้องต่อสู้..."
         }
       ]
     },
     {
       "EntryName": "Talk_14",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 416,
           "OriginalText": "Sav\u0027otta.",
-          "TranslatedText": "อรุณสวัสดิ์",
-          "Colour": null
+          "TranslatedText": "อรุณสวัสดิ์"
         }
       ]
     },
     {
       "EntryName": "Talk_15",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 430,
           "OriginalText": "Sav\u0027aaq.",
-          "TranslatedText": "ช่างเป็นวันที่ดี.",
-          "Colour": null
+          "TranslatedText": "ช่างเป็นวันที่ดี."
         }
       ]
     },
     {
       "EntryName": "Talk_16",
+      "NPC": "Rotana",
       "TextList": [
         {
           "Line": 444,
           "OriginalText": "Sav\u0027saaba.",
-          "TranslatedText": "สวัสดีตอนเย็น.",
-          "Colour": null
+          "TranslatedText": "สวัสดีตอนเย็น."
         }
       ]
     }

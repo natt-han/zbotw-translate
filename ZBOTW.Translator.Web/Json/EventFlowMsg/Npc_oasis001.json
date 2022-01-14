@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Accessories?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "เครื่องประดับ?"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ve got things to sell.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฉันไม่มีอะไรจะขาย"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ลาก่อน"
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Sure.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "แน่นอน"
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "No.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ไม่"
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ไม่เป็นไร"
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "I\u0027ll sell them all.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ขายทั้งหมด"
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Any self-respecting vai would have her\ninventory well organized.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,20 +87,19 @@
         {
           "Line": 40,
           "OriginalText": "That\u0027s what you\u0027ve decided on? I can\ngive you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 48,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 51,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -118,8 +109,7 @@
         {
           "Line": 68,
           "OriginalText": "Sarqso! Is it already time to say sav\u0027orq?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Sarqso! นี่ได้เวลาที่จะพูด sav\u0027orq หรือยัง?"
         }
       ]
     },
@@ -129,8 +119,7 @@
         {
           "Line": 77,
           "OriginalText": "I\u0027m glad it\u0027s such a beautiful item.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -140,8 +129,7 @@
         {
           "Line": 86,
           "OriginalText": "Sarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Sarqso!"
         }
       ]
     },
@@ -151,8 +139,7 @@
         {
           "Line": 95,
           "OriginalText": "What a great item.\nSarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ช่างเป็นของที่ยอดเยี่ยม\nSarqso"
         }
       ]
     },
@@ -162,8 +149,7 @@
         {
           "Line": 109,
           "OriginalText": "Oh, to waver on a decision... That is one\nsuch way to heighten anticipation.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -173,8 +159,7 @@
         {
           "Line": 123,
           "OriginalText": "To act boldly when the time is right...\nThat truly makes a vai beautiful.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -184,8 +169,7 @@
         {
           "Line": 132,
           "OriginalText": "Care to sell anything else?\nHopefully something of great beauty...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -195,8 +179,7 @@
         {
           "Line": 141,
           "OriginalText": "It\u0027s interesting how one vai\u0027s trash \nis another vai\u0027s treasure.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -206,185 +189,181 @@
         {
           "Line": 145,
           "OriginalText": "If it\u0027s beautiful,\nplease show it to me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_13",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 149,
           "OriginalText": "How many?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "เท่าไหร่ล่ะ?"
         }
       ]
     },
     {
       "EntryName": "Com_Talk_14",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 162,
           "OriginalText": "So ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 167,
           "OriginalText": ", then?\nHow does ",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 175,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 178,
           "OriginalText": " sound?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_15",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 195,
           "OriginalText": "I\u0027m sorry, but I have to decline buying\nthat.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 199,
           "OriginalText": " I really am sorry...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_16",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 208,
           "OriginalText": "You\u0027re going to undress here? Even for\na vai as beautiful as yourself, there are\nsome societal rules you should follow...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_33",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 212,
           "OriginalText": "Just one, right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 216,
           "OriginalText": "\nIn that case, how\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 224,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 227,
           "OriginalText": "\nsound to you?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_35",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 239,
           "OriginalText": "All ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 244,
           "OriginalText": " of them? Then it\u0027ll be\n",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 252,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 255,
           "OriginalText": " altogether, OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_60",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 267,
           "OriginalText": "That can be yours for ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 275,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "Shop_SelectItemPrice"
         },
         {
           "Line": 278,
           "OriginalText": ". ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_61",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 295,
           "OriginalText": "Take your time choosing. You\u0027ve gotta \ntake your time when selecting gems\nand voe.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "เลือกได้ตามสบายเลยนะ\nมันต้องใช้เวลาในการที่เลือกอัญมณีและ voe"
         }
       ]
     },
     {
       "EntryName": "Talk001",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 304,
           "OriginalText": "Thanks to your hard work, our lives are\nfinally back to normal. Sarqso!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 310,
           "OriginalText": "To show my thanks, I\u0027ll offer you a\nspecial price. Just pick up any ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 314,
@@ -395,47 +374,45 @@
         {
           "Line": 317,
           "OriginalText": "\nyou\u0027re interested in.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk002",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 335,
           "OriginalText": "Ever since reopening the shop, Cara\nhas been enthusiastic about making\naccessories, too!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 341,
           "OriginalText": "I\u0027m incredibly grateful! Sarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk006",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 350,
           "OriginalText": "Heehee, sarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฮี่ๆ sarqso"
         }
       ]
     },
     {
       "EntryName": "Talk007",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 359,
           "OriginalText": "You see, each gem contains its own\nspecial power. Wearing one will grant you\na form of protection.\nFor example, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 363,
@@ -446,8 +423,7 @@
         {
           "Line": 366,
           "OriginalText": " offer resistance\nto intense heat, and ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 370,
@@ -458,8 +434,7 @@
         {
           "Line": 373,
           "OriginalText": " have the\npower to resist chilling temperatures.\nI\u0027m able to craft ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 377,
@@ -470,8 +445,7 @@
         {
           "Line": 380,
           "OriginalText": " or ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 384,
@@ -482,53 +456,50 @@
         {
           "Line": 387,
           "OriginalText": " that\nchannel these powers to protect the\nwearer.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 393,
           "OriginalText": "Sadly, the materials to make such items\nare difficult to get ahold of... That\u0027s why\nyou have to bring me the materials.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk008",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 402,
           "OriginalText": "It\u0027ll take some time, but there\u0027s nothing\nthat\u0027ll satisfy you more than that.\n\nOh, and don\u0027t forget that voe and vai\nalike can enjoy these. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 408,
           "OriginalText": "They\u0027re great gifts\nif you want to impress someone, hehe.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk009",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 431,
           "OriginalText": "Come again!\nDon\u0027t ever pass up a chance to sell\nsomething!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk012",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 440,
           "OriginalText": "I have enough ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 444,
@@ -539,14 +510,12 @@
         {
           "Line": 447,
           "OriginalText": "now, so I can work\nevery day! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 453,
           "OriginalText": "If you want any ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 457,
@@ -557,25 +526,23 @@
         {
           "Line": 460,
           "OriginalText": ",\ncould you pick them yourself?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk013",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 478,
           "OriginalText": "When a vai wears something beautiful,\nit makes her absolutely sparkle.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 484,
           "OriginalText": "Can you let me know if you see\nan ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 488,
@@ -586,19 +553,18 @@
         {
           "Line": 491,
           "OriginalText": " that makes you\nsparkle?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk014",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 509,
           "OriginalText": "There is a certain special connection\nbetween a vai and fine jewelry.\n\nWhatever accessory you feel a tie to...\nThat is your destined ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 513,
@@ -609,151 +575,139 @@
         {
           "Line": 516,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 522,
           "OriginalText": "If there\u0027s anything that catches your eye,\ncan you let me know?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk015",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 540,
           "OriginalText": "I don\u0027t know what would have happened \nto my shop without you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 544,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 550,
           "OriginalText": "I\u0027m incredibly grateful! Sarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk016",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 559,
           "OriginalText": "Heehee.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 563,
           "OriginalText": " May you have the protection of\nthe gems.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk017",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 572,
           "OriginalText": "Sarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Sarqso!"
         },
         {
           "Line": 576,
           "OriginalText": " That accessory really is your\nstyle!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " เครื่องประดับชิ้นนั้นเข้ากับคุณมาก!"
         }
       ]
     },
     {
       "EntryName": "Talk018",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 585,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 589,
           "OriginalText": " May you have the\nprotection of that gem.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " ขอให้พลังของอัญมณีนั้นปกป้องคุณ"
         }
       ]
     },
     {
       "EntryName": "Talk019",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 598,
           "OriginalText": "With the Divine Beast calmed, the town\nhas really returned to its lively self.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "พออสูรศักดิ์สิทธิ์สงบลงแล้ว\nเมืองก็กลับมาครึกครื้นเหมือนที่เคยเป็นอีกครั้ง\n\n"
         },
         {
           "Line": 604,
           "OriginalText": "Oh, but don\u0027t think I don\u0027t know... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "อ้อ แต่อย่าคิดว่าฉันไม่รู้นะ..."
         },
         {
           "Line": 608,
           "OriginalText": "You\nplayed a part in calming the Divine\nBeast...\nYou\u0027re not the type to brag about your\naccomplishments, though. I can tell.\nI could learn a thing or two from you...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "\nคุณน่ะมีส่วนช่วยในการทำให้อสูรศักดิ์สิทธิ์\nสงบลง...\nคุณไม่ใช่พวกที่จะโอ้อวดผลงานของตัวเอง\nสินะ ฉันบอกได้เลย\nฉันน่าจะเรียนรู้จากคุณบ้างนะ...\n "
         },
         {
           "Line": 614,
           "OriginalText": "Anyway...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ว่าแต่..."
         },
         {
           "Line": 618,
           "OriginalText": " What does the heroine of\nGerudo Town need from me today,\nI wonder?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " ผู้กล้าหญิงแห่งเมือง Gerudo \nต้องการให้ฉันช่วยอะไรล่ะวันนี้?"
         }
       ]
     },
     {
       "EntryName": "Talk020",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 635,
           "OriginalText": "If I were you, I\u0027d have had them put up a\ngreat big statue in honor of my saving\nGerudo Town...\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ถ้าฉันเป็นคุณ ฉันคงขอให้มีการตั้ง\nอนุเสาวรีย์ของฉันเพื่อเป็นเกียรติที่\nช่วยเมือง Gerudo ไว้...\n"
         },
         {
           "Line": 641,
           "OriginalText": "Heheh, and it would be absolutely\ncovered in jewels, of course.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "หึหึ และแน่นอนว่ามันต้องประดับเต็มไปด้วย\nอัญมณี"
         }
       ]
     },
     {
       "EntryName": "Talk021",
+      "NPC": "Isha",
       "TextList": [
         {
           "Line": 655,
           "OriginalText": "Vasaaq.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Vasaaq"
         }
       ]
     }

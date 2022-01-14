@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "What is this place?",
-          "TranslatedText": "ที่นี่คือที่ไหน?",
-          "Colour": null
+          "TranslatedText": "ที่นี่คือที่ไหน?"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Who are you?",
-          "TranslatedText": "คุณเป็นใคร?",
-          "Colour": null
+          "TranslatedText": "คุณเป็นใคร?"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน",
-          "Colour": null
+          "TranslatedText": "ลาก่อน"
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "What?",
-          "TranslatedText": "อะไร?",
-          "Colour": null
+          "TranslatedText": "อะไร?"
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Yes.",
-          "TranslatedText": "ใช่",
-          "Colour": null
+          "TranslatedText": "ใช่"
         }
       ]
     },
@@ -62,25 +57,23 @@
         {
           "Line": 28,
           "OriginalText": "It\u0027s not much.",
-          "TranslatedText": "ก็ไม่เท่าไหร่",
-          "Colour": null
+          "TranslatedText": "ก็ไม่เท่าไหร่"
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 37,
           "OriginalText": "Oh! ",
-          "TranslatedText": "โอ้! ",
-          "Colour": null
+          "TranslatedText": "โอ้! "
         },
         {
           "Line": 41,
           "OriginalText": "You\u0027re that Hylian I met at\n",
-          "TranslatedText": "คุณคือ Hylian ที่ฉันเจอที่\n",
-          "Colour": null
+          "TranslatedText": "คุณคือ Hylian ที่ฉันเจอที่\n"
         },
         {
           "Line": 45,
@@ -91,133 +84,124 @@
         {
           "Line": 48,
           "OriginalText": "!\n\n",
-          "TranslatedText": "!\n",
-          "Colour": null
+          "TranslatedText": "!\n"
         },
         {
           "Line": 54,
           "OriginalText": "Are you here at Prince Sidon\u0027s request?\n\n\n",
-          "TranslatedText": "คุณมาที่นี่เพราะ Prince Sidon ขอใช่ไหม?\n",
-          "Colour": null
+          "TranslatedText": "คุณมาที่นี่เพราะ Prince Sidon ขอใช่ไหม?\n"
         },
         {
           "Line": 60,
           "OriginalText": "Well, King Dorephan and Prince Sidon\nare waiting for you.",
-          "TranslatedText": "King Dorephan และ Prince Sidon\nกำลังรอคุณอยู่",
-          "Colour": null
+          "TranslatedText": "King Dorephan และ Prince Sidon\nกำลังรอคุณอยู่"
         },
         {
           "Line": 64,
           "OriginalText": " Please help them!",
-          "TranslatedText": " ได้โปรดช่วยพวกเขาด้วย!",
-          "Colour": null
+          "TranslatedText": " ได้โปรดช่วยพวกเขาด้วย!"
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 73,
           "OriginalText": "Ohoho... ",
-          "TranslatedText": "โฮ่ๆ... ",
-          "Colour": null
+          "TranslatedText": "โฮ่ๆ... "
         },
         {
           "Line": 77,
           "OriginalText": "So you\u0027re back.",
-          "TranslatedText": "คุณกลับมาแล้ว",
-          "Colour": null
+          "TranslatedText": "คุณกลับมาแล้ว"
         },
         {
           "Line": 81,
           "OriginalText": "\nYou\u0027re that Hylian our Prince Sidon\nbrought here, aren\u0027t you?\nPlease go and meet with him right away.",
-          "TranslatedText": "\nคุณคือ Hylian ที่ Prince Sidon ของเรา\nพามาที่นี่ใช่ไหม?\nโปรดรีบไปพบเขาทันที",
-          "Colour": null
+          "TranslatedText": "\nคุณคือ Hylian ที่ Prince Sidon ของเรา\nพามาที่นี่ใช่ไหม?\nโปรดรีบไปพบเขาทันที"
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 90,
           "OriginalText": "Good morning.",
-          "TranslatedText": "อรุณสวัสดิ์",
-          "Colour": null
+          "TranslatedText": "อรุณสวัสดิ์"
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 99,
           "OriginalText": "Good day.",
-          "TranslatedText": "สวัสดี",
-          "Colour": null
+          "TranslatedText": "สวัสดี"
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 108,
           "OriginalText": "Good evening.",
-          "TranslatedText": "สายัณสวัสดิ์",
-          "Colour": null
+          "TranslatedText": "สายัณสวัสดิ์"
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 117,
           "OriginalText": "Yes, sir! ",
-          "TranslatedText": "ครับท่าน! ",
-          "Colour": null
+          "TranslatedText": "ครับท่าน! "
         },
         {
           "Line": 121,
           "OriginalText": "Nothing to report, sir!",
-          "TranslatedText": "ทุกอย่างปกติครับท่าน!",
-          "Colour": null
+          "TranslatedText": "ทุกอย่างปกติครับท่าน!"
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 130,
           "OriginalText": "...Yes? ",
-          "TranslatedText": "...ว่าไง? ",
-          "Colour": null
+          "TranslatedText": "...ว่าไง? "
         },
         {
           "Line": 134,
           "OriginalText": "Did you need something?",
-          "TranslatedText": "คุณต้องการอะไรงั้นเหรอ?",
-          "Colour": null
+          "TranslatedText": "คุณต้องการอะไรงั้นเหรอ?"
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 163,
           "OriginalText": "Ohoho, a Hylian, eh?",
-          "TranslatedText": "โฮ่ๆ Hylian งั้นเหรอ?",
-          "Colour": null
+          "TranslatedText": "โฮ่ๆ Hylian งั้นเหรอ?"
         },
         {
           "Line": 167,
           "OriginalText": " The path\nto ",
-          "TranslatedText": " เส้นทางสู่ ",
-          "Colour": null
+          "TranslatedText": " เส้นทางสู่ "
         },
         {
           "Line": 171,
@@ -228,92 +212,88 @@
         {
           "Line": 174,
           "OriginalText": " is paved with\nmonsters, is it not?\nHere in the domain, ",
-          "TranslatedText": " นั้นเต็มไปด้วยมอนสเตอร์ใช่ไหม?\nที่อาณาจักรนี้ ",
-          "Colour": null
+          "TranslatedText": " นั้นเต็มไปด้วยมอนสเตอร์ใช่ไหม?\nที่อาณาจักรนี้ "
         },
         {
           "Line": 178,
           "OriginalText": "we are currently\nrecruiting warriors to join Prince Sidon\nin his fight.\nPlease hurry up and meet with him.",
-          "TranslatedText": "เรากำลังรับสมัครนักรบ\nเพื่อมาร่วมต่อสู่กับ Prince Sidon\nได้โปรดรีบไปพบกับเขา",
-          "Colour": null
+          "TranslatedText": "เรากำลังรับสมัครนักรบ\nเพื่อมาร่วมต่อสู่กับ Prince Sidon\nได้โปรดรีบไปพบกับเขา"
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 187,
           "OriginalText": "Farewell!",
-          "TranslatedText": "ลาก่อน!",
-          "Colour": null
+          "TranslatedText": "ลาก่อน!"
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 196,
           "OriginalText": "At the top of these stairs is the throne\nroom of King Dorephan and his son,\nPrince Sidon.",
-          "TranslatedText": "ที่ด้านบนของบันไดนี้คือบัลลังค์ของ\nKing Dorephan และลูกชาย\nPrince Sidon",
-          "Colour": null
+          "TranslatedText": "ที่ด้านบนของบันไดนี้คือบัลลังค์ของ\nKing Dorephan และลูกชาย\nPrince Sidon"
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 205,
           "OriginalText": "Me?",
-          "TranslatedText": "ฉันเหรอ?",
-          "Colour": null
+          "TranslatedText": "ฉันเหรอ?"
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 214,
           "OriginalText": "My name is Tottika.",
-          "TranslatedText": "ฉันชื่อ Tottika",
-          "Colour": null
+          "TranslatedText": "ฉันชื่อ Tottika"
         },
         {
           "Line": 218,
           "OriginalText": " I\u0027m a novice soldier.",
-          "TranslatedText": " ฉันเป็นทหารฝึกหัด",
-          "Colour": null
+          "TranslatedText": " ฉันเป็นทหารฝึกหัด"
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 227,
           "OriginalText": "By the way...",
-          "TranslatedText": "ว่าแต่ว่า...",
-          "Colour": null
+          "TranslatedText": "ว่าแต่ว่า..."
         },
         {
           "Line": 231,
           "OriginalText": "HYLIAN...",
-          "TranslatedText": "HYLIAN...",
-          "Colour": null
+          "TranslatedText": "HYLIAN..."
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 243,
           "OriginalText": "You managed to make it to ",
-          "TranslatedText": "คุณเดินทางมายัง ",
-          "Colour": null
+          "TranslatedText": "คุณเดินทางมายัง "
         },
         {
           "Line": 247,
@@ -324,25 +304,23 @@
         {
           "Line": 250,
           "OriginalText": "\nall by yourself, eh?\n\n",
-          "TranslatedText": "\nได้โดยลำพังงั้นเหรอ?\n",
-          "Colour": null
+          "TranslatedText": "\nได้โดยลำพังงั้นเหรอ?\n"
         },
         {
           "Line": 256,
           "OriginalText": "That would mean you\u0027ve got a pretty\nreliable weapon on you, yes?",
-          "TranslatedText": "นั่นแปลว่าคุณคงมีอาวุธที่พึ่งพาได้\nงั้นสินะ?",
-          "Colour": null
+          "TranslatedText": "นั่นแปลว่าคุณคงมีอาวุธที่พึ่งพาได้\nงั้นสินะ?"
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 273,
           "OriginalText": "I see.\n\n\nI\u0027ve been supplied a ",
-          "TranslatedText": "งั้นเหรอ\nฉันได้รับ ",
-          "Colour": null
+          "TranslatedText": "งั้นเหรอ\nฉันได้รับ "
         },
         {
           "Line": 277,
@@ -353,20 +331,17 @@
         {
           "Line": 280,
           "OriginalText": ".",
-          "TranslatedText": " มาให้ใช้งาน",
-          "Colour": null
+          "TranslatedText": " มาให้ใช้งาน"
         },
         {
           "Line": 284,
           "OriginalText": "\nI have no complaints about it, but...\n\n",
-          "TranslatedText": "\nก็ไม่มีอะไรจะบ่นหรอกนะ แต่ว่า...\n",
-          "Colour": null
+          "TranslatedText": "\nก็ไม่มีอะไรจะบ่นหรอกนะ แต่ว่า...\n"
         },
         {
           "Line": 290,
           "OriginalText": "There are rumors of a ",
-          "TranslatedText": "มีข่าวลือเกี่ยวกับ ",
-          "Colour": null
+          "TranslatedText": "มีข่าวลือเกี่ยวกับ "
         },
         {
           "Line": 294,
@@ -377,48 +352,44 @@
         {
           "Line": 297,
           "OriginalText": "...",
-          "TranslatedText": "...",
-          "Colour": null
+          "TranslatedText": "..."
         },
         {
           "Line": 301,
           "OriginalText": "\none that chooses its wielder.",
-          "TranslatedText": "\nดาบที่เลือกผู้ใช้งาน",
-          "Colour": null
+          "TranslatedText": "\nดาบที่เลือกผู้ใช้งาน"
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 310,
           "OriginalText": "I want to become an important soldier...",
-          "TranslatedText": "ฉันอยากจะกลายเป็นทหารที่มีชื่อเสียง...",
-          "Colour": null
+          "TranslatedText": "ฉันอยากจะกลายเป็นทหารที่มีชื่อเสียง..."
         },
         {
           "Line": 314,
           "OriginalText": "\none who\u0027s worthy of being chosen by\na legendary weapon!",
-          "TranslatedText": "\nเป็นทหารที่ควรค่าแก่การถูกเลือกโดยอาวุธในตำนาน!",
-          "Colour": null
+          "TranslatedText": "\nเป็นทหารที่ควรค่าแก่การถูกเลือกโดยอาวุธในตำนาน!"
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 323,
           "OriginalText": "Hylian!",
-          "TranslatedText": "Hylian!",
-          "Colour": null
+          "TranslatedText": "Hylian!"
         },
         {
           "Line": 327,
           "OriginalText": " Have you seen?!\n\n\nThe rain that has been falling ever since\n",
-          "TranslatedText": " คุณเห็นมั้ย?!\nฝนที่ตกไม่หยุดมาตั้งแต่\n",
-          "Colour": null
+          "TranslatedText": " คุณเห็นมั้ย?!\nฝนที่ตกไม่หยุดมาตั้งแต่\n"
         },
         {
           "Line": 331,
@@ -429,99 +400,92 @@
         {
           "Line": 334,
           "OriginalText": " was angered...",
-          "TranslatedText": " เริ่มอาละวาด...",
-          "Colour": null
+          "TranslatedText": " เริ่มอาละวาด..."
         },
         {
           "Line": 338,
           "OriginalText": "\nhas finally stopped!\nWas that you and Prince Sidon?",
-          "TranslatedText": "\nมันหยุดแล้ว!\nเป็นเพราะท่านเหรอ Prince Sidon?",
-          "Colour": null
+          "TranslatedText": "\nมันหยุดแล้ว!\nเป็นเพราะท่านเหรอ Prince Sidon?"
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 347,
           "OriginalText": "Oh! ",
-          "TranslatedText": "โอ้! ",
-          "Colour": null
+          "TranslatedText": "โอ้! "
         },
         {
           "Line": 351,
           "OriginalText": "Hylian!",
-          "TranslatedText": "Hylian!",
-          "Colour": null
+          "TranslatedText": "Hylian!"
         },
         {
           "Line": 355,
           "OriginalText": " You have done us a\ngreat service!\n\n",
-          "TranslatedText": " คุณช่วยเราได้มาก!\n",
-          "Colour": null
+          "TranslatedText": " คุณช่วยเราได้มาก!\n"
         },
         {
           "Line": 361,
           "OriginalText": "Captain Bazz filled me in.",
-          "TranslatedText": "Captain Bazz เล่าให้ฉันฟังแล้ว",
-          "Colour": null
+          "TranslatedText": "Captain Bazz เล่าให้ฉันฟังแล้ว"
         },
         {
           "Line": 365,
           "OriginalText": " He told me you\nare the Champion who visited Zora\u0027s\nDomain 100 years ago. Or...something.",
-          "TranslatedText": " เขาบอกว่าคุณคือ \nChampion มีมายัง Zora\u0027s Domain เมื่อ 100 ปีก่อน\n...หรือไงเนี่ยแหละ",
-          "Colour": null
+          "TranslatedText": " เขาบอกว่าคุณคือ \nChampion มีมายัง Zora\u0027s Domain เมื่อ 100 ปีก่อน\n...หรือไงเนี่ยแหละ"
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 374,
           "OriginalText": "Great Hylian Champion...",
-          "TranslatedText": "Hylian Champion ผู้ยิ่งใหญ่...",
-          "Colour": null
+          "TranslatedText": "Hylian Champion ผู้ยิ่งใหญ่..."
         },
         {
           "Line": 378,
           "OriginalText": " Thank you so\nmuch for all you have done for us.",
-          "TranslatedText": " ขอบคุณมาก\nสำหรับทุกสิ่งที่ท่านทำเพื่อพวกเรา",
-          "Colour": null
+          "TranslatedText": " ขอบคุณมาก\nสำหรับทุกสิ่งที่ท่านทำเพื่อพวกเรา"
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 387,
           "OriginalText": "Now, even the elders who were so down\non you are likely looking upon you with\nregard and triumph!",
-          "TranslatedText": "ตอนนี้แม้แต่พวกผู้อาวุโสที่ดูหมิ่นท่าน\nก็ยังชื่นชมท่าน!",
-          "Colour": null
+          "TranslatedText": "ตอนนี้แม้แต่พวกผู้อาวุโสที่ดูหมิ่นท่าน\nก็ยังชื่นชมท่าน!"
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 396,
           "OriginalText": "Because of your glorious deeds, I\u0027m sure\nthe elders will be content to let the\nsubject of Mipha finally wash away.",
-          "TranslatedText": "เพราะวีรกรรมของท่าน ฉันแน่ใจว่า\nพวกผู้อาวุโสจะเต็มใจที่จะเลิกโทษท่านเรื่องท่าน Mipha",
-          "Colour": null
+          "TranslatedText": "เพราะวีรกรรมของท่าน ฉันแน่ใจว่า\nพวกผู้อาวุโสจะเต็มใจที่จะเลิกโทษท่านเรื่องท่าน Mipha"
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Tottika",
       "TextList": [
         {
           "Line": 405,
           "OriginalText": "Here in ",
-          "TranslatedText": "ที่ ",
-          "Colour": null
+          "TranslatedText": "ที่ "
         },
         {
           "Line": 409,
@@ -532,26 +496,22 @@
         {
           "Line": 412,
           "OriginalText": ", we\u0027re currently\nrecruiting warriors to join Prince Sidon\nin his noble struggle.\n",
-          "TranslatedText": " นี้ เรากำลังรับสมัคร\nนักรบเพื่อมาร่วมต่อสู้กับ Prince Sidon\n",
-          "Colour": null
+          "TranslatedText": " นี้ เรากำลังรับสมัคร\nนักรบเพื่อมาร่วมต่อสู้กับ Prince Sidon\n"
         },
         {
           "Line": 418,
           "OriginalText": "However, the elders are...stubborn.",
-          "TranslatedText": "แต่ว่า พวกผู้อาวุโสนั้น...หัวแข็งนัก",
-          "Colour": null
+          "TranslatedText": "แต่ว่า พวกผู้อาวุโสนั้น...หัวแข็งนัก"
         },
         {
           "Line": 422,
           "OriginalText": "\nThey are wholly against outsiders\ngetting involved in Zora affairs.\nBut King Dorephan, as well as the young\nfolk, are ready to accept anyone\u0027s help...",
-          "TranslatedText": "\nพวกเขาต่อต้านการที่คนจากภายนอกจะมา\nเกี่ยวของกับเรื่องของชาว Zora อย่างหัวชนฝา\nแต่ King Dorephan นั้นยอมรับความช่วยเหลือจากทุกฝ่าย\nเช่นเดียวกับพวก Zora รุ่นใหม่...",
-          "Colour": null
+          "TranslatedText": "\nพวกเขาต่อต้านการที่คนจากภายนอกจะมา\nเกี่ยวของกับเรื่องของชาว Zora อย่างหัวชนฝา\nแต่ King Dorephan นั้นยอมรับความช่วยเหลือจากทุกฝ่าย\nเช่นเดียวกับพวก Zora รุ่นใหม่..."
         },
         {
           "Line": 426,
           "OriginalText": "\nWell, so long as they are trustworthy.\nIf you wish to learn more, please go and\nspeak with King Dorephan directly.",
-          "TranslatedText": "\nแน่นอนว่าหากว่าคนพวกนั้นเชื่อถือได้\nถ้าหากอยากทราบรายละเอียดมากกว่านี้\nก็ไปคุยกับ King Dorephan โดยตรง",
-          "Colour": null
+          "TranslatedText": "\nแน่นอนว่าหากว่าคนพวกนั้นเชื่อถือได้\nถ้าหากอยากทราบรายละเอียดมากกว่านี้\nก็ไปคุยกับ King Dorephan โดยตรง"
         }
       ]
     }

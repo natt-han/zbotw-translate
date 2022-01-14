@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Yes, dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Wear clothes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "No, thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "OK!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Choose again.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Actually, never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "Let\u0027s do it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -84,8 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Tell me more.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -95,8 +87,7 @@
         {
           "Line": 40,
           "OriginalText": "Choose a color.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -106,8 +97,7 @@
         {
           "Line": 44,
           "OriginalText": "Change clothes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -117,8 +107,7 @@
         {
           "Line": 48,
           "OriginalText": "Quit.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -128,8 +117,7 @@
         {
           "Line": 52,
           "OriginalText": "Back to the original.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -139,53 +127,50 @@
         {
           "Line": 56,
           "OriginalText": "Use these clothes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 60,
           "OriginalText": "Greetings and saturations!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 69,
           "OriginalText": "Welcome! If you were looking to add\nsome color to your wardrobe, you found\nthe right place! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 73,
           "OriginalText": "Hue do you do?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 82,
           "OriginalText": "Oh, no, no, no, no, no.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 86,
           "OriginalText": " I\u0027m sorry, but you\ndon\u0027t have ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 90,
@@ -196,31 +181,28 @@
         {
           "Line": 93,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 99,
           "OriginalText": "Come on back some other time.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 108,
           "OriginalText": "OK then,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 112,
           "OriginalText": " that\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 116,
@@ -231,25 +213,23 @@
         {
           "Line": 119,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 136,
           "OriginalText": "Oh, no, no, no, no, no. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 140,
           "OriginalText": "You don\u0027t even\nhave any ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 144,
@@ -260,76 +240,71 @@
         {
           "Line": 147,
           "OriginalText": "!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 153,
           "OriginalText": "Come back later and we\u0027ll set you up.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 162,
           "OriginalText": "Come \u0027round again! Every day is a good\nday to dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 171,
           "OriginalText": "Wonderful. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 175,
           "OriginalText": "Now go wait up there.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 179,
           "OriginalText": "\nI\u0027ll just be a minute.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 188,
           "OriginalText": "Yeehoo!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 192,
           "OriginalText": " We made something very special\nhere if I do say so myself!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 201,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 205,
@@ -340,14 +315,12 @@
         {
           "Line": 208,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 212,
           "OriginalText": " I\u0027m pretty sure that\u0027s \nfrom the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 216,
@@ -358,14 +331,12 @@
         {
           "Line": 219,
           "OriginalText": ", no?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 225,
           "OriginalText": "I wonder what that ol\u0027 ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 229,
@@ -376,31 +347,28 @@
         {
           "Line": 232,
           "OriginalText": "is up to\nthese days!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 238,
           "OriginalText": "I\u0027ve always thought that director was real\nsketchy if you ask me! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 242,
           "OriginalText": "Suspicious outfits!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 251,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 255,
@@ -411,14 +379,12 @@
         {
           "Line": 258,
           "OriginalText": "... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 262,
           "OriginalText": "That belongs to the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 266,
@@ -429,8 +395,7 @@
         {
           "Line": 269,
           "OriginalText": "at the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 273,
@@ -441,47 +406,45 @@
         {
           "Line": 276,
           "OriginalText": ", right?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 282,
           "OriginalText": "What is that weirdo up to these days?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 291,
           "OriginalText": "Which dye color would you like?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 300,
           "OriginalText": "Come back again. Every day is a good\nday to dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 309,
           "OriginalText": "If you have any ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 313,
@@ -492,8 +455,7 @@
         {
           "Line": 316,
           "OriginalText": ", it\u0027s\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 320,
@@ -504,31 +466,28 @@
         {
           "Line": 323,
           "OriginalText": " to dye an item...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 327,
           "OriginalText": " That includes\nour service charge, of course.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 333,
           "OriginalText": "Let\u0027s get going and dye your getup to\nthe color of your choosing!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 351,
           "OriginalText": "Here we go! For ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 355,
@@ -539,8 +498,7 @@
         {
           "Line": 358,
           "OriginalText": "total, I\u0027ll\ndye your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 362,
@@ -551,19 +509,18 @@
         {
           "Line": 365,
           "OriginalText": " here to the color of\nyour choosing! \nOr would you like to get back to square\none and change your clothes back to\ntheir original color?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 384,
           "OriginalText": "All right, choose your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 388,
@@ -574,8 +531,7 @@
         {
           "Line": 394,
           "OriginalText": "or go\nahead and ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 398,
@@ -586,19 +542,18 @@
         {
           "Line": 401,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 419,
           "OriginalText": "I love the fact that someone so young is\nso interested in our unique ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 423,
@@ -609,99 +564,92 @@
         {
           "Line": 426,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 432,
           "OriginalText": "It is indeed part of my duty to keep the\nyoung people from losing their interest\nin the tradition...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 436,
           "OriginalText": "\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 442,
           "OriginalText": "Let me give you all the colorful details of\nhow the magic works!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 451,
           "OriginalText": "Wow! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 455,
           "OriginalText": "Absolutely chromatic!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 464,
           "OriginalText": "By the tints!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 468,
           "OriginalText": " We hardly ever get this\ncolor to come out!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 477,
           "OriginalText": "Yeehoo! What a wonderful tone that is!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 481,
           "OriginalText": "I might try that out on one of my outfits!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 490,
           "OriginalText": "Do you find this palette-able?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 494,
           "OriginalText": " If you\u0027d\nlike to do a redye, just let me know!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 506,
@@ -712,8 +660,7 @@
         {
           "Line": 509,
           "OriginalText": "is a traditional craft of\nHateno Village. In days past, we\u0027d\nuse our own prepared ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 513,
@@ -724,14 +671,12 @@
         {
           "Line": 516,
           "OriginalText": ".\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 522,
           "OriginalText": "But these days, there are so many\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 526,
@@ -742,8 +687,7 @@
         {
           "Line": 529,
           "OriginalText": " about, that it\u0027s difficult for\nus to gather ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 533,
@@ -754,14 +698,12 @@
         {
           "Line": 536,
           "OriginalText": "... \n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 542,
           "OriginalText": "That\u0027s why we switched to the customer\nbringing us the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 546,
@@ -772,19 +714,18 @@
         {
           "Line": 549,
           "OriginalText": ", and in\nreturn, we have a small service charge.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 558,
           "OriginalText": "All right! Choose your ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 562,
@@ -795,36 +736,34 @@
         {
           "Line": 565,
           "OriginalText": "wisely!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 569,
           "OriginalText": "\nOr do you want to change clothes again?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk23",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 587,
           "OriginalText": "Thanks for the business!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk24",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 596,
           "OriginalText": "You\u0027re wearing some clothes you ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 600,
@@ -835,25 +774,23 @@
         {
           "Line": 603,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 607,
           "OriginalText": " Is that OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk25",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 624,
           "OriginalText": "Oh, we can\u0027t dye ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 628,
@@ -864,25 +801,23 @@
         {
           "Line": 631,
           "OriginalText": ".\nIt\u0027s a fabric thing. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 635,
           "OriginalText": "Wanna change?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk26",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 652,
           "OriginalText": "Hrm... You don\u0027t have any ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 656,
@@ -893,42 +828,39 @@
         {
           "Line": 659,
           "OriginalText": "! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 665,
           "OriginalText": "Come back after you\ndevelop your wardrobe a bit.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk27",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 674,
           "OriginalText": "Hmm... You don\u0027t quite have enough\ningredients to dye to that color.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 678,
           "OriginalText": " Sorry!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk28",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 687,
           "OriginalText": "Choose ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 691,
@@ -939,64 +871,61 @@
         {
           "Line": 694,
           "OriginalText": " ingredients you\u0027d like to use\nin your dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk29",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 703,
           "OriginalText": "Did you want to try another color?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 707,
           "OriginalText": " Or do\nyou want to stop here?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk30",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 724,
           "OriginalText": "Sometimes it\u0027s necessary to reset\neverything! Throw it all out the window!\n\nLet\u0027s go right back to the way things\nwere, shall we?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 728,
           "OriginalText": " Simpler times.\n\nThe clothes you\u0027re wearing now...are\nthose the ones we\u0027ll be changing? Or do\nyou need to change into something else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk31",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 746,
           "OriginalText": "So will it be the clothes you\u0027re wearing\nnow? Or do you need to change?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk32",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 764,
           "OriginalText": "What do you know, you don\u0027t even have\nany ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 768,
@@ -1007,94 +936,86 @@
         {
           "Line": 771,
           "OriginalText": "! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 777,
           "OriginalText": "Let\u0027s get some color\ngoing here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk33",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 786,
           "OriginalText": "All right, let\u0027s reset everything! OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk34",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 803,
           "OriginalText": "Well this isn\u0027t so bad!\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 809,
           "OriginalText": "If you have need of my services at any\npoint,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 813,
           "OriginalText": " don\u0027t hesitate to call on me!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk35",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 822,
           "OriginalText": "Hrm? ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 826,
           "OriginalText": "But the clothes you\u0027re wearing\nhaven\u0027t been dyed yet!\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 832,
           "OriginalText": "Change your clothes or forget about it.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 836,
           "OriginalText": "Your choice!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk36",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 853,
           "OriginalText": "Now! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 857,
           "OriginalText": "I\u0027ll dye your clothes to the color\nof your choosing for ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 861,
@@ -1105,19 +1026,18 @@
         {
           "Line": 864,
           "OriginalText": ". That\nincludes all consulting fees!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk37",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 882,
           "OriginalText": "I can also ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 886,
@@ -1128,19 +1048,18 @@
         {
           "Line": 889,
           "OriginalText": " from dyed\nfabric so your clothes will be restored to\ntheir original, if not drab, luster.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk38",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 898,
           "OriginalText": "Welcome to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 902,
@@ -1151,25 +1070,23 @@
         {
           "Line": 905,
           "OriginalText": ", where we\nlive to dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk39",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 914,
           "OriginalText": "And the total price is ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 918,
           "OriginalText": "just ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 922,
@@ -1180,114 +1097,110 @@
         {
           "Line": 925,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 929,
           "OriginalText": "\nSo now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk40",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 938,
           "OriginalText": "Hrm...I think nature\u0027s dye is pretty much\nas intended. Not much to do about that.\n\nPut some clothes on and we\u0027ll talk!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk41",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 955,
           "OriginalText": "These rainy days remind me of the most\nromantic date I ever went on.\n\nThere we were, standing in the soaking\nrain, and I got down on one knee to\npropose. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 959,
           "OriginalText": "Couldn\u0027t have timed it better!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk42",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 968,
           "OriginalText": "Hee har ha! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 972,
           "OriginalText": "If you\u0027re not a pigment of\nmy imagination, you must be a customer!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk43",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 981,
           "OriginalText": "All right now... Hold your breath!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk44",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 990,
           "OriginalText": "All right now... Stay like that and don\u0027t\nmove a muscle!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk45",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 999,
           "OriginalText": "All right now...hold on to your britches!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk46",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1008,
           "OriginalText": "Hue we go!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk47",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1017,
           "OriginalText": "It\u0027s the Hateno tradition to dye a\nperson\u0027s ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1021,
@@ -1298,25 +1211,23 @@
         {
           "Line": 1024,
           "OriginalText": ", from head to toe,\nall at once!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk48",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1033,
           "OriginalText": "Get ready! Because we are going to dye",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1037,
           "OriginalText": "\nall the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1041,
@@ -1327,19 +1238,18 @@
         {
           "Line": 1044,
           "OriginalText": " at once!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk49",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1053,
           "OriginalText": "Another great day to dye that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1057,
@@ -1350,19 +1260,18 @@
         {
           "Line": 1060,
           "OriginalText": " all at once!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk50",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1069,
           "OriginalText": "It\u0027s time to tint! Another day to dye that\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1073,
@@ -1373,75 +1282,72 @@
         {
           "Line": 1076,
           "OriginalText": "all at once!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk51",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1085,
           "OriginalText": "And?! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1089,
           "OriginalText": "How is it?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk52",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1098,
           "OriginalText": "You look great!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk53",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1107,
           "OriginalText": "You look dashing!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk54",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1116,
           "OriginalText": "It\u0027s downright miraculous what a\ndifference a new set of duds makes.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1120,
           "OriginalText": "\nYou\u0027re looking very chic!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk55",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1129,
           "OriginalText": "Only ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1133,
@@ -1452,25 +1358,23 @@
         {
           "Line": 1136,
           "OriginalText": " will change color!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 1140,
           "OriginalText": " Are you sure\nyou wanna go with this outfit?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk56",
+      "NPC": "Sayge",
       "TextList": [
         {
           "Line": 1157,
           "OriginalText": "Let\u0027s get this right on our first dye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

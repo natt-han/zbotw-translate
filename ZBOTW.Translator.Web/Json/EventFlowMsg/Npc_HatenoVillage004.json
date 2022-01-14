@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Yes, please.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "No, thanks.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,108 +27,105 @@
         {
           "Line": 16,
           "OriginalText": "It\u0027s raining...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near01",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 20,
-          "OriginalText": "\u266A\uFF5E\uFF5E\u266A",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "♪～～♪",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near02",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 24,
           "OriginalText": "*pant*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near03",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 28,
           "OriginalText": "I\u0027m not so young now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near04",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 32,
           "OriginalText": "Graaawww...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 41,
           "OriginalText": "You\u0027ve got the look of a traveler!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 45,
           "OriginalText": " Is this\nyour first time in Hateno Village?\n\nWell, you\u0027re in luck, because you have\na lifelong resident to show you around!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 65,
           "OriginalText": "Well, fine then...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 77,
           "OriginalText": "OK!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 81,
           "OriginalText": " Let\u0027s get you a good ol\u0027 fashioned\ndose of Hateno hospitality!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 90,
           "OriginalText": "This is the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 94,
@@ -141,43 +136,38 @@
         {
           "Line": 97,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 101,
           "OriginalText": "\nThey sell a lot of everyday goods...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 105,
           "OriginalText": "\nand even some everyday greats!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 117,
           "OriginalText": "*pant pant...*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 124,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 130,
           "OriginalText": "This is the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 134,
@@ -188,8 +178,7 @@
         {
           "Line": 137,
           "OriginalText": ",\nknown for their ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 141,
@@ -200,37 +189,33 @@
         {
           "Line": 144,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 148,
           "OriginalText": " They\u0027ll\ndye your clothes whatever color you like!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 160,
           "OriginalText": "*pant pant...*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 164,
           "OriginalText": " ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 170,
           "OriginalText": "This here is ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 174,
@@ -241,31 +226,28 @@
         {
           "Line": 177,
           "OriginalText": "!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 186,
           "OriginalText": "If you need to sleep overnight, then this\nis the place!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 198,
           "OriginalText": "*pant pant...* ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 205,
           "OriginalText": "This is the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 209,
@@ -276,14 +258,12 @@
         {
           "Line": 212,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 216,
           "OriginalText": " They sell...well, I\u0027m\nsure you can guess what they sell.\nTo be straight with you, this is actually\nmy store! So come hang out when you\u0027ve\ngot some time.\nStock up here first before heading\nover to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 220,
@@ -294,31 +274,28 @@
         {
           "Line": 223,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 232,
           "OriginalText": "Whew... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 236,
           "OriginalText": "I\u0027m pretty much beat!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 240,
           "OriginalText": " Let\u0027s call\nthis the end of the tour, yah?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 247,
@@ -330,40 +307,39 @@
     },
     {
       "EntryName": "talk08",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 261,
           "OriginalText": "I\u0027m probably just gonna kick back for the\nrest of the day. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 265,
           "OriginalText": "But if you want a guide\nagain, come find me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 277,
           "OriginalText": "*grind grind*",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 289,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 293,
@@ -374,25 +350,23 @@
         {
           "Line": 296,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 300,
           "OriginalText": " Is that from Purah?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 309,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 313,
@@ -403,42 +377,39 @@
         {
           "Line": 316,
           "OriginalText": "... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 320,
           "OriginalText": "Grandma Purah might\nbe interested in seein\u0027 that...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 329,
           "OriginalText": "And now, on with the tour!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 338,
           "OriginalText": "That\u0027s enough touristry for the day. ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 342,
-          "OriginalText": "\nBut don\u0027t fret\u2014this village ain\u0027t goin\u0027\nanywhere. You can come back tomorrow!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "\nBut don\u0027t fret—this village ain\u0027t goin\u0027\nanywhere. You can come back tomorrow!\n",
+          "TranslatedText": null
         },
         {
           "Line": 349,
@@ -450,12 +421,12 @@
     },
     {
       "EntryName": "talk17",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 363,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 367,
@@ -466,14 +437,12 @@
         {
           "Line": 370,
           "OriginalText": "...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 374,
           "OriginalText": " Does that belong to\nthe ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 378,
@@ -484,19 +453,18 @@
         {
           "Line": 381,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 390,
           "OriginalText": "That ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 394,
@@ -507,14 +475,12 @@
         {
           "Line": 397,
           "OriginalText": "... ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 401,
           "OriginalText": "Why don\u0027t you go \ndeliver it to the",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 405,
@@ -525,169 +491,154 @@
         {
           "Line": 408,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 417,
           "OriginalText": "The shop is in my daughter\u0027s capable\nhands these days, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 421,
           "OriginalText": "so I\u0027ve got a lot of\ntime on my hands.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 425,
           "OriginalText": "\nI thought it might be nice to do a good\nturn for the village where I was born and\nraised, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 429,
           "OriginalText": "so I volunteered as a tour guide.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 433,
           "OriginalText": "\nStick with me, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 437,
           "OriginalText": "and I\u0027ll show you around\nthe best parts of this place.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 443,
           "OriginalText": "In fact, in just a minute, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 447,
           "OriginalText": "I\u0027ll show you\nsomething really special!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 456,
           "OriginalText": "My philosophy is, if it rains on you, then\nyou were meant to be wet.\n\nIf you share my outlook on life, then why\nnot let me show you around the village?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 473,
           "OriginalText": "You\u0027ve got the look of a traveler!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 477,
           "OriginalText": " Is this\nyour first time in Hateno Village?\n\nWell, you\u0027re in luck, because you have\na lifelong resident to show you around!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk24",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 509,
           "OriginalText": "*pant pant* ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 516,
           "OriginalText": "Almost there!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 520,
           "OriginalText": " Keep it together,\nkeep it together...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk25",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 529,
           "OriginalText": "Can\u0027t talk while I\u0027m on the move! Gotta\nkeep my heart rate up!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk26",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 538,
           "OriginalText": "Thanks for using Seldon\u0027s Village Tours.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 542,
           "OriginalText": "\nOur next tour will begin...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 546,
           "OriginalText": "whenever I get\nmy breath back...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk27",
+      "NPC": "Seldon",
       "TextList": [
         {
           "Line": 555,
           "OriginalText": "Seldon\u0027s Village Tours is now closed.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 559,
           "OriginalText": "\nPlease come again if you like...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 563,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 570,

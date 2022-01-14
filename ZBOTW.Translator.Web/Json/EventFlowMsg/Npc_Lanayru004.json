@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Zora\u0027s Domain?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "North tower?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Rutala River?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,48 +37,44 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "near00",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 29,
-          "OriginalText": "\u266AA wanderer...\u266A",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "♪A wanderer...♪",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 38,
           "OriginalText": "Oh...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 42,
           "OriginalText": " So you heard me humming, eh?\n\n\nI\u0027m Eryck.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 46,
           "OriginalText": " I\u0027m traveling the world\non a journey of self-discovery.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 52,
           "OriginalText": "I\u0027m heading for ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 56,
@@ -92,26 +85,22 @@
         {
           "Line": 59,
           "OriginalText": " now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 63,
           "OriginalText": "\nbut I\u0027m lost. I was just about to give up.\n\nBut then, like, ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 67,
           "OriginalText": "I heard a voice...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 71,
           "OriginalText": "\ncoming from the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 75,
@@ -122,14 +111,12 @@
         {
           "Line": 78,
           "OriginalText": "...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 84,
           "OriginalText": "Crossing the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 88,
@@ -140,35 +127,35 @@
         {
           "Line": 91,
           "OriginalText": " would be next\nto impossible, though...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 110,
           "OriginalText": "Hey! It\u0027s you...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 137,
           "OriginalText": "See ya!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 149,
@@ -179,14 +166,12 @@
         {
           "Line": 152,
           "OriginalText": " is home of the Zora.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 156,
           "OriginalText": "\nIt\u0027s a town in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 160,
@@ -197,8 +182,7 @@
         {
           "Line": 163,
           "OriginalText": ".\n\nBut crossing the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 167,
@@ -209,25 +193,23 @@
         {
           "Line": 170,
           "OriginalText": "\nis impossible.\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 176,
           "OriginalText": "It\u0027s a hard place to get to, so I just\ngave up altogether.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 185,
           "OriginalText": "If you continue north from here, on the\nother side of the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 189,
@@ -238,31 +220,28 @@
         {
           "Line": 192,
           "OriginalText": ", ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 196,
           "OriginalText": "you can\nsee a huge tower on the opposite bank.\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 202,
           "OriginalText": "I thought I heard a voice coming from\nthe top of that tower.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 206,
           "OriginalText": " I wonder if\nsomeone\u0027s up there.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 218,
@@ -273,8 +252,7 @@
         {
           "Line": 221,
           "OriginalText": " is the widest river\nin ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 225,
@@ -285,14 +263,12 @@
         {
           "Line": 228,
           "OriginalText": ".\n\nYou\u0027d be risking your life if you tried to\nswim across it...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 234,
           "OriginalText": "If you want to go north of it, you\u0027ll have\nto walk patiently to ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 238,
@@ -303,19 +279,18 @@
         {
           "Line": 241,
           "OriginalText": " in\nthe east so you can circumvent it.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Eryck",
       "TextList": [
         {
           "Line": 250,
           "OriginalText": "Is there something else you\u0027d like\nto ask me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

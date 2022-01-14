@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "A regular bed.",
-          "TranslatedText": "เตียงรุ่นธรรมดา",
-          "Colour": null
+          "TranslatedText": "เตียงรุ่นธรรมดา"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "A bed and massage.",
-          "TranslatedText": "เตียงและเครื่องนวด",
-          "Colour": null
+          "TranslatedText": "เตียงและเครื่องนวด"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "No, thanks.",
-          "TranslatedText": "No, thanks.",
-          "Colour": null
+          "TranslatedText": "No, thanks."
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Until morning.",
-          "TranslatedText": "Until morning.",
-          "Colour": null
+          "TranslatedText": "Until morning."
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "Until noon.",
-          "TranslatedText": "จนถึงเที่ยง",
-          "Colour": null
+          "TranslatedText": "จนถึงเที่ยง"
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Until night.",
-          "TranslatedText": "จนถึงกลางคืน",
-          "Colour": null
+          "TranslatedText": "จนถึงกลางคืน"
         }
       ]
     },
@@ -73,8 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "I changed my mind.",
-          "TranslatedText": "ฉันเปลี่ยนใจ",
-          "Colour": null
+          "TranslatedText": "ฉันเปลี่ยนใจ"
         }
       ]
     },
@@ -84,19 +77,18 @@
         {
           "Line": 36,
           "OriginalText": "A massage?",
-          "TranslatedText": "การนวด?",
-          "Colour": null
+          "TranslatedText": "การนวด?"
         }
       ]
     },
     {
       "EntryName": "Talk01",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 45,
           "OriginalText": "A regular bed will cost ya ",
-          "TranslatedText": "เตียงธรรมดาราคา",
-          "Colour": null
+          "TranslatedText": "เตียงธรรมดาราคา"
         },
         {
           "Line": 49,
@@ -107,14 +99,12 @@
         {
           "Line": 52,
           "OriginalText": ".",
-          "TranslatedText": ".",
-          "Colour": null
+          "TranslatedText": "."
         },
         {
           "Line": 56,
           "OriginalText": "\nIf ya wanna throw in a Goron massage,\nthat\u0027ll run ya ",
-          "TranslatedText": "\nถ้าคุณอยากจะนวดแบบ Goron ,\nราคา ",
-          "Colour": null
+          "TranslatedText": "\nถ้าคุณอยากจะนวดแบบ Goron ,\nราคา "
         },
         {
           "Line": 60,
@@ -125,211 +115,200 @@
         {
           "Line": 63,
           "OriginalText": ".",
-          "TranslatedText": ".",
-          "Colour": null
+          "TranslatedText": "."
         }
       ]
     },
     {
       "EntryName": "Talk02",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 85,
           "OriginalText": "Don\u0027t overwork yourself!",
-          "TranslatedText": "อย่าทำงานหนักเกินไป!",
-          "Colour": null
+          "TranslatedText": "อย่าทำงานหนักเกินไป!"
         }
       ]
     },
     {
       "EntryName": "Talk03",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 97,
           "OriginalText": "Hey, buddy... ",
-          "TranslatedText": "Hเฮ้เพื่อน.. ",
-          "Colour": null
+          "TranslatedText": "Hเฮ้เพื่อน.. "
         },
         {
           "Line": 101,
           "OriginalText": "You\u0027re, uh, low on funds.",
-          "TranslatedText": "คุณเอ่อไม่มีเงิน",
-          "Colour": null
+          "TranslatedText": "คุณเอ่อไม่มีเงิน"
         },
         {
           "Line": 105,
           "OriginalText": "\nI can\u0027t let ya stay unless ya pay.",
-          "TranslatedText": "\nฉันไม่ให้อยู่ถ้าคุณไม่จ่ายเงิน",
-          "Colour": null
+          "TranslatedText": "\nฉันไม่ให้อยู่ถ้าคุณไม่จ่ายเงิน"
         }
       ]
     },
     {
       "EntryName": "Talk04",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 114,
           "OriginalText": "How long do ya wanna sleep\non the regular bed?",
-          "TranslatedText": "คุณอยากนอนนานแค่ไหน\nบนเตียงธรรมดาเหรอ?",
-          "Colour": null
+          "TranslatedText": "คุณอยากนอนนานแค่ไหน\nบนเตียงธรรมดาเหรอ?"
         }
       ]
     },
     {
       "EntryName": "Talk05",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 133,
           "OriginalText": "A room and a massage, got it.\nHow long do ya wanna rest for?",
-          "TranslatedText": "รับห้องและนวดไหม\nคุณอยากพักผ่อนนานแค่ไหน?",
-          "Colour": null
+          "TranslatedText": "รับห้องและนวดไหม\nคุณอยากพักผ่อนนานแค่ไหน?"
         }
       ]
     },
     {
       "EntryName": "Talk06",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 152,
           "OriginalText": "All right! Sleep well!",
-          "TranslatedText": "เอาล่ะ! ฝันดี!",
-          "Colour": null
+          "TranslatedText": "เอาล่ะ! ฝันดี!"
         }
       ]
     },
     {
       "EntryName": "Talk07",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 161,
           "OriginalText": "Go ahead and lay down on the rock bed.\nTime to loosen up those tiny muscles!",
-          "TranslatedText": "ไปข้างหน้าและนอนลงบนเตียงหิน\nถึงเวลาคลายกล้ามเนื้อเล็กๆ เหล่านั้น!",
-          "Colour": null
+          "TranslatedText": "ไปข้างหน้าและนอนลงบนเตียงหิน\nถึงเวลาคลายกล้ามเนื้อเล็กๆ เหล่านั้น!"
         }
       ]
     },
     {
       "EntryName": "Talk08",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 173,
           "OriginalText": "Good mornin\u0027!",
-          "TranslatedText": "สวัสดีตอนเช้า!",
-          "Colour": null
+          "TranslatedText": "สวัสดีตอนเช้า!"
         }
       ]
     },
     {
       "EntryName": "Talk09",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 185,
           "OriginalText": "Did ya sleep well? Of course ya did!",
-          "TranslatedText": "คุณหลับสบายดีไหม? แน่นอนคุณต้อง!",
-          "Colour": null
+          "TranslatedText": "คุณหลับสบายดีไหม? แน่นอนคุณต้อง!"
         },
         {
           "Line": 189,
           "OriginalText": "\nTake care, brother!",
-          "TranslatedText": "\nดูแลพี่ชาย!",
-          "Colour": null
+          "TranslatedText": "\nดูแลพี่ชาย!"
         }
       ]
     },
     {
       "EntryName": "Talk10",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 198,
           "OriginalText": "How was the massage? Amazing, right?",
-          "TranslatedText": "การนวดเป็นอย่างไร? น่าทึ่งใช่ไหม?",
-          "Colour": null
+          "TranslatedText": "การนวดเป็นอย่างไร? น่าทึ่งใช่ไหม?"
         },
         {
           "Line": 202,
           "OriginalText": "\nTake care, brother!",
-          "TranslatedText": "\nรักษาตัวนะพี่ชาย!",
-          "Colour": null
+          "TranslatedText": "\nรักษาตัวนะพี่ชาย!"
         }
       ]
     },
     {
       "EntryName": "Talk11",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 214,
           "OriginalText": "Well, well...",
-          "TranslatedText": "เยี่ยม, เยี่ยม...",
-          "Colour": null
+          "TranslatedText": "เยี่ยม, เยี่ยม..."
         }
       ]
     },
     {
       "EntryName": "Talk12",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 229,
           "OriginalText": "You must be sooo tired, buddy!\nRunnin\u0027 around at this hour!",
-          "TranslatedText": "คุณต้องเหนื่อยมากเพื่อน!\nวิ่งไปรอบ ๆ ในชั่วโมงนี้!",
-          "Colour": null
+          "TranslatedText": "คุณต้องเหนื่อยมากเพื่อน!\nวิ่งไปรอบ ๆ ในชั่วโมงนี้!"
         }
       ]
     },
     {
       "EntryName": "Talk13",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 241,
           "OriginalText": "New to the art of Goron massage,\nI take it? That\u0027s OK. First time for\neverything, as they say.\n",
-          "TranslatedText": "ศิลปการนวดแบบใหม่ของ Goron,\nรับไหม? ไม่เป็นไร ครั้งแรกสำหรับ\nทุกสิ่ง, .\n",
-          "Colour": null
+          "TranslatedText": "ศิลปการนวดแบบใหม่ของ Goron,\nรับไหม? ไม่เป็นไร ครั้งแรกสำหรับ\nทุกสิ่ง, .\n"
         },
         {
           "Line": 247,
           "OriginalText": "A Goron-style massage is done on top of\na hard rock bed. ",
-          "TranslatedText": " การนวดของ Goronคือ นวดอยู่\nเตียงหินแข็งๆ.  ",
-          "Colour": null
+          "TranslatedText": " การนวดของ Goronคือ นวดอยู่\nเตียงหินแข็งๆ.  "
         },
         {
           "Line": 251,
           "OriginalText": "Pressure is applied to\nyour body to squeeeeze the tension out.\n",
-          "TranslatedText": "แรงกดถูกใช้กับ\nร่างกายของคุณเพื่อบีบความตึงเครียดออกมา\n",
-          "Colour": null
+          "TranslatedText": "แรงกดถูกใช้กับ\nร่างกายของคุณเพื่อบีบความตึงเครียดออกมา\n"
         },
         {
           "Line": 257,
           "OriginalText": "But I\u0027ll tell ya, it doesn\u0027t hurt one bit.",
-          "TranslatedText": "แต่ฉันจะบอกคุณมันไม่เจ็บสักหน่อย.",
-          "Colour": null
+          "TranslatedText": "แต่ฉันจะบอกคุณมันไม่เจ็บสักหน่อย."
         },
         {
           "Line": 261,
           "OriginalText": "\nMostly.",
-          "TranslatedText": "\nส่วนใหญ่นะ.",
-          "Colour": null
+          "TranslatedText": "\nส่วนใหญ่นะ."
         },
         {
           "Line": 265,
           "OriginalText": " Honestly, I doze off sometimes!\n\nWhen it\u0027s all over, you\u0027ll sleep like a\nrock and feel great when ya wake up.",
-          "TranslatedText": " พูดตามตรงฉันออกไปบ้างในบางครั้ง!\n\nเมื่อมันจบคุณจะนอนหลับเหมือนก้อนหิน\nและรู้สึกดีมากเมื่อคุณตื่นขึ้นมา..",
-          "Colour": null
+          "TranslatedText": " พูดตามตรงฉันออกไปบ้างในบางครั้ง!\n\nเมื่อมันจบคุณจะนอนหลับเหมือนก้อนหิน\nและรู้สึกดีมากเมื่อคุณตื่นขึ้นมา.."
         },
         {
           "Line": 269,
           "OriginalText": "\nYou\u0027ll be all limber and full of energy!",
-          "TranslatedText": "\nคุณจะมีพลังและเต็มไปด้วยพลัง!",
-          "Colour": null
+          "TranslatedText": "\nคุณจะมีพลังและเต็มไปด้วยพลัง!"
         }
       ]
     },
     {
       "EntryName": "Talk14",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 278,
           "OriginalText": "Hey, buddy. Have ya heard?\n\n\n",
-          "TranslatedText": "เฮ้เพื่อน ได้ข่าวรึเปล่า?\n\n\n",
-          "Colour": null
+          "TranslatedText": "เฮ้เพื่อน ได้ข่าวรึเปล่า?\n\n\n"
         },
         {
           "Line": 282,
@@ -340,14 +319,12 @@
         {
           "Line": 285,
           "OriginalText": "has stopped stirrin\u0027 up trouble,",
-          "TranslatedText": " มันหยุดสร้างความวุ่นวายแล้ว",
-          "Colour": null
+          "TranslatedText": " มันหยุดสร้างความวุ่นวายแล้ว"
         },
         {
           "Line": 289,
           "OriginalText": "\nand the ",
-          "TranslatedText": "\nและ ",
-          "Colour": null
+          "TranslatedText": "\nและ "
         },
         {
           "Line": 293,
@@ -358,65 +335,60 @@
         {
           "Line": 296,
           "OriginalText": "have stopped too!\n\nOf course, I don\u0027t go outside,\nso it makes no difference to me.\n\n",
-          "TranslatedText": "ก็หยุดเช่นกัน!\n\nแต่ แน่นอนฉันไม่ออกไปข้างนอก\nดังนั้นสำหรับฉันมันก็เหมือนเดิม\n\n",
-          "Colour": null
+          "TranslatedText": "ก็หยุดเช่นกัน!\n\nแต่ แน่นอนฉันไม่ออกไปข้างนอก\nดังนั้นสำหรับฉันมันก็เหมือนเดิม\n\n"
         },
         {
           "Line": 302,
           "OriginalText": "Anyhoo... ",
-          "TranslatedText": "งั้นก็.. ",
-          "Colour": null
+          "TranslatedText": "งั้นก็.. "
         },
         {
           "Line": 306,
           "OriginalText": "Time to get back to business!",
-          "TranslatedText": "ได้เวลากลับไปทำงาน!",
-          "Colour": null
+          "TranslatedText": "ได้เวลากลับไปทำงาน!"
         }
       ]
     },
     {
       "EntryName": "Talk15",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 318,
           "OriginalText": "Hey!",
-          "TranslatedText": "ไง!",
-          "Colour": null
+          "TranslatedText": "ไง!"
         }
       ]
     },
     {
       "EntryName": "Talk16",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 333,
           "OriginalText": "Hey, Volcon!",
-          "TranslatedText": "ไง, Volcon!",
-          "Colour": null
+          "TranslatedText": "ไง, Volcon!"
         },
         {
           "Line": 337,
           "OriginalText": " We got a customer!",
-          "TranslatedText": " เรามีลูกค้า!",
-          "Colour": null
+          "TranslatedText": " เรามีลูกค้า!"
         }
       ]
     },
     {
       "EntryName": "Talk17",
+      "NPC": "Tray",
       "TextList": [
         {
           "Line": 349,
           "OriginalText": "How was the massage? Amazing, right?",
-          "TranslatedText": "การนวดเป็นอย่างไร? น่าทึ่งใช่ไหม?",
-          "Colour": null
+          "TranslatedText": "การนวดเป็นอย่างไร? น่าทึ่งใช่ไหม?"
         },
         {
           "Line": 353,
           "OriginalText": "\nTake care, brother!",
-          "TranslatedText": "\nระวังสุขภาพนะพี่ชาย!",
-          "Colour": null
+          "TranslatedText": "\nระวังสุขภาพนะพี่ชาย!"
         }
       ]
     }

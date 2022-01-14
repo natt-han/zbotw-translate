@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Catching a horse...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Good horses?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "How do I train one?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,80 +37,78 @@
         {
           "Line": 20,
           "OriginalText": "No, I\u0027m fine.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_01",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 24,
           "OriginalText": "Phwee...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Near_02",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 28,
           "OriginalText": "Nay...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 40,
           "OriginalText": "Hey, Shibo... You think this nosy guy right here\nis interested in horses?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 55,
           "OriginalText": "Looks like it to me, Darton... Judging from his eyes,\nhe\u0027s just itching to get into the saddle.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 67,
           "OriginalText": "Wild horses get scared easily, and if they\nnotice people near them, they\u0027ll take off.\n\nJust sneak up on \u0027em from behind real\nslow. When you get good and close...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 73,
           "OriginalText": "grab \u0027em and jump on quick!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 82,
           "OriginalText": "Horses with ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 86,
@@ -124,8 +119,7 @@
         {
           "Line": 89,
           "OriginalText": "on them are even-\ntempered and easy to train.\n\nOn the other hand, horses that are all\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 93,
@@ -136,131 +130,126 @@
         {
           "Line": 96,
           "OriginalText": ", like straight black or white,\nare a bit more wild and harder to train.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 105,
           "OriginalText": "They\u0027re really wild, so they\u0027ll run in\ndifferent directions and buck here and\nthere because they aren\u0027t trained yet.\nWhen that happens, you\u0027ve gotta soothe\nthem!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 114,
           "OriginalText": "Hey, mister! Ya get all that?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 123,
           "OriginalText": "Dad taught us a lot.\nJust leave the horsin\u0027 around to us!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 145,
           "OriginalText": "You\u0027re right. He\u0027s got eyes that just say, like...\n\u0022Nothing in this world matters to me\nexcept horses.\u0022",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 157,
           "OriginalText": "Do you want to hear some tips to help\nyou master your horse?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 161,
           "OriginalText": " Yay or neigh?\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 165,
           "OriginalText": "I didn\u0027t think of that joke, by the way.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 169,
           "OriginalText": " That\u0027s one\nof my dad\u0027s jokes!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 194,
           "OriginalText": "That means...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 209,
           "OriginalText": "THAT MEANS...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 221,
           "OriginalText": "That means we\u0027ve got ourselves\na customer!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 230,
           "OriginalText": "Howdy, mister man!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 234,
           "OriginalText": " Welcome to\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 238,
@@ -271,14 +260,12 @@
         {
           "Line": 241,
           "OriginalText": "!\n\nOr...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 245,
           "OriginalText": "welcome to the front of\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 249,
@@ -289,81 +276,77 @@
         {
           "Line": 252,
           "OriginalText": ", I guess.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 261,
           "OriginalText": "You really can tell just by looking into\nhis eyes!\n\nBro, his head is just filled with horse\nstuff, right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 270,
           "OriginalText": "That\u0027s right! Just look at his eyes!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 274,
           "OriginalText": "\nRight now in his head, it\u0027s all",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 278,
           "OriginalText": " horses,\nhorses, horses, food, and horses...right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 287,
           "OriginalText": "In that case, you should feel free to ask\nus anything at all about horses!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk20",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 296,
           "OriginalText": "If you crouch and sneak up quietly...\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 302,
           "OriginalText": "they won\u0027t notice you!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk21",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 311,
           "OriginalText": "But a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 315,
@@ -374,19 +357,18 @@
         {
           "Line": 318,
           "OriginalText": " horse has more\nstamina and runs faster, right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk22",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 327,
           "OriginalText": "Dad said they\u0027re hard to handle at first,\nbut if you spend a lot of time with a\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 331,
@@ -397,19 +379,18 @@
         {
           "Line": 334,
           "OriginalText": "horse, you\u0027ll be best buds!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk23",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 343,
           "OriginalText": "Dad also said that beginners should start\nwith ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 347,
@@ -420,14 +401,12 @@
         {
           "Line": 350,
           "OriginalText": "horses...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 354,
           "OriginalText": " When I grow up,\nI\u0027ll ride a ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 358,
@@ -438,131 +417,126 @@
         {
           "Line": 361,
           "OriginalText": " horse, though!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk24",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 370,
           "OriginalText": "But dad also said that just constantly\nsoothing them won\u0027t do at all.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk25",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 379,
           "OriginalText": "The trick is to soothe them when they do\nwhat you want them to do.\n\nIt\u0027s like saying \u0022thanks\u0022 to them for a job\nwell done!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk26",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 388,
           "OriginalText": "See ya! Bye-bye!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 392,
           "OriginalText": "\nTake care, now!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk27",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 401,
           "OriginalText": "Look, Shibo, it\u0027s the twinless dude!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk28",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 410,
-          "OriginalText": "Look, Darton, it\u0027s the\u2014",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Look, Darton, it\u0027s the—",
+          "TranslatedText": null
         },
         {
           "Line": 414,
           "OriginalText": "\nOh,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 418,
           "OriginalText": " you already said that.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk29",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 427,
           "OriginalText": "Dad taught us a lot! If you wanna know\nabout horses, just ask us!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk30",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 449,
           "OriginalText": "So sleepy...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk31",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 464,
           "OriginalText": "One spotted horse...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 468,
           "OriginalText": "\nTwo spotted horses...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk33",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 480,
           "OriginalText": "Today I\u0027m gonna beat ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 484,
@@ -573,41 +547,40 @@
         {
           "Line": 487,
           "OriginalText": "\nto the place where the horses are!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk34",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 496,
           "OriginalText": "My dad was the second-best horse\nguy, you know!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk35",
+      "NPC": "Shibo",
       "TextList": [
         {
           "Line": 505,
           "OriginalText": "All right! I got here before Darton!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "talk36",
+      "NPC": "Darton",
       "TextList": [
         {
           "Line": 514,
           "OriginalText": "Pretty impressive, right!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

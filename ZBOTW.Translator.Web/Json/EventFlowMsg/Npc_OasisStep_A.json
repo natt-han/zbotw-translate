@@ -3,61 +3,58 @@
   "EntryList": [
     {
       "EntryName": "Near_Raimei_001",
+      "NPC": "Katta",
       "TextList": [
         {
           "Line": 8,
           "OriginalText": "Looks good on you...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ใส่แล้วดูดีนะ..."
         }
       ]
     },
     {
       "EntryName": "Talk00",
+      "NPC": "Katta",
       "TextList": [
         {
           "Line": 20,
           "OriginalText": "Halt! ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "หยุดนะ!"
         },
         {
           "Line": 24,
           "OriginalText": "\n\n\nUnless you have permission, you\u0027ll stay\nright there!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "\n\n\nถ้าไม่ได้รับอนุญาตก็จงหยุดอยู่ตรงนั้น!\n"
         },
         {
           "Line": 28,
           "OriginalText": " I don\u0027t care who you are!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ฉันไม่สนว่าคุณจะเป็นใคร!"
         }
       ]
     },
     {
       "EntryName": "Talk01",
+      "NPC": "Katta",
       "TextList": [
         {
           "Line": 37,
           "OriginalText": "You must be pretty special to have\ngotten permission from the ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "คุณคงไม่ใช่คนธรรมดาสินะ\nถึงได้รับอนุญาตจาก"
         },
         {
           "Line": 41,
           "OriginalText": "chief",
-          "TranslatedText": null,
+          "TranslatedText": "หัวหน้า",
           "Colour": "blue"
         },
         {
           "Line": 44,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

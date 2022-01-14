@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Sure.",
-          "TranslatedText": "แน่นอน",
-          "Colour": null
+          "TranslatedText": "แน่นอน"
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ll pass.",
-          "TranslatedText": "ฉันจะผ่าน",
-          "Colour": null
+          "TranslatedText": "ฉันจะผ่าน"
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "I\u0027ll keep my rupees.",
-          "TranslatedText": "ฉันจะให้รูปีของฉัน",
-          "Colour": null
+          "TranslatedText": "ฉันจะให้รูปีของฉัน"
         }
       ]
     },
@@ -40,174 +37,162 @@
         {
           "Line": 20,
           "OriginalText": "Here you go.",
-          "TranslatedText": "นี่ไง",
-          "Colour": null
+          "TranslatedText": "นี่ไง"
         }
       ]
     },
     {
       "EntryName": "Talk00",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 32,
           "OriginalText": "Boy...",
-          "TranslatedText": "โอ้ว...",
-          "Colour": null
+          "TranslatedText": "โอ้ว..."
         },
         {
           "Line": 36,
           "OriginalText": "\n\n\nSweet boy...\n\n\nPlease...",
-          "TranslatedText": "\n\n\nหนุ่มน้อย...\n\n\nโปรด...",
-          "Colour": null
+          "TranslatedText": "\n\n\nหนุ่มน้อย...\n\n\nโปรด..."
         },
         {
           "Line": 40,
           "OriginalText": " Listen to my story...",
-          "TranslatedText": " ฟังเรื่องราวของฉัน...",
-          "Colour": null
+          "TranslatedText": " ฟังเรื่องราวของฉัน..."
         }
       ]
     },
     {
       "EntryName": "Talk01",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 52,
           "OriginalText": "Now... ",
-          "TranslatedText": "ตอนนี้... ",
-          "Colour": null
+          "TranslatedText": "ตอนนี้... "
         },
         {
           "Line": 56,
           "OriginalText": "You have rupees for me, right?",
-          "TranslatedText": "เธอมีรูปีสำหรับฉันใช่ไหม?",
-          "Colour": null
+          "TranslatedText": "เธอมีรูปีสำหรับฉันใช่ไหม?"
         },
         {
           "Line": 60,
           "OriginalText": "\nHand them over. Quickly!",
-          "TranslatedText": "\nส่งมันมา เร็วสิจ้ะ!",
-          "Colour": null
+          "TranslatedText": "\nส่งมันมา เร็วสิจ้ะ!"
         }
       ]
     },
     {
       "EntryName": "Talk02",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 69,
           "OriginalText": "That is truly tragic...",
-          "TranslatedText": "นั่นเป็นเรื่องที่น่าเศร้ามาก...",
-          "Colour": null
+          "TranslatedText": "นั่นเป็นเรื่องที่น่าเศร้ามาก..."
         }
       ]
     },
     {
       "EntryName": "Talk03",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 78,
           "OriginalText": "Ah...",
-          "TranslatedText": "อา...",
-          "Colour": null
+          "TranslatedText": "อา..."
         },
         {
           "Line": 82,
           "OriginalText": " You\u0027ve returned.",
-          "TranslatedText": "เธอกลับมาแล้ว",
-          "Colour": null
+          "TranslatedText": "เธอกลับมาแล้ว"
         }
       ]
     },
     {
       "EntryName": "Talk03_01",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 86,
           "OriginalText": "Now... ",
-          "TranslatedText": "ตอนนี้... ",
-          "Colour": null
+          "TranslatedText": "ตอนนี้... "
         },
         {
           "Line": 90,
           "OriginalText": "If you have rupees,",
-          "TranslatedText": "หากมีรูปี,",
-          "Colour": null
+          "TranslatedText": "หากมีรูปี,"
         },
         {
           "Line": 94,
           "OriginalText": " hand them\nover to me. Quickly!",
-          "TranslatedText": " ส่งมันมา\nให้ฉัน เร็วๆสิจ้ะ!",
-          "Colour": null
+          "TranslatedText": " ส่งมันมา\nให้ฉัน เร็วๆสิจ้ะ!"
         }
       ]
     },
     {
       "EntryName": "Talk03_01B",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 103,
           "OriginalText": "In order for me to regain my power,",
-          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง",
-          "Colour": null
+          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง"
         },
         {
           "Line": 107,
           "OriginalText": "\nI need ",
-          "TranslatedText": "\nฉันต้องการ ",
-          "Colour": null
+          "TranslatedText": "\nฉันต้องการ "
         },
         {
           "Line": 115,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "AmountRupeeForNextRevivalFountain"
         },
         {
           "Line": 118,
           "OriginalText": ".",
-          "TranslatedText": ".",
-          "Colour": null
+          "TranslatedText": "."
         }
       ]
     },
     {
       "EntryName": "Talk03_01C",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 130,
           "OriginalText": "Oh? I feel the power of a new sister...",
-          "TranslatedText": "โอ้ ฉันรู้สึกถึงพลังของน้องสาวใหม่...",
-          "Colour": null
+          "TranslatedText": "โอ้ ฉันรู้สึกถึงพลังของน้องสาวใหม่..."
         },
         {
           "Line": 134,
           "OriginalText": "\nQuickly,",
-          "TranslatedText": "\nเร็วสิจ้ะ",
-          "Colour": null
+          "TranslatedText": "\nเร็วสิจ้ะ"
         },
         {
           "Line": 138,
           "OriginalText": " free me as well!",
-          "TranslatedText": "ปลดปล่อยฉันที!",
-          "Colour": null
+          "TranslatedText": "ปลดปล่อยฉันที!"
         }
       ]
     },
     {
       "EntryName": "Talk03_05B",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 147,
           "OriginalText": "In order for me to regain my power,",
-          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง",
-          "Colour": null
+          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง"
         },
         {
           "Line": 151,
           "OriginalText": "\nI need ",
-          "TranslatedText": "\nฉันต้องการ ",
-          "Colour": null
+          "TranslatedText": "\nฉันต้องการ "
         },
         {
           "Line": 155,
@@ -218,268 +203,255 @@
         {
           "Line": 158,
           "OriginalText": ".",
-          "TranslatedText": ".",
-          "Colour": null
+          "TranslatedText": "."
         }
       ]
     },
     {
       "EntryName": "Talk03_m",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 175,
           "OriginalText": "Well...",
-          "TranslatedText": "เยี่ยมเลย...",
-          "Colour": null
+          "TranslatedText": "เยี่ยมเลย..."
         },
         {
           "Line": 179,
           "OriginalText": " You\u0027re back!",
-          "TranslatedText": "กลับมาแล้ว!",
-          "Colour": null
+          "TranslatedText": "กลับมาแล้ว!"
         },
         {
           "Line": 183,
           "OriginalText": "\nI mean... You\u0027ve come back, have you?",
-          "TranslatedText": "\nฉันหมายถึง... เธอกลับมาแล้ว, สินะ?",
-          "Colour": null
+          "TranslatedText": "\nฉันหมายถึง... เธอกลับมาแล้ว, สินะ?"
         }
       ]
     },
     {
       "EntryName": "Talk04",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 192,
           "OriginalText": "What\u0027s this?",
-          "TranslatedText": "นี่หมายความว่าไง?",
-          "Colour": null
+          "TranslatedText": "นี่หมายความว่าไง?"
         },
         {
           "Line": 196,
           "OriginalText": " You don\u0027t have enough\nrupees?\n\nHow tragic...",
-          "TranslatedText": "เธอมี\nรูปี ไม่เพียงพอ?\n\nช่างน่าเศร้า...",
-          "Colour": null
+          "TranslatedText": "เธอมี\nรูปี ไม่เพียงพอ?\n\nช่างน่าเศร้า..."
         },
         {
           "Line": 200,
           "OriginalText": " How dreadfully tragic.",
-          "TranslatedText": " ช่างน่าเศร้าจริงๆ",
-          "Colour": null
+          "TranslatedText": " ช่างน่าเศร้าจริงๆ"
         }
       ]
     },
     {
       "EntryName": "Talk06",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 204,
           "OriginalText": "This place was once a beautiful spring...\n\n\nBut as time passed, fewer and fewer\ntravelers arrived to offer me rupees.",
-          "TranslatedText": "สถานที่แห่งนี้เคยเป็นฤดูใบไม้ผลิที่สวยงาม...\n\n\nแต่เมื่อเวลาผ่านไปค่อยๆลดน้อยลงและน้อยลง\nนักเดินทางมาถึงเพื่อเสนอรูปีให้ฉัน",
-          "Colour": null
+          "TranslatedText": "สถานที่แห่งนี้เคยเป็นฤดูใบไม้ผลิที่สวยงาม...\n\n\nแต่เมื่อเวลาผ่านไปค่อยๆลดน้อยลงและน้อยลง\nนักเดินทางมาถึงเพื่อเสนอรูปีให้ฉัน"
         },
         {
           "Line": 208,
           "OriginalText": " As a\nresult, my power has abandoned me.\nI\u0027m nearly powerless now, so I beg your\nhelp. I need rupees to become whole\nagain.",
-          "TranslatedText": "ผลก็คือ\nพลังของฉันได้ทอดทิ้งฉันฉันเกือบจะไร้พลังแล้ว\nดังนั้น ฉันขอความช่วยเหลือจากเธอ\nฉันต้องการรูปี\nเพื่อที่จะกลับมาสมบูรณ์อีกครั้ง",
-          "Colour": null
+          "TranslatedText": "ผลก็คือ\nพลังของฉันได้ทอดทิ้งฉันฉันเกือบจะไร้พลังแล้ว\nดังนั้น ฉันขอความช่วยเหลือจากเธอ\nฉันต้องการรูปี\nเพื่อที่จะกลับมาสมบูรณ์อีกครั้ง"
         }
       ]
     },
     {
       "EntryName": "Talk07",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 212,
           "OriginalText": "Hast thou...",
-          "TranslatedText": "เธอจะ...",
-          "Colour": null
+          "TranslatedText": "เธอจะ..."
         },
         {
           "Line": 216,
           "OriginalText": " I mean...",
-          "TranslatedText": " ฉันหมายถึง...",
-          "Colour": null
+          "TranslatedText": " ฉันหมายถึง..."
         },
         {
           "Line": 220,
           "OriginalText": " Have you ever felt\nthe pain of losing a horse companion?\n\nIf my power is returned to me,",
-          "TranslatedText": " เธอเคยรู้สึกไหม\nความเจ็บปวดจากการสูญเสียสหายม้า?\n\nหากพลังของฉันฟื้นกลับมา",
-          "Colour": null
+          "TranslatedText": " เธอเคยรู้สึกไหม\nความเจ็บปวดจากการสูญเสียสหายม้า?\n\nหากพลังของฉันฟื้นกลับมา"
         },
         {
           "Line": 224,
           "OriginalText": " I may be\nable to help you out in some way...\n\nSo please... I beg of you...",
-          "TranslatedText": " ฉันอาจจะ\nสามารถช่วยเธอได้ในบางวิธี...\n\nได้โปรด... ฉันขอร้องล่ะ...",
-          "Colour": null
+          "TranslatedText": " ฉันอาจจะ\nสามารถช่วยเธอได้ในบางวิธี...\n\nได้โปรด... ฉันขอร้องล่ะ..."
         },
         {
           "Line": 228,
           "OriginalText": "\nHelp me regain the power I\u0027ve lost...",
-          "TranslatedText": "\nช่วยให้ฉันฟื้นพลังที่ฉันสูญเสียไป...",
-          "Colour": null
+          "TranslatedText": "\nช่วยให้ฉันฟื้นพลังที่ฉันสูญเสียไป..."
         }
       ]
     },
     {
       "EntryName": "Talk08",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 237,
           "OriginalText": "Thank you. You are too kind.",
-          "TranslatedText": "ขอบคุณ เธอช่างใจดีมาก",
-          "Colour": null
+          "TranslatedText": "ขอบคุณ เธอช่างใจดีมาก"
         }
       ]
     },
     {
       "EntryName": "Talk09",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 241,
           "OriginalText": "Aah... ",
-          "TranslatedText": "อา... ",
-          "Colour": null
+          "TranslatedText": "อา... "
         },
         {
           "Line": 245,
           "OriginalText": "The power...",
-          "TranslatedText": "พลัง...",
-          "Colour": null
+          "TranslatedText": "พลัง..."
         }
       ]
     },
     {
       "EntryName": "Talk09_1",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 249,
           "OriginalText": "Nwaaaaaagh... ",
-          "TranslatedText": "อ่าาาาาา... ",
-          "Colour": null
+          "TranslatedText": "อ่าาาาาา... "
         },
         {
           "Line": 253,
           "OriginalText": "I...",
-          "TranslatedText": "ฉะ...",
-          "Colour": null
+          "TranslatedText": "ฉะ..."
         },
         {
           "Line": 257,
           "OriginalText": "am...",
-          "TranslatedText": "ฉัน...",
-          "Colour": null
+          "TranslatedText": "ฉัน..."
         }
       ]
     },
     {
       "EntryName": "Talk10",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 264,
           "OriginalText": "It\u0027s overflowing!!!",
-          "TranslatedText": "มันเอ่อล้น!!!",
-          "Colour": null
+          "TranslatedText": "มันเอ่อล้น!!!"
         }
       ]
     },
     {
       "EntryName": "Talk10_1",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 274,
           "OriginalText": "Revived!!",
-          "TranslatedText": "ฟื้นขึ้นมา!!",
-          "Colour": null
+          "TranslatedText": "ฟื้นขึ้นมา!!"
         }
       ]
     },
     {
       "EntryName": "Talk11",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 292,
           "OriginalText": "I am the Great Fairy Cotera...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่...",
-          "Colour": null
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่..."
         }
       ]
     },
     {
       "EntryName": "Talk12",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 301,
           "OriginalText": "I am the Great Fairy Mija...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Mija...",
-          "Colour": null
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Mija..."
         }
       ]
     },
     {
       "EntryName": "Talk13",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 310,
           "OriginalText": "I am the Great Fairy Kaysa...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Kaysa...",
-          "Colour": null
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Kaysa..."
         }
       ]
     },
     {
       "EntryName": "Talk14",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 319,
           "OriginalText": "I am the Great Fairy Tera...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Tera...",
-          "Colour": null
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Tera..."
         }
       ]
     },
     {
       "EntryName": "Talk15",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 328,
           "OriginalText": "I am Malanya...",
-          "TranslatedText": "ฉัน Malanya...",
-          "Colour": null
+          "TranslatedText": "ฉัน Malanya..."
         }
       ]
     },
     {
       "EntryName": "Talk16",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 342,
           "OriginalText": "All I need is ",
-          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ ",
-          "Colour": null
+          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ "
         },
         {
           "Line": 350,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "AmountRupeeForNextRevivalFountain"
         },
         {
           "Line": 353,
           "OriginalText": "...",
-          "TranslatedText": "...",
-          "Colour": null
+          "TranslatedText": "..."
         }
       ]
     },
     {
       "EntryName": "Talk20",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 362,
           "OriginalText": "All I need is ",
-          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ ",
-          "Colour": null
+          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ "
         },
         {
           "Line": 366,
@@ -490,47 +462,45 @@
         {
           "Line": 369,
           "OriginalText": "...",
-          "TranslatedText": "...",
-          "Colour": null
+          "TranslatedText": "..."
         }
       ]
     },
     {
       "EntryName": "Talk26",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 373,
           "OriginalText": "Once my power has been restored,\nI can help you do great things, boy.",
-          "TranslatedText": "เมื่อพลังของฉันฟื้นฟูแล้ว\nฉันช่วยทําสิ่งดีๆได้นะ หนุ่มน้อย",
-          "Colour": null
+          "TranslatedText": "เมื่อพลังของฉันฟื้นฟูแล้ว\nฉันช่วยทําสิ่งดีๆได้นะ หนุ่มน้อย"
         }
       ]
     },
     {
       "EntryName": "Talk27",
+      "NPC": "???",
       "TextList": [
         {
           "Line": 377,
           "OriginalText": "When my power has been restored,",
-          "TranslatedText": "เมื่อพลังงานของฉันได้รับการฟื้นฟู",
-          "Colour": null
+          "TranslatedText": "เมื่อพลังงานของฉันได้รับการฟื้นฟู"
         },
         {
           "Line": 381,
           "OriginalText": "\nI should be able to be of use to\nyou, who loves horses so.",
-          "TranslatedText": "\nฉันควรสามารถใช้ประโยชน์ได้\nเธอผู้รักม้า ดังนั้น",
-          "Colour": null
+          "TranslatedText": "\nฉันควรสามารถใช้ประโยชน์ได้\nเธอผู้รักม้า ดังนั้น"
         }
       ]
     },
     {
       "EntryName": "Talk28",
+      "NPC": "Cotera",
       "TextList": [
         {
           "Line": 388,
           "OriginalText": "Ah-HAAAAAAAAAAA!!!",
-          "TranslatedText": "อ่า-ฮ้าาาาา!!!",
-          "Colour": null
+          "TranslatedText": "อ่า-ฮ้าาาาา!!!"
         }
       ]
     }

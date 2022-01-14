@@ -3,18 +3,17 @@
   "EntryList": [
     {
       "EntryName": "Challenge000",
+      "NPC": "Chork",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "Ah, we meet again!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "อา เราเจอกันอีกแล้ว!"
         },
         {
           "Line": 17,
           "OriginalText": "\nI trust you\u0027re keeping well?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "\nฉันเชื่อว่าคุณคงสบายดีนะ?"
         }
       ]
     },
@@ -24,8 +23,7 @@
         {
           "Line": 26,
           "OriginalText": "It\u0027s almost as if you possess the \nability to see into the future...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "มันราวกับว่าคุณสามารถมองเห็น\nอนาคตได้เลย..."
         }
       ]
     },
@@ -35,8 +33,7 @@
         {
           "Line": 33,
           "OriginalText": "Stop it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Stop it!"
         }
       ]
     },
@@ -46,8 +43,7 @@
         {
           "Line": 37,
           "OriginalText": "WAAAAAA!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "WAAAAAA!"
         }
       ]
     },
@@ -57,8 +53,7 @@
         {
           "Line": 46,
           "OriginalText": "Ack!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Ack!"
         }
       ]
     },
@@ -68,8 +63,7 @@
         {
           "Line": 50,
           "OriginalText": "Gah!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Gah!"
         }
       ]
     },
@@ -79,11 +73,10 @@
         {
           "Line": 54,
           "OriginalText": "Knock it off!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "Knock it off!"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

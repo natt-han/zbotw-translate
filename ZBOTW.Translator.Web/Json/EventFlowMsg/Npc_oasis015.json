@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "No, thank you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "A different color?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Buy from me.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Sure!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -51,8 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "No.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -62,8 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -73,59 +67,57 @@
         {
           "Line": 32,
           "OriginalText": "All of them.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_00",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 41,
           "OriginalText": "Which item?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_01",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 50,
           "OriginalText": "I can do ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 58,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 61,
           "OriginalText": ".\nIs that all right?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_02",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 78,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 82,
           "OriginalText": "\nDid you need anything else?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -135,8 +127,7 @@
         {
           "Line": 91,
           "OriginalText": "Please feel free to show me anything\nyou\u0027d like to sell.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -145,9 +136,8 @@
       "TextList": [
         {
           "Line": 100,
-          "OriginalText": "No problem at all\u2014I\u0027ll buy as many\nas you like.",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "No problem at all—I\u0027ll buy as many\nas you like.",
+          "TranslatedText": null
         }
       ]
     },
@@ -157,30 +147,29 @@
         {
           "Line": 109,
           "OriginalText": "Sarqso for the sale.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_04",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 118,
           "OriginalText": "Of course. I don\u0027t mind.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_05",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 127,
           "OriginalText": "Was there something else you wanted\nto sell me?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -190,8 +179,7 @@
         {
           "Line": 136,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -201,8 +189,7 @@
         {
           "Line": 145,
           "OriginalText": "I truly appreciate your business.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -212,128 +199,126 @@
         {
           "Line": 154,
           "OriginalText": "I\u0027ve never seen such beautiful items.\nSarqso!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_13",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 163,
           "OriginalText": "How many?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_14",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 181,
           "OriginalText": "OK, so ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 186,
           "OriginalText": " of them? I can do...\n",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 194,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 197,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_15",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 214,
           "OriginalText": "I\u0027m sorry, but I can\u0027t buy that from you.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_16",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 223,
           "OriginalText": "I\u0027m sorry, but I can\u0027t buy clothes that\nyou\u0027re wearing. There\u0027s \u0022used,\u0022",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 227,
           "OriginalText": " and then\nthere\u0027s buying them right off your body.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_33",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 236,
           "OriginalText": "One is worth...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 247,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 250,
           "OriginalText": ". OK?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Com_Talk_35",
+      "NPC": "Rola",
       "TextList": [
         {
           "Line": 267,
           "OriginalText": "I\u0027ll buy all ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 272,
           "OriginalText": " of those for a total of\n",
           "TranslatedText": null,
-          "Colour": null
+          "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 280,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "ShopTradePrice"
         },
         {
           "Line": 283,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -343,20 +328,19 @@
         {
           "Line": 300,
           "OriginalText": "Ah yes, it\u0027ll be ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 308,
           "OriginalText": " rupees",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Variable": "Shop_SelectItemPrice"
         },
         {
           "Line": 311,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
@@ -366,30 +350,29 @@
         {
           "Line": 328,
           "OriginalText": "I completely understand. It\u0027s part of the\nfun of shopping to go back and forth\non a purchase.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_003",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 337,
           "OriginalText": "It\u0027s so nice and cool this evening, isn\u0027t\nit? On nights like this, I like to relax\nand grab a drink at the canteen.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_004",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 346,
           "OriginalText": "Oooh, that ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 350,
@@ -400,8 +383,7 @@
         {
           "Line": 353,
           "OriginalText": " looks really good\non you...\n\nBut you haven\u0027t really lived until you\u0027ve\ngot ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 357,
@@ -412,25 +394,23 @@
         {
           "Line": 360,
           "OriginalText": " to choose from!\nWhat do you say?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_006",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 378,
           "OriginalText": "You don\u0027t know? Really?!\n\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 384,
-          "OriginalText": "Changing the color of your clothes is a\nreally trendy thing to do right now\nfor young vai traveling beyond town! \nThere\u0027s a store in Hateno Village\u2014the\n",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "Changing the color of your clothes is a\nreally trendy thing to do right now\nfor young vai traveling beyond town! \nThere\u0027s a store in Hateno Village—the\n",
+          "TranslatedText": null
         },
         {
           "Line": 388,
@@ -440,97 +420,96 @@
         },
         {
           "Line": 391,
-          "OriginalText": "\u2014where you can dye\nyour clothes!\nHateno Village is pretty far away, though.\nNot everyone gets to go there...",
-          "TranslatedText": null,
-          "Colour": null
+          "OriginalText": "—where you can dye\nyour clothes!\nHateno Village is pretty far away, though.\nNot everyone gets to go there...",
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_007",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 400,
           "OriginalText": "It\u0027s really hot today, isn\u0027t it? Makes me\nwant to get an ice-cold something from\nthe canteen.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_008",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 409,
           "OriginalText": "Gladly!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_009",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 418,
           "OriginalText": "Anything else you need?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_010",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 436,
           "OriginalText": "Anything else you need?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_011",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 459,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_012",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 473,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_013",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 487,
           "OriginalText": "Sav\u0027saaba!\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_014",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 496,
           "OriginalText": "Geez, it looks really good on you!\nHow about one more to try in a\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 500,
@@ -541,41 +520,40 @@
         {
           "Line": 503,
           "OriginalText": "! You\u0027ve got to buy it!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_015",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 517,
           "OriginalText": "It\u0027s the trend now to create a stylish\nwardrobe by arranging different colors.\nWhy not buy one more Gerudo top?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_016",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 535,
           "OriginalText": "All our Gerudo clothing is sold out now.\n\n\nIf you already have a lot of clothes, you\nshould think about filling out your\nwardrobe with different colors instead.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_017",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 553,
           "OriginalText": "Little ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 557,
@@ -586,14 +564,12 @@
         {
           "Line": 560,
           "OriginalText": " is acting all calm and\nproper now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 564,
           "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027ve got to do my best,\ntoo!\nAs long as you\u0027re here, why don\u0027t you\nsee about getting another outfit in a\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 568,
@@ -604,19 +580,18 @@
         {
           "Line": 571,
           "OriginalText": "?",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_018",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 589,
           "OriginalText": "Little ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 593,
@@ -627,14 +602,12 @@
         {
           "Line": 596,
           "OriginalText": " is acting all calm and\nproper now...",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 600,
           "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027d better hurry up and\nrestock my shop!\nI think I\u0027ll try and restock it with a\nbunch of outfits in ",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 604,
@@ -645,114 +618,110 @@
         {
           "Line": 607,
           "OriginalText": ".",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_019",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 630,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Npc_oasis015_Near01",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 639,
           "OriginalText": "Over here!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_01",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 648,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_02",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 657,
           "OriginalText": "I recommend wearing all the items from\na particular series as a set!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_07",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 666,
           "OriginalText": "It\u0027s also a fashionable thing among vai\nlately to wear different colors of clothes\nthat are from the same set.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_08",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 675,
           "OriginalText": "You can always change the color of an\nitem, so there\u0027s really no reason not to\nown several of the same thing!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_09",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 684,
           "OriginalText": "Ah,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 688,
           "OriginalText": " um,",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 692,
           "OriginalText": " that doorway isn\u0027t for\ncustomers, actually...\n\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         },
         {
           "Line": 701,
           "OriginalText": "If you\u0027re a member, please head around to the\ndoor on the side.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     },
     {
       "EntryName": "Talk_10",
+      "NPC": "Saula",
       "TextList": [
         {
           "Line": 713,
           "OriginalText": "I hope to do business with you again.",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": null
         }
       ]
     }

@@ -7,8 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Leave it to me.",
-          "TranslatedText": "ปล่อยให้ฉัน.",
-          "Colour": null
+          "TranslatedText": "ปล่อยให้ฉัน."
         }
       ]
     },
@@ -18,8 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027m not interested.",
-          "TranslatedText": "ฉันไม่สนใจ.",
-          "Colour": null
+          "TranslatedText": "ฉันไม่สนใจ."
         }
       ]
     },
@@ -29,8 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Giant horse?",
-          "TranslatedText": "ม้ายักษ์?",
-          "Colour": null
+          "TranslatedText": "ม้ายักษ์?"
         }
       ]
     },
@@ -40,8 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Monsters?",
-          "TranslatedText": "สัตว์ประหลาด?",
-          "Colour": null
+          "TranslatedText": "สัตว์ประหลาด?"
         }
       ]
     },
@@ -51,69 +47,67 @@
         {
           "Line": 24,
           "OriginalText": "Go ahead.",
-          "TranslatedText": "ลุยเลย",
-          "Colour": null
+          "TranslatedText": "ลุยเลย"
         }
       ]
     },
     {
       "EntryName": "Near00",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 28,
           "OriginalText": "So...big...",
-          "TranslatedText": "ใหญ่มาก...",
-          "Colour": null
+          "TranslatedText": "ใหญ่มาก..."
         }
       ]
     },
     {
       "EntryName": "Near01",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 32,
           "OriginalText": "Zzz...",
-          "TranslatedText": "Zzz...",
-          "Colour": null
+          "TranslatedText": "Zzz..."
         }
       ]
     },
     {
       "EntryName": "Near02",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 36,
           "OriginalText": "Ohhh...",
-          "TranslatedText": "โอ้...",
-          "Colour": null
+          "TranslatedText": "โอ้..."
         }
       ]
     },
     {
       "EntryName": "Near03",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 40,
           "OriginalText": "Hey there!",
-          "TranslatedText": "สวัสดี!",
-          "Colour": null
+          "TranslatedText": "สวัสดี!"
         }
       ]
     },
     {
       "EntryName": "talk00",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 49,
           "OriginalText": "Hey there!",
-          "TranslatedText": "สวัสดี!",
-          "Colour": null
+          "TranslatedText": "สวัสดี!"
         },
         {
           "Line": 53,
           "OriginalText": " It\u0027s not every day that I see\nsomeone all the way out here!\n\nWe\u0027re doing an ecological study on the\nwild animals in the area.\n\nWe\u0027d heard that there was a ",
-          "TranslatedText": " ไม่ใช่ทุกวันที่ฉันจะเห็น\nใครบางคนออกไปที่นี่!\n\nเรากำลังทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่าในพื้นที่\n\nเราได้ยินมาว่ามี ",
-          "Colour": null
+          "TranslatedText": " ไม่ใช่ทุกวันที่ฉันจะเห็น\nใครบางคนออกไปที่นี่!\n\nเรากำลังทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่าในพื้นที่\n\nเราได้ยินมาว่ามี "
         },
         {
           "Line": 57,
@@ -124,54 +118,49 @@
         {
           "Line": 60,
           "OriginalText": "\nliving in this region.",
-          "TranslatedText": "\nอาศัยอยู่ในแถวนี้.\n",
-          "Colour": null
+          "TranslatedText": "\nอาศัยอยู่ในแถวนี้.\n"
         },
         {
           "Line": 64,
           "OriginalText": " Apparently it\ncan\u0027t be found anywhere else...\nThat was all we needed to hear!\nWe headed this way to investigate\nright away!",
-          "TranslatedText": " เห็นได้ชัดว่า\nหาไม่ได้จากที่อื่น ...\nนั่นคือทั้งหมดที่เราต้องการได้ยิน!\nเรามุ่งหน้าไปทางนี้\nเพื่อตรวจสอบทันที!",
-          "Colour": null
+          "TranslatedText": " เห็นได้ชัดว่า\nหาไม่ได้จากที่อื่น ...\nนั่นคือทั้งหมดที่เราต้องการได้ยิน!\nเรามุ่งหน้าไปทางนี้\nเพื่อตรวจสอบทันที!"
         }
       ]
     },
     {
       "EntryName": "talk01",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 76,
           "OriginalText": "That horse...",
-          "TranslatedText": "ม้าตัวนั้น...",
-          "Colour": null
+          "TranslatedText": "ม้าตัวนั้น..."
         },
         {
           "Line": 80,
           "OriginalText": " It\u0027s huge...",
-          "TranslatedText": " มันใหญ่...",
-          "Colour": null
+          "TranslatedText": " มันใหญ่..."
         },
         {
           "Line": 84,
           "OriginalText": "\n\n\nI\u0027ve never seen one that big! That is\ndefinitely an endemic species!",
-          "TranslatedText": "\n\n\nไม่เคยเห็นใครตัวไหนใหญ่ขนาดนี้! \nนั่นเป็นพันธุ์เฉพาะถิ่นแน่นอน!",
-          "Colour": null
+          "TranslatedText": "\n\n\nไม่เคยเห็นใครตัวไหนใหญ่ขนาดนี้! \nนั่นเป็นพันธุ์เฉพาะถิ่นแน่นอน!"
         }
       ]
     },
     {
       "EntryName": "talk02",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 93,
           "OriginalText": "Well? What do you say?",
-          "TranslatedText": "ห๊า? พูดว่าอะไรนะ?",
-          "Colour": null
+          "TranslatedText": "ห๊า? พูดว่าอะไรนะ?"
         },
         {
           "Line": 97,
           "OriginalText": " Are you willing\nto help us investigate these stories of a\n",
-          "TranslatedText": " คุณยินดีที่จะช่วยเรา\nตรวจสอบเรื่องราวของ\n",
-          "Colour": null
+          "TranslatedText": " คุณยินดีที่จะช่วยเรา\nตรวจสอบเรื่องราวของ\n"
         },
         {
           "Line": 101,
@@ -182,98 +171,93 @@
         {
           "Line": 104,
           "OriginalText": "?",
-          "TranslatedText": "?",
-          "Colour": null
+          "TranslatedText": "?"
         }
       ]
     },
     {
       "EntryName": "talk03",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 121,
           "OriginalText": "This is to thank you for helping with our\ninvestigation!",
-          "TranslatedText": "ขอขอบคุณสำหรับความช่วยเหลือ\nในการตรวจสอบของเรา!",
-          "Colour": null
+          "TranslatedText": "ขอขอบคุณสำหรับความช่วยเหลือ\nในการตรวจสอบของเรา!"
         }
       ]
     },
     {
       "EntryName": "talk04",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 130,
           "OriginalText": "The really big horse in this region is\nlikely part of a rare, local species.\n\nHowever, with all the monsters roaming\naround, ",
-          "TranslatedText": "ม้าตัวใหญ่จริงๆในภูมิภาคนี้\nน่าจะเป็นส่วนหนึ่งของสายพันธุ์ท้องถิ่นที่หายาก\n\nอย่างไรก็ตามกับมอนสเตอร์ทั้งหมดที่สัญจรไปมา \n",
-          "Colour": null
+          "TranslatedText": "ม้าตัวใหญ่จริงๆในภูมิภาคนี้\nน่าจะเป็นส่วนหนึ่งของสายพันธุ์ท้องถิ่นที่หายาก\n\nอย่างไรก็ตามกับมอนสเตอร์ทั้งหมดที่สัญจรไปมา \n"
         },
         {
           "Line": 134,
           "OriginalText": "we simply can\u0027t go any farther.",
-          "TranslatedText": "เราไม่สามารถไปได้ไกลกว่านี้",
-          "Colour": null
+          "TranslatedText": "เราไม่สามารถไปได้ไกลกว่านี้"
         },
         {
           "Line": 138,
           "OriginalText": "\nTo be so close to discovery...",
-          "TranslatedText": "\nใกล้เคียงกับการค้นพบ...",
-          "Colour": null
+          "TranslatedText": "\nใกล้เคียงกับการค้นพบ..."
         }
       ]
     },
     {
       "EntryName": "talk05",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 150,
           "OriginalText": "To think that there is actually a horse\nthis big out there. How surprising!",
-          "TranslatedText": "คิดว่ามีม้าตัวใหญ่อยู่ที่นั่นจริงๆ \nน่าแปลกใจแค่ไหน!",
-          "Colour": null
+          "TranslatedText": "คิดว่ามีม้าตัวใหญ่อยู่ที่นั่นจริงๆ \nน่าแปลกใจแค่ไหน!"
         }
       ]
     },
     {
       "EntryName": "talk06",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 159,
           "OriginalText": "Ah, you\u0027re a lifesaver!",
-          "TranslatedText": "อ่า คุณเป็นผู้ช่วยชีวิต!",
-          "Colour": null
+          "TranslatedText": "อ่า คุณเป็นผู้ช่วยชีวิต!"
         }
       ]
     },
     {
       "EntryName": "talk07",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 168,
           "OriginalText": "I see. Well... Oh, well, then...",
-          "TranslatedText": "ฉันเห็น. อืม ... อืมอย่างนั้น...",
-          "Colour": null
+          "TranslatedText": "ฉันเห็น. อืม ... อืมอย่างนั้น..."
         },
         {
           "Line": 172,
           "OriginalText": "\n\n\nIf you change your mind, come back and\ntalk to me again!",
-          "TranslatedText": "\n\n\nถ้าเปลี่ยนใจ\nกลับมาคุยกันใหม่นะ!",
-          "Colour": null
+          "TranslatedText": "\n\n\nถ้าเปลี่ยนใจ\nกลับมาคุยกันใหม่นะ!"
         }
       ]
     },
     {
       "EntryName": "talk08",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 181,
           "OriginalText": "How\u0027s it going?",
-          "TranslatedText": "เป็นอย่างไรบ้าง?",
-          "Colour": null
+          "TranslatedText": "เป็นอย่างไรบ้าง?"
         },
         {
           "Line": 185,
           "OriginalText": " Have you made progress\nin studying the ",
-          "TranslatedText": " คุณมีความก้าวหน้า\nในการศึกษายังไง ",
-          "Colour": null
+          "TranslatedText": " คุณมีความก้าวหน้า\nในการศึกษายังไง "
         },
         {
           "Line": 189,
@@ -284,19 +268,18 @@
         {
           "Line": 192,
           "OriginalText": "?",
-          "TranslatedText": "?",
-          "Colour": null
+          "TranslatedText": "?"
         }
       ]
     },
     {
       "EntryName": "talk09",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 201,
           "OriginalText": "They say that the ",
-          "TranslatedText": "พวกเขาบอกว่า ",
-          "Colour": null
+          "TranslatedText": "พวกเขาบอกว่า "
         },
         {
           "Line": 205,
@@ -307,8 +290,7 @@
         {
           "Line": 208,
           "OriginalText": " lives\naround the ",
-          "TranslatedText": " อาศัยอยู่\nรอบ ๆ ",
-          "Colour": null
+          "TranslatedText": " อาศัยอยู่\nรอบ ๆ "
         },
         {
           "Line": 212,
@@ -319,70 +301,66 @@
         {
           "Line": 215,
           "OriginalText": "... That\u0027d\nbe northwest of here.",
-          "TranslatedText": "... นั้น\nจะอยู่ทางตะวันตกเฉียงเหนือของที่นี่",
-          "Colour": null
+          "TranslatedText": "... นั้น\nจะอยู่ทางตะวันตกเฉียงเหนือของที่นี่"
         }
       ]
     },
     {
       "EntryName": "talk10",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 224,
           "OriginalText": "Do you think you could catch it and\nbring it back here?",
-          "TranslatedText": "คิดว่าจะจับได้\nและนำกลับมาที่นี่หรือไม่?",
-          "Colour": null
+          "TranslatedText": "คิดว่าจะจับได้\nและนำกลับมาที่นี่หรือไม่?"
         },
         {
           "Line": 228,
           "OriginalText": " Don\u0027t stress out\nover the request, though!",
-          "TranslatedText": " อย่าเครียดกับ\nคำขอ!",
-          "Colour": null
+          "TranslatedText": " อย่าเครียดกับ\nคำขอ!"
         }
       ]
     },
     {
       "EntryName": "talk11",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 237,
           "OriginalText": "What do you want at this hour?",
-          "TranslatedText": "คุณต้องการอะไรในชั่วโมงนี้?",
-          "Colour": null
+          "TranslatedText": "คุณต้องการอะไรในชั่วโมงนี้?"
         }
       ]
     },
     {
       "EntryName": "talk12",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 246,
           "OriginalText": "It\u0027s gotten really late.",
-          "TranslatedText": "มันสายไปแล้ว",
-          "Colour": null
+          "TranslatedText": "มันสายไปแล้ว"
         },
         {
           "Line": 250,
           "OriginalText": " Why not rest for\nthe night, hmm?",
-          "TranslatedText": " ทำไมไม่พักสักคืน \nหืม?",
-          "Colour": null
+          "TranslatedText": " ทำไมไม่พักสักคืน \nหืม?"
         }
       ]
     },
     {
       "EntryName": "talk13",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 259,
           "OriginalText": "That\u0027s right...",
-          "TranslatedText": "ถูกตัอง...",
-          "Colour": null
+          "TranslatedText": "ถูกตัอง..."
         },
         {
           "Line": 263,
           "OriginalText": " There was even a monster\nthat looked quite a lot like a horse...\n\nI approached it, thinking at first that it\nwas the ",
-          "TranslatedText": " มีแม้แต่สัตว์ประหลาด\nที่ดูเหมือนม้ามาก ...\n\nฉันเข้าไปใกล้มันโดย\nในตอนแรกคิดว่ามันคือ ",
-          "Colour": null
+          "TranslatedText": " มีแม้แต่สัตว์ประหลาด\nที่ดูเหมือนม้ามาก ...\n\nฉันเข้าไปใกล้มันโดย\nในตอนแรกคิดว่ามันคือ "
         },
         {
           "Line": 267,
@@ -393,32 +371,27 @@
         {
           "Line": 270,
           "OriginalText": " we\u0027ve been looking\nfor,",
-          "TranslatedText": " เรากำลังมองหา\n",
-          "Colour": null
+          "TranslatedText": " เรากำลังมองหา\n"
         },
         {
           "Line": 274,
           "OriginalText": " but... ",
-          "TranslatedText": " แต่... ",
-          "Colour": null
+          "TranslatedText": " แต่... "
         },
         {
           "Line": 278,
           "OriginalText": "Oh, it was terrible...\n",
-          "TranslatedText": "โอ้มันแย่มาก...\n",
-          "Colour": null
+          "TranslatedText": "โอ้มันแย่มาก...\n"
         },
         {
           "Line": 284,
           "OriginalText": "Just from looking at you, I\u0027d guess that\nyou\u0027re an adventurer, right?\nYou certainly look strong.\nHrm...",
-          "TranslatedText": "แค่มองคุณฉันเดาว่า\nคุณเป็นนักผจญภัยใช่มั้ย?\nคุณดูแข็งแรงมาก.\nหือ...",
-          "Colour": null
+          "TranslatedText": "แค่มองคุณฉันเดาว่า\nคุณเป็นนักผจญภัยใช่มั้ย?\nคุณดูแข็งแรงมาก.\nหือ..."
         },
         {
           "Line": 288,
           "OriginalText": " Hey, how would you like to go and\ncatch a ",
-          "TranslatedText": " เฮ้คุณอยาก\nไปจับ ",
-          "Colour": null
+          "TranslatedText": " เฮ้คุณอยาก\nไปจับ "
         },
         {
           "Line": 292,
@@ -429,104 +402,98 @@
         {
           "Line": 295,
           "OriginalText": " for us?",
-          "TranslatedText": "สำหรับเรา?",
-          "Colour": null
+          "TranslatedText": "สำหรับเรา?"
         }
       ]
     },
     {
       "EntryName": "talk14",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 312,
           "OriginalText": "Hey,",
-          "TranslatedText": "เฮ้,",
-          "Colour": null
+          "TranslatedText": "เฮ้,"
         },
         {
           "Line": 316,
           "OriginalText": " we\u0027re out here doing an\necological study on the wildlife of\nthis area.\nSpecifically, we\u0027re here to look into\nreports of a giant horse.\n\n",
-          "TranslatedText": " เราอยู่ที่นี่เพื่อทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่า\nในพื้นที่นี้\nโดยเฉพาะอย่างยิ่งเรามาที่นี่เพื่อ\nตรวจสอบรายงานเกี่ยวกับม้ายักษ์\n\n",
-          "Colour": null
+          "TranslatedText": " เราอยู่ที่นี่เพื่อทำการศึกษาระบบนิเวศ\nเกี่ยวกับสัตว์ป่า\nในพื้นที่นี้\nโดยเฉพาะอย่างยิ่งเรามาที่นี่เพื่อ\nตรวจสอบรายงานเกี่ยวกับม้ายักษ์\n\n"
         },
         {
           "Line": 322,
           "OriginalText": "And you brought it right to us!",
-          "TranslatedText": "และคุณนำมาให้เรา!",
-          "Colour": null
+          "TranslatedText": "และคุณนำมาให้เรา!"
         },
         {
           "Line": 326,
           "OriginalText": " Thanks\nto you, we were able to meet the giant\nhorse without having to search!",
-          "TranslatedText": " ต้องขอบคุณคุณ\nเราสามารถพบม้ายักษ์ได้\nโดยไม่ต้องค้นหา!",
-          "Colour": null
+          "TranslatedText": " ต้องขอบคุณคุณ\nเราสามารถพบม้ายักษ์ได้\nโดยไม่ต้องค้นหา!"
         }
       ]
     },
     {
       "EntryName": "talk15",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 335,
           "OriginalText": "Sorry, but can I take a good look\nat that horse?",
-          "TranslatedText": "ขอโทษที \nขอดูม้าตัวนั้นให้ดีๆหน่อยได้ไหม",
-          "Colour": null
+          "TranslatedText": "ขอโทษที \nขอดูม้าตัวนั้นให้ดีๆหน่อยได้ไหม"
         }
       ]
     },
     {
       "EntryName": "talk16",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 347,
           "OriginalText": "Thanks, I\u0027ll be right back.",
-          "TranslatedText": "ขอบคุณ ฉันจะกลับมา.",
-          "Colour": null
+          "TranslatedText": "ขอบคุณ ฉันจะกลับมา."
         }
       ]
     },
     {
       "EntryName": "talk17",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 356,
           "OriginalText": "Hrmmm.",
-          "TranslatedText": "อืม",
-          "Colour": null
+          "TranslatedText": "อืม"
         },
         {
           "Line": 360,
           "OriginalText": " This is impressive.",
-          "TranslatedText": " อันนี้น่าประทับใจ",
-          "Colour": null
+          "TranslatedText": " อันนี้น่าประทับใจ"
         }
       ]
     },
     {
       "EntryName": "talk18",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 372,
           "OriginalText": "Wow. With this much info, I can feel my\nspirit for discovery murmuring in\ncontentment.\nIt\u0027s definitely different, seeing something\nwith your own eyes rather than just\nreading about it. Thank you!",
-          "TranslatedText": "ว้าว. ด้วยข้อมูลมากมายนี้ฉันรู้สึกได้ถึง\nจิตวิญญาณของฉันที่พบว่ามีการพึมพำในความพึงพอใจ\nมันแตกต่างอย่างแน่นอน\nการได้เห็นบางสิ่งบางอย่าง\nด้วยตาของคุณเองแทนที่จะอ่านมัน ขอบคุณ!",
-          "Colour": null
+          "TranslatedText": "ว้าว. ด้วยข้อมูลมากมายนี้ฉันรู้สึกได้ถึง\nจิตวิญญาณของฉันที่พบว่ามีการพึมพำในความพึงพอใจ\nมันแตกต่างอย่างแน่นอน\nการได้เห็นบางสิ่งบางอย่าง\nด้วยตาของคุณเองแทนที่จะอ่านมัน ขอบคุณ!"
         }
       ]
     },
     {
       "EntryName": "talk19",
+      "NPC": "Straia",
       "TextList": [
         {
           "Line": 381,
           "OriginalText": "Ah, hmm.",
-          "TranslatedText": "อ่า อืม.",
-          "Colour": null
+          "TranslatedText": "อ่า อืม."
         },
         {
           "Line": 385,
           "OriginalText": " Quite interesting.",
-          "TranslatedText": " น่าสนใจทีเดียว",
-          "Colour": null
+          "TranslatedText": " น่าสนใจทีเดียว"
         }
       ]
     }

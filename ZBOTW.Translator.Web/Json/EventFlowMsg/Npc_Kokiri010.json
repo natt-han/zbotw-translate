@@ -3,33 +3,31 @@
   "EntryList": [
     {
       "EntryName": "Npc_Kokiri010_Talk000",
+      "NPC": "Zooki",
       "TextList": [
         {
           "Line": 13,
           "OriginalText": "Congratulations! You completed my\n",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "ยินดีด้วย! คุณผ่าน "
         },
         {
           "Line": 17,
           "OriginalText": "Korok Trial",
-          "TranslatedText": null,
+          "TranslatedText": "Korok Trial",
           "Colour": "red"
         },
         {
           "Line": 20,
           "OriginalText": "!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": "\nของฉันแล้ว!"
         },
         {
           "Line": 24,
           "OriginalText": " I hope you found something\nnice inside of the shrine!",
-          "TranslatedText": null,
-          "Colour": null
+          "TranslatedText": " หวังว่าคุณจะเจอของดี\nในศาลเจ้านะ!"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }
