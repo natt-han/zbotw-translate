@@ -77,9 +77,12 @@ textarea {
                         <td class="entry-name d-none d-xl-table-cell">
                             <span class="text-break">{{item.entryName}}</span>
                             <span v-if="item.npc">({{item.npc}})</span>
+                            <i v-if="item.choices" class="far fa-info-circle" v-bind:title="getChoices(item.choices)"></i>
                         </td>
                         <td style="min-width:730px">
-                            <span class="d-xl-none fw-bold">{{item.entryName}} <span v-if="item.npc">({{item.npc}})</span></span>
+                            <span class="d-xl-none fw-bold">
+                                {{item.entryName}} <span v-if="item.npc">({{item.npc}})</span>
+                            </span>
                             <div v-for="text in item.textList" class="row gx-2">                                
                                 <div class="col-auto">
                                     <div class="input-group input-group-sm text-control">
@@ -169,9 +172,18 @@ textarea {
             totalTranslatedText(){
                 var total = 0;
                 return this.fileList.reduce(function(prev,cur){ total += cur.translatedText });
+            },
+            choiceList(){
+                return this.messageTable.entryList.filter(x=>!isNaN(x.entryName));
             }
         },
         methods:{
+            getChoices(choices){
+                var temp = "";
+                var choice_labels = this.choiceList.filter(x=>choices.includes(Number(x.entryName)));
+                choice_labels.forEach(element => temp+= element.entryName+":"+element.textList[0].translatedText +"("+ element.textList[0].originalText + ")"+"\n");
+                return temp;
+            },
             selectGroup(group){
                 this.fileGroupFilter = group;
             },

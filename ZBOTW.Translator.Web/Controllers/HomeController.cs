@@ -253,6 +253,63 @@ namespace ZBOTW.Translator.Web.Controllers
                 System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
             }
         }
+
+        private void ExecUpdateChoice()
+        {
+            var entryNameRegex = new Regex("^  [a-zA-Z0-9\"]");
+            var unescapedDoublequoteRegex = new Regex("(?<!\\\\)\"");
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Msyt", "Original", "EventFlowMsg"));
+
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileNameWithoutExtension(file.Name);
+                var lines = System.IO.File.ReadAllLines(file.FullName);
+
+                var mstb = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json")));
+                if (mstb == null) throw new InvalidOperationException("Null MessageTable");
+                var entryName = "";
+                bool foundChoice = false;
+                List<int> choices = new List<int>();
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    if (entryNameRegex.Match(lines[i]).Success)
+                    {
+
+                        var name = lines[i].Replace("\"", "").Replace(":", "").Trim();
+                        entryName = name;
+                        foundChoice = false;
+                    }
+
+                    if (lines[i].Trim().StartsWith("choice_labels:"))
+                    {
+                        foundChoice = true;
+                        choices = new List<int>();
+                        continue;
+                    }
+                    if(foundChoice)
+                    {
+                        if (lines[i].Trim().StartsWith("-"))
+                        {
+                            var temp = lines[i].Replace("-", "").Trim();
+                            if (!string.IsNullOrEmpty(temp))
+                            {
+                                choices.Add(Int32.Parse(temp));                                
+                            }
+                        }
+                        else
+                        {
+                            var entry = mstb.EntryList.FirstOrDefault(c => c.EntryName == entryName);
+                            if (entry == null) throw new InvalidOperationException($"{fileName} Entry {entryName} Not Found");
+                            entry.Choices = choices.ToArray();
+                            foundChoice = false;
+                        }
+                    }
+                }
+                System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(mstb, jsonSerializerOptions));
+            }
+        }
+
         private FileStreamResult ExportMsyt()
         {
             var encoderSettings = new TextEncoderSettings();
@@ -328,7 +385,8 @@ namespace ZBOTW.Translator.Web.Controllers
         {
             //ExecUpdateColour();
             //ExecUpdateNPC();
-            ExecUpdateVariable();
+            //ExecUpdateVariable();
+            ExecUpdateChoice();
             return RedirectToAction("Index");
         }
 
@@ -394,8 +452,8 @@ namespace ZBOTW.Translator.Web.Controllers
         {
             var summary = GetSummary();
             var info = summary.Find(c => c.FileName.Equals(messageTable.FileName));
-            info.IsCompleted = messageTable.IsCompleted;
             info.TranslatedText = messageTable.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Count());
+            info.IsCompleted = messageTable.IsCompleted || info.Text == info.TranslatedText;
             System.IO.File.WriteAllText(Path.Combine("Json", $"EventFlowMsg.json"), JsonSerializer.Serialize(summary, jsonSerializerOptions));
             return summary;
         }

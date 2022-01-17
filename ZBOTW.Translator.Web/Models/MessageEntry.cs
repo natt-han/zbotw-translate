@@ -18,6 +18,8 @@ namespace ZBOTW.Translator.Web.Models
         public string? EntryName { get; set; }
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public string? NPC { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int[]? Choices { get; set; }
         public List<MessageText> TextList { get; set; }
 
         public MessageEntry()
