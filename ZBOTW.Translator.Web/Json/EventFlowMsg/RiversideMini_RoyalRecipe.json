@@ -103,6 +103,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Gotter",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 55,
@@ -167,6 +171,10 @@
     {
       "EntryName": "Talk_Challenge03",
       "NPC": "Gotter",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 108,
@@ -178,6 +186,10 @@
     {
       "EntryName": "Talk_Challenge04",
       "NPC": "Gotter",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 120,

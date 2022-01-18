@@ -131,6 +131,11 @@
     {
       "EntryName": "NewText_02",
       "NPC": "Anche",
+      "Choices": [
+        13,
+        18,
+        17
+      ],
       "TextList": [
         {
           "Line": 75,
@@ -153,6 +158,10 @@
     {
       "EntryName": "NewText_09",
       "NPC": "Anche",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 103,
@@ -185,6 +194,10 @@
     {
       "EntryName": "NewText_10",
       "NPC": "Anche",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 145,
@@ -279,6 +292,11 @@
     {
       "EntryName": "NewText_41",
       "NPC": "Anche",
+      "Choices": [
+        2,
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 242,
@@ -360,6 +378,10 @@
     {
       "EntryName": "NewText_47",
       "NPC": "Anche",
+      "Choices": [
+        16,
+        17
+      ],
       "TextList": [
         {
           "Line": 315,
@@ -414,6 +436,10 @@
     {
       "EntryName": "Talk_000",
       "NPC": "Furosa",
+      "Choices": [
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 364,

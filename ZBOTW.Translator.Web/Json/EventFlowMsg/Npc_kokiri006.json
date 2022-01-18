@@ -293,6 +293,12 @@
     {
       "EntryName": "Npc_kokiri006_Talk050",
       "NPC": "Pepp",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 209,
@@ -337,6 +343,11 @@
     {
       "EntryName": "Npc_kokiri006_Talk081",
       "NPC": "Pepp",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 250,

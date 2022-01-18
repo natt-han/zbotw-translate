@@ -77,6 +77,10 @@
     {
       "EntryName": "talk_00",
       "NPC": "Flavi",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 41,
@@ -175,6 +179,10 @@
     {
       "EntryName": "talk_05",
       "NPC": "Flavi",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 121,

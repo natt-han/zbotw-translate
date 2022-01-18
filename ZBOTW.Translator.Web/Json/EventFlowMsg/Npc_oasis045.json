@@ -93,6 +93,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 54,
@@ -236,6 +240,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 174,
@@ -247,6 +256,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 192,
@@ -298,6 +311,11 @@
     {
       "EntryName": "Com_Talk_31",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 238,
@@ -309,6 +327,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 256,
@@ -337,6 +359,10 @@
     {
       "EntryName": "Com_Talk_34",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 283,
@@ -371,6 +397,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -399,6 +429,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 351,
@@ -421,6 +455,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5500,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 379,
@@ -431,6 +470,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 397,
@@ -490,6 +533,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 457,
@@ -535,6 +582,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 493,
@@ -551,6 +602,10 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 514,
@@ -671,6 +726,10 @@
     {
       "EntryName": "Talk_11",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 612,
@@ -682,6 +741,10 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 629,
@@ -693,6 +756,10 @@
     {
       "EntryName": "Talk_13",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 646,
@@ -763,6 +830,10 @@
     {
       "EntryName": "Talk_18",
       "NPC": "Lorn",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 711,

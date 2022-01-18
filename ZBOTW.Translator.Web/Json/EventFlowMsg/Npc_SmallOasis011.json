@@ -54,6 +54,11 @@
     {
       "EntryName": "Talk_000",
       "NPC": "Ripp",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 33,
@@ -109,6 +114,10 @@
     {
       "EntryName": "Talk_001",
       "NPC": "Ripp",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 79,
@@ -142,6 +151,11 @@
     {
       "EntryName": "Talk_003",
       "NPC": "Ripp",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 112,
@@ -197,6 +211,11 @@
     {
       "EntryName": "Talk_005",
       "NPC": "Ripp",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 160,
@@ -274,6 +293,10 @@
     {
       "EntryName": "Talk_008",
       "NPC": "Ripp",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 227,
@@ -378,6 +401,10 @@
     {
       "EntryName": "Talk_015",
       "NPC": "Ripp",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 343,
@@ -428,6 +455,11 @@
     {
       "EntryName": "Talk_017",
       "NPC": "Ripp",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 386,
@@ -539,6 +571,12 @@
     {
       "EntryName": "Talk_022",
       "NPC": "Ripp",
+      "Choices": [
+        4,
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 489,
@@ -550,6 +588,12 @@
     {
       "EntryName": "Talk_023",
       "NPC": "Ripp",
+      "Choices": [
+        4,
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 508,
@@ -654,6 +698,12 @@
     {
       "EntryName": "Talk_025",
       "NPC": "Ripp",
+      "Choices": [
+        4,
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 589,

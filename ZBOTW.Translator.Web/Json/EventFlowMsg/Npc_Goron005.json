@@ -137,6 +137,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 70,
@@ -294,6 +298,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 215,
@@ -305,6 +314,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 233,
@@ -350,6 +363,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 279,
@@ -377,6 +394,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 311,
@@ -404,6 +425,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 343,
@@ -431,6 +456,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 380,
@@ -519,6 +548,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Aji",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 457,
@@ -755,6 +790,12 @@
     {
       "EntryName": "talk25",
       "NPC": "Aji",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 663,

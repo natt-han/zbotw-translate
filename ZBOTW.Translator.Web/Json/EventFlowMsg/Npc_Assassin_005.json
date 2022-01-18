@@ -113,6 +113,10 @@
     },
     {
       "EntryName": "Com_Talk_10",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 67,
@@ -173,6 +177,10 @@
     },
     {
       "EntryName": "Com_Talk_30",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 124,
@@ -201,6 +209,11 @@
     },
     {
       "EntryName": "Com_Talk_31",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 152,
@@ -211,6 +224,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 165,
@@ -254,6 +271,10 @@
     },
     {
       "EntryName": "Com_Talk_37",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 211,
@@ -269,6 +290,10 @@
     },
     {
       "EntryName": "Com_Talk_56",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 227,
@@ -325,6 +350,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 312,
@@ -341,6 +370,10 @@
     {
       "EntryName": "Talk01",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 333,
@@ -384,6 +417,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 378,

@@ -171,6 +171,10 @@
     {
       "EntryName": "Axe02",
       "NPC": "Giro",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 95,
@@ -206,6 +210,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 130,
@@ -368,6 +376,10 @@
     },
     {
       "EntryName": "Com_Talk_10",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 253,
@@ -429,6 +441,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 310,
@@ -440,6 +457,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 323,
@@ -505,6 +526,10 @@
     {
       "EntryName": "Com_Talk_30",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 378,
@@ -528,6 +553,11 @@
     {
       "EntryName": "Com_Talk_31",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 401,
@@ -539,6 +569,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 414,
@@ -566,6 +600,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 441,
@@ -593,6 +631,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 468,
@@ -625,6 +667,10 @@
     },
     {
       "EntryName": "Com_Talk_37",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 505,
@@ -641,6 +687,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 521,
@@ -669,6 +719,10 @@
     {
       "EntryName": "FirstTalk00",
       "NPC": "Giro",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 553,
@@ -715,6 +769,10 @@
     {
       "EntryName": "FirstTalk00_Rain",
       "NPC": "Giro",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 602,
@@ -761,6 +819,10 @@
     {
       "EntryName": "FirstTalk01",
       "NPC": "Giro",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 651,
@@ -777,6 +839,10 @@
     {
       "EntryName": "FirstTalk02",
       "NPC": "Giro",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 672,
@@ -853,6 +919,11 @@
     {
       "EntryName": "Talk00",
       "NPC": "Giro",
+      "Choices": [
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 737,
@@ -864,6 +935,11 @@
     {
       "EntryName": "Talk01",
       "NPC": "Giro",
+      "Choices": [
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 755,
@@ -956,6 +1032,11 @@
     {
       "EntryName": "Talk08",
       "NPC": "Giro",
+      "Choices": [
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 839,

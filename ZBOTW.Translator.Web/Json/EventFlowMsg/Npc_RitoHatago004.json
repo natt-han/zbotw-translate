@@ -470,6 +470,10 @@
     {
       "EntryName": "Deliver02",
       "NPC": "Galli",
+      "Choices": [
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 246,
@@ -551,6 +555,12 @@
     {
       "EntryName": "KyoukaiTalk01",
       "NPC": "Galli",
+      "Choices": [
+        62,
+        63,
+        64,
+        65
+      ],
       "TextList": [
         {
           "Line": 344,
@@ -584,6 +594,11 @@
     {
       "EntryName": "KyoukaiTalk02",
       "NPC": "Galli",
+      "Choices": [
+        64,
+        52,
+        65
+      ],
       "TextList": [
         {
           "Line": 377,
@@ -617,6 +632,12 @@
     {
       "EntryName": "KyoukaiTalk03",
       "NPC": "Galli",
+      "Choices": [
+        62,
+        63,
+        64,
+        65
+      ],
       "TextList": [
         {
           "Line": 409,
@@ -628,6 +649,10 @@
     {
       "EntryName": "KyoukaiTalk04",
       "NPC": "Galli",
+      "Choices": [
+        66,
+        67
+      ],
       "TextList": [
         {
           "Line": 428,
@@ -650,6 +675,12 @@
     {
       "EntryName": "KyoukaiTalk06",
       "NPC": "Galli",
+      "Choices": [
+        62,
+        63,
+        64,
+        65
+      ],
       "TextList": [
         {
           "Line": 454,
@@ -677,6 +708,11 @@
     {
       "EntryName": "KyoukaiTalk07",
       "NPC": "Galli",
+      "Choices": [
+        64,
+        52,
+        65
+      ],
       "TextList": [
         {
           "Line": 486,
@@ -763,6 +799,10 @@
     {
       "EntryName": "Receive05",
       "NPC": "Galli",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 561,
@@ -873,6 +913,10 @@
     {
       "EntryName": "Register01",
       "NPC": "Galli",
+      "Choices": [
+        30,
+        31
+      ],
       "TextList": [
         {
           "Line": 674,
@@ -900,6 +944,10 @@
     {
       "EntryName": "Register03",
       "NPC": "Galli",
+      "Choices": [
+        32,
+        33
+      ],
       "TextList": [
         {
           "Line": 706,
@@ -933,6 +981,10 @@
     {
       "EntryName": "Register06",
       "NPC": "Galli",
+      "Choices": [
+        34,
+        35
+      ],
       "TextList": [
         {
           "Line": 741,
@@ -950,6 +1002,10 @@
     {
       "EntryName": "Register07",
       "NPC": "Galli",
+      "Choices": [
+        36,
+        37
+      ],
       "TextList": [
         {
           "Line": 768,
@@ -1143,6 +1199,10 @@
     {
       "EntryName": "Register20",
       "NPC": "Galli",
+      "Choices": [
+        42,
+        43
+      ],
       "TextList": [
         {
           "Line": 945,
@@ -1196,6 +1256,10 @@
     {
       "EntryName": "Register21",
       "NPC": "Galli",
+      "Choices": [
+        42,
+        43
+      ],
       "TextList": [
         {
           "Line": 998,
@@ -1223,6 +1287,10 @@
     {
       "EntryName": "Register22",
       "NPC": "Galli",
+      "Choices": [
+        40,
+        41
+      ],
       "TextList": [
         {
           "Line": 1028,
@@ -1267,6 +1335,10 @@
     {
       "EntryName": "Register23",
       "NPC": "Galli",
+      "Choices": [
+        40,
+        41
+      ],
       "TextList": [
         {
           "Line": 1066,
@@ -1342,6 +1414,12 @@
     {
       "EntryName": "Talk04",
       "NPC": "Galli",
+      "Choices": [
+        4,
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1135,
@@ -1353,6 +1431,12 @@
     {
       "EntryName": "Talk05",
       "NPC": "Galli",
+      "Choices": [
+        4,
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1154,
@@ -1483,6 +1567,12 @@
     {
       "EntryName": "Talk15",
       "NPC": "Galli",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 1270,
@@ -1527,6 +1617,10 @@
     {
       "EntryName": "TalkHatu_01",
       "NPC": "Galli",
+      "Choices": [
+        50,
+        51
+      ],
       "TextList": [
         {
           "Line": 1312,
@@ -1575,6 +1669,10 @@
     {
       "EntryName": "TalkHatu_02",
       "NPC": "Galli",
+      "Choices": [
+        52,
+        53
+      ],
       "TextList": [
         {
           "Line": 1357,

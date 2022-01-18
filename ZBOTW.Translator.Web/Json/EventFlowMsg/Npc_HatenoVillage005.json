@@ -168,6 +168,12 @@
     {
       "EntryName": "talk05",
       "NPC": "Nack",
+      "Choices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 106,
@@ -448,6 +454,12 @@
     {
       "EntryName": "talk15",
       "NPC": "Nack",
+      "Choices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 337,

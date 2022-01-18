@@ -54,6 +54,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Tamana",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 33,
@@ -268,6 +272,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Tamana",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 216,
@@ -454,6 +462,10 @@
     {
       "EntryName": "talk19",
       "NPC": "Tamana",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 379,
@@ -503,6 +515,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Tamana",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 427,

@@ -168,6 +168,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 76,
@@ -301,6 +305,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 171,
@@ -312,6 +321,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 184,
@@ -363,6 +376,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 230,
@@ -390,6 +407,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 257,
@@ -418,6 +439,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 285,
@@ -446,6 +471,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 313,
@@ -468,6 +497,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 341,
@@ -478,6 +512,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 354,
@@ -536,6 +574,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 403,
@@ -689,6 +731,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Fyson",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 507,
@@ -789,6 +835,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Fyson",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 600,
@@ -979,6 +1029,11 @@
     {
       "EntryName": "talk20",
       "NPC": "Fyson",
+      "Choices": [
+        7,
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 757,
@@ -1248,6 +1303,10 @@
     {
       "EntryName": "talk40",
       "NPC": "Fyson",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 995,

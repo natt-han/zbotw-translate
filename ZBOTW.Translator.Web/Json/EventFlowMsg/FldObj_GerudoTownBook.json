@@ -114,6 +114,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Dina",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 57,
@@ -135,6 +139,12 @@
     {
       "EntryName": "talk02",
       "NPC": "Dina",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 82,
@@ -156,6 +166,11 @@
     },
     {
       "EntryName": "talk04",
+      "Choices": [
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 110,
@@ -199,6 +214,11 @@
     },
     {
       "EntryName": "talk05",
+      "Choices": [
+        4,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 149,
@@ -253,6 +273,11 @@
     },
     {
       "EntryName": "talk06",
+      "Choices": [
+        4,
+        5,
+        7
+      ],
       "TextList": [
         {
           "Line": 195,
@@ -263,6 +288,12 @@
     },
     {
       "EntryName": "talk07",
+      "Choices": [
+        4,
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 213,
@@ -274,6 +305,11 @@
     {
       "EntryName": "talk08",
       "NPC": "Dina",
+      "Choices": [
+        9,
+        10,
+        7
+      ],
       "TextList": [
         {
           "Line": 232,
@@ -285,6 +321,11 @@
     {
       "EntryName": "talk09",
       "NPC": "Dina",
+      "Choices": [
+        8,
+        10,
+        7
+      ],
       "TextList": [
         {
           "Line": 253,
@@ -313,6 +354,11 @@
     {
       "EntryName": "talk10",
       "NPC": "Dina",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 281,

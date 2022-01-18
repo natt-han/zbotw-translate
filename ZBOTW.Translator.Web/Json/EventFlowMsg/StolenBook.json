@@ -279,6 +279,10 @@
     {
       "EntryName": "Npc_Kakariko002_R_001",
       "NPC": "Paya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 146,
@@ -1235,6 +1239,10 @@
     {
       "EntryName": "Npc_Kakariko007_S1_001",
       "NPC": "Dorian",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 1031,
@@ -1267,6 +1275,10 @@
     {
       "EntryName": "Npc_Kakariko007_S1_002_1",
       "NPC": "Dorian",
+      "Choices": [
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 1070,
@@ -1340,6 +1352,10 @@
     {
       "EntryName": "Npc_Kakariko007_S1_002_4",
       "NPC": "Dorian",
+      "Choices": [
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 1141,
@@ -1659,6 +1675,10 @@
     {
       "EntryName": "Npc_Kakariko008_04",
       "NPC": "Mellie",
+      "Choices": [
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 1418,
@@ -1880,6 +1900,10 @@
     {
       "EntryName": "Npc_Kakariko008_15",
       "NPC": "Mellie",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1659,
@@ -2012,6 +2036,10 @@
     {
       "EntryName": "Npc_Kakariko012_S1_001",
       "NPC": "Lasli",
+      "Choices": [
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 1819,
@@ -2187,6 +2215,10 @@
     {
       "EntryName": "Npc_Kakariko012_S1_003_6",
       "NPC": "Lasli",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 2035,
@@ -2572,6 +2604,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Cado",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 2403,

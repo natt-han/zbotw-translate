@@ -140,6 +140,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Molli",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 80,
@@ -241,6 +245,10 @@
     {
       "EntryName": "talk50",
       "NPC": "Molli",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 167,
@@ -455,6 +463,10 @@
     {
       "EntryName": "talk58",
       "NPC": "Molli",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 353,

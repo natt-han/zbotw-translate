@@ -126,6 +126,11 @@
     {
       "EntryName": "talk02",
       "NPC": "Leop",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 78,

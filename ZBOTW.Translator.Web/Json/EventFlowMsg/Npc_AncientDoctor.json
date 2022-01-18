@@ -277,7 +277,7 @@
         {
           "Line": 116,
           "OriginalText": "Not yet.",
-          "TranslatedText": "ยังก่อน"
+          "TranslatedText": "ยัง"
         }
       ]
     },
@@ -457,6 +457,12 @@
     {
       "EntryName": "talk05",
       "NPC": "Purah",
+      "Choices": [
+        16,
+        35,
+        36,
+        1
+      ],
       "TextList": [
         {
           "Line": 254,
@@ -516,6 +522,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Purah",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 305,
@@ -547,7 +557,7 @@
         {
           "Line": 323,
           "OriginalText": "?",
-          "TranslatedText": "งั้นเหรอ?"
+          "TranslatedText": " งั้นเหรอ?"
         }
       ]
     },
@@ -603,6 +613,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Purah",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 380,
@@ -618,7 +632,7 @@
         {
           "Line": 397,
           "OriginalText": "Don\u0027t lie!",
-          "TranslatedText": "อย่ามาโกหา!"
+          "TranslatedText": "อย่ามาโกหก!"
         },
         {
           "Line": 401,
@@ -644,7 +658,7 @@
         {
           "Line": 420,
           "OriginalText": "Well, I commend your honesty.",
-          "TranslatedText": "ขอชื่นชนในความซื่อสัตย์นะ"
+          "TranslatedText": "ขอชื่นชมในความซื่อสัตย์นะ"
         },
         {
           "Line": 424,
@@ -697,7 +711,7 @@
         {
           "Line": 461,
           "OriginalText": ".",
-          "TranslatedText": "ของนายแล้ว"
+          "TranslatedText": " ของนายแล้ว"
         },
         {
           "Line": 465,
@@ -729,13 +743,17 @@
         {
           "Line": 487,
           "OriginalText": "Well, well.\n\n\nIf your visit here today leaves you with\nfond memories of your journey, then I,\ntoo, will be most pleased.",
-          "TranslatedText": "\nถ้าหากการที่นายแวะมาที่นี่ในวันนี้\nเป็นความทรงจำที่ดีของนาย\nฉันก็จะยินดีมาก"
+          "TranslatedText": "เอาเถอะ\n\n\nถ้าหากการที่นายแวะมาที่นี่ในวันนี้\nเป็นความทรงจำที่ดีของนาย\nฉันก็จะยินดีมาก"
         }
       ]
     },
     {
       "EntryName": "talk19",
       "NPC": "Purah",
+      "Choices": [
+        38,
+        39
+      ],
       "TextList": [
         {
           "Line": 496,
@@ -805,7 +823,7 @@
         {
           "Line": 555,
           "OriginalText": " HA!\n\n\n",
-          "TranslatedText": " ฮ่า!\n"
+          "TranslatedText": " ฮ่า!\n\n\n"
         },
         {
           "Line": 561,
@@ -826,7 +844,7 @@
         {
           "Line": 572,
           "OriginalText": " Superb, right?\n\n",
-          "TranslatedText": " แจ่มเลยมั้ย?\n"
+          "TranslatedText": " แจ่มเลยมั้ย?\n\n"
         },
         {
           "Line": 579,
@@ -908,7 +926,7 @@
         {
           "Line": 647,
           "OriginalText": "Hmm... ",
-          "TranslatedText": "Hmm... "
+          "TranslatedText": "อืมม... "
         },
         {
           "Line": 651,
@@ -1032,6 +1050,12 @@
     {
       "EntryName": "talk38",
       "NPC": "Purah",
+      "Choices": [
+        37,
+        20,
+        22,
+        23
+      ],
       "TextList": [
         {
           "Line": 846,
@@ -1071,6 +1095,12 @@
     {
       "EntryName": "talk39",
       "NPC": "Purah",
+      "Choices": [
+        37,
+        20,
+        22,
+        23
+      ],
       "TextList": [
         {
           "Line": 895,
@@ -1109,6 +1139,12 @@
     {
       "EntryName": "talk40",
       "NPC": "Purah",
+      "Choices": [
+        37,
+        20,
+        22,
+        23
+      ],
       "TextList": [
         {
           "Line": 938,
@@ -1179,7 +1215,7 @@
         {
           "Line": 1000,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n\n\n"
         },
         {
           "Line": 1007,
@@ -1276,7 +1312,7 @@
         {
           "Line": 1079,
           "OriginalText": "It seems the other two are\nalready powered up...\n\n",
-          "TranslatedText": "ดูเหมือนว่าอีกสองอันจะ\nเพิ่มพลังไปแล้วนะ...\n"
+          "TranslatedText": "ดูเหมือนว่าอีกสองอันจะ\nเพิ่มพลังไปแล้วนะ...\n\n"
         },
         {
           "Line": 1085,
@@ -1308,7 +1344,7 @@
         {
           "Line": 1103,
           "OriginalText": ", yes?\n\n",
-          "TranslatedText": " ใช่มั้ย?\n"
+          "TranslatedText": " ใช่มั้ย?\n\n"
         },
         {
           "Line": 1109,
@@ -1335,6 +1371,11 @@
     {
       "EntryName": "talk50",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1135,
@@ -1385,6 +1426,11 @@
     {
       "EntryName": "talk51",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1184,
@@ -1422,13 +1468,18 @@
         {
           "Line": 1205,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
     {
       "EntryName": "talk52",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1226,
@@ -1466,13 +1517,18 @@
         {
           "Line": 1247,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
     {
       "EntryName": "talk55",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1265,
@@ -1504,13 +1560,13 @@
         {
           "Line": 1283,
           "OriginalText": "Camera",
-          "TranslatedText": "Camera",
+          "TranslatedText": "กล้อง",
           "Colour": "blue"
         },
         {
           "Line": 1286,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": "\n"
         },
         {
           "Line": 1292,
@@ -1538,6 +1594,11 @@
     {
       "EntryName": "talk56",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1321,
@@ -1553,7 +1614,7 @@
         {
           "Line": 1328,
           "OriginalText": ",",
-          "TranslatedText": ","
+          "TranslatedText": ""
         },
         {
           "Line": 1332,
@@ -1580,7 +1641,7 @@
         {
           "Line": 1346,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": "\n"
         },
         {
           "Line": 1352,
@@ -1613,6 +1674,11 @@
     {
       "EntryName": "talk57",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        21,
+        23
+      ],
       "TextList": [
         {
           "Line": 1385,
@@ -1633,7 +1699,7 @@
         {
           "Line": 1396,
           "OriginalText": "monsters",
-          "TranslatedText": "monsters",
+          "TranslatedText": "มอนสเตอร์",
           "Colour": "red"
         },
         {
@@ -1722,7 +1788,7 @@
         {
           "Line": 1475,
           "OriginalText": "Calamity Ganon",
-          "TranslatedText": "Calamity Ganon",
+          "TranslatedText": "ภัยพิบัติ Ganon",
           "Colour": "red"
         },
         {
@@ -1757,6 +1823,12 @@
     {
       "EntryName": "talk60",
       "NPC": "Purah",
+      "Choices": [
+        27,
+        6,
+        28,
+        1
+      ],
       "TextList": [
         {
           "Line": 1508,
@@ -1778,6 +1850,10 @@
     {
       "EntryName": "talk61",
       "NPC": "Purah",
+      "Choices": [
+        34,
+        1
+      ],
       "TextList": [
         {
           "Line": 1535,
@@ -1799,6 +1875,10 @@
     {
       "EntryName": "talk62",
       "NPC": "Purah",
+      "Choices": [
+        32,
+        1
+      ],
       "TextList": [
         {
           "Line": 1560,
@@ -1813,23 +1893,23 @@
         {
           "Line": 1570,
           "OriginalText": "I\u0027m the type that charges ahead once I\u0027m\ninspired!",
-          "TranslatedText": "ฉันเป็นพวกที่พุ่งไปข้างหน้าตามอารมณ์!"
+          "TranslatedText": "ฉันเป็นพวกที่พุ่งไปข้างหน้าตามอารมณ์!\n"
         },
         {
           "Line": 1574,
           "OriginalText": " Impa prefers to wait and see.\nBut mostly wait and wait and wait.\nIn any case, this research facility was\nfounded by order of some ",
-          "TranslatedText": "\nส่วน Impa เป็นพวกที่เลือกที่จะรอและเฝ้ามอง\nแต่ส่วนใหญ่เธอก็เอาแต่รอและรอ\nจะว่าไปแล้ว ห้องวิจัยนี้ก็\nถูกตั้งขึ้นโดยคำสั่งของคนใหญ่คนโตจาก "
+          "TranslatedText": "ส่วน Impa เป็นพวกที่เลือกที่จะรอและเฝ้ามอง\nแต่ส่วนใหญ่เธอก็เอาแต่รอและรอ\nจะว่าไปแล้ว ห้องวิจัยนี้ก็\nถูกตั้งขึ้นโดยคำสั่งของคนใหญ่คนโตจาก "
         },
         {
           "Line": 1578,
           "OriginalText": "Hyrule Castle",
-          "TranslatedText": "Hyrule Castle",
+          "TranslatedText": "ปราสาท Hyrule",
           "Colour": "blue"
         },
         {
           "Line": 1581,
           "OriginalText": "\nbigwigs.\nDespite her frail appearance, Impa was\na valued and distinguished advisor to\nthe royals at ",
-          "TranslatedText": "\nImpa นั้นเป็นที่ปรึกษาที่โดดเด่น\nขัดกับรูปลักษณ์อันบอบบางของเธอ\nให้กับราชวงศ์ใน "
+          "TranslatedText": "\nImpa นั้น ขัดกับรูปลักษณ์อันบอบบางของเธอ\nเธอเป็นที่ปรึกษาที่โดดเด่น\nให้กับราชวงศ์ใน "
         },
         {
           "Line": 1585,
@@ -1840,12 +1920,12 @@
         {
           "Line": 1588,
           "OriginalText": ".\nYou...",
-          "TranslatedText": ".\nนาย..."
+          "TranslatedText": "\nนาย..."
         },
         {
           "Line": 1592,
           "OriginalText": "see where I\u0027m going with this,\nI assume?\n\nBasically, she\u0027s the one who puts a stop\nto some of my crazier antics.",
-          "TranslatedText": "รู้ใช้มั้ยว่าฉันกำลังจะพูดเรื่องอะไร?\nปรกติแล้ว เธอเป็นคนที่คอยห้ามฉัน\nในการทดลองบ้าๆ บางอย่าง"
+          "TranslatedText": "รู้ใช้มั้ยว่าฉันกำลังจะพูดเรื่องอะไร?\n\nปรกติแล้ว เธอเป็นคนที่คอยห้ามฉัน\nในการทดลองบ้าๆ บางอย่าง"
         },
         {
           "Line": 1596,
@@ -1861,7 +1941,7 @@
         {
           "Line": 1613,
           "OriginalText": "But with ",
-          "TranslatedText": " แต่ด้วยสภาพปัจจุบันของ "
+          "TranslatedText": "แต่ด้วยสภาพปัจจุบันของ "
         },
         {
           "Line": 1617,
@@ -1882,12 +1962,12 @@
         {
           "Line": 1630,
           "OriginalText": " I\u0027ve already\nexhausted my personal funds, barely\nallowing us to continue my research.\n",
-          "TranslatedText": " ฉันใช้\nเงินส่วนตัวไปจนหมดแล้วด้วย\n ก็ยังแค่พอประทังให้เราทำการค้นคว้าต่อไปได้\n"
+          "TranslatedText": " ฉันใช้\nเงินส่วนตัวไปจนหมดแล้วด้วย\nก็ยังแค่พอประทังให้เราทำการค้นคว้าต่อไปได้\n"
         },
         {
           "Line": 1636,
           "OriginalText": "If only we had a few hundred million\nrupees, I could do more research",
-          "TranslatedText": "ถ้าหากเรามีสักหนึ่งร้อยล้าน\nrupees ฉันคงสามารถทำงานค้นคว้า"
+          "TranslatedText": "ถ้าหากเรามีสักหนึ่งร้อยล้านรูปี\nฉันคงสามารถทำงานค้นคว้า"
         },
         {
           "Line": 1640,
@@ -1942,6 +2022,10 @@
     {
       "EntryName": "talk66",
       "NPC": "Purah",
+      "Choices": [
+        24,
+        1
+      ],
       "TextList": [
         {
           "Line": 1682,
@@ -1958,6 +2042,10 @@
     {
       "EntryName": "talk67",
       "NPC": "Purah",
+      "Choices": [
+        33,
+        1
+      ],
       "TextList": [
         {
           "Line": 1703,
@@ -1994,7 +2082,7 @@
         {
           "Line": 1725,
           "OriginalText": "Camera",
-          "TranslatedText": "Camera",
+          "TranslatedText": "กล้อง",
           "Colour": "blue"
         },
         {
@@ -2022,7 +2110,7 @@
         {
           "Line": 1742,
           "OriginalText": ".\n\nAfter you were defeated by Ganon ",
-          "TranslatedText": ".\nหลังจากที่นายแพ้ให้กับ Ganon "
+          "TranslatedText": "\n\nหลังจากที่นายแพ้ให้กับ Ganon "
         },
         {
           "Line": 1746,
@@ -2060,7 +2148,7 @@
         {
           "Line": 1767,
           "OriginalText": " while\nreading through some ancient texts.",
-          "TranslatedText": " เพิ่มเติม\nขณะที่อ่านพวกบันทึกโ"
+          "TranslatedText": " เพิ่มเติม\nขณะที่อ่านพวกบันทึกโบราณ"
         },
         {
           "Line": 1771,
@@ -2094,6 +2182,10 @@
     {
       "EntryName": "talk68",
       "NPC": "Purah",
+      "Choices": [
+        31,
+        1
+      ],
       "TextList": [
         {
           "Line": 1802,
@@ -2162,7 +2254,7 @@
         {
           "Line": 1854,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n\n\n"
         },
         {
           "Line": 1860,
@@ -2172,7 +2264,7 @@
         {
           "Line": 1864,
           "OriginalText": "ancient shrines",
-          "TranslatedText": "ancient shrines",
+          "TranslatedText": "ศาลเจ้าโบราณ",
           "Colour": "blue"
         },
         {
@@ -2194,7 +2286,7 @@
         {
           "Line": 1878,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": "\n"
         },
         {
           "Line": 1884,
@@ -2204,7 +2296,7 @@
         {
           "Line": 1888,
           "OriginalText": "\nI was quick to put it all together.\n\nThe ",
-          "TranslatedText": "\nจะปะติดปะต่อเรื่องราวเข้าด้วยกันได้อย่างรวดเร็ว\n"
+          "TranslatedText": "\nจะปะติดปะต่อเรื่องราวเข้าด้วยกันได้อย่างรวดเร็ว\n\n"
         },
         {
           "Line": 1892,
@@ -2253,7 +2345,7 @@
         {
           "Line": 1922,
           "OriginalText": "In other words, it works now because\nof you! ♪Yaaaay!♪",
-          "TranslatedText": "หรือพูดอีกอย่าง มันทำงานก็เพราะนาย! ♪Yaaaay!♪"
+          "TranslatedText": "หรือพูดอีกอย่าง มันทำงานก็เพราะนาย! \n♪Yaaaay!♪"
         }
       ]
     },
@@ -2291,13 +2383,13 @@
         {
           "Line": 1960,
           "OriginalText": "ancient\nshrine",
-          "TranslatedText": "ancient\nshrine",
+          "TranslatedText": "ศาลเจ้าโบราณ",
           "Colour": "blue"
         },
         {
           "Line": 1963,
           "OriginalText": " in an attempt to open it...\n",
-          "TranslatedText": " เพื่อที่จะลองเปิดมัน...\n"
+          "TranslatedText": "\nเพื่อที่จะลองเปิดมัน...\n"
         },
         {
           "Line": 1967,
@@ -2307,7 +2399,7 @@
         {
           "Line": 1971,
           "OriginalText": " It\u0027s obvious why it didn\u0027t work,\nisn\u0027t it?\nAfter all,",
-          "TranslatedText": " มันชัดเจนออกใช่มั้ยว่าทำไมมันถึงไม่ทำงาน?\nในตอนนั้น"
+          "TranslatedText": " มันชัดเจนออกใช่มั้ย\nว่าทำไมมันถึงไม่ทำงาน?\nในตอนนั้น"
         },
         {
           "Line": 1975,
@@ -2323,7 +2415,7 @@
         {
           "Line": 1982,
           "OriginalText": " didn\u0027t have\nthe energy needed to activate back then.\n\nAnd the ",
-          "TranslatedText": " ไม่มี\nพลังงานที่จำเป็นในการที่จะเปิดการทำงาน\nและ "
+          "TranslatedText": " ไม่มี\nพลังงานที่จำเป็นในการที่จะเปิดการทำงาน\n\nและ "
         },
         {
           "Line": 1986,
@@ -2339,7 +2431,7 @@
         {
           "Line": 1993,
           "OriginalText": " Princess Zelda and I\nsimply did not understand the basics!\nThough we didn\u0027t plan for it, the Great\nCalamity exposed a ",
-          "TranslatedText": " เจ้าหญิง Zelda กับฉัน\nไม่เข้าใจเรื่องพื้นฐานนี้!\nแม้เราจะไม่ได้วางแผนไว้ Great\nCalamity ก็ได้ทำให้ "
+          "TranslatedText": " เจ้าหญิง Zelda กับฉัน\nไม่เข้าใจเรื่องพื้นฐานนี้!\nแม้เราจะไม่ได้วางแผนไว้ \nมหาภัยพิบัติก็ได้ทำให้ "
         },
         {
           "Line": 1997,
@@ -2366,7 +2458,7 @@
         {
           "Line": 2011,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": "\n"
         },
         {
           "Line": 2017,
@@ -2392,7 +2484,7 @@
         {
           "Line": 2032,
           "OriginalText": "Calamity Ganon",
-          "TranslatedText": "Calamity Ganon",
+          "TranslatedText": "ภัยพิบัติ Ganon",
           "Colour": "red"
         },
         {
@@ -2416,6 +2508,12 @@
     {
       "EntryName": "talk71",
       "NPC": "Purah",
+      "Choices": [
+        27,
+        6,
+        28,
+        1
+      ],
       "TextList": [
         {
           "Line": 2053,
@@ -2427,6 +2525,10 @@
     {
       "EntryName": "talk72",
       "NPC": "Purah",
+      "Choices": [
+        29,
+        1
+      ],
       "TextList": [
         {
           "Line": 2072,
@@ -2441,7 +2543,7 @@
         {
           "Line": 2080,
           "OriginalText": "Great Calamity",
-          "TranslatedText": "Great Calamity",
+          "TranslatedText": "มหาภัยพิบัติ",
           "Colour": "blue"
         },
         {
@@ -2457,12 +2559,12 @@
         {
           "Line": 2091,
           "OriginalText": " and me.\n\nRight after the ",
-          "TranslatedText": " และฉัน\nทันทีหลังจากที่เกิด "
+          "TranslatedText": " และฉัน\n\nทันทีหลังจากที่เกิด "
         },
         {
           "Line": 2095,
           "OriginalText": "Great Calamity",
-          "TranslatedText": "Great Calamity",
+          "TranslatedText": "มหาภัยพิบัติ",
           "Colour": "blue"
         },
         {
@@ -2494,12 +2596,12 @@
         {
           "Line": 2127,
           "OriginalText": "allowing Robbie\nand I both to continue our research.\nThose places are here in Hateno Village\nand at the northernmost point of Akkala.\n\nIn other words, that ",
-          "TranslatedText": "จึงช่วยให้ Robbie\nกับฉันสามารถทำงานวิจัยต่อไปได้\nที่สองแห่งนั้นก็คือหมู่บ้าน Hateno\nและทางเหนือสุดของ Akkala\nหรือก็คือ "
+          "TranslatedText": "จึงช่วยให้ Robbie\nกับฉันสามารถทำงานวิจัยต่อไปได้\nที่สองแห่งนั้นก็คือหมู่บ้าน Hateno\nและทางเหนือสุดของ Akkala\n\nหรือก็คือ "
         },
         {
           "Line": 2131,
           "OriginalText": "blue flame ",
-          "TranslatedText": "blue flame ",
+          "TranslatedText": "ไฟสีฟ้า",
           "Colour": "blue"
         },
         {
@@ -2580,7 +2682,7 @@
         {
           "Line": 2190,
           "OriginalText": "\nWhat was it again?\n\n",
-          "TranslatedText": "\nชื่ออะไรแล้วนะWhat was it again?\n"
+          "TranslatedText": "\nชื่ออะไรแล้วนะ?\n\n"
         },
         {
           "Line": 2196,
@@ -2595,7 +2697,7 @@
         {
           "Line": 2204,
           "OriginalText": "Che?\n\n\n",
-          "TranslatedText": "Che?\n"
+          "TranslatedText": "Che?\n\n\n"
         },
         {
           "Line": 2210,
@@ -2639,6 +2741,12 @@
     {
       "EntryName": "talk75",
       "NPC": "Purah",
+      "Choices": [
+        16,
+        35,
+        36,
+        1
+      ],
       "TextList": [
         {
           "Line": 2243,
@@ -2716,6 +2824,12 @@
     {
       "EntryName": "talk78",
       "NPC": "Purah",
+      "Choices": [
+        16,
+        35,
+        36,
+        1
+      ],
       "TextList": [
         {
           "Line": 2312,
@@ -2731,12 +2845,12 @@
         {
           "Line": 2336,
           "OriginalText": "What the ",
-          "TranslatedText": "มันคือสิ่ง "
+          "TranslatedText": "มันคือสิ่งที่พวก"
         },
         {
           "Line": 2340,
           "OriginalText": "Guardians",
-          "TranslatedText": "Guardians",
+          "TranslatedText": "ผู้พิทักษ์",
           "Colour": "blue"
         },
         {
@@ -2763,7 +2877,7 @@
         {
           "Line": 2360,
           "OriginalText": "Guardian",
-          "TranslatedText": "Guardian",
+          "TranslatedText": "ผู้พิทักษ์",
           "Colour": "blue"
         },
         {
@@ -2790,13 +2904,13 @@
         {
           "Line": 2380,
           "OriginalText": "Guardian\npile ",
-          "TranslatedText": "Guardian ที่พังแล้วได้ด้วย\n",
+          "TranslatedText": "ผู้พิทักษ์ที่พังแล้ว\n",
           "Colour": "blue"
         },
         {
           "Line": 2386,
           "OriginalText": "on the ",
-          "TranslatedText": "บน "
+          "TranslatedText": "ได้ด้วย บน"
         },
         {
           "Line": 2390,
@@ -2818,7 +2932,7 @@
         {
           "Line": 2400,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
@@ -2856,7 +2970,7 @@
         {
           "Line": 2429,
           "OriginalText": "Anywaaay, just think of it as community\nservice or whatever.",
-          "TranslatedText": "ยังไงก็เถอะ คิดเสียว่าเป็นการช่วยเหลือสังคม\nหรืออะไาก็ได้"
+          "TranslatedText": "ยังไงก็เถอะ คิดเสียว่าเป็นการช่วยเหลือสังคม\nหรืออะไรก็ได้"
         },
         {
           "Line": 2433,
@@ -2866,7 +2980,7 @@
         {
           "Line": 2437,
           "OriginalText": "Guardians",
-          "TranslatedText": "Guardians",
+          "TranslatedText": "ผู้พิทักษ์",
           "Colour": "blue"
         },
         {
@@ -2960,7 +3074,7 @@
         {
           "Line": 2503,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
@@ -3004,7 +3118,7 @@
         {
           "Line": 2533,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
@@ -3054,7 +3168,7 @@
         {
           "Line": 2570,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ""
         }
       ]
     },
@@ -3212,7 +3326,7 @@
         {
           "Line": 2735,
           "OriginalText": "\nThere, I said it.\n\nI think he\u0027s still up on the edge of ",
-          "TranslatedText": "\nพูดไปซะแล้ว\nฉันคิดว่าเขายังอยู่ที่ "
+          "TranslatedText": "\nพูดไปซะแล้ว\n\nฉันคิดว่าเขายังอยู่ที่ "
         },
         {
           "Line": 2739,
@@ -3228,7 +3342,7 @@
         {
           "Line": 2746,
           "OriginalText": "Guardians",
-          "TranslatedText": "Guardians",
+          "TranslatedText": "ผู้พิทักษ์",
           "Colour": "blue"
         },
         {
@@ -3266,7 +3380,7 @@
         {
           "Line": 2795,
           "OriginalText": "I\u0027m glad you asked!\n\n\n",
-          "TranslatedText": "ดีใจที่ถามนะ!\n"
+          "TranslatedText": "ดีใจที่ถามนะ!\n\n\n"
         },
         {
           "Line": 2801,
@@ -3357,5 +3471,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

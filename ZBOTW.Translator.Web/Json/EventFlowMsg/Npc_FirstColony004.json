@@ -68,6 +68,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Dai",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 47,
@@ -84,6 +88,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Dai",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 68,
@@ -247,6 +255,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Dai",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 225,

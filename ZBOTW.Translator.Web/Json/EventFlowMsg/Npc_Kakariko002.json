@@ -183,6 +183,10 @@
     },
     {
       "EntryName": "Diary00",
+      "Choices": [
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 85,
@@ -193,6 +197,10 @@
     },
     {
       "EntryName": "Diary01",
+      "Choices": [
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 105,
@@ -258,6 +266,10 @@
     },
     {
       "EntryName": "Diary03",
+      "Choices": [
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 190,
@@ -283,6 +295,10 @@
     },
     {
       "EntryName": "Diary04",
+      "Choices": [
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 230,
@@ -308,6 +324,10 @@
     },
     {
       "EntryName": "Diary05",
+      "Choices": [
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 265,
@@ -328,6 +348,11 @@
     },
     {
       "EntryName": "Diary06",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 294,
@@ -353,6 +378,10 @@
     },
     {
       "EntryName": "Diary08",
+      "Choices": [
+        23,
+        25
+      ],
       "TextList": [
         {
           "Line": 340,
@@ -378,6 +407,11 @@
     },
     {
       "EntryName": "Diary09",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 375,
@@ -413,6 +447,11 @@
     },
     {
       "EntryName": "Diary10",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 428,
@@ -438,6 +477,11 @@
     },
     {
       "EntryName": "Diary11",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 469,
@@ -463,6 +507,11 @@
     },
     {
       "EntryName": "Diary12",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 505,
@@ -483,6 +532,11 @@
     },
     {
       "EntryName": "DiaryFirst",
+      "Choices": [
+        20,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 535,
@@ -493,6 +547,10 @@
     },
     {
       "EntryName": "DiaryFirst_ch2",
+      "Choices": [
+        26,
+        22
+      ],
       "TextList": [
         {
           "Line": 553,
@@ -548,6 +606,12 @@
     {
       "EntryName": "Talk00",
       "NPC": "Paya",
+      "Choices": [
+        1,
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 586,
@@ -569,6 +633,12 @@
     {
       "EntryName": "Talk01",
       "NPC": "Paya",
+      "Choices": [
+        1,
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 623,
@@ -786,6 +856,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Paya",
+      "Choices": [
+        7,
+        6
+      ],
       "TextList": [
         {
           "Line": 871,
@@ -873,6 +947,11 @@
     {
       "EntryName": "Talk10",
       "NPC": "Paya",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 950,
@@ -991,6 +1070,12 @@
     {
       "EntryName": "Talk19",
       "NPC": "Paya",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1075,
@@ -1176,6 +1261,12 @@
     {
       "EntryName": "Talk32",
       "NPC": "Paya",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1256,
@@ -1187,6 +1278,10 @@
     {
       "EntryName": "Talk33",
       "NPC": "Paya",
+      "Choices": [
+        8,
+        11
+      ],
       "TextList": [
         {
           "Line": 1275,
@@ -1286,6 +1381,11 @@
     {
       "EntryName": "Talk38",
       "NPC": "Paya",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 1367,
@@ -1361,6 +1461,11 @@
     {
       "EntryName": "Talk43",
       "NPC": "Paya",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 1450,

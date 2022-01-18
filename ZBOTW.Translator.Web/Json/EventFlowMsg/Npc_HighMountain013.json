@@ -136,6 +136,12 @@
     {
       "EntryName": "talk01",
       "NPC": "Huck",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 70,
@@ -647,6 +653,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Huck",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 478,

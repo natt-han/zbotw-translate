@@ -145,6 +145,10 @@
     {
       "EntryName": "Com_Talk_01",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 79,
@@ -384,6 +388,10 @@
     {
       "EntryName": "Com_Talk_10",
       "NPC": "Beedle",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 267,
@@ -450,6 +458,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 324,
@@ -461,6 +474,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 337,
@@ -512,6 +529,11 @@
     {
       "EntryName": "Com_Talk_30",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 383,
@@ -523,6 +545,10 @@
     {
       "EntryName": "Com_Talk_31",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 396,
@@ -552,6 +578,10 @@
     {
       "EntryName": "Com_Talk_32",
       "NPC": "Beedle",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 424,
@@ -575,6 +605,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 447,
@@ -598,6 +632,10 @@
     {
       "EntryName": "Com_Talk_34",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 480,
@@ -632,6 +670,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 522,
@@ -677,6 +719,10 @@
     {
       "EntryName": "Com_Talk_37",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 568,
@@ -1105,6 +1151,10 @@
     {
       "EntryName": "talk_07",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 884,
@@ -1127,6 +1177,10 @@
     {
       "EntryName": "talk_08",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 908,
@@ -1202,6 +1256,10 @@
     {
       "EntryName": "talk_10",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 975,
@@ -1411,6 +1469,11 @@
     {
       "EntryName": "talk_17",
       "NPC": "Beedle",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1244,
@@ -1521,6 +1584,10 @@
     {
       "EntryName": "talk_22",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 1357,
@@ -1559,6 +1626,10 @@
     {
       "EntryName": "talk_23",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 1399,
@@ -1597,6 +1668,10 @@
     {
       "EntryName": "talk_24",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 1441,
@@ -1782,6 +1857,10 @@
     {
       "EntryName": "talk_34",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 1649,
@@ -1804,6 +1883,10 @@
     {
       "EntryName": "talk_35",
       "NPC": "Beedle",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 1673,
@@ -1831,6 +1914,11 @@
     {
       "EntryName": "talk_36",
       "NPC": "Beedle",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1701,
@@ -1847,6 +1935,11 @@
     {
       "EntryName": "talk_37",
       "NPC": "Beedle",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1723,

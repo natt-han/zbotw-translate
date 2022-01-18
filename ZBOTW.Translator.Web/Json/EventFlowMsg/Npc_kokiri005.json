@@ -55,6 +55,12 @@
     {
       "EntryName": "Npc_kokiri005_After_Demo_Talk000",
       "NPC": "Maca",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 38,
@@ -82,6 +88,12 @@
     {
       "EntryName": "Npc_kokiri005_After_Demo_Talk001",
       "NPC": "Maca",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 68,
@@ -328,6 +340,12 @@
     {
       "EntryName": "Npc_kokiri005_GotMSword_Talk000",
       "NPC": "Maca",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 308,

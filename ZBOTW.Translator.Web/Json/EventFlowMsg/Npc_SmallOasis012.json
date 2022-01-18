@@ -34,6 +34,11 @@
     {
       "EntryName": "Talk_000",
       "NPC": "Konora",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 25,
@@ -72,6 +77,11 @@
     {
       "EntryName": "Talk_001",
       "NPC": "Konora",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 63,
@@ -204,6 +214,10 @@
     {
       "EntryName": "Talk_101",
       "NPC": "Konora",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 174,
@@ -318,6 +332,10 @@
     {
       "EntryName": "Talk_106",
       "NPC": "Konora",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 274,
@@ -351,6 +369,10 @@
     {
       "EntryName": "Talk_107",
       "NPC": "Konora",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 305,

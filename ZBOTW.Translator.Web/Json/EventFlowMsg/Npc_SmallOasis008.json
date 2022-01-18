@@ -153,6 +153,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 83,
@@ -266,6 +270,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 182,
@@ -277,6 +286,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 205,
@@ -328,6 +341,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 261,
@@ -356,6 +373,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 288,
@@ -488,6 +509,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 381,
@@ -542,6 +567,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Vilia",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 435,
@@ -575,6 +604,12 @@
     {
       "EntryName": "talk07",
       "NPC": "Vilia",
+      "Choices": [
+        4,
+        5,
+        6,
+        9
+      ],
       "TextList": [
         {
           "Line": 470,
@@ -597,6 +632,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 498,
@@ -630,6 +669,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 529,
@@ -663,6 +706,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 560,
@@ -696,6 +743,12 @@
     {
       "EntryName": "talk12",
       "NPC": "Vilia",
+      "Choices": [
+        4,
+        5,
+        6,
+        9
+      ],
       "TextList": [
         {
           "Line": 591,
@@ -712,6 +765,12 @@
     {
       "EntryName": "talk13",
       "NPC": "Vilia",
+      "Choices": [
+        4,
+        5,
+        6,
+        9
+      ],
       "TextList": [
         {
           "Line": 614,
@@ -755,6 +814,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 659,
@@ -798,6 +861,10 @@
     {
       "EntryName": "talk19",
       "NPC": "Vilia",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 707,

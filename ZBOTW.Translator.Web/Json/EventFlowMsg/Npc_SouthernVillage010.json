@@ -96,6 +96,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Numar",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -227,6 +231,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Numar",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 154,
@@ -286,6 +294,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Numar",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 208,
@@ -495,6 +507,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Numar",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 383,

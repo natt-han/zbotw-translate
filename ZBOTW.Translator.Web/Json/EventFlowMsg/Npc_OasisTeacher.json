@@ -125,6 +125,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Ashai",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 61,
@@ -277,6 +281,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Ashai",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 195,
@@ -510,6 +518,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Ashai",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 394,
@@ -618,6 +630,10 @@
     {
       "EntryName": "talk31",
       "NPC": "Ashai",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 490,

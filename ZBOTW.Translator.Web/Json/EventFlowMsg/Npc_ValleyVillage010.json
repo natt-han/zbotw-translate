@@ -223,6 +223,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Teba",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 146,
@@ -320,6 +324,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Teba",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 227,

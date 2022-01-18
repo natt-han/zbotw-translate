@@ -223,6 +223,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Kiana",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 179,
@@ -457,6 +461,10 @@
     {
       "EntryName": "talk25",
       "NPC": "Kiana",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 372,

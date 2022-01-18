@@ -245,6 +245,12 @@
     {
       "EntryName": "talk08",
       "NPC": "Robbie",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 167,
@@ -331,6 +337,12 @@
     {
       "EntryName": "talk11",
       "NPC": "Robbie",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 245,

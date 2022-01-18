@@ -103,6 +103,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 63,
@@ -216,6 +220,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 180,
@@ -227,6 +236,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 198,
@@ -278,6 +291,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 249,
@@ -306,6 +323,10 @@
     {
       "EntryName": "Com_Talk_34",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 276,
@@ -340,6 +361,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 308,
@@ -368,6 +393,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -401,6 +430,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5500,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 386,
@@ -411,6 +445,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 404,
@@ -475,6 +513,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 468,
@@ -628,6 +670,10 @@
     {
       "EntryName": "Talk_11",
       "NPC": "Emri",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 616,
@@ -682,6 +728,10 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Emri",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 664,
@@ -720,6 +770,10 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Emri",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 699,
@@ -742,6 +796,10 @@
     {
       "EntryName": "Talk_17",
       "NPC": "Emri",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 728,
@@ -758,6 +816,11 @@
     {
       "EntryName": "Talk_19",
       "NPC": "Emri",
+      "Choices": [
+        3,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 749,

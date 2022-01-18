@@ -231,6 +231,10 @@
     {
       "EntryName": "Npc_oasis039_Miss03",
       "NPC": "Shabonne",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 224,
@@ -330,6 +334,11 @@
     {
       "EntryName": "Npc_oasis039_R_004",
       "NPC": "Shabonne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 313,
@@ -497,6 +506,11 @@
     {
       "EntryName": "Npc_oasis039_R_011",
       "NPC": "Shabonne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 467,
@@ -519,6 +533,11 @@
     {
       "EntryName": "Npc_oasis039_R_012",
       "NPC": "Shabonne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 492,
@@ -578,6 +597,11 @@
     {
       "EntryName": "Npc_oasis039_R_015",
       "NPC": "Shabonne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 554,

@@ -318,6 +318,10 @@
     {
       "EntryName": "talk_02_02",
       "NPC": "Malanya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 246,
@@ -382,6 +386,10 @@
     {
       "EntryName": "talk_04",
       "NPC": "Malanya",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 310,
@@ -409,6 +417,10 @@
     {
       "EntryName": "talk_06",
       "NPC": "Malanya",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 330,
@@ -425,6 +437,10 @@
     {
       "EntryName": "talk_07",
       "NPC": "Malanya",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -485,6 +501,10 @@
     {
       "EntryName": "talk_11",
       "NPC": "Malanya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 388,
@@ -558,6 +578,10 @@
     {
       "EntryName": "talk_12_02",
       "NPC": "Malanya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 470,
@@ -600,6 +624,10 @@
     {
       "EntryName": "talk_13_02",
       "NPC": "Malanya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 507,
@@ -648,6 +676,10 @@
     {
       "EntryName": "talk_14_03",
       "NPC": "Malanya",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 563,
@@ -751,6 +783,10 @@
     {
       "EntryName": "talk_20",
       "NPC": "Malanya",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 678,
@@ -804,6 +840,10 @@
     {
       "EntryName": "talk_21",
       "NPC": "Malanya",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 731,
@@ -922,6 +962,10 @@
     {
       "EntryName": "talk_25",
       "NPC": "Malanya",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 812,

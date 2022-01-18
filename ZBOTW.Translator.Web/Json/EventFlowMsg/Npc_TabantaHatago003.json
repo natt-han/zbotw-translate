@@ -57,6 +57,10 @@
     {
       "EntryName": "talk_0001",
       "NPC": "Danton",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 33,
@@ -180,6 +184,10 @@
     {
       "EntryName": "talk_0050",
       "NPC": "Danton",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 139,
@@ -207,6 +215,10 @@
     {
       "EntryName": "talk_0051",
       "NPC": "Danton",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 169,

@@ -55,6 +55,12 @@
     {
       "EntryName": "talk00",
       "NPC": "Eryck",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 38,
@@ -286,6 +292,12 @@
     {
       "EntryName": "talk06",
       "NPC": "Eryck",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 250,

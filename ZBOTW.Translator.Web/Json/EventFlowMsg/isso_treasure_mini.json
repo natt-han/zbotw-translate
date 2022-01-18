@@ -44,6 +44,10 @@
     {
       "EntryName": "NewText_00",
       "NPC": "Izra",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -134,6 +138,10 @@
     {
       "EntryName": "NewText_09",
       "NPC": "Izra",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 107,

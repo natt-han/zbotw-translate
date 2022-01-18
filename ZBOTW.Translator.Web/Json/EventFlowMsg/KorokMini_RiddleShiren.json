@@ -305,6 +305,10 @@
     {
       "EntryName": "Npc_kokiri002_R_Talk000",
       "NPC": "Walton",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -352,6 +356,10 @@
     {
       "EntryName": "Npc_kokiri002_R_Talk010",
       "NPC": "Walton",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 371,

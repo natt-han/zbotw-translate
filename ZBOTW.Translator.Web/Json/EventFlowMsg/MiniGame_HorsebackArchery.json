@@ -14,6 +14,11 @@
     {
       "EntryName": "0000_00",
       "NPC": "Jini",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 17,
@@ -51,6 +56,11 @@
     {
       "EntryName": "0000_01",
       "NPC": "Jini",
+      "Choices": [
+        3,
+        6,
+        5
+      ],
       "TextList": [
         {
           "Line": 56,
@@ -88,6 +98,11 @@
     {
       "EntryName": "0001_00",
       "NPC": "Jini",
+      "Choices": [
+        3,
+        6,
+        5
+      ],
       "TextList": [
         {
           "Line": 89,
@@ -396,6 +411,10 @@
     {
       "EntryName": "AskAgain",
       "NPC": "Jini",
+      "Choices": [
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 250,
@@ -423,6 +442,10 @@
     {
       "EntryName": "AskAgain_00",
       "NPC": "Jini",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 278,
@@ -601,6 +624,10 @@
     {
       "EntryName": "GameInit_01",
       "NPC": "Jini",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 421,
@@ -815,6 +842,10 @@
     {
       "EntryName": "GameReady_06",
       "NPC": "Jini",
+      "Choices": [
+        17,
+        18
+      ],
       "TextList": [
         {
           "Line": 595,
@@ -1025,6 +1056,10 @@
     {
       "EntryName": "Halt_00",
       "NPC": "Jini",
+      "Choices": [
+        13,
+        14
+      ],
       "TextList": [
         {
           "Line": 803,
@@ -1041,6 +1076,10 @@
     {
       "EntryName": "Halt_01",
       "NPC": "Jini",
+      "Choices": [
+        15,
+        16
+      ],
       "TextList": [
         {
           "Line": 824,
@@ -1094,6 +1133,11 @@
     {
       "EntryName": "Initial",
       "NPC": "Jini",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 875,
@@ -1244,6 +1288,11 @@
     {
       "EntryName": "Re_ask",
       "NPC": "Jini",
+      "Choices": [
+        7,
+        8,
+        5
+      ],
       "TextList": [
         {
           "Line": 991,
@@ -1325,6 +1374,11 @@
     {
       "EntryName": "Talk00",
       "NPC": "Jini",
+      "Choices": [
+        19,
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 1067,
@@ -1357,6 +1411,11 @@
     {
       "EntryName": "Talk03",
       "NPC": "Jini",
+      "Choices": [
+        19,
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 1102,
@@ -1384,6 +1443,10 @@
     {
       "EntryName": "WildHouse_00",
       "NPC": "Jini",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 1133,

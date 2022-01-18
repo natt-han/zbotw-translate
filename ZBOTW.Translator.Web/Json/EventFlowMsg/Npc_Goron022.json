@@ -65,6 +65,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Krane",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -120,6 +124,12 @@
     {
       "EntryName": "talk03",
       "NPC": "Krane",
+      "Choices": [
+        2,
+        3,
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 107,

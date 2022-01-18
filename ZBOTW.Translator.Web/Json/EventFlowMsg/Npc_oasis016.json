@@ -325,6 +325,10 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Dalia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -357,6 +361,10 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Dalia",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 354,

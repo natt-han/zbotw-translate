@@ -128,6 +128,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 75,
@@ -295,6 +299,10 @@
     },
     {
       "EntryName": "Com_Talk_10",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 202,
@@ -355,6 +363,11 @@
     },
     {
       "EntryName": "Com_Talk_13",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 259,
@@ -365,6 +378,10 @@
     },
     {
       "EntryName": "Com_Talk_14",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 272,
@@ -443,6 +460,10 @@
     },
     {
       "EntryName": "Com_Talk_30",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 341,
@@ -470,6 +491,11 @@
     },
     {
       "EntryName": "Com_Talk_31",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 368,
@@ -480,6 +506,10 @@
     },
     {
       "EntryName": "Com_Talk_33",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 381,
@@ -508,6 +538,10 @@
     {
       "EntryName": "Com_Talk_34",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 408,
@@ -531,6 +565,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 431,
@@ -571,6 +609,10 @@
     {
       "EntryName": "Com_Talk_37",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -591,6 +633,10 @@
     },
     {
       "EntryName": "Com_Talk_56",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 493,
@@ -1379,6 +1425,11 @@
     {
       "EntryName": "Talk01",
       "NPC": "Gartan",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1205,
@@ -1390,6 +1441,11 @@
     {
       "EntryName": "Talk02",
       "NPC": "Gartan",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1223,

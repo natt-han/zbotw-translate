@@ -283,6 +283,10 @@
     {
       "EntryName": "Npc_kokiri012_R_Talk000",
       "NPC": "Kula",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 220,
@@ -310,6 +314,10 @@
     {
       "EntryName": "Npc_kokiri012_R_Talk001",
       "NPC": "Kula",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -363,6 +371,10 @@
     {
       "EntryName": "Npc_kokiri012_R_Talk010",
       "NPC": "Kula",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 297,

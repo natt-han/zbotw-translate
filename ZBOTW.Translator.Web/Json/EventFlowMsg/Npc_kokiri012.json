@@ -151,6 +151,10 @@
     {
       "EntryName": "Npc_kokiri012_Talk004",
       "NPC": "Kula",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 122,

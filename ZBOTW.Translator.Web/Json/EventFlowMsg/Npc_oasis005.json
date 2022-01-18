@@ -83,6 +83,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 50,
@@ -201,6 +205,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 153,
@@ -212,6 +221,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 171,
@@ -268,6 +281,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 221,
@@ -296,6 +313,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -318,6 +339,10 @@
     },
     {
       "EntryName": "Com_Talk_60",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 276,
@@ -351,6 +376,11 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Greta",
+      "Choices": [
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -362,6 +392,11 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Greta",
+      "Choices": [
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 336,
@@ -438,6 +473,11 @@
     {
       "EntryName": "Talk_09",
       "NPC": "Greta",
+      "Choices": [
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 407,

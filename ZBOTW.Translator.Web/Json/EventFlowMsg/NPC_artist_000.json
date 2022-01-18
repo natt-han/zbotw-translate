@@ -64,6 +64,10 @@
     },
     {
       "EntryName": "Talk02",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 54,
@@ -150,6 +154,10 @@
     {
       "EntryName": "Talk08",
       "NPC": "Pikango",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 130,

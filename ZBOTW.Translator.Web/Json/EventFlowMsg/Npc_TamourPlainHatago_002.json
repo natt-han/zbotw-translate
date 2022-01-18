@@ -105,6 +105,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Jana",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -138,6 +142,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Jana",
+      "Choices": [
+        10,
+        1
+      ],
       "TextList": [
         {
           "Line": 88,
@@ -497,6 +505,12 @@
     {
       "EntryName": "talk21",
       "NPC": "Jana",
+      "Choices": [
+        7,
+        8,
+        9,
+        1
+      ],
       "TextList": [
         {
           "Line": 430,
@@ -1320,6 +1334,12 @@
     {
       "EntryName": "talk45",
       "NPC": "Jana",
+      "Choices": [
+        7,
+        8,
+        9,
+        1
+      ],
       "TextList": [
         {
           "Line": 1129,

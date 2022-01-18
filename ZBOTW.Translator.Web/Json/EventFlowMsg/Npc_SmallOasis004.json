@@ -143,6 +143,12 @@
     {
       "EntryName": "Talk04",
       "NPC": "Kachoo",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 88,
@@ -165,6 +171,12 @@
     {
       "EntryName": "Talk05",
       "NPC": "Kachoo",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 114,
@@ -368,6 +380,12 @@
     {
       "EntryName": "Talk16",
       "NPC": "Kachoo",
+      "Choices": [
+        0,
+        1,
+        2,
+        7
+      ],
       "TextList": [
         {
           "Line": 283,
@@ -401,6 +419,12 @@
     {
       "EntryName": "Talk19",
       "NPC": "Kachoo",
+      "Choices": [
+        0,
+        1,
+        2,
+        7
+      ],
       "TextList": [
         {
           "Line": 320,

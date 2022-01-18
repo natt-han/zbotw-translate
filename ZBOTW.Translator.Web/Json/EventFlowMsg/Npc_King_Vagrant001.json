@@ -336,6 +336,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 252,
@@ -347,6 +351,10 @@
     {
       "EntryName": "Talk01",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 272,
@@ -363,6 +371,10 @@
     {
       "EntryName": "Talk02",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 293,
@@ -379,6 +391,10 @@
     {
       "EntryName": "Talk03",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 314,
@@ -395,6 +411,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 335,
@@ -411,6 +431,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 359,
@@ -427,6 +451,10 @@
     {
       "EntryName": "Talk07",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 380,
@@ -438,6 +466,10 @@
     {
       "EntryName": "Talk08",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 397,
@@ -449,6 +481,10 @@
     {
       "EntryName": "Talk09",
       "NPC": "Old Man",
+      "Choices": [
+        1002,
+        1003
+      ],
       "TextList": [
         {
           "Line": 417,
@@ -578,6 +614,11 @@
     {
       "EntryName": "Torch00",
       "NPC": "Old Man",
+      "Choices": [
+        2000,
+        2001,
+        2002
+      ],
       "TextList": [
         {
           "Line": 730,

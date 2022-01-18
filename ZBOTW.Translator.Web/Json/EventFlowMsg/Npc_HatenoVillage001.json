@@ -193,6 +193,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Sayge",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 108,
@@ -440,6 +444,11 @@
     {
       "EntryName": "talk13",
       "NPC": "Sayge",
+      "Choices": [
+        7,
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 309,
@@ -483,6 +492,12 @@
     {
       "EntryName": "talk14",
       "NPC": "Sayge",
+      "Choices": [
+        1,
+        8,
+        12,
+        3
+      ],
       "TextList": [
         {
           "Line": 351,
@@ -516,6 +531,11 @@
     {
       "EntryName": "talk15",
       "NPC": "Sayge",
+      "Choices": [
+        9,
+        10,
+        6
+      ],
       "TextList": [
         {
           "Line": 384,
@@ -721,6 +741,11 @@
     {
       "EntryName": "talk22",
       "NPC": "Sayge",
+      "Choices": [
+        9,
+        10,
+        6
+      ],
       "TextList": [
         {
           "Line": 558,
@@ -759,6 +784,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Sayge",
+      "Choices": [
+        4,
+        10
+      ],
       "TextList": [
         {
           "Line": 596,
@@ -786,6 +815,10 @@
     {
       "EntryName": "talk25",
       "NPC": "Sayge",
+      "Choices": [
+        10,
+        6
+      ],
       "TextList": [
         {
           "Line": 624,
@@ -878,6 +911,10 @@
     {
       "EntryName": "talk29",
       "NPC": "Sayge",
+      "Choices": [
+        5,
+        11
+      ],
       "TextList": [
         {
           "Line": 703,
@@ -894,6 +931,11 @@
     {
       "EntryName": "talk30",
       "NPC": "Sayge",
+      "Choices": [
+        13,
+        10,
+        6
+      ],
       "TextList": [
         {
           "Line": 724,
@@ -910,6 +952,11 @@
     {
       "EntryName": "talk31",
       "NPC": "Sayge",
+      "Choices": [
+        13,
+        10,
+        6
+      ],
       "TextList": [
         {
           "Line": 746,
@@ -948,6 +995,10 @@
     {
       "EntryName": "talk33",
       "NPC": "Sayge",
+      "Choices": [
+        4,
+        3
+      ],
       "TextList": [
         {
           "Line": 786,
@@ -980,6 +1031,10 @@
     {
       "EntryName": "talk35",
       "NPC": "Sayge",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 822,
@@ -1006,6 +1061,11 @@
     {
       "EntryName": "talk36",
       "NPC": "Sayge",
+      "Choices": [
+        7,
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 853,
@@ -1109,6 +1169,10 @@
     {
       "EntryName": "talk40",
       "NPC": "Sayge",
+      "Choices": [
+        2,
+        6
+      ],
       "TextList": [
         {
           "Line": 938,
@@ -1343,6 +1407,10 @@
     {
       "EntryName": "talk55",
       "NPC": "Sayge",
+      "Choices": [
+        4,
+        10
+      ],
       "TextList": [
         {
           "Line": 1129,

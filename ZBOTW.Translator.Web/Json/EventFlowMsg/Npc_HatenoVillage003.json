@@ -198,6 +198,11 @@
     {
       "EntryName": "talk10",
       "NPC": "Ivee",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 153,
@@ -456,6 +461,11 @@
     {
       "EntryName": "talk20",
       "NPC": "Ivee",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 368,

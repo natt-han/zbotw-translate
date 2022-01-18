@@ -655,6 +655,12 @@
     {
       "EntryName": "talk102",
       "NPC": "Bolson",
+      "Choices": [
+        17,
+        19,
+        38,
+        2
+      ],
       "TextList": [
         {
           "Line": 459,
@@ -666,6 +672,10 @@
     {
       "EntryName": "talk103",
       "NPC": "Bolson",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 478,
@@ -1247,6 +1257,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Bolson",
+      "Choices": [
+        16,
+        6
+      ],
       "TextList": [
         {
           "Line": 1179,
@@ -1323,6 +1337,12 @@
     {
       "EntryName": "talk18",
       "NPC": "Bolson",
+      "Choices": [
+        17,
+        19,
+        38,
+        2
+      ],
       "TextList": [
         {
           "Line": 1245,
@@ -1990,6 +2010,10 @@
     {
       "EntryName": "talk49",
       "NPC": "Bolson",
+      "Choices": [
+        28,
+        29
+      ],
       "TextList": [
         {
           "Line": 1827,
@@ -2043,6 +2067,10 @@
     {
       "EntryName": "talk52",
       "NPC": "Bolson",
+      "Choices": [
+        32,
+        33
+      ],
       "TextList": [
         {
           "Line": 1886,
@@ -2111,6 +2139,11 @@
     {
       "EntryName": "talk53",
       "NPC": "Bolson",
+      "Choices": [
+        26,
+        27,
+        2
+      ],
       "TextList": [
         {
           "Line": 1947,
@@ -2174,6 +2207,11 @@
     {
       "EntryName": "talk56",
       "NPC": "Bolson",
+      "Choices": [
+        30,
+        27,
+        2
+      ],
       "TextList": [
         {
           "Line": 2009,
@@ -2196,6 +2234,10 @@
     {
       "EntryName": "talk57",
       "NPC": "Bolson",
+      "Choices": [
+        35,
+        34
+      ],
       "TextList": [
         {
           "Line": 2034,
@@ -2522,6 +2564,11 @@
     {
       "EntryName": "talk72",
       "NPC": "Bolson",
+      "Choices": [
+        22,
+        27,
+        23
+      ],
       "TextList": [
         {
           "Line": 2321,
@@ -2713,6 +2760,10 @@
     {
       "EntryName": "talk81",
       "NPC": "Bolson",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 2491,
@@ -2756,6 +2807,10 @@
     {
       "EntryName": "talk83",
       "NPC": "Bolson",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 2532,

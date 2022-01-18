@@ -148,6 +148,10 @@
     {
       "EntryName": "talk-Gamyo05",
       "NPC": "Garshon",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 110,
@@ -381,6 +385,10 @@
     {
       "EntryName": "talk-Negyui05",
       "NPC": "Onya",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 292,
@@ -603,6 +611,10 @@
     {
       "EntryName": "talk-Orak04",
       "NPC": "Akrah",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 477,
@@ -725,6 +737,10 @@
     {
       "EntryName": "talk-Orak06",
       "NPC": "Akrah",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 586,
@@ -844,6 +860,10 @@
     {
       "EntryName": "talk-Orak09",
       "NPC": "Akrah",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 687,

@@ -87,6 +87,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Clavia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 50,
@@ -309,6 +313,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Clavia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 237,
@@ -336,6 +344,10 @@
     {
       "EntryName": "talk17",
       "NPC": "Clavia",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 267,
@@ -651,6 +663,10 @@
     {
       "EntryName": "talk32",
       "NPC": "Clavia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 534,

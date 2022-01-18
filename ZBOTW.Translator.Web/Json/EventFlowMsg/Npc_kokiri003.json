@@ -103,6 +103,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 63,
@@ -221,6 +225,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 181,
@@ -232,6 +241,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 199,
@@ -283,6 +296,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 250,
@@ -305,6 +322,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 278,
@@ -338,6 +359,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 315,
@@ -366,6 +391,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 353,
@@ -388,6 +417,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 386,
@@ -398,6 +432,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 409,
@@ -462,6 +500,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -616,6 +658,11 @@
     {
       "EntryName": "Npc_kokiri003_Talk000",
       "NPC": "Daz",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 598,
@@ -653,6 +700,11 @@
     {
       "EntryName": "Npc_kokiri003_Talk010",
       "NPC": "Daz",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 635,
@@ -685,6 +737,11 @@
     {
       "EntryName": "Npc_kokiri003_Talk020",
       "NPC": "Daz",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 668,
@@ -701,6 +758,11 @@
     {
       "EntryName": "Npc_kokiri003_Talk030",
       "NPC": "Daz",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 690,

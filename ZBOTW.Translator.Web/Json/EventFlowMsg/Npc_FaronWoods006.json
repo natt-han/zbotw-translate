@@ -104,6 +104,10 @@
     {
       "EntryName": "Action5_00",
       "NPC": "Brigo",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -115,6 +119,10 @@
     {
       "EntryName": "Action5_01",
       "NPC": "Brigo",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 70,
@@ -351,6 +359,11 @@
     {
       "EntryName": "Talk02",
       "NPC": "Brigo",
+      "Choices": [
+        1000,
+        1001,
+        1002
+      ],
       "TextList": [
         {
           "Line": 272,
@@ -432,6 +445,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Brigo",
+      "Choices": [
+        1003,
+        1002
+      ],
       "TextList": [
         {
           "Line": 345,
@@ -486,6 +503,11 @@
     {
       "EntryName": "TalkLoop00",
       "NPC": "Brigo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 401,
@@ -502,6 +524,11 @@
     {
       "EntryName": "Wander00",
       "NPC": "Brigo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 423,
@@ -529,6 +556,12 @@
     {
       "EntryName": "Wander02",
       "NPC": "Brigo",
+      "Choices": [
+        3,
+        4,
+        5,
+        2
+      ],
       "TextList": [
         {
           "Line": 454,
@@ -540,6 +573,10 @@
     {
       "EntryName": "WanderRain00",
       "NPC": "Brigo",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -674,6 +711,11 @@
     {
       "EntryName": "WarningClear02",
       "NPC": "Brigo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 608,

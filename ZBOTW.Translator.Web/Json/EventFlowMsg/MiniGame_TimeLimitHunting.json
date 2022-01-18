@@ -331,6 +331,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Dantz",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 242,
@@ -411,6 +415,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Dantz",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -433,6 +441,11 @@
     {
       "EntryName": "talk15",
       "NPC": "Dantz",
+      "Choices": [
+        7,
+        8,
+        10
+      ],
       "TextList": [
         {
           "Line": 342,
@@ -449,6 +462,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Dantz",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 364,
@@ -529,6 +546,11 @@
     {
       "EntryName": "talk19",
       "NPC": "Dantz",
+      "Choices": [
+        7,
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 436,
@@ -582,6 +604,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Dantz",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 488,

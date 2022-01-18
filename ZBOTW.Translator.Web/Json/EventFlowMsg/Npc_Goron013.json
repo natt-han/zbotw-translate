@@ -87,6 +87,11 @@
     {
       "EntryName": "talk01",
       "NPC": "Jengo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -124,6 +129,11 @@
     {
       "EntryName": "talk05",
       "NPC": "Jengo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 94,
@@ -242,6 +252,11 @@
     {
       "EntryName": "talk19",
       "NPC": "Jengo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 197,
@@ -291,6 +306,11 @@
     {
       "EntryName": "talk22",
       "NPC": "Jengo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 244,
@@ -302,6 +322,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Jengo",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 262,
@@ -481,6 +505,11 @@
     {
       "EntryName": "talk26",
       "NPC": "Jengo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 401,

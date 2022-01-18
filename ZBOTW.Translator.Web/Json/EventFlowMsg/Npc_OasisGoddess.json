@@ -58,6 +58,11 @@
     {
       "EntryName": "talk01",
       "NPC": "Muava",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 44,
@@ -143,6 +148,11 @@
     {
       "EntryName": "talk05",
       "NPC": "Muava",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 122,
@@ -154,6 +164,11 @@
     {
       "EntryName": "talk06",
       "NPC": "Muava",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 140,

@@ -105,6 +105,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Monari",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 128,
@@ -219,6 +223,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Monari",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 229,

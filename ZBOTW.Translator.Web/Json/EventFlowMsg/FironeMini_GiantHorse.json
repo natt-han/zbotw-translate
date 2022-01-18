@@ -151,6 +151,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Straia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 93,
@@ -351,6 +355,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Straia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 259,

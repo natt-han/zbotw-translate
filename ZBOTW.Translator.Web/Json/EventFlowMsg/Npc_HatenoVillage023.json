@@ -215,6 +215,11 @@
     {
       "EntryName": "talk11",
       "NPC": "Uma",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 165,
@@ -264,6 +269,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Uma",
+      "Choices": [
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 214,
@@ -345,6 +354,11 @@
     {
       "EntryName": "talk18",
       "NPC": "Uma",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 289,
@@ -367,6 +381,12 @@
     {
       "EntryName": "talk20",
       "NPC": "Uma",
+      "Choices": [
+        4,
+        5,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 316,
@@ -649,6 +669,12 @@
     {
       "EntryName": "talk29",
       "NPC": "Uma",
+      "Choices": [
+        4,
+        5,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 551,

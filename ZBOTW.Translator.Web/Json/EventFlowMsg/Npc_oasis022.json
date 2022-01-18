@@ -34,6 +34,11 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Fegran",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 25,
@@ -83,6 +88,11 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Fegran",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 70,
@@ -197,6 +207,10 @@
     {
       "EntryName": "Talk_07",
       "NPC": "Fegran",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 170,
@@ -296,6 +310,10 @@
     {
       "EntryName": "Talk_13",
       "NPC": "Fegran",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 268,

@@ -159,6 +159,12 @@
     {
       "EntryName": "talk10",
       "NPC": "Shibo",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 123,
@@ -181,6 +187,12 @@
     {
       "EntryName": "talk12",
       "NPC": "Shibo",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 157,
@@ -494,6 +506,12 @@
     {
       "EntryName": "talk29",
       "NPC": "Darton",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 427,

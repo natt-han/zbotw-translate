@@ -424,6 +424,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Olkin",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 271,
@@ -512,6 +516,10 @@
     {
       "EntryName": "Talk10",
       "NPC": "Olkin",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 371,
@@ -528,6 +536,12 @@
     {
       "EntryName": "Talk11",
       "NPC": "Olkin",
+      "Choices": [
+        4,
+        5,
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 397,
@@ -608,6 +622,10 @@
     {
       "EntryName": "Talk18",
       "NPC": "Olkin",
+      "Choices": [
+        13,
+        1
+      ],
       "TextList": [
         {
           "Line": 484,
@@ -651,6 +669,10 @@
     {
       "EntryName": "Talk20",
       "NPC": "Olkin",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 532,
@@ -737,6 +759,12 @@
     {
       "EntryName": "Talk25",
       "NPC": "Olkin",
+      "Choices": [
+        4,
+        5,
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 618,
@@ -748,6 +776,10 @@
     {
       "EntryName": "Talk26",
       "NPC": "Olkin",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 637,
@@ -880,6 +912,10 @@
     {
       "EntryName": "Talk31",
       "NPC": "Olkin",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 759,
@@ -1248,6 +1284,10 @@
     {
       "EntryName": "Talk49",
       "NPC": "Olkin",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 1106,
@@ -1337,6 +1377,10 @@
     {
       "EntryName": "Talk52",
       "NPC": "Olkin",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 1195,

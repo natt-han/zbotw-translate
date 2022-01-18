@@ -344,6 +344,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Laissa",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 179,
@@ -469,6 +473,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Laissa",
+      "Choices": [
+        44,
+        45
+      ],
       "TextList": [
         {
           "Line": 287,
@@ -495,6 +503,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Laissa",
+      "Choices": [
+        44,
+        45
+      ],
       "TextList": [
         {
           "Line": 320,
@@ -517,6 +529,12 @@
     {
       "EntryName": "talk18",
       "NPC": "Laissa",
+      "Choices": [
+        10,
+        11,
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -577,6 +595,12 @@
     {
       "EntryName": "talk23",
       "NPC": "Laissa",
+      "Choices": [
+        20,
+        21,
+        22,
+        23
+      ],
       "TextList": [
         {
           "Line": 403,
@@ -593,6 +617,12 @@
     {
       "EntryName": "talk24",
       "NPC": "Laissa",
+      "Choices": [
+        30,
+        31,
+        32,
+        33
+      ],
       "TextList": [
         {
           "Line": 426,
@@ -614,6 +644,12 @@
     {
       "EntryName": "talk25",
       "NPC": "Laissa",
+      "Choices": [
+        40,
+        41,
+        42,
+        43
+      ],
       "TextList": [
         {
           "Line": 453,
@@ -703,6 +739,10 @@
     {
       "EntryName": "talk30",
       "NPC": "Laissa",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 543,
@@ -714,6 +754,10 @@
     {
       "EntryName": "talk31",
       "NPC": "Laissa",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 560,

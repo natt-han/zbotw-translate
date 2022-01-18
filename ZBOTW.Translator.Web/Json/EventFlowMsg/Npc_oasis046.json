@@ -93,6 +93,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 54,
@@ -206,6 +210,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 163,
@@ -217,6 +226,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 181,
@@ -268,6 +281,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 232,
@@ -296,6 +313,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 259,
@@ -324,6 +345,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 292,
@@ -373,6 +398,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Estan",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 337,
@@ -422,6 +451,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Estan",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 385,
@@ -433,6 +466,10 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Estan",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 402,
@@ -465,6 +502,10 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 444,
@@ -476,6 +517,10 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 467,
@@ -497,6 +542,10 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 495,
@@ -518,6 +567,10 @@
     {
       "EntryName": "Talk_17",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 520,
@@ -584,6 +637,10 @@
     {
       "EntryName": "Talk_23",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 582,
@@ -617,6 +674,10 @@
     {
       "EntryName": "Talk_24",
       "NPC": "Estan",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 613,

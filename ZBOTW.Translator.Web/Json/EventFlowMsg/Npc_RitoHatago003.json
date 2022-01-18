@@ -64,6 +64,12 @@
     {
       "EntryName": "talk_00",
       "NPC": "Ponthos",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 37,
@@ -256,6 +262,11 @@
     {
       "EntryName": "talk_06",
       "NPC": "Ponthos",
+      "Choices": [
+        4,
+        5,
+        3
+      ],
       "TextList": [
         {
           "Line": 228,
@@ -363,6 +374,12 @@
     {
       "EntryName": "talk_09",
       "NPC": "Ponthos",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 351,

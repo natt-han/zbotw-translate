@@ -44,6 +44,10 @@
     {
       "EntryName": "Talk_00",
       "NPC": "Fin",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -108,6 +112,10 @@
     {
       "EntryName": "Talk_03",
       "NPC": "Fin",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 87,
@@ -183,6 +191,10 @@
     {
       "EntryName": "Talk_07",
       "NPC": "Fin",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 154,

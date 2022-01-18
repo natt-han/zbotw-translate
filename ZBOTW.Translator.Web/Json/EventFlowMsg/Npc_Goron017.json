@@ -316,6 +316,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Fugo",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 225,
@@ -349,6 +353,12 @@
     {
       "EntryName": "talk14",
       "NPC": "Fugo",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 260,
@@ -480,6 +490,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Fugo",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 370,
@@ -663,6 +677,12 @@
     {
       "EntryName": "talk26",
       "NPC": "Fugo",
+      "Choices": [
+        4,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 521,
@@ -723,6 +743,12 @@
     {
       "EntryName": "talk30",
       "NPC": "Fugo",
+      "Choices": [
+        7,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 578,

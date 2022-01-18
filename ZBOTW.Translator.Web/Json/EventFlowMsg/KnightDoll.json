@@ -195,6 +195,11 @@
     {
       "EntryName": "Talk_04",
       "NPC": "Rotana",
+      "Choices": [
+        0,
+        1,
+        8
+      ],
       "TextList": [
         {
           "Line": 139,
@@ -222,6 +227,10 @@
     {
       "EntryName": "Talk_07",
       "NPC": "Rotana",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 172,
@@ -233,6 +242,10 @@
     {
       "EntryName": "Talk_08",
       "NPC": "Rotana",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 189,
@@ -269,6 +282,10 @@
     {
       "EntryName": "Talk_09",
       "NPC": "Rotana",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 241,
@@ -307,6 +324,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Rotana",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 278,

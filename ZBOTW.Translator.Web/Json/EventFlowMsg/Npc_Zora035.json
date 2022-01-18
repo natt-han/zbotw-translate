@@ -189,6 +189,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Jiahto",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 115,
@@ -453,6 +457,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Jiahto",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 354,
@@ -640,6 +648,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Jiahto",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 511,
@@ -994,6 +1006,10 @@
     {
       "EntryName": "talk32",
       "NPC": "Jiahto",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 801,

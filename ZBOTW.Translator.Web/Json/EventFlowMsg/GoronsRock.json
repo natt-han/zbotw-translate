@@ -83,6 +83,11 @@
     },
     {
       "EntryName": "Goron_Father_Talk01",
+      "Choices": [
+        0,
+        1,
+        4
+      ],
       "TextList": [
         {
           "Line": 45,
@@ -246,6 +251,11 @@
     },
     {
       "EntryName": "Goron_Father_Talk10",
+      "Choices": [
+        5,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 200,
@@ -373,6 +383,11 @@
     },
     {
       "EntryName": "Goron_Father_Talk14",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 311,
@@ -409,6 +424,11 @@
     },
     {
       "EntryName": "Goron_Father_Talk15",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 352,

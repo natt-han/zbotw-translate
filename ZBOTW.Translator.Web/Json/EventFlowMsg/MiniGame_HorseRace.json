@@ -138,6 +138,11 @@
     {
       "EntryName": "talk00",
       "NPC": "Blynne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 65,
@@ -174,6 +179,11 @@
     {
       "EntryName": "talk01",
       "NPC": "Blynne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 105,
@@ -185,6 +195,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Blynne",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 123,
@@ -255,6 +269,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Blynne",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 186,
@@ -395,6 +413,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Blynne",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 306,
@@ -454,6 +476,10 @@
     {
       "EntryName": "talk17",
       "NPC": "Blynne",
+      "Choices": [
+        5,
+        7
+      ],
       "TextList": [
         {
           "Line": 364,
@@ -492,6 +518,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Blynne",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 403,
@@ -508,6 +538,11 @@
     {
       "EntryName": "talk21",
       "NPC": "Blynne",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 424,
@@ -878,6 +913,10 @@
     {
       "EntryName": "talk43",
       "NPC": "Blynne",
+      "Choices": [
+        8,
+        1
+      ],
       "TextList": [
         {
           "Line": 712,

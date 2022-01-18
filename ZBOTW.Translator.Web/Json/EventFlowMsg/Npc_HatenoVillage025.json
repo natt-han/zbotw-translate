@@ -189,6 +189,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Koyin",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 129,
@@ -407,6 +411,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Koyin",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 350,

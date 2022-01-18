@@ -214,6 +214,10 @@
     {
       "EntryName": "Npc_Zora003_SD_000",
       "NPC": "King Dorephan",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 167,
@@ -415,6 +419,10 @@
     {
       "EntryName": "Npc_Zora003_SD_100",
       "NPC": "King Dorephan",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 350,
@@ -1284,6 +1292,11 @@
     {
       "EntryName": "Npc_ZoraB001_SD_000",
       "NPC": "Sidon",
+      "Choices": [
+        2,
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1028,
@@ -1413,6 +1426,10 @@
     {
       "EntryName": "Npc_ZoraB001_SD_001",
       "NPC": "Sidon",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1173,
@@ -1743,6 +1760,11 @@
     {
       "EntryName": "Npc_ZoraB001_SD_100",
       "NPC": "Sidon",
+      "Choices": [
+        2,
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1482,
@@ -1754,6 +1776,11 @@
     {
       "EntryName": "Npc_ZoraB001_SD_101",
       "NPC": "Sidon",
+      "Choices": [
+        2,
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1500,
@@ -1765,6 +1792,10 @@
     {
       "EntryName": "Npc_ZoraB001_SD_102",
       "NPC": "Sidon",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1518,
@@ -1776,6 +1807,10 @@
     {
       "EntryName": "Npc_ZoraB001_SD_103",
       "NPC": "Sidon",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1535,
@@ -1787,6 +1822,11 @@
     {
       "EntryName": "Npc_ZoraB001_SD_104",
       "NPC": "Sidon",
+      "Choices": [
+        2,
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 1552,

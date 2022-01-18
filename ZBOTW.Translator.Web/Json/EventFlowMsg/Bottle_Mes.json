@@ -192,6 +192,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Finley",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 99,
@@ -291,6 +295,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Finley",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 193,
@@ -443,6 +451,10 @@
     {
       "EntryName": "talk104",
       "NPC": "Sasan",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 363,
@@ -470,6 +482,10 @@
     {
       "EntryName": "talk105",
       "NPC": "Sasan",
+      "Choices": [
+        17,
+        18
+      ],
       "TextList": [
         {
           "Line": 391,
@@ -549,6 +565,10 @@
     {
       "EntryName": "talk107",
       "NPC": "Sasan",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 465,
@@ -675,6 +695,10 @@
     {
       "EntryName": "talk114",
       "NPC": "Sasan",
+      "Choices": [
+        5,
+        19
+      ],
       "TextList": [
         {
           "Line": 580,
@@ -1119,6 +1143,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Finley",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 969,

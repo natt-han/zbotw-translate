@@ -345,6 +345,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Gaddison",
+      "Choices": [
+        15,
+        16
+      ],
       "TextList": [
         {
           "Line": 319,
@@ -852,6 +856,10 @@
     {
       "EntryName": "talk33",
       "NPC": "Gaddison",
+      "Choices": [
+        14,
+        0
+      ],
       "TextList": [
         {
           "Line": 779,

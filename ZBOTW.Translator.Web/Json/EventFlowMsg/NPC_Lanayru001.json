@@ -44,6 +44,10 @@
     {
       "EntryName": "Talk001",
       "NPC": "Russ",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -71,6 +75,10 @@
     {
       "EntryName": "Talk002",
       "NPC": "Russ",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 57,
@@ -103,6 +111,10 @@
     {
       "EntryName": "Talk003",
       "NPC": "Russ",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 89,
@@ -146,6 +158,10 @@
     {
       "EntryName": "Talk004",
       "NPC": "Russ",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 128,

@@ -85,6 +85,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Slergo",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 45,
@@ -242,6 +246,11 @@
     {
       "EntryName": "talk10",
       "NPC": "Slergo",
+      "Choices": [
+        5,
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 253,
@@ -291,6 +300,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Slergo",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 302,
@@ -307,6 +320,12 @@
     {
       "EntryName": "talk15",
       "NPC": "Slergo",
+      "Choices": [
+        2,
+        3,
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 323,
@@ -437,6 +456,11 @@
     {
       "EntryName": "talk25",
       "NPC": "Slergo",
+      "Choices": [
+        5,
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 511,

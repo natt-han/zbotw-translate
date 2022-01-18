@@ -236,6 +236,12 @@
     {
       "EntryName": "talk08",
       "NPC": "Kayden",
+      "Choices": [
+        0,
+        1,
+        9,
+        2
+      ],
       "TextList": [
         {
           "Line": 172,
@@ -306,6 +312,12 @@
     {
       "EntryName": "talk11",
       "NPC": "Kayden",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 235,
@@ -317,6 +329,12 @@
     {
       "EntryName": "talk12",
       "NPC": "Kayden",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 254,
@@ -472,6 +490,12 @@
     {
       "EntryName": "talk22",
       "NPC": "Kayden",
+      "Choices": [
+        0,
+        1,
+        9,
+        2
+      ],
       "TextList": [
         {
           "Line": 390,

@@ -126,6 +126,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Hagie",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 61,
@@ -164,6 +168,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Hagie",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 100,
@@ -196,6 +204,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Hagie",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 134,
@@ -340,6 +352,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Hagie",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 261,
@@ -452,6 +468,11 @@
     {
       "EntryName": "talk15",
       "NPC": "Hagie",
+      "Choices": [
+        10,
+        11,
+        1
+      ],
       "TextList": [
         {
           "Line": 383,

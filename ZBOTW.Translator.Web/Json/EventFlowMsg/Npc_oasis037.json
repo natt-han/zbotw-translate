@@ -176,6 +176,10 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Traysi",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 151,
@@ -306,6 +310,10 @@
     {
       "EntryName": "Talk_205",
       "NPC": "Traysi",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 272,

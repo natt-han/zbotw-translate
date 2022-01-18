@@ -114,6 +114,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Khini",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 80,
@@ -195,6 +199,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Khini",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 150,
@@ -222,6 +230,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Khini",
+      "Choices": [
+        4,
+        3
+      ],
       "TextList": [
         {
           "Line": 181,
@@ -334,6 +346,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Khini",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 284,

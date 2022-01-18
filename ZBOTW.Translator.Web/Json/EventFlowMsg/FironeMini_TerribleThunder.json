@@ -100,6 +100,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Cima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -137,6 +141,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Cima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 87,
@@ -223,6 +231,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Cima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 161,
@@ -271,6 +283,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Cima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 206,

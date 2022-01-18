@@ -136,6 +136,10 @@
     {
       "EntryName": "Talk04_2",
       "NPC": "Koko",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 99,
@@ -285,6 +289,10 @@
     {
       "EntryName": "Talk08",
       "NPC": "Koko",
+      "Choices": [
+        0,
+        4
+      ],
       "TextList": [
         {
           "Line": 228,

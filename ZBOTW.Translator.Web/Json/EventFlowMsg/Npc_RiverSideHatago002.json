@@ -197,6 +197,10 @@
     {
       "EntryName": "talk_hint00",
       "NPC": "Parcy",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 110,
@@ -208,6 +212,10 @@
     {
       "EntryName": "talk_hint01",
       "NPC": "Parcy",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 127,
@@ -290,6 +298,10 @@
     {
       "EntryName": "talk_hintSelect02",
       "NPC": "Parcy",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 204,
@@ -301,6 +313,12 @@
     {
       "EntryName": "talk_hintSelect03",
       "NPC": "Parcy",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 221,
@@ -312,6 +330,11 @@
     {
       "EntryName": "talk_hintSelect04",
       "NPC": "Parcy",
+      "Choices": [
+        12,
+        13,
+        14
+      ],
       "TextList": [
         {
           "Line": 240,
@@ -441,6 +464,10 @@
     {
       "EntryName": "talk_sellWeaponBow01",
       "NPC": "Parcy",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 372,
@@ -452,6 +479,10 @@
     {
       "EntryName": "talk_sellWeaponBow02",
       "NPC": "Parcy",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 389,
@@ -463,6 +494,10 @@
     {
       "EntryName": "talk_sellWeaponBow03",
       "NPC": "Parcy",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 406,
@@ -474,6 +509,10 @@
     {
       "EntryName": "talk_sellWeaponBow04",
       "NPC": "Parcy",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 423,
@@ -496,6 +535,10 @@
     {
       "EntryName": "talk_sellWeaponLSword01",
       "NPC": "Parcy",
+      "Choices": [
+        1,
+        5
+      ],
       "TextList": [
         {
           "Line": 449,
@@ -507,6 +550,10 @@
     {
       "EntryName": "talk_sellWeaponLSword02",
       "NPC": "Parcy",
+      "Choices": [
+        1,
+        5
+      ],
       "TextList": [
         {
           "Line": 466,
@@ -518,6 +565,10 @@
     {
       "EntryName": "talk_sellWeaponLSword03",
       "NPC": "Parcy",
+      "Choices": [
+        1,
+        5
+      ],
       "TextList": [
         {
           "Line": 483,
@@ -529,6 +580,10 @@
     {
       "EntryName": "talk_sellWeaponLSword04",
       "NPC": "Parcy",
+      "Choices": [
+        1,
+        5
+      ],
       "TextList": [
         {
           "Line": 500,
@@ -551,6 +606,10 @@
     {
       "EntryName": "talk_sellWeaponShield01",
       "NPC": "Parcy",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 526,
@@ -562,6 +621,10 @@
     {
       "EntryName": "talk_sellWeaponShield02",
       "NPC": "Parcy",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 543,
@@ -573,6 +636,10 @@
     {
       "EntryName": "talk_sellWeaponShield03",
       "NPC": "Parcy",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 560,
@@ -584,6 +651,10 @@
     {
       "EntryName": "talk_sellWeaponShield04",
       "NPC": "Parcy",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 577,
@@ -606,6 +677,10 @@
     {
       "EntryName": "talk_sellWeaponSpear01",
       "NPC": "Parcy",
+      "Choices": [
+        2,
+        5
+      ],
       "TextList": [
         {
           "Line": 603,
@@ -617,6 +692,10 @@
     {
       "EntryName": "talk_sellWeaponSpear02",
       "NPC": "Parcy",
+      "Choices": [
+        2,
+        5
+      ],
       "TextList": [
         {
           "Line": 620,
@@ -628,6 +707,10 @@
     {
       "EntryName": "talk_sellWeaponSpear03",
       "NPC": "Parcy",
+      "Choices": [
+        2,
+        5
+      ],
       "TextList": [
         {
           "Line": 637,
@@ -639,6 +722,10 @@
     {
       "EntryName": "talk_sellWeaponSpear04",
       "NPC": "Parcy",
+      "Choices": [
+        2,
+        5
+      ],
       "TextList": [
         {
           "Line": 654,
@@ -661,6 +748,10 @@
     {
       "EntryName": "talk_sellWeaponSword01",
       "NPC": "Parcy",
+      "Choices": [
+        0,
+        5
+      ],
       "TextList": [
         {
           "Line": 680,
@@ -672,6 +763,10 @@
     {
       "EntryName": "talk_sellWeaponSword02",
       "NPC": "Parcy",
+      "Choices": [
+        0,
+        5
+      ],
       "TextList": [
         {
           "Line": 697,
@@ -683,6 +778,10 @@
     {
       "EntryName": "talk_sellWeaponSword03",
       "NPC": "Parcy",
+      "Choices": [
+        0,
+        5
+      ],
       "TextList": [
         {
           "Line": 714,
@@ -694,6 +793,10 @@
     {
       "EntryName": "talk_sellWeaponSword04",
       "NPC": "Parcy",
+      "Choices": [
+        0,
+        5
+      ],
       "TextList": [
         {
           "Line": 731,

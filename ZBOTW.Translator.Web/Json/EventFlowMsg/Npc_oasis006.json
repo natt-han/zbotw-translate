@@ -138,6 +138,12 @@
     {
       "EntryName": "Talk04",
       "NPC": "Romah",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 89,
@@ -149,6 +155,12 @@
     {
       "EntryName": "Talk05",
       "NPC": "Romah",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 108,
@@ -309,6 +321,12 @@
     {
       "EntryName": "Talk15",
       "NPC": "Romah",
+      "Choices": [
+        0,
+        1,
+        7,
+        2
+      ],
       "TextList": [
         {
           "Line": 285,
@@ -342,6 +360,12 @@
     {
       "EntryName": "Talk16",
       "NPC": "Romah",
+      "Choices": [
+        0,
+        1,
+        7,
+        2
+      ],
       "TextList": [
         {
           "Line": 318,
@@ -375,6 +399,12 @@
     {
       "EntryName": "Talk17",
       "NPC": "Romah",
+      "Choices": [
+        0,
+        1,
+        7,
+        2
+      ],
       "TextList": [
         {
           "Line": 351,

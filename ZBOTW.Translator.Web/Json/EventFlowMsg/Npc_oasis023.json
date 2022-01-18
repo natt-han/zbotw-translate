@@ -119,6 +119,11 @@
     {
       "EntryName": "Npc_oasis023_004",
       "NPC": "Lashley",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 81,
@@ -336,6 +341,11 @@
     {
       "EntryName": "Npc_oasis023_012",
       "NPC": "Lashley",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 257,

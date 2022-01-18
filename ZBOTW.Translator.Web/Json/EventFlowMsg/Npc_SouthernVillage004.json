@@ -138,6 +138,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Armes",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 70,
@@ -281,6 +285,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Armes",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 188,
@@ -308,6 +316,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Armes",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 218,
@@ -362,6 +374,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Armes",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 270,
@@ -378,6 +394,10 @@
     {
       "EntryName": "talk17",
       "NPC": "Armes",
+      "Choices": [
+        8,
+        7
+      ],
       "TextList": [
         {
           "Line": 291,

@@ -144,6 +144,10 @@
     {
       "EntryName": "ClerkAsk00",
       "NPC": "Steen",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 69,
@@ -917,6 +921,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Steen",
+      "Choices": [
+        16,
+        17
+      ],
       "TextList": [
         {
           "Line": 679,
@@ -1066,6 +1074,11 @@
     {
       "EntryName": "Talk12",
       "NPC": "Steen",
+      "Choices": [
+        5,
+        7,
+        6
+      ],
       "TextList": [
         {
           "Line": 809,
@@ -1082,6 +1095,11 @@
     {
       "EntryName": "Talk13",
       "NPC": "Steen",
+      "Choices": [
+        5,
+        7,
+        6
+      ],
       "TextList": [
         {
           "Line": 831,
@@ -1093,6 +1111,12 @@
     {
       "EntryName": "Talk18",
       "NPC": "Steen",
+      "Choices": [
+        12,
+        13,
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 849,
@@ -1184,6 +1208,12 @@
     {
       "EntryName": "Talk33",
       "NPC": "Steen",
+      "Choices": [
+        12,
+        13,
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 938,
@@ -1226,6 +1256,10 @@
     {
       "EntryName": "Talk42",
       "NPC": "Steen",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 982,

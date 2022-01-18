@@ -200,6 +200,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Aster",
+      "Choices": [
+        0,
+        3
+      ],
       "TextList": [
         {
           "Line": 144,
@@ -269,6 +273,11 @@
     {
       "EntryName": "talk11",
       "NPC": "Aster",
+      "Choices": [
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 210,

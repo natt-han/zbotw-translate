@@ -256,6 +256,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Teba",
+      "Choices": [
+        24,
+        16
+      ],
       "TextList": [
         {
           "Line": 113,
@@ -392,6 +396,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Teba",
+      "Choices": [
+        22,
+        16
+      ],
       "TextList": [
         {
           "Line": 249,
@@ -424,6 +432,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Teba",
+      "Choices": [
+        24,
+        16
+      ],
       "TextList": [
         {
           "Line": 283,
@@ -599,6 +611,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Teba",
+      "Choices": [
+        7,
+        18
+      ],
       "TextList": [
         {
           "Line": 448,
@@ -696,6 +712,11 @@
     {
       "EntryName": "talk14",
       "NPC": "Teba",
+      "Choices": [
+        2,
+        5,
+        3
+      ],
       "TextList": [
         {
           "Line": 529,
@@ -733,6 +754,11 @@
     {
       "EntryName": "talk16",
       "NPC": "Teba",
+      "Choices": [
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 568,
@@ -976,6 +1002,11 @@
     {
       "EntryName": "talk25",
       "NPC": "Teba",
+      "Choices": [
+        2,
+        5,
+        3
+      ],
       "TextList": [
         {
           "Line": 770,
@@ -1230,6 +1261,12 @@
     {
       "EntryName": "talk38",
       "NPC": "Teba",
+      "Choices": [
+        19,
+        10,
+        29,
+        20
+      ],
       "TextList": [
         {
           "Line": 972,
@@ -1423,6 +1460,12 @@
     {
       "EntryName": "talk46",
       "NPC": "Teba",
+      "Choices": [
+        19,
+        10,
+        29,
+        20
+      ],
       "TextList": [
         {
           "Line": 1138,
@@ -1595,6 +1638,11 @@
     {
       "EntryName": "talk63",
       "NPC": "Teba",
+      "Choices": [
+        2,
+        5,
+        3
+      ],
       "TextList": [
         {
           "Line": 1329,
@@ -1989,6 +2037,12 @@
     {
       "EntryName": "talk78",
       "NPC": "Teba",
+      "Choices": [
+        19,
+        10,
+        29,
+        20
+      ],
       "TextList": [
         {
           "Line": 1655,

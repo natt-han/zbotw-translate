@@ -183,6 +183,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 90,
@@ -360,6 +364,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 221,
@@ -371,6 +380,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 234,
@@ -416,6 +429,11 @@
     {
       "EntryName": "Com_Talk_31",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 270,
@@ -427,6 +445,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 283,
@@ -459,6 +481,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 311,
@@ -486,6 +512,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 338,
@@ -513,6 +543,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 365,
@@ -535,6 +569,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 388,
@@ -550,6 +589,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 405,
@@ -618,6 +661,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 462,
@@ -691,6 +738,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Pelison",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 513,
@@ -702,6 +753,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Pelison",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 530,
@@ -761,6 +816,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Pelison",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 588,
@@ -783,6 +842,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Pelison",
+      "Choices": [
+        5,
+        1
+      ],
       "TextList": [
         {
           "Line": 632,
@@ -805,6 +868,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Pelison",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 659,
@@ -821,6 +888,10 @@
     {
       "EntryName": "talk12",
       "NPC": "Pelison",
+      "Choices": [
+        7,
+        1
+      ],
       "TextList": [
         {
           "Line": 680,
@@ -982,6 +1053,11 @@
     {
       "EntryName": "talk22",
       "NPC": "Pelison",
+      "Choices": [
+        12,
+        9,
+        1
+      ],
       "TextList": [
         {
           "Line": 837,

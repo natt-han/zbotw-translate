@@ -239,6 +239,12 @@
     {
       "EntryName": "talk11",
       "NPC": "Rozel",
+      "Choices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 173,
@@ -428,6 +434,12 @@
     {
       "EntryName": "talk22",
       "NPC": "Rozel",
+      "Choices": [
+        2,
+        3,
+        4,
+        6
+      ],
       "TextList": [
         {
           "Line": 334,
@@ -450,6 +462,12 @@
     {
       "EntryName": "talk24",
       "NPC": "Rozel",
+      "Choices": [
+        2,
+        3,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 362,
@@ -461,6 +479,12 @@
     {
       "EntryName": "talk25",
       "NPC": "Rozel",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 381,
@@ -472,6 +496,12 @@
     {
       "EntryName": "talk26",
       "NPC": "Rozel",
+      "Choices": [
+        2,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 400,

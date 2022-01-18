@@ -113,6 +113,10 @@
     },
     {
       "EntryName": "Book01",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 62,
@@ -214,6 +218,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Calip",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 154,
@@ -235,6 +243,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Calip",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 189,
@@ -327,6 +339,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Calip",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 297,
@@ -348,6 +364,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Calip",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 327,
@@ -426,6 +446,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Calip",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 405,
@@ -525,6 +549,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Calip",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 514,
@@ -567,6 +595,10 @@
     {
       "EntryName": "talk21",
       "NPC": "Calip",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 560,
@@ -594,6 +626,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Calip",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 585,
@@ -693,6 +729,10 @@
     {
       "EntryName": "talk29",
       "NPC": "Calip",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 696,
@@ -751,6 +791,10 @@
     {
       "EntryName": "talk32",
       "NPC": "Calip",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 764,

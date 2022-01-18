@@ -113,6 +113,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 57,
@@ -226,6 +230,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 146,
@@ -237,6 +246,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 159,
@@ -293,6 +306,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 209,
@@ -316,6 +333,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 232,
@@ -344,6 +365,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 265,
@@ -404,6 +429,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 314,
@@ -447,6 +476,10 @@
     {
       "EntryName": "Talk_04",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 357,
@@ -496,6 +529,10 @@
     {
       "EntryName": "Talk_09",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 408,
@@ -507,6 +544,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 425,
@@ -523,6 +564,10 @@
     {
       "EntryName": "Talk_11",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 446,
@@ -544,6 +589,10 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Ardin",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 471,

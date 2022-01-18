@@ -72,6 +72,10 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Rima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 68,
@@ -252,6 +256,10 @@
     {
       "EntryName": "Talk_11",
       "NPC": "Rima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 226,

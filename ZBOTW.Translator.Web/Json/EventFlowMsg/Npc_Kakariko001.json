@@ -533,6 +533,10 @@
     {
       "EntryName": "FirstTalk02",
       "NPC": "Impa",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 439,
@@ -700,6 +704,12 @@
     {
       "EntryName": "FirstTalk_consecutive",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        8,
+        13,
+        6
+      ],
       "TextList": [
         {
           "Line": 589,
@@ -797,6 +807,10 @@
     {
       "EntryName": "Kotoba00",
       "NPC": "Impa",
+      "Choices": [
+        7,
+        6
+      ],
       "TextList": [
         {
           "Line": 679,
@@ -924,6 +938,11 @@
     {
       "EntryName": "SecondTalk01_ch3",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        13,
+        6
+      ],
       "TextList": [
         {
           "Line": 787,
@@ -946,6 +965,12 @@
     {
       "EntryName": "SecondTalk01_ch4",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        8,
+        13,
+        6
+      ],
       "TextList": [
         {
           "Line": 812,
@@ -1623,6 +1648,11 @@
     {
       "EntryName": "Sukuitai00_ch3",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        13,
+        6
+      ],
       "TextList": [
         {
           "Line": 1338,
@@ -1645,6 +1675,12 @@
     {
       "EntryName": "Sukuitai00_ch4",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        8,
+        13,
+        6
+      ],
       "TextList": [
         {
           "Line": 1363,
@@ -1738,6 +1774,11 @@
     {
       "EntryName": "Talk_00_ch3",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1448,
@@ -1749,6 +1790,12 @@
     {
       "EntryName": "Talk_00_ch4",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1466,
@@ -1967,6 +2014,11 @@
     {
       "EntryName": "Talk_12_ch3",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1652,
@@ -1978,6 +2030,12 @@
     {
       "EntryName": "Talk_12_ch4",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1670,
@@ -2210,6 +2268,11 @@
     {
       "EntryName": "Talk_18_ch3",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1874,
@@ -2226,6 +2289,12 @@
     {
       "EntryName": "Talk_18_ch4",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1896,
@@ -2284,6 +2353,11 @@
     {
       "EntryName": "Talk_19_ch3",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1957,
@@ -2300,6 +2374,12 @@
     {
       "EntryName": "Talk_19_ch4",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 1979,
@@ -2348,6 +2428,11 @@
     {
       "EntryName": "Talk_20_ch3a",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 2028,
@@ -2359,6 +2444,11 @@
     {
       "EntryName": "Talk_20_ch3b",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 2046,
@@ -2370,6 +2460,12 @@
     {
       "EntryName": "Talk_20_ch4a",
       "NPC": "Impa",
+      "Choices": [
+        8,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 2064,
@@ -2381,6 +2477,12 @@
     {
       "EntryName": "Talk_20_ch4b",
       "NPC": "Impa",
+      "Choices": [
+        11,
+        9,
+        13,
+        10
+      ],
       "TextList": [
         {
           "Line": 2083,
@@ -2602,6 +2704,10 @@
     {
       "EntryName": "kioku_02",
       "NPC": "Impa",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 2259,

@@ -63,6 +63,11 @@
     },
     {
       "EntryName": "DiaryFirst",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 32,
@@ -73,6 +78,10 @@
     },
     {
       "EntryName": "talk00",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 45,
@@ -94,6 +103,11 @@
     },
     {
       "EntryName": "talk01",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 64,
@@ -137,6 +151,11 @@
     },
     {
       "EntryName": "talk02",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 101,
@@ -174,6 +193,10 @@
     },
     {
       "EntryName": "talk03",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 132,

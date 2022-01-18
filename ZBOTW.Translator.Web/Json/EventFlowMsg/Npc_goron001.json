@@ -84,6 +84,12 @@
     {
       "EntryName": "Talk01",
       "NPC": "Tray",
+      "Choices": [
+        0,
+        1,
+        7,
+        2
+      ],
       "TextList": [
         {
           "Line": 45,
@@ -154,6 +160,12 @@
     {
       "EntryName": "Talk04",
       "NPC": "Tray",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 114,
@@ -165,6 +177,12 @@
     {
       "EntryName": "Talk05",
       "NPC": "Tray",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 133,

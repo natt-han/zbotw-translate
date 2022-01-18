@@ -196,6 +196,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Bludo",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 89,
@@ -276,6 +280,10 @@
     {
       "EntryName": "talk107",
       "NPC": "Bludo",
+      "Choices": [
+        18,
+        19
+      ],
       "TextList": [
         {
           "Line": 182,
@@ -377,6 +385,10 @@
     {
       "EntryName": "talk112",
       "NPC": "Bludo",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 279,
@@ -1233,6 +1245,12 @@
     {
       "EntryName": "talk59",
       "NPC": "Bludo",
+      "Choices": [
+        15,
+        12,
+        21,
+        2
+      ],
       "TextList": [
         {
           "Line": 996,
@@ -1451,6 +1469,12 @@
     {
       "EntryName": "talk79",
       "NPC": "Bludo",
+      "Choices": [
+        15,
+        12,
+        21,
+        2
+      ],
       "TextList": [
         {
           "Line": 1178,

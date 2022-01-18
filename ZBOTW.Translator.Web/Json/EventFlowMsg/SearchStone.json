@@ -101,6 +101,10 @@
     {
       "EntryName": "Npc_SouthernVillage014_R_002",
       "NPC": "Garini",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 80,
@@ -213,6 +217,10 @@
     {
       "EntryName": "Npc_SouthernVillage014_R_008",
       "NPC": "Garini",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 198,
@@ -235,6 +243,10 @@
     {
       "EntryName": "Npc_SouthernVillage014_R_010",
       "NPC": "Garini",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 219,
@@ -273,6 +285,10 @@
     {
       "EntryName": "Npc_SouthernVillage014_S1_001",
       "NPC": "Garini",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 248,

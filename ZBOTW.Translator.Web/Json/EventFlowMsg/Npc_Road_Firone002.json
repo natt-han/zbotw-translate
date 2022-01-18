@@ -157,6 +157,11 @@
     {
       "EntryName": "Talk00",
       "NPC": "Suzuna",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 73,
@@ -173,6 +178,10 @@
     {
       "EntryName": "Talk01",
       "NPC": "Suzuna",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 95,
@@ -189,6 +198,10 @@
     {
       "EntryName": "Talk02",
       "NPC": "Suzuna",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 116,
@@ -205,6 +218,10 @@
     {
       "EntryName": "Talk03",
       "NPC": "Suzuna",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 137,
@@ -221,6 +238,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Suzuna",
+      "Choices": [
+        9,
+        4
+      ],
       "TextList": [
         {
           "Line": 158,
@@ -253,6 +274,10 @@
     {
       "EntryName": "Talk05",
       "NPC": "Suzuna",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 190,
@@ -338,6 +363,11 @@
     {
       "EntryName": "Talk08",
       "NPC": "Suzuna",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 263,
@@ -602,6 +632,10 @@
     {
       "EntryName": "Talk19",
       "NPC": "Suzuna",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -742,6 +776,10 @@
     {
       "EntryName": "Talk26",
       "NPC": "Suzuna",
+      "Choices": [
+        7,
+        11
+      ],
       "TextList": [
         {
           "Line": 591,
@@ -758,6 +796,10 @@
     {
       "EntryName": "Talk27",
       "NPC": "Suzuna",
+      "Choices": [
+        7,
+        11
+      ],
       "TextList": [
         {
           "Line": 612,

@@ -113,6 +113,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 62,
@@ -305,6 +309,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 241,
@@ -321,6 +330,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 268,
@@ -366,6 +379,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 319,
@@ -393,6 +410,10 @@
     },
     {
       "EntryName": "Com_Talk_34",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 356,
@@ -420,6 +441,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 393,
@@ -447,6 +472,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 430,
@@ -469,6 +498,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5500,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 463,
@@ -479,6 +513,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 486,
@@ -548,6 +586,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5503
+      ],
       "TextList": [
         {
           "Line": 559,
@@ -775,6 +817,11 @@
     {
       "EntryName": "talk13",
       "NPC": "Tanko",
+      "Choices": [
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 742,

@@ -556,6 +556,10 @@
     },
     {
       "EntryName": "Npc_oasis003_GetBack_102",
+      "Choices": [
+        33,
+        34
+      ],
       "TextList": [
         {
           "Line": 386,
@@ -761,6 +765,10 @@
     },
     {
       "EntryName": "Npc_oasis003_GetBack_112",
+      "Choices": [
+        122,
+        123
+      ],
       "TextList": [
         {
           "Line": 565,
@@ -898,6 +906,11 @@
     {
       "EntryName": "Npc_oasis003_Invasion_004",
       "NPC": "Riju",
+      "Choices": [
+        110,
+        111,
+        112
+      ],
       "TextList": [
         {
           "Line": 686,
@@ -1014,6 +1027,10 @@
     },
     {
       "EntryName": "Npc_oasis003_Invasion_007",
+      "Choices": [
+        113,
+        114
+      ],
       "TextList": [
         {
           "Line": 787,
@@ -1045,6 +1062,11 @@
     {
       "EntryName": "Npc_oasis003_Invasion_028",
       "NPC": "Riju",
+      "Choices": [
+        110,
+        111,
+        112
+      ],
       "TextList": [
         {
           "Line": 822,
@@ -1504,6 +1526,10 @@
     {
       "EntryName": "Npc_oasis003_Strategy_001",
       "NPC": "Riju",
+      "Choices": [
+        100,
+        101
+      ],
       "TextList": [
         {
           "Line": 1174,
@@ -1797,6 +1823,11 @@
     {
       "EntryName": "Npc_oasis003_Strategy_023",
       "NPC": "Riju",
+      "Choices": [
+        102,
+        103,
+        106
+      ],
       "TextList": [
         {
           "Line": 1414,
@@ -2403,6 +2434,11 @@
     {
       "EntryName": "Npc_oasis042_GetBack_001",
       "NPC": "Liana",
+      "Choices": [
+        30,
+        31,
+        32
+      ],
       "TextList": [
         {
           "Line": 1910,
@@ -2441,6 +2477,10 @@
     {
       "EntryName": "Npc_oasis042_GetBack_005",
       "NPC": "Liana",
+      "Choices": [
+        30,
+        32
+      ],
       "TextList": [
         {
           "Line": 1950,
@@ -2468,6 +2508,11 @@
     {
       "EntryName": "Npc_oasis042_GetBack_006",
       "NPC": "Liana",
+      "Choices": [
+        30,
+        31,
+        32
+      ],
       "TextList": [
         {
           "Line": 1980,
@@ -2517,6 +2562,10 @@
     {
       "EntryName": "Npc_oasis042_GetBack_008",
       "NPC": "Liana",
+      "Choices": [
+        31,
+        32
+      ],
       "TextList": [
         {
           "Line": 2027,

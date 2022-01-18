@@ -57,6 +57,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 78,

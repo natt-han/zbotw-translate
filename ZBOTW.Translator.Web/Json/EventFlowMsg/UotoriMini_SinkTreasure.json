@@ -111,6 +111,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Rozel",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 65,
@@ -165,6 +169,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Rozel",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 115,

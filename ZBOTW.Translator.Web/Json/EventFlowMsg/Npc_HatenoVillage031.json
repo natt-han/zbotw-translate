@@ -289,6 +289,11 @@
     {
       "EntryName": "talk00",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 125,
@@ -300,6 +305,11 @@
     {
       "EntryName": "talk01",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 143,
@@ -311,6 +321,11 @@
     {
       "EntryName": "talk02",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 161,
@@ -322,6 +337,11 @@
     {
       "EntryName": "talk03",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 179,
@@ -333,6 +353,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Hudson",
+      "Choices": [
+        12,
+        2
+      ],
       "TextList": [
         {
           "Line": 197,
@@ -365,6 +389,11 @@
     {
       "EntryName": "talk07",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 230,
@@ -376,6 +405,11 @@
     {
       "EntryName": "talk08",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -403,6 +437,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Hudson",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 279,
@@ -430,6 +468,12 @@
     {
       "EntryName": "talk11",
       "NPC": "Hudson",
+      "Choices": [
+        3,
+        4,
+        5,
+        2
+      ],
       "TextList": [
         {
           "Line": 307,
@@ -452,6 +496,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Hudson",
+      "Choices": [
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 335,
@@ -485,6 +533,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Hudson",
+      "Choices": [
+        7,
+        2
+      ],
       "TextList": [
         {
           "Line": 368,
@@ -496,6 +548,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Hudson",
+      "Choices": [
+        8,
+        2
+      ],
       "TextList": [
         {
           "Line": 385,
@@ -512,6 +568,10 @@
     {
       "EntryName": "talk17",
       "NPC": "Hudson",
+      "Choices": [
+        9,
+        2
+      ],
       "TextList": [
         {
           "Line": 406,
@@ -523,6 +583,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Hudson",
+      "Choices": [
+        19,
+        2
+      ],
       "TextList": [
         {
           "Line": 423,
@@ -555,6 +619,10 @@
     {
       "EntryName": "talk19",
       "NPC": "Hudson",
+      "Choices": [
+        11,
+        2
+      ],
       "TextList": [
         {
           "Line": 455,
@@ -566,6 +634,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Hudson",
+      "Choices": [
+        12,
+        2
+      ],
       "TextList": [
         {
           "Line": 472,
@@ -599,6 +671,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Hudson",
+      "Choices": [
+        9,
+        2
+      ],
       "TextList": [
         {
           "Line": 507,
@@ -620,6 +696,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Hudson",
+      "Choices": [
+        10,
+        2
+      ],
       "TextList": [
         {
           "Line": 532,
@@ -631,6 +711,10 @@
     {
       "EntryName": "talk25",
       "NPC": "Hudson",
+      "Choices": [
+        13,
+        2
+      ],
       "TextList": [
         {
           "Line": 549,
@@ -647,6 +731,10 @@
     {
       "EntryName": "talk26",
       "NPC": "Hudson",
+      "Choices": [
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 570,
@@ -658,6 +746,10 @@
     {
       "EntryName": "talk27",
       "NPC": "Hudson",
+      "Choices": [
+        14,
+        2
+      ],
       "TextList": [
         {
           "Line": 587,
@@ -669,6 +761,10 @@
     {
       "EntryName": "talk28",
       "NPC": "Hudson",
+      "Choices": [
+        15,
+        2
+      ],
       "TextList": [
         {
           "Line": 604,
@@ -680,6 +776,10 @@
     {
       "EntryName": "talk29",
       "NPC": "Hudson",
+      "Choices": [
+        16,
+        2
+      ],
       "TextList": [
         {
           "Line": 621,
@@ -691,6 +791,10 @@
     {
       "EntryName": "talk30",
       "NPC": "Hudson",
+      "Choices": [
+        17,
+        2
+      ],
       "TextList": [
         {
           "Line": 638,
@@ -718,6 +822,10 @@
     {
       "EntryName": "talk31",
       "NPC": "Hudson",
+      "Choices": [
+        18,
+        2
+      ],
       "TextList": [
         {
           "Line": 666,
@@ -745,6 +853,10 @@
     {
       "EntryName": "talk34",
       "NPC": "Hudson",
+      "Choices": [
+        13,
+        2
+      ],
       "TextList": [
         {
           "Line": 696,
@@ -756,6 +868,10 @@
     {
       "EntryName": "talk35",
       "NPC": "Hudson",
+      "Choices": [
+        12,
+        2
+      ],
       "TextList": [
         {
           "Line": 713,
@@ -767,6 +883,10 @@
     {
       "EntryName": "talk36",
       "NPC": "Hudson",
+      "Choices": [
+        10,
+        2
+      ],
       "TextList": [
         {
           "Line": 730,
@@ -778,6 +898,10 @@
     {
       "EntryName": "talk37",
       "NPC": "Hudson",
+      "Choices": [
+        21,
+        2
+      ],
       "TextList": [
         {
           "Line": 747,
@@ -794,6 +918,10 @@
     {
       "EntryName": "talk38",
       "NPC": "Hudson",
+      "Choices": [
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 768,
@@ -810,6 +938,10 @@
     {
       "EntryName": "talk39",
       "NPC": "Hudson",
+      "Choices": [
+        22,
+        2
+      ],
       "TextList": [
         {
           "Line": 789,
@@ -832,6 +964,10 @@
     {
       "EntryName": "talk40",
       "NPC": "Hudson",
+      "Choices": [
+        23,
+        2
+      ],
       "TextList": [
         {
           "Line": 808,

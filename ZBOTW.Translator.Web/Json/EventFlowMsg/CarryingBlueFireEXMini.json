@@ -279,6 +279,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Purah",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 121,
@@ -384,6 +388,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Purah",
+      "Choices": [
+        2,
+        16
+      ],
       "TextList": [
         {
           "Line": 228,
@@ -512,6 +520,11 @@
     {
       "EntryName": "talk08",
       "NPC": "Purah",
+      "Choices": [
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 349,
@@ -694,6 +707,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Purah",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 513,
@@ -1048,6 +1065,12 @@
     {
       "EntryName": "talk26",
       "NPC": "Purah",
+      "Choices": [
+        9,
+        10,
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 798,
@@ -1215,6 +1238,11 @@
     {
       "EntryName": "talk31",
       "NPC": "Purah",
+      "Choices": [
+        13,
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 944,
@@ -2340,6 +2368,12 @@
     {
       "EntryName": "talk67",
       "NPC": "Purah",
+      "Choices": [
+        9,
+        10,
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 1886,

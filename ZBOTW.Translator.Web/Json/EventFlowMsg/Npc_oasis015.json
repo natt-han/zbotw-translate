@@ -85,6 +85,10 @@
     {
       "EntryName": "Com_Talk_01",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 50,
@@ -206,6 +210,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 163,
@@ -217,6 +226,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 181,
@@ -273,6 +286,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 236,
@@ -296,6 +313,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 267,
@@ -324,6 +345,10 @@
     },
     {
       "EntryName": "Com_Talk_60",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 300,
@@ -368,6 +393,11 @@
     {
       "EntryName": "Npc_oasis015_004",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -450,6 +480,11 @@
     {
       "EntryName": "Npc_oasis015_009",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 418,
@@ -461,6 +496,11 @@
     {
       "EntryName": "Npc_oasis015_010",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 436,
@@ -527,6 +567,11 @@
     {
       "EntryName": "Npc_oasis015_015",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 517,
@@ -538,6 +583,11 @@
     {
       "EntryName": "Npc_oasis015_016",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 535,
@@ -549,6 +599,11 @@
     {
       "EntryName": "Npc_oasis015_017",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 553,
@@ -587,6 +642,11 @@
     {
       "EntryName": "Npc_oasis015_018",
       "NPC": "Saula",
+      "Choices": [
+        8,
+        9,
+        7
+      ],
       "TextList": [
         {
           "Line": 589,

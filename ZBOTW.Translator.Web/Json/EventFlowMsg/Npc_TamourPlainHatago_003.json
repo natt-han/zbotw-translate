@@ -127,6 +127,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Gleema",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 61,
@@ -160,6 +164,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Gleema",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 99,
@@ -348,6 +356,10 @@
     {
       "EntryName": "talk14",
       "NPC": "Gleema",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 250,
@@ -611,6 +623,10 @@
     {
       "EntryName": "talk22",
       "NPC": "Gleema",
+      "Choices": [
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 478,
@@ -728,6 +744,10 @@
     {
       "EntryName": "talk25",
       "NPC": "Gleema",
+      "Choices": [
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 577,

@@ -83,6 +83,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 55,
@@ -196,6 +200,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 169,
@@ -207,6 +216,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 192,
@@ -258,6 +271,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -281,6 +298,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 271,
@@ -309,6 +330,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 309,
@@ -353,6 +378,11 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Shaillu",
+      "Choices": [
+        1,
+        0,
+        6
+      ],
       "TextList": [
         {
           "Line": 350,
@@ -434,6 +464,11 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Shaillu",
+      "Choices": [
+        1,
+        0,
+        6
+      ],
       "TextList": [
         {
           "Line": 430,
@@ -456,6 +491,11 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Shaillu",
+      "Choices": [
+        1,
+        0,
+        6
+      ],
       "TextList": [
         {
           "Line": 457,
@@ -482,6 +522,11 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Shaillu",
+      "Choices": [
+        1,
+        0,
+        6
+      ],
       "TextList": [
         {
           "Line": 492,
@@ -508,6 +553,11 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Shaillu",
+      "Choices": [
+        1,
+        0,
+        6
+      ],
       "TextList": [
         {
           "Line": 527,

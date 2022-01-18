@@ -144,6 +144,10 @@
     {
       "EntryName": "Again",
       "NPC": "Mimo",
+      "Choices": [
+        5,
+        14
+      ],
       "TextList": [
         {
           "Line": 69,
@@ -171,6 +175,10 @@
     {
       "EntryName": "AskMoney_01",
       "NPC": "Mimo",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 99,
@@ -230,6 +238,10 @@
     {
       "EntryName": "Explain_00",
       "NPC": "Mimo",
+      "Choices": [
+        5,
+        7
+      ],
       "TextList": [
         {
           "Line": 153,
@@ -251,6 +263,10 @@
     {
       "EntryName": "Initial",
       "NPC": "Mimo",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 180,
@@ -319,6 +335,10 @@
     {
       "EntryName": "Initial_02",
       "NPC": "Mimo",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 247,
@@ -335,6 +355,11 @@
     {
       "EntryName": "Initial_05",
       "NPC": "Mimo",
+      "Choices": [
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 268,
@@ -367,6 +392,11 @@
     {
       "EntryName": "Initial_06",
       "NPC": "Mimo",
+      "Choices": [
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 308,
@@ -769,6 +799,10 @@
     {
       "EntryName": "Talk_00",
       "NPC": "Mimo",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 644,
@@ -785,6 +819,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Mimo",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 665,

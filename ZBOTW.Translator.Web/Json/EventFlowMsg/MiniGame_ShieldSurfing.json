@@ -246,6 +246,10 @@
     {
       "EntryName": "AskAboutShieldSurfing_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 128,
@@ -277,6 +281,11 @@
     {
       "EntryName": "AskCourse_Expert",
       "NPC": "Selmie",
+      "Choices": [
+        15,
+        14,
+        16
+      ],
       "TextList": [
         {
           "Line": 169,
@@ -293,6 +302,10 @@
     {
       "EntryName": "AskPurpose_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 186,
@@ -304,6 +317,10 @@
     {
       "EntryName": "AskPurpose_Expert",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 198,
@@ -320,6 +337,10 @@
     {
       "EntryName": "AskRetry_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        6
+      ],
       "TextList": [
         {
           "Line": 214,
@@ -342,6 +363,11 @@
     {
       "EntryName": "AskRetry_Expert",
       "NPC": "Selmie",
+      "Choices": [
+        15,
+        14,
+        6
+      ],
       "TextList": [
         {
           "Line": 233,
@@ -353,6 +379,10 @@
     {
       "EntryName": "AskRupee_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 246,
@@ -385,6 +415,10 @@
     {
       "EntryName": "AskRupee_Expert",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 273,
@@ -412,6 +446,10 @@
     {
       "EntryName": "AskTraining_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 301,
@@ -539,6 +577,11 @@
     {
       "EntryName": "Check_Money00",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        15,
+        16
+      ],
       "TextList": [
         {
           "Line": 415,
@@ -561,6 +604,10 @@
     {
       "EntryName": "Check_Money02",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        6
+      ],
       "TextList": [
         {
           "Line": 440,
@@ -647,6 +694,10 @@
     {
       "EntryName": "EntranceTalk_Beginner_Default_01",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 491,
@@ -669,6 +720,10 @@
     {
       "EntryName": "EntranceTalk_Beginner_Default_02",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 515,
@@ -954,6 +1009,10 @@
     {
       "EntryName": "Failed_01_01",
       "NPC": "Selmie",
+      "Choices": [
+        18,
+        19
+      ],
       "TextList": [
         {
           "Line": 700,
@@ -1595,6 +1654,10 @@
     {
       "EntryName": "Goal_CommonTime_Beginner",
       "NPC": "Selmie",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1274,
@@ -2657,6 +2720,10 @@
     {
       "EntryName": "LetsStart_02",
       "NPC": "Selmie",
+      "Choices": [
+        2,
+        5
+      ],
       "TextList": [
         {
           "Line": 2167,
@@ -2829,6 +2896,11 @@
     {
       "EntryName": "Pouch_Check05",
       "NPC": "Selmie",
+      "Choices": [
+        15,
+        14,
+        16
+      ],
       "TextList": [
         {
           "Line": 2306,
@@ -2861,6 +2933,10 @@
     {
       "EntryName": "Stop_00",
       "NPC": "Selmie",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 2336,
@@ -2872,6 +2948,10 @@
     {
       "EntryName": "Stop_01",
       "NPC": "Selmie",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 2348,

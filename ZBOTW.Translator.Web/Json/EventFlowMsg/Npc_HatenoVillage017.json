@@ -97,6 +97,11 @@
     {
       "EntryName": "talk00",
       "NPC": "Rhodes",
+      "Choices": [
+        1,
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -108,6 +113,11 @@
     {
       "EntryName": "talk01",
       "NPC": "Rhodes",
+      "Choices": [
+        1,
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 67,
@@ -279,6 +289,12 @@
     {
       "EntryName": "talk10",
       "NPC": "Rhodes",
+      "Choices": [
+        3,
+        4,
+        5,
+        2
+      ],
       "TextList": [
         {
           "Line": 213,
@@ -369,6 +385,11 @@
     {
       "EntryName": "talk14",
       "NPC": "Rhodes",
+      "Choices": [
+        1,
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 296,
@@ -747,6 +768,12 @@
     {
       "EntryName": "talk29",
       "NPC": "Rhodes",
+      "Choices": [
+        3,
+        4,
+        5,
+        2
+      ],
       "TextList": [
         {
           "Line": 629,
@@ -758,6 +785,12 @@
     {
       "EntryName": "talk30",
       "NPC": "Rhodes",
+      "Choices": [
+        3,
+        4,
+        5,
+        2
+      ],
       "TextList": [
         {
           "Line": 648,

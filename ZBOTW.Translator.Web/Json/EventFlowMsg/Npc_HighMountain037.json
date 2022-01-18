@@ -373,6 +373,11 @@
     {
       "EntryName": "talk12",
       "NPC": "Gesane",
+      "Choices": [
+        6,
+        7,
+        5
+      ],
       "TextList": [
         {
           "Line": 246,
@@ -411,6 +416,11 @@
     {
       "EntryName": "talk15",
       "NPC": "Gesane",
+      "Choices": [
+        6,
+        7,
+        5
+      ],
       "TextList": [
         {
           "Line": 286,
@@ -438,6 +448,12 @@
     {
       "EntryName": "talk18",
       "NPC": "Gesane",
+      "Choices": [
+        0,
+        2,
+        10,
+        5
+      ],
       "TextList": [
         {
           "Line": 317,
@@ -520,6 +536,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Gesane",
+      "Choices": [
+        11,
+        12
+      ],
       "TextList": [
         {
           "Line": 457,
@@ -825,6 +845,10 @@
     {
       "EntryName": "talk35",
       "NPC": "Gesane",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 706,
@@ -897,6 +921,11 @@
     {
       "EntryName": "talk39",
       "NPC": "Gesane",
+      "Choices": [
+        6,
+        7,
+        5
+      ],
       "TextList": [
         {
           "Line": 770,
@@ -930,6 +959,12 @@
     {
       "EntryName": "talk43",
       "NPC": "Gesane",
+      "Choices": [
+        0,
+        2,
+        10,
+        5
+      ],
       "TextList": [
         {
           "Line": 809,

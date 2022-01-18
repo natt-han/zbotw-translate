@@ -192,6 +192,10 @@
     },
     {
       "EntryName": "Talk01_01",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 129,
@@ -224,6 +228,10 @@
     },
     {
       "EntryName": "Talk01_02",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 160,
@@ -442,6 +450,12 @@
     },
     {
       "EntryName": "Talk10",
+      "Choices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 363,
@@ -515,6 +529,10 @@
     },
     {
       "EntryName": "Talk14",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 430,
@@ -573,6 +591,12 @@
     },
     {
       "EntryName": "Talk17",
+      "Choices": [
+        2,
+        3,
+        4,
+        8
+      ],
       "TextList": [
         {
           "Line": 489,

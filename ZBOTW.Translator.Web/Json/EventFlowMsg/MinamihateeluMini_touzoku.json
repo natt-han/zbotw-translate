@@ -115,6 +115,10 @@
     {
       "EntryName": "Talk05",
       "NPC": "Domidak",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 85,
@@ -272,6 +276,10 @@
     {
       "EntryName": "Talk17",
       "NPC": "Domidak",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 226,

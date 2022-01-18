@@ -83,6 +83,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 40,
@@ -196,6 +200,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 149,
@@ -207,6 +216,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 162,
@@ -263,6 +276,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 212,
@@ -291,6 +308,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 239,
@@ -320,6 +341,10 @@
     {
       "EntryName": "Com_Talk_60",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 267,
@@ -354,6 +379,11 @@
     {
       "EntryName": "Talk001",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 304,
@@ -468,6 +498,11 @@
     {
       "EntryName": "Talk008",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 402,
@@ -495,6 +530,11 @@
     {
       "EntryName": "Talk012",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 440,
@@ -533,6 +573,11 @@
     {
       "EntryName": "Talk013",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 478,
@@ -560,6 +605,11 @@
     {
       "EntryName": "Talk014",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 509,
@@ -656,6 +706,10 @@
     {
       "EntryName": "Talk019",
       "NPC": "Isha",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 598,

@@ -67,6 +67,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 37,
@@ -165,6 +169,10 @@
     {
       "EntryName": "Talk_05",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 117,
@@ -327,6 +335,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Reeza",
+      "Choices": [
+        2,
+        4
+      ],
       "TextList": [
         {
           "Line": 247,
@@ -370,6 +382,11 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Reeza",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 297,
@@ -434,6 +451,10 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 367,
@@ -482,6 +503,10 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 414,
@@ -644,6 +669,11 @@
     {
       "EntryName": "Talk_22",
       "NPC": "Reeza",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 554,
@@ -688,6 +718,10 @@
     {
       "EntryName": "Talk_23",
       "NPC": "Reeza",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 593,
@@ -774,6 +808,10 @@
     {
       "EntryName": "Talk_28",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 675,
@@ -822,6 +860,10 @@
     {
       "EntryName": "Talk_29",
       "NPC": "Reeza",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 720,

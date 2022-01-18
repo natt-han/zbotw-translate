@@ -326,6 +326,10 @@
     {
       "EntryName": "Talk_12",
       "NPC": "Teake",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 283,
@@ -396,6 +400,10 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Teake",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 346,

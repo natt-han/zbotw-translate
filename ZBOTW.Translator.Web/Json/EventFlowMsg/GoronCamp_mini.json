@@ -84,6 +84,11 @@
     {
       "EntryName": "Talk_00",
       "NPC": "Bayge",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 48,
@@ -158,6 +163,10 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Bayge",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 154,
@@ -218,6 +227,10 @@
     {
       "EntryName": "Talk_06",
       "NPC": "Bayge",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 257,
@@ -343,6 +356,11 @@
     {
       "EntryName": "Talk_13",
       "NPC": "Bayge",
+      "Choices": [
+        0,
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 369,

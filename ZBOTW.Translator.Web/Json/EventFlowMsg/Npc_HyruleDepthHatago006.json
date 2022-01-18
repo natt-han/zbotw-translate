@@ -123,6 +123,11 @@
     {
       "EntryName": "FirstTalk01",
       "NPC": "Aliza",
+      "Choices": [
+        1000,
+        1001,
+        1002
+      ],
       "TextList": [
         {
           "Line": 81,
@@ -167,6 +172,10 @@
     {
       "EntryName": "MasterTalk00",
       "NPC": "Aliza",
+      "Choices": [
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 126,
@@ -409,6 +418,11 @@
     {
       "EntryName": "Talk00",
       "NPC": "Aliza",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 336,
@@ -431,6 +445,11 @@
     {
       "EntryName": "Talk01",
       "NPC": "Aliza",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 361,

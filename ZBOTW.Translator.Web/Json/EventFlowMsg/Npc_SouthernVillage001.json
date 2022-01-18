@@ -181,6 +181,12 @@
     {
       "EntryName": "Talk06",
       "NPC": "Chessica",
+      "Choices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 121,
@@ -192,6 +198,11 @@
     {
       "EntryName": "Talk07",
       "NPC": "Chessica",
+      "Choices": [
+        0,
+        1,
+        7
+      ],
       "TextList": [
         {
           "Line": 140,

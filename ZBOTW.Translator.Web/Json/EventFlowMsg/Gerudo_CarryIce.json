@@ -292,6 +292,10 @@
     {
       "EntryName": "Npc_GerudoDesert003_S02_101",
       "NPC": "Anche",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 215,
@@ -314,6 +318,10 @@
     {
       "EntryName": "Npc_GerudoMilkflost_002",
       "NPC": "Furosa",
+      "Choices": [
+        14,
+        16
+      ],
       "TextList": [
         {
           "Line": 241,
@@ -538,6 +546,10 @@
     {
       "EntryName": "Npc_GerudoMilkflost_018",
       "NPC": "Furosa",
+      "Choices": [
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 431,

@@ -37,6 +37,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Kenyo",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 28,
@@ -106,6 +110,10 @@
     {
       "EntryName": "talk40",
       "NPC": "Kenyo",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 103,

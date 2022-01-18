@@ -40,6 +40,10 @@
     {
       "EntryName": "Talk01",
       "NPC": "Prissen",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 34,

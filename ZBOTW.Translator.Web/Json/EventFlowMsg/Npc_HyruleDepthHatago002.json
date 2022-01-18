@@ -101,6 +101,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Myti",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 64,

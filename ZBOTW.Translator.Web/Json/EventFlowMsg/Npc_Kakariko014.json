@@ -145,6 +145,10 @@
     {
       "EntryName": "Com_Talk_01",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 84,
@@ -271,6 +275,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 236,
@@ -282,6 +291,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 259,
@@ -333,6 +346,11 @@
     {
       "EntryName": "Com_Talk_31",
       "NPC": "Rola",
+      "Choices": [
+        5502,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 305,
@@ -344,6 +362,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 328,
@@ -383,6 +405,10 @@
     {
       "EntryName": "Com_Talk_34",
       "NPC": "Beedle",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 362,
@@ -406,6 +432,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 385,
@@ -433,6 +463,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 422,
@@ -455,6 +489,11 @@
     },
     {
       "EntryName": "Com_Talk_51",
+      "Choices": [
+        5500,
+        5507,
+        5503
+      ],
       "TextList": [
         {
           "Line": 455,
@@ -465,6 +504,10 @@
     },
     {
       "EntryName": "Com_Talk_52",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -524,6 +567,10 @@
     {
       "EntryName": "Com_Talk_56",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 543,
@@ -622,6 +669,12 @@
     {
       "EntryName": "Talk06",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 617,
@@ -653,6 +706,12 @@
     {
       "EntryName": "Talk08",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 654,
@@ -684,6 +743,12 @@
     {
       "EntryName": "Talk09",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 696,
@@ -700,6 +765,12 @@
     {
       "EntryName": "Talk12",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 719,
@@ -761,6 +832,12 @@
     {
       "EntryName": "Talk13",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 787,
@@ -930,6 +1007,12 @@
     {
       "EntryName": "Talk17",
       "NPC": "Trissa",
+      "Choices": [
+        0,
+        1,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 939,

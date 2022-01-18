@@ -133,6 +133,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Offrak",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 105,
@@ -208,6 +212,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Offrak",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 172,
@@ -273,6 +281,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Offrak",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 227,
@@ -284,6 +296,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Offrak",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 244,
@@ -333,6 +349,10 @@
     {
       "EntryName": "talk10",
       "NPC": "Offrak",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 288,
@@ -414,6 +434,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Offrak",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 365,

@@ -93,6 +93,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -206,6 +210,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 133,
@@ -217,6 +226,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 156,
@@ -268,6 +281,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 202,
@@ -296,6 +313,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 229,
@@ -324,6 +345,10 @@
     },
     {
       "EntryName": "Com_Talk_50",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 257,
@@ -390,6 +415,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Maike",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 314,
@@ -472,6 +501,10 @@
     {
       "EntryName": "Talk_08",
       "NPC": "Maike",
+      "Choices": [
+        5,
+        1
+      ],
       "TextList": [
         {
           "Line": 389,
@@ -536,6 +569,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Maike",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 449,
@@ -558,6 +595,10 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Maike",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 475,
@@ -569,6 +610,10 @@
     {
       "EntryName": "Talk_17",
       "NPC": "Maike",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 492,
@@ -613,6 +658,10 @@
     {
       "EntryName": "Talk_22",
       "NPC": "Maike",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 531,

@@ -44,6 +44,11 @@
     {
       "EntryName": "talk00",
       "NPC": "Furosa",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -120,6 +125,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Furosa",
+      "Choices": [
+        0,
+        1,
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 96,
@@ -179,6 +190,11 @@
     {
       "EntryName": "talk07",
       "NPC": "Furosa",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 154,
@@ -190,6 +206,12 @@
     {
       "EntryName": "talk08",
       "NPC": "Furosa",
+      "Choices": [
+        0,
+        1,
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 172,

@@ -258,6 +258,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Kapson",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 169,
@@ -349,6 +353,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Kapson",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 249,
@@ -450,6 +458,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Kapson",
+      "Choices": [
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 337,
@@ -466,6 +478,12 @@
     {
       "EntryName": "talk21",
       "NPC": "Kapson",
+      "Choices": [
+        11,
+        12,
+        13,
+        14
+      ],
       "TextList": [
         {
           "Line": 358,

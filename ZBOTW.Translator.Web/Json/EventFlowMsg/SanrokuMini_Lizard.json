@@ -130,6 +130,10 @@
     {
       "EntryName": "NewText_05",
       "NPC": "Kima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 84,
@@ -185,6 +189,10 @@
     {
       "EntryName": "NewText_06",
       "NPC": "Kima",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 132,
@@ -288,6 +296,10 @@
     {
       "EntryName": "NewText_09",
       "NPC": "Kima",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 218,

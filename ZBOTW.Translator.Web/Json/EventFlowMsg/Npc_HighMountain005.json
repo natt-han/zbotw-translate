@@ -96,6 +96,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Saki",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -172,6 +176,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Saki",
+      "Choices": [
+        4,
+        5,
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 120,
@@ -253,6 +263,12 @@
     {
       "EntryName": "talk08",
       "NPC": "Saki",
+      "Choices": [
+        4,
+        5,
+        6,
+        1
+      ],
       "TextList": [
         {
           "Line": 192,

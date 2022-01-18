@@ -63,6 +63,11 @@
     },
     {
       "EntryName": "DiaryFirst",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 32,
@@ -73,6 +78,10 @@
     },
     {
       "EntryName": "Talk01",
+      "Choices": [
+        3,
+        5
+      ],
       "TextList": [
         {
           "Line": 50,
@@ -83,6 +92,11 @@
     },
     {
       "EntryName": "Talk02",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 67,
@@ -93,6 +107,11 @@
     },
     {
       "EntryName": "Talk03",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 85,
@@ -103,6 +122,11 @@
     },
     {
       "EntryName": "Talk04",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 103,
@@ -113,6 +137,11 @@
     },
     {
       "EntryName": "Talk05",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 121,
@@ -123,6 +152,10 @@
     },
     {
       "EntryName": "Talk06",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 139,
@@ -133,6 +166,10 @@
     },
     {
       "EntryName": "Talk07",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 156,
@@ -143,6 +180,11 @@
     },
     {
       "EntryName": "Talk08",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 173,
@@ -153,6 +195,11 @@
     },
     {
       "EntryName": "Talk09",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 191,
@@ -163,6 +210,10 @@
     },
     {
       "EntryName": "Talk10",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 209,

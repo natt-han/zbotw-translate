@@ -94,6 +94,10 @@
     {
       "EntryName": "ClerkAsk00",
       "NPC": "Claree",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -131,6 +135,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 90,
@@ -249,6 +257,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 193,
@@ -260,6 +273,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 211,
@@ -321,6 +338,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 265,
@@ -349,6 +370,10 @@
     {
       "EntryName": "Com_Talk_35",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 292,
@@ -372,6 +397,10 @@
     {
       "EntryName": "Com_Talk_60",
       "NPC": "Claree",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 320,
@@ -422,6 +451,11 @@
     {
       "EntryName": "FirstTalk00",
       "NPC": "Claree",
+      "Choices": [
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 368,
@@ -455,6 +489,11 @@
     {
       "EntryName": "FirstTalk01",
       "NPC": "Claree",
+      "Choices": [
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 400,
@@ -532,6 +571,11 @@
     {
       "EntryName": "Talk01",
       "NPC": "Claree",
+      "Choices": [
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 453,
@@ -565,6 +609,11 @@
     {
       "EntryName": "Talk06",
       "NPC": "Claree",
+      "Choices": [
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 485,
@@ -629,6 +678,11 @@
     {
       "EntryName": "Talk14",
       "NPC": "Claree",
+      "Choices": [
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 550,

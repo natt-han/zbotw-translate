@@ -256,6 +256,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Robbie",
+      "Choices": [
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 113,
@@ -465,6 +469,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Robbie",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 297,
@@ -487,6 +495,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Robbie",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 321,
@@ -503,6 +515,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Robbie",
+      "Choices": [
+        12,
+        13
+      ],
       "TextList": [
         {
           "Line": 342,
@@ -703,6 +719,12 @@
     {
       "EntryName": "talk15",
       "NPC": "Robbie",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 528,
@@ -1303,6 +1325,10 @@
     {
       "EntryName": "talk26",
       "NPC": "Robbie",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 1020,
@@ -1529,6 +1555,12 @@
     {
       "EntryName": "talk36",
       "NPC": "Robbie",
+      "Choices": [
+        8,
+        9,
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1204,

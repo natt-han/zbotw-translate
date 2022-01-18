@@ -118,6 +118,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Dugby",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 60,
@@ -151,6 +155,11 @@
     {
       "EntryName": "talk04",
       "NPC": "Dugby",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 104,
@@ -162,6 +171,11 @@
     {
       "EntryName": "talk05",
       "NPC": "Dugby",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 125,
@@ -364,6 +378,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Dugby",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 322,
@@ -375,6 +393,10 @@
     {
       "EntryName": "talk16",
       "NPC": "Dugby",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 342,
@@ -467,6 +489,10 @@
     {
       "EntryName": "talk21",
       "NPC": "Dugby",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 445,
@@ -494,6 +520,10 @@
     {
       "EntryName": "talk23",
       "NPC": "Dugby",
+      "Choices": [
+        1,
+        3
+      ],
       "TextList": [
         {
           "Line": 475,

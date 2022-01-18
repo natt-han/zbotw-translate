@@ -67,6 +67,10 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Jules",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 48,
@@ -200,6 +204,10 @@
     {
       "EntryName": "Talk_07",
       "NPC": "Jules",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 190,
@@ -371,6 +379,10 @@
     {
       "EntryName": "Talk_15",
       "NPC": "Jules",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -441,6 +453,10 @@
     {
       "EntryName": "Talk_18",
       "NPC": "Jules",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 419,
@@ -452,6 +468,10 @@
     {
       "EntryName": "Talk_19",
       "NPC": "Jules",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 436,

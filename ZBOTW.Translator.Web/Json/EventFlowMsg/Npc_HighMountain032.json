@@ -64,6 +64,11 @@
     {
       "EntryName": "Talk_000",
       "NPC": "Kotts",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 37,
@@ -166,6 +171,11 @@
     {
       "EntryName": "Talk_004",
       "NPC": "Kotts",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 127,
@@ -226,6 +236,11 @@
     {
       "EntryName": "Talk_100",
       "NPC": "Kotts",
+      "Choices": [
+        3,
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 183,

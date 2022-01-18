@@ -223,6 +223,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 101,
@@ -415,6 +419,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 254,
@@ -431,6 +440,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 276,
@@ -482,6 +495,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 317,
@@ -509,6 +526,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 349,
@@ -542,6 +563,10 @@
     },
     {
       "EntryName": "Com_Talk_60",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 386,
@@ -602,6 +627,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Rhondson",
+      "Choices": [
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 435,
@@ -624,6 +653,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Rhondson",
+      "Choices": [
+        9,
+        1
+      ],
       "TextList": [
         {
           "Line": 461,
@@ -651,6 +684,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Rhondson",
+      "Choices": [
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 489,
@@ -710,6 +747,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Rhondson",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 545,
@@ -791,6 +832,10 @@
     {
       "EntryName": "talk11",
       "NPC": "Rhondson",
+      "Choices": [
+        8,
+        1
+      ],
       "TextList": [
         {
           "Line": 619,
@@ -927,6 +972,10 @@
     {
       "EntryName": "talk19",
       "NPC": "Rhondson",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 752,
@@ -954,6 +1003,11 @@
     {
       "EntryName": "talk20",
       "NPC": "Rhondson",
+      "Choices": [
+        11,
+        12,
+        1
+      ],
       "TextList": [
         {
           "Line": 785,
@@ -1202,6 +1256,10 @@
     {
       "EntryName": "talk34",
       "NPC": "Rhondson",
+      "Choices": [
+        15,
+        16
+      ],
       "TextList": [
         {
           "Line": 999,
@@ -1315,6 +1373,10 @@
     {
       "EntryName": "talk42",
       "NPC": "Rhondson",
+      "Choices": [
+        0,
+        13
+      ],
       "TextList": [
         {
           "Line": 1092,
@@ -1438,6 +1500,10 @@
     {
       "EntryName": "talk50",
       "NPC": "Rhondson",
+      "Choices": [
+        17,
+        18
+      ],
       "TextList": [
         {
           "Line": 1215,
@@ -1494,6 +1560,10 @@
     {
       "EntryName": "talk54",
       "NPC": "Rhondson",
+      "Choices": [
+        17,
+        18
+      ],
       "TextList": [
         {
           "Line": 1278,

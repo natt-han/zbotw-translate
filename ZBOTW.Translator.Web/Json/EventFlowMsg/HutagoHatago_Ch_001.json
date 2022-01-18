@@ -203,6 +203,12 @@
     {
       "EntryName": "Talk_08",
       "NPC": "Rensa",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 149,
@@ -230,6 +236,10 @@
     {
       "EntryName": "Talk_10",
       "NPC": "Rensa",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 184,
@@ -323,6 +333,12 @@
     {
       "EntryName": "Talk_13",
       "NPC": "Rensa",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 285,
@@ -345,6 +361,10 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Rensa",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 313,
@@ -399,6 +419,12 @@
     {
       "EntryName": "Talk_19",
       "NPC": "Rensa",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 365,

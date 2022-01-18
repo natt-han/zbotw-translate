@@ -319,6 +319,11 @@
     {
       "EntryName": "Npc_oasis039_S1_001",
       "NPC": "Shabonne",
+      "Choices": [
+        8,
+        18,
+        9
+      ],
       "TextList": [
         {
           "Line": 252,
@@ -434,6 +439,11 @@
     {
       "EntryName": "Npc_oasis039_S1_100",
       "NPC": "Shabonne",
+      "Choices": [
+        8,
+        18,
+        9
+      ],
       "TextList": [
         {
           "Line": 343,
@@ -571,6 +581,10 @@
     {
       "EntryName": "Npc_oasis039_S2_005",
       "NPC": "Shabonne",
+      "Choices": [
+        19,
+        20
+      ],
       "TextList": [
         {
           "Line": 478,
@@ -631,6 +645,12 @@
     {
       "EntryName": "Talk_0005",
       "NPC": "Shabonne",
+      "Choices": [
+        10,
+        11,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 541,
@@ -765,6 +785,12 @@
     {
       "EntryName": "Talk_0009",
       "NPC": "Shabonne",
+      "Choices": [
+        10,
+        11,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 656,
@@ -925,6 +951,10 @@
     {
       "EntryName": "Talk_0015",
       "NPC": "Shabonne",
+      "Choices": [
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 793,
@@ -957,6 +987,10 @@
     {
       "EntryName": "Talk_0022",
       "NPC": "Shabonne",
+      "Choices": [
+        16,
+        17
+      ],
       "TextList": [
         {
           "Line": 831,
@@ -1081,6 +1115,12 @@
     {
       "EntryName": "Talk_0028",
       "NPC": "Shabonne",
+      "Choices": [
+        10,
+        11,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 936,
@@ -1161,6 +1201,12 @@
     {
       "EntryName": "Talk_0030",
       "NPC": "Shabonne",
+      "Choices": [
+        10,
+        23,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 1009,
@@ -1197,6 +1243,12 @@
     {
       "EntryName": "Talk_0031",
       "NPC": "Shabonne",
+      "Choices": [
+        10,
+        23,
+        21,
+        22
+      ],
       "TextList": [
         {
           "Line": 1052,

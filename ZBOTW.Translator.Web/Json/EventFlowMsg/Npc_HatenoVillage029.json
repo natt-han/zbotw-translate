@@ -160,6 +160,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Karin",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 100,

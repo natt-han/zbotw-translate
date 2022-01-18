@@ -402,6 +402,10 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Bozai",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 353,
@@ -712,6 +716,10 @@
     {
       "EntryName": "Talk_35",
       "NPC": "Bozai",
+      "Choices": [
+        8,
+        1
+      ],
       "TextList": [
         {
           "Line": 669,

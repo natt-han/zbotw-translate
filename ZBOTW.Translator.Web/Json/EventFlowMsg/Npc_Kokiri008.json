@@ -173,6 +173,10 @@
     {
       "EntryName": "Npc_Kokiri008_Talk500",
       "NPC": "Chio",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 144,

@@ -481,6 +481,12 @@
     {
       "EntryName": "talk05",
       "NPC": "Kaneli",
+      "Choices": [
+        4,
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 326,
@@ -571,6 +577,12 @@
     {
       "EntryName": "talk07",
       "NPC": "Kaneli",
+      "Choices": [
+        4,
+        5,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 411,
@@ -582,6 +594,10 @@
     {
       "EntryName": "talk09",
       "NPC": "Kaneli",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 430,
@@ -1033,6 +1049,10 @@
     {
       "EntryName": "talk21",
       "NPC": "Kaneli",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 800,
@@ -1082,6 +1102,10 @@
     {
       "EntryName": "talk26",
       "NPC": "Kaneli",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 849,
@@ -1350,6 +1374,12 @@
     {
       "EntryName": "talk34",
       "NPC": "Kaneli",
+      "Choices": [
+        8,
+        9,
+        11,
+        7
+      ],
       "TextList": [
         {
           "Line": 1059,
@@ -1506,6 +1536,12 @@
     {
       "EntryName": "talk40",
       "NPC": "Kaneli",
+      "Choices": [
+        8,
+        9,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1194,

@@ -198,6 +198,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Teebo",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 133,
@@ -225,6 +229,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Teebo",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 163,

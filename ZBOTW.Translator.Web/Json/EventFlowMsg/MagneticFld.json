@@ -104,6 +104,10 @@
     {
       "EntryName": "Sinjyu_Female_001",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -131,6 +135,10 @@
     {
       "EntryName": "Sinjyu_Female_002",
       "NPC": "Laine",
+      "Choices": [
+        10,
+        3
+      ],
       "TextList": [
         {
           "Line": 83,
@@ -163,6 +171,10 @@
     {
       "EntryName": "Sinjyu_Normal_001",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 117,
@@ -195,6 +207,10 @@
     {
       "EntryName": "Sinjyu_Normal_002",
       "NPC": "Laine",
+      "Choices": [
+        10,
+        3
+      ],
       "TextList": [
         {
           "Line": 153,
@@ -222,6 +238,10 @@
     {
       "EntryName": "Talk_000",
       "NPC": "Laine",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 183,
@@ -285,6 +305,10 @@
     {
       "EntryName": "Talk_001",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 242,
@@ -318,6 +342,10 @@
     {
       "EntryName": "Talk_004",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 277,
@@ -345,6 +373,10 @@
     {
       "EntryName": "Talk_005",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 307,
@@ -490,6 +522,10 @@
     {
       "EntryName": "Talk_013",
       "NPC": "Laine",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 450,
@@ -506,6 +542,10 @@
     {
       "EntryName": "Talk_014",
       "NPC": "Laine",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 473,
@@ -517,6 +557,10 @@
     {
       "EntryName": "Talk_015",
       "NPC": "Laine",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 490,
@@ -539,6 +583,11 @@
     {
       "EntryName": "Talk_016",
       "NPC": "Laine",
+      "Choices": [
+        6,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 514,
@@ -614,6 +663,10 @@
     {
       "EntryName": "Talk_019",
       "NPC": "Laine",
+      "Choices": [
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 589,
@@ -684,6 +737,10 @@
     {
       "EntryName": "Talk_021",
       "NPC": "Laine",
+      "Choices": [
+        8,
+        3
+      ],
       "TextList": [
         {
           "Line": 652,
@@ -761,6 +818,11 @@
     {
       "EntryName": "Talk_024",
       "NPC": "Laine",
+      "Choices": [
+        6,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 718,
@@ -815,6 +877,11 @@
     {
       "EntryName": "Talk_028",
       "NPC": "Laine",
+      "Choices": [
+        6,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 773,
@@ -864,6 +931,11 @@
     {
       "EntryName": "Talk_031",
       "NPC": "Laine",
+      "Choices": [
+        6,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 822,

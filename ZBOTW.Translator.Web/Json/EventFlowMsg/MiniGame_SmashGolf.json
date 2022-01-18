@@ -358,6 +358,10 @@
     {
       "EntryName": "AskGolf9",
       "NPC": "Modar",
+      "Choices": [
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 256,
@@ -401,6 +405,10 @@
     {
       "EntryName": "AskOneMore",
       "NPC": "Modar",
+      "Choices": [
+        20,
+        21
+      ],
       "TextList": [
         {
           "Line": 295,
@@ -422,6 +430,10 @@
     {
       "EntryName": "AskPay",
       "NPC": "Modar",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 320,
@@ -454,6 +466,11 @@
     {
       "EntryName": "AskPlay",
       "NPC": "Modar",
+      "Choices": [
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 352,
@@ -807,6 +824,10 @@
     {
       "EntryName": "GameTalk",
       "NPC": "Modar",
+      "Choices": [
+        13,
+        14
+      ],
       "TextList": [
         {
           "Line": 706,

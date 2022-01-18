@@ -66,6 +66,10 @@
     {
       "EntryName": "Talk_001",
       "NPC": "Sesami",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 37,
@@ -226,6 +230,10 @@
     {
       "EntryName": "Talk_004",
       "NPC": "Sesami",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 175,
@@ -312,6 +320,10 @@
     {
       "EntryName": "Talk_008",
       "NPC": "Sesami",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 249,
@@ -389,6 +401,10 @@
     {
       "EntryName": "Talk_010",
       "NPC": "Sesami",
+      "Choices": [
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 310,
@@ -432,6 +448,10 @@
     {
       "EntryName": "Talk_012",
       "NPC": "Sesami",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 349,
@@ -474,6 +494,10 @@
     {
       "EntryName": "Talk_013",
       "NPC": "Sesami",
+      "Choices": [
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 393,
@@ -738,6 +762,10 @@
     {
       "EntryName": "Talk_020",
       "NPC": "Sesami",
+      "Choices": [
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 605,
@@ -771,6 +799,11 @@
     {
       "EntryName": "Talk_022",
       "NPC": "Sesami",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 633,

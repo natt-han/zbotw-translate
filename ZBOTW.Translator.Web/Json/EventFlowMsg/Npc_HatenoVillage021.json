@@ -142,6 +142,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Sefaro",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 82,

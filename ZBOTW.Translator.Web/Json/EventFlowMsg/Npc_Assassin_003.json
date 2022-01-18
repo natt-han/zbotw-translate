@@ -118,6 +118,10 @@
     {
       "EntryName": "Talk01",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 111,
@@ -175,6 +179,10 @@
     {
       "EntryName": "Talk03",
       "NPC": "Traveler",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 167,
@@ -223,6 +231,10 @@
     {
       "EntryName": "Talk06",
       "NPC": "Traveler",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 214,

@@ -179,6 +179,10 @@
     {
       "EntryName": "talk08",
       "NPC": "Torfeau",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 127,
@@ -465,6 +469,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Torfeau",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 350,
@@ -631,6 +639,10 @@
     {
       "EntryName": "talk30",
       "NPC": "Torfeau",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 496,

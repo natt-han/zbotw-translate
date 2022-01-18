@@ -24,6 +24,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Strade",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 21,
@@ -89,6 +93,10 @@
     {
       "EntryName": "Talk_05",
       "NPC": "Strade",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 82,
@@ -228,6 +236,10 @@
     {
       "EntryName": "Talk_52",
       "NPC": "Strade",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 205,
@@ -270,6 +282,10 @@
     {
       "EntryName": "Talk_54",
       "NPC": "Strade",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 247,

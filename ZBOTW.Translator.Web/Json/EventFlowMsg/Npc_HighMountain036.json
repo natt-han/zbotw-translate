@@ -170,6 +170,10 @@
     {
       "EntryName": "Npc_HighMountain036_021",
       "NPC": "Amali",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 124,
@@ -348,6 +352,10 @@
     {
       "EntryName": "Npc_HighMountain036_223",
       "NPC": "Amali",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 281,

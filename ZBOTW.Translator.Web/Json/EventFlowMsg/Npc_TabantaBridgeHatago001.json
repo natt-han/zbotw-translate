@@ -202,6 +202,12 @@
     {
       "EntryName": "talk100",
       "NPC": "Banji",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 133,
@@ -386,6 +392,10 @@
     {
       "EntryName": "talk131",
       "NPC": "Banji",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 284,
@@ -434,6 +444,12 @@
     {
       "EntryName": "talk141",
       "NPC": "Banji",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 331,

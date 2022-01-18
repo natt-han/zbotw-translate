@@ -137,6 +137,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Traveler",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 110,
@@ -180,6 +184,10 @@
     {
       "EntryName": "Talk03",
       "NPC": "Traveler",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 153,
@@ -226,6 +234,10 @@
     {
       "EntryName": "Talk04",
       "NPC": "Traveler",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 201,
@@ -242,6 +254,10 @@
     {
       "EntryName": "Talk05",
       "NPC": "Traveler",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 222,
@@ -320,6 +336,10 @@
     {
       "EntryName": "Talk08",
       "NPC": "Traveler",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 295,

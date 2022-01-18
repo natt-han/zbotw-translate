@@ -162,6 +162,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Ashe",
+      "Choices": [
+        2,
+        3,
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 124,
@@ -405,6 +411,12 @@
     {
       "EntryName": "talk11",
       "NPC": "Ashe",
+      "Choices": [
+        2,
+        3,
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 329,

@@ -106,6 +106,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Tulin",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -174,6 +178,11 @@
     {
       "EntryName": "talk05",
       "NPC": "Tulin",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 140,
@@ -548,6 +557,10 @@
     {
       "EntryName": "talk19",
       "NPC": "Tulin",
+      "Choices": [
+        7,
+        9
+      ],
       "TextList": [
         {
           "Line": 454,

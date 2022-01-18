@@ -134,6 +134,11 @@
     {
       "EntryName": "Initial",
       "NPC": "Pondo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 65,
@@ -187,6 +192,11 @@
     {
       "EntryName": "Initial_00",
       "NPC": "Pondo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 113,
@@ -246,6 +256,10 @@
     {
       "EntryName": "area_out_00",
       "NPC": "Pondo",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 171,
@@ -357,6 +371,11 @@
     {
       "EntryName": "ask_again",
       "NPC": "Pondo",
+      "Choices": [
+        0,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 288,
@@ -378,6 +397,10 @@
     {
       "EntryName": "ask_payment",
       "NPC": "Pondo",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 314,
@@ -410,6 +433,10 @@
     {
       "EntryName": "break_00",
       "NPC": "Pondo",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -442,6 +469,10 @@
     {
       "EntryName": "break_02",
       "NPC": "Pondo",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 380,
@@ -817,6 +848,10 @@
     {
       "EntryName": "restart",
       "NPC": "Pondo",
+      "Choices": [
+        12,
+        4
+      ],
       "TextList": [
         {
           "Line": 718,

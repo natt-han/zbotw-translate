@@ -24,6 +24,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Makure",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 21,
@@ -236,6 +240,10 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Makure",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 247,

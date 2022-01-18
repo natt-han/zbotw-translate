@@ -986,6 +986,11 @@
     {
       "EntryName": "Npc_Goron006_Talk00",
       "NPC": "Bludo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 908,
@@ -1180,6 +1185,11 @@
     {
       "EntryName": "Npc_Goron006_Talk04",
       "NPC": "Bludo",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 1078,
@@ -1191,6 +1201,12 @@
     {
       "EntryName": "Npc_Goron006_Talk06",
       "NPC": "Bludo",
+      "Choices": [
+        0,
+        1,
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 1096,
@@ -1202,6 +1218,12 @@
     {
       "EntryName": "Npc_Goron006_Talk07",
       "NPC": "Bludo",
+      "Choices": [
+        0,
+        1,
+        3,
+        2
+      ],
       "TextList": [
         {
           "Line": 1115,
@@ -1213,6 +1235,12 @@
     {
       "EntryName": "Npc_Goron006_Talk08",
       "NPC": "Bludo",
+      "Choices": [
+        4,
+        5,
+        6,
+        2
+      ],
       "TextList": [
         {
           "Line": 1134,
@@ -1329,6 +1357,11 @@
     },
     {
       "EntryName": "Npc_Goron020_2_Talk01",
+      "Choices": [
+        7,
+        13,
+        8
+      ],
       "TextList": [
         {
           "Line": 1244,
@@ -1427,6 +1460,12 @@
     },
     {
       "EntryName": "Npc_Goron020_2_Talk04",
+      "Choices": [
+        7,
+        13,
+        9,
+        8
+      ],
       "TextList": [
         {
           "Line": 1338,
@@ -1437,6 +1476,12 @@
     },
     {
       "EntryName": "Npc_Goron020_2_Talk05",
+      "Choices": [
+        10,
+        11,
+        12,
+        8
+      ],
       "TextList": [
         {
           "Line": 1357,
@@ -1447,6 +1492,12 @@
     },
     {
       "EntryName": "Npc_Goron020_2_Talk06",
+      "Choices": [
+        7,
+        13,
+        9,
+        8
+      ],
       "TextList": [
         {
           "Line": 1376,
@@ -1494,6 +1545,11 @@
     },
     {
       "EntryName": "Npc_Goron020_2_Talk08",
+      "Choices": [
+        7,
+        13,
+        8
+      ],
       "TextList": [
         {
           "Line": 1424,

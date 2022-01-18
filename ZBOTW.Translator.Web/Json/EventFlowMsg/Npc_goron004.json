@@ -93,6 +93,10 @@
     },
     {
       "EntryName": "Com_Talk_01",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 49,
@@ -221,6 +225,11 @@
     {
       "EntryName": "Com_Talk_13",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5508,
+        5503
+      ],
       "TextList": [
         {
           "Line": 167,
@@ -232,6 +241,10 @@
     {
       "EntryName": "Com_Talk_14",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 180,
@@ -277,6 +290,10 @@
     {
       "EntryName": "Com_Talk_33",
       "NPC": "Rola",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 221,
@@ -304,6 +321,10 @@
     },
     {
       "EntryName": "Com_Talk_35",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -331,6 +352,10 @@
     },
     {
       "EntryName": "Com_Talk_60",
+      "Choices": [
+        5500,
+        5501
+      ],
       "TextList": [
         {
           "Line": 275,
@@ -375,6 +400,12 @@
     {
       "EntryName": "talk00",
       "NPC": "Rogaro",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 316,
@@ -402,6 +433,12 @@
     {
       "EntryName": "talk01",
       "NPC": "Rogaro",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 346,
@@ -462,6 +499,12 @@
     {
       "EntryName": "talk07",
       "NPC": "Rogaro",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 401,
@@ -647,6 +690,12 @@
     {
       "EntryName": "talk17",
       "NPC": "Rogaro",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 552,
@@ -712,6 +761,12 @@
     {
       "EntryName": "talk23",
       "NPC": "Rogaro",
+      "Choices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 615,

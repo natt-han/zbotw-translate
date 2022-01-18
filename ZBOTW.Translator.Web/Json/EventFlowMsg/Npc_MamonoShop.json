@@ -254,6 +254,12 @@
     {
       "EntryName": "talk00",
       "NPC": "Kilton",
+      "Choices": [
+        16,
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 113,
@@ -828,6 +834,10 @@
     {
       "EntryName": "talk13",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 569,
@@ -952,6 +962,12 @@
     {
       "EntryName": "talk17",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        18,
+        9
+      ],
       "TextList": [
         {
           "Line": 671,
@@ -968,6 +984,11 @@
     {
       "EntryName": "talk17B",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        9
+      ],
       "TextList": [
         {
           "Line": 694,
@@ -1033,6 +1054,12 @@
     {
       "EntryName": "talk20",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        18,
+        9
+      ],
       "TextList": [
         {
           "Line": 752,
@@ -1250,6 +1277,11 @@
     {
       "EntryName": "talk20B",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        9
+      ],
       "TextList": [
         {
           "Line": 941,
@@ -1327,6 +1359,11 @@
     {
       "EntryName": "talk23",
       "NPC": "Kilton",
+      "Choices": [
+        0,
+        27,
+        3
+      ],
       "TextList": [
         {
           "Line": 1014,
@@ -1344,6 +1381,10 @@
     {
       "EntryName": "talk24",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 1031,
@@ -1704,6 +1745,10 @@
     {
       "EntryName": "talk31",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1327,
@@ -1738,6 +1783,10 @@
     {
       "EntryName": "talk32",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1369,
@@ -1772,6 +1821,10 @@
     {
       "EntryName": "talk33",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1411,
@@ -1812,6 +1865,10 @@
     {
       "EntryName": "talk34",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 1462,
@@ -1862,6 +1919,12 @@
     {
       "EntryName": "talk37",
       "NPC": "Kilton",
+      "Choices": [
+        19,
+        20,
+        21,
+        3
+      ],
       "TextList": [
         {
           "Line": 1520,
@@ -1957,6 +2020,12 @@
     {
       "EntryName": "talk38",
       "NPC": "Kilton",
+      "Choices": [
+        19,
+        20,
+        21,
+        3
+      ],
       "TextList": [
         {
           "Line": 1603,
@@ -2178,6 +2247,10 @@
     {
       "EntryName": "talk43",
       "NPC": "Kilton",
+      "Choices": [
+        5,
+        11
+      ],
       "TextList": [
         {
           "Line": 1785,
@@ -2194,6 +2267,10 @@
     {
       "EntryName": "talk44",
       "NPC": "Kilton",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 1806,
@@ -2231,6 +2308,12 @@
     {
       "EntryName": "talk46",
       "NPC": "Kilton",
+      "Choices": [
+        12,
+        13,
+        14,
+        15
+      ],
       "TextList": [
         {
           "Line": 1844,
@@ -2571,6 +2654,11 @@
     {
       "EntryName": "talk68",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        28,
+        3
+      ],
       "TextList": [
         {
           "Line": 2140,
@@ -2582,6 +2670,10 @@
     {
       "EntryName": "talk69",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 2153,
@@ -2611,6 +2703,10 @@
     {
       "EntryName": "talk70",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 2181,
@@ -2634,6 +2730,10 @@
     {
       "EntryName": "talk71",
       "NPC": "Kilton",
+      "Choices": [
+        0,
+        3
+      ],
       "TextList": [
         {
           "Line": 2204,
@@ -3055,6 +3155,12 @@
     {
       "EntryName": "talk81",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        18,
+        9
+      ],
       "TextList": [
         {
           "Line": 2547,
@@ -3088,6 +3194,11 @@
     {
       "EntryName": "talk81B",
       "NPC": "Kilton",
+      "Choices": [
+        2,
+        0,
+        9
+      ],
       "TextList": [
         {
           "Line": 2580,
@@ -3121,6 +3232,11 @@
     {
       "EntryName": "talk82",
       "NPC": "Kilton",
+      "Choices": [
+        23,
+        24,
+        25
+      ],
       "TextList": [
         {
           "Line": 2612,
@@ -3304,6 +3420,10 @@
     {
       "EntryName": "talk91",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 2780,
@@ -3338,6 +3458,10 @@
     {
       "EntryName": "talk92",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        3
+      ],
       "TextList": [
         {
           "Line": 2817,
@@ -3388,6 +3512,10 @@
     {
       "EntryName": "talk94",
       "NPC": "Kilton",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 2867,

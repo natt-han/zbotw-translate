@@ -475,6 +475,10 @@
     {
       "EntryName": "Talk_1011",
       "NPC": "Damia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 381,
@@ -594,6 +598,10 @@
     {
       "EntryName": "Talk_1101",
       "NPC": "Damia",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 485,
@@ -621,6 +629,10 @@
     {
       "EntryName": "Talk_1102",
       "NPC": "Damia",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 513,

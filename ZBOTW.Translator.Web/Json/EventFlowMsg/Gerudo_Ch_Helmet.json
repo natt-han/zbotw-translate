@@ -113,6 +113,10 @@
     {
       "EntryName": "Talk02",
       "NPC": "Riju",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 84,
@@ -172,6 +176,10 @@
     {
       "EntryName": "Talk05",
       "NPC": "Riju",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 142,
@@ -284,6 +292,10 @@
     {
       "EntryName": "Talk10",
       "NPC": "Riju",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 247,
@@ -295,6 +307,10 @@
     {
       "EntryName": "Talk11",
       "NPC": "Riju",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 264,

@@ -136,6 +136,11 @@
     {
       "EntryName": "talk001",
       "NPC": "Quince",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 66,
@@ -152,6 +157,11 @@
     {
       "EntryName": "talk002",
       "NPC": "Quince",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 88,
@@ -209,6 +219,11 @@
     {
       "EntryName": "talk005",
       "NPC": "Quince",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 145,
@@ -230,6 +245,11 @@
     {
       "EntryName": "talk010",
       "NPC": "Quince",
+      "Choices": [
+        3,
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 171,
@@ -262,6 +282,10 @@
     {
       "EntryName": "talk020",
       "NPC": "Quince",
+      "Choices": [
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 206,
@@ -283,6 +307,10 @@
     {
       "EntryName": "talk030",
       "NPC": "Quince",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 231,
@@ -305,6 +333,10 @@
     {
       "EntryName": "talk040",
       "NPC": "Quince",
+      "Choices": [
+        5,
+        4
+      ],
       "TextList": [
         {
           "Line": 255,
@@ -369,6 +401,10 @@
     {
       "EntryName": "talk060",
       "NPC": "Quince",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 316,
@@ -391,6 +427,10 @@
     {
       "EntryName": "talk061",
       "NPC": "Quince",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 340,
@@ -418,6 +458,10 @@
     {
       "EntryName": "talk062",
       "NPC": "Quince",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 371,
@@ -434,6 +478,10 @@
     {
       "EntryName": "talk063",
       "NPC": "Quince",
+      "Choices": [
+        10,
+        9
+      ],
       "TextList": [
         {
           "Line": 392,
@@ -590,6 +638,10 @@
     {
       "EntryName": "talk065",
       "NPC": "Quince",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 516,

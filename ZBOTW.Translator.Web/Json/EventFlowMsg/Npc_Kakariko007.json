@@ -229,6 +229,10 @@
     {
       "EntryName": "Talk09",
       "NPC": "Dorian",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 173,
@@ -329,6 +333,10 @@
     {
       "EntryName": "Talk13",
       "NPC": "Dorian",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 270,
@@ -367,6 +375,10 @@
     {
       "EntryName": "Talk15",
       "NPC": "Dorian",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 309,
@@ -493,6 +505,10 @@
     {
       "EntryName": "Talk20",
       "NPC": "Dorian",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 410,

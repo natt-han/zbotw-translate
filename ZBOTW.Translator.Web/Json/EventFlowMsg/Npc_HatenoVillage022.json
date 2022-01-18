@@ -177,6 +177,10 @@
     {
       "EntryName": "talk01",
       "NPC": "Manny",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 89,
@@ -221,6 +225,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Manny",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 131,
@@ -243,6 +251,10 @@
     {
       "EntryName": "talk06",
       "NPC": "Manny",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 157,

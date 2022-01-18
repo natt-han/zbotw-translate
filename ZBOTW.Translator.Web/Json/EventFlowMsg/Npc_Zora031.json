@@ -134,6 +134,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Rivan",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 85,
@@ -286,6 +290,12 @@
     {
       "EntryName": "talk08",
       "NPC": "Rivan",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 219,
@@ -338,6 +348,12 @@
     {
       "EntryName": "talk09",
       "NPC": "Rivan",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 273,
@@ -606,6 +622,12 @@
     {
       "EntryName": "talk19",
       "NPC": "Rivan",
+      "Choices": [
+        5,
+        6,
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 487,

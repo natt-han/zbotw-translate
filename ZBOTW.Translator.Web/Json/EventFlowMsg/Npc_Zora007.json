@@ -220,6 +220,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Laruta",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 189,
@@ -430,6 +434,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Laruta",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 398,

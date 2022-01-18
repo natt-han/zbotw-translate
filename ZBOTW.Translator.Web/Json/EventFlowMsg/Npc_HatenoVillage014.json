@@ -243,6 +243,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Prima",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 149,
@@ -264,6 +270,12 @@
     {
       "EntryName": "talk05",
       "NPC": "Prima",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 176,
@@ -556,6 +568,11 @@
     {
       "EntryName": "talk25",
       "NPC": "Prima",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 550,

@@ -171,6 +171,10 @@
     {
       "EntryName": "Talk12",
       "NPC": "Garill",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 138,
@@ -193,6 +197,10 @@
     {
       "EntryName": "Talk13",
       "NPC": "Garill",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 157,
@@ -343,6 +351,10 @@
     {
       "EntryName": "Talk18",
       "NPC": "Garill",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 293,

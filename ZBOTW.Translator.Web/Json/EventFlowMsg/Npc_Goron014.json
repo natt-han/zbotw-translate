@@ -134,6 +134,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Bohrin",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 78,

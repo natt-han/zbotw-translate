@@ -180,6 +180,10 @@
     {
       "EntryName": "Talk00",
       "NPC": "Cado",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 96,
@@ -420,6 +424,10 @@
     {
       "EntryName": "Talk08",
       "NPC": "Cado",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 289,
@@ -509,6 +517,10 @@
     {
       "EntryName": "Talk13",
       "NPC": "Cado",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 374,
@@ -556,6 +568,11 @@
     {
       "EntryName": "Talk16",
       "NPC": "Cado",
+      "Choices": [
+        0,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 421,
@@ -790,6 +807,10 @@
     {
       "EntryName": "Talk28",
       "NPC": "Cado",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 649,
@@ -821,6 +842,10 @@
     {
       "EntryName": "Talk29",
       "NPC": "Cado",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 682,
@@ -883,6 +908,11 @@
     {
       "EntryName": "Talk31",
       "NPC": "Cado",
+      "Choices": [
+        0,
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 746,
@@ -937,6 +967,10 @@
     {
       "EntryName": "Talk_08",
       "NPC": "Cado",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 795,

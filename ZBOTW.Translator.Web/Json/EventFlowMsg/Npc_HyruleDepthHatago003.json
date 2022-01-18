@@ -181,6 +181,10 @@
     {
       "EntryName": "Answer02",
       "NPC": "Trott",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 107,
@@ -318,6 +322,12 @@
     {
       "EntryName": "Ask00",
       "NPC": "Trott",
+      "Choices": [
+        0,
+        1,
+        2,
+        1001
+      ],
       "TextList": [
         {
           "Line": 215,
@@ -329,6 +339,12 @@
     {
       "EntryName": "Ask01",
       "NPC": "Trott",
+      "Choices": [
+        0,
+        1,
+        2,
+        1001
+      ],
       "TextList": [
         {
           "Line": 234,
@@ -362,6 +378,10 @@
     {
       "EntryName": "Challenge02",
       "NPC": "Trott",
+      "Choices": [
+        2000,
+        2001
+      ],
       "TextList": [
         {
           "Line": 271,
@@ -552,6 +572,12 @@
     {
       "EntryName": "ChallengeAsk00",
       "NPC": "Trott",
+      "Choices": [
+        2002,
+        2003,
+        2004,
+        1001
+      ],
       "TextList": [
         {
           "Line": 432,
@@ -563,6 +589,12 @@
     {
       "EntryName": "ChallengeAsk01",
       "NPC": "Trott",
+      "Choices": [
+        2002,
+        2003,
+        2004,
+        1001
+      ],
       "TextList": [
         {
           "Line": 446,
@@ -585,6 +617,10 @@
     {
       "EntryName": "FirstTalk00",
       "NPC": "Trott",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 474,
@@ -596,6 +632,10 @@
     {
       "EntryName": "FirstTalk01",
       "NPC": "Trott",
+      "Choices": [
+        1002,
+        1001
+      ],
       "TextList": [
         {
           "Line": 491,

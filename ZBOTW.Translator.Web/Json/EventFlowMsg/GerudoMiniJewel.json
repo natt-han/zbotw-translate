@@ -115,6 +115,10 @@
     {
       "EntryName": "Talk_01",
       "NPC": "Isha",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 57,
@@ -126,6 +130,11 @@
     {
       "EntryName": "Talk_02",
       "NPC": "Isha",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 74,
@@ -188,6 +197,11 @@
     {
       "EntryName": "Talk_03",
       "NPC": "Isha",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 149,
@@ -204,6 +218,10 @@
     {
       "EntryName": "Talk_06",
       "NPC": "Isha",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 173,
@@ -387,6 +405,11 @@
     {
       "EntryName": "Talk_14",
       "NPC": "Isha",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 350,
@@ -425,6 +448,11 @@
     {
       "EntryName": "Talk_16",
       "NPC": "Isha",
+      "Choices": [
+        8,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 390,
@@ -501,6 +529,10 @@
     {
       "EntryName": "Talk_19",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 468,
@@ -529,6 +561,10 @@
     {
       "EntryName": "Talk_20",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 498,
@@ -557,6 +593,10 @@
     {
       "EntryName": "Talk_21",
       "NPC": "Isha",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 528,
@@ -585,6 +625,10 @@
     {
       "EntryName": "Talk_23",
       "NPC": "Isha",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 555,
@@ -714,6 +758,10 @@
     {
       "EntryName": "Talk_26",
       "NPC": "Isha",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 675,
@@ -757,6 +805,10 @@
     {
       "EntryName": "Talk_29",
       "NPC": "Isha",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 725,
@@ -822,6 +874,11 @@
     {
       "EntryName": "Talk_31",
       "NPC": "Isha",
+      "Choices": [
+        8,
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 784,
@@ -882,6 +939,10 @@
     {
       "EntryName": "Talk_32",
       "NPC": "Isha",
+      "Choices": [
+        8,
+        7
+      ],
       "TextList": [
         {
           "Line": 836,

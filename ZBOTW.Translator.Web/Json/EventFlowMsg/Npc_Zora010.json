@@ -121,6 +121,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Mei",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 87,
@@ -132,6 +136,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Mei",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 104,
@@ -154,6 +162,10 @@
     {
       "EntryName": "talk07",
       "NPC": "Mei",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 130,

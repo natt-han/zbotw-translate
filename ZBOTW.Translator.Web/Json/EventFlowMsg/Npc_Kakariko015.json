@@ -143,6 +143,10 @@
     {
       "EntryName": "Talk02",
       "NPC": "Nanna",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 96,
@@ -332,6 +336,10 @@
     {
       "EntryName": "Talk09",
       "NPC": "Nanna",
+      "Choices": [
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 257,
@@ -365,6 +373,10 @@
     {
       "EntryName": "Talk11",
       "NPC": "Nanna",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 290,
@@ -519,6 +531,10 @@
     {
       "EntryName": "Talk22",
       "NPC": "Nanna",
+      "Choices": [
+        8,
+        9
+      ],
       "TextList": [
         {
           "Line": 458,
@@ -599,6 +615,10 @@
     {
       "EntryName": "Talk25",
       "NPC": "Nanna",
+      "Choices": [
+        6,
+        7
+      ],
       "TextList": [
         {
           "Line": 531,

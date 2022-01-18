@@ -172,6 +172,10 @@
     {
       "EntryName": "Npc_Kokiri007_R_Talk000",
       "NPC": "Peeks",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 136,
@@ -230,6 +234,10 @@
     {
       "EntryName": "Npc_Kokiri007_R_Talk010",
       "NPC": "Peeks",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 193,

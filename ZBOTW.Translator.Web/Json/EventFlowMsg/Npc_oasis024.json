@@ -45,6 +45,10 @@
     {
       "EntryName": "Npc_oasis024_001",
       "NPC": "Dorrah",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -78,6 +82,10 @@
     {
       "EntryName": "Npc_oasis024_002",
       "NPC": "Dorrah",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 60,
@@ -127,6 +135,10 @@
     {
       "EntryName": "Npc_oasis024_003",
       "NPC": "Dorrah",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 104,
@@ -160,6 +172,10 @@
     {
       "EntryName": "Npc_oasis024_004",
       "NPC": "Dorrah",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 135,

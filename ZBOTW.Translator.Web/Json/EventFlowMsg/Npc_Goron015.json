@@ -241,6 +241,11 @@
     {
       "EntryName": "talk08",
       "NPC": "Axyl",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 170,
@@ -342,6 +347,11 @@
     {
       "EntryName": "talk12",
       "NPC": "Axyl",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 264,

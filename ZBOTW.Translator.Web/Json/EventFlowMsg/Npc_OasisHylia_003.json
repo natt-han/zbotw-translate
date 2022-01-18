@@ -35,6 +35,10 @@
     {
       "EntryName": "Talk_00",
       "NPC": "Tauma",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 25,
@@ -200,6 +204,10 @@
     {
       "EntryName": "Talk_04",
       "NPC": "Tauma",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 191,
@@ -211,6 +219,10 @@
     {
       "EntryName": "Talk_05",
       "NPC": "Tauma",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 208,

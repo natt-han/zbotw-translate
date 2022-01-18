@@ -78,6 +78,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Seldon",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 41,
@@ -544,6 +548,10 @@
     {
       "EntryName": "talk20",
       "NPC": "Seldon",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 456,

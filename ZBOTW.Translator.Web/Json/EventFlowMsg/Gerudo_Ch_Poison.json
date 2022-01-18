@@ -289,6 +289,10 @@
     {
       "EntryName": "Talk09",
       "NPC": "Calyban",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 204,
@@ -440,6 +444,10 @@
     {
       "EntryName": "Talk12",
       "NPC": "Calyban",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 332,
@@ -653,6 +661,11 @@
     {
       "EntryName": "Talk22",
       "NPC": "Calyban",
+      "Choices": [
+        8,
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 548,
@@ -741,6 +754,11 @@
     {
       "EntryName": "Talk27",
       "NPC": "Calyban",
+      "Choices": [
+        8,
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 623,
@@ -891,6 +909,10 @@
     {
       "EntryName": "oasis016_Talk09",
       "NPC": "Dalia",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 753,

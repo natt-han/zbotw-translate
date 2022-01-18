@@ -249,6 +249,11 @@
     {
       "EntryName": "Npc_Kokiri008_R_Talk000",
       "NPC": "Chio",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 189,
@@ -320,6 +325,11 @@
     {
       "EntryName": "Npc_Kokiri008_R_Talk010",
       "NPC": "Chio",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 248,
@@ -716,6 +726,10 @@
     {
       "EntryName": "Npc_Kokiri008_R_Talk580",
       "NPC": "Chio",
+      "Choices": [
+        0,
+        2
+      ],
       "TextList": [
         {
           "Line": 600,

@@ -77,6 +77,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Thadd",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 41,
@@ -302,6 +306,11 @@
     {
       "EntryName": "talk09",
       "NPC": "Thadd",
+      "Choices": [
+        2,
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 231,
@@ -313,6 +322,11 @@
     {
       "EntryName": "talk10",
       "NPC": "Thadd",
+      "Choices": [
+        2,
+        3,
+        1
+      ],
       "TextList": [
         {
           "Line": 249,
@@ -434,6 +448,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Thadd",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 368,

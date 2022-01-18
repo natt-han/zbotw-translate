@@ -116,6 +116,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Kodah",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 67,
@@ -607,6 +611,10 @@
     {
       "EntryName": "talk18",
       "NPC": "Kodah",
+      "Choices": [
+        10,
+        11
+      ],
       "TextList": [
         {
           "Line": 535,

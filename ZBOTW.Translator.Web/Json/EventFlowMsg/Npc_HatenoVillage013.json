@@ -123,6 +123,10 @@
     {
       "EntryName": "talk02",
       "NPC": "Tokk",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 74,
@@ -161,6 +165,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Tokk",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 113,

@@ -103,6 +103,10 @@
     },
     {
       "EntryName": "Appear01",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 53,
@@ -189,6 +193,10 @@
     },
     {
       "EntryName": "Appear07",
+      "Choices": [
+        2,
+        1
+      ],
       "TextList": [
         {
           "Line": 140,
@@ -281,6 +289,10 @@
     },
     {
       "EntryName": "Appear13",
+      "Choices": [
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 219,
@@ -374,6 +386,10 @@
     },
     {
       "EntryName": "Appear17",
+      "Choices": [
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 297,
@@ -636,6 +652,10 @@
     },
     {
       "EntryName": "Talk00",
+      "Choices": [
+        1000,
+        1001
+      ],
       "TextList": [
         {
           "Line": 505,
@@ -651,6 +671,10 @@
     },
     {
       "EntryName": "Talk01",
+      "Choices": [
+        1002,
+        1001
+      ],
       "TextList": [
         {
           "Line": 526,

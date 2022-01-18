@@ -44,6 +44,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Mimos",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 29,
@@ -117,6 +121,10 @@
     {
       "EntryName": "talk04",
       "NPC": "Mimos",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 123,

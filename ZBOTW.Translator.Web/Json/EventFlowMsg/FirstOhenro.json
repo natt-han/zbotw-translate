@@ -64,6 +64,10 @@
     {
       "EntryName": "Npc_Kokiri001_R_001",
       "NPC": "Tasho",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 37,
@@ -140,6 +144,10 @@
     {
       "EntryName": "Npc_Kokiri001_R_005",
       "NPC": "Tasho",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 105,
@@ -264,6 +272,10 @@
     {
       "EntryName": "Npc_Kokiri001_S1_004",
       "NPC": "Tasho",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 202,

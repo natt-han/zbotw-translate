@@ -115,6 +115,12 @@
     {
       "EntryName": "Talk00",
       "NPC": "Ollie",
+      "Choices": [
+        0,
+        1,
+        2,
+        9
+      ],
       "TextList": [
         {
           "Line": 57,
@@ -168,6 +174,12 @@
     {
       "EntryName": "Talk02",
       "NPC": "Ollie",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 111,
@@ -326,6 +338,10 @@
     {
       "EntryName": "Talk11",
       "NPC": "Ollie",
+      "Choices": [
+        7,
+        8
+      ],
       "TextList": [
         {
           "Line": 264,
@@ -508,6 +524,12 @@
     {
       "EntryName": "Talk18",
       "NPC": "Ollie",
+      "Choices": [
+        3,
+        4,
+        5,
+        6
+      ],
       "TextList": [
         {
           "Line": 425,

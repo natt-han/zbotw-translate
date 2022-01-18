@@ -156,6 +156,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Harth",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 76,
@@ -216,6 +220,10 @@
     {
       "EntryName": "talk03",
       "NPC": "Harth",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 132,
@@ -248,6 +256,12 @@
     {
       "EntryName": "talk04",
       "NPC": "Harth",
+      "Choices": [
+        8,
+        6,
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 166,
@@ -385,6 +399,12 @@
     {
       "EntryName": "talk07",
       "NPC": "Harth",
+      "Choices": [
+        8,
+        6,
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 298,
@@ -609,6 +629,12 @@
     {
       "EntryName": "talk16",
       "NPC": "Harth",
+      "Choices": [
+        8,
+        6,
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 494,
@@ -792,6 +818,12 @@
     {
       "EntryName": "talk26",
       "NPC": "Harth",
+      "Choices": [
+        8,
+        6,
+        7,
+        3
+      ],
       "TextList": [
         {
           "Line": 699,
@@ -950,6 +982,10 @@
     {
       "EntryName": "talk53",
       "NPC": "Harth",
+      "Choices": [
+        4,
+        5
+      ],
       "TextList": [
         {
           "Line": 834,
@@ -1047,6 +1083,10 @@
     {
       "EntryName": "talk58",
       "NPC": "Harth",
+      "Choices": [
+        9,
+        10
+      ],
       "TextList": [
         {
           "Line": 919,

@@ -55,6 +55,11 @@
     {
       "EntryName": "talk00",
       "NPC": "Volcon",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 38,
@@ -217,6 +222,11 @@
     {
       "EntryName": "talk09",
       "NPC": "Volcon",
+      "Choices": [
+        0,
+        1,
+        2
+      ],
       "TextList": [
         {
           "Line": 184,

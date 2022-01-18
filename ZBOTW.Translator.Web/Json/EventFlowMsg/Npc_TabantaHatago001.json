@@ -54,6 +54,10 @@
     {
       "EntryName": "talk_00",
       "NPC": "Monkton",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 33,
@@ -145,6 +149,11 @@
     {
       "EntryName": "talk_06",
       "NPC": "Monkton",
+      "Choices": [
+        2,
+        3,
+        4
+      ],
       "TextList": [
         {
           "Line": 121,

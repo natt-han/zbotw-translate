@@ -159,6 +159,10 @@
     {
       "EntryName": "talk00",
       "NPC": "Laflat",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 107,
@@ -272,6 +276,10 @@
     {
       "EntryName": "talk05",
       "NPC": "Laflat",
+      "Choices": [
+        2,
+        3
+      ],
       "TextList": [
         {
           "Line": 201,
@@ -413,6 +421,10 @@
     {
       "EntryName": "talk15",
       "NPC": "Laflat",
+      "Choices": [
+        4,
+        1
+      ],
       "TextList": [
         {
           "Line": 323,
@@ -435,6 +447,10 @@
     {
       "EntryName": "talk17",
       "NPC": "Laflat",
+      "Choices": [
+        0,
+        1
+      ],
       "TextList": [
         {
           "Line": 349,
