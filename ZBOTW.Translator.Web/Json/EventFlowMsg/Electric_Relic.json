@@ -496,18 +496,18 @@
         {
           "Line": 331,
           "OriginalText": "heirloom ",
-          "TranslatedText": "มรดกมรดก ",
+          "TranslatedText": "มรดก",
           "Colour": "blue"
         },
         {
           "Line": 334,
           "OriginalText": "was stolen!\n",
-          "TranslatedText": "ขโมยอะไร!\n"
+          "TranslatedText": "อะไรถูกขโมยไป"
         },
         {
           "Line": 338,
           "OriginalText": "This is probably the most discouraging\nevent this town has ever seen...\nI believe that Lady Urbosa and our other\nancestors must be looking down on us\nwith such shame right now.\nI wonder if my people can tell just how\npowerless their young ruler truly is...",
-          "TranslatedText": "นี่เป็นเหตุการณ์ที่น่าท้อแท้\nที่สุดในเมืองนี้เคยเห็น...\nฉันเชื่อว่าเลดี้อูร์โบซ่า \nและบรรพบุรุษคนอื่นๆของเรา \nต้องดูถูกเราด้วยความอับอายในตอนนี้\nฉันสงสัยว่าคนของฉันจะบอกได้ไหมว่า \nผู้ปกครองหนุ่มของพวกเขาไร้พลังแค่ไหน..."
+          "TranslatedText": "นี่เป็นเหตุการณ์ที่น่าอับอาย\nที่สุดในเมืองนี้เคยเจอ...\nฉันเชื่อว่าเลดี้อูร์โบซ่า \nและบรรพบุรุษคนอื่นๆของเรา \nต้องดูถูกเราด้วยความอับอายในครั้งนี้\nฉันสงสัยว่าคนของฉันจะบอกได้ไหมว่า \nผู้ปกครองหนุ่มของพวกเขาไร้พลังแค่ไหน..."
         }
       ]
     },
@@ -810,7 +810,7 @@
         {
           "Line": 613,
           "OriginalText": "What\u0027s wrong? You\u0027re just staring...",
-          "TranslatedText": "เป็นอะไรไป? คุณแค่จ้องมอง..."
+          "TranslatedText": "เป็นอะไรไป? คุณกำลังมอง..."
         },
         {
           "Line": 617,
@@ -2871,5 +2871,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }
