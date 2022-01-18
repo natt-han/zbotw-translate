@@ -1,6 +1,29 @@
 ﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css" integrity="sha512-6S2HWzVFxruDlZxI3sXOZZ4/eJ8AcxkQH1+JjSe/ONCEqR9L4Ysq5JdT5ipqtzU7WHalNwzwBv+iE51gNHJNqQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/regular.css" />
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/fontawesome.css" integrity="sha384-eHoocPgXsiuZh+Yy6+7DsKAerLXyJmu2Hadh4QYyt+8v86geixVYwFqUvMU8X90l" crossorigin="anonymous"/>
+<style type="text/css" media="screen and (max-width:745px)">
+    .text-control{
+        width: 300px;
+    }
+    .preview {
+        width: 300px;
+    }
+    .main-col{
+        min-width:670px
+    }
+</style>
+<style type="text/css" media="screen and (min-width:746px)">
+    .text-control{
+        width: 330px;
+    }
+    .preview {
+        width: 330px;
+    }
+    .main-col{
+        min-width:730px
+    }
+</style>
+
 <style>
 td{
    vertical-align:top; 
@@ -15,15 +38,11 @@ textarea {
     overflow-wrap: normal;
     /*overflow-x: scroll;*/
 }
-.text-control{
-    width:330px;
-}
 .preview {
-    width: 330px;
     border: solid orange 1px;
     font-family: inherit;
-    font-size: inherit;
-    padding: 2px;
+    font-size: .875rem;
+    padding: 4px 8px;
 }
 .list-group-item{
     padding: 0.2em 0.5em;
@@ -37,8 +56,8 @@ textarea {
 </style>
 <div id="main-div">
     
-    <div class="row">        
-        <div id="col-filelist" class="col-auto d-none d-lg-block" style="overflow-x:hidden; font-size:.7em;height:100vh;">
+    <div class="row gx-2">        
+        <div id="col-filelist" class="col-auto d-none d-xl-block" style="overflow-x:hidden; font-size:.7em;height:100vh;">
             <input type="text" v-model="fileNameFilter" class="form-control form-control-sm" />
             <div class="btn-group btn-group-sm" role="group" aria-label="">
               <button type="button" class="btn btn-outline-secondary" v-bind:class="{active:fileGroupFilter==''}" v-on:click="selectGroup('')">All</button>              
@@ -49,7 +68,7 @@ textarea {
               <button v-for="file in filteredFileList" class="list-group-item list-group-item-action" v-bind:class="{active:selectedFile.fileName==file.fileName,'list-group-item-success':(file.isCompleted || file.translatedText==file.text),'list-group-item-warning':(!file.isCompleted && file.translatedText>0)}" v-on:click="select(file)" >{{file.fileName}} <span v-if="file.isCompleted==false&&file.translatedText<file.text">({{file.translatedText}}/{{file.text}})</span></button>
             </div>
         </div>
-        <div class="col-sm-12 d-lg-none">
+        <div class="col-sm-12 d-xl-none">
             <button type="button" class="btn btn-sm btn-outline-dark" onclick="ShowFileList()">Change file</button>            
         </div>
         <div class="col">
@@ -74,40 +93,46 @@ textarea {
                 <table id="main-table" class="table" style="transform-origin: top left;">
                 <tbody >
                     <tr v-for="item in messageTable.entryList">
-                        <td class="entry-name d-none d-xl-table-cell">
-                            <span class="text-break">{{item.entryName}}</span>
-                            <span v-if="item.npc">({{item.npc}})</span>
-                            <i v-if="item.choices" class="far fa-info-circle" v-bind:title="getChoices(item.choices)"></i>
-                        </td>
-                        <td style="min-width:730px">
-                            <span class="d-xl-none fw-bold">
-                                {{item.entryName}} <span v-if="item.npc">({{item.npc}})</span>
-                            </span>
-                            <div v-for="text in item.textList" class="row gx-2">                                
-                                <div class="col-auto">
-                                    <div class="input-group input-group-sm text-control">
-                                        <span v-if="text.variable" class="input-group-text" v-bind:title="text.variable">@@</span>
-                                        <textarea type="text" class="form-control" v-bind:id="'txt-translated-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
+                        <td>
+                            <div class="row gx-2">
+                                <div class="col-xl-6 col-xxl-3 col-sm-12">
+                                    <span class="text-break fw-bold">
+                                        {{item.entryName}} <span v-if="item.npc">({{item.npc}})</span>
+                                        <a v-if="item.choices" data-bs-toggle="collapse" v-bind:href="'#choice-'+item.entryName">
+                                            <i  class="far fa-info-circle"></i>
+                                        </a>
+                                                                                
+                                    </span>
+                                    <div v-if="item.choices" class="collapse" v-bind:id="'choice-'+item.entryName"><pre>{{getChoices(item.choices)}}</pre></div>
+                                </div>
+                                <div class="col main-col">
+                                    <div v-for="text in item.textList" class="row gx-2">                                
+                                        <div class="col-auto">
+                                            <div class="input-group input-group-sm text-control">
+                                                <span v-if="text.variable" class="input-group-text" v-bind:title="text.variable">@@</span>
+                                                <textarea type="text" class="form-control" v-bind:id="'txt-translated-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" v-model="text.translatedText" ></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-auto">
+                                            <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
+                                        </div>
+                                        <div class="col-auto">
+                                            <textarea type="text" class="text-control form-control form-control-sm" v-bind:id="'txt-original-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" readonly tabindex="-1">{{text.variable?'['+text.variable+']':''}}{{text.originalText}}</textarea>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-auto">
-                                    <button type="button" class="btn btn-sm btn-outline-dark" v-on:click="copyOrigin(text)" tabindex="-1"><i class="far fa-copy"></i></button>
-                                </div>
-                                <div class="col-auto">
-                                    <textarea type="text" class="text-control form-control form-control-sm" v-bind:id="'txt-original-'+text.line" v-bind:style="text.colour?'color:'+text.colour:''" readonly tabindex="-1">{{text.variable?'['+text.variable+']':''}}{{text.originalText}}</textarea>
-                                </div>
-                            </div>
-                            <div v-if="item.textList.length>1" class="row gx-2">                                
-                                <div class="col-auto">
-                                    Preview
-                                    <pre class="preview"><span v-for="text in item.textList" v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.translatedText}}</span></pre>
-                                </div>
-                                <div class="col-auto">
-                                    <div style="width:30.25px"></div>
-                                </div>
-                                <div class="col-auto">
-                                    Preview
-                                    <pre class="preview"><span v-for="text in item.textList"  v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.originalText}}</span></pre>
+                                    <div v-if="item.textList.length>1" class="row gx-2">                                
+                                        <div class="col-auto">
+                                            Preview
+                                            <pre class="preview"><span v-for="text in item.textList" v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.translatedText}}</span></pre>
+                                        </div>
+                                        <div class="col-auto">
+                                            <div style="width:30.25px"></div>
+                                        </div>
+                                        <div class="col-auto">
+                                            Preview
+                                            <pre class="preview"><span v-for="text in item.textList"  v-bind:style="text.colour?'color:'+text.colour:''"><span v-if="text.variable">[{{text.variable}}]</span>{{text.originalText}}</span></pre>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </td>
@@ -128,6 +153,8 @@ textarea {
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
 <script>
     var isChanged = false;
+    var lsSelectedFile = localStorage.getItem('selectedFile');
+    var lsFileGroup = localStorage.getItem('fileGroup') ?? "Incompleted";
     window.onbeforeunload = function () {
         if (isChanged) {
             return true
@@ -143,7 +170,7 @@ textarea {
             fileList:[],
             selectedFile:{},
             fileNameFilter:"",
-            fileGroupFilter:"Incompleted",
+            fileGroupFilter:lsFileGroup,
             messageTable:{
                 fileName:"",
                 entryList:[]
@@ -186,10 +213,18 @@ textarea {
             },
             selectGroup(group){
                 this.fileGroupFilter = group;
+                localStorage.setItem('fileGroup',group);
             },
             select(file){
+                if (isChanged) {
+                    if(!confirm("Change file?\nChanges you made may not be saved.")){
+                        $("#col-filelist").addClass("d-none");
+                        return;
+                    }
+                }
                 this.selectedFile=file;
                 this.getMessageTable(file.fileName);
+                localStorage.setItem('selectedFile',file.fileName);
                 $("#col-filelist").addClass("d-none");
             },
             getMessageTable:function(fileName){
@@ -252,7 +287,16 @@ textarea {
             .done(function(result){
                 v.fileList = result.files;
                 v.progress = result.progress;
-                v.select(v.filteredFileList[0]);
+                if(lsSelectedFile){
+                    var selectedFile = v.fileList.filter(x=>x.fileName==lsSelectedFile);
+                    if(selectedFile && selectedFile[0]){
+                        v.select(selectedFile[0]);
+                    }else{
+                        v.select(v.filteredFileList[0]);
+                    }                    
+                }else{
+                    v.select(v.filteredFileList[0]);
+                }
                 v.updateProgress();
             });
         }
@@ -277,17 +321,8 @@ textarea {
     if(!fit){
         elm.style.transform='scale('+Math.min(elm.clientWidth/window.innerWidth,elm.clientHeight/window.innerHeight)+')';
     }else{
-        elm.style.transform='scale('+(window.innerWidth/745)+')';
+        elm.style.transform='scale('+(window.innerWidth/715)+')';
     }
 }
-    //function getMessageTable(fileName){
-    //    $.ajax({
-    //        url:"@Url.Action("GetMessageTable")",
-    //        data:{fileName:fileName},
-    //        dataType:"application/json"
-    //    }).done(function(result){
-    //        return result;
-    //    });
-    //}
 </script>
 }
