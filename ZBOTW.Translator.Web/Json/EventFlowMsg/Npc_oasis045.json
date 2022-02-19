@@ -7,7 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Can I sell to you?",
-          "TranslatedText": null
+          "TranslatedText": "ฉันขายให้คุณได้ไหม?"
         }
       ]
     },
@@ -17,7 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null
+          "TranslatedText": "ลาก่อน"
         }
       ]
     },
@@ -27,7 +27,7 @@
         {
           "Line": 16,
           "OriginalText": "Yes.",
-          "TranslatedText": null
+          "TranslatedText": "ใช่"
         }
       ]
     },
@@ -37,7 +37,7 @@
         {
           "Line": 20,
           "OriginalText": "Never mind.",
-          "TranslatedText": null
+          "TranslatedText": "ไม่เป็นไร"
         }
       ]
     },
@@ -47,7 +47,7 @@
         {
           "Line": 24,
           "OriginalText": "I wanna buy.",
-          "TranslatedText": null
+          "TranslatedText": "ฉันอยากซื้อ"
         }
       ]
     },
@@ -57,7 +57,7 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": null
+          "TranslatedText": "ไม่เป็นไร"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "Line": 32,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": null
+          "TranslatedText": "ทั้งหมดเลย"
         }
       ]
     },
@@ -77,7 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "All of them.",
-          "TranslatedText": null
+          "TranslatedText": "ทั้งหมดเลย"
         }
       ]
     },
@@ -87,7 +87,7 @@
         {
           "Line": 45,
           "OriginalText": "What do you want to sell?",
-          "TranslatedText": null
+          "TranslatedText": "คุณอยากขายอะไรล่ะ?"
         }
       ]
     },
@@ -101,19 +101,19 @@
         {
           "Line": 54,
           "OriginalText": "All right... I\u0027ll buy it from\nyou for ",
-          "TranslatedText": null
+          "TranslatedText": "ได้เลย...ฉันจะซื้อเป็นเงิน "
         },
         {
           "Line": 62,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 65,
           "OriginalText": ".",
-          "TranslatedText": null
+          "TranslatedText": " "
         }
       ]
     },
@@ -123,12 +123,12 @@
         {
           "Line": 82,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 86,
           "OriginalText": " Those rupees are mine now.",
-          "TranslatedText": null
+          "TranslatedText": " รูปีพวกนั้นเป็นของฉันแล้ว"
         }
       ]
     },
@@ -138,7 +138,7 @@
         {
           "Line": 95,
           "OriginalText": "Sarqso!",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso!"
         }
       ]
     },
@@ -148,12 +148,12 @@
         {
           "Line": 104,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 108,
           "OriginalText": " My kid will love this. Thanks!",
-          "TranslatedText": null
+          "TranslatedText": " ลูกฉันต้องชอบแน่ ขอบคุณนะ!"
         }
       ]
     },
@@ -163,7 +163,7 @@
         {
           "Line": 117,
           "OriginalText": "Sarqso. Today must be my lucky day\nfor me to get my hands on something\nlike this!",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso วันนี้ฉันโชคดีจังที่ได้ของพวกนี้!"
         }
       ]
     },
@@ -173,7 +173,7 @@
         {
           "Line": 126,
           "OriginalText": "Well, there\u0027s no hurry.",
-          "TranslatedText": null
+          "TranslatedText": "ไม่เป็นไร ไม่รีบ"
         }
       ]
     },
@@ -183,7 +183,7 @@
         {
           "Line": 135,
           "OriginalText": "Are you done?",
-          "TranslatedText": null
+          "TranslatedText": "เสร็จหรือยัง?"
         }
       ]
     },
@@ -193,7 +193,7 @@
         {
           "Line": 139,
           "OriginalText": "Go ahead and show me what else you\nhave! There\u0027s no harm in me taking a\nlook, at least.",
-          "TranslatedText": null
+          "TranslatedText": "เอาให้ฉันดูเลยว่ามีอะไรมาขาย!\nลองดูหน่อยก็ไม่มีอะไรเสียหายอยู่แล้ว"
         }
       ]
     },
@@ -203,7 +203,7 @@
         {
           "Line": 143,
           "OriginalText": "You seem to have more things that my\nkid will like.",
-          "TranslatedText": null
+          "TranslatedText": "คุณมีของที่ลูกฉันน่าจะชอบเยอะนะ"
         }
       ]
     },
@@ -213,7 +213,7 @@
         {
           "Line": 147,
           "OriginalText": "I can never get enough items from the\noutside world. I\u0027ll buy whatever you\u0027ve\ngot.",
-          "TranslatedText": null
+          "TranslatedText": "ฉันไม่เคยเบื่อของจากแดนอื่นเลย\nฉันจะซื้อทุกอย่างที่คุณมี"
         }
       ]
     },
@@ -223,7 +223,7 @@
         {
           "Line": 156,
           "OriginalText": "Haggling is not permitted in this town.\nIf you need money, maybe try selling\nore or something?",
-          "TranslatedText": null
+          "TranslatedText": "เมืองนี้ไม่อนุญาตให้ต่อราคานะ\nถ้าต้องการเงินละก็ ลองขายแร่หรืออย่างอื่น\nดูไหมล่ะ?"
         }
       ]
     },
@@ -233,7 +233,7 @@
         {
           "Line": 165,
           "OriginalText": "Oh, but you don\u0027t have anywhere to put\nthis! Make space in your inventory, and\ncome back.",
-          "TranslatedText": null
+          "TranslatedText": "โอ้ แต่คุณไม่มีที่เก็บแล้วนะ!\nไปหาที่ว่างในช่องเก็บของมาก่อน\nแล้วกลับมาใหม่"
         }
       ]
     },
@@ -249,7 +249,7 @@
         {
           "Line": 174,
           "OriginalText": "All right. How many do you want to sell?",
-          "TranslatedText": null
+          "TranslatedText": "ได้สิ อยากขายเท่าไหร่ล่ะ?"
         }
       ]
     },
@@ -269,20 +269,20 @@
         {
           "Line": 197,
           "OriginalText": " of them would be ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้น ก็จะเป็น",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 205,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 208,
           "OriginalText": ".\nHow\u0027s that sound?",
-          "TranslatedText": null
+          "TranslatedText": "\nฟังดูเป็นไง?"
         }
       ]
     },
@@ -293,7 +293,7 @@
         {
           "Line": 225,
           "OriginalText": "I can\u0027t buy that from you...\nMaybe try some other place.",
-          "TranslatedText": null
+          "TranslatedText": "ฉันซื้อมันไม่ได้...\nบางที่อาจจะลองไปร้านอื่นดูนะ"
         }
       ]
     },
@@ -304,7 +304,7 @@
         {
           "Line": 234,
           "OriginalText": "Is it a Hylian custom to sell the clothes\nthat you\u0027re wearing? Unfortunately, that\nisn\u0027t really a thing here...",
-          "TranslatedText": null
+          "TranslatedText": "เป็นธรรมเนียมของชาว Hylian เหรอ\nที่ต้องสวมชุดที่จะขายไว้เนี่ย?\nเสียใจนะ ที่นี่เราไม่ได้ทำกันแบบนะ..."
         }
       ]
     },
@@ -320,7 +320,7 @@
         {
           "Line": 238,
           "OriginalText": "Sounds good. How many do you want?",
-          "TranslatedText": null
+          "TranslatedText": "ได้สิ ต้องการเท่าไหร่ล่ะ?"
         }
       ]
     },
@@ -335,24 +335,24 @@
         {
           "Line": 256,
           "OriginalText": "Just one?",
-          "TranslatedText": null
+          "TranslatedText": "ชิ้นเดียวเหรอ?"
         },
         {
           "Line": 260,
           "OriginalText": " In that case, it\u0027ll\nbe ",
-          "TranslatedText": null
+          "TranslatedText": " ถ้างั้นก็จะเป็น\n"
         },
         {
           "Line": 268,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 271,
           "OriginalText": ", OK?",
-          "TranslatedText": null
+          "TranslatedText": " ตกลงไหม?"
         }
       ]
     },
@@ -367,30 +367,30 @@
         {
           "Line": 283,
           "OriginalText": "Oh? All of them?",
-          "TranslatedText": null
+          "TranslatedText": "โอ้? ทั้งหมดเลยเหรอ"
         },
         {
           "Line": 287,
           "OriginalText": "\nThere\u0027s ",
-          "TranslatedText": null
+          "TranslatedText": "\nมีอยู่ "
         },
         {
           "Line": 292,
           "OriginalText": ", so it\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": " งั้นก็จะเป็น ",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 303,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 306,
           "OriginalText": ".\nThat OK?",
-          "TranslatedText": null
+          "TranslatedText": "\nโอเคไหม?"
         }
       ]
     },
@@ -405,18 +405,18 @@
         {
           "Line": 318,
           "OriginalText": "Oh, all ",
-          "TranslatedText": null
+          "TranslatedText": "โอ้ หมดทั้ง"
         },
         {
           "Line": 323,
           "OriginalText": " of them?\nI\u0027ll buy them for ",
-          "TranslatedText": null,
+          "TranslatedText": " เลยงั้นเหรอ\nฉันจะให้",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 331,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
@@ -437,19 +437,19 @@
         {
           "Line": 351,
           "OriginalText": "That\u0027ll be ",
-          "TranslatedText": null
+          "TranslatedText": "นั่นจะเป็น"
         },
         {
           "Line": 359,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 362,
           "OriginalText": ". Is that OK?",
-          "TranslatedText": null
+          "TranslatedText": " โอเคไหม?"
         }
       ]
     },
@@ -464,7 +464,7 @@
         {
           "Line": 379,
           "OriginalText": "And how many?",
-          "TranslatedText": null
+          "TranslatedText": "เท่าไหร่ล่ะ"
         }
       ]
     },
@@ -483,20 +483,20 @@
         {
           "Line": 402,
           "OriginalText": " of them? Altogether,\nit\u0027ll come to ",
-          "TranslatedText": null,
+          "TranslatedText": " งั้นเหรอ?\nรวมแล้วก็จะเป็น",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 410,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 413,
           "OriginalText": ", OK?",
-          "TranslatedText": null
+          "TranslatedText": " โอเคไหม?"
         }
       ]
     },
@@ -506,7 +506,7 @@
         {
           "Line": 430,
           "OriginalText": "Oh, did you change your mind?\nThat\u0027s too bad.",
-          "TranslatedText": null
+          "TranslatedText": "เปลี่ยนใจงั้นเหรอ?\nแย่จังนะ"
         }
       ]
     },
@@ -516,7 +516,7 @@
         {
           "Line": 439,
           "OriginalText": "Haggling is not permitted in this town.\nIf you need money, maybe try selling\nore or something?",
-          "TranslatedText": null
+          "TranslatedText": "เมืองนี้ไม่อนุญาตให้ต่อราคานะ\nถ้าต้องการเงินละก็ ลองขายแร่หรืออย่างอื่น\nดูไหมล่ะ?"
         }
       ]
     },
@@ -526,7 +526,7 @@
         {
           "Line": 448,
           "OriginalText": "Oh, you\u0027re carrying too much stuff. Sell\nor throw some of it away, and come back.",
-          "TranslatedText": null
+          "TranslatedText": "โอ้ คุณพกของไว้เยอะเกินไปนะ \nขายหรือโยนทิ้งไปบ้าง แล้วค่อยกลับมาใหม่นะ"
         }
       ]
     },
@@ -541,19 +541,19 @@
         {
           "Line": 457,
           "OriginalText": "Just one, right? That will\nbe ",
-          "TranslatedText": null
+          "TranslatedText": "ชิ้นเดียวใช่ไหม? งั้นก็จะเป็น\n"
         },
         {
           "Line": 465,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 468,
           "OriginalText": ".",
-          "TranslatedText": null
+          "TranslatedText": " "
         }
       ]
     },
@@ -564,7 +564,7 @@
         {
           "Line": 480,
           "OriginalText": "They\u0027re ready for eating...",
-          "TranslatedText": null
+          "TranslatedText": "สุกพร้อมทานเลย..."
         }
       ]
     },
@@ -575,7 +575,7 @@
         {
           "Line": 484,
           "OriginalText": "I\u0027m all sold out...",
-          "TranslatedText": null
+          "TranslatedText": "ฉันขายหมดแล้ว..."
         }
       ]
     },
@@ -590,12 +590,12 @@
         {
           "Line": 493,
           "OriginalText": "Vasaaq.",
-          "TranslatedText": null
+          "TranslatedText": "Vasaaq"
         },
         {
           "Line": 497,
           "OriginalText": "\nOur fruit here is fresh and juicy, just how\neveryone likes it!",
-          "TranslatedText": null
+          "TranslatedText": "\nผลไม้ของเรานั้นทั้งสดและฉ่ำ \nแบบที่ทุกคนชอบเลย!"
         }
       ]
     },
@@ -610,12 +610,12 @@
         {
           "Line": 514,
           "OriginalText": "Vasaaq.",
-          "TranslatedText": null
+          "TranslatedText": "Vasaaq"
         },
         {
           "Line": 518,
           "OriginalText": "\nThe desert heat can drain your health so\neasily. Our fruit really helps fight that!",
-          "TranslatedText": null
+          "TranslatedText": "\nความร้อนของทะเลทรายสามารถทำให้คุณ\nหมดแรงได้ง่ายๆ ผลไม้ของเราช่วยคุณได้นะ!"
         }
       ]
     },
@@ -626,51 +626,51 @@
         {
           "Line": 535,
           "OriginalText": "My kid really loves ",
-          "TranslatedText": null
+          "TranslatedText": "ลูกของฉันชอบ "
         },
         {
           "Line": 539,
           "OriginalText": "fruitcake",
-          "TranslatedText": null,
+          "TranslatedText": "fruitcake",
           "Colour": "blue"
         },
         {
           "Line": 542,
           "OriginalText": ", so I make it\nevery once in a while.\n\nI have all the fruit I\u0027d ever need, but it\u0027s\na bit difficult to find ",
-          "TranslatedText": null
+          "TranslatedText": "มาก ฉันก็เลยทำมัน\nอยู่เรื่อยๆ\n\nฉันมีผลไม้อยู่แล้ว แต่ว่ามันค่อนข้างยาก\nที่จะหา "
         },
         {
           "Line": 546,
           "OriginalText": "Tabantha wheat",
-          "TranslatedText": null,
+          "TranslatedText": "Tabantha wheat",
           "Colour": "blue"
         },
         {
           "Line": 549,
           "OriginalText": ",\n",
-          "TranslatedText": null
+          "TranslatedText": ",\n"
         },
         {
           "Line": 553,
           "OriginalText": "cane sugar",
-          "TranslatedText": null,
+          "TranslatedText": "cane sugar",
           "Colour": "blue"
         },
         {
           "Line": 556,
           "OriginalText": ", and ",
-          "TranslatedText": null
+          "TranslatedText": " และ "
         },
         {
           "Line": 560,
           "OriginalText": "goat butter",
-          "TranslatedText": null,
+          "TranslatedText": "goat butter",
           "Colour": "blue"
         },
         {
           "Line": 563,
           "OriginalText": "...\nAnyway, if you have the ingredients, you\nshould try making it yourself sometime.",
-          "TranslatedText": null
+          "TranslatedText": "...\nเอาเป็นว่า ถ้าคุณมีวัตถุดิบละก็\nคุณควรลองทำด้วยตัวเองดูนะ"
         }
       ]
     },
@@ -681,7 +681,7 @@
         {
           "Line": 572,
           "OriginalText": "No problem.",
-          "TranslatedText": null
+          "TranslatedText": "ไม่มีปัญหา"
         }
       ]
     },
@@ -692,7 +692,7 @@
         {
           "Line": 581,
           "OriginalText": "Sarqso...",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso..."
         }
       ]
     },
@@ -703,12 +703,12 @@
         {
           "Line": 590,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 594,
           "OriginalText": " I\u0027ll make sure to restock for you!",
-          "TranslatedText": null
+          "TranslatedText": "แล้วฉันจะเติมของให้นะ!"
         }
       ]
     },
@@ -719,7 +719,7 @@
         {
           "Line": 603,
           "OriginalText": "It\u0027s fun just seeing the kinds of things\nthat foreigners carry with them when\nthey get here.\nFeel free to come back and show me\nmore sometime.",
-          "TranslatedText": null
+          "TranslatedText": "มันสนุกนะที่ได้เห็นว่าชาวต่างชาติ\nพกอะไรติดตัวเข้ามาที่นี่บ้าง\nแล้วเอามาให้ฉันดูอีกนะ"
         }
       ]
     },
@@ -734,7 +734,7 @@
         {
           "Line": 612,
           "OriginalText": "Vasaaq.\nOur fruit here is sweet as can be, just\nlike my wonderful daughter.",
-          "TranslatedText": null
+          "TranslatedText": "Vasaaq\nผลไม้ของเราหวานฉ่ำหาใดเทียบ\nเหมือนกับลูกสาวแสนวิเศษของฉันเลย"
         }
       ]
     },
@@ -749,7 +749,7 @@
         {
           "Line": 629,
           "OriginalText": "Smells nice, right?\nThey\u0027re perfect for eating now.",
-          "TranslatedText": null
+          "TranslatedText": "กลิ่นหอมใช่ไหม?\nมันกำลังสุกได้ที่เลย"
         }
       ]
     },
@@ -764,12 +764,12 @@
         {
           "Line": 646,
           "OriginalText": "It still smells pretty nice around the\nstall, doesn\u0027t it?",
-          "TranslatedText": null
+          "TranslatedText": "กลิ่นหอมใช่มั้ยล่ะ?\n"
         },
         {
           "Line": 650,
           "OriginalText": " The fruit I had was ripe\nand ready to be eaten!\nEven with the fruit gone now, the\nwonderful smell still lingers.",
-          "TranslatedText": null
+          "TranslatedText": "ผลไม้ที่ฉันมีน่ะกำลังสุกพร้อมกินเลย\nแม้จะขายไปหมดแล้ว\nแต่กลิ่นหอมก็ยังอยู่"
         }
       ]
     },
@@ -780,7 +780,7 @@
         {
           "Line": 667,
           "OriginalText": "They\u0027re perfect for eating now, you\nknow. I\u0027m sure they\u0027re pretty tasty.",
-          "TranslatedText": null
+          "TranslatedText": "ตอนนี้กำลังสุกได้ที่เลย ฉันแน่ใจว่า\nมันต้องอร่อยแน่"
         }
       ]
     },
@@ -791,12 +791,12 @@
         {
           "Line": 676,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 680,
           "OriginalText": " That was a great purchase,\ndon\u0027t you think?",
-          "TranslatedText": null
+          "TranslatedText": " นั่นเป็นการค้าขายที่ยอดเยี่ยมเลย\nว่าไหม?"
         }
       ]
     },
@@ -807,12 +807,12 @@
         {
           "Line": 689,
           "OriginalText": "Sarqso.",
-          "TranslatedText": null
+          "TranslatedText": "Sarqso"
         },
         {
           "Line": 693,
           "OriginalText": " Come again!",
-          "TranslatedText": null
+          "TranslatedText": " แล้วเชิญใหม่นะ!"
         }
       ]
     },
@@ -823,7 +823,7 @@
         {
           "Line": 702,
           "OriginalText": "Oh, am I all out? I\u0027ll have to restock\nfor you.",
-          "TranslatedText": null
+          "TranslatedText": "โอ้ ฉันขายหมดแล้วเหรอ? ฉันต้อง\nหามาเติมให้คุณแล้ว"
         }
       ]
     },
@@ -838,47 +838,47 @@
         {
           "Line": 711,
           "OriginalText": "Oh, have you heard the good news?\n",
-          "TranslatedText": null
+          "TranslatedText": "อ้อ คุณได้ยินข่าวดีหรือยัง?\nในที่สุด "
         },
         {
           "Line": 715,
           "OriginalText": "Naboris ",
-          "TranslatedText": null,
+          "TranslatedText": "Naboris ",
           "Colour": "blue"
         },
         {
           "Line": 718,
           "OriginalText": "has finally been calmed!\n\nIt sounds like our ",
-          "TranslatedText": null
+          "TranslatedText": " ก็สงบลงแล้ว!\n\nเหมือนว่า"
         },
         {
           "Line": 722,
           "OriginalText": "chief",
-          "TranslatedText": null,
+          "TranslatedText": "หัวหน้า",
           "Colour": "blue"
         },
         {
           "Line": 725,
           "OriginalText": " and Patricia\nplayed a big part in the whole adventure,\ntoo!\n",
-          "TranslatedText": null
+          "TranslatedText": "ของเราและ Patricia\nจะมีส่วนในการผจญภัยครั้งนี้ด้วย!\n"
         },
         {
           "Line": 731,
           "OriginalText": "You know, I\u0027ve actually been feeding\nPatricia my own fruit whenever I can.\n\nNow seems like the perfect time to kick\noff my new brand!\n\n",
-          "TranslatedText": null
+          "TranslatedText": "คุณรู้ไหม ที่จริงแล้วฉันคอยเอาผลไม้\nของฉันให้ Patricia อยู่เรื่อยๆ\n\nดูเหมือนตอนนี้เป็นเวลาเหมาะสมที่ฉันจะ\nสร้างแบรนด์ใหม่\n\n"
         },
         {
           "Line": 737,
           "OriginalText": "\u0022Lorn\u0027s Fruit Stand. Patricia loves it!\u0022 ",
-          "TranslatedText": null
+          "TranslatedText": "\u0022ร้านผลไม้ของ Lorn ของโปรด Patricia!\u0022"
         },
         {
           "Line": 741,
           "OriginalText": "\nHehe. What do you think?\n\nSounds pretty delicious, right? I gotta\nwork hard to get this brand off the\nground.",
-          "TranslatedText": null
+          "TranslatedText": "\nหึๆ คุณคิดว่าไง?\n\nฟังดูน่าอร่อยใช่ไหม? ฉันต้องทำแบรนด์นี้\nให้ดังให้ได้"
         }
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

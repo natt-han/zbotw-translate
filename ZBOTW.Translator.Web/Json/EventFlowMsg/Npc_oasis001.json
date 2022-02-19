@@ -17,7 +17,7 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ve got things to sell.",
-          "TranslatedText": "ฉันไม่มีอะไรจะขาย"
+          "TranslatedText": "ฉันมีของมาขาย"
         }
       ]
     },
@@ -77,7 +77,7 @@
         {
           "Line": 36,
           "OriginalText": "Any self-respecting vai would have her\ninventory well organized.",
-          "TranslatedText": null
+          "TranslatedText": "vai ที่เคารพตัวเองจะจัดสัมภาระ\nให้เป็นระเบียบอยู่เสมอ"
         }
       ]
     },
@@ -91,12 +91,12 @@
         {
           "Line": 40,
           "OriginalText": "That\u0027s what you\u0027ve decided on? I can\ngive you ",
-          "TranslatedText": null
+          "TranslatedText": "ตัดสินใจอย่างนั้นเหรอ? ฉันสามารถ\nให้ได้ "
         },
         {
           "Line": 48,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
@@ -123,7 +123,7 @@
         {
           "Line": 77,
           "OriginalText": "I\u0027m glad it\u0027s such a beautiful item.",
-          "TranslatedText": null
+          "TranslatedText": "ฉันยินดี มันเป็นของที่สวยมาก"
         }
       ]
     },
@@ -153,7 +153,7 @@
         {
           "Line": 109,
           "OriginalText": "Oh, to waver on a decision... That is one\nsuch way to heighten anticipation.",
-          "TranslatedText": null
+          "TranslatedText": "โอ้ มาเปลี่ยนใจกันแบบนี้... ช่างเป็นวิธี\nที่เพิ่มความคาดหวังกันเสียจริงนะ"
         }
       ]
     },
@@ -163,7 +163,7 @@
         {
           "Line": 123,
           "OriginalText": "To act boldly when the time is right...\nThat truly makes a vai beautiful.",
-          "TranslatedText": null
+          "TranslatedText": "กล้าในเวลาที่เหมาะสม...\nนั่นคือสิ่งที่ทำให้ vai งดงามอย่างแท้จริง"
         }
       ]
     },
@@ -173,7 +173,7 @@
         {
           "Line": 132,
           "OriginalText": "Care to sell anything else?\nHopefully something of great beauty...",
-          "TranslatedText": null
+          "TranslatedText": "มีอะไรอยากขายอีกไหม?\nหวังว่าจะเป็นของที่งดงามนะ..."
         }
       ]
     },
@@ -183,7 +183,7 @@
         {
           "Line": 141,
           "OriginalText": "It\u0027s interesting how one vai\u0027s trash \nis another vai\u0027s treasure.",
-          "TranslatedText": null
+          "TranslatedText": "มันน่าสนใจนะที่ ขยะของ vai คนหนึ่ง\nกลายเป็นสมบัติของ vai อีกคนหนึ่งได้"
         }
       ]
     },
@@ -193,7 +193,7 @@
         {
           "Line": 145,
           "OriginalText": "If it\u0027s beautiful,\nplease show it to me!",
-          "TranslatedText": null
+          "TranslatedText": "ถ้ามันสวยละก็\nเอาให้ฉันดูสิ!"
         }
       ]
     },
@@ -229,20 +229,20 @@
         {
           "Line": 167,
           "OriginalText": ", then?\nHow does ",
-          "TranslatedText": null,
+          "TranslatedText": " สินะ?\nงั้น ",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 175,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 178,
           "OriginalText": " sound?",
-          "TranslatedText": null
+          "TranslatedText": " ฟังดูเป็นไง?"
         }
       ]
     },
@@ -253,12 +253,12 @@
         {
           "Line": 195,
           "OriginalText": "I\u0027m sorry, but I have to decline buying\nthat.",
-          "TranslatedText": null
+          "TranslatedText": "ขอโทษนะ แต่ฉันคงต้องปฏิเสธ\n"
         },
         {
           "Line": 199,
           "OriginalText": " I really am sorry...",
-          "TranslatedText": null
+          "TranslatedText": "ขอโทษจริงๆ..."
         }
       ]
     },
@@ -269,7 +269,7 @@
         {
           "Line": 208,
           "OriginalText": "You\u0027re going to undress here? Even for\na vai as beautiful as yourself, there are\nsome societal rules you should follow...",
-          "TranslatedText": null
+          "TranslatedText": "คุณจะแก้ผ้าตรงนี้เลยเหรอ? แม้แต่\nvai ที่งดงามอย่างคุณ มันก็มีกฎพิเศษบางอย่าง\nที่ควรปฏิบัติตามนะ..."
         }
       ]
     },
@@ -284,24 +284,24 @@
         {
           "Line": 212,
           "OriginalText": "Just one, right?",
-          "TranslatedText": null
+          "TranslatedText": "อันเดียวใช่มั้ย?"
         },
         {
           "Line": 216,
           "OriginalText": "\nIn that case, how\u0027s ",
-          "TranslatedText": null
+          "TranslatedText": "\nถ้าอย่างนั้น "
         },
         {
           "Line": 224,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 227,
           "OriginalText": "\nsound to you?",
-          "TranslatedText": null
+          "TranslatedText": "\nฟังดูเป็นไง?"
         }
       ]
     },
@@ -316,25 +316,25 @@
         {
           "Line": 239,
           "OriginalText": "All ",
-          "TranslatedText": null
+          "TranslatedText": "หมดทั้ง "
         },
         {
           "Line": 244,
           "OriginalText": " of them? Then it\u0027ll be\n",
-          "TranslatedText": null,
+          "TranslatedText": " เลยเหรอ? \nงั้นก็จะรวมเป็น ",
           "Variable": "Shop_TradeItemNum"
         },
         {
           "Line": 252,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice"
         },
         {
           "Line": 255,
           "OriginalText": " altogether, OK?",
-          "TranslatedText": null
+          "TranslatedText": "โอเคมั้ย?"
         }
       ]
     },
@@ -349,12 +349,12 @@
         {
           "Line": 267,
           "OriginalText": "That can be yours for ",
-          "TranslatedText": null
+          "TranslatedText": "คุณเป็นเจ้าของมันได้ด้วย "
         },
         {
           "Line": 275,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "Shop_SelectItemPrice"
         },
@@ -388,23 +388,23 @@
         {
           "Line": 304,
           "OriginalText": "Thanks to your hard work, our lives are\nfinally back to normal. Sarqso!\n\n",
-          "TranslatedText": null
+          "TranslatedText": "ต้องขอบคุณสำหรับความเหน็ดเหนื่อยของคุณ\nในที่สุดชีวิตของเราก็กลับสู่ปกติ Sarqso!\n\n"
         },
         {
           "Line": 310,
           "OriginalText": "To show my thanks, I\u0027ll offer you a\nspecial price. Just pick up any ",
-          "TranslatedText": null
+          "TranslatedText": "เพื่อเป็นการขอบคุณ ฉันจะลดราคาให้เป็นพิเศษ\nเชิญเลือก"
         },
         {
           "Line": 314,
           "OriginalText": "accessory",
-          "TranslatedText": null,
+          "TranslatedText": "เครื่องประดับ",
           "Colour": "blue"
         },
         {
           "Line": 317,
           "OriginalText": "\nyou\u0027re interested in.",
-          "TranslatedText": null
+          "TranslatedText": "ชิ้นไหนก็ได้\nที่คุณสนใจ"
         }
       ]
     },
@@ -415,12 +415,12 @@
         {
           "Line": 335,
           "OriginalText": "Ever since reopening the shop, Cara\nhas been enthusiastic about making\naccessories, too!\n",
-          "TranslatedText": null
+          "TranslatedText": "ตั้งแต่กลับมาเปิดร้าน Cara ก็เริ่มสนใจ\nการทำเครื่องประดับเหมือนกัน!\n"
         },
         {
           "Line": 341,
           "OriginalText": "I\u0027m incredibly grateful! Sarqso!",
-          "TranslatedText": null
+          "TranslatedText": "ฉันดีใจมากๆ! Sarqso!"
         }
       ]
     },
@@ -442,56 +442,56 @@
         {
           "Line": 359,
           "OriginalText": "You see, each gem contains its own\nspecial power. Wearing one will grant you\na form of protection.\nFor example, ",
-          "TranslatedText": null
+          "TranslatedText": "รู้ไหม อัญมณีแต่ละชิ้นจะมีพลังพิเศษของมัน\nเมื่อสวมใส่มันจะมอบการปกป้องให้กับคุณ\nตัวอย่างเช่น "
         },
         {
           "Line": 363,
           "OriginalText": "sapphires",
-          "TranslatedText": null,
+          "TranslatedText": "sapphires",
           "Colour": "blue"
         },
         {
           "Line": 366,
           "OriginalText": " offer resistance\nto intense heat, and ",
-          "TranslatedText": null
+          "TranslatedText": " จะมอบความทนทาน\nต่อความร้อน และ "
         },
         {
           "Line": 370,
           "OriginalText": "rubies",
-          "TranslatedText": null,
+          "TranslatedText": "rubies",
           "Colour": "blue"
         },
         {
           "Line": 373,
           "OriginalText": " have the\npower to resist chilling temperatures.\nI\u0027m able to craft ",
-          "TranslatedText": null
+          "TranslatedText": " มีพลัง\nในการต่อต้านอากาศหนาว\nฉันสามารถทำ "
         },
         {
           "Line": 377,
           "OriginalText": "circlets",
-          "TranslatedText": null,
+          "TranslatedText": "circlets",
           "Colour": "blue"
         },
         {
           "Line": 380,
           "OriginalText": " or ",
-          "TranslatedText": null
+          "TranslatedText": " หรือ "
         },
         {
           "Line": 384,
           "OriginalText": "earrings",
-          "TranslatedText": null,
+          "TranslatedText": "earrings",
           "Colour": "blue"
         },
         {
           "Line": 387,
           "OriginalText": " that\nchannel these powers to protect the\nwearer.\n",
-          "TranslatedText": null
+          "TranslatedText": " ที่\nสามารถดึงพลังพวกนี้มาปกป้องผู้สวม\n"
         },
         {
           "Line": 393,
           "OriginalText": "Sadly, the materials to make such items\nare difficult to get ahold of... That\u0027s why\nyou have to bring me the materials.",
-          "TranslatedText": null
+          "TranslatedText": "น่าเศร้าที่วัสดุที่ต้องใช้ในการทำของพวกนี้\nนั้นยากที่จะได้มา... ด้วยเหตุนั้น\nคุณจึงต้องนำวัสดุที่ต้องใช้มาให้ฉัน"
         }
       ]
     },
@@ -507,12 +507,12 @@
         {
           "Line": 402,
           "OriginalText": "It\u0027ll take some time, but there\u0027s nothing\nthat\u0027ll satisfy you more than that.\n\nOh, and don\u0027t forget that voe and vai\nalike can enjoy these. ",
-          "TranslatedText": null
+          "TranslatedText": "มันต้องใช้เวลาสักพัก แต่ไม่มีอะไรที่จะทำให้\nคุณพึงพอใจได้มากเท่านั้นอีกแล้ว\n\nอ้อ และอย่าลืมนะว่าทั้ง voe และ vai ก็สามารถ\nใช้พวกมันได้เหมือนกัน"
         },
         {
           "Line": 408,
           "OriginalText": "They\u0027re great gifts\nif you want to impress someone, hehe.",
-          "TranslatedText": null
+          "TranslatedText": "พวกมันเหมาะจะใช้เป็นของขวัญ\nสำหรับทำให้ผู้อื่นประทับใจอีกด้วย หึหึ"
         }
       ]
     },
@@ -523,7 +523,7 @@
         {
           "Line": 431,
           "OriginalText": "Come again!\nDon\u0027t ever pass up a chance to sell\nsomething!",
-          "TranslatedText": null
+          "TranslatedText": "แล้วมาอีกนะ!\nอย่าปล่อยให้โอกาสขายหลุดลอยไป!"
         }
       ]
     },
@@ -539,34 +539,34 @@
         {
           "Line": 440,
           "OriginalText": "I have enough ",
-          "TranslatedText": null
+          "TranslatedText": "ตอนนี้ฉันมี "
         },
         {
           "Line": 444,
           "OriginalText": "flint ",
-          "TranslatedText": null,
+          "TranslatedText": "flint ",
           "Colour": "blue"
         },
         {
           "Line": 447,
           "OriginalText": "now, so I can work\nevery day! ",
-          "TranslatedText": null
+          "TranslatedText": " เพียงพอแล้ว ฉันสามารถทำงาน\nได้ทุกวัน!"
         },
         {
           "Line": 453,
           "OriginalText": "If you want any ",
-          "TranslatedText": null
+          "TranslatedText": "ถ้าคุณต้องการ"
         },
         {
           "Line": 457,
           "OriginalText": "accessories",
-          "TranslatedText": null,
+          "TranslatedText": "เครื่องประดับ",
           "Colour": "blue"
         },
         {
           "Line": 460,
           "OriginalText": ",\ncould you pick them yourself?",
-          "TranslatedText": null
+          "TranslatedText": "\nคุณหยิบเองได้ไหม?"
         }
       ]
     },
@@ -582,23 +582,23 @@
         {
           "Line": 478,
           "OriginalText": "When a vai wears something beautiful,\nit makes her absolutely sparkle.\n\n",
-          "TranslatedText": null
+          "TranslatedText": "เมื่อ vai สวมใส่สิ่งสวยงาม มันจะทำให้\nเธอส่องประกายออกมา\n\n"
         },
         {
           "Line": 484,
           "OriginalText": "Can you let me know if you see\nan ",
-          "TranslatedText": null
+          "TranslatedText": "บอกฉันได้ไหมถ้าคุณเห็น\n"
         },
         {
           "Line": 488,
           "OriginalText": "accessory",
-          "TranslatedText": null,
+          "TranslatedText": "เครื่องประดับ",
           "Colour": "blue"
         },
         {
           "Line": 491,
           "OriginalText": " that makes you\nsparkle?",
-          "TranslatedText": null
+          "TranslatedText": "ที่ทำให้คุณส่องประกาย?"
         }
       ]
     },
@@ -766,5 +766,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }
