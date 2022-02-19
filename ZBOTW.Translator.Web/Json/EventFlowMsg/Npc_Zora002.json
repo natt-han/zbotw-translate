@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "How\u0027s business?",
-          "TranslatedText": "ขายดีไหม?"
+          "TranslatedText": "ขายดีไหม?",
+          "Length": 15
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "I want to sell.",
-          "TranslatedText": "ฉันมาขาย"
+          "TranslatedText": "ฉันมาขาย",
+          "Length": 15
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "What is this place?",
-          "TranslatedText": "ที่นี่คือที่ไหน?"
+          "TranslatedText": "ที่นี่คือที่ไหน?",
+          "Length": 19
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "OK.",
-          "TranslatedText": "โอเค"
+          "TranslatedText": "โอเค",
+          "Length": 3
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Buy.",
-          "TranslatedText": "ซื้อ"
+          "TranslatedText": "ซื้อ",
+          "Length": 4
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 40,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": "ฉันจะซื้อทั้งหมด!"
+          "TranslatedText": "ฉันจะซื้อทั้งหมด!",
+          "Length": 18
         }
       ]
     },
@@ -97,7 +106,8 @@
         {
           "Line": 44,
           "OriginalText": "All of them.",
-          "TranslatedText": "ทั้งหมด"
+          "TranslatedText": "ทั้งหมด",
+          "Length": 12
         }
       ]
     },
@@ -107,12 +117,14 @@
         {
           "Line": 53,
           "OriginalText": "Certainly.",
-          "TranslatedText": "Certainly."
+          "TranslatedText": "Certainly.",
+          "Length": 10
         },
         {
           "Line": 57,
           "OriginalText": " What would you like to sell?",
-          "TranslatedText": " What would you like to sell?"
+          "TranslatedText": " What would you like to sell?",
+          "Length": 29
         }
       ]
     },
@@ -126,19 +138,22 @@
         {
           "Line": 66,
           "OriginalText": "How about ",
-          "TranslatedText": "How about "
+          "TranslatedText": "How about ",
+          "Length": 10
         },
         {
           "Line": 74,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 77,
           "OriginalText": "? Is that OK?",
-          "TranslatedText": "? Is that OK?"
+          "TranslatedText": "? Is that OK?",
+          "Length": 13
         }
       ]
     },
@@ -148,12 +163,14 @@
         {
           "Line": 94,
           "OriginalText": "Thank you.",
-          "TranslatedText": "Thank you."
+          "TranslatedText": "Thank you.",
+          "Length": 10
         },
         {
           "Line": 98,
           "OriginalText": " Do you have anything else\nto sell?",
-          "TranslatedText": " Do you have anything else\nto sell?"
+          "TranslatedText": " Do you have anything else\nto sell?",
+          "Length": 35
         }
       ]
     },
@@ -163,12 +180,14 @@
         {
           "Line": 107,
           "OriginalText": "Understood.",
-          "TranslatedText": "Understood."
+          "TranslatedText": "Understood.",
+          "Length": 11
         },
         {
           "Line": 111,
           "OriginalText": " Would you like me to take\nanything else off your hands?",
-          "TranslatedText": " Would you like me to take\nanything else off your hands?"
+          "TranslatedText": " Would you like me to take\nanything else off your hands?",
+          "Length": 56
         }
       ]
     },
@@ -178,7 +197,8 @@
         {
           "Line": 120,
           "OriginalText": "Thanks!",
-          "TranslatedText": "Thanks!"
+          "TranslatedText": "Thanks!",
+          "Length": 7
         }
       ]
     },
@@ -188,12 +208,14 @@
         {
           "Line": 129,
           "OriginalText": "Yes, OK then...",
-          "TranslatedText": "Yes, OK then..."
+          "TranslatedText": "Yes, OK then...",
+          "Length": 15
         },
         {
           "Line": 133,
           "OriginalText": " Is there anything else\nyou would like to sell?",
-          "TranslatedText": " Is there anything else\nyou would like to sell?"
+          "TranslatedText": " Is there anything else\nyou would like to sell?",
+          "Length": 47
         }
       ]
     },
@@ -203,7 +225,8 @@
         {
           "Line": 142,
           "OriginalText": "Oh, really? That\u0027s too bad.",
-          "TranslatedText": "Oh, really? That\u0027s too bad."
+          "TranslatedText": "Oh, really? That\u0027s too bad.",
+          "Length": 27
         }
       ]
     },
@@ -213,7 +236,8 @@
         {
           "Line": 151,
           "OriginalText": "I\u0027ll buy anything you want to sell.",
-          "TranslatedText": "I\u0027ll buy anything you want to sell."
+          "TranslatedText": "I\u0027ll buy anything you want to sell.",
+          "Length": 35
         }
       ]
     },
@@ -223,7 +247,8 @@
         {
           "Line": 160,
           "OriginalText": "What do you have for me?",
-          "TranslatedText": "What do you have for me?"
+          "TranslatedText": "What do you have for me?",
+          "Length": 24
         }
       ]
     },
@@ -233,7 +258,8 @@
         {
           "Line": 169,
           "OriginalText": "Take your time.",
-          "TranslatedText": "Take your time."
+          "TranslatedText": "Take your time.",
+          "Length": 15
         }
       ]
     },
@@ -243,7 +269,8 @@
         {
           "Line": 178,
           "OriginalText": "What would you like to sell?",
-          "TranslatedText": "What would you like to sell?"
+          "TranslatedText": "What would you like to sell?",
+          "Length": 28
         }
       ]
     },
@@ -253,7 +280,8 @@
         {
           "Line": 187,
           "OriginalText": "What would you like to buy?",
-          "TranslatedText": "What would you like to buy?"
+          "TranslatedText": "What would you like to buy?",
+          "Length": 27
         }
       ]
     },
@@ -263,12 +291,14 @@
         {
           "Line": 196,
           "OriginalText": "I\u0027m sorry...",
-          "TranslatedText": "I\u0027m sorry..."
+          "TranslatedText": "I\u0027m sorry...",
+          "Length": 12
         },
         {
           "Line": 200,
           "OriginalText": " We\u0027re all sold out of that.",
-          "TranslatedText": " We\u0027re all sold out of that."
+          "TranslatedText": " We\u0027re all sold out of that.",
+          "Length": 28
         }
       ]
     },
@@ -278,12 +308,14 @@
         {
           "Line": 209,
           "OriginalText": "Oh...",
-          "TranslatedText": "Oh..."
+          "TranslatedText": "Oh...",
+          "Length": 5
         },
         {
           "Line": 213,
           "OriginalText": " I\u0027m sorry. It would seem you don\u0027t\nhave enough rupees...",
-          "TranslatedText": " I\u0027m sorry. It would seem you don\u0027t\nhave enough rupees..."
+          "TranslatedText": " I\u0027m sorry. It would seem you don\u0027t\nhave enough rupees...",
+          "Length": 57
         }
       ]
     },
@@ -293,17 +325,20 @@
         {
           "Line": 222,
           "OriginalText": "Oh...",
-          "TranslatedText": "Oh..."
+          "TranslatedText": "Oh...",
+          "Length": 5
         },
         {
           "Line": 226,
           "OriginalText": " It looks like your inventory is full.\n\n\nYou can sell whatever you don\u0027t need,\nor you can throw some stuff away.",
-          "TranslatedText": " It looks like your inventory is full.\n\n\nYou can sell whatever you don\u0027t need,\nor you can throw some stuff away."
+          "TranslatedText": " It looks like your inventory is full.\n\n\nYou can sell whatever you don\u0027t need,\nor you can throw some stuff away.",
+          "Length": 112
         },
         {
           "Line": 230,
           "OriginalText": "\nPlease come back when you\u0027re ready.",
-          "TranslatedText": "\nPlease come back when you\u0027re ready."
+          "TranslatedText": "\nPlease come back when you\u0027re ready.",
+          "Length": 36
         }
       ]
     },
@@ -317,7 +352,8 @@
         {
           "Line": 239,
           "OriginalText": "You want to buy this, then?",
-          "TranslatedText": "You want to buy this, then?"
+          "TranslatedText": "You want to buy this, then?",
+          "Length": 27
         }
       ]
     },
@@ -328,7 +364,8 @@
         {
           "Line": 256,
           "OriginalText": "Thank you for your business!",
-          "TranslatedText": "Thank you for your business!"
+          "TranslatedText": "Thank you for your business!",
+          "Length": 28
         }
       ]
     },
@@ -339,7 +376,8 @@
         {
           "Line": 265,
           "OriginalText": "Please come again!",
-          "TranslatedText": "Please come again!"
+          "TranslatedText": "Please come again!",
+          "Length": 18
         }
       ]
     },
@@ -350,7 +388,8 @@
         {
           "Line": 274,
           "OriginalText": "Thank you very much!",
-          "TranslatedText": "Thank you very much!"
+          "TranslatedText": "Thank you very much!",
+          "Length": 20
         }
       ]
     },
@@ -361,7 +400,8 @@
         {
           "Line": 283,
           "OriginalText": "Thanks for your business!",
-          "TranslatedText": "Thanks for your business!"
+          "TranslatedText": "Thanks for your business!",
+          "Length": 25
         }
       ]
     },
@@ -371,7 +411,8 @@
         {
           "Line": 292,
           "OriginalText": "We have a fine selection of items here,\nso please take your time looking around.",
-          "TranslatedText": "We have a fine selection of items here,\nso please take your time looking around."
+          "TranslatedText": "We have a fine selection of items here,\nso please take your time looking around.",
+          "Length": 80
         }
       ]
     },
@@ -387,7 +428,8 @@
         {
           "Line": 301,
           "OriginalText": "You want to sell this, right? How many\ndo you want to sell?",
-          "TranslatedText": "You want to sell this, right? How many\ndo you want to sell?"
+          "TranslatedText": "You want to sell this, right? How many\ndo you want to sell?",
+          "Length": 59
         }
       ]
     },
@@ -402,30 +444,35 @@
         {
           "Line": 319,
           "OriginalText": "I\u0027d say ",
-          "TranslatedText": "I\u0027d say "
+          "TranslatedText": "I\u0027d say ",
+          "Length": 8
         },
         {
           "Line": 324,
           "OriginalText": " amounts to",
           "TranslatedText": " amounts to",
-          "Variable": "Shop_TradeItemNum"
+          "Variable": "Shop_TradeItemNum",
+          "Length": 11
         },
         {
           "Line": 328,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 336,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 339,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -436,12 +483,14 @@
         {
           "Line": 356,
           "OriginalText": "My sincerest apologies...",
-          "TranslatedText": "My sincerest apologies..."
+          "TranslatedText": "My sincerest apologies...",
+          "Length": 25
         },
         {
           "Line": 360,
           "OriginalText": "\nI cannot buy that from you.",
-          "TranslatedText": "\nI cannot buy that from you."
+          "TranslatedText": "\nI cannot buy that from you.",
+          "Length": 28
         }
       ]
     },
@@ -452,12 +501,14 @@
         {
           "Line": 369,
           "OriginalText": "I\u0027m so sorry...",
-          "TranslatedText": "I\u0027m so sorry..."
+          "TranslatedText": "I\u0027m so sorry...",
+          "Length": 15
         },
         {
           "Line": 373,
           "OriginalText": "but could you possibly\nremove that article of clothing before\nyou try to sell it to me?",
-          "TranslatedText": "but could you possibly\nremove that article of clothing before\nyou try to sell it to me?"
+          "TranslatedText": "but could you possibly\nremove that article of clothing before\nyou try to sell it to me?",
+          "Length": 87
         }
       ]
     },
@@ -473,7 +524,8 @@
         {
           "Line": 382,
           "OriginalText": "How many?",
-          "TranslatedText": "How many?"
+          "TranslatedText": "How many?",
+          "Length": 9
         }
       ]
     },
@@ -488,24 +540,28 @@
         {
           "Line": 400,
           "OriginalText": "Just one, right?",
-          "TranslatedText": "Just one, right?"
+          "TranslatedText": "Just one, right?",
+          "Length": 16
         },
         {
           "Line": 404,
           "OriginalText": "\nHow about ",
-          "TranslatedText": "\nHow about "
+          "TranslatedText": "\nHow about ",
+          "Length": 11
         },
         {
           "Line": 412,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 415,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Length": 1
         }
       ]
     },
@@ -519,19 +575,22 @@
         {
           "Line": 432,
           "OriginalText": "All of them? That will be ",
-          "TranslatedText": "All of them? That will be "
+          "TranslatedText": "All of them? That will be ",
+          "Length": 26
         },
         {
           "Line": 440,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 443,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -545,24 +604,28 @@
         {
           "Line": 460,
           "OriginalText": "All of them?",
-          "TranslatedText": "All of them?"
+          "TranslatedText": "All of them?",
+          "Length": 12
         },
         {
           "Line": 464,
           "OriginalText": " That will be ",
-          "TranslatedText": " That will be "
+          "TranslatedText": " That will be ",
+          "Length": 14
         },
         {
           "Line": 472,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 475,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -576,19 +639,22 @@
         {
           "Line": 487,
           "OriginalText": "That comes to ",
-          "TranslatedText": "That comes to "
+          "TranslatedText": "That comes to ",
+          "Length": 14
         },
         {
           "Line": 495,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 498,
           "OriginalText": ". Is that\nacceptable?",
-          "TranslatedText": ". Is that\nacceptable?"
+          "TranslatedText": ". Is that\nacceptable?",
+          "Length": 21
         }
       ]
     },
@@ -603,7 +669,8 @@
         {
           "Line": 510,
           "OriginalText": "How many do you need?",
-          "TranslatedText": "How many do you need?"
+          "TranslatedText": "How many do you need?",
+          "Length": 21
         }
       ]
     },
@@ -617,25 +684,29 @@
         {
           "Line": 528,
           "OriginalText": "I think ",
-          "TranslatedText": "I think "
+          "TranslatedText": "I think ",
+          "Length": 8
         },
         {
           "Line": 533,
           "OriginalText": " will come to ",
           "TranslatedText": " will come to ",
-          "Variable": "Shop_TradeItemNum"
+          "Variable": "Shop_TradeItemNum",
+          "Length": 14
         },
         {
           "Line": 541,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 544,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -645,7 +716,8 @@
         {
           "Line": 561,
           "OriginalText": "Oh, did you change your mind?",
-          "TranslatedText": "Oh, did you change your mind?"
+          "TranslatedText": "Oh, did you change your mind?",
+          "Length": 29
         }
       ]
     },
@@ -655,12 +727,14 @@
         {
           "Line": 570,
           "OriginalText": "I\u0027m so sorry...",
-          "TranslatedText": "I\u0027m so sorry..."
+          "TranslatedText": "I\u0027m so sorry...",
+          "Length": 15
         },
         {
           "Line": 574,
           "OriginalText": " I must inform you that\nyou don\u0027t have enough rupees.",
-          "TranslatedText": " I must inform you that\nyou don\u0027t have enough rupees."
+          "TranslatedText": " I must inform you that\nyou don\u0027t have enough rupees.",
+          "Length": 53
         }
       ]
     },
@@ -670,12 +744,14 @@
         {
           "Line": 583,
           "OriginalText": "Your pouch is full...",
-          "TranslatedText": "Your pouch is full..."
+          "TranslatedText": "Your pouch is full...",
+          "Length": 21
         },
         {
           "Line": 587,
           "OriginalText": " If there\u0027s anything\nyou don\u0027t need, I\u0027d be happy to take it\noff your hands.",
-          "TranslatedText": " If there\u0027s anything\nyou don\u0027t need, I\u0027d be happy to take it\noff your hands."
+          "TranslatedText": " If there\u0027s anything\nyou don\u0027t need, I\u0027d be happy to take it\noff your hands.",
+          "Length": 76
         }
       ]
     },
@@ -690,24 +766,28 @@
         {
           "Line": 601,
           "OriginalText": "Just one, right?",
-          "TranslatedText": "Just one, right?"
+          "TranslatedText": "Just one, right?",
+          "Length": 16
         },
         {
           "Line": 605,
           "OriginalText": " If so, that will\nbe ",
-          "TranslatedText": " If so, that will\nbe "
+          "TranslatedText": " If so, that will\nbe ",
+          "Length": 21
         },
         {
           "Line": 613,
           "OriginalText": " rupees",
           "TranslatedText": " rupees",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 616,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -718,38 +798,45 @@
         {
           "Line": 633,
           "OriginalText": "This is our general store, ",
-          "TranslatedText": "นี่คือร้านขายของของเรา "
+          "TranslatedText": "นี่คือร้านขายของของเรา ",
+          "Length": 27
         },
         {
           "Line": 637,
           "OriginalText": "the Coral Reef!\nHere we have ",
-          "TranslatedText": "the Coral Reef!\nที่นี่เรามี "
+          "TranslatedText": "the Coral Reef!\nที่นี่เรามี ",
+          "Length": 29
         },
         {
           "Line": 641,
           "OriginalText": "swift violets ",
           "TranslatedText": "swift violets ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 644,
           "OriginalText": "that will help\nyou run faster if you cook and eat \u0027em.\nWe also carry arrows for travelers.",
-          "TranslatedText": "ที่จะช่วยให้คุณ\nวิ่งได้เร็วคุณเมื่อนำมันไปทำอาหาร\nเรายังมีลูกธนูสำหรับนักเดินทาง"
+          "TranslatedText": "ที่จะช่วยให้คุณ\nวิ่งได้เร็วคุณเมื่อนำมันไปทำอาหาร\nเรายังมีลูกธนูสำหรับนักเดินทาง",
+          "Length": 90
         },
         {
           "Line": 648,
           "OriginalText": "\nIf you see something you like,\njust go grab it from the table.\n",
-          "TranslatedText": "\nถ้าหากว่าอยากได้อะไรก็หยิบเอาจากโต๊ะได้เลย\n"
+          "TranslatedText": "\nถ้าหากว่าอยากได้อะไรก็หยิบเอาจากโต๊ะได้เลย\n",
+          "Length": 64
         },
         {
           "Line": 654,
           "OriginalText": "Oh! ",
-          "TranslatedText": "อ้อ! "
+          "TranslatedText": "อ้อ! ",
+          "Length": 4
         },
         {
           "Line": 658,
           "OriginalText": "Unless you have some other\nbusiness with me?",
-          "TranslatedText": "นอกจากว่าคุณมีเรื่องจะคุยกับฉัน?"
+          "TranslatedText": "นอกจากว่าคุณมีเรื่องจะคุยกับฉัน?",
+          "Length": 44
         }
       ]
     },
@@ -760,7 +847,8 @@
         {
           "Line": 685,
           "OriginalText": "Oh, hello!",
-          "TranslatedText": "อ้อ สวัสดี!"
+          "TranslatedText": "อ้อ สวัสดี!",
+          "Length": 10
         }
       ]
     },
@@ -771,7 +859,8 @@
         {
           "Line": 694,
           "OriginalText": "Good evening!",
-          "TranslatedText": "สายัณสวัสดิ์!"
+          "TranslatedText": "สายัณสวัสดิ์!",
+          "Length": 13
         }
       ]
     },
@@ -782,7 +871,8 @@
         {
           "Line": 703,
           "OriginalText": "Did you need me for something?",
-          "TranslatedText": "ต้องการให้ช่วยอะไรไหม?"
+          "TranslatedText": "ต้องการให้ช่วยอะไรไหม?",
+          "Length": 30
         }
       ]
     },
@@ -793,22 +883,26 @@
         {
           "Line": 730,
           "OriginalText": "Not bad!\n\n\n",
-          "TranslatedText": "ไม่เลว!\n"
+          "TranslatedText": "ไม่เลว!\n",
+          "Length": 11
         },
         {
           "Line": 736,
           "OriginalText": "Or...",
-          "TranslatedText": "ก็..."
+          "TranslatedText": "ก็...",
+          "Length": 5
         },
         {
           "Line": 740,
           "OriginalText": "I\u0027d like to say that, but it actually\nhasn\u0027t been that great lately.\n\nOur goods are mostly for travelers...",
-          "TranslatedText": "ก็อยากจะพูดอย่างนั้นหรอกนะ แต่ที่จริงแล้ว\nมันไม่ค่อยดีเท่าไหร่\nสินค้าส่วนใหญ่ของเราเน้นขายให้กับนักเดินทาง..."
+          "TranslatedText": "ก็อยากจะพูดอย่างนั้นหรอกนะ แต่ที่จริงแล้ว\nมันไม่ค่อยดีเท่าไหร่\nสินค้าส่วนใหญ่ของเราเน้นขายให้กับนักเดินทาง...",
+          "Length": 107
         },
         {
           "Line": 744,
           "OriginalText": "\nbut we haven\u0027t been getting too many\nof those around here lately.",
-          "TranslatedText": "\nแต่ไม่ค่อยจะมีนักเดินทางสักเท่าไหร่พักหลังมานี้"
+          "TranslatedText": "\nแต่ไม่ค่อยจะมีนักเดินทางสักเท่าไหร่พักหลังมานี้",
+          "Length": 66
         }
       ]
     },
@@ -819,7 +913,8 @@
         {
           "Line": 753,
           "OriginalText": "Things haven\u0027t been so great lately...",
-          "TranslatedText": "พักหลังมานี้ไม่ค่อยจะดีเท่าไหร่..."
+          "TranslatedText": "พักหลังมานี้ไม่ค่อยจะดีเท่าไหร่...",
+          "Length": 38
         }
       ]
     },
@@ -830,7 +925,8 @@
         {
           "Line": 762,
           "OriginalText": "Come back soon!",
-          "TranslatedText": "แล้วกลับมาใหม่นะ!"
+          "TranslatedText": "แล้วกลับมาใหม่นะ!",
+          "Length": 15
         }
       ]
     },
@@ -841,12 +937,14 @@
         {
           "Line": 771,
           "OriginalText": "Thanks! ",
-          "TranslatedText": "ขอบคุณ! "
+          "TranslatedText": "ขอบคุณ! ",
+          "Length": 8
         },
         {
           "Line": 775,
           "OriginalText": "Be careful if you go out\nafter dark!",
-          "TranslatedText": "ระวังตัวถ้าออกมาตอนกลางคืน!"
+          "TranslatedText": "ระวังตัวถ้าออกมาตอนกลางคืน!",
+          "Length": 36
         }
       ]
     },
@@ -857,12 +955,14 @@
         {
           "Line": 784,
           "OriginalText": "Not bad!\n\n\nWith this break in the bad weather,",
-          "TranslatedText": "ไม่เลว!\nพอฝนหยุดตกแล้ว"
+          "TranslatedText": "ไม่เลว!\nพอฝนหยุดตกแล้ว",
+          "Length": 46
         },
         {
           "Line": 788,
           "OriginalText": "\nit looks like we\u0027re finally getting\nmore tourists around here.",
-          "TranslatedText": "\nก็ดูเหมือนจะมีนักเดินทางเพิ่มมากขึ้น"
+          "TranslatedText": "\nก็ดูเหมือนจะมีนักเดินทางเพิ่มมากขึ้น",
+          "Length": 63
         }
       ]
     },
@@ -873,17 +973,20 @@
         {
           "Line": 797,
           "OriginalText": "*sigh*",
-          "TranslatedText": "*เฮ้อ*"
+          "TranslatedText": "*เฮ้อ*",
+          "Length": 6
         },
         {
           "Line": 801,
           "OriginalText": " At this rate, ",
-          "TranslatedText": " ถ้าเป็นแบบนี้ "
+          "TranslatedText": " ถ้าเป็นแบบนี้ ",
+          "Length": 15
         },
         {
           "Line": 805,
           "OriginalText": "we may have to close\nour doors like the armor shop did...",
-          "TranslatedText": "เราอาจจะต้อง\nปิดร้านเหมือนกับร้านขายเครื่องป้องกัน..."
+          "TranslatedText": "เราอาจจะต้อง\nปิดร้านเหมือนกับร้านขายเครื่องป้องกัน...",
+          "Length": 57
         }
       ]
     },
@@ -894,7 +997,8 @@
         {
           "Line": 814,
           "OriginalText": "Need anything else?",
-          "TranslatedText": "ต้องการอะไรอีกไหม?"
+          "TranslatedText": "ต้องการอะไรอีกไหม?",
+          "Length": 19
         }
       ]
     },
@@ -905,12 +1009,14 @@
         {
           "Line": 841,
           "OriginalText": "At this rate, ",
-          "TranslatedText": "ถ้าเป็นแบบนี้ "
+          "TranslatedText": "ถ้าเป็นแบบนี้ ",
+          "Length": 14
         },
         {
           "Line": 845,
           "OriginalText": "it looks like we won\u0027t have to\nclose our doors like the armor shop did!",
-          "TranslatedText": "ดูเหมือนว่าเราจะไม่ต้องปิดร้าน\nไปเหมือนกับร้านขายเครื่องป้องกัน!"
+          "TranslatedText": "ดูเหมือนว่าเราจะไม่ต้องปิดร้าน\nไปเหมือนกับร้านขายเครื่องป้องกัน!",
+          "Length": 71
         }
       ]
     },
@@ -921,7 +1027,8 @@
         {
           "Line": 854,
           "OriginalText": "Yes, I\u0027m getting along just fine...\nsomehow.",
-          "TranslatedText": "ก็พอไปไหว...\nแหละนะ"
+          "TranslatedText": "ก็พอไปไหว...\nแหละนะ",
+          "Length": 44
         }
       ]
     },
@@ -932,43 +1039,51 @@
         {
           "Line": 863,
           "OriginalText": "This is our general store, the Coral Reef.",
-          "TranslatedText": "นี่คือร้านของของเรา Coral Reef"
+          "TranslatedText": "นี่คือร้านของของเรา Coral Reef",
+          "Length": 42
         },
         {
           "Line": 867,
           "OriginalText": "\nIf you are in the market for fresh fish,",
-          "TranslatedText": "\nถ้าหากว่าอยากจะซื้อปลากสดละก็"
+          "TranslatedText": "\nถ้าหากว่าอยากจะซื้อปลากสดละก็",
+          "Length": 41
         },
         {
           "Line": 871,
           "OriginalText": "\nyou have come to the right place!\nI have already told you that we carry\narrows,",
-          "TranslatedText": "\nคุณมาถูกที่แล้ว!\nฉันบอกไปแล้วว่าเรามีลูกธนูขายด้วย\n"
+          "TranslatedText": "\nคุณมาถูกที่แล้ว!\nฉันบอกไปแล้วว่าเรามีลูกธนูขายด้วย\n",
+          "Length": 80
         },
         {
           "Line": 875,
           "OriginalText": " but you should know the only\nones we can\u0027t sell are ",
-          "TranslatedText": " แต่คุณควรรู้ไว้ว่าอันเดียวที่เรา\nขายไม่ได้ก็คือ "
+          "TranslatedText": " แต่คุณควรรู้ไว้ว่าอันเดียวที่เรา\nขายไม่ได้ก็คือ ",
+          "Length": 53
         },
         {
           "Line": 879,
           "OriginalText": "shock arrows",
           "TranslatedText": "shock arrows",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 882,
           "OriginalText": ".\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 888,
           "OriginalText": "We Zora are a water-dwelling people,",
-          "TranslatedText": "พวกเรา Zora นั้นอาศัยอยู่ในน้ำ"
+          "TranslatedText": "พวกเรา Zora นั้นอาศัยอยู่ในน้ำ",
+          "Length": 36
         },
         {
           "Line": 892,
           "OriginalText": "\nso we\u0027re weak to electricity...",
-          "TranslatedText": "\nพวกเราจึงอ่อนแอต่อไฟฟ้า..."
+          "TranslatedText": "\nพวกเราจึงอ่อนแอต่อไฟฟ้า...",
+          "Length": 32
         }
       ]
     },
@@ -979,12 +1094,14 @@
         {
           "Line": 901,
           "OriginalText": "You just went and bought all of them,\ndid you?",
-          "TranslatedText": "คุณซื้อหมดเลยงั้นเหรอ?"
+          "TranslatedText": "คุณซื้อหมดเลยงั้นเหรอ?",
+          "Length": 46
         },
         {
           "Line": 905,
           "OriginalText": " I\u0027ll be sure to stock up soon!",
-          "TranslatedText": " ไว้ฉันจะหามาเติมนะ!"
+          "TranslatedText": " ไว้ฉันจะหามาเติมนะ!",
+          "Length": 31
         }
       ]
     },
@@ -995,12 +1112,14 @@
         {
           "Line": 914,
           "OriginalText": "Thank you for that spending spree!",
-          "TranslatedText": "ขอบคุณที่ซื้อเยอะขนาดนี้นะ!"
+          "TranslatedText": "ขอบคุณที่ซื้อเยอะขนาดนี้นะ!",
+          "Length": 34
         },
         {
           "Line": 918,
           "OriginalText": "\nYou cleaned us out, so I\u0027ll restock.",
-          "TranslatedText": "\nคุณซื้อไปหมดเลย เดี๋ยวฉันจะหามาเติม"
+          "TranslatedText": "\nคุณซื้อไปหมดเลย เดี๋ยวฉันจะหามาเติม",
+          "Length": 37
         }
       ]
     },
@@ -1011,17 +1130,20 @@
         {
           "Line": 927,
           "OriginalText": "Thank you very much!",
-          "TranslatedText": "ขอบคุณมาก!"
+          "TranslatedText": "ขอบคุณมาก!",
+          "Length": 20
         },
         {
           "Line": 931,
           "OriginalText": " I see we\nran out of some items. ",
-          "TranslatedText": " ฉันเห็นแล้ว\nสินค้าบางตัวหมด "
+          "TranslatedText": " ฉันเห็นแล้ว\nสินค้าบางตัวหมด ",
+          "Length": 33
         },
         {
           "Line": 935,
           "OriginalText": "I\u0027m working\non replenishing our stock here!",
-          "TranslatedText": "ฉันกำลังจัดหามาเติมอยู่!"
+          "TranslatedText": "ฉันกำลังจัดหามาเติมอยู่!",
+          "Length": 43
         }
       ]
     },
@@ -1032,12 +1154,14 @@
         {
           "Line": 944,
           "OriginalText": "Thank you for buying so much!",
-          "TranslatedText": "ขอบคุณที่ซื้อไปมากมาย!"
+          "TranslatedText": "ขอบคุณที่ซื้อไปมากมาย!",
+          "Length": 29
         },
         {
           "Line": 948,
           "OriginalText": "\nBe sure to come back soon when\nwe\u0027ve restocked!",
-          "TranslatedText": "\nแล้วกลับมาใหม่เมื่อเราเติมสินค้าแล้วนะ!"
+          "TranslatedText": "\nแล้วกลับมาใหม่เมื่อเราเติมสินค้าแล้วนะ!",
+          "Length": 48
         }
       ]
     }

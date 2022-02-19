@@ -8,7 +8,8 @@
         {
           "Line": 8,
           "OriginalText": "Tough times?",
-          "TranslatedText": "เวลาเช่นนี้?"
+          "TranslatedText": "เวลาเช่นนี้?",
+          "Length": 12
         }
       ]
     },
@@ -18,7 +19,8 @@
         {
           "Line": 12,
           "OriginalText": "I understand.",
-          "TranslatedText": "ฉันเข้าใจ"
+          "TranslatedText": "ฉันเข้าใจ",
+          "Length": 13
         }
       ]
     },
@@ -29,7 +31,8 @@
         {
           "Line": 16,
           "OriginalText": "Tell me about Riju.",
-          "TranslatedText": "บอกฉันเกี่ยวกับ Riju"
+          "TranslatedText": "บอกฉันเกี่ยวกับ Riju",
+          "Length": 19
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "Line": 20,
           "OriginalText": "Tell me about Buliara.",
-          "TranslatedText": "บอกฉันเกี่ยวกับ Buliara"
+          "TranslatedText": "บอกฉันเกี่ยวกับ Buliara",
+          "Length": 22
         }
       ]
     },
@@ -49,7 +53,8 @@
         {
           "Line": 24,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -60,7 +65,8 @@
         {
           "Line": 28,
           "OriginalText": "So jealous...",
-          "TranslatedText": "อิจฉาจัง"
+          "TranslatedText": "อิจฉาจัง",
+          "Length": 13
         }
       ]
     },
@@ -75,34 +81,40 @@
         {
           "Line": 37,
           "OriginalText": "The ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 41,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 44,
           "OriginalText": " may be young, but she\u0027s a\nkind person who puts her people first.\n\nShe told me to allow visitors through,\neven in these tough times...\n\n",
-          "TranslatedText": "อาจจะยังเด็ก แต่เธอเป็นคนจิตใจดี\nที่นึกถึงผู้อื่นก่อนเสมอ\n\nเธอบอกให้ฉันปล่อยให้ผู้มาเยือนเข้ามาได้\nแม้แต่ในเวลาเช่นนี้...\n\n"
+          "TranslatedText": "อาจจะยังเด็ก แต่เธอเป็นคนจิตใจดี\nที่นึกถึงผู้อื่นก่อนเสมอ\n\nเธอบอกให้ฉันปล่อยให้ผู้มาเยือนเข้ามาได้\nแม้แต่ในเวลาเช่นนี้...\n\n",
+          "Length": 136
         },
         {
           "Line": 50,
           "OriginalText": "Hey, listen! Even though I\u0027m letting you\ninside, that doesn\u0027t mean you can go\ngetting in the ",
-          "TranslatedText": "นี่ ฟังนะ! ถึงฉันจะปล่อยให้คุณเข้าไปข้างใน\nแต่ไม่ได้แปลว่าคุณจะเข้าไป\nเกะกะ"
+          "TranslatedText": "นี่ ฟังนะ! ถึงฉันจะปล่อยให้คุณเข้าไปข้างใน\nแต่ไม่ได้แปลว่าคุณจะเข้าไป\nเกะกะ",
+          "Length": 93
         },
         {
           "Line": 54,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 57,
           "OriginalText": "\u0027s way! Watch out!",
-          "TranslatedText": "ได้! ระวังด้วย"
+          "TranslatedText": "ได้! ระวังด้วย",
+          "Length": 18
         }
       ]
     },
@@ -113,56 +125,66 @@
         {
           "Line": 74,
           "OriginalText": "That being said, this vai called\nMalena... It seemed she was looking\nfor ",
-          "TranslatedText": "ว่าไปแล้ว มี vai ที่ชื่อ Malena...\nดูเหมือนว่าเธอกำลังหา\n"
+          "TranslatedText": "ว่าไปแล้ว มี vai ที่ชื่อ Malena...\nดูเหมือนว่าเธอกำลังหา\n",
+          "Length": 73
         },
         {
           "Line": 78,
           "OriginalText": "Molduga guts",
           "TranslatedText": "Molduga guts",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 81,
           "OriginalText": ".\n",
-          "TranslatedText": " อยู่\n"
+          "TranslatedText": " อยู่\n",
+          "Length": 2
         },
         {
           "Line": 85,
           "OriginalText": "Molduga ",
           "TranslatedText": "Molduga ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 88,
           "OriginalText": "live in ",
-          "TranslatedText": "อาศัยอยู่ใน"
+          "TranslatedText": "อาศัยอยู่ใน",
+          "Length": 8
         },
         {
           "Line": 92,
           "OriginalText": "extremely hot areas",
           "TranslatedText": "พื้นที่ร้อนจัด",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 19
         },
         {
           "Line": 95,
           "OriginalText": ".\n\n\nNo one wants to go there to begin with,\nmuch less to kill a giant monster and\nscoop out its innards.\n",
-          "TranslatedText": "\n\n\nเดิมทีก็ไม่มีใครอยากไปที่นั่นหรอก\nไม่ต้องพูดถึงว่าไปเพื่อฆ่ามอนสเตอร์\nขนาดยักษ์และควักเครื่องในมันออกมาหรอก\n"
+          "TranslatedText": "\n\n\nเดิมทีก็ไม่มีใครอยากไปที่นั่นหรอก\nไม่ต้องพูดถึงว่าไปเพื่อฆ่ามอนสเตอร์\nขนาดยักษ์และควักเครื่องในมันออกมาหรอก\n",
+          "Length": 105
         },
         {
           "Line": 101,
           "OriginalText": "It\u0027s unfortunate, but I doubt anyone in \n",
-          "TranslatedText": "โชคไม่ดี แต่ฉันสงสัยว่าจะมีใครใน \n"
+          "TranslatedText": "โชคไม่ดี แต่ฉันสงสัยว่าจะมีใครใน \n",
+          "Length": 41
         },
         {
           "Line": 105,
           "OriginalText": "Gerudo Town ",
           "TranslatedText": "Gerudo Town ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 108,
           "OriginalText": "will be willing to help \nthe vai...",
-          "TranslatedText": "ยินดีช่วยเธอเหรอ..."
+          "TranslatedText": "ยินดีช่วยเธอเหรอ...",
+          "Length": 35
         }
       ]
     },
@@ -177,39 +199,46 @@
         {
           "Line": 117,
           "OriginalText": "We\u0027ve got a lot of visitors today...\n\n\nThe ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 43
         },
         {
           "Line": 121,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 124,
           "OriginalText": " may be young, but she\u0027s the\nkind of leader who puts her people first.\n\nShe told me to allow visitors through,\neven with the tough times lately...\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 148
         },
         {
           "Line": 130,
           "OriginalText": "Hey, listen!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         },
         {
           "Line": 134,
           "OriginalText": " Even though I\u0027m letting you\ninside, that doesn\u0027t mean you can go\ngetting in the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 81
         },
         {
           "Line": 138,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 141,
           "OriginalText": "\u0027s way! Watch out!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         }
       ]
     },
@@ -220,7 +249,8 @@
         {
           "Line": 158,
           "OriginalText": "This is a Gerudo problem! It is none of\nyour concern!",
-          "TranslatedText": "นี่เป็นปัญหาของ Gerudo! \nไม่ใช่เรื่องที่คุณต้องเป็นห่วง!"
+          "TranslatedText": "นี่เป็นปัญหาของ Gerudo! \nไม่ใช่เรื่องที่คุณต้องเป็นห่วง!",
+          "Length": 53
         }
       ]
     },
@@ -231,7 +261,8 @@
         {
           "Line": 167,
           "OriginalText": "Take care not to be rude.",
-          "TranslatedText": "พยายามอย่าหยาบคายล่ะ"
+          "TranslatedText": "พยายามอย่าหยาบคายล่ะ",
+          "Length": 25
         }
       ]
     },
@@ -242,72 +273,85 @@
         {
           "Line": 176,
           "OriginalText": "I overheard your conversation with\nthe ",
-          "TranslatedText": "ฉันแอบได้ยินที่คุณคุยกับ"
+          "TranslatedText": "ฉันแอบได้ยินที่คุณคุยกับ",
+          "Length": 39
         },
         {
           "Line": 180,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 183,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 187,
           "OriginalText": "\n\nYou aren\u0027t just a regular Hylian, are you?\n\n\nAnyway...",
-          "TranslatedText": "\n\nคุณเป็นแค่ชาว Hylian ธรรมดาไม่ใช่เหรอ?\n\n\nเอาเถอะ..."
+          "TranslatedText": "\n\nคุณเป็นแค่ชาว Hylian ธรรมดาไม่ใช่เหรอ?\n\n\nเอาเถอะ...",
+          "Length": 56
         },
         {
           "Line": 191,
           "OriginalText": " It\u0027s been a while since I\u0027ve\nseen the ",
-          "TranslatedText": "มันก็นานมาแล้วที่ฉันได้เห็น\n"
+          "TranslatedText": "มันก็นานมาแล้วที่ฉันได้เห็น\n",
+          "Length": 39
         },
         {
           "Line": 195,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 198,
           "OriginalText": " wearing that helm.\n\nIt has always looked a little big on her,\nif you ask me.\n\nShe\u0027s headed for the ",
-          "TranslatedText": " สวมหมวกนั่น\n\nมันก็ใหญ่ไปหน่อยสำหรับเธอนะ \nถ้าถามฉัน\n\nเธอออกไปที่ "
+          "TranslatedText": " สวมหมวกนั่น\n\nมันก็ใหญ่ไปหน่อยสำหรับเธอนะ \nถ้าถามฉัน\n\nเธอออกไปที่ ",
+          "Length": 100
         },
         {
           "Line": 202,
           "OriginalText": "lookout post",
           "TranslatedText": "lookout post",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 205,
           "OriginalText": ". If you\ntake the ",
-          "TranslatedText": " แล้ว ถ้าคุณใช้\n"
+          "TranslatedText": " แล้ว ถ้าคุณใช้\n",
+          "Length": 18
         },
         {
           "Line": 209,
           "OriginalText": "southeast gate",
           "TranslatedText": "ประตูอาคเนย์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 212,
           "OriginalText": ", you\u0027ll be closest\nto it.\nJust ask the guard at the ",
-          "TranslatedText": "จะใกล้ที่สุด\nลองถามทหารที่"
+          "TranslatedText": "จะใกล้ที่สุด\nลองถามทหารที่",
+          "Length": 53
         },
         {
           "Line": 216,
           "OriginalText": "southeast gate",
           "TranslatedText": "ประตูอาคเนย์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 219,
           "OriginalText": "\nfor directions if you get lost.",
-          "TranslatedText": "\nดูถ้าหลงทาง"
+          "TranslatedText": "\nดูถ้าหลงทาง",
+          "Length": 32
         }
       ]
     },
@@ -318,17 +362,20 @@
         {
           "Line": 228,
           "OriginalText": "Hey!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 232,
           "OriginalText": " Treat her with due respect and call\nher Lady Riju. Her youth doesn\u0027t stop\nher from looking out for her people!\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 112
         },
         {
           "Line": 238,
           "OriginalText": "She puts up a tough front most\nof the time, but she does have a\nsofter side, too...\nWith all the expectations of leadership,\nthough, she can only let that side show\nwhen she\u0027s in private...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 189
         }
       ]
     },
@@ -343,17 +390,20 @@
         {
           "Line": 247,
           "OriginalText": "\u0022Tell me about Buliara\u0022?! How can you\nnot know about her? It\u0027s an insult to\nthink her name isn\u0027t recognized...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 111
         },
         {
           "Line": 253,
           "OriginalText": "Buliara is the best spear master in the\nwhole town, of course!\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 64
         },
         {
           "Line": 259,
           "OriginalText": "She inspired me to take up the spear\nwhen I was young, but despite all my\ntraining, I\u0027m not even close to her skill.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 116
         }
       ]
     },
@@ -364,18 +414,21 @@
         {
           "Line": 276,
           "OriginalText": "I only hope that all of ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 24
         },
         {
           "Line": 280,
           "OriginalText": "Lady Riju",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 283,
           "OriginalText": "\u0027s\npredecessors are watching her now, and\nthey see how commendable she\u0027s been.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 78
         }
       ]
     },
@@ -391,34 +444,40 @@
         {
           "Line": 297,
           "OriginalText": "Seems that you weren\u0027t just an average \nHylian after all.\n\nWhen the Divine Beast first appeared,\na day didn\u0027t go by that the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 125
         },
         {
           "Line": 301,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 304,
           "OriginalText": " and\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 5
         },
         {
           "Line": 308,
           "OriginalText": "Buliara",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 311,
           "OriginalText": " didn\u0027t look stressed.\nBut now... Well, it\u0027s like years have been\nlifted from them.\n\nThis is all thanks to you.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 111
         },
         {
           "Line": 321,
           "OriginalText": "\nSarqso.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 8
         }
       ]
     },
@@ -429,22 +488,26 @@
         {
           "Line": 339,
           "OriginalText": "This vai, Malena... ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 20
         },
         {
           "Line": 343,
           "OriginalText": "It looked like\nsomething was bothering her.\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 45
         },
         {
           "Line": 349,
           "OriginalText": "She keeps coming back here, and it\u0027s\nstarting to make me worry. ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 64
         },
         {
           "Line": 358,
           "OriginalText": "But I can\u0027t\nafford to leave my post right now...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 48
         }
       ]
     },
@@ -459,44 +522,52 @@
         {
           "Line": 367,
           "OriginalText": "This vai, Malena... It seems like she\nreally is in desperate need, but we aren\u0027t\nable to help right now...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 107
         },
         {
           "Line": 373,
           "OriginalText": "With times so tough, there\u0027s not a lot we\ncan do, but the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 58
         },
         {
           "Line": 377,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 380,
           "OriginalText": " is the kind of leader\nwho puts her people first.\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 50
         },
         {
           "Line": 386,
           "OriginalText": "Hey, listen!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         },
         {
           "Line": 390,
           "OriginalText": " Even though I\u0027m letting you\ninside, that doesn\u0027t mean you can go\ngetting in the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 81
         },
         {
           "Line": 394,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 397,
           "OriginalText": "\u0027s way! Watch out!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         }
       ]
     },
@@ -511,23 +582,27 @@
         {
           "Line": 414,
           "OriginalText": "Even in these tough times, the chief\nwon\u0027t let any of her official duties slide,\nincluding things that feel unimportant.\nShe\u0027s instructed me to go ahead and\nlet people who wish to speak with her\ncome in, regardless of subject matter...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 236
         },
         {
           "Line": 420,
           "OriginalText": "So you may enter, but with a word of\nwarning. Do not get in the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 64
         },
         {
           "Line": 424,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 427,
           "OriginalText": "\u0027s way!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 7
         }
       ]
     },
@@ -538,40 +613,47 @@
         {
           "Line": 444,
           "OriginalText": "What makes you so special that the",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 34
         },
         {
           "Line": 448,
           "OriginalText": " chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 451,
           "OriginalText": "\nwould trust you with retrieving the\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 37
         },
         {
           "Line": 455,
           "OriginalText": "Thunder Helm",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 458,
           "OriginalText": "?\nHrmph. Regardless, I hope you are\nprepared. This task will not be a\nsimple one.\nThe thieves were able to slip past all of\nour guards, so they\u0027re certainly not\namateurs.\nYou should head over to the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 199
         },
         {
           "Line": 462,
           "OriginalText": "barracks",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 465,
           "OriginalText": " if\nyou want to learn more...\n\nThe soldiers there have been\ninvestigating the theft for a while, so\nthey should be able to help.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 128
         }
       ]
     },
@@ -582,7 +664,8 @@
         {
           "Line": 474,
           "OriginalText": "We\u0027ve had a lot of visitors today...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 36
         }
       ]
     },
@@ -593,32 +676,38 @@
         {
           "Line": 486,
           "OriginalText": "Even so...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 10
         },
         {
           "Line": 490,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 3
         },
         {
           "Line": 496,
           "OriginalText": "This vai, Malena...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 19
         },
         {
           "Line": 500,
           "OriginalText": " It seems like she\nreally is in desperate need,",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 47
         },
         {
           "Line": 504,
           "OriginalText": " but we\naren\u0027t able to help right now...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 41
         },
         {
           "Line": 510,
           "OriginalText": "It pains me to be unable to do anything...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 42
         }
       ]
     },
@@ -629,40 +718,47 @@
         {
           "Line": 519,
           "OriginalText": "I think this is the first time I\u0027ve seen the\nchief look so proud and regal...\n\nShe is waiting for you at the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 109
         },
         {
           "Line": 523,
           "OriginalText": "lookout \npost",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 526,
           "OriginalText": ". If you take the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         },
         {
           "Line": 530,
           "OriginalText": "southeast gate",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 533,
           "OriginalText": ",\nyou\u0027ll be nearly there.\nJust ask the guard at the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 52
         },
         {
           "Line": 537,
           "OriginalText": "southeast gate",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 540,
           "OriginalText": "\nfor directions if you get lost.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 32
         }
       ]
     },
@@ -678,40 +774,47 @@
         {
           "Line": 554,
           "OriginalText": "When the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 9
         },
         {
           "Line": 558,
           "OriginalText": "Divine Beast",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 561,
           "OriginalText": " first appeared,\na day didn\u0027t go by that the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 45
         },
         {
           "Line": 565,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 568,
           "OriginalText": " and\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 5
         },
         {
           "Line": 572,
           "OriginalText": "Buliara",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 575,
           "OriginalText": " didn\u0027t look stressed.\nBut now... Well, it\u0027s like years have been\nlifted from them.\n\nThis is all thanks to you.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 111
         }
       ]
     },
@@ -726,17 +829,20 @@
         {
           "Line": 593,
           "OriginalText": "Hey!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 597,
           "OriginalText": " Treat her with due respect and call\nher Lady Riju. Her youth doesn\u0027t stop\nher from looking out for her people!\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 112
         },
         {
           "Line": 603,
           "OriginalText": "She puts up a tough front most\nof the time, but she does have a\nsofter side, too...\nWith all the expectations of leadership,\nthough, she can only let that side show\nwhen she\u0027s in private...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 189
         }
       ]
     },
@@ -747,17 +853,20 @@
         {
           "Line": 620,
           "OriginalText": "\u0022Tell me about Buliara\u0022?! How can you\nnot know about her? It\u0027s an insult to\nthink her name isn\u0027t recognized...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 111
         },
         {
           "Line": 626,
           "OriginalText": "Buliara is the best spear master in the\nwhole town, of course!\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 64
         },
         {
           "Line": 632,
           "OriginalText": "She inspired me to take up the spear\nwhen I was young, but despite all my\ntraining, I\u0027m not even close to her skill.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 116
         }
       ]
     },
@@ -768,18 +877,21 @@
         {
           "Line": 641,
           "OriginalText": "You may be acting on behalf of the chief,\nbut that won\u0027t make the thieves any less\nformidable.\nYou should know your enemy well before\nyou try to move against them.\n\nI\u0027d suggest visiting the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 190
         },
         {
           "Line": 645,
           "OriginalText": "barracks",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 648,
           "OriginalText": " and\ntalking to the soldiers there. They should\nknow more about the thieves.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 76
         }
       ]
     },
@@ -790,7 +902,8 @@
         {
           "Line": 657,
           "OriginalText": "The chief is waiting!\nCome, hurry inside!",
-          "TranslatedText": "หัวหน้ากำลังรออยู่!\nเข้ามาข้างในเร็ว!"
+          "TranslatedText": "หัวหน้ากำลังรออยู่!\nเข้ามาข้างในเร็ว!",
+          "Length": 41
         }
       ]
     },
@@ -801,7 +914,8 @@
         {
           "Line": 666,
           "OriginalText": "Oh, you\u0027re back!",
-          "TranslatedText": "อ้อ คุณกลับมาแล้ว!"
+          "TranslatedText": "อ้อ คุณกลับมาแล้ว!",
+          "Length": 16
         }
       ]
     },
@@ -816,44 +930,52 @@
         {
           "Line": 675,
           "OriginalText": "This vai, Malena...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 19
         },
         {
           "Line": 679,
           "OriginalText": " It seemed like she\nwas really in need, so I\u0027m glad to see\na smile on her face again.\nI was worried about her, so it really is\nreassuring to know that she was able to\nfind help.\nWith times so tough, there\u0027s not a lot we\ncan do, but the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 236
         },
         {
           "Line": 683,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 686,
           "OriginalText": " is the kind of leader\nwho puts her people first.\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 50
         },
         {
           "Line": 692,
           "OriginalText": "Hey, listen!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         },
         {
           "Line": 696,
           "OriginalText": " Even though I\u0027m letting you\ninside, that doesn\u0027t mean you can go\ngetting in the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 81
         },
         {
           "Line": 700,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 703,
           "OriginalText": "\u0027s way! Watch out!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         }
       ]
     },
@@ -868,39 +990,46 @@
         {
           "Line": 720,
           "OriginalText": "This vai\u0027s smile has finally returned\nto her...\n\nWith times so tough, there\u0027s not a lot we\ncan do, but the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 107
         },
         {
           "Line": 724,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 727,
           "OriginalText": " is the kind of leader\nwho puts her people first.\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 50
         },
         {
           "Line": 733,
           "OriginalText": "Hey, listen!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         },
         {
           "Line": 737,
           "OriginalText": " Even though I\u0027m letting you\ninside, that doesn\u0027t mean you can go\ngetting in the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 81
         },
         {
           "Line": 741,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 744,
           "OriginalText": "\u0027s way! Watch out!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         }
       ]
     },
@@ -911,7 +1040,8 @@
         {
           "Line": 761,
           "OriginalText": "Sav\u0027otta.",
-          "TranslatedText": "Sav\u0027otta."
+          "TranslatedText": "Sav\u0027otta.",
+          "Length": 9
         }
       ]
     },
@@ -922,7 +1052,8 @@
         {
           "Line": 770,
           "OriginalText": "Sav\u0027aaq.",
-          "TranslatedText": "Sav\u0027aaq."
+          "TranslatedText": "Sav\u0027aaq.",
+          "Length": 8
         }
       ]
     },
@@ -933,7 +1064,8 @@
         {
           "Line": 779,
           "OriginalText": "Sav\u0027saaba.",
-          "TranslatedText": "Sav\u0027saaba."
+          "TranslatedText": "Sav\u0027saaba.",
+          "Length": 10
         }
       ]
     }

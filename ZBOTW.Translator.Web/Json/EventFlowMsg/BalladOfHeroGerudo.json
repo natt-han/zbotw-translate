@@ -7,7 +7,8 @@
         {
           "Line": 13,
           "OriginalText": "Sand-seal races?",
-          "TranslatedText": "การแข่งขันSand-seal?"
+          "TranslatedText": "การแข่งขันSand-seal?",
+          "Length": 16
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 22,
           "OriginalText": "Bye.",
-          "TranslatedText": "บาย"
+          "TranslatedText": "บาย",
+          "Length": 4
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 26,
           "OriginalText": "About that...",
-          "TranslatedText": "เกี่ยวกับเรื่องนั้น..."
+          "TranslatedText": "เกี่ยวกับเรื่องนั้น...",
+          "Length": 13
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 30,
           "OriginalText": "I\u0027ll be back!",
-          "TranslatedText": "ฉันจะกลับมา!"
+          "TranslatedText": "ฉันจะกลับมา!",
+          "Length": 13
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 34,
           "OriginalText": "Information?",
-          "TranslatedText": "ข้อมูล?"
+          "TranslatedText": "ข้อมูล?",
+          "Length": 12
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 38,
           "OriginalText": "Tell me about Urbosa.",
-          "TranslatedText": "บอกฉันเกี่ยวกับ Urbosa"
+          "TranslatedText": "บอกฉันเกี่ยวกับ Urbosa",
+          "Length": 21
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 42,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 46,
           "OriginalText": "Riju...",
-          "TranslatedText": "Riju..."
+          "TranslatedText": "Riju...",
+          "Length": 7
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 50,
           "OriginalText": "Where\u0027s the chief?",
-          "TranslatedText": "หัวหน้าอยู่ไหน?"
+          "TranslatedText": "หัวหน้าอยู่ไหน?",
+          "Length": 18
         }
       ]
     },
@@ -97,7 +106,8 @@
         {
           "Line": 54,
           "OriginalText": "The treasured orb?",
-          "TranslatedText": "orb ที่มีค่า?"
+          "TranslatedText": "orb ที่มีค่า?",
+          "Length": 18
         }
       ]
     },
@@ -107,7 +117,8 @@
         {
           "Line": 58,
           "OriginalText": "Urbosa\u0027s diary?",
-          "TranslatedText": "Urbosa ไดอารี่?"
+          "TranslatedText": "Urbosa ไดอารี่?",
+          "Length": 15
         }
       ]
     },
@@ -117,7 +128,8 @@
         {
           "Line": 62,
           "OriginalText": "I\u0027ve heard of it.",
-          "TranslatedText": "ฉันเคยได้ยินมาแล้ว"
+          "TranslatedText": "ฉันเคยได้ยินมาแล้ว",
+          "Length": 17
         }
       ]
     },
@@ -127,7 +139,8 @@
         {
           "Line": 66,
           "OriginalText": "Never heard of it.",
-          "TranslatedText": "ไม่เคยได้ยินมาก่อน"
+          "TranslatedText": "ไม่เคยได้ยินมาก่อน",
+          "Length": 18
         }
       ]
     },
@@ -138,23 +151,27 @@
         {
           "Line": 75,
           "OriginalText": "That\u0027s MY ",
-          "TranslatedText": "นั่น "
+          "TranslatedText": "นั่น ",
+          "Length": 10
         },
         {
           "Line": 79,
           "OriginalText": "sand seal",
           "TranslatedText": "sand sealของฉัน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 82,
           "OriginalText": ", so you\u0027d better\nstay back. ",
-          "TranslatedText": " ดังนั้นคุณควรกลับไปดีกว่า"
+          "TranslatedText": " ดังนั้นคุณควรกลับไปดีกว่า",
+          "Length": 29
         },
         {
           "Line": 88,
           "OriginalText": "I won\u0027t be held responsible\nif Frelly gets upset.",
-          "TranslatedText": "ฉันจะไม่รับผิดชอบ\nถ้าFrellyอารมณ์เสีย"
+          "TranslatedText": "ฉันจะไม่รับผิดชอบ\nถ้าFrellyอารมณ์เสีย",
+          "Length": 49
         }
       ]
     },
@@ -164,23 +181,27 @@
         {
           "Line": 97,
           "OriginalText": "I know one thing for sure... The ",
-          "TranslatedText": "ฉันรู้แน่นอน... "
+          "TranslatedText": "ฉันรู้แน่นอน... ",
+          "Length": 33
         },
         {
           "Line": 101,
           "OriginalText": "orb they\nstole from the Gerudo tribe ",
           "TranslatedText": " พวกเขาขโมยorb\nมาจากเผ่า Gerudo ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 37
         },
         {
           "Line": 104,
           "OriginalText": "is in their\nsecond floor storage area.\n",
-          "TranslatedText": "อยู่ในพื้นที่เก็บของชั้นสอง\nของพวกเขา"
+          "TranslatedText": "อยู่ในพื้นที่เก็บของชั้นสอง\nของพวกเขา",
+          "Length": 39
         },
         {
           "Line": 110,
           "OriginalText": "But getting there is too dangerous.\nStaying alive is essential to being a\ngreat treasure hunter!",
-          "TranslatedText": "แต่การไปถึงที่นั่นมันอันตรายเกินไป\nการมีชีวิตอยู่เป็นสิ่งจำเป็นในการเป็นนักล่าสมบัติที่ยิ่งใหญ่!"
+          "TranslatedText": "แต่การไปถึงที่นั่นมันอันตรายเกินไป\nการมีชีวิตอยู่เป็นสิ่งจำเป็นในการเป็นนักล่าสมบัติที่ยิ่งใหญ่!",
+          "Length": 96
         }
       ]
     },
@@ -190,12 +211,14 @@
         {
           "Line": 119,
           "OriginalText": "I hear the Yiga Clan were taken out by\na traveling swordsman. And yet...\n\n",
-          "TranslatedText": "ฉันได้ยินมาว่าตระกูลYiga ถูกนักดาบเดินทาง\nฆ่าไป แต่ยังไงก็ตาม...\n\n"
+          "TranslatedText": "ฉันได้ยินมาว่าตระกูลYiga ถูกนักดาบเดินทาง\nฆ่าไป แต่ยังไงก็ตาม...\n\n",
+          "Length": 74
         },
         {
           "Line": 125,
           "OriginalText": "There are still an awful lot of \u0027em around!\nThey seem to be hoarding bananas too.\nMaybe they\u0027re still up to no good?!",
-          "TranslatedText": "ยังมีพวกมันอยู่เยอะแยะเลย!\nพวกเขาดูเหมือนจะสะสมกล้วยด้วย\nบางทีพวกเขาอาจจะยังทำสิ่งที่ไม่ดี?!"
+          "TranslatedText": "ยังมีพวกมันอยู่เยอะแยะเลย!\nพวกเขาดูเหมือนจะสะสมกล้วยด้วย\nบางทีพวกเขาอาจจะยังทำสิ่งที่ไม่ดี?!",
+          "Length": 117
         }
       ]
     },
@@ -205,23 +228,27 @@
         {
           "Line": 134,
           "OriginalText": "Did you really go in there...\n\n\nand nab ",
-          "TranslatedText": "คุณเข้าไปในนั้นจริงๆเหรอ...\n\n\nและเอา"
+          "TranslatedText": "คุณเข้าไปในนั้นจริงๆเหรอ...\n\n\nและเอา",
+          "Length": 40
         },
         {
           "Line": 138,
           "OriginalText": "that orb",
           "TranslatedText": "Orbนั้น",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 141,
           "OriginalText": "?\n\n\nYou stole it, yeah?\n\n\nYou really did?!\n\n\n",
-          "TranslatedText": "?\n\n\nคุณขโมยมันใช่ไหม?\n\n\nจริงเหรอ?!\n\n\n"
+          "TranslatedText": "?\n\n\nคุณขโมยมันใช่ไหม?\n\n\nจริงเหรอ?!\n\n\n",
+          "Length": 45
         },
         {
           "Line": 147,
           "OriginalText": "Yikes. If they find out, they\u0027ll surely\nchase you down until the end of time!",
-          "TranslatedText": "อ๊ะ ถ้าพวกเขารู้ \nพวกเขาจะไล่ล่าคุณจนถึงที่สุด!"
+          "TranslatedText": "อ๊ะ ถ้าพวกเขารู้ \nพวกเขาจะไล่ล่าคุณจนถึงที่สุด!",
+          "Length": 77
         }
       ]
     },
@@ -231,12 +258,14 @@
         {
           "Line": 159,
           "OriginalText": "Oooh... You threw the precious treasure\ndown below...\n\n",
-          "TranslatedText": "อู้ววว... คุณโยนสมบัติอันมีค่า\nลงไปข้างล่าง...\n\n"
+          "TranslatedText": "อู้ววว... คุณโยนสมบัติอันมีค่า\nลงไปข้างล่าง...\n\n",
+          "Length": 55
         },
         {
           "Line": 168,
           "OriginalText": "What were you thinking?!",
-          "TranslatedText": "คิดอะไรอยู่เหรอ?!"
+          "TranslatedText": "คิดอะไรอยู่เหรอ?!",
+          "Length": 24
         }
       ]
     },
@@ -246,61 +275,72 @@
         {
           "Line": 177,
           "OriginalText": "Hm? Are you looking for treasure too?\n\n\nThe ",
-          "TranslatedText": "หืม? คุณกำลังมองหาสมบัติด้วยหรือเปล่า?\n\n\nตระกูล "
+          "TranslatedText": "หืม? คุณกำลังมองหาสมบัติด้วยหรือเปล่า?\n\n\nตระกูล ",
+          "Length": 44
         },
         {
           "Line": 181,
           "OriginalText": "Yiga Clan",
           "TranslatedText": "Yiga",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 184,
           "OriginalText": "... They took one of the\nGerudo Tribe\u0027s treasures in there,\na ",
-          "TranslatedText": "... พวกเขาเอาสมบัติ\nของเผ่าGerudo\nไปไว้ในนั้น "
+          "TranslatedText": "... พวกเขาเอาสมบัติ\nของเผ่าGerudo\nไปไว้ในนั้น ",
+          "Length": 62
         },
         {
           "Line": 188,
           "OriginalText": "sacred",
           "TranslatedText": "orb",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 6
         },
         {
           "Line": 191,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 195,
           "OriginalText": "orb ",
           "TranslatedText": "ศักดิ์สิทธิ์ ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 4
         },
         {
           "Line": 198,
           "OriginalText": "or something.\nIt looked like it could sell for a\nhigh price, so I followed them.\nBut... Well...\n",
-          "TranslatedText": "หรืออะไรสักอย่าง\nมันดูเหมือนว่ามันจะขายได้ในราคาที่สูง \nดังนั้น ฉันจึงตามพวกเขาไป\nแต่... เอ่อ...\n"
+          "TranslatedText": "หรืออะไรสักอย่าง\nมันดูเหมือนว่ามันจะขายได้ในราคาที่สูง \nดังนั้น ฉันจึงตามพวกเขาไป\nแต่... เอ่อ...\n",
+          "Length": 96
         },
         {
           "Line": 204,
           "OriginalText": "Now I\u0027m thinking I should probably\nback away while I still can.\n\n",
-          "TranslatedText": "ตอนนี้ฉันคิดว่าฉันควรถอยออกไป\nในขณะที่ฉันยังทำได้\n\n"
+          "TranslatedText": "ตอนนี้ฉันคิดว่าฉันควรถอยออกไป\nในขณะที่ฉันยังทำได้\n\n",
+          "Length": 65
         },
         {
           "Line": 213,
           "OriginalText": "Wait. You don\u0027t think...\n\n\nThey\u0027re not planning to throw the\n",
-          "TranslatedText": "เดี๋ยว คุณไม่คิดว่า...\n\n\nพวกเขาไม่ได้วางแผนที่จะโยน\n"
+          "TranslatedText": "เดี๋ยว คุณไม่คิดว่า...\n\n\nพวกเขาไม่ได้วางแผนที่จะโยน\n",
+          "Length": 61
         },
         {
           "Line": 217,
           "OriginalText": "sacred orb",
           "TranslatedText": "orb ศักดิ์สิทธิ์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 220,
           "OriginalText": " into that big, gaping hole\nlike that old legend says...right?",
-          "TranslatedText": "เข้าไปในหลุมใหญ่ที่กว้าง\nอย่างที่ตำนานเก่าบอก...ใช่มั๊ย?"
+          "TranslatedText": "เข้าไปในหลุมใหญ่ที่กว้าง\nอย่างที่ตำนานเก่าบอก...ใช่มั๊ย?",
+          "Length": 62
         }
       ]
     },
@@ -310,39 +350,46 @@
         {
           "Line": 229,
           "OriginalText": "The Yiga Clan stole ",
-          "TranslatedText": "ตระกูล Yiga ขโมยไป "
+          "TranslatedText": "ตระกูล Yiga ขโมยไป ",
+          "Length": 20
         },
         {
           "Line": 233,
           "OriginalText": "the Gerudo\u0027s\ntreasured orb",
           "TranslatedText": "Orb อันล้ำค่าของ Gerudo",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 26
         },
         {
           "Line": 236,
           "OriginalText": ". It\u0027s in there.\nI\u0027m sure of it!\n",
-          "TranslatedText": " มันอยู่ในนั้น\nฉันมั่นใจ!\n"
+          "TranslatedText": " มันอยู่ในนั้น\nฉันมั่นใจ!\n",
+          "Length": 33
         },
         {
           "Line": 242,
           "OriginalText": "...But now I\u0027m thinking this was\na bad idea.\n\n",
-          "TranslatedText": "...แต่ตอนนี้ฉันคิดว่า\nนี่เป็นความคิดที่แย่\n\n"
+          "TranslatedText": "...แต่ตอนนี้ฉันคิดว่า\nนี่เป็นความคิดที่แย่\n\n",
+          "Length": 46
         },
         {
           "Line": 248,
           "OriginalText": "Hmm... They\u0027re not planning to throw\nthe ",
-          "TranslatedText": "อืม... พวกเขาไม่ได้วางแผน\nที่จะโยน "
+          "TranslatedText": "อืม... พวกเขาไม่ได้วางแผน\nที่จะโยน ",
+          "Length": 41
         },
         {
           "Line": 252,
           "OriginalText": "sacred orb",
           "TranslatedText": "Orbศักดิ์สิทธิ์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 255,
           "OriginalText": " into that big, gaping hole\nlike that old legend says...right?",
-          "TranslatedText": "เข้าไปในหลุมใหญ่ที่กว้าง\nอย่างที่ตำนานเก่าบอก...ใช่มั๊ย?"
+          "TranslatedText": "เข้าไปในหลุมใหญ่ที่กว้าง\nอย่างที่ตำนานเก่าบอก...ใช่มั๊ย?",
+          "Length": 62
         }
       ]
     },
@@ -352,23 +399,27 @@
         {
           "Line": 264,
           "OriginalText": "That orb... Could it be? Is that the\n",
-          "TranslatedText": "Orbนั่น... เป็นไปได้ไหม? นั่นใช่..."
+          "TranslatedText": "Orbนั่น... เป็นไปได้ไหม? นั่นใช่...",
+          "Length": 37
         },
         {
           "Line": 268,
           "OriginalText": "treasure of the Gerudo",
           "TranslatedText": "สมบัติของ Gerudo",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 22
         },
         {
           "Line": 271,
           "OriginalText": "?!\n\n",
-          "TranslatedText": "?!\n\n"
+          "TranslatedText": "?!\n\n",
+          "Length": 4
         },
         {
           "Line": 277,
           "OriginalText": "That is SO not fair! We found it first!",
-          "TranslatedText": "นั่นไม่ยุติธรรมเลย! เราเจอมันก่อน!"
+          "TranslatedText": "นั่นไม่ยุติธรรมเลย! เราเจอมันก่อน!",
+          "Length": 39
         }
       ]
     },
@@ -378,12 +429,14 @@
         {
           "Line": 286,
           "OriginalText": "You\u0027re throwing away treasure?! You do\nrealize how wasteful that is, right?\n\n",
-          "TranslatedText": "คุณกำลังโยนสมบัติทิ้ง?! \nคุณรู้ใช่มั้ยว่ามันเสียเปล่าแค่ไหน\n\n"
+          "TranslatedText": "คุณกำลังโยนสมบัติทิ้ง?! \nคุณรู้ใช่มั้ยว่ามันเสียเปล่าแค่ไหน\n\n",
+          "Length": 77
         },
         {
           "Line": 292,
           "OriginalText": "If you didn\u0027t want it, I would have been\nhappy to take it off your hands.",
-          "TranslatedText": "ถ้าคุณไม่ต้องการมัน ฉันยินดีที่จะเอามันออกจากมือของคุณ"
+          "TranslatedText": "ถ้าคุณไม่ต้องการมัน ฉันยินดีที่จะเอามันออกจากมือของคุณ",
+          "Length": 73
         }
       ]
     },
@@ -399,12 +452,14 @@
         {
           "Line": 301,
           "OriginalText": "Yes?",
-          "TranslatedText": "ใช่?"
+          "TranslatedText": "ใช่?",
+          "Length": 4
         },
         {
           "Line": 305,
           "OriginalText": " Do you need something?",
-          "TranslatedText": " คุณต้องการอะไร?"
+          "TranslatedText": " คุณต้องการอะไร?",
+          "Length": 23
         }
       ]
     },
@@ -420,7 +475,8 @@
         {
           "Line": 323,
           "OriginalText": "Hm? Do you need something?",
-          "TranslatedText": "หืม? คุณต้องการอะไร?"
+          "TranslatedText": "หืม? คุณต้องการอะไร?",
+          "Length": 26
         }
       ]
     },
@@ -436,12 +492,14 @@
         {
           "Line": 341,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 3
         },
         {
           "Line": 345,
           "OriginalText": " Speak up. You look like you wish\nto ask me something.",
-          "TranslatedText": "พูดดังๆหน่อย คุณดูเหมือน\nอยากจะถามอะไรฉันบางอย่าง"
+          "TranslatedText": "พูดดังๆหน่อย คุณดูเหมือน\nอยากจะถามอะไรฉันบางอย่าง",
+          "Length": 54
         }
       ]
     },
@@ -457,12 +515,14 @@
         {
           "Line": 363,
           "OriginalText": "Link.",
-          "TranslatedText": "Link"
+          "TranslatedText": "Link",
+          "Length": 5
         },
         {
           "Line": 367,
           "OriginalText": " Is there anything else you wish\nto ask me?",
-          "TranslatedText": "มีอะไรอีกไหม\nที่คุณอยากจะถามฉัน"
+          "TranslatedText": "มีอะไรอีกไหม\nที่คุณอยากจะถามฉัน",
+          "Length": 43
         }
       ]
     },
@@ -478,12 +538,14 @@
         {
           "Line": 385,
           "OriginalText": "What is it?",
-          "TranslatedText": "มันคืออะไร?"
+          "TranslatedText": "มันคืออะไร?",
+          "Length": 11
         },
         {
           "Line": 389,
           "OriginalText": " What do you need?",
-          "TranslatedText": " อะไรที่คุณต้องการ?"
+          "TranslatedText": " อะไรที่คุณต้องการ?",
+          "Length": 18
         }
       ]
     },
@@ -498,12 +560,14 @@
         {
           "Line": 407,
           "OriginalText": "Yes?",
-          "TranslatedText": "ใช่?"
+          "TranslatedText": "ใช่?",
+          "Length": 4
         },
         {
           "Line": 411,
           "OriginalText": " Do you need something?",
-          "TranslatedText": " คุณต้องการอะไร?"
+          "TranslatedText": " คุณต้องการอะไร?",
+          "Length": 23
         }
       ]
     },
@@ -518,12 +582,14 @@
         {
           "Line": 428,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 3
         },
         {
           "Line": 432,
           "OriginalText": " Speak up. You look like you wish\nto ask me something.",
-          "TranslatedText": "พูดดังๆหน่อย คุณดูเหมือน\nอยากจะถามอะไรฉันบางอย่าง"
+          "TranslatedText": "พูดดังๆหน่อย คุณดูเหมือน\nอยากจะถามอะไรฉันบางอย่าง",
+          "Length": 54
         }
       ]
     },
@@ -538,12 +604,14 @@
         {
           "Line": 449,
           "OriginalText": "What is it?",
-          "TranslatedText": "มันคืออะไร?"
+          "TranslatedText": "มันคืออะไร?",
+          "Length": 11
         },
         {
           "Line": 453,
           "OriginalText": " What do you need?",
-          "TranslatedText": " อะไรที่คุณต้องการ?"
+          "TranslatedText": " อะไรที่คุณต้องการ?",
+          "Length": 18
         }
       ]
     },
@@ -554,106 +622,125 @@
         {
           "Line": 470,
           "OriginalText": "You wish to speak of ",
-          "TranslatedText": "คุณต้องการที่จะพูดถึง "
+          "TranslatedText": "คุณต้องการที่จะพูดถึง ",
+          "Length": 21
         },
         {
           "Line": 474,
           "OriginalText": "Lady",
           "TranslatedText": "Lady",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 477,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 481,
           "OriginalText": "Urbosa",
           "TranslatedText": "Urbosa",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 484,
           "OriginalText": "?\nHm, what an interesting request.  \n\nAfter ",
-          "TranslatedText": "?\nอืม ช่างเป็นคำขอที่น่าสนใจจริงๆ  \n\nหลังจาก"
+          "TranslatedText": "?\nอืม ช่างเป็นคำขอที่น่าสนใจจริงๆ  \n\nหลังจาก",
+          "Length": 44
         },
         {
           "Line": 488,
           "OriginalText": "Naboris",
           "TranslatedText": "Naboris",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 491,
           "OriginalText": " was tamed, we located\n",
-          "TranslatedText": "ถูกทำให้เชื่อง เราก็พบ\n"
+          "TranslatedText": "ถูกทำให้เชื่อง เราก็พบ\n",
+          "Length": 23
         },
         {
           "Line": 495,
           "OriginalText": "Lady Urbosa\u0027s diary",
           "TranslatedText": "ไดอารี่ของ Lady Urbosa ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 19
         },
         {
           "Line": 498,
           "OriginalText": ". Since you\u0027re here,\nI shall tell you something from it.\n",
-          "TranslatedText": " ในเมื่อคุณอยู่ที่นี่ \nฉันจะบอกคุณบางที่พบในนั้น\n"
+          "TranslatedText": " ในเมื่อคุณอยู่ที่นี่ \nฉันจะบอกคุณบางที่พบในนั้น\n",
+          "Length": 57
         },
         {
           "Line": 502,
           "OriginalText": "Lady",
           "TranslatedText": "Lady",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 505,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 509,
           "OriginalText": "Urbosa",
           "TranslatedText": "Urbosa",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 512,
           "OriginalText": " had a beloved friend\nwhom she thought the world of...\n",
-          "TranslatedText": "มีเพื่อนรัก\nที่เธอรักยิ่งกว่าใคร...\n"
+          "TranslatedText": "มีเพื่อนรัก\nที่เธอรักยิ่งกว่าใคร...\n",
+          "Length": 55
         },
         {
           "Line": 516,
           "OriginalText": "the queen of Hyrule",
           "TranslatedText": "ราชินีแห่ง Hyrule",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 19
         },
         {
           "Line": 519,
           "OriginalText": ".\nSuch a big heart... Our ",
-          "TranslatedText": "\nหัวใจที่ยิ่งใหญ่... "
+          "TranslatedText": "\nหัวใจที่ยิ่งใหญ่... ",
+          "Length": 26
         },
         {
           "Line": 523,
           "OriginalText": "Lady",
           "TranslatedText": "Lady",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 526,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 530,
           "OriginalText": "Urbosa",
           "TranslatedText": "Urbosa",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 533,
           "OriginalText": " was\nadmirable in every aspect of her life.",
-          "TranslatedText": "ของเราน่าชื่นชม\nในทุกแง่มุมของชีวิตของเธอ"
+          "TranslatedText": "ของเราน่าชื่นชม\nในทุกแง่มุมของชีวิตของเธอ",
+          "Length": 43
         }
       ]
     },
@@ -665,23 +752,27 @@
           "Line": 548,
           "OriginalText": "Lady Urbosa\u0027s diary",
           "TranslatedText": "ไดอารี่ของ Lady Urbosa ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 19
         },
         {
           "Line": 551,
           "OriginalText": " is in ",
-          "TranslatedText": " อยู่ใน "
+          "TranslatedText": " อยู่ใน ",
+          "Length": 7
         },
         {
           "Line": 555,
           "OriginalText": "my room",
           "TranslatedText": "ห้องของฉัน",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 558,
           "OriginalText": ".\nSince she trusted you, I\u0027m certain she\nwouldn\u0027t mind you reading it.",
-          "TranslatedText": "\nในเมื่อเธอเชื่อใจคุณ ฉันแน่ใจว่าเธอคง\nไม่รังเกียจที่จะให้คุณอ่านมัน"
+          "TranslatedText": "\nในเมื่อเธอเชื่อใจคุณ ฉันแน่ใจว่าเธอคง\nไม่รังเกียจที่จะให้คุณอ่านมัน",
+          "Length": 70
         }
       ]
     },
@@ -692,145 +783,172 @@
         {
           "Line": 567,
           "OriginalText": "Are you referring to the treasure of the\nGerudo?",
-          "TranslatedText": "คุณหมายถึง\nสมบัติของ Gerudo หรือไม่?"
+          "TranslatedText": "คุณหมายถึง\nสมบัติของ Gerudo หรือไม่?",
+          "Length": 48
         },
         {
           "Line": 571,
           "OriginalText": " The ",
-          "TranslatedText": " orb"
+          "TranslatedText": " orb",
+          "Length": 5
         },
         {
           "Line": 575,
           "OriginalText": "sacred orb",
           "TranslatedText": "ศักดิ์สิทธิ์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 578,
           "OriginalText": " kept safe by\nmy people for generations?\n",
-          "TranslatedText": "ถูกดูแลรักษา\nโดยคนของฉันเป็นเวลาหลายชั่วอายุ?\n"
+          "TranslatedText": "ถูกดูแลรักษา\nโดยคนของฉันเป็นเวลาหลายชั่วอายุ?\n",
+          "Length": 41
         },
         {
           "Line": 584,
           "OriginalText": "Link... Answer truly. Are you challenging\nthe same trial that ",
-          "TranslatedText": "Link...ตอบมาตามตรงนะ คุณกำลังท้าทาย\nการทดสอบเดียวกับที่ "
+          "TranslatedText": "Link...ตอบมาตามตรงนะ คุณกำลังท้าทาย\nการทดสอบเดียวกับที่ ",
+          "Length": 62
         },
         {
           "Line": 588,
           "OriginalText": "Lady Urbosa ",
           "TranslatedText": "Lady Urbosa ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 591,
           "OriginalText": "overcame\nall those years ago?\n",
-          "TranslatedText": "ผ่านมาได้\nเมื่อหลายปีที่ก่อนเหรอ?\n"
+          "TranslatedText": "ผ่านมาได้\nเมื่อหลายปีที่ก่อนเหรอ?\n",
+          "Length": 30
         },
         {
           "Line": 597,
           "OriginalText": "In that case, I shall not keep this a secret\nfrom you. Our ",
-          "TranslatedText": "ถ้างั้น ฉันจะไม่เก็บเรื่องนี้\nเป็นความลับจากคุณ "
+          "TranslatedText": "ถ้างั้น ฉันจะไม่เก็บเรื่องนี้\nเป็นความลับจากคุณ ",
+          "Length": 59
         },
         {
           "Line": 601,
           "OriginalText": "treasured orb ",
           "TranslatedText": " orb มีค่าของเรา ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 604,
           "OriginalText": "was stolen.\n\n",
-          "TranslatedText": "ถูกขโมยไป\n\n"
+          "TranslatedText": "ถูกขโมยไป\n\n",
+          "Length": 13
         },
         {
           "Line": 610,
           "OriginalText": "Yet another massive failure...",
-          "TranslatedText": "อีกหนึ่งความล้มเหลวครั้งใหญ่..."
+          "TranslatedText": "อีกหนึ่งความล้มเหลวครั้งใหญ่...",
+          "Length": 30
         },
         {
           "Line": 614,
           "OriginalText": "as though\nthe incident with the ",
-          "TranslatedText": "ราวกับว่าเหตุการณ์\nที่เกิดขึ้นกับ "
+          "TranslatedText": "ราวกับว่าเหตุการณ์\nที่เกิดขึ้นกับ ",
+          "Length": 32
         },
         {
           "Line": 618,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 621,
           "OriginalText": "\nwasn\u0027t humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the ",
-          "TranslatedText": "\nไม่น่าอับอายพอ\nเหนือสิ่งอื่นใด คนที่ขโมยสมบัตินั้น\nไม่ใช่ใครอื่นนอกจากศัตรูที่ร่วมสาบานของเรา\nนั่นคือ "
+          "TranslatedText": "\nไม่น่าอับอายพอ\nเหนือสิ่งอื่นใด คนที่ขโมยสมบัตินั้น\nไม่ใช่ใครอื่นนอกจากศัตรูที่ร่วมสาบานของเรา\nนั่นคือ ",
+          "Length": 123
         },
         {
           "Line": 625,
           "OriginalText": "Yiga Clan",
           "TranslatedText": "Yiga Clan",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 628,
           "OriginalText": ".\nLuckily, the first to notice its absence\nwas ",
-          "TranslatedText": "\nโชคดีที่คนแรกที่สังเกตเห็น\nการหายไปของมันคือ "
+          "TranslatedText": "\nโชคดีที่คนแรกที่สังเกตเห็น\nการหายไปของมันคือ ",
+          "Length": 47
         },
         {
           "Line": 632,
           "OriginalText": "Buliara",
           "TranslatedText": "Buliara",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 635,
           "OriginalText": ". As of now, she and I are the\nonly members of our tribe who know.\n",
-          "TranslatedText": " ตอนนี้ เธอกับฉัน\nเป็นสมาชิกสองคนในเผ่าของเราที่รู้\n"
+          "TranslatedText": " ตอนนี้ เธอกับฉัน\nเป็นสมาชิกสองคนในเผ่าของเราที่รู้\n",
+          "Length": 67
         },
         {
           "Line": 641,
           "OriginalText": "Link...",
-          "TranslatedText": "Link..."
+          "TranslatedText": "Link...",
+          "Length": 7
         },
         {
           "Line": 645,
           "OriginalText": " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the ",
-          "TranslatedText": "คุณจะยินดีที่จะช่วยเรา\nนำสมบัติศักดิ์สิทธิ์กลับมา\nจากปีศาจเหล่านั้นอีกครั้งหรือไม่\nในทางกลับกัน คุณสามารถใช้"
+          "TranslatedText": "คุณจะยินดีที่จะช่วยเรา\nนำสมบัติศักดิ์สิทธิ์กลับมา\nจากปีศาจเหล่านั้นอีกครั้งหรือไม่\nในทางกลับกัน คุณสามารถใช้",
+          "Length": 115
         },
         {
           "Line": 649,
           "OriginalText": "treasured orb",
           "TranslatedText": "orbที่มีค่ามาก",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 652,
           "OriginalText": "\nhowever you please to complete the trial.\n\n",
-          "TranslatedText": "\nได้ตามต้องการเพื่อผ่านการทดสอบนั้น\n\n"
+          "TranslatedText": "\nได้ตามต้องการเพื่อผ่านการทดสอบนั้น\n\n",
+          "Length": 44
         },
         {
           "Line": 661,
           "OriginalText": "Perhaps it is fate, as that ",
-          "TranslatedText": "บางทีมันอาจจะเป็นโชคชะตาก็ได้ "
+          "TranslatedText": "บางทีมันอาจจะเป็นโชคชะตาก็ได้ ",
+          "Length": 28
         },
         {
           "Line": 665,
           "OriginalText": "orb",
           "TranslatedText": "orb",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 668,
           "OriginalText": " was made\nto be used for the very trial you are\nchallenging. ",
-          "TranslatedText": " ถูกสร้างขึ้น\nเพื่อใช้สำหรับการทดสอบ\nที่คุณกำลังเผชิญ"
+          "TranslatedText": " ถูกสร้างขึ้น\nเพื่อใช้สำหรับการทดสอบ\nที่คุณกำลังเผชิญ",
+          "Length": 61
         },
         {
           "Line": 672,
           "OriginalText": "I wish you luck in finding it.\nI\u0027m sorry to burden you with my\ntroubles again, but...",
-          "TranslatedText": "ขอให้คุณโชคดีในการหามัน\nฉันขอโทษที่ทำให้คุณเป็นภาระ \nด้วยปัญหาของฉันอีกครั้ง แต่..."
+          "TranslatedText": "ขอให้คุณโชคดีในการหามัน\nฉันขอโทษที่ทำให้คุณเป็นภาระ \nด้วยปัญหาของฉันอีกครั้ง แต่...",
+          "Length": 85
         },
         {
           "Line": 676,
           "OriginalText": "I\u0027m counting\non you.",
-          "TranslatedText": "ฉันพึ่งพาคุณอยู่"
+          "TranslatedText": "ฉันพึ่งพาคุณอยู่",
+          "Length": 20
         }
       ]
     },
@@ -841,81 +959,96 @@
         {
           "Line": 685,
           "OriginalText": "Yet another massive failure...",
-          "TranslatedText": "อีกหนึ่งความล้มเหลวครั้งใหญ่..."
+          "TranslatedText": "อีกหนึ่งความล้มเหลวครั้งใหญ่...",
+          "Length": 30
         },
         {
           "Line": 689,
           "OriginalText": "as though\nthe incident with the ",
-          "TranslatedText": "ราวกับว่าเหตุการณ์\nที่เกิดขึ้นกับ "
+          "TranslatedText": "ราวกับว่าเหตุการณ์\nที่เกิดขึ้นกับ ",
+          "Length": 32
         },
         {
           "Line": 693,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 696,
           "OriginalText": "\nwasn\u0027t humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the ",
-          "TranslatedText": "\nไม่น่าอับอายพอ\nยิ่งไปกว่านั้น คนที่ขโมยสมบัตินั้น\nไม่ใช่ใครอื่นนอกจากศัตรู\nที่ร่วมสาบานของเรา"
+          "TranslatedText": "\nไม่น่าอับอายพอ\nยิ่งไปกว่านั้น คนที่ขโมยสมบัตินั้น\nไม่ใช่ใครอื่นนอกจากศัตรู\nที่ร่วมสาบานของเรา",
+          "Length": 123
         },
         {
           "Line": 700,
           "OriginalText": "Yiga Clan",
           "TranslatedText": "Yiga Clan",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 703,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": ".\n",
+          "Length": 2
         },
         {
           "Line": 709,
           "OriginalText": "Link...",
-          "TranslatedText": "Link..."
+          "TranslatedText": "Link...",
+          "Length": 7
         },
         {
           "Line": 713,
           "OriginalText": " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the ",
-          "TranslatedText": "คุณจะยินดีที่จะช่วยเรา\nนำสมบัติศักดิ์สิทธิ์กลับมา\nจากปีศาจเหล่านั้นอีกครั้งหรือไม่\nในทางกลับกัน คุณสามารถใช้"
+          "TranslatedText": "คุณจะยินดีที่จะช่วยเรา\nนำสมบัติศักดิ์สิทธิ์กลับมา\nจากปีศาจเหล่านั้นอีกครั้งหรือไม่\nในทางกลับกัน คุณสามารถใช้",
+          "Length": 115
         },
         {
           "Line": 717,
           "OriginalText": "treasured orb",
           "TranslatedText": " orbมีค่า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 720,
           "OriginalText": "\nhowever you please to complete the trial.\n\n",
-          "TranslatedText": "\nได้ตามต้องการเพื่อผ่านการทดสอบนั้น\n\n"
+          "TranslatedText": "\nได้ตามต้องการเพื่อผ่านการทดสอบนั้น\n\n",
+          "Length": 44
         },
         {
           "Line": 729,
           "OriginalText": "Perhaps it is fate, as that ",
-          "TranslatedText": "บางทีมันอาจจะเป็นโชคชะตาก็ได้ "
+          "TranslatedText": "บางทีมันอาจจะเป็นโชคชะตาก็ได้ ",
+          "Length": 28
         },
         {
           "Line": 733,
           "OriginalText": "orb",
           "TranslatedText": "orb",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 736,
           "OriginalText": " was made\nto be used for the very trial you are\nchallenging. ",
-          "TranslatedText": " ถูกสร้างขึ้นเพื่อใช้สำหรับ\nการทดลอง\nที่คุณกำลังท้าทาย "
+          "TranslatedText": " ถูกสร้างขึ้นเพื่อใช้สำหรับ\nการทดลอง\nที่คุณกำลังท้าทาย ",
+          "Length": 61
         },
         {
           "Line": 740,
           "OriginalText": "I wish you luck in finding it.\nI\u0027m sorry to burden you with my\ntroubles again, but...",
-          "TranslatedText": "ขอให้คุณโชคดีในการหามัน\nฉันขอโทษที่ทำให้คุณเป็นภาระ \nด้วยปัญหาของฉันอีกครั้ง แต่..."
+          "TranslatedText": "ขอให้คุณโชคดีในการหามัน\nฉันขอโทษที่ทำให้คุณเป็นภาระ \nด้วยปัญหาของฉันอีกครั้ง แต่...",
+          "Length": 85
         },
         {
           "Line": 744,
           "OriginalText": "I\u0027m counting\non you.",
-          "TranslatedText": "ฉันพึ่งพาคุณอยู่"
+          "TranslatedText": "ฉันพึ่งพาคุณอยู่",
+          "Length": 20
         }
       ]
     },
@@ -927,12 +1060,14 @@
           "Line": 756,
           "OriginalText": "Lady Urbosa\u0027s diary",
           "TranslatedText": "Lady Urbosa ไดอารี่",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 19
         },
         {
           "Line": 759,
           "OriginalText": " is on the sofa.\nSince she trusted you, I\u0027m certain she\nwouldn\u0027t mind you reading it.",
-          "TranslatedText": " อยู่บนโซฟา\nเนื่องจากเธอเชื่อใจคุณ\nฉันแน่ใจว่าเธอคงไม่รังเกียจที่คุณจะอ่านมัน"
+          "TranslatedText": " อยู่บนโซฟา\nเนื่องจากเธอเชื่อใจคุณ\nฉันแน่ใจว่าเธอคงไม่รังเกียจที่คุณจะอ่านมัน",
+          "Length": 85
         }
       ]
     },
@@ -948,38 +1083,45 @@
         {
           "Line": 768,
           "OriginalText": "When I wore the ",
-          "TranslatedText": "เมื่อฉันสวม "
+          "TranslatedText": "เมื่อฉันสวม ",
+          "Length": 16
         },
         {
           "Line": 772,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 775,
           "OriginalText": "and\nfought at your side, I thought I heard\na name called out on the wind.",
-          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม"
+          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม",
+          "Length": 73
         },
         {
           "Line": 779,
           "OriginalText": " Riju...",
-          "TranslatedText": " Riju..."
+          "TranslatedText": " Riju...",
+          "Length": 8
         },
         {
           "Line": 783,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 789,
           "OriginalText": "Heh... I hadn\u0027t been called by that name\nin a while. ",
-          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้\nมานานแล้ว "
+          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้\nมานานแล้ว ",
+          "Length": 53
         },
         {
           "Line": 795,
           "OriginalText": "That strong, warm voice...\nIt must have belonged to Urbosa...",
-          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่..."
+          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่...",
+          "Length": 61
         }
       ]
     },
@@ -996,38 +1138,45 @@
         {
           "Line": 813,
           "OriginalText": "When I wore the ",
-          "TranslatedText": "เมื่อฉันสวม "
+          "TranslatedText": "เมื่อฉันสวม ",
+          "Length": 16
         },
         {
           "Line": 817,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 820,
           "OriginalText": "and\nfought at your side, I thought I heard\na name called out on the wind.",
-          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม"
+          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม",
+          "Length": 73
         },
         {
           "Line": 824,
           "OriginalText": " Riju...",
-          "TranslatedText": " Riju..."
+          "TranslatedText": " Riju...",
+          "Length": 8
         },
         {
           "Line": 828,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 834,
           "OriginalText": "Heh... I hadn\u0027t been called by that name\nin a while. ",
-          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้\nมานานแล้ว "
+          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้\nมานานแล้ว ",
+          "Length": 53
         },
         {
           "Line": 840,
           "OriginalText": "That strong, warm voice...\nIt must have belonged to Urbosa...",
-          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่..."
+          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่...",
+          "Length": 61
         }
       ]
     },
@@ -1044,38 +1193,45 @@
         {
           "Line": 859,
           "OriginalText": "When I wore the ",
-          "TranslatedText": "เมื่อฉันสวม "
+          "TranslatedText": "เมื่อฉันสวม ",
+          "Length": 16
         },
         {
           "Line": 863,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 866,
           "OriginalText": "and\nfought at your side, I thought I heard\na name called out on the wind.",
-          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม"
+          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยิน\nเสียงเรียกชื่อลอยมาในสายลม",
+          "Length": 73
         },
         {
           "Line": 870,
           "OriginalText": " Riju...",
-          "TranslatedText": " Riju..."
+          "TranslatedText": " Riju...",
+          "Length": 8
         },
         {
           "Line": 874,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 880,
           "OriginalText": "Heh... I hadn\u0027t been called by that name\nin a while. ",
-          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียก\nด้วยชื่อนี้มานานแล้ว"
+          "TranslatedText": "หึ... ฉันไม่ได้ถูกเรียก\nด้วยชื่อนี้มานานแล้ว",
+          "Length": 53
         },
         {
           "Line": 886,
           "OriginalText": "That strong, warm voice...\nIt must have belonged to Urbosa...",
-          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่..."
+          "TranslatedText": "เสียงที่หนักแน่นอบอุ่นนั่น...\nมันต้องเป็นของ Urbosa แน่...",
+          "Length": 61
         }
       ]
     },
@@ -1086,7 +1242,8 @@
         {
           "Line": 905,
           "OriginalText": "If you need something, speak now.",
-          "TranslatedText": "ถ้าคุณต้องการอะไร พูดมาเลย"
+          "TranslatedText": "ถ้าคุณต้องการอะไร พูดมาเลย",
+          "Length": 33
         }
       ]
     },
@@ -1097,92 +1254,109 @@
         {
           "Line": 966,
           "OriginalText": "What?",
-          "TranslatedText": "อะไรนะ?"
+          "TranslatedText": "อะไรนะ?",
+          "Length": 5
         },
         {
           "Line": 970,
           "OriginalText": " How do you know about that?!",
-          "TranslatedText": " คุณรู้เรื่องนั้นได้ยังไง?!"
+          "TranslatedText": " คุณรู้เรื่องนั้นได้ยังไง?!",
+          "Length": 29
         },
         {
           "Line": 981,
           "OriginalText": "My apologies...",
-          "TranslatedText": "\nขอโทษด้วย..."
+          "TranslatedText": "\nขอโทษด้วย...",
+          "Length": 15
         },
         {
           "Line": 985,
           "OriginalText": " There\u0027s no point in\nlosing my temper with you.\n\nThe ",
-          "TranslatedText": "ไม่มีประโยชน์\nที่จะเสียอารมณ์กับคุณ\n\n"
+          "TranslatedText": "ไม่มีประโยชน์\nที่จะเสียอารมณ์กับคุณ\n\n",
+          "Length": 53
         },
         {
           "Line": 989,
           "OriginalText": "treasure of my people",
           "TranslatedText": "สมบัติของประชาชนของฉัน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 992,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 996,
           "OriginalText": "\n\n\nThe ",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 7
         },
         {
           "Line": 1000,
           "OriginalText": "sacred orb",
           "TranslatedText": "Orb ศักดิ์สิทธิ์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1003,
           "OriginalText": " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the ",
-          "TranslatedText": " ที่เราพิทักษ์รักษา\nมาหลายชั่วอายุคนหายไป \nของล้ำค่าอีกชิ้นที่ถูกขโมยโดย "
+          "TranslatedText": " ที่เราพิทักษ์รักษา\nมาหลายชั่วอายุคนหายไป \nของล้ำค่าอีกชิ้นที่ถูกขโมยโดย ",
+          "Length": 83
         },
         {
           "Line": 1007,
           "OriginalText": "Yiga Clan",
           "TranslatedText": "Yiga Clan",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 1010,
           "OriginalText": ".\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 1016,
           "OriginalText": "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n",
-          "TranslatedText": "พวกปีศาจนั่น! ฉันคิดว่าพวกมันถูกกำจัดไปแล้ว\nแม้ว่าฉันจะได้ยินข่าวลือว่าพวกมัน\nรวมกลุ่มกันใหม่ที่ฐานของพวกมัน\n"
+          "TranslatedText": "พวกปีศาจนั่น! ฉันคิดว่าพวกมันถูกกำจัดไปแล้ว\nแม้ว่าฉันจะได้ยินข่าวลือว่าพวกมัน\nรวมกลุ่มกันใหม่ที่ฐานของพวกมัน\n",
+          "Length": 109
         },
         {
           "Line": 1022,
           "OriginalText": "Only ",
-          "TranslatedText": "มีแค่ "
+          "TranslatedText": "มีแค่ ",
+          "Length": 5
         },
         {
           "Line": 1026,
           "OriginalText": "Lady",
           "TranslatedText": "Lady",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 1029,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1033,
           "OriginalText": "Riju",
           "TranslatedText": "Riju",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 1036,
           "OriginalText": " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone.",
-          "TranslatedText": " และตัวฉันที่\nรู้ว่า orb ถูกขโมยไป \nอย่าพูดเรื่องนี้กับใครนะ"
+          "TranslatedText": " และตัวฉันที่\nรู้ว่า orb ถูกขโมยไป \nอย่าพูดเรื่องนี้กับใครนะ",
+          "Length": 73
         }
       ]
     },
@@ -1193,77 +1367,91 @@
         {
           "Line": 1045,
           "OriginalText": "The ",
-          "TranslatedText": ""
+          "TranslatedText": "",
+          "Length": 4
         },
         {
           "Line": 1049,
           "OriginalText": "treasure of my people",
           "TranslatedText": "สมบัติของประชาชนของฉัน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 1052,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 1056,
           "OriginalText": "\n\n\nThe ",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 7
         },
         {
           "Line": 1060,
           "OriginalText": "sacred orb",
           "TranslatedText": "Orb ศักดิ์สิทธิ์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1063,
           "OriginalText": " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the ",
-          "TranslatedText": " ที่เราพิทักษ์รักษา\nมาหลายชั่วอายุคนหายไป ของล้ำค่าอีกชิ้น\nที่ถูกขโมยโดย "
+          "TranslatedText": " ที่เราพิทักษ์รักษา\nมาหลายชั่วอายุคนหายไป ของล้ำค่าอีกชิ้น\nที่ถูกขโมยโดย ",
+          "Length": 83
         },
         {
           "Line": 1067,
           "OriginalText": "Yiga Clan",
           "TranslatedText": "Yiga Clan",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 1070,
           "OriginalText": ".\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 1076,
           "OriginalText": "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n",
-          "TranslatedText": "พวกปีศาจนั่น! ฉันคิดว่าพวกมันถูกกำจัดไปแล้ว\nแม้ว่าฉันจะได้ยินข่าวลือว่าพวกมัน\nรวมกลุ่มกันใหม่ที่ฐานของพวกมัน\n"
+          "TranslatedText": "พวกปีศาจนั่น! ฉันคิดว่าพวกมันถูกกำจัดไปแล้ว\nแม้ว่าฉันจะได้ยินข่าวลือว่าพวกมัน\nรวมกลุ่มกันใหม่ที่ฐานของพวกมัน\n",
+          "Length": 109
         },
         {
           "Line": 1082,
           "OriginalText": "Only ",
-          "TranslatedText": "มีแค่ "
+          "TranslatedText": "มีแค่ ",
+          "Length": 5
         },
         {
           "Line": 1086,
           "OriginalText": "Lady",
           "TranslatedText": "Lady",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 1089,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1093,
           "OriginalText": "Riju",
           "TranslatedText": "Riju",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 1096,
           "OriginalText": " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone.",
-          "TranslatedText": " และตัวฉัน\nรู้ว่า Orb ถูกขโมยไป \nอย่าพูดเรื่องนี้กับใครนะ"
+          "TranslatedText": " และตัวฉัน\nรู้ว่า Orb ถูกขโมยไป \nอย่าพูดเรื่องนี้กับใครนะ",
+          "Length": 73
         }
       ]
     },
@@ -1274,23 +1462,27 @@
         {
           "Line": 1105,
           "OriginalText": "The chief is enjoying a moment of respite\nin her ",
-          "TranslatedText": "หัวหน้ากำลังเพลิดเพลินกับช่วงเวลาแห่งการพักผ่อนใน "
+          "TranslatedText": "หัวหน้ากำลังเพลิดเพลินกับช่วงเวลาแห่งการพักผ่อนใน ",
+          "Length": 49
         },
         {
           "Line": 1109,
           "OriginalText": "bedroom",
           "TranslatedText": "ห้องนอนเธอ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 1112,
           "OriginalText": ". You had better treat her\nwith respect. ",
-          "TranslatedText": " คุณควรปฏิบัติต่อเธอด้วยความเคารพ"
+          "TranslatedText": " คุณควรปฏิบัติต่อเธอด้วยความเคารพ",
+          "Length": 41
         },
         {
           "Line": 1116,
           "OriginalText": "Or else.",
-          "TranslatedText": "ไม่อย่างนั้น"
+          "TranslatedText": "ไม่อย่างนั้น",
+          "Length": 8
         }
       ]
     },
@@ -1301,7 +1493,8 @@
         {
           "Line": 1125,
           "OriginalText": "The chief is on her way. I advise you to\nbe on your best behavior.",
-          "TranslatedText": "หัวหน้ากำลังมา ฉันแนะนำให้คุณทำตัวให้ดีที่สุด\nเท่าที่จะทำได้"
+          "TranslatedText": "หัวหน้ากำลังมา ฉันแนะนำให้คุณทำตัวให้ดีที่สุด\nเท่าที่จะทำได้",
+          "Length": 66
         }
       ]
     },
@@ -1312,7 +1505,8 @@
         {
           "Line": 1134,
           "OriginalText": "...The chief is sitting right there. Are you\nso in awe you cannot even see her?",
-          "TranslatedText": "...หัวหน้านั่งอยู่ตรงนั้น คุณกลัวจนมองไม่เห็นเธอเลยเหรอ?"
+          "TranslatedText": "...หัวหน้านั่งอยู่ตรงนั้น คุณกลัวจนมองไม่เห็นเธอเลยเหรอ?",
+          "Length": 79
         }
       ]
     },
@@ -1323,23 +1517,27 @@
         {
           "Line": 1143,
           "OriginalText": "The chief is probably with",
-          "TranslatedText": "หัวหน้าอาจจะอยู่กับ"
+          "TranslatedText": "หัวหน้าอาจจะอยู่กับ",
+          "Length": 26
         },
         {
           "Line": 1147,
           "OriginalText": " Patricia",
           "TranslatedText": " Patricia",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 1150,
           "OriginalText": ".\n\n\n",
-          "TranslatedText": ".\n\n\n"
+          "TranslatedText": ".\n\n\n",
+          "Length": 4
         },
         {
           "Line": 1156,
           "OriginalText": "This is a rare moment of leisure for her,\none she dearly values. Don\u0027t even think\nof disturbing her.",
-          "TranslatedText": "นี่เป็นช่วงเวลาว่างที่หายากสำหรับเธอ \nซึ่งเธอชื่นชอบมาก \nอย่าแม้แต่จะคิดจะรบกวนเธอ"
+          "TranslatedText": "นี่เป็นช่วงเวลาว่างที่หายากสำหรับเธอ \nซึ่งเธอชื่นชอบมาก \nอย่าแม้แต่จะคิดจะรบกวนเธอ",
+          "Length": 100
         }
       ]
     },
@@ -1355,7 +1553,8 @@
         {
           "Line": 1165,
           "OriginalText": "If you need something, speak now.",
-          "TranslatedText": "หากคุณต้องการอะไรพูดได้เลย"
+          "TranslatedText": "หากคุณต้องการอะไรพูดได้เลย",
+          "Length": 33
         }
       ]
     },
@@ -1366,18 +1565,21 @@
         {
           "Line": 1183,
           "OriginalText": "Enough about that. If anything happens\nto the ",
-          "TranslatedText": "พอได้แล้ว ถ้ามีอะไรเกิดขึ้นกับ "
+          "TranslatedText": "พอได้แล้ว ถ้ามีอะไรเกิดขึ้นกับ ",
+          "Length": 46
         },
         {
           "Line": 1187,
           "OriginalText": "Champion\u0027s arms",
           "TranslatedText": "Champion\u0027s arms",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 1190,
           "OriginalText": ", you must let\nme know immediately.",
-          "TranslatedText": "คุณต้องแจ้ง\nให้ฉันทราบทันที"
+          "TranslatedText": "คุณต้องแจ้ง\nให้ฉันทราบทันที",
+          "Length": 35
         }
       ]
     },
@@ -1388,18 +1590,21 @@
         {
           "Line": 1251,
           "OriginalText": "As I\u0027ve said before, if anything happens\nto the ",
-          "TranslatedText": "อย่างที่ฉันเคยพูดไปแล้วหากเกิดอะไรขึ้นกับ "
+          "TranslatedText": "อย่างที่ฉันเคยพูดไปแล้วหากเกิดอะไรขึ้นกับ ",
+          "Length": 48
         },
         {
           "Line": 1255,
           "OriginalText": "Champion\u0027s arms",
           "TranslatedText": "Champion\u0027s arms",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 1258,
           "OriginalText": ", you must let me\nknow immediately.",
-          "TranslatedText": "คุณต้องแจ้งให้เราทราบทันที."
+          "TranslatedText": "คุณต้องแจ้งให้เราทราบทันที.",
+          "Length": 35
         }
       ]
     },
@@ -1410,18 +1615,21 @@
         {
           "Line": 1319,
           "OriginalText": "A lot happened, but... We are truly\nindebted to you.\n\nThe ",
-          "TranslatedText": "หลายอย่างเกิดขึ้น แต่... พวกเราเป็นหนี้คุณอย่างแท้จริง\n\n"
+          "TranslatedText": "หลายอย่างเกิดขึ้น แต่... พวกเราเป็นหนี้คุณอย่างแท้จริง\n\n",
+          "Length": 58
         },
         {
           "Line": 1323,
           "OriginalText": "Champion\u0027s arms",
           "TranslatedText": "Champion\u0027s arms",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 1326,
           "OriginalText": " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nIf anything happens to them, you must\nlet me know immediately.",
-          "TranslatedText": " เป็นสมบัติของ Gerudo\nคล้ายกับ Thunder Helm\n\nหากมีอะไรเกิดขึ้นกับพวกเขา\nคุณต้องแจ้งให้เราทราบทันที"
+          "TranslatedText": " เป็นสมบัติของ Gerudo\nคล้ายกับ Thunder Helm\n\nหากมีอะไรเกิดขึ้นกับพวกเขา\nคุณต้องแจ้งให้เราทราบทันที",
+          "Length": 121
         }
       ]
     },
@@ -1432,18 +1640,21 @@
         {
           "Line": 1387,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 1391,
           "OriginalText": "Champion\u0027s arms",
           "TranslatedText": "Champion\u0027s arms",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 1394,
           "OriginalText": " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nYou are perhaps the only Hylian ever\nto wield them.\n\nIf anything happens to them, you must\nlet me know immediately.",
-          "TranslatedText": "เป็นสมบัติของGerudo \nคล้ายกับThunder Helmมาก\n\nคุณอาจจะเป็นHylianคนเดียว\nที่เคยใช้พวกเขา\n\nถ้ามีอะไรเกิดขึ้นกับพวกเขา \nคุณต้องบอกฉันทันที"
+          "TranslatedText": "เป็นสมบัติของGerudo \nคล้ายกับThunder Helmมาก\n\nคุณอาจจะเป็นHylianคนเดียว\nที่เคยใช้พวกเขา\n\nถ้ามีอะไรเกิดขึ้นกับพวกเขา \nคุณต้องบอกฉันทันที",
+          "Length": 174
         }
       ]
     },
@@ -1454,7 +1665,8 @@
         {
           "Line": 1455,
           "OriginalText": "By the way...",
-          "TranslatedText": "อีกอย่างนะ..."
+          "TranslatedText": "อีกอย่างนะ...",
+          "Length": 13
         }
       ]
     },
@@ -1465,51 +1677,60 @@
         {
           "Line": 1464,
           "OriginalText": "I hear a strange type of ",
-          "TranslatedText": "ฉันได้ยินเสียงแปลกๆ "
+          "TranslatedText": "ฉันได้ยินเสียงแปลกๆ ",
+          "Length": 25
         },
         {
           "Line": 1468,
           "OriginalText": "Molduga ",
           "TranslatedText": "Molduga ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 1471,
           "OriginalText": "was\nspotted near ",
-          "TranslatedText": "ถูกพบ\nใกล้"
+          "TranslatedText": "ถูกพบ\nใกล้",
+          "Length": 17
         },
         {
           "Line": 1478,
           "OriginalText": "East Barrens",
           "TranslatedText": "Barrens ตะวันออก",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 1482,
           "OriginalText": " ",
           "TranslatedText": " ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 1
         },
         {
           "Line": 1485,
           "OriginalText": "recently. \n\nA Hylian named ",
-          "TranslatedText": "เมื่อไม่นานมานี้ \n\nHylianชื่อ "
+          "TranslatedText": "เมื่อไม่นานมานี้ \n\nHylianชื่อ ",
+          "Length": 27
         },
         {
           "Line": 1489,
           "OriginalText": "Traysi",
           "TranslatedText": "Traysi",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 1492,
           "OriginalText": " went there\nlooking for...how did she put it...\n\u0022a hot scoop.\u0022\n",
-          "TranslatedText": "ไปที่นั่น\nเพื่อตามหา...เธอพูดยังไง...\n\u0022สุกี้ร้อนๆ\u0022\n"
+          "TranslatedText": "ไปที่นั่น\nเพื่อตามหา...เธอพูดยังไง...\n\u0022สุกี้ร้อนๆ\u0022\n",
+          "Length": 63
         },
         {
           "Line": 1498,
           "OriginalText": "I hope she didn\u0027t bite off more than\nshe can chew.",
-          "TranslatedText": "ฉันหวังว่าเธอจะ\nไม่กัดมากกว่าที่เธอเคี้ยวได้"
+          "TranslatedText": "ฉันหวังว่าเธอจะ\nไม่กัดมากกว่าที่เธอเคี้ยวได้",
+          "Length": 50
         }
       ]
     },
@@ -1520,23 +1741,27 @@
         {
           "Line": 1507,
           "OriginalText": "By the way...\n\n\nDid you happen to catch sight of that\nstrange ",
-          "TranslatedText": "อีกอย่างนะ...\n\n\nคุณบังเอิญเห็นสิ่งแปลกประหลาด\nนั่นไหม"
+          "TranslatedText": "อีกอย่างนะ...\n\n\nคุณบังเอิญเห็นสิ่งแปลกประหลาด\nนั่นไหม",
+          "Length": 62
         },
         {
           "Line": 1511,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 1514,
           "OriginalText": "? And did you run into\nthat intrepid Hylian called Traysi?\n",
-          "TranslatedText": "? แล้วคุณเจอ Hylian ผู้กล้าหาญที่เรียกว่า Traysi หรือเปล่า?\n"
+          "TranslatedText": "? แล้วคุณเจอ Hylian ผู้กล้าหาญที่เรียกว่า Traysi หรือเปล่า?\n",
+          "Length": 59
         },
         {
           "Line": 1520,
           "OriginalText": "In any case, I\u0027m glad she was able to\nreturn unharmed.",
-          "TranslatedText": "อย่างไรก็ตาม ฉันดีใจที่เธอสามารถกลับมาโดยปราศจากอันตราย"
+          "TranslatedText": "อย่างไรก็ตาม ฉันดีใจที่เธอสามารถกลับมาโดยปราศจากอันตราย",
+          "Length": 54
         }
       ]
     },
@@ -1547,7 +1772,8 @@
         {
           "Line": 1524,
           "OriginalText": "Molduga...",
-          "TranslatedText": "Molduga..."
+          "TranslatedText": "Molduga...",
+          "Length": 10
         }
       ]
     },
@@ -1558,18 +1784,21 @@
         {
           "Line": 1533,
           "OriginalText": "Frelly asked me to go recruit some\nwild ",
-          "TranslatedText": "Frellyขอให้ฉันไปรับสมัครบางป่า"
+          "TranslatedText": "Frellyขอให้ฉันไปรับสมัครบางป่า",
+          "Length": 40
         },
         {
           "Line": 1537,
           "OriginalText": "sand seals",
           "TranslatedText": "sand seals",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1540,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -1584,40 +1813,47 @@
         {
           "Line": 1549,
           "OriginalText": "The desert\u0027s wild ",
-          "TranslatedText": "ป่าทะเลทราย "
+          "TranslatedText": "ป่าทะเลทราย ",
+          "Length": 18
         },
         {
           "Line": 1553,
           "OriginalText": "sand seals",
           "TranslatedText": "sand seals",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1556,
           "OriginalText": " haven\u0027t\nbeen trained, which means they\u0027ll run\naway the moment you dismount.\nBut the ones Frelly trained will wait\npatiently for their master.\n\nAll of the ",
-          "TranslatedText": " ไม่ได้รับการฝึกฝน \nซึ่งหมายความว่าพวกเขาจะหนีทันที\nที่คุณลงจากหลังมัน\nแต่ Frellyที่ได้รับการฝึกฝน\nจะรอคอยเจ้านายของพวกเขาอย่างอดทน\n\nทั้งหมด "
+          "TranslatedText": " ไม่ได้รับการฝึกฝน \nซึ่งหมายความว่าพวกเขาจะหนีทันที\nที่คุณลงจากหลังมัน\nแต่ Frellyที่ได้รับการฝึกฝน\nจะรอคอยเจ้านายของพวกเขาอย่างอดทน\n\nทั้งหมด ",
+          "Length": 155
         },
         {
           "Line": 1560,
           "OriginalText": "sand seals",
           "TranslatedText": "sand seals",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1563,
           "OriginalText": " used in the ",
-          "TranslatedText": " ใช้ใน"
+          "TranslatedText": " ใช้ใน",
+          "Length": 13
         },
         {
           "Line": 1567,
           "OriginalText": "sand-\nseal races",
           "TranslatedText": "sand-\nseal races",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 1570,
           "OriginalText": " were trained by Frelly, too.",
-          "TranslatedText": " ได้รับการฝึกฝนโดย Frelly ด้วย"
+          "TranslatedText": " ได้รับการฝึกฝนโดย Frelly ด้วย",
+          "Length": 29
         }
       ]
     },
@@ -1632,45 +1868,53 @@
         {
           "Line": 1587,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 1591,
           "OriginalText": "sand seals",
           "TranslatedText": "sand seals",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1594,
           "OriginalText": " in town were all trained\nby Frelly. They\u0027re faster, and they\u0027ll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven\u0027t been trained will just run off\nthe moment you dismount.\nIt\u0027s definitely worth renting a\ntrained one! Frelly puts her\nheart into training them!",
-          "TranslatedText": "ในเมืองทั้งหมดได้รับการฝึกโดยเฟรลลี่ \nมันเร็วกว่า และพวกเขาจะรอ\nให้คุณกลับไปหาพวกเขา\nเพื่อเปรียบเทียบ ตัวที่ไม่ได้รับการฝึก\nจะวิ่งออกไปทันทีที่คุณลงจากหลัง\nคุ้มค่ากับการเช่าที่ได้รับการฝึก\nอย่างแน่นอน! \nเฟรลลี่ทุ่มเทหัวใจของเขา\nในการฝึกพวกมัน!"
+          "TranslatedText": "ในเมืองทั้งหมดได้รับการฝึกโดยเฟรลลี่ \nมันเร็วกว่า และพวกเขาจะรอ\nให้คุณกลับไปหาพวกเขา\nเพื่อเปรียบเทียบ ตัวที่ไม่ได้รับการฝึก\nจะวิ่งออกไปทันทีที่คุณลงจากหลัง\nคุ้มค่ากับการเช่าที่ได้รับการฝึก\nอย่างแน่นอน! \nเฟรลลี่ทุ่มเทหัวใจของเขา\nในการฝึกพวกมัน!",
+          "Length": 283
         },
         {
           "Line": 1598,
           "OriginalText": "\nFrelly trained the ",
-          "TranslatedText": "\nเฟรลลี่ฝึกให้"
+          "TranslatedText": "\nเฟรลลี่ฝึกให้",
+          "Length": 20
         },
         {
           "Line": 1602,
           "OriginalText": "sand seals",
           "TranslatedText": "sand seals",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 1605,
           "OriginalText": " used in the\n",
-          "TranslatedText": "ใช้ใน\n"
+          "TranslatedText": "ใช้ใน\n",
+          "Length": 13
         },
         {
           "Line": 1609,
           "OriginalText": "sand-seal races",
           "TranslatedText": "การแข่งขันsand-seal",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 1612,
           "OriginalText": " too, of course.",
-          "TranslatedText": "แน่นอนเหมือนกัน"
+          "TranslatedText": "แน่นอนเหมือนกัน",
+          "Length": 16
         }
       ]
     },
@@ -1681,51 +1925,60 @@
         {
           "Line": 1629,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 1633,
           "OriginalText": "sand-seal races ",
           "TranslatedText": "sand-seal races ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 1636,
           "OriginalText": "are a\nGerudo tradition...\n\nIt\u0027s pretty simple—you use a ",
-          "TranslatedText": "เป็นประเพณี\nของ Gerudo...\n\nมันค่อนข้างง่าย—คุณใช้ "
+          "TranslatedText": "เป็นประเพณี\nของ Gerudo...\n\nมันค่อนข้างง่าย—คุณใช้ ",
+          "Length": 56
         },
         {
           "Line": 1640,
           "OriginalText": "sand seal",
           "TranslatedText": "sand seal",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 1643,
           "OriginalText": " \nto race around a course to see who\u0027s\nthe fastest.\nJust go out the ",
-          "TranslatedText": "\nเพื่อวิ่งรอบสนาม\nเพื่อดูว่าใครเร็วที่สุด\nแค่ออกไปข้างนอก"
+          "TranslatedText": "\nเพื่อวิ่งรอบสนาม\nเพื่อดูว่าใครเร็วที่สุด\nแค่ออกไปข้างนอก",
+          "Length": 68
         },
         {
           "Line": 1647,
           "OriginalText": "southeast gate",
           "TranslatedText": "ประตูตะวันออกเฉียงใต้",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 1650,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1654,
           "OriginalText": "of the\ntown",
           "TranslatedText": "ของ\nเมือง",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1657,
           "OriginalText": " and head to the right. You\u0027ll see\nthe starting line immediately!\nNo harm in taking a peek, right?",
-          "TranslatedText": "และมุ่งหน้าไปทางขวา \nคุณจะเห็นเส้นเริ่มต้นทันที!\nไม่มีอันตรายที่จะแอบดู ใช่ไหม?"
+          "TranslatedText": "และมุ่งหน้าไปทางขวา \nคุณจะเห็นเส้นเริ่มต้นทันที!\nไม่มีอันตรายที่จะแอบดู ใช่ไหม?",
+          "Length": 98
         }
       ]
     },
@@ -1736,48 +1989,57 @@
         {
           "Line": 1669,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 3
         },
         {
           "Line": 1673,
           "OriginalText": " What is THIS?!",
-          "TranslatedText": " นี่คืออะไร?!"
+          "TranslatedText": " นี่คืออะไร?!",
+          "Length": 15
         },
         {
           "Line": 1677,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 1683,
           "OriginalText": "Could it be...",
-          "TranslatedText": "อาจจะเป็น..."
+          "TranslatedText": "อาจจะเป็น...",
+          "Length": 14
         },
         {
           "Line": 1687,
           "OriginalText": " Are you that pretty gal\nI saw in ",
-          "TranslatedText": "เธอเป็นผู้หญิงสวย\nที่ฉันเห็นใน "
+          "TranslatedText": "เธอเป็นผู้หญิงสวย\nที่ฉันเห็นใน ",
+          "Length": 34
         },
         {
           "Line": 1691,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "เมืองGerudo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1694,
           "OriginalText": "?\n\nI\u0027m right, aren\u0027t I? Don\u0027t try to hide it!\n\n\n",
-          "TranslatedText": "?\n\nฉันพูดถูก ใช่มั้ย? อย่าพยายามซ่อนมัน!\n\n\n"
+          "TranslatedText": "?\n\nฉันพูดถูก ใช่มั้ย? อย่าพยายามซ่อนมัน!\n\n\n",
+          "Length": 48
         },
         {
           "Line": 1700,
           "OriginalText": "It doesn\u0027t matter WHAT you wear.\nThese eyes see ALL. ",
-          "TranslatedText": "มันไม่สำคัญหรอกว่าคุณใส่ชุดอะไร\nตาเหล่านี้เห็นทั้งหมด"
+          "TranslatedText": "มันไม่สำคัญหรอกว่าคุณใส่ชุดอะไร\nตาเหล่านี้เห็นทั้งหมด",
+          "Length": 53
         },
         {
           "Line": 1704,
           "OriginalText": "Traysi wasn\u0027t\nborn yesterday, after all!",
-          "TranslatedText": "Traysiไม่ได้เกิดเมื่อวานนี้ \nหลังจากทั้งหมด!"
+          "TranslatedText": "Traysiไม่ได้เกิดเมื่อวานนี้ \nหลังจากทั้งหมด!",
+          "Length": 40
         }
       ]
     },
@@ -1788,43 +2050,51 @@
         {
           "Line": 1713,
           "OriginalText": "Huh? Aren\u0027t you...",
-          "TranslatedText": "ฮะ? ไม่ใช่คุณ..."
+          "TranslatedText": "ฮะ? ไม่ใช่คุณ...",
+          "Length": 18
         },
         {
           "Line": 1717,
           "OriginalText": "that pretty gal\nI saw in ",
-          "TranslatedText": "ผู้หญิงสวย\nที่ฉันเห็นใน "
+          "TranslatedText": "ผู้หญิงสวย\nที่ฉันเห็นใน ",
+          "Length": 25
         },
         {
           "Line": 1721,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "เมืองGerudo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1724,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Length": 1
         },
         {
           "Line": 1728,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n\n"
+          "TranslatedText": "\n\n",
+          "Length": 2
         },
         {
           "Line": 1734,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         },
         {
           "Line": 1738,
           "OriginalText": " My scoop radar is going crazy\nright now...\n\n",
-          "TranslatedText": " เรดาร์ของฉัน\nพังแล้วตอนนี้ ...\n\n"
+          "TranslatedText": " เรดาร์ของฉัน\nพังแล้วตอนนี้ ...\n\n",
+          "Length": 45
         },
         {
           "Line": 1744,
           "OriginalText": "Unless I\u0027ve gone mad, you seem to be a\nyoung man dressed in some fabulous\nGerudo clothes.",
-          "TranslatedText": "หากฉันไม่บ้า คุณดูเหมือนจะเป็น\nชายหนุ่มที่แต่งตัว\nด้วยเสื้อผ้า Gerudo สุดเก๋"
+          "TranslatedText": "หากฉันไม่บ้า คุณดูเหมือนจะเป็น\nชายหนุ่มที่แต่งตัว\nด้วยเสื้อผ้า Gerudo สุดเก๋",
+          "Length": 89
         }
       ]
     },
@@ -1835,22 +2105,26 @@
         {
           "Line": 1753,
           "OriginalText": "Ooooh, I see, I see.",
-          "TranslatedText": "โอ้วว ฉันรู้ๆ"
+          "TranslatedText": "โอ้วว ฉันรู้ๆ",
+          "Length": 20
         },
         {
           "Line": 1757,
           "OriginalText": " It\u0027s because only\nwomen can enter Gerudo Town.\nClever boy.\n",
-          "TranslatedText": " เพราะมีแต่ผู้หญิงเท่านั้น\nที่สามารถเข้าเมือง Gerudoได้\nเด็กฉลาด\n"
+          "TranslatedText": " เพราะมีแต่ผู้หญิงเท่านั้น\nที่สามารถเข้าเมือง Gerudoได้\nเด็กฉลาด\n",
+          "Length": 60
         },
         {
           "Line": 1763,
           "OriginalText": "That\u0027s quite the scoop, but...",
-          "TranslatedText": "นั่นค่อนข้างเด่น แต่..."
+          "TranslatedText": "นั่นค่อนข้างเด่น แต่...",
+          "Length": 30
         },
         {
           "Line": 1767,
           "OriginalText": "I\u0027m sure you\nhad your reasons. I\u0027ll keep that gossip\nto myself. That\u0027s called \u0022integrity.\u0022",
-          "TranslatedText": "ฉันแน่ใจว่าคุณมีเหตุผลของคุณ \nฉันจะเก็บที่คิดนั้นไว้แค่ในใจ \nนั่นเรียกว่า \u0022ความซื่อสัตย์\u0022"
+          "TranslatedText": "ฉันแน่ใจว่าคุณมีเหตุผลของคุณ \nฉันจะเก็บที่คิดนั้นไว้แค่ในใจ \nนั่นเรียกว่า \u0022ความซื่อสัตย์\u0022",
+          "Length": 90
         }
       ]
     },
@@ -1861,7 +2135,8 @@
         {
           "Line": 1776,
           "OriginalText": "You probably guessed as much, but...\nI\u0027m tracking down some juicy gossip.\n\nSince you\u0027re here, I\u0027ll do you a favor and\nlet you in on a rumor I haven\u0027t even\npublished yet.",
-          "TranslatedText": "คุณอาจจะเดาได้มาก แต่...\nฉันกำลังตามรอยข่าวซุบซิบอยู่\n\nตั้งแต่คุณอยู่ที่นี่ ฉันจะช่วยอะไรคุณ \nและให้คุณรู้ข่าวลือ\nที่ฉันยังไม่ได้ตีพิมพ์เลย"
+          "TranslatedText": "คุณอาจจะเดาได้มาก แต่...\nฉันกำลังตามรอยข่าวซุบซิบอยู่\n\nตั้งแต่คุณอยู่ที่นี่ ฉันจะช่วยอะไรคุณ \nและให้คุณรู้ข่าวลือ\nที่ฉันยังไม่ได้ตีพิมพ์เลย",
+          "Length": 169
         }
       ]
     },
@@ -1872,7 +2147,8 @@
         {
           "Line": 1785,
           "OriginalText": "...Ahem. As you can see, I\u0027m busy\ngathering information!",
-          "TranslatedText": "...อะแฮ่ม อย่างที่คุณเห็นฉันยุ่งอยู่กับการรวบรวมข้อมูล!"
+          "TranslatedText": "...อะแฮ่ม อย่างที่คุณเห็นฉันยุ่งอยู่กับการรวบรวมข้อมูล!",
+          "Length": 56
         }
       ]
     },
@@ -1883,7 +2159,8 @@
         {
           "Line": 1797,
           "OriginalText": "Please, let\u0027s not play games. Don\u0027t try to\ntell me you don\u0027t know who I am!",
-          "TranslatedText": "กรุณาอย่าเล่นตลก อย่าพยายามบอกฉันว่าคุณไม่รู้ว่าฉันเป็นใคร!"
+          "TranslatedText": "กรุณาอย่าเล่นตลก อย่าพยายามบอกฉันว่าคุณไม่รู้ว่าฉันเป็นใคร!",
+          "Length": 75
         }
       ]
     },
@@ -1894,55 +2171,65 @@
         {
           "Line": 1806,
           "OriginalText": "Just when you thought you could relax...\nwhen the ",
-          "TranslatedText": "เมื่อคุณคิดว่าคุณสามารถผ่อนคลาย...\nเมื่อ"
+          "TranslatedText": "เมื่อคุณคิดว่าคุณสามารถผ่อนคลาย...\nเมื่อ",
+          "Length": 50
         },
         {
           "Line": 1810,
           "OriginalText": "Divine Beast ",
           "TranslatedText": "อสูรศักดิ์สิทธิ์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 1813,
           "OriginalText": "had settled and\nthe ",
-          "TranslatedText": "ได้สงบ\nและ "
+          "TranslatedText": "ได้สงบ\nและ ",
+          "Length": 20
         },
         {
           "Line": 1817,
           "OriginalText": "lightning",
           "TranslatedText": "ฟ้าผ่า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 1820,
           "OriginalText": " had stopped...\n",
-          "TranslatedText": " หยุดลง...\n"
+          "TranslatedText": " หยุดลง...\n",
+          "Length": 16
         },
         {
           "Line": 1826,
           "OriginalText": "Boom! A mysterious ",
-          "TranslatedText": "ตูม! ลึกลับ "
+          "TranslatedText": "ตูม! ลึกลับ ",
+          "Length": 19
         },
         {
           "Line": 1830,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 1833,
           "OriginalText": " shows up!\nHow\u0027s that for a scoop?!\n\n",
-          "TranslatedText": " ปรากฏตัว!\nเป็นอย่างไรบ้างสำหรับสกู๊ป!\n\n"
+          "TranslatedText": " ปรากฏตัว!\nเป็นอย่างไรบ้างสำหรับสกู๊ป!\n\n",
+          "Length": 37
         },
         {
           "Line": 1839,
           "OriginalText": "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn\u0027t\neven make a dent.\n",
-          "TranslatedText": "เห็นได้ชัดว่าทหาร Gerudo พยายามต่อสู้กับมัน \nแต่ดาบธรรมดา\nไม่สร้างแม้แต่รอยขีดข่วน\n"
+          "TranslatedText": "เห็นได้ชัดว่าทหาร Gerudo พยายามต่อสู้กับมัน \nแต่ดาบธรรมดา\nไม่สร้างแม้แต่รอยขีดข่วน\n",
+          "Length": 93
         },
         {
           "Line": 1845,
           "OriginalText": "I wonder what weapon would work\nagainst something like that...",
-          "TranslatedText": "สงสัยจังว่าอาวุธอะไร\nจะใช้ได้กับเรื่องแบบนั้น..."
+          "TranslatedText": "สงสัยจังว่าอาวุธอะไร\nจะใช้ได้กับเรื่องแบบนั้น...",
+          "Length": 62
         }
       ]
     },
@@ -1953,50 +2240,59 @@
         {
           "Line": 1854,
           "OriginalText": "Just when the ",
-          "TranslatedText": "เมื่อ "
+          "TranslatedText": "เมื่อ ",
+          "Length": 14
         },
         {
           "Line": 1858,
           "OriginalText": "Divine Beast ",
           "TranslatedText": "อสูรศักดิ์สิทธิ์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 1861,
           "OriginalText": "has settled\nand the ",
-          "TranslatedText": "ได้สงบลง\nและ "
+          "TranslatedText": "ได้สงบลง\nและ ",
+          "Length": 20
         },
         {
           "Line": 1865,
           "OriginalText": "lightning",
           "TranslatedText": "ฟ้าผ่า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 1868,
           "OriginalText": " has stopped... Boom!\nA mysterious ",
-          "TranslatedText": " หยุดแล้ว ... ตูม!\nลึกลับ "
+          "TranslatedText": " หยุดแล้ว ... ตูม!\nลึกลับ ",
+          "Length": 35
         },
         {
           "Line": 1872,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 1875,
           "OriginalText": " shows up!\n",
-          "TranslatedText": " ปรากฏตัว!\n"
+          "TranslatedText": " ปรากฏตัว!\n",
+          "Length": 11
         },
         {
           "Line": 1881,
           "OriginalText": "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn\u0027t\neven make a dent.\n",
-          "TranslatedText": "เห็นได้ชัดว่าทหาร Gerudo พยายามต่อสู้กับมัน \nแต่ดาบธรรมดาไม่ทำให้เกิด\nแม้แต่รอยขีดข่วน\n"
+          "TranslatedText": "เห็นได้ชัดว่าทหาร Gerudo พยายามต่อสู้กับมัน \nแต่ดาบธรรมดาไม่ทำให้เกิด\nแม้แต่รอยขีดข่วน\n",
+          "Length": 93
         },
         {
           "Line": 1887,
           "OriginalText": "I wonder what weapon would work\nagainst something like that...",
-          "TranslatedText": "ฉันสงสัยว่าอาวุธอะไร จะใช้ได้กับอะไรแบบนั้น..."
+          "TranslatedText": "ฉันสงสัยว่าอาวุธอะไร จะใช้ได้กับอะไรแบบนั้น...",
+          "Length": 62
         }
       ]
     },
@@ -2007,23 +2303,27 @@
         {
           "Line": 1896,
           "OriginalText": "Hey, you! I saw everything! I can\u0027t\nbelieve you were able to defeat\nthat weird ",
-          "TranslatedText": "เฮ้ คุณ! ฉันเห็นทุกอย่างแล้ว! \nไม่อยากเชื่อเลยว่าคุณจะเอาชนะ\nสิ่งแปลกประหลาดนั้นได้"
+          "TranslatedText": "เฮ้ คุณ! ฉันเห็นทุกอย่างแล้ว! \nไม่อยากเชื่อเลยว่าคุณจะเอาชนะ\nสิ่งแปลกประหลาดนั้นได้",
+          "Length": 79
         },
         {
           "Line": 1900,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 1903,
           "OriginalText": "...\nI\u0027m speechless! ME! ",
-          "TranslatedText": "...\nฉันพูดไม่ออก! ฉัน! "
+          "TranslatedText": "...\nฉันพูดไม่ออก! ฉัน! ",
+          "Length": 24
         },
         {
           "Line": 1907,
           "OriginalText": "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!",
-          "TranslatedText": "โอเค ไม่เชิงหรอก\nแต่นี่มี SCOOP เขียนไว้เต็มไปหมด!\nรังเกียจมั้ยถ้าฉัน...เขียนเรื่องราวทั้งหมดเกี่ยวกับคุณ?!"
+          "TranslatedText": "โอเค ไม่เชิงหรอก\nแต่นี่มี SCOOP เขียนไว้เต็มไปหมด!\nรังเกียจมั้ยถ้าฉัน...เขียนเรื่องราวทั้งหมดเกี่ยวกับคุณ?!",
+          "Length": 96
         }
       ]
     },
@@ -2034,38 +2334,45 @@
         {
           "Line": 1916,
           "OriginalText": "I see.",
-          "TranslatedText": "ฉันรู้"
+          "TranslatedText": "ฉันรู้",
+          "Length": 6
         },
         {
           "Line": 1920,
           "OriginalText": " How unfortunate.\n\n\nYou would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You\u0027re that impressive!\n",
-          "TranslatedText": "น่าเสียดายจริงๆ\n\n\nคุณน่าจะเป็นที่สนใจของผู้หญิง\nและชื่นชอบของแฟนๆ คุณก็รู้\nฉันพูดจริงนะ คุณน่าประทับใจมาก!\n"
+          "TranslatedText": "น่าเสียดายจริงๆ\n\n\nคุณน่าจะเป็นที่สนใจของผู้หญิง\nและชื่นชอบของแฟนๆ คุณก็รู้\nฉันพูดจริงนะ คุณน่าประทับใจมาก!\n",
+          "Length": 131
         },
         {
           "Line": 1926,
           "OriginalText": "Welp, that\u0027s your decision. ",
-          "TranslatedText": "อ่า นั่นคือการตัดสินใจของคุณ "
+          "TranslatedText": "อ่า นั่นคือการตัดสินใจของคุณ ",
+          "Length": 28
         },
         {
           "Line": 1930,
           "OriginalText": "To mess up.",
-          "TranslatedText": "ทำให้ยุ่งเหยิง"
+          "TranslatedText": "ทำให้ยุ่งเหยิง",
+          "Length": 11
         },
         {
           "Line": 1934,
           "OriginalText": "\nI\u0027ll just have to dig around ",
-          "TranslatedText": "\nฉันแค่ต้องขุดคุ้ยไปรอบๆ "
+          "TranslatedText": "\nฉันแค่ต้องขุดคุ้ยไปรอบๆ ",
+          "Length": 30
         },
         {
           "Line": 1938,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "เมืองGerudo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1941,
           "OriginalText": "\nfor way more interesting scoops.",
-          "TranslatedText": "\nสำหรับสกู๊ปที่น่าสนใจกว่าเยอะ"
+          "TranslatedText": "\nสำหรับสกู๊ปที่น่าสนใจกว่าเยอะ",
+          "Length": 33
         }
       ]
     },
@@ -2076,33 +2383,39 @@
         {
           "Line": 1950,
           "OriginalText": "You would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You\u0027re that impressive!\n",
-          "TranslatedText": "คุณน่าจะเป็นที่สนใจของผู้หญิง \nและชื่นชอบของแฟนๆ คุณก็รู้\nฉันพูดจริงนะ คุณน่าประทับใจมาก!\n"
+          "TranslatedText": "คุณน่าจะเป็นที่สนใจของผู้หญิง \nและชื่นชอบของแฟนๆ คุณก็รู้\nฉันพูดจริงนะ คุณน่าประทับใจมาก!\n",
+          "Length": 111
         },
         {
           "Line": 1956,
           "OriginalText": "Welp, that\u0027s your decision. ",
-          "TranslatedText": "อ่า นั่นคือการตัดสินใจของคุณ "
+          "TranslatedText": "อ่า นั่นคือการตัดสินใจของคุณ ",
+          "Length": 28
         },
         {
           "Line": 1960,
           "OriginalText": "To mess up.",
-          "TranslatedText": "ทำให้ยุ่งเหยิง"
+          "TranslatedText": "ทำให้ยุ่งเหยิง",
+          "Length": 11
         },
         {
           "Line": 1964,
           "OriginalText": "\nI\u0027ll just have to dig around ",
-          "TranslatedText": "\nฉันแค่ต้องขุดคุ้ยไปรอบๆ"
+          "TranslatedText": "\nฉันแค่ต้องขุดคุ้ยไปรอบๆ",
+          "Length": 30
         },
         {
           "Line": 1968,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "เมืองGerudo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1971,
           "OriginalText": "\nfor way more interesting scoops.",
-          "TranslatedText": "\nสำหรับสกู๊ปที่น่าสนใจกว่าเยอะ"
+          "TranslatedText": "\nสำหรับสกู๊ปที่น่าสนใจกว่าเยอะ",
+          "Length": 33
         }
       ]
     },
@@ -2113,28 +2426,33 @@
         {
           "Line": 1980,
           "OriginalText": "You there...\n\n\n",
-          "TranslatedText": "คุณอยู่ที่นั่น...\n\n\n"
+          "TranslatedText": "คุณอยู่ที่นั่น...\n\n\n",
+          "Length": 15
         },
         {
           "Line": 1986,
           "OriginalText": "I saw everything! I can\u0027t believe\nyou were able to defeat that\nweird ",
-          "TranslatedText": "ฉันเห็นทุกอย่าง! ไม่อยากเชื่อเลย\nว่าคุณจะเอาชนะ\nสิ่งแปลกประหลาดนั้นได้"
+          "TranslatedText": "ฉันเห็นทุกอย่าง! ไม่อยากเชื่อเลย\nว่าคุณจะเอาชนะ\nสิ่งแปลกประหลาดนั้นได้",
+          "Length": 69
         },
         {
           "Line": 1990,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 1993,
           "OriginalText": "...\nI\u0027m speechless! ME! ",
-          "TranslatedText": "...\nฉันพูดไม่ออก! ฉัน! "
+          "TranslatedText": "...\nฉันพูดไม่ออก! ฉัน! ",
+          "Length": 24
         },
         {
           "Line": 1997,
           "OriginalText": "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!",
-          "TranslatedText": "โอเค ไม่เชิงหรอก\nแต่นี่มี SCOOP เขียนไว้เต็มไปหมด!\nรังเกียจมั้ยถ้าฉัน...เขียนเรื่องราวทั้งหมดเกี่ยวกับคุณ?!"
+          "TranslatedText": "โอเค ไม่เชิงหรอก\nแต่นี่มี SCOOP เขียนไว้เต็มไปหมด!\nรังเกียจมั้ยถ้าฉัน...เขียนเรื่องราวทั้งหมดเกี่ยวกับคุณ?!",
+          "Length": 96
         }
       ]
     },
@@ -2145,28 +2463,33 @@
         {
           "Line": 2006,
           "OriginalText": "Are you that guy I met at ",
-          "TranslatedText": "คุณเป็นผู้ชายคนนั้นที่ฉันเจอที่ "
+          "TranslatedText": "คุณเป็นผู้ชายคนนั้นที่ฉันเจอที่ ",
+          "Length": 26
         },
         {
           "Line": 2010,
           "OriginalText": "East Barrens",
           "TranslatedText": "Barrensตะวันออก",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 2013,
           "OriginalText": "?\n\n\nI see. ",
-          "TranslatedText": "?\n\n\nฉันรู้"
+          "TranslatedText": "?\n\n\nฉันรู้",
+          "Length": 11
         },
         {
           "Line": 2017,
           "OriginalText": "As you know, this town only\npermits women to enter...\n\n",
-          "TranslatedText": "อย่างที่ทราบกันดีว่าเมืองนี้อนุญาตให้ผู้หญิงเข้าได้เท่านั้น...\n\n"
+          "TranslatedText": "อย่างที่ทราบกันดีว่าเมืองนี้อนุญาตให้ผู้หญิงเข้าได้เท่านั้น...\n\n",
+          "Length": 55
         },
         {
           "Line": 2023,
           "OriginalText": "That devilish outfit trick is something of\na scoop, ya know... But since you\u0027re\npretty heroic and all, I\u0027ll keep it a secret.",
-          "TranslatedText": "เคล็ดลับการแต่งตัวของปีศาจนั่น เป็นบางอย่างของสกู๊ป คุณก็รู้... แต่เนื่องจากคุณเป็นวีรบุรุษและทั้งหมด ฉันจะเก็บเป็นความลับ"
+          "TranslatedText": "เคล็ดลับการแต่งตัวของปีศาจนั่น เป็นบางอย่างของสกู๊ป คุณก็รู้... แต่เนื่องจากคุณเป็นวีรบุรุษและทั้งหมด ฉันจะเก็บเป็นความลับ",
+          "Length": 125
         }
       ]
     },
@@ -2181,7 +2504,8 @@
         {
           "Line": 2032,
           "OriginalText": "No way... I don\u0027t believe it. You\u0027ve really\nnever heard of Rumor Mill?!",
-          "TranslatedText": "ไม่มีทาง ... ฉันไม่เชื่อ คุณไม่เคยได้ยิน Rumor Mill มาก่อนเลยเหรอ?!"
+          "TranslatedText": "ไม่มีทาง ... ฉันไม่เชื่อ คุณไม่เคยได้ยิน Rumor Mill มาก่อนเลยเหรอ?!",
+          "Length": 71
         }
       ]
     },
@@ -2192,12 +2516,14 @@
         {
           "Line": 2049,
           "OriginalText": "Phew, thank goodness!\n\n\n",
-          "TranslatedText": "ว้าวขอบคุณพระเจ้า!\n\n\n"
+          "TranslatedText": "ว้าวขอบคุณพระเจ้า!\n\n\n",
+          "Length": 24
         },
         {
           "Line": 2055,
           "OriginalText": "If you\u0027d told me you\u0027d never heard of\nHyrule\u0027s most popular news publication,\nRumor Mill...\nWell, I don\u0027t even know how I\u0027d have\ntaken that news! It woulda hurt,\nthat\u0027s for sure!\nI\u0027m Traysi herself, you know!",
-          "TranslatedText": "ถ้าคุณบอกฉันว่าคุณไม่เคยได้ยิน\nข่าวที่ได้รับความนิยมมากที่สุด\nของ Hyrule Rumour Mill...\nฉันไม่รู้ด้วยซ้ำว่าฉันจะทนฟังได้ยังไง! \nมันน่าน้อยใจ!\nฉัน Traysi เอง\nรู้ไหม!"
+          "TranslatedText": "ถ้าคุณบอกฉันว่าคุณไม่เคยได้ยิน\nข่าวที่ได้รับความนิยมมากที่สุด\nของ Hyrule Rumour Mill...\nฉันไม่รู้ด้วยซ้ำว่าฉันจะทนฟังได้ยังไง! \nมันน่าน้อยใจ!\nฉัน Traysi เอง\nรู้ไหม!",
+          "Length": 208
         }
       ]
     },
@@ -2208,37 +2534,44 @@
         {
           "Line": 2064,
           "OriginalText": "ARE YOU KIDDING ME?!\n\n\nFor you to say you\u0027ve never heard of\nRumor Mill, Hyrule\u0027s most popular news\npublication...",
-          "TranslatedText": "ล้อเล่นรึเปล่า?!\n\n\nสำหรับคุณที่จะบอกว่าคุณไม่เคยได้ยินเกี่ยวกับ Rumber Mill หนังสือพิมพ์ข่าวที่ได้รับความนิยมมากที่สุดของ Hyrule ..."
+          "TranslatedText": "ล้อเล่นรึเปล่า?!\n\n\nสำหรับคุณที่จะบอกว่าคุณไม่เคยได้ยินเกี่ยวกับ Rumber Mill หนังสือพิมพ์ข่าวที่ได้รับความนิยมมากที่สุดของ Hyrule ...",
+          "Length": 113
         },
         {
           "Line": 2068,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 2074,
           "OriginalText": "You... You must be lying.",
-          "TranslatedText": "คุณต้องโกหกแน่ๆ"
+          "TranslatedText": "คุณต้องโกหกแน่ๆ",
+          "Length": 25
         },
         {
           "Line": 2078,
           "OriginalText": "\nActually, I know you are!\n\nI ",
-          "TranslatedText": "\nที่จริงแล้ว ฉันรู้ว่าคุณเป็น!\n\nฉัน..."
+          "TranslatedText": "\nที่จริงแล้ว ฉันรู้ว่าคุณเป็น!\n\nฉัน...",
+          "Length": 30
         },
         {
           "Line": 2082,
           "OriginalText": "AM",
-          "TranslatedText": "คือ"
+          "TranslatedText": "คือ",
+          "Length": 2
         },
         {
           "Line": 2086,
           "OriginalText": " an award-winning\ninvestigative journalist, after all!\n\n",
-          "TranslatedText": "นักข่าวสืบสวน\nที่ได้รับรางวัลในที่สุด!"
+          "TranslatedText": "นักข่าวสืบสวน\nที่ได้รับรางวัลในที่สุด!",
+          "Length": 56
         },
         {
           "Line": 2092,
           "OriginalText": "Truth is, you can\u0027t hide anything from\nTraysi!",
-          "TranslatedText": "ความจริงก็คือคุณไม่สามารถซ่อนอะไรจาก \nTraysi ได้!"
+          "TranslatedText": "ความจริงก็คือคุณไม่สามารถซ่อนอะไรจาก \nTraysi ได้!",
+          "Length": 46
         }
       ]
     },
@@ -2249,12 +2582,14 @@
         {
           "Line": 2101,
           "OriginalText": "Hey now! Get that wishy-washy garbage\nout of here!",
-          "TranslatedText": "เฮ้ เดี๋ยวนี้! \nเอาขยะที่เปียกโชกนั่นออกไปจากที่นี่!"
+          "TranslatedText": "เฮ้ เดี๋ยวนี้! \nเอาขยะที่เปียกโชกนั่นออกไปจากที่นี่!",
+          "Length": 50
         },
         {
           "Line": 2105,
           "OriginalText": " Once more, with conviction!",
-          "TranslatedText": "อีกครั้ง ด้วยความเชื่อมั่น!"
+          "TranslatedText": "อีกครั้ง ด้วยความเชื่อมั่น!",
+          "Length": 28
         }
       ]
     },
@@ -2265,7 +2600,8 @@
         {
           "Line": 2114,
           "OriginalText": "Truth is...I\u0027m Traysi herself! From\nRumor Mill!",
-          "TranslatedText": "ความจริงคือ... ฉัน Traysi เอง! จาก Rumor Mill!"
+          "TranslatedText": "ความจริงคือ... ฉัน Traysi เอง! จาก Rumor Mill!",
+          "Length": 47
         }
       ]
     },
@@ -2276,12 +2612,14 @@
         {
           "Line": 2123,
           "OriginalText": "I suppose that works...",
-          "TranslatedText": "ฉันคิดว่ามันได้ผล ..."
+          "TranslatedText": "ฉันคิดว่ามันได้ผล ...",
+          "Length": 23
         },
         {
           "Line": 2127,
           "OriginalText": " Anyway, I hope\nyou enjoy reading Rumor Mill! I take\npride in my work!",
-          "TranslatedText": " อย่างไรก็ตามฉันหวังว่า\nคุณจะสนุกกับการอ่าน Rumor Mill! \nฉันภูมิใจในงานของฉัน!"
+          "TranslatedText": " อย่างไรก็ตามฉันหวังว่า\nคุณจะสนุกกับการอ่าน Rumor Mill! \nฉันภูมิใจในงานของฉัน!",
+          "Length": 70
         }
       ]
     },
@@ -2292,12 +2630,14 @@
         {
           "Line": 2136,
           "OriginalText": "Oh, it\u0027s you!",
-          "TranslatedText": "โอ้คุณเอง!"
+          "TranslatedText": "โอ้คุณเอง!",
+          "Length": 13
         },
         {
           "Line": 2140,
           "OriginalText": " I assume you\u0027re keeping up\nwith my wildly popular and informative\npublication, Rumor Mill. By the way...",
-          "TranslatedText": "ฉันเดาว่าคุณกำลังติดตามหนังสือของฉัน\nที่ได้รับความนิยมและข้อมูลอย่างบ้าคลั่ง\nRumor Mill อีกอย่างนะ..."
+          "TranslatedText": "ฉันเดาว่าคุณกำลังติดตามหนังสือของฉัน\nที่ได้รับความนิยมและข้อมูลอย่างบ้าคลั่ง\nRumor Mill อีกอย่างนะ...",
+          "Length": 105
         }
       ]
     }

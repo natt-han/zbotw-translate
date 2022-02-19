@@ -57,14 +57,14 @@ textarea {
 <div id="main-div">
     
     <div class="row gx-2">        
-        <div id="col-filelist" class="col-auto d-none d-xl-block" style="overflow-x:hidden; font-size:.7em;height:100vh;">
+        <div id="col-filelist" class="col-auto d-none d-xl-block" style="overflow-x:hidden; font-size:.7em;">
             <input type="text" v-model="fileNameFilter" class="form-control form-control-sm" />
             <div class="btn-group btn-group-sm" role="group" aria-label="">
               <button type="button" class="btn btn-outline-secondary" v-bind:class="{active:fileGroupFilter==''}" v-on:click="selectGroup('')">All</button>              
               <button type="button" class="btn btn-outline-success" v-bind:class="{active:fileGroupFilter=='Completed'}" v-on:click="selectGroup('Completed')">Completed</button>
               <button type="button" class="btn btn-outline-warning" v-bind:class="{active:fileGroupFilter=='Incompleted'}" v-on:click="selectGroup('Incompleted')">Incomplete</button>
             </div>
-            <div class="list-group" style="min-width:240px">
+            <div class="list-group" style="min-width:240px;height:85vh;overflow-y:scroll">
               <button v-for="file in filteredFileList" class="list-group-item list-group-item-action" v-bind:class="{active:selectedFile.fileName==file.fileName,'list-group-item-success':(file.isCompleted || file.translatedText==file.text),'list-group-item-warning':(!file.isCompleted && file.translatedText>0)}" v-on:click="select(file)" >{{file.fileName}} <span v-if="file.isCompleted==false&&file.translatedText<file.text">({{file.translatedText}}/{{file.text}})</span></button>
             </div>
         </div>
@@ -89,7 +89,7 @@ textarea {
                 </div>
             </div>
             
-            <div style="height:100vh;overflow-y:scroll">
+            <div style="height:85vh;overflow-y:scroll">
                 <table id="main-table" class="table" style="transform-origin: top left;">
                 <tbody >
                     <tr v-for="item in messageTable.entryList">
@@ -278,6 +278,7 @@ textarea {
                 });
             },
             updateProgress(){
+                //$("#navbar-percent-completed").html((this.progress.totalTranslatedText/this.progress.totalText*100.0).toFixed(2)).attr("title",this.progress.totalTranslatedText+"/"+this.progress.totalText);
                 $("#navbar-percent-completed").html((this.progress.totalTranslatedText/this.progress.totalText*100.0).toFixed(2)).attr("title",this.progress.totalTranslatedText+"/"+this.progress.totalText);
             }
         },

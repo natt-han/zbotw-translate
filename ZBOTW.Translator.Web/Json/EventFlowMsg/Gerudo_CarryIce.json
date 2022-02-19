@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Off I go!",
-          "TranslatedText": "ไปเลย!"
+          "TranslatedText": "ไปเลย!",
+          "Length": 9
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Let me try again...",
-          "TranslatedText": "ให้ฉันลองอีกครั้ง..."
+          "TranslatedText": "ให้ฉันลองอีกครั้ง...",
+          "Length": 19
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Noble Pursuit?",
-          "TranslatedText": "การแสวงหาเกียรติยศ?"
+          "TranslatedText": "การแสวงหาเกียรติยศ?",
+          "Length": 14
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน."
+          "TranslatedText": "ลาก่อน.",
+          "Length": 9
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Actually...",
-          "TranslatedText": "จริงๆ..."
+          "TranslatedText": "จริงๆ...",
+          "Length": 11
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Ice?",
-          "TranslatedText": "น้ำแข็ง?"
+          "TranslatedText": "น้ำแข็ง?",
+          "Length": 4
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน."
+          "TranslatedText": "ลาก่อน.",
+          "Length": 9
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Should I get it for you?",
-          "TranslatedText": "ฉันควรจะได้รับมันจากคุณ?"
+          "TranslatedText": "ฉันควรจะได้รับมันจากคุณ?",
+          "Length": 24
         }
       ]
     },
@@ -88,7 +96,8 @@
         {
           "Line": 45,
           "OriginalText": "I can\u0027t take it anymore...\n\n\nI\u0027m going to rot here...",
-          "TranslatedText": "ไม่ไหวแล้ว ...\nฉันจะเน่าที่นี่..."
+          "TranslatedText": "ไม่ไหวแล้ว ...\nฉันจะเน่าที่นี่...",
+          "Length": 53
         }
       ]
     },
@@ -99,7 +108,8 @@
         {
           "Line": 57,
           "OriginalText": "Huh?",
-          "TranslatedText": "ฮะ?"
+          "TranslatedText": "ฮะ?",
+          "Length": 4
         }
       ]
     },
@@ -110,18 +120,21 @@
         {
           "Line": 66,
           "OriginalText": "Did you say \u0022best ",
-          "TranslatedText": "คุณว่า \u0022 "
+          "TranslatedText": "คุณว่า \u0022 ",
+          "Length": 18
         },
         {
           "Line": 70,
           "OriginalText": "Noble Pursuit ",
           "TranslatedText": "Noble Pursuit ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 73,
           "OriginalText": "ever\u0022?\n\n\nPfft, I am GONE!",
-          "TranslatedText": "\nดีที่สุดเคยมีมา\u0022?\nPfft, ฉันไปแล้ว!"
+          "TranslatedText": "\nดีที่สุดเคยมีมา\u0022?\nPfft, ฉันไปแล้ว!",
+          "Length": 25
         }
       ]
     },
@@ -132,7 +145,8 @@
         {
           "Line": 82,
           "OriginalText": "Be careful!",
-          "TranslatedText": "ระวัง!"
+          "TranslatedText": "ระวัง!",
+          "Length": 11
         }
       ]
     },
@@ -143,18 +157,21 @@
         {
           "Line": 86,
           "OriginalText": "So you were able to get the ice all the\nway to Furosa? Excellent.\n\nThat reminds me... It\u0027s been so long\nsince I\u0027ve had a ",
-          "TranslatedText": "หากคุณสามารถเอาน้ำแข็งไปที่ \nFurosa? จะเยี่ยมมาก.\nนั่นทำให้ฉันนึกถึง... \nมันนานมากแล้วที่ฉันมี\n"
+          "TranslatedText": "หากคุณสามารถเอาน้ำแข็งไปที่ \nFurosa? จะเยี่ยมมาก.\nนั่นทำให้ฉันนึกถึง... \nมันนานมากแล้วที่ฉันมี\n",
+          "Length": 121
         },
         {
           "Line": 90,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 93,
           "OriginalText": " like\nFurosa makes...",
-          "TranslatedText": " \nเหมือนที่ Furosa ทำ..."
+          "TranslatedText": " \nเหมือนที่ Furosa ทำ...",
+          "Length": 21
         }
       ]
     },
@@ -165,23 +182,27 @@
         {
           "Line": 102,
           "OriginalText": "This is an ",
-          "TranslatedText": "นี่คือ \n"
+          "TranslatedText": "นี่คือ \n",
+          "Length": 11
         },
         {
           "Line": 106,
           "OriginalText": "icehouse",
           "TranslatedText": "โรงน้ำแข็ง\n",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 109,
           "OriginalText": " used for storing the\nice brought down from the mountains.\n\nSeeing as we live in a desert, it\u0027s pretty\nimportant stuff for us Gerudo... ",
-          "TranslatedText": " ใช้สำหรับเก็บน้ำแข็งที่นำมาจากภูเขา.\nที่เห็นว่าเราอาศัยอยู่ในทะเลทราย\nมันเป็นสิ่งที่สำคัญมากสำหรับเรา Gerudo... \n"
+          "TranslatedText": " ใช้สำหรับเก็บน้ำแข็งที่นำมาจากภูเขา.\nที่เห็นว่าเราอาศัยอยู่ในทะเลทราย\nมันเป็นสิ่งที่สำคัญมากสำหรับเรา Gerudo... \n",
+          "Length": 136
         },
         {
           "Line": 113,
           "OriginalText": "So I\nmanage this place 24 hours a day.",
-          "TranslatedText": "ดังนั้นฉันจึงจัดการสถานที่นี้ตลอด 24 ชั่วโมงต่อวัน."
+          "TranslatedText": "ดังนั้นฉันจึงจัดการสถานที่นี้ตลอด 24 ชั่วโมงต่อวัน.",
+          "Length": 38
         }
       ]
     },
@@ -192,7 +213,8 @@
         {
           "Line": 122,
           "OriginalText": "I see... Well, if Furosa wants ice, then\nyou should bring her some.\n\nYou\u0027re permitted to take some ice.\n\n\nYou\u0027ve taken the heat into account,\nright? If you move too slowly, the ice will\nsurely melt.\nFurosa has no use for water...",
-          "TranslatedText": "ฉันเข้าใจ ... ถ้าFurosaต้องการน้ำแข็งก็ควรพาเธอไปด้วย\nคุณได้รับอนุญาตให้ดื่มน้ำแข็ง\nคุณได้คำนึงถึงความร้อนแล้วใช่ไหม? \nหากคุณเคลื่อนไหวช้าเกินไปน้ำแข็ง\nก็จะละลายอย่างแน่นอน\nฟุโระสะไม่มีน้ำใช้ ..."
+          "TranslatedText": "ฉันเข้าใจ ... ถ้าFurosaต้องการน้ำแข็งก็ควรพาเธอไปด้วย\nคุณได้รับอนุญาตให้ดื่มน้ำแข็ง\nคุณได้คำนึงถึงความร้อนแล้วใช่ไหม? \nหากคุณเคลื่อนไหวช้าเกินไปน้ำแข็ง\nก็จะละลายอย่างแน่นอน\nฟุโระสะไม่มีน้ำใช้ ...",
+          "Length": 229
         }
       ]
     },
@@ -203,23 +225,27 @@
         {
           "Line": 131,
           "OriginalText": "This is an ",
-          "TranslatedText": "นี่คือ "
+          "TranslatedText": "นี่คือ ",
+          "Length": 11
         },
         {
           "Line": 135,
           "OriginalText": "icehouse",
           "TranslatedText": "โรงน้ำแข็ง\n",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 138,
           "OriginalText": " used for storing the\nice brought down from the mountains.\n\nSeeing as we live in a desert, it\u0027s pretty\nimportant stuff for us Gerudo... ",
-          "TranslatedText": " ใช้สำหรับเก็บน้ำแข็งที่นำมาจากภูเขา.\nที่เห็นว่าเราอาศัยอยู่ในทะเลทราย\nมันเป็นสิ่งที่สำคัญมากสำหรับเรา Gerudo... \n"
+          "TranslatedText": " ใช้สำหรับเก็บน้ำแข็งที่นำมาจากภูเขา.\nที่เห็นว่าเราอาศัยอยู่ในทะเลทราย\nมันเป็นสิ่งที่สำคัญมากสำหรับเรา Gerudo... \n",
+          "Length": 136
         },
         {
           "Line": 142,
           "OriginalText": "So I\nguard the icehouse 24 hours a day.",
-          "TranslatedText": "ฉันจึงเฝ้าโรงน้ำแข็งตลอด 24 ชม."
+          "TranslatedText": "ฉันจึงเฝ้าโรงน้ำแข็งตลอด 24 ชม.",
+          "Length": 39
         }
       ]
     },
@@ -230,7 +256,8 @@
         {
           "Line": 155,
           "OriginalText": "...Who are you?\nMy work\u0027s...done for the day...\n\nIf you...need something...\ncome back...tomorrow...",
-          "TranslatedText": "...คุณคือใคร?\nงานของฉัน ... เสร็จแล้วสำหรับวันนี้ ...\nถ้าคุณ ... ต้องการอะไร ...\nกลับมาพรุ่งนี้..."
+          "TranslatedText": "...คุณคือใคร?\nงานของฉัน ... เสร็จแล้วสำหรับวันนี้ ...\nถ้าคุณ ... ต้องการอะไร ...\nกลับมาพรุ่งนี้...",
+          "Length": 99
         }
       ]
     },
@@ -241,7 +268,8 @@
         {
           "Line": 167,
           "OriginalText": "My work\u0027s done for the day.",
-          "TranslatedText": "งานของฉันเสร็จแล้วในวันนี้."
+          "TranslatedText": "งานของฉันเสร็จแล้วในวันนี้.",
+          "Length": 27
         }
       ]
     },
@@ -252,7 +280,8 @@
         {
           "Line": 179,
           "OriginalText": "Sorry, but I\u0027m done for the day.\n\n\nI know... It\u0027s a request from Furosa.\nReally, I\u0027d like to help, but rules are\nrules, and I\u0027m off the clock.",
-          "TranslatedText": "ขออภัยฉันทำเสร็จแล้วในวันนี้\nฉันรู้ ... มันเป็นคำขอจากฟุโระสะ\nจริงๆฉันอยากช่วยนะ \nแต่กฎก็คือกฎและฉันก็ไม่อยู่."
+          "TranslatedText": "ขออภัยฉันทำเสร็จแล้วในวันนี้\nฉันรู้ ... มันเป็นคำขอจากฟุโระสะ\nจริงๆฉันอยากช่วยนะ \nแต่กฎก็คือกฎและฉันก็ไม่อยู่.",
+          "Length": 142
         }
       ]
     },
@@ -263,7 +292,8 @@
         {
           "Line": 188,
           "OriginalText": "Sorry, you\u0027re out of luck.\n\n\nI\u0027m exhausted from work.\nLet me get some rest. \n\nCome back later if you need something.",
-          "TranslatedText": "ขออภัยคุณไม่โชคดี\nฉันเหนื่อยจากงาน ขอพักบ้างเถอะ \nโปรดกลับมาใหม่ในภายหลัง\nหากคุณต้องการอะไร"
+          "TranslatedText": "ขออภัยคุณไม่โชคดี\nฉันเหนื่อยจากงาน ขอพักบ้างเถอะ \nโปรดกลับมาใหม่ในภายหลัง\nหากคุณต้องการอะไร",
+          "Length": 116
         }
       ]
     },
@@ -274,7 +304,8 @@
         {
           "Line": 197,
           "OriginalText": "...You\u0027ve got to be kidding me.",
-          "TranslatedText": "...คุณต้องล้อเล่นฉัน"
+          "TranslatedText": "...คุณต้องล้อเล่นฉัน",
+          "Length": 31
         }
       ]
     },
@@ -285,7 +316,8 @@
         {
           "Line": 206,
           "OriginalText": "Ah, I figured as much...\n\n\nEven the Gerudo make mistakes\ntransporting ice, sometimes. Just grab\nanother block and try again.",
-          "TranslatedText": "อ่าฉันคิดว่ามาก ...\nแม้แต่ Gerudo ก็ทำผิดพลาด\nในการขนส่งน้ำแข็งบางครั้ง \nเพียงแค่คว้าบล็อกอื่นแล้วลองอีกครั้ง"
+          "TranslatedText": "อ่าฉันคิดว่ามาก ...\nแม้แต่ Gerudo ก็ทำผิดพลาด\nในการขนส่งน้ำแข็งบางครั้ง \nเพียงแค่คว้าบล็อกอื่นแล้วลองอีกครั้ง",
+          "Length": 124
         }
       ]
     },
@@ -300,7 +332,8 @@
         {
           "Line": 215,
           "OriginalText": "You\u0027ve walked through the desert...\nYou know how hot it can get. Don\u0027t take\nyour time, or the ice will melt.",
-          "TranslatedText": "คุณได้เดินผ่านทะเลทราย ...\nคุณรู้ว่ามันร้อนแค่ไหน \nอย่าใช้เวลาเยอะมิฉะนั้นน้ำแข็งจะละลาย."
+          "TranslatedText": "คุณได้เดินผ่านทะเลทราย ...\nคุณรู้ว่ามันร้อนแค่ไหน \nอย่าใช้เวลาเยอะมิฉะนั้นน้ำแข็งจะละลาย.",
+          "Length": 108
         }
       ]
     },
@@ -311,7 +344,8 @@
         {
           "Line": 232,
           "OriginalText": "I can\u0027t believe it...\n\n\nOK, I know this is a request from Furosa,\nbut please remember that ice is precious\naround here!",
-          "TranslatedText": "ไม่อยากจะเชื่อเลย ...\nโอเคฉันรู้ว่านี่เป็นคำขอจากFurosa \nแต่โปรดจำไว้ว่าแถวนี้ น้ำแข็งมีค่า!"
+          "TranslatedText": "ไม่อยากจะเชื่อเลย ...\nโอเคฉันรู้ว่านี่เป็นคำขอจากFurosa \nแต่โปรดจำไว้ว่าแถวนี้ น้ำแข็งมีค่า!",
+          "Length": 119
         }
       ]
     },
@@ -326,12 +360,14 @@
         {
           "Line": 241,
           "OriginalText": "Vasaaq...",
-          "TranslatedText": "Vasaaq..."
+          "TranslatedText": "Vasaaq...",
+          "Length": 9
         },
         {
           "Line": 245,
           "OriginalText": " A Hylian vai, huh...\n\n\nI can\u0027t tell how old you are, but this\nplace is definitely not for young vai.\n\nBecause the drinks we make here are\ndifferent from regular drinks. For one,\nthey have a rare treat in them—ice...",
-          "TranslatedText": " A Hylian vai, huh...\nฉันไม่สามารถบอกได้ว่าคุณอายุเท่าไหร่ \nแต่ที่นี่ไม่เหมาะสำหรับเด็กน้อยอย่างแน่นอน\nเนื่องจากที่นี่เครื่องดื่มที่เราทำแตกต่างจาก\nเครื่องดื่มทั่วไป ประการหนึ่งพวกเขามี\nของอร่อยหายากอยู่ในตัวนั่นคือน้ำแข็ง..."
+          "TranslatedText": " A Hylian vai, huh...\nฉันไม่สามารถบอกได้ว่าคุณอายุเท่าไหร่ \nแต่ที่นี่ไม่เหมาะสำหรับเด็กน้อยอย่างแน่นอน\nเนื่องจากที่นี่เครื่องดื่มที่เราทำแตกต่างจาก\nเครื่องดื่มทั่วไป ประการหนึ่งพวกเขามี\nของอร่อยหายากอยู่ในตัวนั่นคือน้ำแข็ง...",
+          "Length": 216
         }
       ]
     },
@@ -342,18 +378,21 @@
         {
           "Line": 262,
           "OriginalText": "You want to try our signature\ndrink, ",
-          "TranslatedText": "คุณอยากลองเครื่องดื่มซิกเนเจอร์ของเรา,\n"
+          "TranslatedText": "คุณอยากลองเครื่องดื่มซิกเนเจอร์ของเรา,\n",
+          "Length": 37
         },
         {
           "Line": 266,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 269,
           "OriginalText": "?\n\nUnfortunately, I need a huge amount of\nice to make that drink, and I\u0027m fresh out\nright now.\nBesides, it\u0027s a really strong drink. \n\n\nEven if I could make it, I wouldn\u0027t sell it\nto a little vai like you.",
-          "TranslatedText": "?\nน่าเสียดายที่ฉันต้องการน้ำแข็งจำนวนมาก\nเพื่อทำเครื่องดื่มนั้นและตอนนี้ฉันก็สดชื่น\nนอกจากนี้ยังเป็นเครื่องดื่มที่แข็งแกร่งจริงๆ \nแม้ว่าฉันจะทำมันได้ แต่ฉันก็จะไม่ขาย\nให้กับvaiตัวเล็ก ๆ อย่างคุณ."
+          "TranslatedText": "?\nน่าเสียดายที่ฉันต้องการน้ำแข็งจำนวนมาก\nเพื่อทำเครื่องดื่มนั้นและตอนนี้ฉันก็สดชื่น\nนอกจากนี้ยังเป็นเครื่องดื่มที่แข็งแกร่งจริงๆ \nแม้ว่าฉันจะทำมันได้ แต่ฉันก็จะไม่ขาย\nให้กับvaiตัวเล็ก ๆ อย่างคุณ.",
+          "Length": 204
         }
       ]
     },
@@ -364,28 +403,33 @@
         {
           "Line": 281,
           "OriginalText": "I haven\u0027t seen Pokki in a while...",
-          "TranslatedText": "ฉันไม่ได้เห็น Pokki มาสักพักแล้ว..."
+          "TranslatedText": "ฉันไม่ได้เห็น Pokki มาสักพักแล้ว...",
+          "Length": 34
         },
         {
           "Line": 285,
           "OriginalText": "\nShe used to come in and order a ",
-          "TranslatedText": "\nเธอเคยเข้ามาและสั่งซื้อ "
+          "TranslatedText": "\nเธอเคยเข้ามาและสั่งซื้อ ",
+          "Length": 33
         },
         {
           "Line": 289,
           "OriginalText": "Noble\nPursuit",
           "TranslatedText": "Noble\nPursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 292,
           "OriginalText": " almost every day...\n",
-          "TranslatedText": " เกือบทุกวัน...\n"
+          "TranslatedText": " เกือบทุกวัน...\n",
+          "Length": 21
         },
         {
           "Line": 298,
           "OriginalText": "Ah, sorry. This has nothing to do with\nyou, little vai.",
-          "TranslatedText": "อ่าขอโทษ สิ่งนี้ไม่เกี่ยวข้องกับ vaiน้อย"
+          "TranslatedText": "อ่าขอโทษ สิ่งนี้ไม่เกี่ยวข้องกับ vaiน้อย",
+          "Length": 55
         }
       ]
     },
@@ -396,12 +440,14 @@
         {
           "Line": 307,
           "OriginalText": "I was just thinking about how I haven\u0027t\nseen Pokki lately...",
-          "TranslatedText": "I แค่คิดว่าเมื่อเร็ว ๆ นี้ฉันไม่ได้เห็น Pokki..."
+          "TranslatedText": "I แค่คิดว่าเมื่อเร็ว ๆ นี้ฉันไม่ได้เห็น Pokki...",
+          "Length": 60
         },
         {
           "Line": 311,
           "OriginalText": "\n\nShe\u0027s such a handful.",
-          "TranslatedText": "\nเธอเป็นคนไม่กี่คน"
+          "TranslatedText": "\nเธอเป็นคนไม่กี่คน",
+          "Length": 23
         }
       ]
     },
@@ -412,12 +458,14 @@
         {
           "Line": 320,
           "OriginalText": "The icehouse is located north of\nthe city.\n\nAnche will be on duty there. Just let her\nknow what\u0027s going on, and she\u0027ll\nprobably part with some ice.\n",
-          "TranslatedText": "โรงน้ำแข็งตั้งอยู่ทางเหนือของเมือง\nAnche จะเข้าเวรที่นั่น บอกให้เธอรู้ว่า\nเกิดอะไรขึ้นและเธออาจจะมีส่วนร่วมกับน้ำแข็ง\n"
+          "TranslatedText": "โรงน้ำแข็งตั้งอยู่ทางเหนือของเมือง\nAnche จะเข้าเวรที่นั่น บอกให้เธอรู้ว่า\nเกิดอะไรขึ้นและเธออาจจะมีส่วนร่วมกับน้ำแข็ง\n",
+          "Length": 148
         },
         {
           "Line": 326,
           "OriginalText": "Remember, though... She goes to bed\npretty early.\n\nYou\u0027ll have to make sure to get there\nwhile it\u0027s bright out.",
-          "TranslatedText": "จำไว้ว่า ... เธอเข้านอนเร็วมาก\nคุณจะต้องไปถึงที่นั่นในขณะที่แสงจ้า"
+          "TranslatedText": "จำไว้ว่า ... เธอเข้านอนเร็วมาก\nคุณจะต้องไปถึงที่นั่นในขณะที่แสงจ้า",
+          "Length": 111
         }
       ]
     },
@@ -428,48 +476,57 @@
         {
           "Line": 335,
           "OriginalText": "I\u0027d just found the shrine too...",
-          "TranslatedText": "ฉันเพิ่งเจอศาลเจ้าด้วย..."
+          "TranslatedText": "ฉันเพิ่งเจอศาลเจ้าด้วย...",
+          "Length": 32
         },
         {
           "Line": 339,
           "OriginalText": "\n\n\nUgh, my throat...",
-          "TranslatedText": "\nUgh, คอของฉัน...\n"
+          "TranslatedText": "\nUgh, คอของฉัน...\n",
+          "Length": 20
         },
         {
           "Line": 343,
           "OriginalText": " It\u0027s so dry...",
-          "TranslatedText": " มันแห้งมาก...\n"
+          "TranslatedText": " มันแห้งมาก...\n",
+          "Length": 15
         },
         {
           "Line": 347,
           "OriginalText": "\nI can\u0027t move a muscle...\n\nIf this really is the end...",
-          "TranslatedText": "ฉันไม่สามารถเคลื่อนไหวกล้ามเนื้อได้...\nถ้าเรื่องนี้จบจริงๆ...\n"
+          "TranslatedText": "ฉันไม่สามารถเคลื่อนไหวกล้ามเนื้อได้...\nถ้าเรื่องนี้จบจริงๆ...\n",
+          "Length": 55
         },
         {
           "Line": 351,
           "OriginalText": "\n\n\nI wish I could have one last taste...",
-          "TranslatedText": "ฉันหวังว่าฉันจะได้ลิ้มรสครั้งสุดท้าย...\n"
+          "TranslatedText": "ฉันหวังว่าฉันจะได้ลิ้มรสครั้งสุดท้าย...\n",
+          "Length": 40
         },
         {
           "Line": 355,
           "OriginalText": "\nOne sip...",
-          "TranslatedText": "หนึ่งจิบ...\n"
+          "TranslatedText": "หนึ่งจิบ...\n",
+          "Length": 11
         },
         {
           "Line": 359,
           "OriginalText": "\n\nOne sip of an ice-cold ",
-          "TranslatedText": "หนึ่งจิบเย็น ๆ \n"
+          "TranslatedText": "หนึ่งจิบเย็น ๆ \n",
+          "Length": 25
         },
         {
           "Line": 363,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 366,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -480,39 +537,46 @@
         {
           "Line": 375,
           "OriginalText": "Thanks to you, I was able to make what\nmight be my best ",
-          "TranslatedText": "ต้องขอบคุณที่ทำให้ฉันสามารถทำสิ่งที่อาจจะดีที่สุดได้ \n"
+          "TranslatedText": "ต้องขอบคุณที่ทำให้ฉันสามารถทำสิ่งที่อาจจะดีที่สุดได้ \n",
+          "Length": 56
         },
         {
           "Line": 379,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "เท่าที่เคยมีมา Noble Pursuit\n",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 382,
           "OriginalText": " ever.\n\nIf it\u0027s not too much to ask, could you\nplease go tell ",
-          "TranslatedText": " เคย. ถ้ามันไม่มากเกินไปคุณช่วบอกได้ไหมว่า\n"
+          "TranslatedText": " เคย. ถ้ามันไม่มากเกินไปคุณช่วบอกได้ไหมว่า\n",
+          "Length": 62
         },
         {
           "Line": 386,
           "OriginalText": "Pokki",
           "TranslatedText": "Pokki",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 389,
           "OriginalText": " that some of the best\nNoble Pursuit is waiting for her here?\nWhat?",
-          "TranslatedText": " Noble Pursuit ที่ดีที่สุดกำลังรอเธออยู่ที่นี่?\nอะไรนะ?"
+          "TranslatedText": " Noble Pursuit ที่ดีที่สุดกำลังรอเธออยู่ที่นี่?\nอะไรนะ?",
+          "Length": 67
         },
         {
           "Line": 393,
           "OriginalText": " Trust me on this!",
-          "TranslatedText": " วางใจฉันในเรื่องนี้!\n"
+          "TranslatedText": " วางใจฉันในเรื่องนี้!\n",
+          "Length": 18
         },
         {
           "Line": 397,
           "OriginalText": " Knowing her,\nshe\u0027ll come sprinting back the moment\nshe hears what you have to say.",
-          "TranslatedText": " เมื่อรู้จักเธอเธอจะกลับมาวิ่งทันที\nที่เธอได้ยินสิ่งที่คุณพูด"
+          "TranslatedText": " เมื่อรู้จักเธอเธอจะกลับมาวิ่งทันที\nที่เธอได้ยินสิ่งที่คุณพูด",
+          "Length": 83
         }
       ]
     },
@@ -523,23 +587,27 @@
         {
           "Line": 406,
           "OriginalText": "What\u0027d you say?\n\n\nPokki\u0027s collapsed?\n\n\n",
-          "TranslatedText": "คุณจะพูดอะไร?\nPokki ทรุด?\n"
+          "TranslatedText": "คุณจะพูดอะไร?\nPokki ทรุด?\n",
+          "Length": 39
         },
         {
           "Line": 412,
           "OriginalText": "Hmm. I want to help her out, but I can\u0027t\nmake a you-know-what without ice.\n\nThere\u0027s ice at the ",
-          "TranslatedText": "อืม. ฉันต้องการช่วยเธอ \nแต่ฉันไม่สามารถทำให้คุณรู้อะไรได้หากไม่มีน้ำแข็ง\nมีน้ำแข็งอยู่ที่ "
+          "TranslatedText": "อืม. ฉันต้องการช่วยเธอ \nแต่ฉันไม่สามารถทำให้คุณรู้อะไรได้หากไม่มีน้ำแข็ง\nมีน้ำแข็งอยู่ที่ ",
+          "Length": 95
         },
         {
           "Line": 416,
           "OriginalText": "icehouse",
           "TranslatedText": "โรงน้ำแข็ง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 419,
           "OriginalText": ", but my legs\naren\u0027t in the best shape for hauling ice...",
-          "TranslatedText": ", แต่ขาของฉันไม่ได้อยู่ในสภาพที่ดีที่สุดสำหรับการลากน้ำแข็ง..."
+          "TranslatedText": ", แต่ขาของฉันไม่ได้อยู่ในสภาพที่ดีที่สุดสำหรับการลากน้ำแข็ง...",
+          "Length": 57
         }
       ]
     },
@@ -554,12 +622,14 @@
         {
           "Line": 431,
           "OriginalText": "I was wondering why I hadn\u0027t seen her in\na while. \n\nI had no idea she was in such a dire\nsituation.\n\n",
-          "TranslatedText": "ฉันสงสัยว่า ทำไมฉันไม่ได้เจอเธอมาสักพักแล้ว \nฉันไม่รู้เลยว่าเธอตกอยู่ในสถานการณ์ที่เลวร้ายเช่นนี้\n"
+          "TranslatedText": "ฉันสงสัยว่า ทำไมฉันไม่ได้เจอเธอมาสักพักแล้ว \nฉันไม่รู้เลยว่าเธอตกอยู่ในสถานการณ์ที่เลวร้ายเช่นนี้\n",
+          "Length": 101
         },
         {
           "Line": 437,
           "OriginalText": "Why\u0027d I have to run out of ice at a time\nlike this?",
-          "TranslatedText": "ทำไมฉันต้องหมดน้ำแข็งในเวลาแบบนี้?"
+          "TranslatedText": "ทำไมฉันต้องหมดน้ำแข็งในเวลาแบบนี้?",
+          "Length": 51
         }
       ]
     },
@@ -570,23 +640,27 @@
         {
           "Line": 454,
           "OriginalText": "Are you serious? You\u0027ll get it?\nThat\u0027d be a huge help.\n\nPokki is my best customer, after all.\nI wish I could get the ice myself...\n\nAnyway, the ",
-          "TranslatedText": "จริงจังมั้ย? คุณจะไปเอามัน?\nนั่นจะช่วยได้มาก\nPokki เป็นลูกค้าที่ดีที่สุดของฉัน\nฉันหวังว่าฉันจะได้รับน้ำแข็งด้วยตัวเอง ...\nอย่างไรก็ตาม "
+          "TranslatedText": "จริงจังมั้ย? คุณจะไปเอามัน?\nนั่นจะช่วยได้มาก\nPokki เป็นลูกค้าที่ดีที่สุดของฉัน\nฉันหวังว่าฉันจะได้รับน้ำแข็งด้วยตัวเอง ...\nอย่างไรก็ตาม ",
+          "Length": 144
         },
         {
           "Line": 458,
           "OriginalText": "icehouse",
           "TranslatedText": "โรงน้ำแข็ง\n",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 461,
           "OriginalText": " is north of town.\n\n\nAnche manages it, but I think if you \nexplain the situation, she\u0027ll let you have\nsome ice.\n",
-          "TranslatedText": " อยู่ทางเหนือของเมือง\nAncheจัดการได้ แต่ฉันคิดว่าถ้าคุณ\nอธิบายสถานการณ์เธอจะให้น้ำแข็ง\n"
+          "TranslatedText": " อยู่ทางเหนือของเมือง\nAncheจัดการได้ แต่ฉันคิดว่าถ้าคุณ\nอธิบายสถานการณ์เธอจะให้น้ำแข็ง\n",
+          "Length": 112
         },
         {
           "Line": 467,
           "OriginalText": "You should know that she heads to bed\nquite early. \n\nIf you plan to go, you\u0027ll need to get there\nwhile it\u0027s bright out.",
-          "TranslatedText": "คุณควรรู้ว่าเธอเข้านอนค่อนข้างเร็ว \nหากคุณวางแผนจะไปคุณจะต้อง\nไปที่นั่นในขณะที่อากาศสดใส"
+          "TranslatedText": "คุณควรรู้ว่าเธอเข้านอนค่อนข้างเร็ว \nหากคุณวางแผนจะไปคุณจะต้อง\nไปที่นั่นในขณะที่อากาศสดใส",
+          "Length": 119
         }
       ]
     },
@@ -597,23 +671,27 @@
         {
           "Line": 476,
           "OriginalText": "Oh, ",
-          "TranslatedText": "โอ้, "
+          "TranslatedText": "โอ้, ",
+          "Length": 4
         },
         {
           "Line": 480,
           "OriginalText": "young lady...\n\n\nCarrying ice all the way through the\ndesert and then all the way to town?\nI can\u0027t let that stand.\nIf you bring the ice to the ",
-          "TranslatedText": "หญิงสาว...\nแบกน้ำแข็งไปตลอดทางผ่านทะเลทราย\nแล้วเข้าเมืองเลยเหรอ?\nฉันทนไม่ได้ หากคุณนำน้ำแข็งมาใส่ \n"
+          "TranslatedText": "หญิงสาว...\nแบกน้ำแข็งไปตลอดทางผ่านทะเลทราย\nแล้วเข้าเมืองเลยเหรอ?\nฉันทนไม่ได้ หากคุณนำน้ำแข็งมาใส่ \n",
+          "Length": 142
         },
         {
           "Line": 484,
           "OriginalText": "entrance to\nthe ruins",
           "TranslatedText": "ทางเข้าซากปรักหักพัง \nentrance to the ruins \n",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 487,
           "OriginalText": "—between town and the\nicehouse—I can take it from there.",
-          "TranslatedText": "—ระหว่างเมืองและโรงน้ำแข็ง—\nฉันสามารถนำมันมาจากที่นั่นได้"
+          "TranslatedText": "—ระหว่างเมืองและโรงน้ำแข็ง—\nฉันสามารถนำมันมาจากที่นั่นได้",
+          "Length": 56
         }
       ]
     },
@@ -624,7 +702,8 @@
         {
           "Line": 496,
           "OriginalText": "I\u0027m sorry, but could you bring the ice\nhere to me?",
-          "TranslatedText": "ฉันขอโทษ \nแต่คุณช่วยเอาน้ำแข็งมาให้ฉันได้ไหม"
+          "TranslatedText": "ฉันขอโทษ \nแต่คุณช่วยเอาน้ำแข็งมาให้ฉันได้ไหม",
+          "Length": 50
         }
       ]
     },
@@ -635,22 +714,26 @@
         {
           "Line": 505,
           "OriginalText": "Heeey! ",
-          "TranslatedText": "ฮี่ ๆ! "
+          "TranslatedText": "ฮี่ ๆ! ",
+          "Length": 7
         },
         {
           "Line": 509,
           "OriginalText": "Over here!",
-          "TranslatedText": "ตรงนี้!\n"
+          "TranslatedText": "ตรงนี้!\n",
+          "Length": 10
         },
         {
           "Line": 513,
           "OriginalText": " This way!",
-          "TranslatedText": " ทางนี้!\n"
+          "TranslatedText": " ทางนี้!\n",
+          "Length": 10
         },
         {
           "Line": 517,
           "OriginalText": "\nBring the ice over here!",
-          "TranslatedText": "เอาน้ำแข็งมานี่!"
+          "TranslatedText": "เอาน้ำแข็งมานี่!",
+          "Length": 25
         }
       ]
     },
@@ -661,55 +744,65 @@
         {
           "Line": 526,
           "OriginalText": "Whoa. No doubt about it, that\u0027s\ndefinitely ice ",
-          "TranslatedText": "โว้ว. ไม่ต้องสงสัยเลย นั่นคือน้ำแข็งแน่นอน \n"
+          "TranslatedText": "โว้ว. ไม่ต้องสงสัยเลย นั่นคือน้ำแข็งแน่นอน \n",
+          "Length": 47
         },
         {
           "Line": 530,
           "OriginalText": "from the icehouse",
           "TranslatedText": "ที่มาจากโรงน้ำแข็ง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 17
         },
         {
           "Line": 533,
           "OriginalText": ". \n\nI\u0027ll be able to make a ",
-          "TranslatedText": ". \nฉันจะสามารถสร้าง\n"
+          "TranslatedText": ". \nฉันจะสามารถสร้าง\n",
+          "Length": 27
         },
         {
           "Line": 537,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 540,
           "OriginalText": " with\nthis. It may be the best I\u0027ve ever made...\n\nI\u0027ve got one more favor to ask.",
-          "TranslatedText": " \nด้วยสิ่งนี้. มันอาจจะดีที่สุดที่ฉันเคยทำมา...\nฉันมีอีกอย่างที่จะถาม.\n"
+          "TranslatedText": " \nด้วยสิ่งนี้. มันอาจจะดีที่สุดที่ฉันเคยทำมา...\nฉันมีอีกอย่างที่จะถาม.\n",
+          "Length": 81
         },
         {
           "Line": 544,
           "OriginalText": " Could you\ngo and let ",
-          "TranslatedText": " คุณสามารถไปและปล่อยให้ \n"
+          "TranslatedText": " คุณสามารถไปและปล่อยให้ \n",
+          "Length": 22
         },
         {
           "Line": 548,
           "OriginalText": "Pokki",
           "TranslatedText": "Pokki",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 551,
           "OriginalText": " know? Just tell her the\nbest drink ever is waiting for her...\n",
-          "TranslatedText": " รู้มั้ย? เพียงแค่บอกเธอว่า\nเครื่องดื่มที่ดีที่สุดที่รอเธออยู่...\n"
+          "TranslatedText": " รู้มั้ย? เพียงแค่บอกเธอว่า\nเครื่องดื่มที่ดีที่สุดที่รอเธออยู่...\n",
+          "Length": 63
         },
         {
           "Line": 557,
           "OriginalText": "What? ",
-          "TranslatedText": "อะไรนะ? \n"
+          "TranslatedText": "อะไรนะ? \n",
+          "Length": 6
         },
         {
           "Line": 561,
           "OriginalText": "No, of course this will work.\nKnowing her, if she hears a delicious\ndrink is waiting, she\u0027ll come running.",
-          "TranslatedText": "ไม่แน่วิธีนี้จะได้ผล\nหากเธอรู้เครื่องดื่มรสเลิศกำลังรออยู่\nเธอจะมาวิ่ง"
+          "TranslatedText": "ไม่แน่วิธีนี้จะได้ผล\nหากเธอรู้เครื่องดื่มรสเลิศกำลังรออยู่\nเธอจะมาวิ่ง",
+          "Length": 106
         }
       ]
     },
@@ -720,34 +813,40 @@
         {
           "Line": 570,
           "OriginalText": "Looks like the ice is in good shape.\nSarqso.\n\nWith this, I\u0027ll be able to make the\nultimate ",
-          "TranslatedText": "ดูเหมือนน้ำแข็งจะมีรูปร่างดี Sarqso\nด้วยสิ่งนี้ฉันจะสามารถทำสุดยอด\n"
+          "TranslatedText": "ดูเหมือนน้ำแข็งจะมีรูปร่างดี Sarqso\nด้วยสิ่งนี้ฉันจะสามารถทำสุดยอด\n",
+          "Length": 91
         },
         {
           "Line": 574,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 577,
           "OriginalText": ".\n\nSorry, but could you please let ",
-          "TranslatedText": ".\nขออภัยคุณช่วยให้\n"
+          "TranslatedText": ".\nขออภัยคุณช่วยให้\n",
+          "Length": 35
         },
         {
           "Line": 581,
           "OriginalText": "Pokki",
           "TranslatedText": "Pokki",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 584,
           "OriginalText": " \nknow? Tell her that I made the best one\never and I\u0027ve got it waiting for her...\n",
-          "TranslatedText": " \nทราบ? บอกเธอว่าฉันทำให้ดีที่สุด\nเท่าที่เคยมีมาและฉันรอเธออยู่ ...\n"
+          "TranslatedText": " \nทราบ? บอกเธอว่าฉันทำให้ดีที่สุด\nเท่าที่เคยมีมาและฉันรอเธออยู่ ...\n",
+          "Length": 82
         },
         {
           "Line": 590,
           "OriginalText": "Knowing her, she\u0027ll probably come\nrunning when she hears that there\u0027s an\namazing drink with her name on it.",
-          "TranslatedText": "เมื่อรู้จักเธอเธออาจจะวิ่งมาหา\nเมื่อเธอได้ยินว่ามีเครื่องดื่มสุดวิเศษ\nที่มีชื่อของเธออยู่"
+          "TranslatedText": "เมื่อรู้จักเธอเธออาจจะวิ่งมาหา\nเมื่อเธอได้ยินว่ามีเครื่องดื่มสุดวิเศษ\nที่มีชื่อของเธออยู่",
+          "Length": 107
         }
       ]
     },
@@ -758,22 +857,26 @@
         {
           "Line": 599,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?\n"
+          "TranslatedText": "หืม?\n",
+          "Length": 3
         },
         {
           "Line": 603,
           "OriginalText": " You\u0027re...",
-          "TranslatedText": " คุณ...\n"
+          "TranslatedText": " คุณ...\n",
+          "Length": 10
         },
         {
           "Line": 607,
           "OriginalText": "\nWell, whatever...",
-          "TranslatedText": "\nWell, whatever...\n"
+          "TranslatedText": "\nWell, whatever...\n",
+          "Length": 18
         },
         {
           "Line": 611,
           "OriginalText": " I don\u0027t care who you\nare, as long as I get my ice.",
-          "TranslatedText": " ฉันไม่สนใจว่าคุณเป็นใคร\nตราบเท่าที่ฉันได้รับน้ำแข็งมา."
+          "TranslatedText": " ฉันไม่สนใจว่าคุณเป็นใคร\nตราบเท่าที่ฉันได้รับน้ำแข็งมา.",
+          "Length": 51
         }
       ]
     },
@@ -784,12 +887,14 @@
         {
           "Line": 623,
           "OriginalText": "It looks like the ice isn\u0027t here yet...",
-          "TranslatedText": "ดูเหมือนน้ำแข็งจะยังไม่มา ...\n"
+          "TranslatedText": "ดูเหมือนน้ำแข็งจะยังไม่มา ...\n",
+          "Length": 39
         },
         {
           "Line": 627,
           "OriginalText": "\n\n\nIf you ask Anche, she\u0027d probably let you\nhave some ice. Sorry to ask you again, \nbut could you do this for me?",
-          "TranslatedText": "ถ้าคุณขอAnche \nเธออาจจะให้คุณกินน้ำแข็ง \nขอโทษที่ถามคุณอีกครั้ง \nแต่คุณช่วยทำเพื่อฉันได้ไหม"
+          "TranslatedText": "ถ้าคุณขอAnche \nเธออาจจะให้คุณกินน้ำแข็ง \nขอโทษที่ถามคุณอีกครั้ง \nแต่คุณช่วยทำเพื่อฉันได้ไหม",
+          "Length": 113
         }
       ]
     },
@@ -800,7 +905,8 @@
         {
           "Line": 631,
           "OriginalText": "I\u0027m done for...",
-          "TranslatedText": "ฉันทำเพื่อ..."
+          "TranslatedText": "ฉันทำเพื่อ...",
+          "Length": 15
         }
       ]
     },
@@ -811,7 +917,8 @@
         {
           "Line": 635,
           "OriginalText": "Over here...",
-          "TranslatedText": "ตรงนี้..."
+          "TranslatedText": "ตรงนี้...",
+          "Length": 12
         }
       ]
     }

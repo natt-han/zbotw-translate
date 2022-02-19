@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I don\u0027t remember.",
-          "TranslatedText": "จำไม่ได้"
+          "TranslatedText": "จำไม่ได้",
+          "Length": 17
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "That sounds familiar...",
-          "TranslatedText": "ฟังดูคุ้นๆ..."
+          "TranslatedText": "ฟังดูคุ้นๆ...",
+          "Length": 23
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "\u0022Again\u0022?",
-          "TranslatedText": "\u0022อีกครั้ง\u0022?"
+          "TranslatedText": "\u0022อีกครั้ง\u0022?",
+          "Length": 8
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Mipha?",
-          "TranslatedText": "Mipha?"
+          "TranslatedText": "Mipha?",
+          "Length": 6
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Trello?",
-          "TranslatedText": "Trello?"
+          "TranslatedText": "Trello?",
+          "Length": 7
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Throne room?",
-          "TranslatedText": "ห้องบัลลังค์?"
+          "TranslatedText": "ห้องบัลลังค์?",
+          "Length": 12
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -78,7 +85,8 @@
         {
           "Line": 36,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 3
         }
       ]
     },
@@ -89,7 +97,8 @@
         {
           "Line": 45,
           "OriginalText": "Good morning.",
-          "TranslatedText": "อรุณสวัสดิ์"
+          "TranslatedText": "อรุณสวัสดิ์",
+          "Length": 13
         }
       ]
     },
@@ -100,7 +109,8 @@
         {
           "Line": 54,
           "OriginalText": "Good day.",
-          "TranslatedText": "สวัสดี"
+          "TranslatedText": "สวัสดี",
+          "Length": 9
         }
       ]
     },
@@ -111,7 +121,8 @@
         {
           "Line": 63,
           "OriginalText": "Good evening.",
-          "TranslatedText": "สวัสดีตอนเย็น"
+          "TranslatedText": "สวัสดีตอนเย็น",
+          "Length": 13
         }
       ]
     },
@@ -122,12 +133,14 @@
         {
           "Line": 72,
           "OriginalText": "Nothing to report, ",
-          "TranslatedText": "ไม่มีเรื่องรายงาน "
+          "TranslatedText": "ไม่มีเรื่องรายงาน ",
+          "Length": 19
         },
         {
           "Line": 76,
           "OriginalText": "Master Link.",
-          "TranslatedText": "Master Link"
+          "TranslatedText": "Master Link",
+          "Length": 12
         }
       ]
     },
@@ -142,22 +155,26 @@
         {
           "Line": 85,
           "OriginalText": "It\u0027s me! ",
-          "TranslatedText": "นี่ฉันเอง! "
+          "TranslatedText": "นี่ฉันเอง! ",
+          "Length": 9
         },
         {
           "Line": 89,
           "OriginalText": "Rivan!\n\n\n",
-          "TranslatedText": "Rivan!\n\n\n"
+          "TranslatedText": "Rivan!\n\n\n",
+          "Length": 9
         },
         {
           "Line": 95,
           "OriginalText": "We used to swim together when I was\nbut a child...",
-          "TranslatedText": "เราเคยว่ายน้ำด้วยกันตอนที่เรายังเป็นเด็กไง...\n"
+          "TranslatedText": "เราเคยว่ายน้ำด้วยกันตอนที่เรายังเป็นเด็กไง...\n",
+          "Length": 50
         },
         {
           "Line": 99,
           "OriginalText": " Remember?",
-          "TranslatedText": "จำได้มั้ย?"
+          "TranslatedText": "จำได้มั้ย?",
+          "Length": 10
         }
       ]
     },
@@ -168,38 +185,45 @@
         {
           "Line": 116,
           "OriginalText": "Well, it has been ",
-          "TranslatedText": "คือ ตั้งแต่ตอนนั้นมันก็ผ่านมา "
+          "TranslatedText": "คือ ตั้งแต่ตอนนั้นมันก็ผ่านมา ",
+          "Length": 18
         },
         {
           "Line": 120,
           "OriginalText": "100 years",
           "TranslatedText": "100 ปี",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 123,
           "OriginalText": " since then.",
-          "TranslatedText": " แล้วน่ะนะ "
+          "TranslatedText": " แล้วน่ะนะ ",
+          "Length": 12
         },
         {
           "Line": 127,
           "OriginalText": "\nAnd now I\u0027m over 130 years old...\n\nI must say, you\u0027ve aged well for a Hylian.",
-          "TranslatedText": "\nตอนนี้ฉันอายุเกิน 130 แล้ว...\n\nต้องขอบอกว่าสำหรับ Hylian แล้วนายดูไม่แก่เลยนะ"
+          "TranslatedText": "\nตอนนี้ฉันอายุเกิน 130 แล้ว...\n\nต้องขอบอกว่าสำหรับ Hylian แล้วนายดูไม่แก่เลยนะ",
+          "Length": 78
         },
         {
           "Line": 131,
           "OriginalText": "\nUnbelievably well!\n\nNow that I think about it—",
-          "TranslatedText": "\nอย่างไม่น่าเชื่อเลย!\n\nพอมาลองคิดดูแล้ว—"
+          "TranslatedText": "\nอย่างไม่น่าเชื่อเลย!\n\nพอมาลองคิดดูแล้ว—",
+          "Length": 47
         },
         {
           "Line": 135,
           "OriginalText": "shouldn\u0027t you\nbe dead?",
-          "TranslatedText": "นายควรจะตายแล้วรึเปล่า?\n"
+          "TranslatedText": "นายควรจะตายแล้วรึเปล่า?\n",
+          "Length": 22
         },
         {
           "Line": 139,
           "OriginalText": " Sorry. That may be too\npersonal a question.",
-          "TranslatedText": " ขอโทษนะ คำถามนั่นอาจจะส่วนตัวเกินไปหน่อย"
+          "TranslatedText": " ขอโทษนะ คำถามนั่นอาจจะส่วนตัวเกินไปหน่อย",
+          "Length": 44
         }
       ]
     },
@@ -210,53 +234,63 @@
         {
           "Line": 148,
           "OriginalText": "The leader of the pack, Bazz...\nThe heroine, Gaddison...\n\nAnd my father, Trello... They have all\naged quite a bit, I\u0027m afraid.",
-          "TranslatedText": "หัวหน้าของกลุ่ม Bazz...\nผู้กล้าหญิง Gaddison...\n\nและพ่อของฉัน Trello... พวกเขาต่างก็อายุ\nมากขึ้นกันพอสมควร "
+          "TranslatedText": "หัวหน้าของกลุ่ม Bazz...\nผู้กล้าหญิง Gaddison...\n\nและพ่อของฉัน Trello... พวกเขาต่างก็อายุ\nมากขึ้นกันพอสมควร ",
+          "Length": 126
         },
         {
           "Line": 152,
           "OriginalText": " But they\nare all doing well.\n",
-          "TranslatedText": " แต่พวกเขา\nก็สบายกันดี\n"
+          "TranslatedText": " แต่พวกเขา\nก็สบายกันดี\n",
+          "Length": 30
         },
         {
           "Line": 158,
           "OriginalText": "Oh... ",
-          "TranslatedText": "อ้อ... "
+          "TranslatedText": "อ้อ... ",
+          "Length": 6
         },
         {
           "Line": 162,
           "OriginalText": "But, Master Link, ",
-          "TranslatedText": "แต่ว่านะ Master Link "
+          "TranslatedText": "แต่ว่านะ Master Link ",
+          "Length": 18
         },
         {
           "Line": 166,
           "OriginalText": "you probably\nshouldn\u0027t speak to the elderly.\n\n",
-          "TranslatedText": "นายอาจไม่ควร\nเข้าไปคุยกับพวกผู้อาวุโส\n\n"
+          "TranslatedText": "นายอาจไม่ควร\nเข้าไปคุยกับพวกผู้อาวุโส\n\n",
+          "Length": 46
         },
         {
           "Line": 172,
           "OriginalText": "Oops! ",
-          "TranslatedText": "โอ๊ะ! "
+          "TranslatedText": "โอ๊ะ! ",
+          "Length": 6
         },
         {
           "Line": 176,
           "OriginalText": "Sorry for keeping you too long.\n\n\nYou have business in the ",
-          "TranslatedText": "ขอโทษที่ชวนคุยซะนานนะ\n\n\nนายมีธุระใน "
+          "TranslatedText": "ขอโทษที่ชวนคุยซะนานนะ\n\n\nนายมีธุระใน ",
+          "Length": 59
         },
         {
           "Line": 180,
           "OriginalText": "throne room",
           "TranslatedText": "ห้องบัลลังค์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 11
         },
         {
           "Line": 183,
           "OriginalText": ",\nright?",
-          "TranslatedText": "ใช่มั้ย?\n"
+          "TranslatedText": "ใช่มั้ย?\n",
+          "Length": 8
         },
         {
           "Line": 187,
           "OriginalText": " Please proceed there at your\nearliest convenience.",
-          "TranslatedText": " ถ้าพร้อมก็เข้าไปได้เลยนะ"
+          "TranslatedText": " ถ้าพร้อมก็เข้าไปได้เลยนะ",
+          "Length": 51
         }
       ]
     },
@@ -267,23 +301,27 @@
         {
           "Line": 196,
           "OriginalText": "By the way... ",
-          "TranslatedText": "อีกอย่างนะ... "
+          "TranslatedText": "อีกอย่างนะ... ",
+          "Length": 14
         },
         {
           "Line": 200,
           "OriginalText": "Master Link, are you going\nto fight ",
-          "TranslatedText": "Master Link นายจะไป\nสู้กับ "
+          "TranslatedText": "Master Link นายจะไป\nสู้กับ ",
+          "Length": 36
         },
         {
           "Line": 204,
           "OriginalText": "Calamity Ganon",
           "TranslatedText": "ภัยพิบัติ Ganon",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 207,
           "OriginalText": " again?",
-          "TranslatedText": " อีกครั้งงั้นเหรอ?"
+          "TranslatedText": " อีกครั้งงั้นเหรอ?",
+          "Length": 7
         }
       ]
     },
@@ -300,48 +338,57 @@
         {
           "Line": 219,
           "OriginalText": "I mean...",
-          "TranslatedText": "ฉันหมายถึง..."
+          "TranslatedText": "ฉันหมายถึง...",
+          "Length": 9
         },
         {
           "Line": 223,
           "OriginalText": " Master Link...\n\n\nYou and Lady Mipha fought ",
-          "TranslatedText": " Master Link...\n\n\nนายกับ Lady Mipha สู้กับ "
+          "TranslatedText": " Master Link...\n\n\nนายกับ Lady Mipha สู้กับ ",
+          "Length": 44
         },
         {
           "Line": 227,
           "OriginalText": "Calamity\nGanon",
           "TranslatedText": "ภัยพิบัติ\nGanon",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 230,
           "OriginalText": " 100 years ago. ",
-          "TranslatedText": " เมื่อ 100 ปีก่อน "
+          "TranslatedText": " เมื่อ 100 ปีก่อน ",
+          "Length": 16
         },
         {
           "Line": 234,
           "OriginalText": "Don\u0027t you recall?\n\n",
-          "TranslatedText": "นายจำไม่ได้เหรอ?\n\n"
+          "TranslatedText": "นายจำไม่ได้เหรอ?\n\n",
+          "Length": 19
         },
         {
           "Line": 240,
           "OriginalText": "Master Link... ",
-          "TranslatedText": "Master Link... "
+          "TranslatedText": "Master Link... ",
+          "Length": 15
         },
         {
           "Line": 244,
           "OriginalText": "You really don\u0027t remember\nanything, do you?\n\n",
-          "TranslatedText": "นายจำอะไรไม่ได้เลย\nจริงๆ สินะ?\n\n"
+          "TranslatedText": "นายจำอะไรไม่ได้เลย\nจริงๆ สินะ?\n\n",
+          "Length": 45
         },
         {
           "Line": 250,
           "OriginalText": "OK!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 3
         },
         {
           "Line": 254,
           "OriginalText": " In that case, ask me anything \nyou want to!",
-          "TranslatedText": " ถ้าอย่างงั้น ถามฉันเรื่องที่อยากรู้ได้เลย!"
+          "TranslatedText": " ถ้าอย่างงั้น ถามฉันเรื่องที่อยากรู้ได้เลย!",
+          "Length": 44
         }
       ]
     },
@@ -358,7 +405,8 @@
         {
           "Line": 273,
           "OriginalText": "Did you want to ask me something?",
-          "TranslatedText": "มีอะไรอยากถามงั้นเหรอ?"
+          "TranslatedText": "มีอะไรอยากถามงั้นเหรอ?",
+          "Length": 33
         }
       ]
     },
@@ -369,49 +417,58 @@
         {
           "Line": 292,
           "OriginalText": "Lady Mipha is the princess of the Zora",
-          "TranslatedText": "Lady Mipha คือเจ้าหญิงของ Zora"
+          "TranslatedText": "Lady Mipha คือเจ้าหญิงของ Zora",
+          "Length": 38
         },
         {
           "Line": 296,
           "OriginalText": "\nand Prince Sidon\u0027s elder sister.\n\nShe is also the Zora Champion.",
-          "TranslatedText": "\nและเป็นพี่สาวของเจ้าชาย Sidon \n\nเธอยังเป็น Zora Champion อีกด้วย"
+          "TranslatedText": "\nและเป็นพี่สาวของเจ้าชาย Sidon \n\nเธอยังเป็น Zora Champion อีกด้วย",
+          "Length": 65
         },
         {
           "Line": 300,
           "OriginalText": "\nThat means she was able to command\nthe ",
-          "TranslatedText": "\nนั่นหมายถึงว่าเธอสามารถควบคุม \n"
+          "TranslatedText": "\nนั่นหมายถึงว่าเธอสามารถควบคุม \n",
+          "Length": 40
         },
         {
           "Line": 304,
           "OriginalText": "Divine Beast Vah Ruta",
           "TranslatedText": "อสูรศักดิ์สิทธิ์ Vah Ruta",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 21
         },
         {
           "Line": 307,
           "OriginalText": ".\n",
-          "TranslatedText": " ได้\n"
+          "TranslatedText": " ได้\n",
+          "Length": 2
         },
         {
           "Line": 313,
           "OriginalText": "But unfortunately...Lady Mipha was...",
-          "TranslatedText": "แต่โชคร้าย...Lady Mipha น่ะ..."
+          "TranslatedText": "แต่โชคร้าย...Lady Mipha น่ะ...",
+          "Length": 37
         },
         {
           "Line": 317,
           "OriginalText": "\nWell, 100 years ago...",
-          "TranslatedText": "\nเมื่อ 100 ปีก่อน..."
+          "TranslatedText": "\nเมื่อ 100 ปีก่อน...",
+          "Length": 23
         },
         {
           "Line": 321,
           "OriginalText": "Calamity Ganon",
           "TranslatedText": "ภัยพิบัติ Ganon",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 324,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -422,12 +479,14 @@
         {
           "Line": 333,
           "OriginalText": "I should not be the one telling you this.",
-          "TranslatedText": "ฉันไม่ควรเป็นคนเล่าเรื่องนี้"
+          "TranslatedText": "ฉันไม่ควรเป็นคนเล่าเรื่องนี้",
+          "Length": 41
         },
         {
           "Line": 337,
           "OriginalText": "\nSorry. Please ask King Dorephan if you\nwish to know more.",
-          "TranslatedText": "\nขอโทษนะ ไปถามราชา Dorephan เถอะ\nถ้าอยากรู้เรื่องมากกว่านี้"
+          "TranslatedText": "\nขอโทษนะ ไปถามราชา Dorephan เถอะ\nถ้าอยากรู้เรื่องมากกว่านี้",
+          "Length": 58
         }
       ]
     },
@@ -438,33 +497,39 @@
         {
           "Line": 346,
           "OriginalText": "Trello is my father.",
-          "TranslatedText": "Trello เป็นพ่อของฉัน"
+          "TranslatedText": "Trello เป็นพ่อของฉัน",
+          "Length": 20
         },
         {
           "Line": 350,
           "OriginalText": "\n\n\nSince retiring, he has been in charge\nof the Champion Festival. It is he who\nnow bears the ",
-          "TranslatedText": "\n\n\nตั้งแต่เกษียณ เขาก็มีหน้าที่จัดการเรื่อง\nChampion Festival เป็นเขาเองที่คอยดูแล\n"
+          "TranslatedText": "\n\n\nตั้งแต่เกษียณ เขาก็มีหน้าที่จัดการเรื่อง\nChampion Festival เป็นเขาเองที่คอยดูแล\n",
+          "Length": 94
         },
         {
           "Line": 354,
           "OriginalText": "Ceremonial Trident",
           "TranslatedText": "Ceremonial Trident",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 18
         },
         {
           "Line": 357,
           "OriginalText": ".\nBut, Master Link...",
-          "TranslatedText": "\nแต่ว่านะ Master Link..."
+          "TranslatedText": "\nแต่ว่านะ Master Link...",
+          "Length": 21
         },
         {
           "Line": 361,
           "OriginalText": " You really should not\nspeak with any of the elderly here.\nIncluding my father.\nAs for me... Well...",
-          "TranslatedText": " นายไม่ควร\nคุยกับพวกผู้อาวุโสที่นี่เลยจริงๆ นะ\nรวมถึงพ่อฉันด้วย\nส่วนฉัน... คือว่า..."
+          "TranslatedText": " นายไม่ควร\nคุยกับพวกผู้อาวุโสที่นี่เลยจริงๆ นะ\nรวมถึงพ่อฉันด้วย\nส่วนฉัน... คือว่า...",
+          "Length": 100
         },
         {
           "Line": 365,
           "OriginalText": " I just do not believe\nyou are guilty of anything!",
-          "TranslatedText": " ฉันแค่ไม่คิดว่า\nมันเป็นความผิดของนายเลย!"
+          "TranslatedText": " ฉันแค่ไม่คิดว่า\nมันเป็นความผิดของนายเลย!",
+          "Length": 50
         }
       ]
     },
@@ -475,23 +540,27 @@
         {
           "Line": 374,
           "OriginalText": "The ",
-          "TranslatedText": ""
+          "TranslatedText": "",
+          "Length": 4
         },
         {
           "Line": 378,
           "OriginalText": "throne room",
           "TranslatedText": "ห้องบัลลังค์",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 11
         },
         {
           "Line": 381,
           "OriginalText": " is where King Dorephan\nand Prince Sidon can often be found.\n\nYou can use either staircase to go up.",
-          "TranslatedText": " คือที่ที่ราชา Dorephan\nและเจ้าชาย Sidon มักจะอยู่\n\nนายขึ้นบันไดด้านไหนไปก็ได้"
+          "TranslatedText": " คือที่ที่ราชา Dorephan\nและเจ้าชาย Sidon มักจะอยู่\n\nนายขึ้นบันไดด้านไหนไปก็ได้",
+          "Length": 100
         },
         {
           "Line": 385,
           "OriginalText": "\nWhen you get to the second floor,\nthe throne room is up and to the back.",
-          "TranslatedText": "\nพอไปถึงชั้นสองแล้ว ห้องบัลลังค์จะอยู่\nที่ด้านหลัง"
+          "TranslatedText": "\nพอไปถึงชั้นสองแล้ว ห้องบัลลังค์จะอยู่\nที่ด้านหลัง",
+          "Length": 73
         }
       ]
     },
@@ -502,7 +571,8 @@
         {
           "Line": 394,
           "OriginalText": "Roger that!",
-          "TranslatedText": "รับทราบ!"
+          "TranslatedText": "รับทราบ!",
+          "Length": 11
         }
       ]
     },
@@ -513,12 +583,14 @@
         {
           "Line": 403,
           "OriginalText": "The sky is clear for the first time in a bit!\n\n\nI would like to celebrate by taking my\ndaughter on a trip,",
-          "TranslatedText": "ท้องฟ้าสดใสเป็นครั้งแรกในรอบปลายปีเลย!\n\n\nฉันอยากจะฉลองโดยการพาลูกสาวไปเที่ยว\n"
+          "TranslatedText": "ท้องฟ้าสดใสเป็นครั้งแรกในรอบปลายปีเลย!\n\n\nฉันอยากจะฉลองโดยการพาลูกสาวไปเที่ยว\n",
+          "Length": 106
         },
         {
           "Line": 407,
           "OriginalText": " but I cannot afford\nto leave my post...",
-          "TranslatedText": "แต่ฉันไม่อาจละทิ้งหน้าที่ได้..."
+          "TranslatedText": "แต่ฉันไม่อาจละทิ้งหน้าที่ได้...",
+          "Length": 40
         }
       ]
     },
@@ -529,61 +601,72 @@
         {
           "Line": 416,
           "OriginalText": "Oh! ",
-          "TranslatedText": "โอ้! "
+          "TranslatedText": "โอ้! ",
+          "Length": 4
         },
         {
           "Line": 420,
           "OriginalText": "Thank you for saving ",
-          "TranslatedText": "ขอบคุณที่ช่วย "
+          "TranslatedText": "ขอบคุณที่ช่วย ",
+          "Length": 21
         },
         {
           "Line": 424,
           "OriginalText": "Zora\u0027s Domain",
           "TranslatedText": "Zora\u0027s Domain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 427,
           "OriginalText": "!\n\n\nThe ",
-          "TranslatedText": " นะ!\n\n\n"
+          "TranslatedText": " นะ!\n\n\n",
+          "Length": 8
         },
         {
           "Line": 431,
           "OriginalText": "Divine Beast Vah Ruta ",
           "TranslatedText": "อสูรศักดิ์สิทธิ์ Vah Ruta ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 22
         },
         {
           "Line": 434,
           "OriginalText": "is your\nally now... ",
-          "TranslatedText": "กลายเป็น\nพวกของนายแล้ว... "
+          "TranslatedText": "กลายเป็น\nพวกของนายแล้ว... ",
+          "Length": 20
         },
         {
           "Line": 438,
           "OriginalText": "How incredible.\n\nKeep your spirits up, and use its power\nto banish ",
-          "TranslatedText": "สุดยอดไปเลย\n\nรักษากำลังใจไว้ และใช้พลังของมัน\nจัดการกับ "
+          "TranslatedText": "สุดยอดไปเลย\n\nรักษากำลังใจไว้ และใช้พลังของมัน\nจัดการกับ ",
+          "Length": 67
         },
         {
           "Line": 442,
           "OriginalText": "Calamity Ganon",
           "TranslatedText": "ภัยพิบัติ Ganon",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 445,
           "OriginalText": " from\n",
-          "TranslatedText": " จาก\n"
+          "TranslatedText": " จาก\n",
+          "Length": 6
         },
         {
           "Line": 449,
           "OriginalText": "Hyrule Castle",
           "TranslatedText": "ปราสาท Hyrule",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 452,
           "OriginalText": "!",
-          "TranslatedText": " เลย!"
+          "TranslatedText": " เลย!",
+          "Length": 1
         }
       ]
     },
@@ -594,12 +677,14 @@
         {
           "Line": 461,
           "OriginalText": "Huh?",
-          "TranslatedText": "หือ?"
+          "TranslatedText": "หือ?",
+          "Length": 4
         },
         {
           "Line": 465,
           "OriginalText": " What is it?!",
-          "TranslatedText": " มีอะไรเหรอ?!"
+          "TranslatedText": " มีอะไรเหรอ?!",
+          "Length": 13
         }
       ]
     },
@@ -610,12 +695,14 @@
         {
           "Line": 474,
           "OriginalText": "No, I mean...",
-          "TranslatedText": "ฉันหมายถึง..."
+          "TranslatedText": "ฉันหมายถึง...",
+          "Length": 13
         },
         {
           "Line": 478,
           "OriginalText": "Hylian Champion!\n\n\nCome back anytime!",
-          "TranslatedText": "Hylian Champion!\n\n\nเรายินดีต้อนรับเสมอ!"
+          "TranslatedText": "Hylian Champion!\n\n\nเรายินดีต้อนรับเสมอ!",
+          "Length": 37
         }
       ]
     },
@@ -632,7 +719,8 @@
         {
           "Line": 487,
           "OriginalText": "Is there anything else you want to ask?",
-          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?"
+          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?",
+          "Length": 39
         }
       ]
     },
@@ -643,12 +731,14 @@
         {
           "Line": 506,
           "OriginalText": "*AHEM* Father...",
-          "TranslatedText": "*อะแฮ่ม* พ่อ..."
+          "TranslatedText": "*อะแฮ่ม* พ่อ...",
+          "Length": 16
         },
         {
           "Line": 510,
           "OriginalText": " We are on guard duty\nright now.",
-          "TranslatedText": " เรากำลังปฏิบัติหน้าที่อยู่นะ"
+          "TranslatedText": " เรากำลังปฏิบัติหน้าที่อยู่นะ",
+          "Length": 32
         }
       ]
     },
@@ -659,12 +749,14 @@
         {
           "Line": 519,
           "OriginalText": "Oh, right... ",
-          "TranslatedText": "อ้อ ใช่... "
+          "TranslatedText": "อ้อ ใช่... ",
+          "Length": 13
         },
         {
           "Line": 523,
           "OriginalText": "Sorry.",
-          "TranslatedText": "ขอโทษนะ"
+          "TranslatedText": "ขอโทษนะ",
+          "Length": 6
         }
       ]
     },
@@ -675,12 +767,14 @@
         {
           "Line": 532,
           "OriginalText": "So the Hylian that Prince Sidon brought\nhere...",
-          "TranslatedText": "งั้น Hylian ที่เจ้าชาย Sidon พามา...\n"
+          "TranslatedText": "งั้น Hylian ที่เจ้าชาย Sidon พามา...\n",
+          "Length": 47
         },
         {
           "Line": 536,
           "OriginalText": " Don\u0027t tell me...",
-          "TranslatedText": " อย่าบอกนะ..."
+          "TranslatedText": " อย่าบอกนะ...",
+          "Length": 17
         }
       ]
     },
@@ -691,17 +785,20 @@
         {
           "Line": 548,
           "OriginalText": "Master Link!",
-          "TranslatedText": "Master Link!"
+          "TranslatedText": "Master Link!",
+          "Length": 12
         },
         {
           "Line": 552,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 558,
           "OriginalText": "Is it truly you? The Hylian Champion?!",
-          "TranslatedText": "นายจริงๆ น่ะเหรอ? Hylian Champion?!"
+          "TranslatedText": "นายจริงๆ น่ะเหรอ? Hylian Champion?!",
+          "Length": 38
         }
       ]
     }

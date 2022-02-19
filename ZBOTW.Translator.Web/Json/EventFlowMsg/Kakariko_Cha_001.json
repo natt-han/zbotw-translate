@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027ll bring you some.",
-          "TranslatedText": "เดี๋ยวเอามาให้"
+          "TranslatedText": "เดี๋ยวเอามาให้",
+          "Length": 20
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "This is for you.",
-          "TranslatedText": "นี่สำหรับเธอ"
+          "TranslatedText": "นี่สำหรับเธอ",
+          "Length": 16
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "You\u0027re nuts.",
-          "TranslatedText": "เพี้ยนไปแล้ว"
+          "TranslatedText": "เพี้ยนไปแล้ว",
+          "Length": 12
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "You\u0027ll live.",
-          "TranslatedText": "ไม่ตายหรอก"
+          "TranslatedText": "ไม่ตายหรอก",
+          "Length": 12
         }
       ]
     },
@@ -48,7 +52,8 @@
         {
           "Line": 24,
           "OriginalText": "Hrmmm...",
-          "TranslatedText": "Hrmmm..."
+          "TranslatedText": "Hrmmm...",
+          "Length": 8
         }
       ]
     },
@@ -59,7 +64,8 @@
         {
           "Line": 36,
           "OriginalText": "...OH, NO!",
-          "TranslatedText": "...โอ้ ไม่นะ!"
+          "TranslatedText": "...โอ้ ไม่นะ!",
+          "Length": 10
         }
       ]
     },
@@ -70,39 +76,46 @@
         {
           "Line": 48,
           "OriginalText": "Koko promised to make Cottla some\n",
-          "TranslatedText": "Koko สัญญากับ Cottla ว่าจะทำ\n"
+          "TranslatedText": "Koko สัญญากับ Cottla ว่าจะทำ\n",
+          "Length": 34
         },
         {
           "Line": 52,
           "OriginalText": "hasty veggie cream soup",
           "TranslatedText": "hasty veggie cream soup",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 23
         },
         {
           "Line": 55,
           "OriginalText": "... ",
-          "TranslatedText": "... "
+          "TranslatedText": "... ",
+          "Length": 4
         },
         {
           "Line": 59,
           "OriginalText": "But silly\nKoko forgot the ",
-          "TranslatedText": "แต่ว่า\nKoko กลับลืมเอา "
+          "TranslatedText": "แต่ว่า\nKoko กลับลืมเอา ",
+          "Length": 26
         },
         {
           "Line": 63,
           "OriginalText": "swift carrots",
           "TranslatedText": "swift carrots",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 66,
           "OriginalText": "!\nKoko is supposed to take Mother\u0027s place\nfor Cottla...",
-          "TranslatedText": "มา!\nKoko ควรจะต้องทำหน้าที่แม่ให้กับ\nCottla..."
+          "TranslatedText": "มา!\nKoko ควรจะต้องทำหน้าที่แม่ให้กับ\nCottla...",
+          "Length": 55
         },
         {
           "Line": 70,
           "OriginalText": " Koko is a bad big sister...",
-          "TranslatedText": " Koko เป็นพี่สาวที่ไม่ได้เรื่องเลย..."
+          "TranslatedText": " Koko เป็นพี่สาวที่ไม่ได้เรื่องเลย...",
+          "Length": 28
         }
       ]
     },
@@ -113,23 +126,27 @@
         {
           "Line": 79,
           "OriginalText": "Koko promised to make Cottla some\n",
-          "TranslatedText": "Koko สัญญากับ Cottla ว่าจะทำ\n"
+          "TranslatedText": "Koko สัญญากับ Cottla ว่าจะทำ\n",
+          "Length": 34
         },
         {
           "Line": 83,
           "OriginalText": "hasty veggie cream soup",
           "TranslatedText": "hasty veggie cream soup",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 23
         },
         {
           "Line": 86,
           "OriginalText": "... But Koko\nhas no swift carrots!\nKoko is supposed to be like a mother\nfor Cottla...",
-          "TranslatedText": "... แต่ Koko\nไม่มี swift carrots!\nKoko ควรจะต้องเป็นแม่ให้กับ\nCottla..."
+          "TranslatedText": "... แต่ Koko\nไม่มี swift carrots!\nKoko ควรจะต้องเป็นแม่ให้กับ\nCottla...",
+          "Length": 85
         },
         {
           "Line": 90,
           "OriginalText": " Koko is a bad big sister...",
-          "TranslatedText": " Koko เป็นพี่สาวที่ไม่ได้เรื่องเลย..."
+          "TranslatedText": " Koko เป็นพี่สาวที่ไม่ได้เรื่องเลย...",
+          "Length": 28
         }
       ]
     },
@@ -144,28 +161,33 @@
         {
           "Line": 99,
           "OriginalText": "...Huh?\n\n\n",
-          "TranslatedText": "...หือ?\n\n\n"
+          "TranslatedText": "...หือ?\n\n\n",
+          "Length": 10
         },
         {
           "Line": 108,
           "OriginalText": "HUH?!",
-          "TranslatedText": "หืออ?!"
+          "TranslatedText": "หืออ?!",
+          "Length": 5
         },
         {
           "Line": 112,
           "OriginalText": "\n\n\nKoko smells ",
-          "TranslatedText": "\n\n\nKoko ได้กลิ่น "
+          "TranslatedText": "\n\n\nKoko ได้กลิ่น ",
+          "Length": 15
         },
         {
           "Line": 116,
           "OriginalText": "swift carrots",
           "TranslatedText": "swift carrots",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 119,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -176,38 +198,45 @@
         {
           "Line": 139,
           "OriginalText": "Is that...",
-          "TranslatedText": "นั่นมัน..."
+          "TranslatedText": "นั่นมัน...",
+          "Length": 10
         },
         {
           "Line": 143,
           "OriginalText": "a ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 2
         },
         {
           "Line": 147,
           "OriginalText": "swift carrot",
           "TranslatedText": "swift carrot",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 150,
           "OriginalText": "?!",
-          "TranslatedText": " เหรอ?!"
+          "TranslatedText": " เหรอ?!",
+          "Length": 2
         },
         {
           "Line": 154,
           "OriginalText": "\n\n\nThank you so much!",
-          "TranslatedText": "\n\n\nขอบคุณมากนะ!"
+          "TranslatedText": "\n\n\nขอบคุณมากนะ!",
+          "Length": 21
         },
         {
           "Line": 158,
           "OriginalText": " So very much!\nNow Koko can make dinner for Cottla...",
-          "TranslatedText": " มากๆ เลย!\nเท่านี้ Koko ก็สามารถทำมื้อเย็นให้ Cottla ได้แล้ว..."
+          "TranslatedText": " มากๆ เลย!\nเท่านี้ Koko ก็สามารถทำมื้อเย็นให้ Cottla ได้แล้ว...",
+          "Length": 53
         },
         {
           "Line": 162,
           "OriginalText": "\nYeah! Time to get cookin\u0027!",
-          "TranslatedText": "\nเย้! ได้เวลาแสดงฝีมือ!"
+          "TranslatedText": "\nเย้! ได้เวลาแสดงฝีมือ!",
+          "Length": 27
         }
       ]
     },
@@ -218,71 +247,84 @@
         {
           "Line": 171,
           "OriginalText": "Today\u0027s dinner is ",
-          "TranslatedText": "มื้อเย็นวันนี้คือ "
+          "TranslatedText": "มื้อเย็นวันนี้คือ ",
+          "Length": 18
         },
         {
           "Line": 175,
           "OriginalText": "veggie cream soup",
           "TranslatedText": "veggie cream soup",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 17
         },
         {
           "Line": 178,
           "OriginalText": "!\n\n\n",
-          "TranslatedText": "!\n\n\n"
+          "TranslatedText": "!\n\n\n",
+          "Length": 4
         },
         {
           "Line": 184,
           "OriginalText": "It\u0027s super nourishing and fortifying!\n\n\n",
-          "TranslatedText": "มันเต็มไปด้วยสารอาหารและทำให้ร่างกายแข็งแรง!\n\n\n"
+          "TranslatedText": "มันเต็มไปด้วยสารอาหารและทำให้ร่างกายแข็งแรง!\n\n\n",
+          "Length": 40
         },
         {
           "Line": 190,
           "OriginalText": "Well, that\u0027s what they say, anyhow.\nIt must be true!\n\nAll you do is toss a ",
-          "TranslatedText": "เค้าว่ากันอย่างนั้นอะนะ\nมันคงจริงแหละ!\n\nที่ต้องทำก็มีแค่โยน "
+          "TranslatedText": "เค้าว่ากันอย่างนั้นอะนะ\nมันคงจริงแหละ!\n\nที่ต้องทำก็มีแค่โยน ",
+          "Length": 75
         },
         {
           "Line": 194,
           "OriginalText": "swift carrot",
           "TranslatedText": "swift carrot",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 197,
           "OriginalText": ",\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 201,
           "OriginalText": "rock salt",
           "TranslatedText": "rock salt",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 204,
           "OriginalText": ", and ",
-          "TranslatedText": "และ "
+          "TranslatedText": "และ ",
+          "Length": 6
         },
         {
           "Line": 208,
           "OriginalText": "fresh milk ",
           "TranslatedText": "fresh milk ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 211,
           "OriginalText": "in a pot\nand stew it up. ",
-          "TranslatedText": "ลงไปในหม้อ\nแล้วก็ต้มรวมกัน "
+          "TranslatedText": "ลงไปในหม้อ\nแล้วก็ต้มรวมกัน ",
+          "Length": 25
         },
         {
           "Line": 215,
           "OriginalText": "Then, voilà! ",
-          "TranslatedText": "จากนั้นก็ เสร็จ! "
+          "TranslatedText": "จากนั้นก็ เสร็จ! ",
+          "Length": 13
         },
         {
           "Line": 219,
           "OriginalText": "So yummy!",
-          "TranslatedText": "อร่อยมาก!"
+          "TranslatedText": "อร่อยมาก!",
+          "Length": 9
         }
       ]
     },
@@ -297,18 +339,21 @@
         {
           "Line": 228,
           "OriginalText": "But...Koko promised to make Cottla\nsome ",
-          "TranslatedText": "แต่...Koko สัญญากับ Cottla\nจะทำ "
+          "TranslatedText": "แต่...Koko สัญญากับ Cottla\nจะทำ ",
+          "Length": 40
         },
         {
           "Line": 232,
           "OriginalText": "hasty veggie cream soup",
           "TranslatedText": "hasty veggie cream soup",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 23
         },
         {
           "Line": 235,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -319,23 +364,27 @@
         {
           "Line": 252,
           "OriginalText": "Thank you! So much!\n\n\nOK, Koko just needs one ",
-          "TranslatedText": "ขอบคุณนะ! ขอบคุณมาก!\n\n\nKoko ต้องการ "
+          "TranslatedText": "ขอบคุณนะ! ขอบคุณมาก!\n\n\nKoko ต้องการ ",
+          "Length": 46
         },
         {
           "Line": 256,
           "OriginalText": "swift carrot",
           "TranslatedText": "swift carrot",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 259,
           "OriginalText": "!\nJust one and Koko can get cookin\u0027!\nKoko will be waiting for you here!\n",
-          "TranslatedText": "แค่อันเดียว!\nแค่อันเดียว Koko ก็ทำอาหารได้แล้ว!\nKoko จะรออยู่ที่นี่!\n"
+          "TranslatedText": "แค่อันเดียว!\nแค่อันเดียว Koko ก็ทำอาหารได้แล้ว!\nKoko จะรออยู่ที่นี่!\n",
+          "Length": 72
         },
         {
           "Line": 268,
           "OriginalText": "Though, once it gets dark out, Koko will have to\nhead home...",
-          "TranslatedText": "แต่ว่า ถ้าเกิดว่าดึกแล้ว Koko\nจะต้องกลับบ้าน..."
+          "TranslatedText": "แต่ว่า ถ้าเกิดว่าดึกแล้ว Koko\nจะต้องกลับบ้าน...",
+          "Length": 61
         }
       ]
     },
@@ -346,7 +395,8 @@
         {
           "Line": 280,
           "OriginalText": "Oooh, that\u0027s cold...",
-          "TranslatedText": "อากาศหนาวจัง..."
+          "TranslatedText": "อากาศหนาวจัง...",
+          "Length": 20
         }
       ]
     },
@@ -357,12 +407,14 @@
         {
           "Line": 289,
           "OriginalText": "Ooooh, it came out perfect!",
-          "TranslatedText": "เสร็จออกมาสมบูรณ์แบบ!"
+          "TranslatedText": "เสร็จออกมาสมบูรณ์แบบ!",
+          "Length": 27
         },
         {
           "Line": 293,
           "OriginalText": "\n\n\nHere, please have some!\nKoko\u0027s treat!",
-          "TranslatedText": "\n\n\nนี่ค่ะ แบ่งไปบ้าง!\nKoko เลี้ยงเอง!"
+          "TranslatedText": "\n\n\nนี่ค่ะ แบ่งไปบ้าง!\nKoko เลี้ยงเอง!",
+          "Length": 40
         }
       ]
     },
@@ -373,7 +425,8 @@
         {
           "Line": 307,
           "OriginalText": "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!",
-          "TranslatedText": "Koko อยากลองทำอาหารหลายๆ อย่าง\nKoko จะได้เป็นเชฟที่ยอดเยี่ยม\nเหมือนอย่างที่แม่เป็น!"
+          "TranslatedText": "Koko อยากลองทำอาหารหลายๆ อย่าง\nKoko จะได้เป็นเชฟที่ยอดเยี่ยม\nเหมือนอย่างที่แม่เป็น!",
+          "Length": 89
         }
       ]
     },
@@ -384,18 +437,21 @@
         {
           "Line": 316,
           "OriginalText": "Koko is all out of ",
-          "TranslatedText": "Koko ไม่มี "
+          "TranslatedText": "Koko ไม่มี ",
+          "Length": 19
         },
         {
           "Line": 320,
           "OriginalText": "swift carrots",
           "TranslatedText": "swift carrots",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 323,
           "OriginalText": "!",
-          "TranslatedText": "เหลือเลย!"
+          "TranslatedText": "เหลือเลย!",
+          "Length": 1
         }
       ]
     }

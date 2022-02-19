@@ -8,42 +8,50 @@
         {
           "Line": 13,
           "OriginalText": "What\u0027s wrong? \nAre you still worried about the safety\nof this town?",
-          "TranslatedText": "เป็นอะไรไป?\nคุณยังห่วงความปลอดภัยของเมืองนี้อยู่\nงั้นเหรอ?"
+          "TranslatedText": "เป็นอะไรไป?\nคุณยังห่วงความปลอดภัยของเมืองนี้อยู่\nงั้นเหรอ?",
+          "Length": 67
         },
         {
           "Line": 17,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 23,
           "OriginalText": "Or have you grown so comfortable here\nthat you can\u0027t imagine leaving?\n\n",
-          "TranslatedText": "หรือว่าที่นี่อยู่สบายจนคุณเริ่มติดใจ\nจนไม่อยากจะจากไปแล้ว?\n\n"
+          "TranslatedText": "หรือว่าที่นี่อยู่สบายจนคุณเริ่มติดใจ\nจนไม่อยากจะจากไปแล้ว?\n\n",
+          "Length": 71
         },
         {
           "Line": 29,
           "OriginalText": "Whatever the case may be,",
-          "TranslatedText": "ไม่ว่าจะเพราะอะไร"
+          "TranslatedText": "ไม่ว่าจะเพราะอะไร",
+          "Length": 25
         },
         {
           "Line": 33,
           "OriginalText": "\nyou\u0027re needed elsewhere. You must\neventually leave. You know this.\n",
-          "TranslatedText": "\nมีที่อื่นที่ต้องการตัวคุณอยู่ คุณต้องจากไป\nในที่สุด คุณก็รู้\n"
+          "TranslatedText": "\nมีที่อื่นที่ต้องการตัวคุณอยู่ คุณต้องจากไป\nในที่สุด คุณก็รู้\n",
+          "Length": 68
         },
         {
           "Line": 39,
           "OriginalText": "That being said...",
-          "TranslatedText": "ว่าไปแล้ว..."
+          "TranslatedText": "ว่าไปแล้ว...",
+          "Length": 18
         },
         {
           "Line": 43,
           "OriginalText": " When it\u0027s all over, if\nyou were to drop back by here...",
-          "TranslatedText": " เมื่อทุกอย่างจบลง\nถ้าคุณแวะกลับมาที่นี่..."
+          "TranslatedText": " เมื่อทุกอย่างจบลง\nถ้าคุณแวะกลับมาที่นี่...",
+          "Length": 56
         },
         {
           "Line": 47,
           "OriginalText": "\nI think we\u0027d all be pleased to see you.",
-          "TranslatedText": "\nฉันคิดว่าทุกคนที่นี่จะดีใจที่ได้เจอคุณ"
+          "TranslatedText": "\nฉันคิดว่าทุกคนที่นี่จะดีใจที่ได้เจอคุณ",
+          "Length": 40
         }
       ]
     },
@@ -54,18 +62,21 @@
         {
           "Line": 56,
           "OriginalText": "If I stray too far from the throne room,\nI\u0027ll be on the receiving end of another\nof ",
-          "TranslatedText": "ถ้าฉันไปไกลจากห้องบัลลังค์เกินไป\nฉันจะต้องเจอกับการสั่งสอนของ "
+          "TranslatedText": "ถ้าฉันไปไกลจากห้องบัลลังค์เกินไป\nฉันจะต้องเจอกับการสั่งสอนของ ",
+          "Length": 84
         },
         {
           "Line": 60,
           "OriginalText": "Buliara",
           "TranslatedText": "Buliara",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 63,
           "OriginalText": "\u0027s lectures.",
-          "TranslatedText": " เป็นแน่"
+          "TranslatedText": " เป็นแน่",
+          "Length": 12
         }
       ]
     },
@@ -76,12 +87,14 @@
         {
           "Line": 72,
           "OriginalText": "Patricia was a present from the former...\nfrom my mother.\n\n",
-          "TranslatedText": "Patricia เป็นของขวัญจากอดีตหัว...\nจากแม่ของฉัน\n\n"
+          "TranslatedText": "Patricia เป็นของขวัญจากอดีตหัว...\nจากแม่ของฉัน\n\n",
+          "Length": 59
         },
         {
           "Line": 78,
           "OriginalText": "She turned out to be my first and last gift\nfrom her...",
-          "TranslatedText": "ซึ่งเป็นของขวัญชิ้นแรกและชิ้นสุดท้าย\nจากเธอ..."
+          "TranslatedText": "ซึ่งเป็นของขวัญชิ้นแรกและชิ้นสุดท้าย\nจากเธอ...",
+          "Length": 55
         }
       ]
     },
@@ -92,7 +105,8 @@
         {
           "Line": 87,
           "OriginalText": "Patricia has a mysterious power...\n\n\nIf you feed some fruit to her, she will\ndeliver divine messages.\n\nBut the messages can only be\nunderstood by those who are able to\ntruly communicate with her.",
-          "TranslatedText": "Patricia มีพลังลึกลับอยู่...\n\n\nถ้าคุณป้อนผลไม้ให้เธอ เธอจะมอบข้อความ\nศักดิ์สิทธิ์ให้คุณ\n\nแต่ข้อความนั้นจะเข้าใจได้เฉพาะคนที่\nสื่อสารกับเธอได้จริงๆ เท่านั้น"
+          "TranslatedText": "Patricia มีพลังลึกลับอยู่...\n\n\nถ้าคุณป้อนผลไม้ให้เธอ เธอจะมอบข้อความ\nศักดิ์สิทธิ์ให้คุณ\n\nแต่ข้อความนั้นจะเข้าใจได้เฉพาะคนที่\nสื่อสารกับเธอได้จริงๆ เท่านั้น",
+          "Length": 195
         }
       ]
     },
@@ -103,7 +117,8 @@
         {
           "Line": 96,
           "OriginalText": "It\u0027s normally part of my morning routine\nto have a chat with Patricia before I\nstart my day...\nBut with the Divine Beast causing so\nmuch havoc, I haven\u0027t had much time\nuntil now to come visit her.",
-          "TranslatedText": "ปกติกิจวัตรในตอนเช้าของฉัน ฉันจะคุยกับ\nPatricia ก่อนที่จะเริ่มต้นในแต่ละวัน...\nแต่เมื่ออสูรศักดิ์สิทธิ์ก่อความวุ่นวายอยู่แบบนี้\nฉันจึงไม่ค่อยมีเวลาที่จะมาเยี่ยมเธอ\nจนกระทั่งตอนนี้"
+          "TranslatedText": "ปกติกิจวัตรในตอนเช้าของฉัน ฉันจะคุยกับ\nPatricia ก่อนที่จะเริ่มต้นในแต่ละวัน...\nแต่เมื่ออสูรศักดิ์สิทธิ์ก่อความวุ่นวายอยู่แบบนี้\nฉันจึงไม่ค่อยมีเวลาที่จะมาเยี่ยมเธอ\nจนกระทั่งตอนนี้",
+          "Length": 196
         }
       ]
     },
@@ -114,12 +129,14 @@
         {
           "Line": 105,
           "OriginalText": "Phew... ",
-          "TranslatedText": "ฟู่ว..."
+          "TranslatedText": "ฟู่ว...",
+          "Length": 8
         },
         {
           "Line": 109,
           "OriginalText": "I think that\u0027s everything I needed\nto do as chief today.\n\nWhen the Divine Beast was still causing\nhavoc everywhere, I didn\u0027t have much\ntime at all to relax.\nThanks to you, I now have time to catch\nmy breath. I\u0027m really grateful.",
-          "TranslatedText": "ฉันคิดว่านั่นคือทุกอย่างที่ต้องทำในวันนี้\nในฐานะหัวหน้าแล้ว\n\nเมื่อตอนที่อสูรศักดิ์สิทธิ์ยังสร้างความวุ่นวาย\nไปทั่วอยู่ ฉันแทบไม่มีเวลาได้พักผ่อนเลย\nเป็นเพราะคุณ ตอนนี้ฉันจึงมีเวลา\nได้พักหายใจบ้าง ฉันขอบคุณจริงๆ"
+          "TranslatedText": "ฉันคิดว่านั่นคือทุกอย่างที่ต้องทำในวันนี้\nในฐานะหัวหน้าแล้ว\n\nเมื่อตอนที่อสูรศักดิ์สิทธิ์ยังสร้างความวุ่นวาย\nไปทั่วอยู่ ฉันแทบไม่มีเวลาได้พักผ่อนเลย\nเป็นเพราะคุณ ตอนนี้ฉันจึงมีเวลา\nได้พักหายใจบ้าง ฉันขอบคุณจริงๆ",
+          "Length": 228
         }
       ]
     },
@@ -130,12 +147,14 @@
         {
           "Line": 118,
           "OriginalText": "Wh-what?! The sand-seal stuffed\nanimals? Don\u0027t worry about them! Just...\nJust ignore them, OK?\n",
-          "TranslatedText": "อะ-อะไรนะ?! ตุ๊กตา sand-seal?\nไม่ต้องสนใจหรอก! แค่...\nลืมมันไปเถอะนะ โอเคนะ?\n"
+          "TranslatedText": "อะ-อะไรนะ?! ตุ๊กตา sand-seal?\nไม่ต้องสนใจหรอก! แค่...\nลืมมันไปเถอะนะ โอเคนะ?\n",
+          "Length": 95
         },
         {
           "Line": 124,
           "OriginalText": "Besides, town hero or no, you shouldn\u0027t\njust come wandering into someone\u0027s\nroom at this time of night!",
-          "TranslatedText": "ไม่ว่าจะเป็นผู้ที่ช่วยเมืองไว้หรือไม่ก็ตาม\nคุณไม่ควรเข้ามาในห้องของคนอื่น\nในตอนกลางคืนแบบนี้นะ!"
+          "TranslatedText": "ไม่ว่าจะเป็นผู้ที่ช่วยเมืองไว้หรือไม่ก็ตาม\nคุณไม่ควรเข้ามาในห้องของคนอื่น\nในตอนกลางคืนแบบนี้นะ!",
+          "Length": 102
         }
       ]
     },
@@ -146,22 +165,26 @@
         {
           "Line": 133,
           "OriginalText": "What? You don\u0027t have a place to stay?\nWell, you can\u0027t stay here!\n\nThere\u0027s a perfectly fine hotel in town.",
-          "TranslatedText": "อะไรนะ? คุณไม่มีที่พักงั้นเหรอ?\nแต่คุณจะมาพักที่นี่ไม่ได้!\n\nมีโรงแรมอย่างดีอยู่ในเมืองนะ"
+          "TranslatedText": "อะไรนะ? คุณไม่มีที่พักงั้นเหรอ?\nแต่คุณจะมาพักที่นี่ไม่ได้!\n\nมีโรงแรมอย่างดีอยู่ในเมืองนะ",
+          "Length": 105
         },
         {
           "Line": 137,
           "OriginalText": "\nThe soldiers speak highly of some kind\nof rejuvenating experience there.\n",
-          "TranslatedText": "\nพวกทหารพูดถึงที่นั่นว่าได้รับประสบการณ์\nการฟื้นฟูอันยอดเยี่ยม\n"
+          "TranslatedText": "\nพวกทหารพูดถึงที่นั่นว่าได้รับประสบการณ์\nการฟื้นฟูอันยอดเยี่ยม\n",
+          "Length": 74
         },
         {
           "Line": 143,
           "OriginalText": "I can barely keep my eyes open right\nnow...",
-          "TranslatedText": "ตอนนี้ฉันลืมตาแทบไม่ไหวแล้ว..."
+          "TranslatedText": "ตอนนี้ฉันลืมตาแทบไม่ไหวแล้ว...",
+          "Length": 43
         },
         {
           "Line": 147,
           "OriginalText": " Sav\u0027orq...",
-          "TranslatedText": " Sav\u0027orq..."
+          "TranslatedText": " Sav\u0027orq...",
+          "Length": 11
         }
       ]
     },
@@ -172,7 +195,8 @@
         {
           "Line": 154,
           "OriginalText": "Mother...",
-          "TranslatedText": "ท่านแม่..."
+          "TranslatedText": "ท่านแม่...",
+          "Length": 9
         }
       ]
     },
@@ -183,22 +207,26 @@
         {
           "Line": 166,
           "OriginalText": "Well, well, you\u0027re back.\n\n\n",
-          "TranslatedText": "คุณกลับมาแล้ว\n\n\n"
+          "TranslatedText": "คุณกลับมาแล้ว\n\n\n",
+          "Length": 27
         },
         {
           "Line": 172,
           "OriginalText": "However, I\u0027m sorry, but I\u0027m quite busy\nright at this moment.",
-          "TranslatedText": "แต่ว่า ขอโทษนะ ตอนนี้ฉันกำลังยุ่งเลย"
+          "TranslatedText": "แต่ว่า ขอโทษนะ ตอนนี้ฉันกำลังยุ่งเลย",
+          "Length": 60
         },
         {
           "Line": 176,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n\n"
+          "TranslatedText": "\n\n",
+          "Length": 2
         },
         {
           "Line": 182,
           "OriginalText": "I don\u0027t have the time to catch up.",
-          "TranslatedText": "ฉันไม่มีเวลาคุยด้วย"
+          "TranslatedText": "ฉันไม่มีเวลาคุยด้วย",
+          "Length": 34
         }
       ]
     },
@@ -209,7 +237,8 @@
         {
           "Line": 191,
           "OriginalText": "Sorry that you took the time to come\nhere, but I\u0027m busy right at this moment.",
-          "TranslatedText": "ขอโทษนะ คุณอุตส่าห์มาที่นี่\nแต่ฉันกำลังยุ่งอยู่ตอนนี้"
+          "TranslatedText": "ขอโทษนะ คุณอุตส่าห์มาที่นี่\nแต่ฉันกำลังยุ่งอยู่ตอนนี้",
+          "Length": 77
         }
       ]
     },
@@ -220,27 +249,32 @@
         {
           "Line": 200,
           "OriginalText": "Heh, it looks good on you...",
-          "TranslatedText": "หึ ใส่แล้วดูดีนะ"
+          "TranslatedText": "หึ ใส่แล้วดูดีนะ",
+          "Length": 28
         },
         {
           "Line": 204,
           "OriginalText": "\nIt really is a perfect fit, almost like it was\nmade for you.\n",
-          "TranslatedText": "\nขนาดพอดีเลย ราวกับทำมาเพื่อคุณ\nโดยเฉพาะ\n"
+          "TranslatedText": "\nขนาดพอดีเลย ราวกับทำมาเพื่อคุณ\nโดยเฉพาะ\n",
+          "Length": 62
         },
         {
           "Line": 210,
           "OriginalText": "But look... Right now it may be a bit too\nbig for me, but it won\u0027t be long before\nI can wear that helmet properly, too.\nWhen that time comes, I\u0027ll need you to\nreturn the helmet to me, of course!\n\n",
-          "TranslatedText": "แต่ว่า... ตอนนี้มันอาจจะใหญ่ไปหน่อย\nสำหรับฉัน แต่อีกไม่นานฉันก็จะสวมมัน\nได้พอดีเหมือนกัน\nมาเวลานั้นมาถึง แน่นอนว่าฉันต้องขอให้คุณ\nคืนหมวกนั่นให้ฉัน!\n\n"
+          "TranslatedText": "แต่ว่า... ตอนนี้มันอาจจะใหญ่ไปหน่อย\nสำหรับฉัน แต่อีกไม่นานฉันก็จะสวมมัน\nได้พอดีเหมือนกัน\nมาเวลานั้นมาถึง แน่นอนว่าฉันต้องขอให้คุณ\nคืนหมวกนั่นให้ฉัน!\n\n",
+          "Length": 196
         },
         {
           "Line": 216,
           "OriginalText": "So you can take the helmet now, and\nonce you\u0027ve defeated Urbosa\u0027s\nenemies...\n",
-          "TranslatedText": "ดังนั้นตอนนี้คุณเอามันไปได้ และเมื่อ\nคุณจัดกับศัตรูของ Urbosa ได้แล้ว...\n"
+          "TranslatedText": "ดังนั้นตอนนี้คุณเอามันไปได้ และเมื่อ\nคุณจัดกับศัตรูของ Urbosa ได้แล้ว...\n",
+          "Length": 77
         },
         {
           "Line": 222,
           "OriginalText": "you\u0027d better bring that helmet back here!",
-          "TranslatedText": "ก็เอาหมวกนั่นมาคืนที่นี่ด้วยนะ!"
+          "TranslatedText": "ก็เอาหมวกนั่นมาคืนที่นี่ด้วยนะ!",
+          "Length": 41
         }
       ]
     },
@@ -250,7 +284,8 @@
         {
           "Line": 226,
           "OriginalText": "Is this some game?",
-          "TranslatedText": "Is this some game?"
+          "TranslatedText": "Is this some game?",
+          "Length": 18
         }
       ]
     },
@@ -260,7 +295,8 @@
         {
           "Line": 230,
           "OriginalText": "What\u0027s this?!",
-          "TranslatedText": "What\u0027s this?!"
+          "TranslatedText": "What\u0027s this?!",
+          "Length": 13
         }
       ]
     },
@@ -270,7 +306,8 @@
         {
           "Line": 234,
           "OriginalText": "I\u0027m used to the heat.",
-          "TranslatedText": "I\u0027m used to the heat."
+          "TranslatedText": "I\u0027m used to the heat.",
+          "Length": 21
         }
       ]
     },
@@ -280,7 +317,8 @@
         {
           "Line": 238,
           "OriginalText": "So childish...",
-          "TranslatedText": "So childish..."
+          "TranslatedText": "So childish...",
+          "Length": 14
         }
       ]
     },
@@ -290,7 +328,8 @@
         {
           "Line": 242,
           "OriginalText": "Calm down!",
-          "TranslatedText": "Calm down!"
+          "TranslatedText": "Calm down!",
+          "Length": 10
         }
       ]
     },
@@ -301,7 +340,8 @@
         {
           "Line": 251,
           "OriginalText": "Sav\u0027otta.",
-          "TranslatedText": "Sav\u0027otta."
+          "TranslatedText": "Sav\u0027otta.",
+          "Length": 9
         }
       ]
     },
@@ -312,7 +352,8 @@
         {
           "Line": 260,
           "OriginalText": "Sav\u0027aaq.",
-          "TranslatedText": "Sav\u0027aaq."
+          "TranslatedText": "Sav\u0027aaq.",
+          "Length": 8
         }
       ]
     },
@@ -323,7 +364,8 @@
         {
           "Line": 269,
           "OriginalText": "Sav\u0027saaba.",
-          "TranslatedText": "Sav\u0027saaba."
+          "TranslatedText": "Sav\u0027saaba.",
+          "Length": 10
         }
       ]
     },
@@ -334,32 +376,38 @@
         {
           "Line": 278,
           "OriginalText": "My mother may not be here in the flesh,",
-          "TranslatedText": "แม่ของฉันอาจจะไม่ได้อยู่ที่นี่"
+          "TranslatedText": "แม่ของฉันอาจจะไม่ได้อยู่ที่นี่",
+          "Length": 39
         },
         {
           "Line": 282,
           "OriginalText": "\nbut her soul is with me...",
-          "TranslatedText": "\nแต่ว่าวิญญาณของเธออยู่กับฉัน..."
+          "TranslatedText": "\nแต่ว่าวิญญาณของเธออยู่กับฉัน...",
+          "Length": 27
         },
         {
           "Line": 286,
           "OriginalText": "always.\n\n",
-          "TranslatedText": "เสมอ\n\n"
+          "TranslatedText": "เสมอ\n\n",
+          "Length": 9
         },
         {
           "Line": 292,
           "OriginalText": "I have no doubt she led you here...",
-          "TranslatedText": "ฉันแน่ใจว่าเธอนำคุณมาที่นี่..."
+          "TranslatedText": "ฉันแน่ใจว่าเธอนำคุณมาที่นี่...",
+          "Length": 35
         },
         {
           "Line": 296,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 302,
           "OriginalText": "Ha! Fate works in mysterious ways.",
-          "TranslatedText": "ฮ่า! โชคชะตานี่มันแปลกจังนะ"
+          "TranslatedText": "ฮ่า! โชคชะตานี่มันแปลกจังนะ",
+          "Length": 34
         }
       ]
     },
@@ -370,7 +418,8 @@
         {
           "Line": 311,
           "OriginalText": "What should we play?",
-          "TranslatedText": "เราจะเล่นอะไรกันดี?"
+          "TranslatedText": "เราจะเล่นอะไรกันดี?",
+          "Length": 20
         }
       ]
     },
@@ -381,7 +430,8 @@
         {
           "Line": 315,
           "OriginalText": "...Seal.",
-          "TranslatedText": "...Seal"
+          "TranslatedText": "...Seal",
+          "Length": 8
         }
       ]
     },
@@ -392,7 +442,8 @@
         {
           "Line": 319,
           "OriginalText": "Mother...",
-          "TranslatedText": "ท่านแม่..."
+          "TranslatedText": "ท่านแม่...",
+          "Length": 9
         }
       ]
     }

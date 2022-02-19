@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027ll try it!",
-          "TranslatedText": "ฉันจะลองดู!"
+          "TranslatedText": "ฉันจะลองดู!",
+          "Length": 12
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Not right now...",
-          "TranslatedText": "ไม่ใช่ตอนนี้..."
+          "TranslatedText": "ไม่ใช่ตอนนี้...",
+          "Length": 16
         }
       ]
     },
@@ -28,12 +30,14 @@
         {
           "Line": 21,
           "OriginalText": "...Hrmm?",
-          "TranslatedText": "...อืม?"
+          "TranslatedText": "...อืม?",
+          "Length": 8
         },
         {
           "Line": 25,
           "OriginalText": "\n*yawn*",
-          "TranslatedText": "\n*หาว*"
+          "TranslatedText": "\n*หาว*",
+          "Length": 7
         }
       ]
     },
@@ -44,48 +48,57 @@
         {
           "Line": 34,
           "OriginalText": "If you think you know the answer, place\nthe object on the ",
-          "TranslatedText": "หากคุณคิดว่าคุณรู้คำตอบแล้วให้วางวัตถุไว้บน "
+          "TranslatedText": "หากคุณคิดว่าคุณรู้คำตอบแล้วให้วางวัตถุไว้บน ",
+          "Length": 58
         },
         {
           "Line": 38,
           "OriginalText": "leaf ",
           "TranslatedText": "ใบไม้ ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 41,
           "OriginalText": "there. ",
-          "TranslatedText": "ที่นั่น. "
+          "TranslatedText": "ที่นั่น. ",
+          "Length": 7
         },
         {
           "Line": 45,
           "OriginalText": "If you place\nthe right thing, I\u0027ll sing your praises!\n",
-          "TranslatedText": "ถ้าคุณวางสิ่งที่ถูกต้อง\nฉันจะร้องเพลงสรรเสริญของคุณ!\n"
+          "TranslatedText": "ถ้าคุณวางสิ่งที่ถูกต้อง\nฉันจะร้องเพลงสรรเสริญของคุณ!\n",
+          "Length": 54
         },
         {
           "Line": 51,
           "OriginalText": "But if it\u0027s wrong...",
-          "TranslatedText": "แต่ถ้ามันผิด..."
+          "TranslatedText": "แต่ถ้ามันผิด...",
+          "Length": 20
         },
         {
           "Line": 55,
           "OriginalText": "\nZ",
-          "TranslatedText": "\nZ"
+          "TranslatedText": "\nZ",
+          "Length": 2
         },
         {
           "Line": 59,
           "OriginalText": "z",
-          "TranslatedText": "z"
+          "TranslatedText": "z",
+          "Length": 1
         },
         {
           "Line": 63,
           "OriginalText": "z",
-          "TranslatedText": "z"
+          "TranslatedText": "z",
+          "Length": 1
         },
         {
           "Line": 67,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -96,17 +109,20 @@
         {
           "Line": 79,
           "OriginalText": "That\u0027s it! ",
-          "TranslatedText": "แค่นั้นแหละ! "
+          "TranslatedText": "แค่นั้นแหละ! ",
+          "Length": 11
         },
         {
           "Line": 83,
           "OriginalText": "THAT\u0027S IT!",
-          "TranslatedText": "แค่นั้นแหละ!"
+          "TranslatedText": "แค่นั้นแหละ!",
+          "Length": 10
         },
         {
           "Line": 94,
           "OriginalText": "You got it!",
-          "TranslatedText": "คุณเข้าใจแล้ว!"
+          "TranslatedText": "คุณเข้าใจแล้ว!",
+          "Length": 11
         }
       ]
     },
@@ -117,12 +133,14 @@
         {
           "Line": 106,
           "OriginalText": "*ahem*",
-          "TranslatedText": "*อะแฮ่ม*"
+          "TranslatedText": "*อะแฮ่ม*",
+          "Length": 6
         },
         {
           "Line": 110,
           "OriginalText": "\nThe next riddle is...",
-          "TranslatedText": "\nปริศนาต่อไปคือ..."
+          "TranslatedText": "\nปริศนาต่อไปคือ...",
+          "Length": 22
         }
       ]
     },
@@ -133,12 +151,14 @@
         {
           "Line": 119,
           "OriginalText": "This is the last riddle!",
-          "TranslatedText": "นี่คือปริศนาสุดท้าย!"
+          "TranslatedText": "นี่คือปริศนาสุดท้าย!",
+          "Length": 24
         },
         {
           "Line": 123,
           "OriginalText": "\nPrepare yourself!",
-          "TranslatedText": "\nเตรียมตัว!"
+          "TranslatedText": "\nเตรียมตัว!",
+          "Length": 18
         }
       ]
     },
@@ -149,7 +169,8 @@
         {
           "Line": 132,
           "OriginalText": "I knew you could do it, Mr. Hero!\nHere is your reward!",
-          "TranslatedText": "ฉันรู้ว่าคุณทำได้นายฮีโร่!\nนี่คือรางวัลของคุณ!"
+          "TranslatedText": "ฉันรู้ว่าคุณทำได้นายฮีโร่!\nนี่คือรางวัลของคุณ!",
+          "Length": 54
         }
       ]
     },
@@ -160,37 +181,44 @@
         {
           "Line": 144,
           "OriginalText": "Hmm?",
-          "TranslatedText": "อืม?"
+          "TranslatedText": "อืม?",
+          "Length": 4
         },
         {
           "Line": 148,
           "OriginalText": " You are overflowing with\ndiamonds!\n\n",
-          "TranslatedText": " คุณมีเพชรล้นฟ้า!\n"
+          "TranslatedText": " คุณมีเพชรล้นฟ้า!\n",
+          "Length": 37
         },
         {
           "Line": 154,
           "OriginalText": "I was gonna give you some diamonds\nfor solving my riddles, but...\n\nZ",
-          "TranslatedText": "ฉันจะให้เพชรแก่คุณเพื่อไขปริศนาของฉัน แต่...\nZ"
+          "TranslatedText": "ฉันจะให้เพชรแก่คุณเพื่อไขปริศนาของฉัน แต่...\nZ",
+          "Length": 68
         },
         {
           "Line": 158,
           "OriginalText": "z",
-          "TranslatedText": "z"
+          "TranslatedText": "z",
+          "Length": 1
         },
         {
           "Line": 162,
           "OriginalText": "z",
-          "TranslatedText": "z"
+          "TranslatedText": "z",
+          "Length": 1
         },
         {
           "Line": 166,
           "OriginalText": "z",
-          "TranslatedText": "z"
+          "TranslatedText": "z",
+          "Length": 1
         },
         {
           "Line": 170,
           "OriginalText": "z...",
-          "TranslatedText": "z..."
+          "TranslatedText": "z...",
+          "Length": 4
         }
       ]
     },
@@ -201,12 +229,14 @@
         {
           "Line": 179,
           "OriginalText": "I\u0027m fresh out of riddles.",
-          "TranslatedText": "ฉันเพิ่งออกจากปริศนา."
+          "TranslatedText": "ฉันเพิ่งออกจากปริศนา.",
+          "Length": 25
         },
         {
           "Line": 183,
           "OriginalText": "\nYou\u0027ve outwhittled me...\nVery impressive!",
-          "TranslatedText": "\nคุณแซงหน้าฉันไปแล้ว ...\nที่น่าประทับใจมาก!"
+          "TranslatedText": "\nคุณแซงหน้าฉันไปแล้ว ...\nที่น่าประทับใจมาก!",
+          "Length": 42
         }
       ]
     },
@@ -218,28 +248,33 @@
           "Line": 198,
           "OriginalText": "Apple",
           "TranslatedText": "แอปเปิ้ล",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 201,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 210,
           "OriginalText": " It\u0027s an ",
-          "TranslatedText": " มันคือ "
+          "TranslatedText": " มันคือ ",
+          "Length": 9
         },
         {
           "Line": 214,
           "OriginalText": "apple",
           "TranslatedText": "แอปเปิ้ล",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 217,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         }
       ]
     },
@@ -251,7 +286,8 @@
           "Line": 235,
           "OriginalText": "Fortified pumpkin!",
           "TranslatedText": "ฟักทองเสริมกำลัง!",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 18
         }
       ]
     },
@@ -263,7 +299,8 @@
           "Line": 255,
           "OriginalText": "Sunshroom!",
           "TranslatedText": "Sunshroom!",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         }
       ]
     },
@@ -275,7 +312,8 @@
           "Line": 275,
           "OriginalText": "Voltfin trout!",
           "TranslatedText": "ปลาเทราต์ Voltfin!",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         }
       ]
     },
@@ -287,7 +325,8 @@
           "Line": 295,
           "OriginalText": "Lynel hoof!",
           "TranslatedText": "กีบเท้า Lynel!",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 11
         }
       ]
     },
@@ -298,7 +337,8 @@
         {
           "Line": 309,
           "OriginalText": "Mmmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 7
         }
       ]
     },
@@ -313,43 +353,51 @@
         {
           "Line": 318,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 322,
           "OriginalText": "Hmmmm?",
-          "TranslatedText": "อืม?"
+          "TranslatedText": "อืม?",
+          "Length": 6
         },
         {
           "Line": 333,
           "OriginalText": "*yawn*",
-          "TranslatedText": "*หาว*"
+          "TranslatedText": "*หาว*",
+          "Length": 6
         },
         {
           "Line": 337,
           "OriginalText": "\nAnd I was having such a nice dream...\n\n",
-          "TranslatedText": "\nและฉันก็มีความฝันที่ดี...\n"
+          "TranslatedText": "\nและฉันก็มีความฝันที่ดี...\n",
+          "Length": 40
         },
         {
           "Line": 343,
           "OriginalText": "Wait, if you\u0027re here...",
-          "TranslatedText": "รอถ้าคุณอยู่ที่นี่..."
+          "TranslatedText": "รอถ้าคุณอยู่ที่นี่...",
+          "Length": 23
         },
         {
           "Line": 347,
           "OriginalText": " Does this mean\nyou want to face the ",
-          "TranslatedText": " นี่หมายความว่า\nคุณต้องการเผชิญหน้ากับ "
+          "TranslatedText": " นี่หมายความว่า\nคุณต้องการเผชิญหน้ากับ ",
+          "Length": 37
         },
         {
           "Line": 351,
           "OriginalText": "ultimate trial",
           "TranslatedText": "การทดลอง\nขั้นสูงสุดเหรอ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 354,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Length": 1
         }
       ]
     },
@@ -364,23 +412,27 @@
         {
           "Line": 371,
           "OriginalText": "*yawn*",
-          "TranslatedText": "*หาว*"
+          "TranslatedText": "*หาว*",
+          "Length": 6
         },
         {
           "Line": 375,
           "OriginalText": "\nAre you here for the ",
-          "TranslatedText": "\nคุณมาที่นี่เพื่อรับ "
+          "TranslatedText": "\nคุณมาที่นี่เพื่อรับ ",
+          "Length": 22
         },
         {
           "Line": 379,
           "OriginalText": "ultimate trial",
           "TranslatedText": "การทดลองขั้นสูงสุดเหรอ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 382,
           "OriginalText": "?",
-          "TranslatedText": "?"
+          "TranslatedText": "?",
+          "Length": 1
         }
       ]
     },
@@ -391,28 +443,33 @@
         {
           "Line": 399,
           "OriginalText": "*ahem*",
-          "TranslatedText": "*อะแฮ่ม*"
+          "TranslatedText": "*อะแฮ่ม*",
+          "Length": 6
         },
         {
           "Line": 403,
           "OriginalText": "\nThe ",
-          "TranslatedText": "\nการ "
+          "TranslatedText": "\nการ ",
+          "Length": 5
         },
         {
           "Line": 407,
           "OriginalText": "ultimate trial",
           "TranslatedText": "ทดลองขั้นสูงสุด",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 14
         },
         {
           "Line": 410,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 414,
           "OriginalText": "has begun!\n\nI\u0027ll tell you a riddle about an object.\nYour job is to solve the riddle and\nbring me the correct object.\nHere comes your first riddle!",
-          "TranslatedText": "เริ่มแล้ว!\nฉันจะบอกคุณปริศนาเกี่ยวกับวัตถุ\nงานของคุณคือไขปริศนา\nและนำวัตถุที่ถูกต้องมาให้ฉัน\nปริศนาแรกของคุณมาถึงแล้ว!"
+          "TranslatedText": "เริ่มแล้ว!\nฉันจะบอกคุณปริศนาเกี่ยวกับวัตถุ\nงานของคุณคือไขปริศนา\nและนำวัตถุที่ถูกต้องมาให้ฉัน\nปริศนาแรกของคุณมาถึงแล้ว!",
+          "Length": 146
         }
       ]
     },
@@ -423,7 +480,8 @@
         {
           "Line": 423,
           "OriginalText": "Fahaha!\nDid I intimidate you?",
-          "TranslatedText": "Fahaha!\nฉันข่มขู่คุณหรือเปล่า?"
+          "TranslatedText": "Fahaha!\nฉันข่มขู่คุณหรือเปล่า?",
+          "Length": 29
         }
       ]
     },
@@ -434,12 +492,14 @@
         {
           "Line": 432,
           "OriginalText": "Have you figured it out?",
-          "TranslatedText": "คุณคิดออกหรือยัง?\n"
+          "TranslatedText": "คุณคิดออกหรือยัง?\n",
+          "Length": 24
         },
         {
           "Line": 436,
           "OriginalText": " I\u0027m guessing\nyou\u0027re more stumped than the base of\na felled tree!\nIf you place the right object on the leaf,\nI\u0027ll dance for you!",
-          "TranslatedText": " ฉันเดาว่าคุณนิ่งงันยิ่งกว่าโคนต้นไม้ที่ถูกโค่น!\nถ้าคุณวางวัตถุที่ถูกต้องบนใบไม้\nฉันจะเต้นเพื่อคุณ!"
+          "TranslatedText": " ฉันเดาว่าคุณนิ่งงันยิ่งกว่าโคนต้นไม้ที่ถูกโค่น!\nถ้าคุณวางวัตถุที่ถูกต้องบนใบไม้\nฉันจะเต้นเพื่อคุณ!",
+          "Length": 128
         }
       ]
     },
@@ -451,50 +511,59 @@
           "Line": 448,
           "OriginalText": "Small",
           "TranslatedText": "เล็ก",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 451,
           "OriginalText": ", ",
-          "TranslatedText": ", "
+          "TranslatedText": ", ",
+          "Length": 2
         },
         {
           "Line": 458,
           "OriginalText": "red",
           "TranslatedText": "แดง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 461,
           "OriginalText": ", ",
-          "TranslatedText": ", "
+          "TranslatedText": ", ",
+          "Length": 2
         },
         {
           "Line": 468,
           "OriginalText": "round",
           "TranslatedText": "รอบ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 471,
           "OriginalText": ", ",
-          "TranslatedText": ", "
+          "TranslatedText": ", ",
+          "Length": 2
         },
         {
           "Line": 478,
           "OriginalText": "and sweet",
           "TranslatedText": "และ หวาน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 481,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 485,
           "OriginalText": "\nBring me one of this simple treat!",
-          "TranslatedText": "\nนำวิธีง่ายๆนี้มาให้ฉัน!"
+          "TranslatedText": "\nนำวิธีง่ายๆนี้มาให้ฉัน!",
+          "Length": 35
         }
       ]
     },
@@ -505,18 +574,21 @@
         {
           "Line": 494,
           "OriginalText": "Kakariko Village\u0027s specialty fruit!\nIts ",
-          "TranslatedText": "ผลไม้พิเศษของหมู่บ้าน Kakariko!\nIts "
+          "TranslatedText": "ผลไม้พิเศษของหมู่บ้าน Kakariko!\nIts ",
+          "Length": 40
         },
         {
           "Line": 498,
           "OriginalText": "rock-hard",
           "TranslatedText": "rock-hard",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 501,
           "OriginalText": " flesh is quite resolute!",
-          "TranslatedText": " flesh is quite resolute!"
+          "TranslatedText": " flesh is quite resolute!",
+          "Length": 25
         }
       ]
     },
@@ -528,12 +600,14 @@
           "Line": 513,
           "OriginalText": "This sultry shroom will warm your bones",
           "TranslatedText": "shroom ที่ร้อนจัดนี้\nจะทำให้กระดูกของคุณอุ่นขึ้น",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 39
         },
         {
           "Line": 516,
           "OriginalText": ".\nIt makes its home in warmer zones.",
-          "TranslatedText": ".\nทำให้ที่อยู่ของมันอยู่ในเขตอบอุ่น."
+          "TranslatedText": ".\nทำให้ที่อยู่ของมันอยู่ในเขตอบอุ่น.",
+          "Length": 36
         }
       ]
     },
@@ -545,17 +619,20 @@
           "Line": 528,
           "OriginalText": "Its scales and tail will zap you, no doubt",
           "TranslatedText": "เกล็ดและหางของมันจะปะทะคุณอย่างไม่ต้องสงสัย",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 42
         },
         {
           "Line": 531,
           "OriginalText": "!\nThis shocking swimmer is called a...",
-          "TranslatedText": "!\nนักว่ายน้ำที่น่าตกใจนี้มีชื่อว่า..."
+          "TranslatedText": "!\nนักว่ายน้ำที่น่าตกใจนี้มีชื่อว่า...",
+          "Length": 38
         },
         {
           "Line": 535,
           "OriginalText": "fish.",
-          "TranslatedText": "ปลา."
+          "TranslatedText": "ปลา.",
+          "Length": 5
         }
       ]
     },
@@ -566,18 +643,21 @@
         {
           "Line": 544,
           "OriginalText": "If stepped on by this, you will go poof!\n",
-          "TranslatedText": "ถ้าโดนเหยียบนี่จะแย่!\n"
+          "TranslatedText": "ถ้าโดนเหยียบนี่จะแย่!\n",
+          "Length": 41
         },
         {
           "Line": 548,
           "OriginalText": "It starts with an H and ends with an oof",
           "TranslatedText": "เริ่มต้นด้วย H และลงท้ายด้วย oof",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 40
         },
         {
           "Line": 551,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         }
       ]
     }

@@ -8,7 +8,8 @@
         {
           "Line": 8,
           "OriginalText": "Did you learn anything?",
-          "TranslatedText": "ได้เรียนรู้อะไรบ้างไหม?"
+          "TranslatedText": "ได้เรียนรู้อะไรบ้างไหม?",
+          "Length": 23
         }
       ]
     },
@@ -19,7 +20,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -30,7 +32,8 @@
         {
           "Line": 16,
           "OriginalText": "Information?",
-          "TranslatedText": "ข้อมูล?"
+          "TranslatedText": "ข้อมูล?",
+          "Length": 12
         }
       ]
     },
@@ -41,7 +44,8 @@
         {
           "Line": 20,
           "OriginalText": "I\u0027ve heard of it.",
-          "TranslatedText": "เคยได้ยิน"
+          "TranslatedText": "เคยได้ยิน",
+          "Length": 17
         }
       ]
     },
@@ -51,7 +55,8 @@
         {
           "Line": 24,
           "OriginalText": "Never heard of it.",
-          "TranslatedText": "ไม่เคยได้ยิน"
+          "TranslatedText": "ไม่เคยได้ยิน",
+          "Length": 18
         }
       ]
     },
@@ -62,7 +67,8 @@
         {
           "Line": 33,
           "OriginalText": "Ho hoh hoh hoh.",
-          "TranslatedText": "โฮะ โฮ่ๆๆ"
+          "TranslatedText": "โฮะ โฮ่ๆๆ",
+          "Length": 15
         }
       ]
     },
@@ -73,7 +79,8 @@
         {
           "Line": 42,
           "OriginalText": "The Gerudo are surprisin\u0027ly serious...",
-          "TranslatedText": "ชาว Gerudo นี่จริงจังกันเหลือเกิน..."
+          "TranslatedText": "ชาว Gerudo นี่จริงจังกันเหลือเกิน...",
+          "Length": 38
         }
       ]
     },
@@ -84,7 +91,8 @@
         {
           "Line": 51,
           "OriginalText": "Male Gorons seem to have no trouble\ngetting into Gerudo Town...",
-          "TranslatedText": "ชายชาว Goron ดูเหมือนจะไม่มีปัญหา\nในการเข้าเมือง Gerudo..."
+          "TranslatedText": "ชายชาว Goron ดูเหมือนจะไม่มีปัญหา\nในการเข้าเมือง Gerudo...",
+          "Length": 63
         }
       ]
     },
@@ -95,18 +103,21 @@
         {
           "Line": 60,
           "OriginalText": "The ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 64,
           "OriginalText": "Lover\u0027s Pond",
           "TranslatedText": "Lover\u0027s Pond",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 67,
           "OriginalText": " is a double-edged\nsword...",
-          "TranslatedText": " นั้นเป็นดาบสองคม..."
+          "TranslatedText": " นั้นเป็นดาบสองคม...",
+          "Length": 27
         }
       ]
     },
@@ -117,22 +128,26 @@
         {
           "Line": 76,
           "OriginalText": "I made it all the way here, so...\n\n\nI thought I\u0027d write a book about the\nGerudo people. I\u0027m in the process of\ninvestigatin\u0027 them now.\n",
-          "TranslatedText": "ฉันดั้นด้นมาถึงนี่แล้ว ดังนั้น...\n\n\nฉันคิดว่าจะเขียนหนังสือเกี่ยวกับ \nชาว Gerudo สักหน่อย ฉันกำลังอยู่ในขั้นตอน\nของการศึกษาพวกเขา\n"
+          "TranslatedText": "ฉันดั้นด้นมาถึงนี่แล้ว ดังนั้น...\n\n\nฉันคิดว่าจะเขียนหนังสือเกี่ยวกับ \nชาว Gerudo สักหน่อย ฉันกำลังอยู่ในขั้นตอน\nของการศึกษาพวกเขา\n",
+          "Length": 134
         },
         {
           "Line": 82,
           "OriginalText": "Oh, I know! I\u0027ll share some of the\nmaterial I have set aside with you!\n\n",
-          "TranslatedText": "อ้อ รู้แล้ว! ฉันจะแบ่งปันข้อมูลที่ได้มา\nให้ฟังนะ!\n\n"
+          "TranslatedText": "อ้อ รู้แล้ว! ฉันจะแบ่งปันข้อมูลที่ได้มา\nให้ฟังนะ!\n\n",
+          "Length": 72
         },
         {
           "Line": 91,
           "OriginalText": "The average height of a Gerudo is about the height\nof a voltfruit tree!\n\n",
-          "TranslatedText": "ส่วนสูงเฉลี่ยของชาว Gerudo นั้นจะสูง\nพอๆ กับต้น voltfruit!\n\n"
+          "TranslatedText": "ส่วนสูงเฉลี่ยของชาว Gerudo นั้นจะสูง\nพอๆ กับต้น voltfruit!\n\n",
+          "Length": 73
         },
         {
           "Line": 100,
           "OriginalText": "That\u0027s good stuff, am I right?!",
-          "TranslatedText": "ข้อมูลเด็ดเลยใช่มั้ยล่ะ?!"
+          "TranslatedText": "ข้อมูลเด็ดเลยใช่มั้ยล่ะ?!",
+          "Length": 31
         }
       ]
     },
@@ -143,22 +158,26 @@
         {
           "Line": 109,
           "OriginalText": "I made it all the way here, so...\n\n\nI thought I\u0027d write a book about the\nGerudo people. I\u0027m in the process of\ninvestigatin\u0027 them now.\n",
-          "TranslatedText": "ฉันดั้นด้นมาถึงนี่แล้ว ดังนั้น...\n\n\nฉันคิดว่าจะเขียนหนังสือเกี่ยวกับ \nชาว Gerudo สักหน่อย ฉันกำลังอยู่ในขั้นตอน\nของการศึกษาพวกเขา\n"
+          "TranslatedText": "ฉันดั้นด้นมาถึงนี่แล้ว ดังนั้น...\n\n\nฉันคิดว่าจะเขียนหนังสือเกี่ยวกับ \nชาว Gerudo สักหน่อย ฉันกำลังอยู่ในขั้นตอน\nของการศึกษาพวกเขา\n",
+          "Length": 134
         },
         {
           "Line": 115,
           "OriginalText": "I\u0027ll share some of the material I\u0027ve got so\nfar with you!\n\n",
-          "TranslatedText": "ฉันจะแบ่งปันข้อมูลที่ได้มา\nให้ฟังนะ!\n\n"
+          "TranslatedText": "ฉันจะแบ่งปันข้อมูลที่ได้มา\nให้ฟังนะ!\n\n",
+          "Length": 59
         },
         {
           "Line": 124,
           "OriginalText": "The average Gerudo weighs as much as ten\nhydromelons!\n\n",
-          "TranslatedText": "น้ำหนักเฉลี่ยของชาว Gerudo นั้นจะหนัก\nพอๆ กับ hydromelon 10 ลูก!\n\n"
+          "TranslatedText": "น้ำหนักเฉลี่ยของชาว Gerudo นั้นจะหนัก\nพอๆ กับ hydromelon 10 ลูก!\n\n",
+          "Length": 55
         },
         {
           "Line": 133,
           "OriginalText": "That\u0027s good stuff, am I right?!",
-          "TranslatedText": "ข้อมูลเด็ดเลยใช่มั้ยล่ะ?!"
+          "TranslatedText": "ข้อมูลเด็ดเลยใช่มั้ยล่ะ?!",
+          "Length": 31
         }
       ]
     },
@@ -169,7 +188,8 @@
         {
           "Line": 142,
           "OriginalText": "I see... So that happened over there...\nAnd even that...happened there!",
-          "TranslatedText": "งั้นเหรอ... มีเรื่องแบบนั้นเกิดขึ้นที่นั่น...\nและแม้แต่เรื่องนั้น...ก็เกิดที่นั่น!"
+          "TranslatedText": "งั้นเหรอ... มีเรื่องแบบนั้นเกิดขึ้นที่นั่น...\nและแม้แต่เรื่องนั้น...ก็เกิดที่นั่น!",
+          "Length": 71
         }
       ]
     },
@@ -184,29 +204,34 @@
         {
           "Line": 151,
           "OriginalText": "What? You can\u0027t tell just by lookin\u0027?\nWe\u0027re busy confirmin\u0027 a rumor.\n\nRight now the rumor of the ",
-          "TranslatedText": "อะไรนะ? ดูไม่ออกเหรอ\nเรากำลังยุ่งอยู่กับการยืนยันข่าวลือ\n\nตอนนี้ข่าวลือของ"
+          "TranslatedText": "อะไรนะ? ดูไม่ออกเหรอ\nเรากำลังยุ่งอยู่กับการยืนยันข่าวลือ\n\nตอนนี้ข่าวลือของ",
+          "Length": 97
         },
         {
           "Line": 155,
           "OriginalText": "Divine Beast",
           "TranslatedText": "อสูรศักดิ์สิทธิ์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 158,
           "OriginalText": "\nis the talk o\u0027 the town. If I thoroughly\ninvestigate the ",
-          "TranslatedText": "\nกำลังลือกันกระฉ่อนเลย\nถ้าฉันตรวจสอบ"
+          "TranslatedText": "\nกำลังลือกันกระฉ่อนเลย\nถ้าฉันตรวจสอบ",
+          "Length": 58
         },
         {
           "Line": 162,
           "OriginalText": "Divine Beast",
           "TranslatedText": "อสูรศักดิ์สิทธิ์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 165,
           "OriginalText": "...\nWell, a scoop like this could make me\nsome serious money. S\u0027all I\u0027m saying.",
-          "TranslatedText": "อย่างละเอียด...\nข่าวนี้จะต้องทำเงินให้ฉันได้มากแน่"
+          "TranslatedText": "อย่างละเอียด...\nข่าวนี้จะต้องทำเงินให้ฉันได้มากแน่",
+          "Length": 79
         }
       ]
     },
@@ -217,17 +242,20 @@
         {
           "Line": 182,
           "OriginalText": "It looks like the electric current is\ngenerated in the two humps on that\nthing\u0027s back.\nThere seems to be an entrance or\nsomethin\u0027 under the tail, so you could\nmaybe get in that way, but...\nIt\u0027s super high up, and it shoots lightnin\u0027\nat you, so...\n\n",
-          "TranslatedText": "ดูเหมือนว่ากระแสไฟฟ้าจะถูกสร้างออกมา\nจากโหนกสองอันบนหลังของมัน\nดูเหมือนว่าจะมีทางเข้าหรืออะไรสักอย่าง\nอยู่ใต้หางของมัน บางทีคุณอาจจะ\nเข้าไปทางนั้นได้ แต่ว่า...\nมันอยู่สูงสุดๆ เลย และมันยังยิงสายฟ้า\nใส่คุณด้วย ดังนั้น...\n\n"
+          "TranslatedText": "ดูเหมือนว่ากระแสไฟฟ้าจะถูกสร้างออกมา\nจากโหนกสองอันบนหลังของมัน\nดูเหมือนว่าจะมีทางเข้าหรืออะไรสักอย่าง\nอยู่ใต้หางของมัน บางทีคุณอาจจะ\nเข้าไปทางนั้นได้ แต่ว่า...\nมันอยู่สูงสุดๆ เลย และมันยังยิงสายฟ้า\nใส่คุณด้วย ดังนั้น...\n\n",
+          "Length": 248
         },
         {
           "Line": 188,
           "OriginalText": "It definitely wouldn\u0027t be easy to just go\ninside—that\u0027s for sure.\n\nBut if someone entangled its legs and\ntripped it, that\u0027d work out really well...\n\n",
-          "TranslatedText": "มันไม่ใช่เรื่องง่ายแน่ที่จะเข้าไป\nข้างใน—เรื่องนั้นแน่นอนเลย\n\nแต่ถ้าเกิดมีใครสักคนพันขาของมัน\nและทำให้มันล้มลง นั่นก็น่าจะเป็นไปได้...\n\n"
+          "TranslatedText": "มันไม่ใช่เรื่องง่ายแน่ที่จะเข้าไป\nข้างใน—เรื่องนั้นแน่นอนเลย\n\nแต่ถ้าเกิดมีใครสักคนพันขาของมัน\nและทำให้มันล้มลง นั่นก็น่าจะเป็นไปได้...\n\n",
+          "Length": 149
         },
         {
           "Line": 194,
           "OriginalText": "Wait, I shouldn\u0027t be tellin\u0027 you this! It\u0027s\nmy info! You should earn information\nusin\u0027 your own two feet!",
-          "TranslatedText": "เดี๋ยวนะ ฉันไม่ควรเล่าให้คุณฟัง!\nมันเป็นข้อมูลของฉัน! คุณควรจะออกไปหา\nข้อมูลด้วยสองเท้าของคุณเองสิ!"
+          "TranslatedText": "เดี๋ยวนะ ฉันไม่ควรเล่าให้คุณฟัง!\nมันเป็นข้อมูลของฉัน! คุณควรจะออกไปหา\nข้อมูลด้วยสองเท้าของคุณเองสิ!",
+          "Length": 105
         }
       ]
     },
@@ -238,7 +266,8 @@
         {
           "Line": 203,
           "OriginalText": "No one has reported anything about the\nDivine Beasts, so it\u0027s my chance to get\nthe scoop!",
-          "TranslatedText": "ยังไม่มีใครรายงานอะไรเกี่ยวกับอสูรศักดิ์สิทธิ์\nเลย เพราะงั้น นี่เป็นโอกาสของฉัน\nที่จะทำข่าวนี้!"
+          "TranslatedText": "ยังไม่มีใครรายงานอะไรเกี่ยวกับอสูรศักดิ์สิทธิ์\nเลย เพราะงั้น นี่เป็นโอกาสของฉัน\nที่จะทำข่าวนี้!",
+          "Length": 89
         }
       ]
     },
@@ -249,7 +278,8 @@
         {
           "Line": 212,
           "OriginalText": "Hrm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 4
         }
       ]
     },
@@ -260,12 +290,14 @@
         {
           "Line": 221,
           "OriginalText": "Reporters must first gather information,\nbut...\n\n",
-          "TranslatedText": "อย่างแรกนักข่าวก็ต้องรวบรวมข้อมูล\nแต่ว่า...\n\n"
+          "TranslatedText": "อย่างแรกนักข่าวก็ต้องรวบรวมข้อมูล\nแต่ว่า...\n\n",
+          "Length": 49
         },
         {
           "Line": 227,
           "OriginalText": "This soldier won\u0027t even give me the time\nof day! Just what about me is so\nsuspicious, anyway?!",
-          "TranslatedText": "ทหารพวกนี้ไม่ยอมให้เวลาฉันเลย! \nตัวฉันมันมีอะไรน่าสงสัยนักเหรอ?!"
+          "TranslatedText": "ทหารพวกนี้ไม่ยอมให้เวลาฉันเลย! \nตัวฉันมันมีอะไรน่าสงสัยนักเหรอ?!",
+          "Length": 94
         }
       ]
     },
@@ -276,12 +308,14 @@
         {
           "Line": 236,
           "OriginalText": "I\u0027d heard this town was goin\u0027 through\nsome tough times. I barely got away from\nthat big thing in the desert...\n",
-          "TranslatedText": "ฉันได้ข่าวมาว่าเมืองนี้กำลังประสพปัญหา\nฉันเกือบเอาตัวแทบไม่รอดจากเจ้าตัวใหญ่\nในทะเลทรายนั่น...\n"
+          "TranslatedText": "ฉันได้ข่าวมาว่าเมืองนี้กำลังประสพปัญหา\nฉันเกือบเอาตัวแทบไม่รอดจากเจ้าตัวใหญ่\nในทะเลทรายนั่น...\n",
+          "Length": 111
         },
         {
           "Line": 242,
           "OriginalText": "But after all the danger to get here, this\nsoldier won\u0027t even give me the time\nof day, much less let me in!",
-          "TranslatedText": "แต่หลังจากที่ต้องฝ่าฟันอันตรายพวกนั้นมา\nถึงที่นี่ได้ ทหารพวกนี้กลับไม่ยอมให้เวลาฉันเลย\nไม่ยอมให้ฉันเข้าไปด้วยซ้ำ! "
+          "TranslatedText": "แต่หลังจากที่ต้องฝ่าฟันอันตรายพวกนั้นมา\nถึงที่นี่ได้ ทหารพวกนี้กลับไม่ยอมให้เวลาฉันเลย\nไม่ยอมให้ฉันเข้าไปด้วยซ้ำ! ",
+          "Length": 107
         }
       ]
     },
@@ -292,7 +326,8 @@
         {
           "Line": 251,
           "OriginalText": "What is it, ma\u0027am? As you can see, I\u0027m\nbusy gathering information!",
-          "TranslatedText": "มีอะไรเหรอคุณผู้หญิง? อย่างที่เห็น\nฉันกำลังยุ่งอยู่กับการเก็บข้อมูล!"
+          "TranslatedText": "มีอะไรเหรอคุณผู้หญิง? อย่างที่เห็น\nฉันกำลังยุ่งอยู่กับการเก็บข้อมูล!",
+          "Length": 66
         }
       ]
     },
@@ -303,7 +338,8 @@
         {
           "Line": 263,
           "OriginalText": "Ma\u0027am...\nDon\u0027t tell me you don\u0027t know who I am?",
-          "TranslatedText": "คุณผู้หญิง...\nอย่าบอกนะว่าคุณไม่รู้ว่าฉันเป็นใคร?"
+          "TranslatedText": "คุณผู้หญิง...\nอย่าบอกนะว่าคุณไม่รู้ว่าฉันเป็นใคร?",
+          "Length": 47
         }
       ]
     },
@@ -318,7 +354,8 @@
         {
           "Line": 272,
           "OriginalText": "No way... You\u0027ve never heard of\nRumor Mill, either?",
-          "TranslatedText": "ไม่มีทาง... คุณไม่รู้จัก Rumor Mill ด้วยเหรอ?"
+          "TranslatedText": "ไม่มีทาง... คุณไม่รู้จัก Rumor Mill ด้วยเหรอ?",
+          "Length": 51
         }
       ]
     },
@@ -329,12 +366,14 @@
         {
           "Line": 289,
           "OriginalText": "Phew, thank goodness!\n\n\n",
-          "TranslatedText": "ฟู่ว ขอบคุณพระเจ้า!\n\n\n"
+          "TranslatedText": "ฟู่ว ขอบคุณพระเจ้า!\n\n\n",
+          "Length": 24
         },
         {
           "Line": 295,
           "OriginalText": "If you\u0027d told me you\u0027d never heard of\nHyrule\u0027s most popular news publication,\nRumor Mill...\nWell, I don\u0027t even know how I\u0027d have\ntaken that news! It woulda hurt,\nthat\u0027s for sure!\nI\u0027m Traysi herself, you know!",
-          "TranslatedText": "นี่ถ้าคุณตอบฉันว่าไม่รู้จัก สื่อที่ดังที่สุดใน\nHyrule อย่าง Rumor Mill ละก็...\nฉันคิดไม่ออกว่าจะตอบสนองยังไงเลย!\nแน่นอนว่าฉันคงเจ็บปวดแน่!\nนี่ฉัน Traysi เองเลยนะ รู้ไหม!"
+          "TranslatedText": "นี่ถ้าคุณตอบฉันว่าไม่รู้จัก สื่อที่ดังที่สุดใน\nHyrule อย่าง Rumor Mill ละก็...\nฉันคิดไม่ออกว่าจะตอบสนองยังไงเลย!\nแน่นอนว่าฉันคงเจ็บปวดแน่!\nนี่ฉัน Traysi เองเลยนะ รู้ไหม!",
+          "Length": 208
         }
       ]
     },
@@ -345,37 +384,44 @@
         {
           "Line": 304,
           "OriginalText": "ARE YOU KIDDING ME?!\n\n\nFor you to say you\u0027ve never heard of\nRumor Mill, Hyrule\u0027s most popular news\npublication...",
-          "TranslatedText": "ล้อกันเล่นรึเปล่าเนี่ย?!!\n\n\nการที่คุณตอบว่าไม่เคยได้ชื่อของ Rumor Mill\nสื่อที่นิยมที่สุดใน Hyrule..."
+          "TranslatedText": "ล้อกันเล่นรึเปล่าเนี่ย?!!\n\n\nการที่คุณตอบว่าไม่เคยได้ชื่อของ Rumor Mill\nสื่อที่นิยมที่สุดใน Hyrule...",
+          "Length": 113
         },
         {
           "Line": 308,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 314,
           "OriginalText": "You... You must be lying.",
-          "TranslatedText": "คุณ... คุณต้องโกหกแน่ๆ"
+          "TranslatedText": "คุณ... คุณต้องโกหกแน่ๆ",
+          "Length": 25
         },
         {
           "Line": 318,
           "OriginalText": "\nActually, I know you are!\n\nI ",
-          "TranslatedText": "\nแน่นอน ฉันรู้ว่าคุณโกหก!\n\nฉัน"
+          "TranslatedText": "\nแน่นอน ฉันรู้ว่าคุณโกหก!\n\nฉัน",
+          "Length": 30
         },
         {
           "Line": 322,
           "OriginalText": "AM",
-          "TranslatedText": "คือ"
+          "TranslatedText": "คือ",
+          "Length": 2
         },
         {
           "Line": 326,
           "OriginalText": " an award-winning\ninvestigative journalist, after all!\n\n",
-          "TranslatedText": " นักข่าวที่ชนะรางวัลเชียวนะ!\n\n"
+          "TranslatedText": " นักข่าวที่ชนะรางวัลเชียวนะ!\n\n",
+          "Length": 56
         },
         {
           "Line": 332,
           "OriginalText": "Truth is, you can\u0027t hide anything from\nTraysi!",
-          "TranslatedText": "ความจริงก็คือ คุณไม่มีวันปิดบังอะไร\nจาก Traysi ได้!"
+          "TranslatedText": "ความจริงก็คือ คุณไม่มีวันปิดบังอะไร\nจาก Traysi ได้!",
+          "Length": 46
         }
       ]
     },
@@ -386,12 +432,14 @@
         {
           "Line": 341,
           "OriginalText": "Hey now! Get that wishy-washy garbage\nout of here!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 50
         },
         {
           "Line": 345,
           "OriginalText": " Once more, with conviction!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 28
         }
       ]
     },
@@ -402,7 +450,8 @@
         {
           "Line": 354,
           "OriginalText": "Truth is...I\u0027m Traysi herself! From\nRumor Mill!",
-          "TranslatedText": "ที่จริงแล้ว...ฉันคือ Traysi เอง! \nจาก Rumor Mill น่ะ!"
+          "TranslatedText": "ที่จริงแล้ว...ฉันคือ Traysi เอง! \nจาก Rumor Mill น่ะ!",
+          "Length": 47
         }
       ]
     },
@@ -413,12 +462,14 @@
         {
           "Line": 363,
           "OriginalText": "I suppose that works...",
-          "TranslatedText": "ฉันหวังว่ามันจะได้ผลนะ..."
+          "TranslatedText": "ฉันหวังว่ามันจะได้ผลนะ...",
+          "Length": 23
         },
         {
           "Line": 367,
           "OriginalText": " Anyway, I hope\nyou enjoy reading Rumor Mill! I take\npride in my work!",
-          "TranslatedText": " เอาเถอะ \nฉันหวังว่าคุณจะสนุกกับการอ่าน Rumor Mill!\nฉันภูมิใจกับผลงานของฉันนะ!"
+          "TranslatedText": " เอาเถอะ \nฉันหวังว่าคุณจะสนุกกับการอ่าน Rumor Mill!\nฉันภูมิใจกับผลงานของฉันนะ!",
+          "Length": 70
         }
       ]
     },
@@ -429,7 +480,8 @@
         {
           "Line": 371,
           "OriginalText": "But I\u0027m not giving up!",
-          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอกนะ!"
+          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอกนะ!",
+          "Length": 22
         }
       ]
     }

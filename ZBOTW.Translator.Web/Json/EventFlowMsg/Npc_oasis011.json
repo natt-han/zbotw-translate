@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "A horse? Why?",
-          "TranslatedText": "ม้า? ทำไมเหรอ?"
+          "TranslatedText": "ม้า? ทำไมเหรอ?",
+          "Length": 13
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -32,7 +34,8 @@
         {
           "Line": 21,
           "OriginalText": "I... I was just pretending to be\na horse!",
-          "TranslatedText": "ฉัน... ฉันแค่แกล้งทำเป็นม้าน่ะ!"
+          "TranslatedText": "ฉัน... ฉันแค่แกล้งทำเป็นม้าน่ะ!",
+          "Length": 41
         }
       ]
     },
@@ -43,7 +46,8 @@
         {
           "Line": 36,
           "OriginalText": "*STOMP...STOMP*",
-          "TranslatedText": "*ตึง...ตึง*"
+          "TranslatedText": "*ตึง...ตึง*",
+          "Length": 15
         }
       ]
     },
@@ -54,7 +58,8 @@
         {
           "Line": 48,
           "OriginalText": "Sav\u0027orq!",
-          "TranslatedText": "Sav\u0027orq!"
+          "TranslatedText": "Sav\u0027orq!",
+          "Length": 8
         }
       ]
     },
@@ -65,52 +70,62 @@
         {
           "Line": 57,
           "OriginalText": "What? You don\u0027t know about\nHorsey Fatback? You don\u0027t have\none where you\u0027re from?",
-          "TranslatedText": "อะไรนะ? คุณไม่รู้จักเจ้าม้าหลังโหนกงั้นเหรอ?\nแถวบ้านคุณไม่มีงั้นเหรอ?"
+          "TranslatedText": "อะไรนะ? คุณไม่รู้จักเจ้าม้าหลังโหนกงั้นเหรอ?\nแถวบ้านคุณไม่มีงั้นเหรอ?",
+          "Length": 80
         },
         {
           "Line": 61,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 67,
           "OriginalText": "There\u0027s this really big horse-thing that\nwalks around outside the village, like\nSTOMP STOMP.\nIf you get close to him, he goes...\n\n\n",
-          "TranslatedText": "มีเจ้าตัวใหญ่ที่เหมือนที่เดินไปมา\nอยู่นอกหมู่บ้าน แบบ\nตึง ตึง\nถ้าคุณไปใกล้ละก็เขาจะ...\n\n\n"
+          "TranslatedText": "มีเจ้าตัวใหญ่ที่เหมือนที่เดินไปมา\nอยู่นอกหมู่บ้าน แบบ\nตึง ตึง\nถ้าคุณไปใกล้ละก็เขาจะ...\n\n\n",
+          "Length": 131
         },
         {
           "Line": 76,
           "OriginalText": "KABOOM!",
-          "TranslatedText": "บึ้ม!!!"
+          "TranslatedText": "บึ้ม!!!",
+          "Length": 7
         },
         {
           "Line": 83,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 89,
           "OriginalText": "And...\n\n\n",
-          "TranslatedText": "และ...\n\n\n"
+          "TranslatedText": "และ...\n\n\n",
+          "Length": 9
         },
         {
           "Line": 98,
           "OriginalText": "BZZBZZ!",
-          "TranslatedText": "บึ๊ซๆ!"
+          "TranslatedText": "บึ๊ซๆ!",
+          "Length": 7
         },
         {
           "Line": 105,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 111,
           "OriginalText": "It\u0027s really exciting!\n\n\n",
-          "TranslatedText": "มันน่าตื่นเต้นมาก!\n\n\n"
+          "TranslatedText": "มันน่าตื่นเต้นมาก!\n\n\n",
+          "Length": 24
         },
         {
           "Line": 117,
           "OriginalText": "But I think Horsey Fatback is\nactually good! He\u0027s only in a bad mood\n\u0027cause everyone keeps saying he\u0027s bad!",
-          "TranslatedText": "แต่ฉันว่าที่จริงเจ้าม้าหลังโหนกมัน\nนิสัยดีนะ! เขาแค่อารมณ์ไม่ดี\nเพราะทุกคนเอาแต่บอกว่าเขานิสัยไม่ดี!"
+          "TranslatedText": "แต่ฉันว่าที่จริงเจ้าม้าหลังโหนกมัน\nนิสัยดีนะ! เขาแค่อารมณ์ไม่ดี\nเพราะทุกคนเอาแต่บอกว่าเขานิสัยไม่ดี!",
+          "Length": 107
         }
       ]
     },
@@ -121,27 +136,32 @@
         {
           "Line": 126,
           "OriginalText": "You don\u0027t know about Horsey Fatback?\nYou don\u0027t have one where you\u0027re from?\n\n",
-          "TranslatedText": "คุณไม่รู้จักเจ้าม้าหลังโหนกเหรอ?\nแถวบ้านคุณไม่มีงั้นเหรอ?\n\n"
+          "TranslatedText": "คุณไม่รู้จักเจ้าม้าหลังโหนกเหรอ?\nแถวบ้านคุณไม่มีงั้นเหรอ?\n\n",
+          "Length": 76
         },
         {
           "Line": 132,
           "OriginalText": "There was this big horse-thing walking\naround like STOMP STOMP, but...",
-          "TranslatedText": "มีเจ้าตัวใหญ่ที่เหมือนที่เดินไปมา\nอยู่นอกหมู่บ้าน แบบ ตึง ตึง แต่ว่า..."
+          "TranslatedText": "มีเจ้าตัวใหญ่ที่เหมือนที่เดินไปมา\nอยู่นอกหมู่บ้าน แบบ ตึง ตึง แต่ว่า...",
+          "Length": 70
         },
         {
           "Line": 136,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n\n"
+          "TranslatedText": "\n\n",
+          "Length": 2
         },
         {
           "Line": 142,
           "OriginalText": "It looks like he went away somewhere...\n\n\n",
-          "TranslatedText": "ดูเหมือนเขาจะย้ายไปที่อื่นแล้ว...\n\n\n"
+          "TranslatedText": "ดูเหมือนเขาจะย้ายไปที่อื่นแล้ว...\n\n\n",
+          "Length": 42
         },
         {
           "Line": 148,
           "OriginalText": "He must have left because everyone kept\nsaying he was a bad boy all the time!",
-          "TranslatedText": "เขาคงไปเพราะว่าทุกคนเอาแต่พูดว่า\nเขานิสัยไม่ดีอยู่ตลอดเลย!"
+          "TranslatedText": "เขาคงไปเพราะว่าทุกคนเอาแต่พูดว่า\nเขานิสัยไม่ดีอยู่ตลอดเลย!",
+          "Length": 77
         }
       ]
     },
@@ -152,7 +172,8 @@
         {
           "Line": 157,
           "OriginalText": "It\u0027s dark out now, so I\u0027m going back to\nmy vaba\u0027s booth!\n\nSav\u0027orq!",
-          "TranslatedText": "มันมืดแล้ว ฉันจะกลับไปที่ซุ้มของ\nvaba แล้ว!\n\nSav\u0027orq!"
+          "TranslatedText": "มันมืดแล้ว ฉันจะกลับไปที่ซุ้มของ\nvaba แล้ว!\n\nSav\u0027orq!",
+          "Length": 66
         }
       ]
     },
@@ -163,7 +184,8 @@
         {
           "Line": 166,
           "OriginalText": "*STOMP...STOMP*\nI think I can see him!",
-          "TranslatedText": "*ตึง...ตึง*\nฉันเห็นเขาแล้ว!"
+          "TranslatedText": "*ตึง...ตึง*\nฉันเห็นเขาแล้ว!",
+          "Length": 38
         }
       ]
     },
@@ -174,7 +196,8 @@
         {
           "Line": 175,
           "OriginalText": "What game should I play now...",
-          "TranslatedText": "ฉันจะเล่นเกมอะไรดีนะ"
+          "TranslatedText": "ฉันจะเล่นเกมอะไรดีนะ",
+          "Length": 30
         }
       ]
     },
@@ -185,12 +208,14 @@
         {
           "Line": 189,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         },
         {
           "Line": 193,
           "OriginalText": "\nOh, wow! You\u0027re a vai from out of town!",
-          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!"
+          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!",
+          "Length": 40
         }
       ]
     },
@@ -201,12 +226,14 @@
         {
           "Line": 207,
           "OriginalText": "Sav\u0027aaq!!",
-          "TranslatedText": "Sav\u0027aaq!!"
+          "TranslatedText": "Sav\u0027aaq!!",
+          "Length": 9
         },
         {
           "Line": 211,
           "OriginalText": "\nOh, wow! You\u0027re a vai from out of town!",
-          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!"
+          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!",
+          "Length": 40
         }
       ]
     },
@@ -217,12 +244,14 @@
         {
           "Line": 225,
           "OriginalText": "Sav\u0027saaba!!",
-          "TranslatedText": "Sav\u0027saaba!!"
+          "TranslatedText": "Sav\u0027saaba!!",
+          "Length": 11
         },
         {
           "Line": 229,
           "OriginalText": "\nOh, wow! You\u0027re a vai from out of town!",
-          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!"
+          "TranslatedText": "\nโอ้ ว้าว! คุณคือ vai ที่มาจากนอกเมือง!",
+          "Length": 40
         }
       ]
     },
@@ -233,7 +262,8 @@
         {
           "Line": 238,
           "OriginalText": "*STOMP...STOMP*\nHe went over there...\n\nI wonder if he\u0027s done stomping?",
-          "TranslatedText": "*ตึง...ตึง*\nเขาไปตรงนั้นแล้ว...\n\nเขาเดินเสร็จแล้วงั้นเหรอ?"
+          "TranslatedText": "*ตึง...ตึง*\nเขาไปตรงนั้นแล้ว...\n\nเขาเดินเสร็จแล้วงั้นเหรอ?",
+          "Length": 70
         }
       ]
     },
@@ -248,7 +278,8 @@
         {
           "Line": 247,
           "OriginalText": "I\u0027m on my way to watch Horsey Fatback!",
-          "TranslatedText": "ฉันกำลังจะไปดูเจ้าม้าหลังโหนก!"
+          "TranslatedText": "ฉันกำลังจะไปดูเจ้าม้าหลังโหนก!",
+          "Length": 38
         }
       ]
     },
@@ -259,12 +290,14 @@
         {
           "Line": 264,
           "OriginalText": "I\u0027m going with everyone now!",
-          "TranslatedText": "ฉันกำลังตามทุกคนไป!"
+          "TranslatedText": "ฉันกำลังตามทุกคนไป!",
+          "Length": 28
         },
         {
           "Line": 268,
           "OriginalText": "\nTalk to you later! Sav\u0027orq!",
-          "TranslatedText": "\nไว้คุยกันทีหลังนะ! Sav\u0027orq!"
+          "TranslatedText": "\nไว้คุยกันทีหลังนะ! Sav\u0027orq!",
+          "Length": 28
         }
       ]
     }

@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Indeed.",
-          "TranslatedText": "แน่นอน"
+          "TranslatedText": "แน่นอน",
+          "Length": 7
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Not really...",
-          "TranslatedText": "ไม่หรอก..."
+          "TranslatedText": "ไม่หรอก...",
+          "Length": 13
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "...Ancient Tech Lab?",
-          "TranslatedText": "...ห้องวิจัยเทคโนโลยีโบราณ?"
+          "TranslatedText": "...ห้องวิจัยเทคโนโลยีโบราณ?",
+          "Length": 20
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "The Great Calamity?",
-          "TranslatedText": "The Great Calamity?"
+          "TranslatedText": "The Great Calamity?",
+          "Length": 19
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Hateno Village?",
-          "TranslatedText": "Hateno Village?"
+          "TranslatedText": "Hateno Village?",
+          "Length": 15
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -68,7 +74,8 @@
         {
           "Line": 32,
           "OriginalText": "Zzz...",
-          "TranslatedText": "Zzz..."
+          "TranslatedText": "Zzz...",
+          "Length": 6
         }
       ]
     },
@@ -79,7 +86,8 @@
         {
           "Line": 36,
           "OriginalText": "Ho, ho...",
-          "TranslatedText": "Ho, ho..."
+          "TranslatedText": "Ho, ho...",
+          "Length": 9
         }
       ]
     },
@@ -90,7 +98,8 @@
         {
           "Line": 40,
           "OriginalText": "♪～～♪",
-          "TranslatedText": "♪～～♪"
+          "TranslatedText": "♪～～♪",
+          "Length": 4
         }
       ]
     },
@@ -101,7 +110,8 @@
         {
           "Line": 44,
           "OriginalText": "Whew!",
-          "TranslatedText": "Whew!"
+          "TranslatedText": "Whew!",
+          "Length": 5
         }
       ]
     },
@@ -112,7 +122,8 @@
         {
           "Line": 48,
           "OriginalText": "Whoa...",
-          "TranslatedText": "Whoa..."
+          "TranslatedText": "Whoa...",
+          "Length": 7
         }
       ]
     },
@@ -123,33 +134,39 @@
         {
           "Line": 57,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 61,
           "OriginalText": "blue flame",
           "TranslatedText": "blue flame",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 64,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 68,
           "OriginalText": " I haven\u0027t seen that\nin quite a while! ",
-          "TranslatedText": " ข้าไม่ได้เห็นมัน\nมาสักพักแล้ว! "
+          "TranslatedText": " ข้าไม่ได้เห็นมัน\nมาสักพักแล้ว! ",
+          "Length": 39
         },
         {
           "Line": 79,
           "OriginalText": "How is Purah?",
-          "TranslatedText": " Purah สบายดีมั้ย?"
+          "TranslatedText": " Purah สบายดีมั้ย?",
+          "Length": 13
         },
         {
           "Line": 83,
           "OriginalText": "\n\nWe haven\u0027t seen her lately, so we\u0027ve all\nbeen a little worried about her.",
-          "TranslatedText": "\nพักหลังนี่เราไม่เห็นเธอเลย พวกเราเลย\nเป็นห่วงเธอมาสักพักแล้ว"
+          "TranslatedText": "\nพักหลังนี่เราไม่เห็นเธอเลย พวกเราเลย\nเป็นห่วงเธอมาสักพักแล้ว",
+          "Length": 75
         }
       ]
     },
@@ -160,23 +177,27 @@
         {
           "Line": 92,
           "OriginalText": "It\u0027s been a while since I saw Purah",
-          "TranslatedText": "ข้าไม่ได้เห็น Purah"
+          "TranslatedText": "ข้าไม่ได้เห็น Purah",
+          "Length": 35
         },
         {
           "Line": 96,
           "OriginalText": "\ncarrying around that ",
-          "TranslatedText": "\nเดินถือ "
+          "TranslatedText": "\nเดินถือ ",
+          "Length": 22
         },
         {
           "Line": 100,
           "OriginalText": "blue flame",
           "TranslatedText": "blue flame",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 103,
           "OriginalText": "...",
-          "TranslatedText": " นั่นมาสักพักแล้ว..."
+          "TranslatedText": " นั่นมาสักพักแล้ว...",
+          "Length": 3
         }
       ]
     },
@@ -191,12 +212,14 @@
         {
           "Line": 112,
           "OriginalText": "Oh, are you an adventurer? I am the\nhead of Hateno Village. Call me Reede.\n\n",
-          "TranslatedText": "อ้าว ท่านเป็นนักผจญภัยเหรอ? ข้าเป็น\nหัวหน้าหมู่บ้าน Hateno ชื่อว่า Reede\n"
+          "TranslatedText": "อ้าว ท่านเป็นนักผจญภัยเหรอ? ข้าเป็น\nหัวหน้าหมู่บ้าน Hateno ชื่อว่า Reede\n",
+          "Length": 76
         },
         {
           "Line": 118,
           "OriginalText": "Isn\u0027t this a peaceful place we have here,\ndon\u0027t you think?",
-          "TranslatedText": "ที่นี่เงียบสงบดีมั้ยล่ะ\nเห็นด้วยมั้ย?"
+          "TranslatedText": "ที่นี่เงียบสงบดีมั้ยล่ะ\nเห็นด้วยมั้ย?",
+          "Length": 58
         }
       ]
     },
@@ -207,23 +230,27 @@
         {
           "Line": 135,
           "OriginalText": "Yes...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         },
         {
           "Line": 139,
           "OriginalText": " We\u0027re finally feeling a bit of \nrecovery from the ",
-          "TranslatedText": " ในที่สุดเราก็เริ่มรู้สึกว่าเริ่ม \nจะฟื้นตัวจาก "
+          "TranslatedText": " ในที่สุดเราก็เริ่มรู้สึกว่าเริ่ม \nจะฟื้นตัวจาก ",
+          "Length": 51
         },
         {
           "Line": 143,
           "OriginalText": "Great Calamity",
           "TranslatedText": "Great Calamity",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 146,
           "OriginalText": ".",
-          "TranslatedText": "แล้ว"
+          "TranslatedText": "แล้ว",
+          "Length": 1
         }
       ]
     },
@@ -234,23 +261,27 @@
         {
           "Line": 155,
           "OriginalText": "Haha! This village looks like an urban\ncenter to you, eh?\n\n",
-          "TranslatedText": "ฮ่าๆ! หมู่บ้านนี้ดีเจริญดีงั้นเหรอ?\n"
+          "TranslatedText": "ฮ่าๆ! หมู่บ้านนี้ดีเจริญดีงั้นเหรอ?\n",
+          "Length": 59
         },
         {
           "Line": 161,
           "OriginalText": "Well, Hateno Village has definitely grown\nin size recently now that we\u0027re\nrecovering from the ",
-          "TranslatedText": "พักหลังพอเราฟื้นตัวจาก\n"
+          "TranslatedText": "พักหลังพอเราฟื้นตัวจาก\n",
+          "Length": 94
         },
         {
           "Line": 165,
           "OriginalText": "Great Calamity",
           "TranslatedText": "Great Calamity",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 168,
           "OriginalText": ".",
-          "TranslatedText": " แล้ว\nหมู่บ้าน Hateno ก็โตขึ้นจริงนั่นแหละ"
+          "TranslatedText": " แล้ว\nหมู่บ้าน Hateno ก็โตขึ้นจริงนั่นแหละ",
+          "Length": 1
         }
       ]
     },
@@ -261,12 +292,14 @@
         {
           "Line": 177,
           "OriginalText": "Our village is pleasant, peaceful, and has\nplenty of food to go around!",
-          "TranslatedText": "หมู่บ้านของเรานั้นน่าอยู่ สงบสุข\nและเต็มไปด้วยอาหารอร่อย!"
+          "TranslatedText": "หมู่บ้านของเรานั้นน่าอยู่ สงบสุข\nและเต็มไปด้วยอาหารอร่อย!",
+          "Length": 71
         },
         {
           "Line": 181,
           "OriginalText": " Please stay\nas long as you\u0027d like.",
-          "TranslatedText": " อยากอยู่นาน\nแค่ไหนก็ตามสบายเลยนะ"
+          "TranslatedText": " อยากอยู่นาน\nแค่ไหนก็ตามสบายเลยนะ",
+          "Length": 35
         }
       ]
     },
@@ -277,7 +310,8 @@
         {
           "Line": 190,
           "OriginalText": "Yes, yes...",
-          "TranslatedText": "ใช่ ใช่..."
+          "TranslatedText": "ใช่ ใช่...",
+          "Length": 11
         }
       ]
     },
@@ -288,7 +322,8 @@
         {
           "Line": 199,
           "OriginalText": "Mornin\u0027!",
-          "TranslatedText": "อรุณสวัสดิ์!"
+          "TranslatedText": "อรุณสวัสดิ์!",
+          "Length": 8
         }
       ]
     },
@@ -299,7 +334,8 @@
         {
           "Line": 208,
           "OriginalText": "Hullo!",
-          "TranslatedText": "หวัดดี!"
+          "TranslatedText": "หวัดดี!",
+          "Length": 6
         }
       ]
     },
@@ -310,7 +346,8 @@
         {
           "Line": 217,
           "OriginalText": "Evenin\u0027!",
-          "TranslatedText": "สวัสดีตอนเย็น!"
+          "TranslatedText": "สวัสดีตอนเย็น!",
+          "Length": 8
         }
       ]
     },
@@ -321,7 +358,8 @@
         {
           "Line": 226,
           "OriginalText": "Zzz... Zzz...",
-          "TranslatedText": "Zzz... Zzz..."
+          "TranslatedText": "Zzz... Zzz...",
+          "Length": 13
         }
       ]
     },
@@ -332,7 +370,8 @@
         {
           "Line": 235,
           "OriginalText": "Can I help you with anything?",
-          "TranslatedText": "มีอะไรให้ช่วยมั้ย?"
+          "TranslatedText": "มีอะไรให้ช่วยมั้ย?",
+          "Length": 29
         }
       ]
     },
@@ -343,7 +382,8 @@
         {
           "Line": 279,
           "OriginalText": "Yes, yes. Good-bye.",
-          "TranslatedText": "โอเค ลาก่อน"
+          "TranslatedText": "โอเค ลาก่อน",
+          "Length": 19
         }
       ]
     },
@@ -354,28 +394,33 @@
         {
           "Line": 288,
           "OriginalText": "It\u0027s hard to even talk about the\n",
-          "TranslatedText": "มันเป็นเรื่องยากที่จะเล่าถึง\n"
+          "TranslatedText": "มันเป็นเรื่องยากที่จะเล่าถึง\n",
+          "Length": 33
         },
         {
           "Line": 292,
           "OriginalText": "Great Calamity",
           "TranslatedText": "Great Calamity",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 295,
           "OriginalText": ". It was a disastrous event\nthat took place 100 years ago.\nVillages everywhere were burned. ",
-          "TranslatedText": ". มันเป็นเหตุการณ์หายนะ\nที่เกิดขึ้นเมื่อ 100 ปีก่อน\nหมู่บ้านทุกที่เกิดเพลิงไหม้ "
+          "TranslatedText": ". มันเป็นเหตุการณ์หายนะ\nที่เกิดขึ้นเมื่อ 100 ปีก่อน\nหมู่บ้านทุกที่เกิดเพลิงไหม้ ",
+          "Length": 92
         },
         {
           "Line": 299,
           "OriginalText": "Many\nlives were lost...\n\nThat was all before I was born, of course.",
-          "TranslatedText": "หลาย\nชีวิตได้ตายไป...\nแน่นอนว่าทั้งหมดนั่นเป็นเรื่องก่อนที่ข้าจะเกิด"
+          "TranslatedText": "หลาย\nชีวิตได้ตายไป...\nแน่นอนว่าทั้งหมดนั่นเป็นเรื่องก่อนที่ข้าจะเกิด",
+          "Length": 67
         },
         {
           "Line": 303,
           "OriginalText": "\nThe elders here would know more.",
-          "TranslatedText": "\nพวกคนที่อายุมากจะรู้ดีกว่าข้า"
+          "TranslatedText": "\nพวกคนที่อายุมากจะรู้ดีกว่าข้า",
+          "Length": 33
         }
       ]
     },
@@ -386,39 +431,46 @@
         {
           "Line": 312,
           "OriginalText": "Hateno Village barely survived the\n",
-          "TranslatedText": "หมู่บ้าน Hateno ก็แทบไม่รอดจาก\n"
+          "TranslatedText": "หมู่บ้าน Hateno ก็แทบไม่รอดจาก\n",
+          "Length": 35
         },
         {
           "Line": 316,
           "OriginalText": "Great Calamity",
           "TranslatedText": "Great Calamity",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 319,
           "OriginalText": ". The village was later\nrebuilt by ",
-          "TranslatedText": " ตอนหลังหมู่บ้าน\nได้ถูกสร้างขึ้นใหม่ด้วยมือของ "
+          "TranslatedText": " ตอนหลังหมู่บ้าน\nได้ถูกสร้างขึ้นใหม่ด้วยมือของ ",
+          "Length": 35
         },
         {
           "Line": 323,
           "OriginalText": "Hylian ",
           "TranslatedText": "Hylian ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 326,
           "OriginalText": "hands.\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 7
         },
         {
           "Line": 332,
           "OriginalText": "Now many people live here in peace\namongst the shops.",
-          "TranslatedText": "ตอนนี้หลายคนอยู่ที่นี่อย่างสงบ\nท่ามกลางร้านค้า"
+          "TranslatedText": "ตอนนี้หลายคนอยู่ที่นี่อย่างสงบ\nท่ามกลางร้านค้า",
+          "Length": 53
         },
         {
           "Line": 336,
           "OriginalText": " It\u0027s nice to see\ntravelers stop by now and then as well.",
-          "TranslatedText": " มันดีที่ได้เห็น\nแวะมาซื้อของอยู่เรื่อยๆ"
+          "TranslatedText": " มันดีที่ได้เห็น\nแวะมาซื้อของอยู่เรื่อยๆ",
+          "Length": 57
         }
       ]
     },
@@ -430,28 +482,33 @@
           "Line": 348,
           "OriginalText": "Hateno Ancient Tech Lab",
           "TranslatedText": "ห้องวิจัยเทคโนโลยีโบราณ Hateno ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 23
         },
         {
           "Line": 351,
           "OriginalText": "? Oh, sure!\nThat\u0027s the ",
-          "TranslatedText": "? อ้อ แน่นอน!\nมันคือ "
+          "TranslatedText": "? อ้อ แน่นอน!\nมันคือ ",
+          "Length": 23
         },
         {
           "Line": 355,
           "OriginalText": "building up on the top\nof that hill",
           "TranslatedText": "อาคารบน\nยอดเนินนั่น",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 35
         },
         {
           "Line": 358,
           "OriginalText": ".\n",
-          "TranslatedText": ".\n"
+          "TranslatedText": ".\n",
+          "Length": 2
         },
         {
           "Line": 364,
           "OriginalText": "A person from the Sheikah tribe lives up\nthere. You never know what they\u0027re\ndiving into.\nThey rarely come out lately, now that I\nthink about it. They must be really\nbusy lately...",
-          "TranslatedText": "มีคนจากเผ่า Sheikah อาศัยอยู่ที่นั่น\nไม่รู้เลยว่าพวกนั้นทำอะไรกัน\nพักหลังพวกเขาไม่ค่อยได้ออกมาข้างนอกเลย\nพอมาคิดดูแล้ว พักหลังพวกเขาคงจะยุ่งนะ..."
+          "TranslatedText": "มีคนจากเผ่า Sheikah อาศัยอยู่ที่นั่น\nไม่รู้เลยว่าพวกนั้นทำอะไรกัน\nพักหลังพวกเขาไม่ค่อยได้ออกมาข้างนอกเลย\nพอมาคิดดูแล้ว พักหลังพวกเขาคงจะยุ่งนะ...",
+          "Length": 179
         }
       ]
     },
@@ -462,44 +519,52 @@
         {
           "Line": 373,
           "OriginalText": "Oh, the ",
-          "TranslatedText": "โอ้ "
+          "TranslatedText": "โอ้ ",
+          "Length": 8
         },
         {
           "Line": 377,
           "OriginalText": "blue flame",
           "TranslatedText": "blue flame",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 380,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 384,
           "OriginalText": " I haven\u0027t seen that\nin quite a while.\n\n",
-          "TranslatedText": " ข้าไม่ได้เห็นมัน\nมาสักพักแล้ว\n"
+          "TranslatedText": " ข้าไม่ได้เห็นมัน\nมาสักพักแล้ว\n",
+          "Length": 40
         },
         {
           "Line": 395,
           "OriginalText": "How was the ",
-          "TranslatedText": "แล้ว"
+          "TranslatedText": "แล้ว",
+          "Length": 12
         },
         {
           "Line": 399,
           "OriginalText": "director",
           "TranslatedText": "director",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 402,
           "OriginalText": "?",
-          "TranslatedText": "สบายดีมั้ย?"
+          "TranslatedText": "สบายดีมั้ย?",
+          "Length": 1
         },
         {
           "Line": 406,
           "OriginalText": " We haven\u0027t\nseen the lab folks in a bit, so some\nof us were getting a little worried...",
-          "TranslatedText": " เราไม่เห็น\nคนจากห้องวิจัยออกมาบ้างเลย\nบางคนเริ่มจะเป็นห่วงกันแล้ว..."
+          "TranslatedText": " เราไม่เห็น\nคนจากห้องวิจัยออกมาบ้างเลย\nบางคนเริ่มจะเป็นห่วงกันแล้ว...",
+          "Length": 87
         }
       ]
     },
@@ -510,29 +575,34 @@
         {
           "Line": 415,
           "OriginalText": "It\u0027s been a while since I saw the\n",
-          "TranslatedText": "ข้าไม่ได้เห็น\n"
+          "TranslatedText": "ข้าไม่ได้เห็น\n",
+          "Length": 34
         },
         {
           "Line": 419,
           "OriginalText": "director",
           "TranslatedText": "director",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 422,
           "OriginalText": " carrying around that\n",
-          "TranslatedText": " ถือ\n"
+          "TranslatedText": " ถือ\n",
+          "Length": 22
         },
         {
           "Line": 426,
           "OriginalText": "blue flame",
           "TranslatedText": "blue flame",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 429,
           "OriginalText": "...",
-          "TranslatedText": " นั่นเดินไปมาสักพักแล้ว..."
+          "TranslatedText": " นั่นเดินไปมาสักพักแล้ว...",
+          "Length": 3
         }
       ]
     },
@@ -543,12 +613,14 @@
         {
           "Line": 438,
           "OriginalText": "Yup. ",
-          "TranslatedText": "อืม "
+          "TranslatedText": "อืม ",
+          "Length": 5
         },
         {
           "Line": 442,
           "OriginalText": "Rainin\u0027.",
-          "TranslatedText": "ฝนตก"
+          "TranslatedText": "ฝนตก",
+          "Length": 8
         }
       ]
     },
@@ -559,7 +631,8 @@
         {
           "Line": 451,
           "OriginalText": "Don\u0027t think the rain\u0027s gonna let up\nanytime soon.",
-          "TranslatedText": "คิดว่าฝนไม่น่าจะหยุดตก\nเร็วๆ นี้นะ"
+          "TranslatedText": "คิดว่าฝนไม่น่าจะหยุดตก\nเร็วๆ นี้นะ",
+          "Length": 49
         }
       ]
     },
@@ -570,7 +643,8 @@
         {
           "Line": 460,
           "OriginalText": "Why don\u0027t we chat somewhere nicer?",
-          "TranslatedText": "ทำไมเราไม่ไปหาที่ดีกว่านี้คุยกันล่ะ?"
+          "TranslatedText": "ทำไมเราไม่ไปหาที่ดีกว่านี้คุยกันล่ะ?",
+          "Length": 34
         }
       ]
     },
@@ -581,7 +655,8 @@
         {
           "Line": 469,
           "OriginalText": "Anything else you wanna ask?",
-          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?"
+          "TranslatedText": "มีอะไรอยากถามอีกมั้ย?",
+          "Length": 28
         }
       ]
     },
@@ -592,28 +667,33 @@
         {
           "Line": 513,
           "OriginalText": "Seems at least one member of the\nSheikah tribe has lived up there since\nthe time of the ",
-          "TranslatedText": "ดูเหมือนว่าสมาชิกคนหนึ่งของเผ่า\nSheikah จะอยู่ที่นั่นมาตั้งแต่\nสมัยของ "
+          "TranslatedText": "ดูเหมือนว่าสมาชิกคนหนึ่งของเผ่า\nSheikah จะอยู่ที่นั่นมาตั้งแต่\nสมัยของ ",
+          "Length": 88
         },
         {
           "Line": 517,
           "OriginalText": "Great Calamity",
           "TranslatedText": "Great Calamity",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 520,
           "OriginalText": ".\nThey call what goes on up there\nresearch,",
-          "TranslatedText": "\nพวกเขาบอกว่าสิ่งที่พวกเขาทำคือ\nค้นคว้าวิจัย"
+          "TranslatedText": "\nพวกเขาบอกว่าสิ่งที่พวกเขาทำคือ\nค้นคว้าวิจัย",
+          "Length": 43
         },
         {
           "Line": 524,
           "OriginalText": " but I don\u0027t know what kind.\n\n",
-          "TranslatedText": " แต่ข้าไม่รู้ว่าเกี่ยวกับอะไร\n"
+          "TranslatedText": " แต่ข้าไม่รู้ว่าเกี่ยวกับอะไร\n",
+          "Length": 30
         },
         {
           "Line": 530,
           "OriginalText": "Those folks up there should get out\nmore, y\u0027know? It\u0027s not healthy to stay\ncooped up all day!",
-          "TranslatedText": "คนพวกนั้นน่าจะออกมาข้างนอกบ้างนะ\nรู้มั้ย ว่ามันไม่ดีต่อสุขภาพที่จะเอาแต่\nอยู่ในห้องทั้งวัน"
+          "TranslatedText": "คนพวกนั้นน่าจะออกมาข้างนอกบ้างนะ\nรู้มั้ย ว่ามันไม่ดีต่อสุขภาพที่จะเอาแต่\nอยู่ในห้องทั้งวัน",
+          "Length": 93
         }
       ]
     },
@@ -624,34 +704,40 @@
         {
           "Line": 539,
           "OriginalText": "If you\u0027re looking for the\n",
-          "TranslatedText": "ถ้าท่านกำลังหา\n"
+          "TranslatedText": "ถ้าท่านกำลังหา\n",
+          "Length": 26
         },
         {
           "Line": 543,
           "OriginalText": "Hateno Ancient Tech Lab",
           "TranslatedText": "ห้องวิจัยเทคโนโลยีโบราณ Hateno",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 23
         },
         {
           "Line": 546,
           "OriginalText": ",",
-          "TranslatedText": "ละก็"
+          "TranslatedText": "ละก็",
+          "Length": 1
         },
         {
           "Line": 550,
           "OriginalText": "\nit\u0027s atop the ",
-          "TranslatedText": "\nมันอยู่บนยอด "
+          "TranslatedText": "\nมันอยู่บนยอด ",
+          "Length": 15
         },
         {
           "Line": 554,
           "OriginalText": "small hill",
           "TranslatedText": "เนินเล็กๆ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 557,
           "OriginalText": " to the east.",
-          "TranslatedText": " ทางตะวันออก"
+          "TranslatedText": " ทางตะวันออก",
+          "Length": 13
         }
       ]
     }

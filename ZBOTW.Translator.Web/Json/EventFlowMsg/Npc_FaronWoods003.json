@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I have one.",
-          "TranslatedText": "มี"
+          "TranslatedText": "มี",
+          "Length": 11
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "I don\u0027t have one.",
-          "TranslatedText": "ไม่มี"
+          "TranslatedText": "ไม่มี",
+          "Length": 17
         }
       ]
     },
@@ -28,7 +30,8 @@
         {
           "Line": 16,
           "OriginalText": "Rain, rain, too much rain...",
-          "TranslatedText": "ฝน ฝน ฝนตกเยอะเกินไปแล้ว..."
+          "TranslatedText": "ฝน ฝน ฝนตกเยอะเกินไปแล้ว...",
+          "Length": 28
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "Line": 20,
           "OriginalText": "Scary, isn\u0027t it?",
-          "TranslatedText": "น่ากลัวมั้ยล่ะ?"
+          "TranslatedText": "น่ากลัวมั้ยล่ะ?",
+          "Length": 16
         }
       ]
     },
@@ -54,23 +58,27 @@
         {
           "Line": 29,
           "OriginalText": "Hey, buddy! ",
-          "TranslatedText": "เฮ้ เพื่อน! "
+          "TranslatedText": "เฮ้ เพื่อน! ",
+          "Length": 12
         },
         {
           "Line": 33,
           "OriginalText": "Got a ",
-          "TranslatedText": "มี"
+          "TranslatedText": "มี",
+          "Length": 6
         },
         {
           "Line": 37,
           "OriginalText": "map",
           "TranslatedText": "แผนที่",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 40,
           "OriginalText": "?",
-          "TranslatedText": "รึเปล่า?"
+          "TranslatedText": "รึเปล่า?",
+          "Length": 1
         }
       ]
     },
@@ -81,7 +89,8 @@
         {
           "Line": 57,
           "OriginalText": "HUH? What special brand of loony\ndoes it take to go traveling without\na map?!",
-          "TranslatedText": "หา? ต้องเป็นคนบ้าขนาดไหนกัน\nถึงได้ออกเดินทางโดยไม่มีแผนที่ได้?!"
+          "TranslatedText": "หา? ต้องเป็นคนบ้าขนาดไหนกัน\nถึงได้ออกเดินทางโดยไม่มีแผนที่ได้?!",
+          "Length": 77
         }
       ]
     },
@@ -92,39 +101,46 @@
         {
           "Line": 66,
           "OriginalText": "So on this map of yours, ",
-          "TranslatedText": "แล้วบนแผนที่ของคุณ "
+          "TranslatedText": "แล้วบนแผนที่ของคุณ ",
+          "Length": 25
         },
         {
           "Line": 70,
           "OriginalText": "do you see\n",
-          "TranslatedText": "มองเห็น\n"
+          "TranslatedText": "มองเห็น\n",
+          "Length": 11
         },
         {
           "Line": 74,
           "OriginalText": "Dueling Peaks ",
           "TranslatedText": "Dueling Peaks ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 77,
           "OriginalText": "to the north of here?\n\nWell, apparently that used to be just one\nmountain a really long time ago.\n\nThe legends say a dragon god split the\nmountain in half to forge a way through,",
-          "TranslatedText": "อยู่ทางเหนือจากที่นี่มั้ย?\nที่จริงแล้ว เมื่อนานเมื่อแล้ว\nที่นั่นเคยเป็นภูเขาลูกเดียว\nตำนานเล่าว่าเทพเจ้ามังกรแยกภูเขานั่นออกเป็นสอง\nเพื่อที่จะบินผ่านไปได้"
+          "TranslatedText": "อยู่ทางเหนือจากที่นี่มั้ย?\nที่จริงแล้ว เมื่อนานเมื่อแล้ว\nที่นั่นเคยเป็นภูเขาลูกเดียว\nตำนานเล่าว่าเทพเจ้ามังกรแยกภูเขานั่นออกเป็นสอง\nเพื่อที่จะบินผ่านไปได้",
+          "Length": 178
         },
         {
           "Line": 81,
           "OriginalText": "\nand that\u0027s how it went from one to two.\nRecently, some are even saying they\u0027ve\nseen the shadow of a large creature on\nthe surface of ",
-          "TranslatedText": "\nนั่นคือเรื่องราวว่ามันแยกเป็นสองส่วนได้อย่างไร\nพักหลังมานี้ มีคนบอกว่าพวกเขาเห็นเงาขนาดใหญ่\nบนผิวน้ำของ "
+          "TranslatedText": "\nนั่นคือเรื่องราวว่ามันแยกเป็นสองส่วนได้อย่างไร\nพักหลังมานี้ มีคนบอกว่าพวกเขาเห็นเงาขนาดใหญ่\nบนผิวน้ำของ ",
+          "Length": 134
         },
         {
           "Line": 85,
           "OriginalText": "Lake Floria",
           "TranslatedText": "Lake Floria",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 88,
           "OriginalText": "!\nI wonder if any of that is true...",
-          "TranslatedText": "!\nไม่รู้ว่ามีอันไหนเป็นเรื่องจริงบ้างรึเปล่า..."
+          "TranslatedText": "!\nไม่รู้ว่ามีอันไหนเป็นเรื่องจริงบ้างรึเปล่า...",
+          "Length": 36
         }
       ]
     },
@@ -135,22 +151,26 @@
         {
           "Line": 97,
           "OriginalText": "Thunder sure is scary, isn\u0027t it?",
-          "TranslatedText": "ฟ้าผ่าน่ากลัวใช่มั้ยล่ะ?"
+          "TranslatedText": "ฟ้าผ่าน่ากลัวใช่มั้ยล่ะ?",
+          "Length": 32
         },
         {
           "Line": 101,
           "OriginalText": "\n\n\nSpeaking of! Have you heard the story,\nbuddy?",
-          "TranslatedText": "\nว่าไปแล้ว! คุณเคยได้ยินเรื่องเล่ามารึเปล่า?\n"
+          "TranslatedText": "\nว่าไปแล้ว! คุณเคยได้ยินเรื่องเล่ามารึเปล่า?\n",
+          "Length": 48
         },
         {
           "Line": 105,
           "OriginalText": " Some say that rumbling sound\nis the angry ranting of a dragon god!\nBut who knows if that\u0027s even true.",
-          "TranslatedText": " มีคนบอกว่าเสียงดังนั้นมันเกิดจาก\nการอาละวาดอย่างโกรธเกรี้ยวของเทพเจ้ามังกร!\nแต่ใครจะรู้ว่านั่นมันจริงรึเปล่า"
+          "TranslatedText": " มีคนบอกว่าเสียงดังนั้นมันเกิดจาก\nการอาละวาดอย่างโกรธเกรี้ยวของเทพเจ้ามังกร!\nแต่ใครจะรู้ว่านั่นมันจริงรึเปล่า",
+          "Length": 102
         },
         {
           "Line": 109,
           "OriginalText": "\nI\u0027ve certainly never seen any proof!",
-          "TranslatedText": "\nแน่นอนว่าฉันไม่เคยเห็นหลักฐานมาก่อน!"
+          "TranslatedText": "\nแน่นอนว่าฉันไม่เคยเห็นหลักฐานมาก่อน!",
+          "Length": 37
         }
       ]
     }

@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Voe?",
-          "TranslatedText": "Voe?"
+          "TranslatedText": "Voe?",
+          "Length": 4
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Vai?",
-          "TranslatedText": "Vai?"
+          "TranslatedText": "Vai?",
+          "Length": 4
         }
       ]
     },
@@ -38,7 +41,8 @@
         {
           "Line": 20,
           "OriginalText": "A replica of the helm?",
-          "TranslatedText": "หมวกเลียนแบบงั้นเหรอ?"
+          "TranslatedText": "หมวกเลียนแบบงั้นเหรอ?",
+          "Length": 22
         }
       ]
     },
@@ -54,61 +58,72 @@
         {
           "Line": 29,
           "OriginalText": "Wait a...",
-          "TranslatedText": "เดี๋ยวนะ..."
+          "TranslatedText": "เดี๋ยวนะ...",
+          "Length": 9
         },
         {
           "Line": 33,
           "OriginalText": " You\u0027re a ",
-          "TranslatedText": " คุณเป็น "
+          "TranslatedText": " คุณเป็น ",
+          "Length": 10
         },
         {
           "Line": 37,
           "OriginalText": "voe",
           "TranslatedText": "voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 40,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 44,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 48,
           "OriginalText": "Voe",
           "TranslatedText": "Voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 51,
           "OriginalText": " are forbidden here in ",
-          "TranslatedText": " นั้นห้ามเข้า "
+          "TranslatedText": " นั้นห้ามเข้า ",
+          "Length": 23
         },
         {
           "Line": 55,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "Gerudo Town",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 58,
           "OriginalText": ".\nOnly ",
-          "TranslatedText": "\nมีเพียง "
+          "TranslatedText": "\nมีเพียง ",
+          "Length": 7
         },
         {
           "Line": 62,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 65,
           "OriginalText": " are allowed inside!",
-          "TranslatedText": " ที่เข้าเมืองได้!"
+          "TranslatedText": " ที่เข้าเมืองได้!",
+          "Length": 20
         }
       ]
     },
@@ -125,23 +140,27 @@
           "Line": 86,
           "OriginalText": "Voe",
           "TranslatedText": "Voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 89,
           "OriginalText": "! Are you still here?! I told you, only\n",
-          "TranslatedText": "! ยังอยู่ตรงนี้อีกเหรอ?! บอกแล้วไง\nว่ามีเพียง "
+          "TranslatedText": "! ยังอยู่ตรงนี้อีกเหรอ?! บอกแล้วไง\nว่ามีเพียง ",
+          "Length": 40
         },
         {
           "Line": 93,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 96,
           "OriginalText": " are allowed inside!",
-          "TranslatedText": " เท่านั้นที่เข้าเมืองได้!"
+          "TranslatedText": " เท่านั้นที่เข้าเมืองได้!",
+          "Length": 20
         }
       ]
     },
@@ -157,40 +176,47 @@
         {
           "Line": 114,
           "OriginalText": "We don\u0027t get a lot of Hylian ",
-          "TranslatedText": "ไม่ค่อยจะมี "
+          "TranslatedText": "ไม่ค่อยจะมี ",
+          "Length": 29
         },
         {
           "Line": 118,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 121,
           "OriginalText": " around\nhere. Welcome to Gerudo Town.\n\nIt is an old tradition here that only ",
-          "TranslatedText": "ชาว Hylian มาแถวนี้เท่าไหร่\nยินดีต้อนรับสู่เมือง Gerudo\n\nมันเป็นธรรมเนียมเก่าแก่ ที่อนุญาตให้ "
+          "TranslatedText": "ชาว Hylian มาแถวนี้เท่าไหร่\nยินดีต้อนรับสู่เมือง Gerudo\n\nมันเป็นธรรมเนียมเก่าแก่ ที่อนุญาตให้ ",
+          "Length": 77
         },
         {
           "Line": 125,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 128,
           "OriginalText": "\nare allowed within the walls. ",
-          "TranslatedText": "\nเข้าเมืองได้เท่านั้น"
+          "TranslatedText": "\nเข้าเมืองได้เท่านั้น",
+          "Length": 31
         },
         {
           "Line": 132,
           "OriginalText": "Voe",
           "TranslatedText": "Voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 135,
           "OriginalText": " are\nstrictly forbidden. Take your time here.",
-          "TranslatedText": " เน้นห้ามอย่างเด็ดขาด\nฉันใช้เวลาที่นี่ได้ตามสบาย"
+          "TranslatedText": " เน้นห้ามอย่างเด็ดขาด\nฉันใช้เวลาที่นี่ได้ตามสบาย",
+          "Length": 45
         }
       ]
     },
@@ -206,18 +232,21 @@
         {
           "Line": 153,
           "OriginalText": "I will not let a single ",
-          "TranslatedText": "ฉันจะไม่ปล่อยให้ "
+          "TranslatedText": "ฉันจะไม่ปล่อยให้ ",
+          "Length": 24
         },
         {
           "Line": 157,
           "OriginalText": "voe",
           "TranslatedText": "voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 160,
           "OriginalText": " pass, even if\nit was a mere ant. But you are fine.\nPlease relax and enjoy your time here.",
-          "TranslatedText": " ผ่านไปได้แม้แต่คนเดียว\nหรือต่อให้เป็นมดก็ตาม แต่คุณผ่านได้\nเชิญพักผ่อนและใช้เวลาที่นี่ได้ตามสบายเลย"
+          "TranslatedText": " ผ่านไปได้แม้แต่คนเดียว\nหรือต่อให้เป็นมดก็ตาม แต่คุณผ่านได้\nเชิญพักผ่อนและใช้เวลาที่นี่ได้ตามสบายเลย",
+          "Length": 90
         }
       ]
     },
@@ -228,18 +257,21 @@
         {
           "Line": 178,
           "OriginalText": "When I say \u0022",
-          "TranslatedText": "เมื่อฉันพูดว่า \u0022"
+          "TranslatedText": "เมื่อฉันพูดว่า \u0022",
+          "Length": 12
         },
         {
           "Line": 182,
           "OriginalText": "voe",
           "TranslatedText": "voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 185,
           "OriginalText": ",\u0022 I mean \u0022man,\u0022\nobviously!",
-          "TranslatedText": "\u0022 ฉันหมายถึง \u0022ผู้ชาย\u0022\nไงล่ะ!"
+          "TranslatedText": "\u0022 ฉันหมายถึง \u0022ผู้ชาย\u0022\nไงล่ะ!",
+          "Length": 27
         }
       ]
     },
@@ -250,18 +282,21 @@
         {
           "Line": 194,
           "OriginalText": "When I say \u0022",
-          "TranslatedText": "เมื่อฉันพูดว่า \u0022"
+          "TranslatedText": "เมื่อฉันพูดว่า \u0022",
+          "Length": 12
         },
         {
           "Line": 198,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 201,
           "OriginalText": ",\u0022 I mean \u0022woman,\u0022\nobviously!",
-          "TranslatedText": "\u0022 ฉันหมายถึง \u0022ผู้หญิง\u0022\nไงล่ะ!"
+          "TranslatedText": "\u0022 ฉันหมายถึง \u0022ผู้หญิง\u0022\nไงล่ะ!",
+          "Length": 29
         }
       ]
     },
@@ -272,23 +307,27 @@
         {
           "Line": 210,
           "OriginalText": "Here\u0027s a tip:",
-          "TranslatedText": "แนะนำนะ"
+          "TranslatedText": "แนะนำนะ",
+          "Length": 13
         },
         {
           "Line": 214,
           "OriginalText": " if you stop by the canteen,\ndo yourself a favor and order a\n",
-          "TranslatedText": " ถ้าคุณไปที่ร้านอาหารละก็\nลองสั่ง "
+          "TranslatedText": " ถ้าคุณไปที่ร้านอาหารละก็\nลองสั่ง ",
+          "Length": 61
         },
         {
           "Line": 218,
           "OriginalText": "Noble Pursuit",
           "TranslatedText": "Noble Pursuit",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 221,
           "OriginalText": ".\nIt\u0027s hands down the best drink I\u0027ve ever\nhad.",
-          "TranslatedText": " มาลองดูสิ\nมันเป็นเครื่องดื่มที่ดีที่สุดที่ฉันเคยดื่มมาเลย"
+          "TranslatedText": " มาลองดูสิ\nมันเป็นเครื่องดื่มที่ดีที่สุดที่ฉันเคยดื่มมาเลย",
+          "Length": 47
         }
       ]
     },
@@ -300,12 +339,14 @@
           "Line": 233,
           "OriginalText": "Vai",
           "TranslatedText": "Vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 236,
           "OriginalText": " is a word in the Gerudo language\nthat means \u0022woman.\u0022",
-          "TranslatedText": " คือคำในภาษา Gerudo \nที่แปลว่า \u0022ผู้หญิง\u0022"
+          "TranslatedText": " คือคำในภาษา Gerudo \nที่แปลว่า \u0022ผู้หญิง\u0022",
+          "Length": 53
         }
       ]
     },
@@ -317,12 +358,14 @@
           "Line": 248,
           "OriginalText": "Voe",
           "TranslatedText": "Voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 251,
           "OriginalText": " is a word in the Gerudo language\nthat means \u0022man.\u0022",
-          "TranslatedText": " คือคำในภาษา Gerudo \nที่แปลว่า \u0022ผู้ชาย\u0022"
+          "TranslatedText": " คือคำในภาษา Gerudo \nที่แปลว่า \u0022ผู้ชาย\u0022",
+          "Length": 51
         }
       ]
     },
@@ -333,18 +376,21 @@
         {
           "Line": 260,
           "OriginalText": "All ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 264,
           "OriginalText": "voe",
           "TranslatedText": "Voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 267,
           "OriginalText": " must leave at once!",
-          "TranslatedText": " ทั้งหมดต้องจากไปทันที!"
+          "TranslatedText": " ทั้งหมดต้องจากไปทันที!",
+          "Length": 20
         }
       ]
     },
@@ -360,29 +406,34 @@
         {
           "Line": 276,
           "OriginalText": "You don\u0027t even know the difference\nbetween ",
-          "TranslatedText": "ไม่ทราบความแตกต่างระหว่าง "
+          "TranslatedText": "ไม่ทราบความแตกต่างระหว่าง ",
+          "Length": 43
         },
         {
           "Line": 280,
           "OriginalText": "voe",
           "TranslatedText": "voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 283,
           "OriginalText": " and ",
-          "TranslatedText": " กับ "
+          "TranslatedText": " กับ ",
+          "Length": 5
         },
         {
           "Line": 287,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 290,
           "OriginalText": ", and you\u0027re trying\nto enter town?!",
-          "TranslatedText": "\nแล้วคิดจะเข้าเมืองเนี่ยนะ?!"
+          "TranslatedText": "\nแล้วคิดจะเข้าเมืองเนี่ยนะ?!",
+          "Length": 35
         }
       ]
     },
@@ -398,39 +449,46 @@
         {
           "Line": 308,
           "OriginalText": "There are many other Gerudo words,",
-          "TranslatedText": "ยังมีคำภาษา Gerudo อีกมาก"
+          "TranslatedText": "ยังมีคำภาษา Gerudo อีกมาก",
+          "Length": 34
         },
         {
           "Line": 312,
           "OriginalText": "\nand it would help to learn them if you\nplan on entering Gerudo Town.\n",
-          "TranslatedText": "\nถ้าคุณเรียนรู้พวกมันก็จะช่วยได้\nถ้าคุณคิดจะเข้าเมือง Gerudo\n"
+          "TranslatedText": "\nถ้าคุณเรียนรู้พวกมันก็จะช่วยได้\nถ้าคุณคิดจะเข้าเมือง Gerudo\n",
+          "Length": 70
         },
         {
           "Line": 318,
           "OriginalText": "But you should at least remember ",
-          "TranslatedText": "แต่อย่างน้อยควรรู้จัก "
+          "TranslatedText": "แต่อย่างน้อยควรรู้จัก ",
+          "Length": 33
         },
         {
           "Line": 322,
           "OriginalText": "voe",
           "TranslatedText": "voe",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 325,
           "OriginalText": "\nand ",
-          "TranslatedText": " กับ "
+          "TranslatedText": " กับ ",
+          "Length": 5
         },
         {
           "Line": 329,
           "OriginalText": "vai",
           "TranslatedText": "vai",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 3
         },
         {
           "Line": 332,
           "OriginalText": ".",
-          "TranslatedText": " ไว้"
+          "TranslatedText": " ไว้",
+          "Length": 1
         }
       ]
     },
@@ -441,7 +499,8 @@
         {
           "Line": 355,
           "OriginalText": "Sav\u0027aaq.",
-          "TranslatedText": "Sav\u0027aaq"
+          "TranslatedText": "Sav\u0027aaq",
+          "Length": 8
         }
       ]
     },
@@ -452,7 +511,8 @@
         {
           "Line": 369,
           "OriginalText": "Sav\u0027otta.",
-          "TranslatedText": "Sav\u0027otta"
+          "TranslatedText": "Sav\u0027otta",
+          "Length": 9
         }
       ]
     },
@@ -463,7 +523,8 @@
         {
           "Line": 383,
           "OriginalText": "Sav\u0027saaba.",
-          "TranslatedText": "Sav\u0027saaba"
+          "TranslatedText": "Sav\u0027saaba",
+          "Length": 10
         }
       ]
     },
@@ -474,7 +535,8 @@
         {
           "Line": 392,
           "OriginalText": "Our chief has finally done it. It\u0027s been a\nlong time since I\u0027ve seen the desert as\npeaceful as this...\nAnd now that I\u0027ve refreshed myself, I\ncan really buckle down and get back to\nliving my life!",
-          "TranslatedText": "ในที่สุดหัวหน้าของเราก็ทำได้\nฉันไม่ได้เห็นทะเลทรายสงบสุขขนาดนี้\nมานานแล้ว...\n"
+          "TranslatedText": "ในที่สุดหัวหน้าของเราก็ทำได้\nฉันไม่ได้เห็นทะเลทรายสงบสุขขนาดนี้\nมานานแล้ว...\n",
+          "Length": 195
         }
       ]
     },
@@ -485,12 +547,14 @@
         {
           "Line": 401,
           "OriginalText": "At last, our chief has finally done it!\nThe desert is once again peaceful!\n\nEveryone can safely travel across the\ndesert without a worry in the world!\n\n",
-          "TranslatedText": "ในที่สุด หัวหน้าของเราก็ทำได้\nทะเลทรายกลับมาสงบสุขอีกครั้ง\n\nทุกคนสามารถเดินทางข้ามทะเลทราย \nได้โดยไม่ต้องกังวลอีกแล้ว!\n\n"
+          "TranslatedText": "ในที่สุด หัวหน้าของเราก็ทำได้\nทะเลทรายกลับมาสงบสุขอีกครั้ง\n\nทุกคนสามารถเดินทางข้ามทะเลทราย \nได้โดยไม่ต้องกังวลอีกแล้ว!\n\n",
+          "Length": 152
         },
         {
           "Line": 407,
           "OriginalText": "Even you! Yes, you! Stop lingering\naround here—get out, traverse the\ndesert, and go home!",
-          "TranslatedText": "แม้แต่คุณ! ใช่ คุณนั่นแหละ! หยุดอืดอาด\nอยู่แถวนี้—ออกไป ข้ามทะเลทราย\nแล้วกลับบ้านไป!"
+          "TranslatedText": "แม้แต่คุณ! ใช่ คุณนั่นแหละ! หยุดอืดอาด\nอยู่แถวนี้—ออกไป ข้ามทะเลทราย\nแล้วกลับบ้านไป!",
+          "Length": 89
         }
       ]
     },
@@ -500,7 +564,8 @@
         {
           "Line": 411,
           "OriginalText": "I\u0027ll pay you back!",
-          "TranslatedText": "I\u0027ll pay you back!"
+          "TranslatedText": "I\u0027ll pay you back!",
+          "Length": 18
         }
       ]
     },
@@ -510,7 +575,8 @@
         {
           "Line": 415,
           "OriginalText": "Is it a fight you want?!",
-          "TranslatedText": "Is it a fight you want?!"
+          "TranslatedText": "Is it a fight you want?!",
+          "Length": 24
         }
       ]
     },
@@ -520,7 +586,8 @@
         {
           "Line": 419,
           "OriginalText": "Nwahhh!",
-          "TranslatedText": "Nwahhh!"
+          "TranslatedText": "Nwahhh!",
+          "Length": 7
         }
       ]
     },
@@ -530,7 +597,8 @@
         {
           "Line": 423,
           "OriginalText": "Stop!",
-          "TranslatedText": "Stop!"
+          "TranslatedText": "Stop!",
+          "Length": 5
         }
       ]
     },
@@ -540,7 +608,8 @@
         {
           "Line": 427,
           "OriginalText": "You got some nerve!",
-          "TranslatedText": "You got some nerve!"
+          "TranslatedText": "You got some nerve!",
+          "Length": 19
         }
       ]
     }

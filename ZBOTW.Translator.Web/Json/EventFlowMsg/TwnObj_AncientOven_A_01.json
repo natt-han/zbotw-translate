@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Make exchange.",
-          "TranslatedText": "ทำการแลกเปลี่ยน"
+          "TranslatedText": "ทำการแลกเปลี่ยน",
+          "Length": 14
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Change exchange.",
-          "TranslatedText": "เปลี่ยน"
+          "TranslatedText": "เปลี่ยน",
+          "Length": 16
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "*zzzzzzrt*",
-          "TranslatedText": "*zzzzzzrt*"
+          "TranslatedText": "*zzzzzzrt*",
+          "Length": 10
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Materials required.",
-          "TranslatedText": "Materials required."
+          "TranslatedText": "Materials required.",
+          "Length": 19
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Systems green.",
-          "TranslatedText": "Systems green."
+          "TranslatedText": "Systems green.",
+          "Length": 14
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Optimal conditions.",
-          "TranslatedText": "Optimal conditions."
+          "TranslatedText": "Optimal conditions.",
+          "Length": 19
         }
       ]
     },
@@ -67,17 +73,20 @@
         {
           "Line": 37,
           "OriginalText": "Hello, *zzzt*, ",
-          "TranslatedText": "สวัสดี *zzzt*, "
+          "TranslatedText": "สวัสดี *zzzt*, ",
+          "Length": 15
         },
         {
           "Line": 41,
           "OriginalText": "FamiliarNameMissing!",
-          "TranslatedText": "FamiliarNameMissing!"
+          "TranslatedText": "FamiliarNameMissing!",
+          "Length": 20
         },
         {
           "Line": 45,
           "OriginalText": "\nWelcome!",
-          "TranslatedText": "\nยินดีต้อนรับ!"
+          "TranslatedText": "\nยินดีต้อนรับ!",
+          "Length": 9
         }
       ]
     },
@@ -87,12 +96,14 @@
         {
           "Line": 49,
           "OriginalText": "Insert materials and rupees.",
-          "TranslatedText": "ใส่วัตถดิบและ rupees"
+          "TranslatedText": "ใส่วัตถดิบและ rupees",
+          "Length": 28
         },
         {
           "Line": 53,
           "OriginalText": "\nReceive ancient equipment in exchange.",
-          "TranslatedText": "\nรับ ancient equipment เป็นการแลกเปลี่ยน"
+          "TranslatedText": "\nรับ ancient equipment เป็นการแลกเปลี่ยน",
+          "Length": 39
         }
       ]
     },
@@ -102,17 +113,20 @@
         {
           "Line": 62,
           "OriginalText": "Thanks for your time.",
-          "TranslatedText": "ขอบคุณที่สละเวลา"
+          "TranslatedText": "ขอบคุณที่สละเวลา",
+          "Length": 21
         },
         {
           "Line": 66,
           "OriginalText": " Come\nagain, *bwop*,",
-          "TranslatedText": " แล้วมาอีกนะ *bwop*,"
+          "TranslatedText": " แล้วมาอีกนะ *bwop*,",
+          "Length": 20
         },
         {
           "Line": 70,
           "OriginalText": " FamiliarNameMissing!",
-          "TranslatedText": " FamiliarNameMissing!"
+          "TranslatedText": " FamiliarNameMissing!",
+          "Length": 21
         }
       ]
     },
@@ -126,13 +140,15 @@
         {
           "Line": 79,
           "OriginalText": "Exchange for ",
-          "TranslatedText": "Exchange for "
+          "TranslatedText": "Exchange for ",
+          "Length": 13
         },
         {
           "Line": 84,
           "OriginalText": "?",
           "TranslatedText": "?",
-          "Variable": "Shop_SelectItemName"
+          "Variable": "Shop_SelectItemName",
+          "Length": 1
         }
       ]
     },
@@ -142,22 +158,26 @@
         {
           "Line": 96,
           "OriginalText": "Exchanging... ",
-          "TranslatedText": "Exchanging... "
+          "TranslatedText": "Exchanging... ",
+          "Length": 14
         },
         {
           "Line": 103,
           "OriginalText": "*beeeeeep beep*",
-          "TranslatedText": "*beeeeeep beep*"
+          "TranslatedText": "*beeeeeep beep*",
+          "Length": 15
         },
         {
           "Line": 110,
           "OriginalText": "\nExchanging... ",
-          "TranslatedText": "\nExchanging... "
+          "TranslatedText": "\nExchanging... ",
+          "Length": 15
         },
         {
           "Line": 117,
           "OriginalText": "*beeeeeep beep*",
-          "TranslatedText": "*beeeeeep beep*"
+          "TranslatedText": "*beeeeeep beep*",
+          "Length": 15
         }
       ]
     },
@@ -167,12 +187,14 @@
         {
           "Line": 132,
           "OriginalText": "Results available.",
-          "TranslatedText": "Results available."
+          "TranslatedText": "Results available.",
+          "Length": 18
         },
         {
           "Line": 136,
           "OriginalText": "\n*bweep* ",
-          "TranslatedText": "\n*bweep* "
+          "TranslatedText": "\n*bweep* ",
+          "Length": 9
         }
       ]
     },
@@ -182,7 +204,8 @@
         {
           "Line": 148,
           "OriginalText": "Insufficient materials available\nfor exchange.",
-          "TranslatedText": "วัตถุดิบไม่พอสำหรับทำการแลกเปลี่ยน"
+          "TranslatedText": "วัตถุดิบไม่พอสำหรับทำการแลกเปลี่ยน",
+          "Length": 46
         }
       ]
     },
@@ -192,7 +215,8 @@
         {
           "Line": 157,
           "OriginalText": "Insufficient rupees available\nfor exchange.",
-          "TranslatedText": "Rupees ไม่พอสำหรับทำการแลกเปลี่ยน"
+          "TranslatedText": "Rupees ไม่พอสำหรับทำการแลกเปลี่ยน",
+          "Length": 43
         }
       ]
     },
@@ -202,7 +226,8 @@
         {
           "Line": 166,
           "OriginalText": "No room in inventory.",
-          "TranslatedText": "ไม่มีที่เก็บ"
+          "TranslatedText": "ไม่มีที่เก็บ",
+          "Length": 21
         }
       ]
     },
@@ -212,7 +237,8 @@
         {
           "Line": 170,
           "OriginalText": "OK.",
-          "TranslatedText": "OK."
+          "TranslatedText": "OK.",
+          "Length": 3
         }
       ]
     },
@@ -222,12 +248,14 @@
         {
           "Line": 174,
           "OriginalText": "Hey hey, *beep*,",
-          "TranslatedText": "Hey hey, *beep*,"
+          "TranslatedText": "Hey hey, *beep*,",
+          "Length": 16
         },
         {
           "Line": 178,
           "OriginalText": " FamiliarNameMissing!",
-          "TranslatedText": " FamiliarNameMissing!"
+          "TranslatedText": " FamiliarNameMissing!",
+          "Length": 21
         }
       ]
     }

@@ -8,7 +8,8 @@
         {
           "Line": 13,
           "OriginalText": "I went there earlier...",
-          "TranslatedText": "ฉันพึ่งไปที่นั่นมา"
+          "TranslatedText": "ฉันพึ่งไปที่นั่นมา",
+          "Length": 23
         }
       ]
     },
@@ -19,7 +20,8 @@
         {
           "Line": 22,
           "OriginalText": "Good morning.",
-          "TranslatedText": "อรุณสวัสดิ์"
+          "TranslatedText": "อรุณสวัสดิ์",
+          "Length": 13
         }
       ]
     },
@@ -30,7 +32,8 @@
         {
           "Line": 31,
           "OriginalText": "Hello.",
-          "TranslatedText": "หวัดดี"
+          "TranslatedText": "หวัดดี",
+          "Length": 6
         }
       ]
     },
@@ -41,7 +44,8 @@
         {
           "Line": 40,
           "OriginalText": "Good evening.",
-          "TranslatedText": "สายัณสวัสดิ์"
+          "TranslatedText": "สายัณสวัสดิ์",
+          "Length": 13
         }
       ]
     },
@@ -52,7 +56,8 @@
         {
           "Line": 49,
           "OriginalText": "Hey.",
-          "TranslatedText": "เห้ย."
+          "TranslatedText": "เห้ย.",
+          "Length": 4
         }
       ]
     },
@@ -63,12 +68,14 @@
         {
           "Line": 58,
           "OriginalText": "I think I\u0027m gonna call it a night.",
-          "TranslatedText": "ฉันว่า ได้เวลานอนแล้ว"
+          "TranslatedText": "ฉันว่า ได้เวลานอนแล้ว",
+          "Length": 34
         },
         {
           "Line": 62,
           "OriginalText": "\nGood night...",
-          "TranslatedText": "\nราตีสวัสดิ์"
+          "TranslatedText": "\nราตีสวัสดิ์",
+          "Length": 14
         }
       ]
     },
@@ -79,12 +86,14 @@
         {
           "Line": 71,
           "OriginalText": "I\u0027m going to bed.",
-          "TranslatedText": "ฉันจะไปขึ้นนอน"
+          "TranslatedText": "ฉันจะไปขึ้นนอน",
+          "Length": 17
         },
         {
           "Line": 75,
           "OriginalText": "\nSee you later.",
-          "TranslatedText": "\nไว้เจอกัน"
+          "TranslatedText": "\nไว้เจอกัน",
+          "Length": 15
         }
       ]
     },
@@ -95,12 +104,14 @@
         {
           "Line": 84,
           "OriginalText": "Zzz...",
-          "TranslatedText": "ฟี้…"
+          "TranslatedText": "ฟี้…",
+          "Length": 6
         },
         {
           "Line": 88,
           "OriginalText": " *snore*",
-          "TranslatedText": "*คร่อกก*"
+          "TranslatedText": "*คร่อกก*",
+          "Length": 8
         }
       ]
     },
@@ -111,7 +122,8 @@
         {
           "Line": 97,
           "OriginalText": "I\u0027m on my way to speak with Finley at\nour usual place.\n\nWould you like to come with me?",
-          "TranslatedText": "ฉันกำลังไปคุยกับฟินลี่ย์\nที่ที่ประจำของเราน่ะ.\n\nจะไปกับฉันไหมล่ะ?"
+          "TranslatedText": "ฉันกำลังไปคุยกับฟินลี่ย์\nที่ที่ประจำของเราน่ะ.\n\nจะไปกับฉันไหมล่ะ?",
+          "Length": 87
         }
       ]
     },
@@ -122,7 +134,8 @@
         {
           "Line": 106,
           "OriginalText": "Never mind that. Where is Finley?",
-          "TranslatedText": "ช่างมันเหอะ. ฟินลีย์อยู่ไหน?"
+          "TranslatedText": "ช่างมันเหอะ. ฟินลีย์อยู่ไหน?",
+          "Length": 33
         }
       ]
     },
@@ -133,43 +146,51 @@
         {
           "Line": 115,
           "OriginalText": "Oh. ",
-          "TranslatedText": "โอ้ว"
+          "TranslatedText": "โอ้ว",
+          "Length": 4
         },
         {
           "Line": 119,
           "OriginalText": "It\u0027s you.\n\n\nI somehow made it to ",
-          "TranslatedText": "เธอนั่นเอง.\n\n\nจะไงก็นะ ฉันไปถึง"
+          "TranslatedText": "เธอนั่นเอง.\n\n\nจะไงก็นะ ฉันไปถึง",
+          "Length": 33
         },
         {
           "Line": 123,
           "OriginalText": "Zora\u0027s Domain",
           "TranslatedText": "อณาจักรของโซร่า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 126,
           "OriginalText": ".\n\n\nAbout Finley...",
-          "TranslatedText": ".\n\n\nเกี่ยวกับฟินลี่ย์"
+          "TranslatedText": ".\n\n\nเกี่ยวกับฟินลี่ย์",
+          "Length": 19
         },
         {
           "Line": 130,
           "OriginalText": " It seems she\u0027s taken\nquite a liking to me.\n\n",
-          "TranslatedText": "ดูเหมือนว่า\nเธอจะชอบฉันนะ\n\n"
+          "TranslatedText": "ดูเหมือนว่า\nเธอจะชอบฉันนะ\n\n",
+          "Length": 45
         },
         {
           "Line": 136,
           "OriginalText": "As I somewhat expected, she\u0027s a young\nwoman of a Zora who is waaaay older\nthan me. And wiser. How confusing.\n",
-          "TranslatedText": "อย่างที่ฉันคิดไว้. เธอเป็นเด็กสาวชาวโซร่า\nที่อายุมากกก กว่าฉันไปหน่อย\nแต่ฉลาดกว่า...มึนไหมล่ะ.\n"
+          "TranslatedText": "อย่างที่ฉันคิดไว้. เธอเป็นเด็กสาวชาวโซร่า\nที่อายุมากกก กว่าฉันไปหน่อย\nแต่ฉลาดกว่า...มึนไหมล่ะ.\n",
+          "Length": 109
         },
         {
           "Line": 142,
           "OriginalText": "But her writing is so splendid...",
-          "TranslatedText": "แต่ลายมือของเธอมันมหัศจรรย์…"
+          "TranslatedText": "แต่ลายมือของเธอมันมหัศจรรย์…",
+          "Length": 33
         },
         {
           "Line": 146,
           "OriginalText": " I don\u0027t\ncare about her being so much older\nthan I am.\nIn fact, I\u0027m sure she\u0027ll only become more\nlovely with every passing year!",
-          "TranslatedText": "ฉันไม่ไดแคร์ที่หล่อนอายุมากกว่า\nฉันเยอะหรอก\nจริงๆแล้ว, ฉันมั่นใจเลยว่าเธอจะน่ารักขึ้น\nทุกๆปี!"
+          "TranslatedText": "ฉันไม่ไดแคร์ที่หล่อนอายุมากกว่า\nฉันเยอะหรอก\nจริงๆแล้ว, ฉันมั่นใจเลยว่าเธอจะน่ารักขึ้น\nทุกๆปี!",
+          "Length": 128
         }
       ]
     },
@@ -181,17 +202,20 @@
           "Line": 158,
           "OriginalText": "Zora\u0027s Domain",
           "TranslatedText": "อนาจักรโซร่า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 161,
           "OriginalText": " is a peaceful place,\nisn\u0027t it?",
-          "TranslatedText": "เป็นสถานที่ที่สงบสุข,\nว่าไหม?"
+          "TranslatedText": "เป็นสถานที่ที่สงบสุข,\nว่าไหม?",
+          "Length": 31
         },
         {
           "Line": 165,
           "OriginalText": " I think I can get used to\nit here. I must...for Finley\u0027s sake.",
-          "TranslatedText": "ฉันว่าฉันจะเข้ากับที่นี่ได้.\nฉันต้องทำได้…เพื่อฟินลี่ย์"
+          "TranslatedText": "ฉันว่าฉันจะเข้ากับที่นี่ได้.\nฉันต้องทำได้…เพื่อฟินลี่ย์",
+          "Length": 63
         }
       ]
     },
@@ -202,12 +226,14 @@
         {
           "Line": 174,
           "OriginalText": "When I\u0027m chatting with Finley,",
-          "TranslatedText": "เวลาที่ฉันคุยกับฟินลี่ย์…"
+          "TranslatedText": "เวลาที่ฉันคุยกับฟินลี่ย์…",
+          "Length": 30
         },
         {
           "Line": 178,
           "OriginalText": " I almost\nforget all about my work.\n\nI need to get back to studying, though.\nI wanna learn everything about the trade\nand be a real asset to the general store!",
-          "TranslatedText": "ฉันเกือบ\nที่จะลืมงานของฉันไปเลย\n\nฉันต้องกลับไปเรียนแล้ว.\nฉันต้องรู้ทุกอย่างเกี่ยวกับการค้า\nและกลายเป็นคนสำคัญของร้าน!"
+          "TranslatedText": "ฉันเกือบ\nที่จะลืมงานของฉันไปเลย\n\nฉันต้องกลับไปเรียนแล้ว.\nฉันต้องรู้ทุกอย่างเกี่ยวกับการค้า\nและกลายเป็นคนสำคัญของร้าน!",
+          "Length": 159
         }
       ]
     },
@@ -218,12 +244,14 @@
         {
           "Line": 187,
           "OriginalText": "I\u0027m on my way to the general store now.\n\n\nI\u0027ve got to study up and learn everything\nabout my trade... ",
-          "TranslatedText": "ฉันกำลังไปที่ร้านแล้ว\n\n\nฉันจะต้องเรียนรู้ และเข้าใจทุกอย่าง\nเกี่ยวกับการแลกเปลี่ยน…"
+          "TranslatedText": "ฉันกำลังไปที่ร้านแล้ว\n\n\nฉันจะต้องเรียนรู้ และเข้าใจทุกอย่าง\nเกี่ยวกับการแลกเปลี่ยน…",
+          "Length": 102
         },
         {
           "Line": 191,
           "OriginalText": "Otherwise I\u0027m just a\ncommon peddler!",
-          "TranslatedText": "ไม่อย่างงั้น ฉันก็เป็นแค่แผงลอย\nธรรมดาๆเท่านั้น"
+          "TranslatedText": "ไม่อย่างงั้น ฉันก็เป็นแค่แผงลอย\nธรรมดาๆเท่านั้น",
+          "Length": 36
         }
       ]
     },
@@ -234,18 +262,21 @@
         {
           "Line": 200,
           "OriginalText": "The fish in ",
-          "TranslatedText": "ปลาที่อยู่ใน"
+          "TranslatedText": "ปลาที่อยู่ใน",
+          "Length": 12
         },
         {
           "Line": 204,
           "OriginalText": "Zora\u0027s Domain",
           "TranslatedText": "อณาจักรโซร่า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 207,
           "OriginalText": " are\nreally fresh, aren\u0027t they?\n\nI wonder what my mentor, Douma,\nwill have in stock today...",
-          "TranslatedText": "ช่าง\nสดจริงๆ, ว่าไหมล่ะ?\n\nฉันสงสัยนะว่าครู, โดม่า \nจะมีอะไรบ้างวันนี้"
+          "TranslatedText": "ช่าง\nสดจริงๆ, ว่าไหมล่ะ?\n\nฉันสงสัยนะว่าครู, โดม่า \nจะมีอะไรบ้างวันนี้",
+          "Length": 92
         }
       ]
     },
@@ -256,34 +287,40 @@
         {
           "Line": 216,
           "OriginalText": "I do need some ",
-          "TranslatedText": "ฉันต้องการ"
+          "TranslatedText": "ฉันต้องการ",
+          "Length": 15
         },
         {
           "Line": 220,
           "OriginalText": "rock salt",
           "TranslatedText": "หินเกลือ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 223,
           "OriginalText": "... ",
-          "TranslatedText": "ซักหน่อย…"
+          "TranslatedText": "ซักหน่อย…",
+          "Length": 4
         },
         {
           "Line": 227,
           "OriginalText": "\nWhile I\u0027m at it, I should pick up\nsome ",
-          "TranslatedText": "\nระหว่างนั้น ฉันก็ควร\nจะหยิบ"
+          "TranslatedText": "\nระหว่างนั้น ฉันก็ควร\nจะหยิบ",
+          "Length": 40
         },
         {
           "Line": 231,
           "OriginalText": "Hylian rice",
           "TranslatedText": "ข้าวฮีเลี่ยน",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 234,
           "OriginalText": " too.",
-          "TranslatedText": "ด้วย"
+          "TranslatedText": "ด้วย",
+          "Length": 5
         }
       ]
     },
@@ -294,18 +331,21 @@
         {
           "Line": 243,
           "OriginalText": "The residents of ",
-          "TranslatedText": "ชาวบ้านของ"
+          "TranslatedText": "ชาวบ้านของ",
+          "Length": 17
         },
         {
           "Line": 247,
           "OriginalText": "Rito Village",
           "TranslatedText": "หมู่บ้านริโต้",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 253,
           "OriginalText": "\nhave really fluffy feathers!",
-          "TranslatedText": "\nมีขนปีกที่นุ่มจริงๆ!"
+          "TranslatedText": "\nมีขนปีกที่นุ่มจริงๆ!",
+          "Length": 29
         }
       ]
     },
@@ -317,12 +357,14 @@
           "Line": 265,
           "OriginalText": "Goron City",
           "TranslatedText": "เมือง กอร่อน",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 271,
           "OriginalText": " is a really hot place!",
-          "TranslatedText": " ช่างร้อนจริงๆ"
+          "TranslatedText": " ช่างร้อนจริงๆ",
+          "Length": 23
         }
       ]
     },
@@ -334,12 +376,14 @@
           "Line": 283,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "เมืองเกรูโด้",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 289,
           "OriginalText": " is full of women!",
-          "TranslatedText": "เต็มไปด้วยผู้หญิง!"
+          "TranslatedText": "เต็มไปด้วยผู้หญิง!",
+          "Length": 18
         }
       ]
     },
@@ -350,23 +394,27 @@
         {
           "Line": 298,
           "OriginalText": "On ",
-          "TranslatedText": "บน"
+          "TranslatedText": "บน",
+          "Length": 3
         },
         {
           "Line": 302,
           "OriginalText": "Satori Mountain",
           "TranslatedText": "เขาซาโตริ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 305,
           "OriginalText": ",",
-          "TranslatedText": ","
+          "TranslatedText": ",",
+          "Length": 1
         },
         {
           "Line": 309,
           "OriginalText": " there are a bunch\nof animals!",
-          "TranslatedText": "มีสัตว์\nเต็มไปหมด!"
+          "TranslatedText": "มีสัตว์\nเต็มไปหมด!",
+          "Length": 30
         }
       ]
     },
@@ -377,12 +425,14 @@
         {
           "Line": 318,
           "OriginalText": "Sasan, you\u0027re so dreamy!",
-          "TranslatedText": "ซาซ่าน, เธอที่ฉันฝันหา!"
+          "TranslatedText": "ซาซ่าน, เธอที่ฉันฝันหา!",
+          "Length": 24
         },
         {
           "Line": 322,
           "OriginalText": "\nPlease, tell me more stories from\nyour travel adventures!",
-          "TranslatedText": "\nขอล่ะ! เล่าเรื่องจาก\nการผจญภัยให้ฟังหน่อย!"
+          "TranslatedText": "\nขอล่ะ! เล่าเรื่องจาก\nการผจญภัยให้ฟังหน่อย!",
+          "Length": 58
         }
       ]
     }

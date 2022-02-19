@@ -8,7 +8,8 @@
         {
           "Line": 8,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -19,7 +20,8 @@
         {
           "Line": 17,
           "OriginalText": "I wish I had this kind of artistic skill...",
-          "TranslatedText": "ฉันอยากมีฝีมือแบบนี้บ้างจัง..."
+          "TranslatedText": "ฉันอยากมีฝีมือแบบนี้บ้างจัง...",
+          "Length": 43
         }
       ]
     },
@@ -30,12 +32,14 @@
         {
           "Line": 26,
           "OriginalText": "Have you come to look at this picture\ntoo?",
-          "TranslatedText": "คุณก็มาดูรูปนี้เหมือนกันเหรอ?\n"
+          "TranslatedText": "คุณก็มาดูรูปนี้เหมือนกันเหรอ?\n",
+          "Length": 42
         },
         {
           "Line": 30,
           "OriginalText": " It\u0027s so beautiful... I could spend\nhours just looking at it.",
-          "TranslatedText": "มันสวยเหลือเกิน... ฉันดูมันได้เป็นชั่วโมงเลย"
+          "TranslatedText": "มันสวยเหลือเกิน... ฉันดูมันได้เป็นชั่วโมงเลย",
+          "Length": 61
         }
       ]
     },
@@ -46,12 +50,14 @@
         {
           "Line": 39,
           "OriginalText": "This painting was made by Ozunda, the\nowner of this stable, or so I hear.\n\n",
-          "TranslatedText": "ภาพนี้วาดโดย Ozunda เจ้าของ\nที่พักม้าแห่งนี้ ฉันได้ยินว่าอย่างนั้น\n\n"
+          "TranslatedText": "ภาพนี้วาดโดย Ozunda เจ้าของ\nที่พักม้าแห่งนี้ ฉันได้ยินว่าอย่างนั้น\n\n",
+          "Length": 75
         },
         {
           "Line": 45,
           "OriginalText": "That volcano in the background...\nIt\u0027s so majestic. And the stable is subtle\nin the scenery.",
-          "TranslatedText": "ภูเขาไฟด้านหลังนั่น...\nช่างยิ่งใหญ่เหลือเกิน และที่พักม้า\nก็กลืนไปกับทิวทัศน์"
+          "TranslatedText": "ภูเขาไฟด้านหลังนั่น...\nช่างยิ่งใหญ่เหลือเกิน และที่พักม้า\nก็กลืนไปกับทิวทัศน์",
+          "Length": 92
         }
       ]
     },
@@ -62,18 +68,21 @@
         {
           "Line": 54,
           "OriginalText": "I think the ",
-          "TranslatedText": "ฉันว่า"
+          "TranslatedText": "ฉันว่า",
+          "Length": 12
         },
         {
           "Line": 58,
           "OriginalText": "stable was painted from a\nsouthern direction",
           "TranslatedText": "มันถูกวาดจากด้านทิศใต้",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 44
         },
         {
           "Line": 61,
           "OriginalText": "... The composition is\njust so impressive...",
-          "TranslatedText": "...\nการจัดวางช่างน่าทึ่งเหลือเกิน"
+          "TranslatedText": "...\nการจัดวางช่างน่าทึ่งเหลือเกิน",
+          "Length": 44
         }
       ]
     },
@@ -84,22 +93,26 @@
         {
           "Line": 70,
           "OriginalText": "Oh... There\u0027s a shrine on the left-hand\nside of the picture...\n\nI never noticed that shrine before.",
-          "TranslatedText": "โอ้... มีศาลเจ้าอยู่ทางด้านซ้ายมือ\nของภาพด้วยแฮะ...\n\nไม่เคยสังเกตเห็นมาก่อนเลย"
+          "TranslatedText": "โอ้... มีศาลเจ้าอยู่ทางด้านซ้ายมือ\nของภาพด้วยแฮะ...\n\nไม่เคยสังเกตเห็นมาก่อนเลย",
+          "Length": 99
         },
         {
           "Line": 74,
           "OriginalText": "\nI\u0027ve looked at this painting so much,",
-          "TranslatedText": "\nฉันดูภาพนี้มานับครั้งไม่ถ้วนแล้ว"
+          "TranslatedText": "\nฉันดูภาพนี้มานับครั้งไม่ถ้วนแล้ว",
+          "Length": 38
         },
         {
           "Line": 78,
           "OriginalText": "\nand I never noticed it...\nMust be because that\u0027s an odd place for\na shrine to be located. ",
-          "TranslatedText": "\nแต่กลับไม่เคยสังเกตเห็น...\nคงเป็นเพราะศาลเจ้าไม่ควรจะไปอยู่\nตรงที่แบบนั้น "
+          "TranslatedText": "\nแต่กลับไม่เคยสังเกตเห็น...\nคงเป็นเพราะศาลเจ้าไม่ควรจะไปอยู่\nตรงที่แบบนั้น ",
+          "Length": 91
         },
         {
           "Line": 82,
           "OriginalText": "Who would go to\na shrine there, anyway?",
-          "TranslatedText": "จะมีใครไป\nศาลเจ้าตรงที่แบบนั้นกันล่ะ?"
+          "TranslatedText": "จะมีใครไป\nศาลเจ้าตรงที่แบบนั้นกันล่ะ?",
+          "Length": 39
         }
       ]
     },
@@ -110,12 +123,14 @@
         {
           "Line": 91,
           "OriginalText": "Wait, what? You went there?",
-          "TranslatedText": "อะไรนะ? คุณไปมาแล้ว?"
+          "TranslatedText": "อะไรนะ? คุณไปมาแล้ว?",
+          "Length": 27
         },
         {
           "Line": 95,
           "OriginalText": " I guess\nfor some people, there\u0027s nothing to\nstop them from traveling the world.",
-          "TranslatedText": "\nฉันว่า สำหรับบางคนแล้ว\nไม่มีอะไรจะมาหยุดพวกเขาจากการท่องโลกได้"
+          "TranslatedText": "\nฉันว่า สำหรับบางคนแล้ว\nไม่มีอะไรจะมาหยุดพวกเขาจากการท่องโลกได้",
+          "Length": 80
         }
       ]
     }

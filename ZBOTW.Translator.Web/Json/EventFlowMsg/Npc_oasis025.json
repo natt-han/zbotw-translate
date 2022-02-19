@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027d love to!",
-          "TranslatedText": "ด้วยความยินดี!"
+          "TranslatedText": "ด้วยความยินดี!",
+          "Length": 12
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ll pass.",
-          "TranslatedText": "ขอผ่าน"
+          "TranslatedText": "ขอผ่าน",
+          "Length": 10
         }
       ]
     },
@@ -28,48 +30,57 @@
         {
           "Line": 21,
           "OriginalText": "Sa\u0027oten!",
-          "TranslatedText": "Sa\u0027oten!"
+          "TranslatedText": "Sa\u0027oten!",
+          "Length": 8
         },
         {
           "Line": 25,
           "OriginalText": " That\u0027s the ",
-          "TranslatedText": "นั่นมัน "
+          "TranslatedText": "นั่นมัน ",
+          "Length": 12
         },
         {
           "Line": 29,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 32,
           "OriginalText": ",\nisn\u0027t it?!\n\nIt\u0027s absolutely unheard of for anyone\nother than a member of the chief\u0027s family\nto wear it...\n",
-          "TranslatedText": "\nไม่ใช่เหรอ?!\n\nไม่เคยได้ยินมาก่อนเลยว่ามีคนนอกเหนือจาก\nสมาชิกในครอบครัวของหัวหน้า สวมมันได้...\n"
+          "TranslatedText": "\nไม่ใช่เหรอ?!\n\nไม่เคยได้ยินมาก่อนเลยว่ามีคนนอกเหนือจาก\nสมาชิกในครอบครัวของหัวหน้า สวมมันได้...\n",
+          "Length": 108
         },
         {
           "Line": 38,
           "OriginalText": "If it\u0027s true that your help was critical in\nbringing peace back to the desert...\n\n",
-          "TranslatedText": "มันจริงหรือเปล่า ที่ความช่วยเหลือของคุณนั้น\nมีส่วนสำคัญมากในการนำสันติสุขกลับมา\nสู่ทะเลทราย...\n\n"
+          "TranslatedText": "มันจริงหรือเปล่า ที่ความช่วยเหลือของคุณนั้น\nมีส่วนสำคัญมากในการนำสันติสุขกลับมา\nสู่ทะเลทราย...\n\n",
+          "Length": 82
         },
         {
           "Line": 44,
           "OriginalText": "Just who are you, anyway?",
-          "TranslatedText": "คุณเป็นใครกันแน่เนี่ย?"
+          "TranslatedText": "คุณเป็นใครกันแน่เนี่ย?",
+          "Length": 25
         },
         {
           "Line": 48,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 54,
           "OriginalText": "Oh, it doesn\u0027t matter what your reasons\nare. ",
-          "TranslatedText": "ที่จริงมันก็ไม่สำคัญหรอก\nว่าเหตุผลของคุณคืออะไร"
+          "TranslatedText": "ที่จริงมันก็ไม่สำคัญหรอก\nว่าเหตุผลของคุณคืออะไร",
+          "Length": 45
         },
         {
           "Line": 58,
           "OriginalText": "That you have that helmet clearly\nshows you are a friend to the Gerudo!\nI\u0027ll keep a spot open with my troops for\nyou, so you can join us anytime!",
-          "TranslatedText": "การที่คุณมีหมวกนั่น ก็ชัดเจนอยู่แล้วว่า\nคุณคือเพื่อนของชาว Gerudo!\nฉันจะกันตำแหน่งทหารของเราให้คุณนะ\nคุณจะได้เข้าร่วมกับเราได้เสมอ!"
+          "TranslatedText": "การที่คุณมีหมวกนั่น ก็ชัดเจนอยู่แล้วว่า\nคุณคือเพื่อนของชาว Gerudo!\nฉันจะกันตำแหน่งทหารของเราให้คุณนะ\nคุณจะได้เข้าร่วมกับเราได้เสมอ!",
+          "Length": 145
         }
       ]
     },
@@ -80,18 +91,21 @@
         {
           "Line": 67,
           "OriginalText": "What are you doing in here?! This is the\nbarracks for the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 58
         },
         {
           "Line": 71,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 74,
           "OriginalText": "\u0027s guards, not a\nplace for tourists to gather.\nWe\u0027re on high alert after the recent\ntheft, so you should clear out.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 115
         }
       ]
     },
@@ -102,7 +116,8 @@
         {
           "Line": 83,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         }
       ]
     },
@@ -113,7 +128,8 @@
         {
           "Line": 95,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": "Sav\u0027aaq!"
+          "TranslatedText": "Sav\u0027aaq!",
+          "Length": 8
         }
       ]
     },
@@ -124,7 +140,8 @@
         {
           "Line": 107,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         }
       ]
     },
@@ -135,7 +152,8 @@
         {
           "Line": 119,
           "OriginalText": "You again?! The guards are already \ntense, thanks to those thieves. Please \ndon\u0027t make it worse for them!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 105
         }
       ]
     },
@@ -146,27 +164,32 @@
         {
           "Line": 128,
           "OriginalText": "You again?! How many times do I have\nto tell you before you get it?!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 68
         },
         {
           "Line": 132,
           "OriginalText": "\nGet. ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 6
         },
         {
           "Line": 136,
           "OriginalText": "Out. ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 5
         },
         {
           "Line": 140,
           "OriginalText": "Of. ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 144,
           "OriginalText": "Here!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 5
         }
       ]
     },
@@ -177,64 +200,76 @@
         {
           "Line": 153,
           "OriginalText": "What?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 5
         },
         {
           "Line": 157,
           "OriginalText": " Buliara sent you?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 18
         },
         {
           "Line": 161,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 3
         },
         {
           "Line": 167,
           "OriginalText": "My apologies!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 13
         },
         {
           "Line": 171,
           "OriginalText": " I\u0027m the officer in charge\nof the soldiers, Captain ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 52
         },
         {
           "Line": 175,
           "OriginalText": "Teake",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 178,
           "OriginalText": ".\n\nThe chief\u0027s heirloom was stolen by\nthieves belonging to the Yiga Clan\nthe other day, so everyone is on edge...",
-          "TranslatedText": ""
+          "TranslatedText": "",
+          "Length": 113
         },
         {
           "Line": 182,
           "OriginalText": "\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         },
         {
           "Line": 188,
           "OriginalText": "We\u0027ve determined that the Yiga\u0027s hideout\nis in ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 47
         },
         {
           "Line": 192,
           "OriginalText": "Karusa Valley",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 195,
           "OriginalText": ", but...\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 10
         },
         {
           "Line": 201,
           "OriginalText": "The soldiers are all exhausted, so\nI was just thinking about requesting\nsome extra help...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 90
         }
       ]
     },
@@ -245,33 +280,39 @@
         {
           "Line": 210,
           "OriginalText": "This should be something we take care of\non our own, but the soldiers are just\nso exhausted...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 95
         },
         {
           "Line": 216,
           "OriginalText": "We know the Yiga Clan hideout is in\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 36
         },
         {
           "Line": 220,
           "OriginalText": "Karusa Valley",
           "TranslatedText": null,
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 223,
           "OriginalText": ", but we can\u0027t find a way\nto get in...\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 39
         },
         {
           "Line": 229,
           "OriginalText": "Your help in this matter is more than\nwelcome.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 46
         },
         {
           "Line": 233,
           "OriginalText": " Please talk with the other\nsoldiers if you have time.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 54
         }
       ]
     },
@@ -282,44 +323,52 @@
         {
           "Line": 242,
           "OriginalText": "I heard all about it from Buliara! You\u0027ve\ndone well to bring our chief\u0027s heirloom\nback to us!\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 94
         },
         {
           "Line": 248,
           "OriginalText": "Now the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 8
         },
         {
           "Line": 252,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 255,
           "OriginalText": " should finally be able to\nrelax a little...\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 46
         },
         {
           "Line": 261,
           "OriginalText": "All that\u0027s left is that ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 24
         },
         {
           "Line": 265,
           "OriginalText": "Divine Beast",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 268,
           "OriginalText": "...\n\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 6
         },
         {
           "Line": 274,
           "OriginalText": "In any case, I thank you from the bottom\nof my heart for your help in this case.\nI won\u0027t forget it.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 99
         }
       ]
     },
@@ -334,7 +383,8 @@
         {
           "Line": 283,
           "OriginalText": "Oh, brave Hylian vai! Will you consider\njoining our forces?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 59
         }
       ]
     },
@@ -345,23 +395,27 @@
         {
           "Line": 300,
           "OriginalText": "Ha ha ha! That\u0027s reassuring to hear!\n\n\nHowever, I already spoke with the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 73
         },
         {
           "Line": 304,
           "OriginalText": "chief",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 307,
           "OriginalText": "\nabout you...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 13
         },
         {
           "Line": 311,
           "OriginalText": " You\u0027re on a very important\nmission, aren\u0027t you?\nOnce you\u0027ve finished that task, we\u0027d\ngladly accept you alongside us!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 117
         }
       ]
     },
@@ -372,28 +426,33 @@
         {
           "Line": 320,
           "OriginalText": "Oh, really? I\u0027m sorry to hear that...\n\n\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 40
         },
         {
           "Line": 326,
           "OriginalText": "It makes sense, though. I already spoke\nwith the ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 49
         },
         {
           "Line": 330,
           "OriginalText": "chief ",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 333,
           "OriginalText": "about you...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         },
         {
           "Line": 337,
           "OriginalText": " You\u0027re on a\nvery important mission, aren\u0027t you?\nMaybe once that has been handled,\nyou\u0027ll reconsider your answer...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 115
         }
       ]
     },
@@ -408,7 +467,8 @@
         {
           "Line": 346,
           "OriginalText": "To think that the Gerudo would be able\nto learn something of combat from a\nHylian...\nWill you consider joining our forces?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 122
         }
       ]
     },
@@ -419,17 +479,20 @@
         {
           "Line": 366,
           "OriginalText": "Hey, everyone!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 14
         },
         {
           "Line": 370,
           "OriginalText": " Listen up!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 11
         },
         {
           "Line": 377,
           "OriginalText": "\n\n\nThis Hylian vai has agreed to help us,\nso offer her any information you can!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 79
         }
       ]
     },
@@ -440,12 +503,14 @@
         {
           "Line": 386,
           "OriginalText": "Consider yourself a part of our unit!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 37
         },
         {
           "Line": 390,
           "OriginalText": "\nIf you have any questions, my troops\nwill be happy to help.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 60
         }
       ]
     },
@@ -455,7 +520,8 @@
         {
           "Line": 394,
           "OriginalText": "You can\u0027t be serious...",
-          "TranslatedText": "You can\u0027t be serious..."
+          "TranslatedText": "You can\u0027t be serious...",
+          "Length": 23
         }
       ]
     },
@@ -465,7 +531,8 @@
         {
           "Line": 398,
           "OriginalText": "What the heck?!",
-          "TranslatedText": "What the heck?!"
+          "TranslatedText": "What the heck?!",
+          "Length": 15
         }
       ]
     },
@@ -475,7 +542,8 @@
         {
           "Line": 402,
           "OriginalText": "What? A trespasser?!",
-          "TranslatedText": "What? A trespasser?!"
+          "TranslatedText": "What? A trespasser?!",
+          "Length": 20
         }
       ]
     },
@@ -485,7 +553,8 @@
         {
           "Line": 406,
           "OriginalText": "Hot! Put that fire out!",
-          "TranslatedText": "Hot! Put that fire out!"
+          "TranslatedText": "Hot! Put that fire out!",
+          "Length": 23
         }
       ]
     },
@@ -495,7 +564,8 @@
         {
           "Line": 410,
           "OriginalText": "Think you can beat me?",
-          "TranslatedText": "Think you can beat me?"
+          "TranslatedText": "Think you can beat me?",
+          "Length": 22
         }
       ]
     }

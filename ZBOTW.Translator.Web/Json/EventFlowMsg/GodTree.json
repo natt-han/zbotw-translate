@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Of course.",
-          "TranslatedText": "แน่นอน"
+          "TranslatedText": "แน่นอน",
+          "Length": 10
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Korok Trial?",
-          "TranslatedText": "การทดลอง Korok?"
+          "TranslatedText": "การทดลอง Korok?",
+          "Length": 12
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "No.",
-          "TranslatedText": "ไม่"
+          "TranslatedText": "ไม่",
+          "Length": 3
         }
       ]
     },
@@ -38,7 +41,8 @@
         {
           "Line": 25,
           "OriginalText": "This way to the trial!",
-          "TranslatedText": "เส้นทางนี้นำไปสู่การทดลอง!"
+          "TranslatedText": "เส้นทางนี้นำไปสู่การทดลอง!",
+          "Length": 22
         }
       ]
     },
@@ -49,7 +53,8 @@
         {
           "Line": 29,
           "OriginalText": "Summon your courage!",
-          "TranslatedText": "เรียกความกล้าหาญของคุณ!"
+          "TranslatedText": "เรียกความกล้าหาญของคุณ!",
+          "Length": 20
         }
       ]
     },
@@ -60,23 +65,27 @@
         {
           "Line": 38,
           "OriginalText": "A Hylian seeks to attempt the ",
-          "TranslatedText": "Hylian พยายามที่จะเข้า"
+          "TranslatedText": "Hylian พยายามที่จะเข้า",
+          "Length": 30
         },
         {
           "Line": 42,
           "OriginalText": "Korok Trial",
           "TranslatedText": "การทดลอง Korok",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 11
         },
         {
           "Line": 45,
           "OriginalText": "!\nIs that even allowed?",
-          "TranslatedText": "!\nได้รับอนุญาตเหรอ?"
+          "TranslatedText": "!\nได้รับอนุญาตเหรอ?",
+          "Length": 23
         },
         {
           "Line": 49,
           "OriginalText": "\nWho cares!",
-          "TranslatedText": "\nใครจะสนล่ะ!"
+          "TranslatedText": "\nใครจะสนล่ะ!",
+          "Length": 11
         }
       ]
     },
@@ -87,55 +96,65 @@
         {
           "Line": 61,
           "OriginalText": "The ",
-          "TranslatedText": "การทดลอง"
+          "TranslatedText": "การทดลอง",
+          "Length": 4
         },
         {
           "Line": 65,
           "OriginalText": "Korok Trials ",
           "TranslatedText": "Korok Trials ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 68,
           "OriginalText": "are challenges Koroks\nmust complete in order to become\nesteemed members of Korok society!\n",
-          "TranslatedText": "เป็นความท้าทายของ Koroks\nต้องทําให้เสร็จสมบูรณ์ เพื่อจะเป็น\nสมาชิกที่นับถือของสังคม Korok!\n"
+          "TranslatedText": "เป็นความท้าทายของ Koroks\nต้องทําให้เสร็จสมบูรณ์ เพื่อจะเป็น\nสมาชิกที่นับถือของสังคม Korok!\n",
+          "Length": 90
         },
         {
           "Line": 74,
           "OriginalText": "Or something like that...",
-          "TranslatedText": "หรืออะไรทํานองนั้น..."
+          "TranslatedText": "หรืออะไรทํานองนั้น...",
+          "Length": 25
         },
         {
           "Line": 78,
           "OriginalText": "\n*cough*\n\n",
-          "TranslatedText": "\n*ไอ*\n\n"
+          "TranslatedText": "\n*ไอ*\n\n",
+          "Length": 10
         },
         {
           "Line": 84,
           "OriginalText": "The three ",
-          "TranslatedText": "ทั้งสาม"
+          "TranslatedText": "ทั้งสาม",
+          "Length": 10
         },
         {
           "Line": 88,
           "OriginalText": "trials",
           "TranslatedText": "การทดลอง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 6
         },
         {
           "Line": 91,
           "OriginalText": " must be completed\nalone. As for what challenges the ",
-          "TranslatedText": "จะต้องสำเร็จ\nตามลำพัง สำหรับสิ่งที่ท้าทาย"
+          "TranslatedText": "จะต้องสำเร็จ\nตามลำพัง สำหรับสิ่งที่ท้าทาย",
+          "Length": 53
         },
         {
           "Line": 95,
           "OriginalText": "trials",
           "TranslatedText": "การทดลอง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 6
         },
         {
           "Line": 98,
           "OriginalText": "\nhold, you\u0027ll just have wait and see.",
-          "TranslatedText": "\nเดี๋ยวก่อน คุณแค่รอดู"
+          "TranslatedText": "\nเดี๋ยวก่อน คุณแค่รอดู",
+          "Length": 37
         }
       ]
     },
@@ -151,18 +170,21 @@
         {
           "Line": 102,
           "OriginalText": "Are you here to attempt my ",
-          "TranslatedText": "คุณอยู่ที่นี่เพื่อลอง"
+          "TranslatedText": "คุณอยู่ที่นี่เพื่อลอง",
+          "Length": 27
         },
         {
           "Line": 106,
           "OriginalText": "Korok Trial",
           "TranslatedText": "Korok Trial",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 11
         },
         {
           "Line": 109,
           "OriginalText": "?",
-          "TranslatedText": "ของฉัน?"
+          "TranslatedText": "ของฉัน?",
+          "Length": 1
         }
       ]
     },
@@ -173,12 +195,14 @@
         {
           "Line": 127,
           "OriginalText": "Oh, wow! You really want to try it?!",
-          "TranslatedText": "โอ้ว้าว! คุณอยากลองจริงเหรอ!"
+          "TranslatedText": "โอ้ว้าว! คุณอยากลองจริงเหรอ!",
+          "Length": 36
         },
         {
           "Line": 131,
           "OriginalText": "\nI guess it was worth asking after all!",
-          "TranslatedText": "\nฉันคิดว่ามันคุ้มค่าที่จะถามหลังจากทั้งหมด!"
+          "TranslatedText": "\nฉันคิดว่ามันคุ้มค่าที่จะถามหลังจากทั้งหมด!",
+          "Length": 39
         }
       ]
     },
@@ -189,7 +213,8 @@
         {
           "Line": 140,
           "OriginalText": "Well, if you suddenly get the urge to\nbecome a productive member of Korok\nsociety, come on back!",
-          "TranslatedText": "ถ้าคุณได้รับแรงกระตุ้นอย่างกะทันหันที่จะ\nกลายเป็นสมาชิกที่มีประสิทธิภาพของ Korok\nสังคมกลับมา!"
+          "TranslatedText": "ถ้าคุณได้รับแรงกระตุ้นอย่างกะทันหันที่จะ\nกลายเป็นสมาชิกที่มีประสิทธิภาพของ Korok\nสังคมกลับมา!",
+          "Length": 96
         }
       ]
     },
@@ -200,49 +225,58 @@
         {
           "Line": 149,
           "OriginalText": "Let me tell you about the ",
-          "TranslatedText": "ให้ฉันบอกคุณเกี่ยวกับ "
+          "TranslatedText": "ให้ฉันบอกคุณเกี่ยวกับ ",
+          "Length": 26
         },
         {
           "Line": 153,
           "OriginalText": "trial",
           "TranslatedText": "การทดลอง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 156,
           "OriginalText": ".\n\n\nAll you need to do is keep going and\nnot get lost in the mist! Easy, right?\n\n",
-          "TranslatedText": ".\n\n\nสิ่งที่คุณต้องทำคือไปเรื่อยๆ และ\nไม่หลงทางในหมอก! ง่ายใช่มั้ย\n"
+          "TranslatedText": ".\n\n\nสิ่งที่คุณต้องทำคือไปเรื่อยๆ และ\nไม่หลงทางในหมอก! ง่ายใช่มั้ย\n",
+          "Length": 81
         },
         {
           "Line": 162,
           "OriginalText": "What\u0027s wrong? You don\u0027t look very\nexcited.\n\n",
-          "TranslatedText": "เกิดอะไรขึ้น คุณดู\nตื่นเต้นจัง\n\n"
+          "TranslatedText": "เกิดอะไรขึ้น คุณดู\nตื่นเต้นจัง\n\n",
+          "Length": 44
         },
         {
           "Line": 168,
           "OriginalText": "But don\u0027t worry—",
-          "TranslatedText": "แต่ไม่ต้องกังวล—"
+          "TranslatedText": "แต่ไม่ต้องกังวล—",
+          "Length": 16
         },
         {
           "Line": 172,
           "OriginalText": "I\u0027ve got a cryptic little\nhint for you!\n\n",
-          "TranslatedText": "ฉันมีความลับเล็กๆ น้อยๆ\nคำใบ้สำหรับคุณ!\n\n"
+          "TranslatedText": "ฉันมีความลับเล็กๆ น้อยๆ\nคำใบ้สำหรับคุณ!\n\n",
+          "Length": 41
         },
         {
           "Line": 178,
           "OriginalText": "\u0022The hungry trees will show you the way.\nSpy their ",
-          "TranslatedText": "\u0022ต้นไม้ที่หิวโหยจะแสดงวิธีการ\nหา"
+          "TranslatedText": "\u0022ต้นไม้ที่หิวโหยจะแสดงวิธีการ\nหา",
+          "Length": 51
         },
         {
           "Line": 182,
           "OriginalText": "iron",
           "TranslatedText": "เหล็ก",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 4
         },
         {
           "Line": 185,
           "OriginalText": " to win the day.\u0022\n\nDidn\u0027t I make that sound cool?\nThink about that as you take on the trial.",
-          "TranslatedText": "ของพวกเขา เพื่อชนะวันนั้น\u0022\n\nฉันไม่ได้ทำให้มันฟังดูเท่เหรอ?\nลองคิดดูในขณะที่คุณเข้ารับการทดลอง"
+          "TranslatedText": "ของพวกเขา เพื่อชนะวันนั้น\u0022\n\nฉันไม่ได้ทำให้มันฟังดูเท่เหรอ?\nลองคิดดูในขณะที่คุณเข้ารับการทดลอง",
+          "Length": 92
         }
       ]
     },
@@ -253,18 +287,21 @@
         {
           "Line": 194,
           "OriginalText": "\u0022The hungry trees will show you the way.\nSpy their ",
-          "TranslatedText": "\u0022ต้นไม้ที่หิว\nจะแสดงวิธีการหา"
+          "TranslatedText": "\u0022ต้นไม้ที่หิว\nจะแสดงวิธีการหา",
+          "Length": 51
         },
         {
           "Line": 198,
           "OriginalText": "iron ",
           "TranslatedText": "เหล็ก",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 201,
           "OriginalText": "to win the day.\u0022\n\nSounds pretty cool considering I just\ncame up with it on the spot, huh?",
-          "TranslatedText": "ของพวกเขา เพื่อชนะวันนั้น\u0022\n\nฟังดูเจ๋งมาก เมื่อพิจารณาว่าฉันแค่\nมาพร้อมกับมันในจุดนี้ huh?"
+          "TranslatedText": "ของพวกเขา เพื่อชนะวันนั้น\u0022\n\nฟังดูเจ๋งมาก เมื่อพิจารณาว่าฉันแค่\nมาพร้อมกับมันในจุดนี้ huh?",
+          "Length": 89
         }
       ]
     }

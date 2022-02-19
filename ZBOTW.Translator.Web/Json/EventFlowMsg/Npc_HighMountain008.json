@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Looking to sell.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 16
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Bye.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "OK.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 3
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Never mind.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 11
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Actually, never mind.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 21
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "All of them.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 12
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 37,
           "OriginalText": "What are you looking to sell?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 29
         }
       ]
     },
@@ -81,19 +88,22 @@
         {
           "Line": 41,
           "OriginalText": "I\u0027ll do ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 8
         },
         {
           "Line": 49,
           "OriginalText": " rupees",
           "TranslatedText": null,
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 52,
           "OriginalText": ". Is that OK? ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 14
         }
       ]
     },
@@ -103,12 +113,14 @@
         {
           "Line": 69,
           "OriginalText": "Thanks!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 7
         },
         {
           "Line": 73,
           "OriginalText": "\nWant to sell anything else?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 28
         }
       ]
     },
@@ -118,12 +130,14 @@
         {
           "Line": 82,
           "OriginalText": "Thanks! ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 8
         },
         {
           "Line": 86,
           "OriginalText": "Anything else?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 14
         }
       ]
     },
@@ -133,12 +147,14 @@
         {
           "Line": 95,
           "OriginalText": "All right! ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 11
         },
         {
           "Line": 99,
           "OriginalText": "Something else?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 15
         }
       ]
     },
@@ -148,12 +164,14 @@
         {
           "Line": 108,
           "OriginalText": "Thank you much! ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 16
         },
         {
           "Line": 112,
           "OriginalText": "Anything else?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 14
         }
       ]
     },
@@ -163,7 +181,8 @@
         {
           "Line": 116,
           "OriginalText": "Oh, that\u0027s too bad.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 19
         }
       ]
     },
@@ -173,7 +192,8 @@
         {
           "Line": 120,
           "OriginalText": "I\u0027ll take anything off your hands!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 34
         }
       ]
     },
@@ -183,7 +203,8 @@
         {
           "Line": 124,
           "OriginalText": "Take your time choosing.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 24
         }
       ]
     },
@@ -193,7 +214,8 @@
         {
           "Line": 128,
           "OriginalText": "Come on. I\u0027m ready to buy, buy, buy!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 36
         }
       ]
     },
@@ -203,7 +225,8 @@
         {
           "Line": 132,
           "OriginalText": "Show me what you want to sell!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 30
         }
       ]
     },
@@ -214,7 +237,8 @@
         {
           "Line": 141,
           "OriginalText": "Thanks a ton!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 13
         }
       ]
     },
@@ -225,7 +249,8 @@
         {
           "Line": 150,
           "OriginalText": "Thanks for your purchase!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 25
         }
       ]
     },
@@ -236,7 +261,8 @@
         {
           "Line": 159,
           "OriginalText": "Oh, yeah! That\u0027s how you shop!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 30
         }
       ]
     },
@@ -247,7 +273,8 @@
         {
           "Line": 168,
           "OriginalText": "That\u0027s perfect for you!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 23
         }
       ]
     },
@@ -263,7 +290,8 @@
         {
           "Line": 172,
           "OriginalText": "How many will you sell me?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 26
         }
       ]
     },
@@ -278,19 +306,22 @@
         {
           "Line": 185,
           "OriginalText": "I can offer you ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 16
         },
         {
           "Line": 193,
           "OriginalText": " rupees",
           "TranslatedText": null,
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 196,
           "OriginalText": ". Deal?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 7
         }
       ]
     },
@@ -301,12 +332,14 @@
         {
           "Line": 208,
           "OriginalText": "Sorry,",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 6
         },
         {
           "Line": 212,
           "OriginalText": " but I\u0027m not in the market for that.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 36
         }
       ]
     },
@@ -317,12 +350,14 @@
         {
           "Line": 221,
           "OriginalText": "Hmm...",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 6
         },
         {
           "Line": 225,
           "OriginalText": " Why don\u0027t you take that off\nbeforehand.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 40
         }
       ]
     },
@@ -337,24 +372,28 @@
         {
           "Line": 229,
           "OriginalText": "You want to sell just one, then?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 32
         },
         {
           "Line": 233,
           "OriginalText": "\nI can give you ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 16
         },
         {
           "Line": 241,
           "OriginalText": " rupees",
           "TranslatedText": null,
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 244,
           "OriginalText": ".",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         }
       ]
     },
@@ -368,30 +407,35 @@
         {
           "Line": 256,
           "OriginalText": "All ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 4
         },
         {
           "Line": 261,
           "OriginalText": " of them?",
           "TranslatedText": null,
-          "Variable": "Shop_TradeItemNum"
+          "Variable": "Shop_TradeItemNum",
+          "Length": 9
         },
         {
           "Line": 265,
           "OriginalText": "\nI can offer you ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 17
         },
         {
           "Line": 273,
           "OriginalText": " rupees",
           "TranslatedText": null,
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 276,
           "OriginalText": ".",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         }
       ]
     },
@@ -405,19 +449,22 @@
         {
           "Line": 288,
           "OriginalText": "That one will cost you ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 23
         },
         {
           "Line": 296,
           "OriginalText": " rupees",
           "TranslatedText": null,
           "Colour": "red",
-          "Variable": "Shop_SelectItemPrice"
+          "Variable": "Shop_SelectItemPrice",
+          "Length": 7
         },
         {
           "Line": 299,
           "OriginalText": "!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         }
       ]
     },
@@ -427,12 +474,14 @@
         {
           "Line": 316,
           "OriginalText": "Too bad!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 8
         },
         {
           "Line": 320,
           "OriginalText": " Let me know if you change your\nmind.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 37
         }
       ]
     },
@@ -443,7 +492,8 @@
         {
           "Line": 324,
           "OriginalText": "Armor! Warm clothes!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 20
         }
       ]
     },
@@ -454,18 +504,21 @@
         {
           "Line": 333,
           "OriginalText": "Welcome to ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 11
         },
         {
           "Line": 337,
           "OriginalText": "Brazen Beak",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 340,
           "OriginalText": "!\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 2
         }
       ]
     },
@@ -476,23 +529,27 @@
         {
           "Line": 349,
           "OriginalText": "Hey, thanks for coming out so late!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 35
         },
         {
           "Line": 353,
           "OriginalText": "\n",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         },
         {
           "Line": 357,
           "OriginalText": "Brazen Beak ",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 360,
           "OriginalText": "is open 24 hours!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 17
         }
       ]
     },
@@ -503,7 +560,8 @@
         {
           "Line": 369,
           "OriginalText": "Come again, friend.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 19
         }
       ]
     },
@@ -514,7 +572,8 @@
         {
           "Line": 378,
           "OriginalText": "Thanks for your business!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 25
         }
       ]
     },
@@ -525,12 +584,14 @@
         {
           "Line": 387,
           "OriginalText": "Looks like you already have the whole\nRito getup!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 49
         },
         {
           "Line": 391,
           "OriginalText": " That\u0027s great and all, but what\nam I supposed to offer you now?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 63
         }
       ]
     },
@@ -541,12 +602,14 @@
         {
           "Line": 400,
           "OriginalText": "Hey, friend! ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 13
         },
         {
           "Line": 404,
           "OriginalText": "\nThanks for coming by.",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 22
         }
       ]
     },
@@ -557,7 +620,8 @@
         {
           "Line": 413,
           "OriginalText": "Going on a shopping spree, are we?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 34
         }
       ]
     },
@@ -572,7 +636,8 @@
         {
           "Line": 422,
           "OriginalText": "What can I do for you?",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 22
         }
       ]
     },
@@ -583,23 +648,27 @@
         {
           "Line": 439,
           "OriginalText": "Oh!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 3
         },
         {
           "Line": 443,
           "OriginalText": " I heard there\u0027s a village somewhere\nthat can ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 46
         },
         {
           "Line": 447,
           "OriginalText": "dye ",
           "TranslatedText": null,
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 4
         },
         {
           "Line": 450,
           "OriginalText": "your clothes and armor\ndifferent colors.\nSo you could always buy another Rito\noutfit and dye it another color. Color\ncoordination is serious business!",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 150
         }
       ]
     }

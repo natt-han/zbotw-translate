@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027m over 100!",
-          "TranslatedText": "เกิน 100 แล้ว!"
+          "TranslatedText": "เกิน 100 แล้ว!",
+          "Length": 13
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -28,7 +30,8 @@
         {
           "Line": 16,
           "OriginalText": "Listen to this...",
-          "TranslatedText": "ฟังนี่นะ..."
+          "TranslatedText": "ฟังนี่นะ...",
+          "Length": 17
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "Line": 20,
           "OriginalText": "Heeeeehee...",
-          "TranslatedText": "ฮี่ๆ..."
+          "TranslatedText": "ฮี่ๆ...",
+          "Length": 12
         }
       ]
     },
@@ -50,18 +54,21 @@
         {
           "Line": 29,
           "OriginalText": "Good grief... I can\u0027t believe the ",
-          "TranslatedText": "อะไรกันเนี่ย... ไม่อยากเชื่อเลยว่า\n"
+          "TranslatedText": "อะไรกันเนี่ย... ไม่อยากเชื่อเลยว่า\n",
+          "Length": 34
         },
         {
           "Line": 33,
           "OriginalText": "chief\u0027s\nheirloom",
           "TranslatedText": "มรดกของหัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 36,
           "OriginalText": " was stolen by thieves...",
-          "TranslatedText": "จะถูกขโมยไป..."
+          "TranslatedText": "จะถูกขโมยไป...",
+          "Length": 25
         }
       ]
     },
@@ -72,18 +79,21 @@
         {
           "Line": 45,
           "OriginalText": "Oh, the helmet that was supposed to be\nLady Urbosa\u0027s favorite, right?\n\nIt\u0027s been handed down from chief to\nchief for generations. Apparently the\n",
-          "TranslatedText": "อ้อ หมวกที่เป็นที่โปรดปราณของ\nLady Urbosa ใช่มั้ย?\n\nมันถูกสืบทอดจากหัวหน้าสู่หัวหน้า\nมาหลายรุ่นแล้ว ดูเหมือนว่า\n"
+          "TranslatedText": "อ้อ หมวกที่เป็นที่โปรดปราณของ\nLady Urbosa ใช่มั้ย?\n\nมันถูกสืบทอดจากหัวหน้าสู่หัวหน้า\nมาหลายรุ่นแล้ว ดูเหมือนว่า\n",
+          "Length": 145
         },
         {
           "Line": 49,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 52,
           "OriginalText": " is pretty distressed.",
-          "TranslatedText": "จะค่อนข้างเครียดเลย"
+          "TranslatedText": "จะค่อนข้างเครียดเลย",
+          "Length": 22
         }
       ]
     },
@@ -94,7 +104,8 @@
         {
           "Line": 61,
           "OriginalText": "Hey, have you heard? Apparently the\nchief\u0027s heirloom has been returned!",
-          "TranslatedText": "นี่ ได้ยินข่าวไหม? ดูเหมือนว่า\nมรดกของหัวหน้าจะกลับมาแล้ว!"
+          "TranslatedText": "นี่ ได้ยินข่าวไหม? ดูเหมือนว่า\nมรดกของหัวหน้าจะกลับมาแล้ว!",
+          "Length": 71
         }
       ]
     },
@@ -105,7 +116,8 @@
         {
           "Line": 70,
           "OriginalText": "She\u0027s still so small, too... Poor thing...",
-          "TranslatedText": "เธอยังเด็กมากอีกด้วย... น่าสงสารจัง..."
+          "TranslatedText": "เธอยังเด็กมากอีกด้วย... น่าสงสารจัง...",
+          "Length": 42
         }
       ]
     },
@@ -116,7 +128,8 @@
         {
           "Line": 79,
           "OriginalText": "They have an idea of who committed the\ntheft, but the thieves aren\u0027t amateurs...\nI heard they\u0027re professional assassins.",
-          "TranslatedText": "พวกเขาพอจะรู้ว่าใครที่น่าจะเป็นคนขโมยไป\nแต่คนที่ขโมยนะไม่ใช่มือสมัครเล่นเลย...\nฉันได้ยินมาว่าพวกนั้นเป็นนักฆ่ามืออาชีพ"
+          "TranslatedText": "พวกเขาพอจะรู้ว่าใครที่น่าจะเป็นคนขโมยไป\nแต่คนที่ขโมยนะไม่ใช่มือสมัครเล่นเลย...\nฉันได้ยินมาว่าพวกนั้นเป็นนักฆ่ามืออาชีพ",
+          "Length": 120
         }
       ]
     },
@@ -127,7 +140,8 @@
         {
           "Line": 88,
           "OriginalText": "That explains why the barracks have\nbeen noisier than usual.",
-          "TranslatedText": "นั่นอธิบายได้ว่าทำไม ค่ายทหารถึงเสียงดัง\nกว่าปกติ"
+          "TranslatedText": "นั่นอธิบายได้ว่าทำไม ค่ายทหารถึงเสียงดัง\nกว่าปกติ",
+          "Length": 60
         }
       ]
     },
@@ -138,23 +152,27 @@
         {
           "Line": 97,
           "OriginalText": "I heard, I heard!",
-          "TranslatedText": "ฉันได้ยินมาๆ!"
+          "TranslatedText": "ฉันได้ยินมาๆ!",
+          "Length": 17
         },
         {
           "Line": 101,
           "OriginalText": "\nSomething about an amazing Hylian\nvai, right?\nThat\u0027s got to take a lot of weight off\nthe ",
-          "TranslatedText": "\nเรื่องเกี่ยวกับ vai ชาว Hylian ที่สุดยอดมาก\nคนหนึ่ง ใช่มั้ย?\nนั่นคงแบ่งเบาภาระจาก"
+          "TranslatedText": "\nเรื่องเกี่ยวกับ vai ชาว Hylian ที่สุดยอดมาก\nคนหนึ่ง ใช่มั้ย?\nนั่นคงแบ่งเบาภาระจาก",
+          "Length": 90
         },
         {
           "Line": 105,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 108,
           "OriginalText": "\u0027s shoulders, huh?",
-          "TranslatedText": "\nได้มากเลยสินะ?"
+          "TranslatedText": "\nได้มากเลยสินะ?",
+          "Length": 18
         }
       ]
     },
@@ -165,7 +183,8 @@
         {
           "Line": 117,
           "OriginalText": "But there\u0027s still a chance that the thieves\nwill come back here, so we\u0027ve got to\nkeep vigilant for a while, right?",
-          "TranslatedText": "แต่ยังมีโอกาสที่พวกโจรจะกลับมาที่นี่อีก\nดังนั้นเราจึงต้องเฝ้าระวังต่อไป ถูกไหม?"
+          "TranslatedText": "แต่ยังมีโอกาสที่พวกโจรจะกลับมาที่นี่อีก\nดังนั้นเราจึงต้องเฝ้าระวังต่อไป ถูกไหม?",
+          "Length": 114
         }
       ]
     },
@@ -176,7 +195,8 @@
         {
           "Line": 126,
           "OriginalText": "Speaking of which, the Divine Beast\nhas gotten quiet, huh?",
-          "TranslatedText": "จะว่าไปแล้ว อสูรศักดิ์สิทธิ์มันเงียบไปแล้วเหรอ?"
+          "TranslatedText": "จะว่าไปแล้ว อสูรศักดิ์สิทธิ์มันเงียบไปแล้วเหรอ?",
+          "Length": 58
         }
       ]
     },
@@ -187,7 +207,8 @@
         {
           "Line": 135,
           "OriginalText": "Now that you mention it, I haven\u0027t\nnoticed any rocking or shaking at all...",
-          "TranslatedText": "พอเธอพูดมาแล้ว ฉันก็ไม่ได้ยินเสียง\nหรือการสั่นสะเทือนเลยนะ..."
+          "TranslatedText": "พอเธอพูดมาแล้ว ฉันก็ไม่ได้ยินเสียง\nหรือการสั่นสะเทือนเลยนะ...",
+          "Length": 75
         }
       ]
     },
@@ -198,7 +219,8 @@
         {
           "Line": 144,
           "OriginalText": "I wonder if this has something to do with\nthe chief\u0027s heirloom being returned...",
-          "TranslatedText": "ฉันสงสัยว่ามันเกี่ยวอะไรกับการที่\nมรดกของหัวหน้ากลับมาหรือเปล่านะ..."
+          "TranslatedText": "ฉันสงสัยว่ามันเกี่ยวอะไรกับการที่\nมรดกของหัวหน้ากลับมาหรือเปล่านะ...",
+          "Length": 80
         }
       ]
     },
@@ -213,7 +235,8 @@
         {
           "Line": 153,
           "OriginalText": "You definitely don\u0027t look old\nenough to drink here yet...\nHow old are you, really?",
-          "TranslatedText": "คุณดูยังอายุไม่มากพอที่จะดื่มที่นี่เลยนะ...\nคุณอายุเท่าไหร่กัน"
+          "TranslatedText": "คุณดูยังอายุไม่มากพอที่จะดื่มที่นี่เลยนะ...\nคุณอายุเท่าไหร่กัน",
+          "Length": 82
         }
       ]
     },
@@ -224,22 +247,26 @@
         {
           "Line": 170,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 177,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 183,
           "OriginalText": "AH HA HA!",
-          "TranslatedText": "ฮ่าๆๆ!"
+          "TranslatedText": "ฮ่าๆๆ!",
+          "Length": 9
         },
         {
           "Line": 187,
           "OriginalText": "\nWhat a funny vai you are! When you\u0027re\nolder, let\u0027s have a drink together!",
-          "TranslatedText": "\nช่างเป็น vai ที่ตลกเหลือเกินนะ!\nไว้โตกว่านี้แล้วมาดื่มด้วยกันนะ!"
+          "TranslatedText": "\nช่างเป็น vai ที่ตลกเหลือเกินนะ!\nไว้โตกว่านี้แล้วมาดื่มด้วยกันนะ!",
+          "Length": 74
         }
       ]
     },
@@ -250,7 +277,8 @@
         {
           "Line": 196,
           "OriginalText": "These drinks are for adults, got it?",
-          "TranslatedText": "เครื่องดื่มพวกนี้สำหรับผู้ใหญ่เท่านั้น เข้าใจนะ?"
+          "TranslatedText": "เครื่องดื่มพวกนี้สำหรับผู้ใหญ่เท่านั้น เข้าใจนะ?",
+          "Length": 36
         }
       ]
     },
@@ -261,18 +289,21 @@
         {
           "Line": 205,
           "OriginalText": "The desert gets pretty cold at night,\nyou know...\n\nYou\u0027ll be fine dressed like that in town,\nbut if you go outside the walls, you\u0027ll\ncatch a cold or worse, for sure!\nIf you don\u0027t have a ",
-          "TranslatedText": "ทะเลทรายอากาศหนาวเอาเรื่องเลย\nในตอนกลางคืน...\n\nแต่งตัวแบบนั้นในเมืองน่ะไม่เป็นอะไรหรอก\nแต่ถ้าออกไปนอกกำแพงแล้วก็ ได้เป็นหวัด\nหรือหนักกว่านั้นแน่!\nถ้าคุณไม่มี "
+          "TranslatedText": "ทะเลทรายอากาศหนาวเอาเรื่องเลย\nในตอนกลางคืน...\n\nแต่งตัวแบบนั้นในเมืองน่ะไม่เป็นอะไรหรอก\nแต่ถ้าออกไปนอกกำแพงแล้วก็ ได้เป็นหวัด\nหรือหนักกว่านั้นแน่!\nถ้าคุณไม่มี ",
+          "Length": 186
         },
         {
           "Line": 209,
           "OriginalText": "warm doublet",
           "TranslatedText": "warm doublet",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 212,
           "OriginalText": ", you\u0027d\nbetter rest at a hotel until morning.",
-          "TranslatedText": " ละก็\nคุณควรพักในโรงแรมจนกว่าจะเช้าจะดีกว่า"
+          "TranslatedText": " ละก็\nคุณควรพักในโรงแรมจนกว่าจะเช้าจะดีกว่า",
+          "Length": 45
         }
       ]
     },
@@ -283,12 +314,14 @@
         {
           "Line": 221,
           "OriginalText": "Oh? Who are you again?",
-          "TranslatedText": "อ้อ? คุณเป็นใครนะ?"
+          "TranslatedText": "อ้อ? คุณเป็นใครนะ?",
+          "Length": 22
         },
         {
           "Line": 225,
           "OriginalText": " I might well\nknow you, but then again... Maybe not!\n\nI\u0027ve had fun drinking today, too!\nI\u0027ve got to do this again tomorrow!",
-          "TranslatedText": " ฉันอาจจะรู้จักคุณ \nแต่ก็...อาจจะไม่!\n\nวันนี้ฉันก็ดื่มสนุกมาก!\nพรุ่งนี้ฉันจะเอาอีก!"
+          "TranslatedText": " ฉันอาจจะรู้จักคุณ \nแต่ก็...อาจจะไม่!\n\nวันนี้ฉันก็ดื่มสนุกมาก!\nพรุ่งนี้ฉันจะเอาอีก!",
+          "Length": 123
         }
       ]
     },
@@ -299,7 +332,8 @@
         {
           "Line": 237,
           "OriginalText": "Urk...I don\u0027t feel so good...",
-          "TranslatedText": "ฉันรู้สึกไม่ดีเลย..."
+          "TranslatedText": "ฉันรู้สึกไม่ดีเลย...",
+          "Length": 29
         }
       ]
     },
@@ -310,12 +344,14 @@
         {
           "Line": 249,
           "OriginalText": "Sorry, but can you please keep it down?",
-          "TranslatedText": "ขอโทษนะ แต่ช่วยเบาเสียงหน่อยได้ไหม?"
+          "TranslatedText": "ขอโทษนะ แต่ช่วยเบาเสียงหน่อยได้ไหม?",
+          "Length": 39
         },
         {
           "Line": 253,
           "OriginalText": "\nI\u0027ve got an awful headache...",
-          "TranslatedText": "\nฉันปวดหัวมากเลย..."
+          "TranslatedText": "\nฉันปวดหัวมากเลย...",
+          "Length": 30
         }
       ]
     },
@@ -326,7 +362,8 @@
         {
           "Line": 262,
           "OriginalText": "Nali and I chat every day, but we never\ntire of talking about the same things.\n\nWhen I\u0027m with my vai friends, I feel like\nwe could talk forever.",
-          "TranslatedText": "Nali กับฉันคุยกันทุกวัน แต่เราไม่เคยเบื่อ\nกับการพูดเรื่องเดิมๆ\n\nเวลาอยู่กับเพื่อนของฉัน ฉันรู้สึกเหมือนเรา\nสามารถคุยกันได้ตลอดไป"
+          "TranslatedText": "Nali กับฉันคุยกันทุกวัน แต่เราไม่เคยเบื่อ\nกับการพูดเรื่องเดิมๆ\n\nเวลาอยู่กับเพื่อนของฉัน ฉันรู้สึกเหมือนเรา\nสามารถคุยกันได้ตลอดไป",
+          "Length": 144
         }
       ]
     },
@@ -337,7 +374,8 @@
         {
           "Line": 276,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         }
       ]
     },
@@ -348,7 +386,8 @@
         {
           "Line": 290,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": "Sav\u0027aaq!"
+          "TranslatedText": "Sav\u0027aaq!",
+          "Length": 8
         }
       ]
     },
@@ -359,7 +398,8 @@
         {
           "Line": 304,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         }
       ]
     },
@@ -370,7 +410,8 @@
         {
           "Line": 313,
           "OriginalText": "Sav\u0027otta...",
-          "TranslatedText": "Sav\u0027otta..."
+          "TranslatedText": "Sav\u0027otta...",
+          "Length": 11
         }
       ]
     },
@@ -381,7 +422,8 @@
         {
           "Line": 322,
           "OriginalText": "Oh, dear...",
-          "TranslatedText": "Oh, dear..."
+          "TranslatedText": "Oh, dear...",
+          "Length": 11
         }
       ]
     },
@@ -392,7 +434,8 @@
         {
           "Line": 331,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         }
       ]
     }

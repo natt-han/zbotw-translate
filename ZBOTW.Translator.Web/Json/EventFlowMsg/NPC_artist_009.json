@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "A suspicious place?",
-          "TranslatedText": "จุดที่น่าจะใช่?"
+          "TranslatedText": "จุดที่น่าจะใช่?",
+          "Length": 19
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Sounds great!",
-          "TranslatedText": "ดีเลย!"
+          "TranslatedText": "ดีเลย!",
+          "Length": 13
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "No, thanks.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Take me there?",
-          "TranslatedText": "พาฉันไปที่นั่น?"
+          "TranslatedText": "พาฉันไปที่นั่น?",
+          "Length": 14
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Yeah, I understand.",
-          "TranslatedText": "เข้าใจ"
+          "TranslatedText": "เข้าใจ",
+          "Length": 19
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Take me there?",
-          "TranslatedText": "พาฉันไปที่นั่น?"
+          "TranslatedText": "พาฉันไปที่นั่น?",
+          "Length": 14
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "I\u0027ll help you out.",
-          "TranslatedText": "ฉันจะช่วยเอง"
+          "TranslatedText": "ฉันจะช่วยเอง",
+          "Length": 18
         }
       ]
     },
@@ -87,43 +95,51 @@
         {
           "Line": 45,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 49,
           "OriginalText": "\n\n\nThis...",
-          "TranslatedText": "\nนี่..."
+          "TranslatedText": "\nนี่...",
+          "Length": 10
         },
         {
           "Line": 53,
           "OriginalText": "is the ",
-          "TranslatedText": "นี่คือ "
+          "TranslatedText": "นี่คือ ",
+          "Length": 7
         },
         {
           "Line": 57,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 20
         },
         {
           "Line": 60,
           "OriginalText": "?\n\n\n",
-          "TranslatedText": " งั้นเหรอ?\n"
+          "TranslatedText": " งั้นเหรอ?\n",
+          "Length": 4
         },
         {
           "Line": 66,
           "OriginalText": "It\u0027s certainly beautiful, but...",
-          "TranslatedText": "มันก็สวยแหละนะ แต่ว่า..."
+          "TranslatedText": "มันก็สวยแหละนะ แต่ว่า...",
+          "Length": 32
         },
         {
           "Line": 70,
           "OriginalText": "I thought\nit would be more...",
-          "TranslatedText": "ฉันนึกว่า\nมันจะ..."
+          "TranslatedText": "ฉันนึกว่า\nมันจะ...",
+          "Length": 29
         },
         {
           "Line": 74,
           "OriginalText": "sacred and elegant.",
-          "TranslatedText": "ดูสง่างามและศักดิ์สิทธิ์กว่านี้"
+          "TranslatedText": "ดูสง่างามและศักดิ์สิทธิ์กว่านี้",
+          "Length": 19
         }
       ]
     },
@@ -133,18 +149,21 @@
         {
           "Line": 83,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 87,
           "OriginalText": "Great Fairy Fountain ",
           "TranslatedText": "Great Fairy Fountain ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 21
         },
         {
           "Line": 90,
           "OriginalText": "was lovely,\nbut this village\u0027s architecture is\nquite elegant as well.",
-          "TranslatedText": " ก็สวย\nแต่สถาปัตยกรรมของหมู่บ้านนี้ก็งดงามเช่นกัน"
+          "TranslatedText": " ก็สวย\nแต่สถาปัตยกรรมของหมู่บ้านนี้ก็งดงามเช่นกัน",
+          "Length": 69
         }
       ]
     },
@@ -154,45 +173,53 @@
         {
           "Line": 99,
           "OriginalText": "Hmm. A gate and a snowy mountain...\n\n\nAh! There\u0027s a big snowy mountain east of\nthis village. It\u0027s called ",
-          "TranslatedText": "อืมม ประตูกับภูเขาหิมะ...\nอ้อ! มีภูเขาหิมะขนาดใหญ่ทางตะวันออกของหมู่บ้าน\nมันชื่อว่า "
+          "TranslatedText": "อืมม ประตูกับภูเขาหิมะ...\nอ้อ! มีภูเขาหิมะขนาดใหญ่ทางตะวันออกของหมู่บ้าน\nมันชื่อว่า ",
+          "Length": 105
         },
         {
           "Line": 103,
           "OriginalText": "Mount Lanayru",
           "TranslatedText": "Mount Lanayru",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 106,
           "OriginalText": ".\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 112,
           "OriginalText": "I think there was a gate at\nthe bottom of ",
-          "TranslatedText": "ฉันคิดว่ามีประตูอยู่ที่\nด้านล่างของ "
+          "TranslatedText": "ฉันคิดว่ามีประตูอยู่ที่\nด้านล่างของ ",
+          "Length": 42
         },
         {
           "Line": 116,
           "OriginalText": "Mount Lanayru",
           "TranslatedText": "Mount Lanayru",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 119,
           "OriginalText": ",\nwest of ",
-          "TranslatedText": "\nทางตะวันตกของ "
+          "TranslatedText": "\nทางตะวันตกของ ",
+          "Length": 10
         },
         {
           "Line": 123,
           "OriginalText": "Naydra Snowfield",
           "TranslatedText": "Naydra Snowfield",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 126,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -206,54 +233,64 @@
         {
           "Line": 135,
           "OriginalText": "Oh, it\u0027s you! Great timing!",
-          "TranslatedText": "อ้อ คุณน่ะเอง! มาได้ประจวบเหมาะเลย!"
+          "TranslatedText": "อ้อ คุณน่ะเอง! มาได้ประจวบเหมาะเลย!",
+          "Length": 27
         },
         {
           "Line": 139,
           "OriginalText": " I have some\nnews.",
-          "TranslatedText": " \nฉันมีข่าวดี\n"
+          "TranslatedText": " \nฉันมีข่าวดี\n",
+          "Length": 18
         },
         {
           "Line": 143,
           "OriginalText": " I did more research regarding the\n",
-          "TranslatedText": " ฉันทำการค้นคว้าเพิ่มเติมเรื่อง\n"
+          "TranslatedText": " ฉันทำการค้นคว้าเพิ่มเติมเรื่อง\n",
+          "Length": 35
         },
         {
           "Line": 147,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 150,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 154,
           "OriginalText": "and I have a lead!\n",
-          "TranslatedText": "และพบเบาะแส!\n"
+          "TranslatedText": "และพบเบาะแส!\n",
+          "Length": 19
         },
         {
           "Line": 160,
           "OriginalText": "However...although I know of the spot\nwhere it\u0027s likely located, it\u0027s really hard\nto get there. ",
-          "TranslatedText": "แต่ว่า...แม้ฉันจะรู้ว่ามันน่าจะอยู่ตรงไหน\nแต่ว่ามันยากที่จะไปได้\n"
+          "TranslatedText": "แต่ว่า...แม้ฉันจะรู้ว่ามันน่าจะอยู่ตรงไหน\nแต่ว่ามันยากที่จะไปได้\n",
+          "Length": 96
         },
         {
           "Line": 164,
           "OriginalText": "I\u0027m not sure I can do it...\n*SIGH* Even if it\u0027s just a ",
-          "TranslatedText": "ฉันไม่แน่ใจว่าจะไหว...\nเฮ้อออ แม้จะเป็นเพียงแค่ "
+          "TranslatedText": "ฉันไม่แน่ใจว่าจะไหว...\nเฮ้อออ แม้จะเป็นเพียงแค่ ",
+          "Length": 55
         },
         {
           "Line": 168,
           "OriginalText": "picture",
           "TranslatedText": "picture",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 171,
           "OriginalText": ",\nI\u0027m dying to see it...",
-          "TranslatedText": "\nแต่ฉันก็อยากเห็นมันใจจะขาด..."
+          "TranslatedText": "\nแต่ฉันก็อยากเห็นมันใจจะขาด...",
+          "Length": 24
         }
       ]
     },
@@ -263,39 +300,46 @@
         {
           "Line": 188,
           "OriginalText": "A long time ago, ",
-          "TranslatedText": "นานมาแล้ว เล่ากันว่าบนยอด "
+          "TranslatedText": "นานมาแล้ว เล่ากันว่าบนยอด ",
+          "Length": 17
         },
         {
           "Line": 192,
           "OriginalText": "Mount Lanayru",
           "TranslatedText": "Mount Lanayru",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 195,
           "OriginalText": "\u0027s peak\nwas said to be a ",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 25
         },
         {
           "Line": 199,
           "OriginalText": "sacred place where\ndragons lived",
           "TranslatedText": "ศักดิ์สิทธิ์ที่มังกรอาศัยอยู่",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 32
         },
         {
           "Line": 202,
           "OriginalText": ".\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 208,
           "OriginalText": "I think that\u0027s just a legend...",
-          "TranslatedText": "ฉันคิดว่ามันเป็นตำนาน..."
+          "TranslatedText": "ฉันคิดว่ามันเป็นตำนาน...",
+          "Length": 31
         },
         {
           "Line": 212,
           "OriginalText": "but wow,\nif it\u0027s true, I would love to capture that\nin a piece of art!",
-          "TranslatedText": "\nแต่ว่านะ ถ้ามันเป็นเรื่องจริงละก็\nฉันจะอยากวาดภาพนั้นมากเลยล่ะ!"
+          "TranslatedText": "\nแต่ว่านะ ถ้ามันเป็นเรื่องจริงละก็\nฉันจะอยากวาดภาพนั้นมากเลยล่ะ!",
+          "Length": 70
         }
       ]
     },
@@ -305,12 +349,14 @@
         {
           "Line": 221,
           "OriginalText": "So you found the gate?",
-          "TranslatedText": "พบประตูแล้วงั้นเหรอ?"
+          "TranslatedText": "พบประตูแล้วงั้นเหรอ?",
+          "Length": 22
         },
         {
           "Line": 225,
           "OriginalText": " Heh, I can tell\njust from the look on your face.",
-          "TranslatedText": " หึหึ แค่มองหน้าคุณ\nฉันก็รู้แล้ว"
+          "TranslatedText": " หึหึ แค่มองหน้าคุณ\nฉันก็รู้แล้ว",
+          "Length": 49
         }
       ]
     },
@@ -320,12 +366,14 @@
         {
           "Line": 234,
           "OriginalText": "There must have been a time when lots\nof people used that gate...",
-          "TranslatedText": "ต้องเคยมีสมัยที่มีคนเดินทางผ่านประตูนั่น\nมากมายแน่..."
+          "TranslatedText": "ต้องเคยมีสมัยที่มีคนเดินทางผ่านประตูนั่น\nมากมายแน่...",
+          "Length": 65
         },
         {
           "Line": 238,
           "OriginalText": " The world\nsure is fickle, isn\u0027t it?",
-          "TranslatedText": " โลกเปลี่ยนแปลงเร็วนะ ว่ามั้ย?"
+          "TranslatedText": " โลกเปลี่ยนแปลงเร็วนะ ว่ามั้ย?",
+          "Length": 36
         }
       ]
     },
@@ -339,63 +387,75 @@
         {
           "Line": 247,
           "OriginalText": "Hm? Are you...",
-          "TranslatedText": "หืม? คุณเป็น..."
+          "TranslatedText": "หืม? คุณเป็น...",
+          "Length": 14
         },
         {
           "Line": 251,
           "OriginalText": " Sorry to bother you,\nbut are you a fellow traveler?\n\n",
-          "TranslatedText": " ขอโทษที่รบกวนนะ\nแต่คุณเป็นนักเดินทางเหมือนกันใช่มั้ย?\n"
+          "TranslatedText": " ขอโทษที่รบกวนนะ\nแต่คุณเป็นนักเดินทางเหมือนกันใช่มั้ย?\n",
+          "Length": 54
         },
         {
           "Line": 257,
           "OriginalText": "As for me, I just looove art. In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n",
-          "TranslatedText": "สำหรับฉัน ฉันรักศิลปะมากกกก ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n"
+          "TranslatedText": "สำหรับฉัน ฉันรักศิลปะมากกกก ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n",
+          "Length": 98
         },
         {
           "Line": 263,
           "OriginalText": "Just between you and me...\n\n\nI hear there\u0027s a ",
-          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี "
+          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี ",
+          "Length": 46
         },
         {
           "Line": 267,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 270,
           "OriginalText": "\nsomewhere near this village. I hear\nit\u0027s breathtakingly beautiful.\n",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n"
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n",
+          "Length": 68
         },
         {
           "Line": 276,
           "OriginalText": "Aesthetics aside, they also say the place\ncan bestow people with some kind of\nmysterious power...\n",
-          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n"
+          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n",
+          "Length": 98
         },
         {
           "Line": 282,
           "OriginalText": "I\u0027ve been researching it for ages,\nand I finally have a lead. ",
-          "TranslatedText": "ฉันค้นคว้าเรื่องนี้มานาน และในที่สุดก็ได้เบาะแสมา\n"
+          "TranslatedText": "ฉันค้นคว้าเรื่องนี้มานาน และในที่สุดก็ได้เบาะแสมา\n",
+          "Length": 62
         },
         {
           "Line": 286,
           "OriginalText": "There\u0027s a\nplace that is beyond suspicious...\n",
-          "TranslatedText": "มีจุดหนึ่งที่มันน่าจะใช่ที่นั่น...\n"
+          "TranslatedText": "มีจุดหนึ่งที่มันน่าจะใช่ที่นั่น...\n",
+          "Length": 45
         },
         {
           "Line": 292,
           "OriginalText": "The problem is, I can\u0027t seem to find\nthe fountain there.\n\n",
-          "TranslatedText": "แต่ปัญหาคือ ฉันไม่เห็นว่ามีน้ำพุอยู่ตรงนั้นเลย\n"
+          "TranslatedText": "แต่ปัญหาคือ ฉันไม่เห็นว่ามีน้ำพุอยู่ตรงนั้นเลย\n",
+          "Length": 58
         },
         {
           "Line": 298,
           "OriginalText": "*sigh* Nothing beats the thrill of tracking\ndown a perfect view. ",
-          "TranslatedText": "เฮ้อ ไม่มีอะไรน่าตื่นเต้นเท่าการตามหา\nทิวทัศน์อันสมบูรณ์แบบ "
+          "TranslatedText": "เฮ้อ ไม่มีอะไรน่าตื่นเต้นเท่าการตามหา\nทิวทัศน์อันสมบูรณ์แบบ ",
+          "Length": 65
         },
         {
           "Line": 302,
           "OriginalText": "As a fellow traveler,\nyou understand the sentiment, right?",
-          "TranslatedText": "ในฐานะนักเดินทางเหมือนกัน\nคุณเข้าใจความรู้สึกใช่มั้ย?"
+          "TranslatedText": "ในฐานะนักเดินทางเหมือนกัน\nคุณเข้าใจความรู้สึกใช่มั้ย?",
+          "Length": 58
         }
       ]
     },
@@ -405,17 +465,20 @@
         {
           "Line": 319,
           "OriginalText": "It\u0027s been years since I\u0027ve visited this\nvillage, so it was hard to dig up info.\n\nAs you\u0027ve probably noticed, the people\nhere all wear the same attire.\n\nI made the mistake of asking the same\nperson the same thing multiple times.\nOops.\n",
-          "TranslatedText": "ฉันไม่ได้มาที่หมู่บ้านนี้หลายปีแล้ว\nมันเลยหาข้อมูลยากหน่อย\nคุณอาจจะสังเกตเห็นแล้ว \nคนที่นี่สวมเสื้อผ้าแบบเดียวกันหมด\nฉันทำพลาดโดยเผลอไปถามคำถาม\nเดิมซ้ำกับคนเดิมหลายครั้ง\n"
+          "TranslatedText": "ฉันไม่ได้มาที่หมู่บ้านนี้หลายปีแล้ว\nมันเลยหาข้อมูลยากหน่อย\nคุณอาจจะสังเกตเห็นแล้ว \nคนที่นี่สวมเสื้อผ้าแบบเดียวกันหมด\nฉันทำพลาดโดยเผลอไปถามคำถาม\nเดิมซ้ำกับคนเดิมหลายครั้ง\n",
+          "Length": 234
         },
         {
           "Line": 325,
           "OriginalText": "I was already a stranger to the village,\nbut now I\u0027m a suspicious roamer to them.\n\n",
-          "TranslatedText": "ตอนแรกฉันก็เป็นคนแปลกหน้าในหมู่บ้านอยู่แล้ว\nแต่ตอนนี้ฉันกลายเป็นคนหน้าสงสัยไปแล้ว\n"
+          "TranslatedText": "ตอนแรกฉันก็เป็นคนแปลกหน้าในหมู่บ้านอยู่แล้ว\nแต่ตอนนี้ฉันกลายเป็นคนหน้าสงสัยไปแล้ว\n",
+          "Length": 83
         },
         {
           "Line": 331,
           "OriginalText": "But if it helps me track down a beautiful\nlandscape, I don\u0027t care what people\nthink of me!",
-          "TranslatedText": "แต่ถ้ามันช่วยให้ฉันตามหาทิวทัศน์งดงามได้\nฉันก็ไม่สนหรอกว่าคนจะคิดยังไงกับฉัน!"
+          "TranslatedText": "แต่ถ้ามันช่วยให้ฉันตามหาทิวทัศน์งดงามได้\nฉันก็ไม่สนหรอกว่าคนจะคิดยังไงกับฉัน!",
+          "Length": 90
         }
       ]
     },
@@ -425,101 +488,120 @@
         {
           "Line": 340,
           "OriginalText": "So...",
-          "TranslatedText": "เหนื่อย..."
+          "TranslatedText": "เหนื่อย...",
+          "Length": 5
         },
         {
           "Line": 344,
           "OriginalText": "tired...",
-          "TranslatedText": "จัง..."
+          "TranslatedText": "จัง...",
+          "Length": 8
         },
         {
           "Line": 348,
           "OriginalText": " Hills aren\u0027t easy for\nold fogies like me.",
-          "TranslatedText": " เนินเขาเนี่ย\nไม่เหมาะกับตาแก่อย่างฉันหรอก\n"
+          "TranslatedText": " เนินเขาเนี่ย\nไม่เหมาะกับตาแก่อย่างฉันหรอก\n",
+          "Length": 42
         },
         {
           "Line": 352,
           "OriginalText": " Sorry, but I\ndon\u0027t think I can go on... *pant*\nThe ",
-          "TranslatedText": " ขอโทษนะ แต่ฉันคิดว่าไปต่อไม่ไหวแล้ว...\nThe "
+          "TranslatedText": " ขอโทษนะ แต่ฉันคิดว่าไปต่อไม่ไหวแล้ว...\nThe ",
+          "Length": 52
         },
         {
           "Line": 359,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 363,
           "OriginalText": " ",
           "TranslatedText": " ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 1
         },
         {
           "Line": 366,
           "OriginalText": "should be...",
-          "TranslatedText": "น่าจะ..."
+          "TranslatedText": "น่าจะ...",
+          "Length": 12
         },
         {
           "Line": 370,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 374,
           "OriginalText": "along the path that leads past\nthe shrine",
           "TranslatedText": "ตามทางไปที่ผ่าน\nshrine",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 41
         },
         {
           "Line": 377,
           "OriginalText": ".",
-          "TranslatedText": " นี่ไป"
+          "TranslatedText": " นี่ไป",
+          "Length": 1
         },
         {
           "Line": 381,
           "OriginalText": " *pant*\n",
-          "TranslatedText": " *pant*\n"
+          "TranslatedText": " *pant*\n",
+          "Length": 8
         },
         {
           "Line": 387,
           "OriginalText": "That\u0027s what I\u0027ve been told, anyway.",
-          "TranslatedText": "นั่นคือที่ฉันได้ข้อมูลมา"
+          "TranslatedText": "นั่นคือที่ฉันได้ข้อมูลมา",
+          "Length": 35
         },
         {
           "Line": 391,
           "OriginalText": "\nYeesh, I\u0027m completely out of breath!\nThat always happens right about here.\n*pant*",
-          "TranslatedText": "\nโอย ฉันหายใจไม่ทันแล้ว!\n"
+          "TranslatedText": "\nโอย ฉันหายใจไม่ทันแล้ว!\n",
+          "Length": 82
         },
         {
           "Line": 395,
           "OriginalText": " I think I\u0027d better rest for a bit.",
-          "TranslatedText": " ฉันว่าฉันควรพักสักหน่อย"
+          "TranslatedText": " ฉันว่าฉันควรพักสักหน่อย",
+          "Length": 35
         },
         {
           "Line": 399,
           "OriginalText": "\nYou go on ahead.\n\n",
-          "TranslatedText": "\nคุณไปก่อนเลย\n"
+          "TranslatedText": "\nคุณไปก่อนเลย\n",
+          "Length": 19
         },
         {
           "Line": 405,
           "OriginalText": "And hey, if you find it...",
-          "TranslatedText": "แล้วก็ถ้าเจอละก็..."
+          "TranslatedText": "แล้วก็ถ้าเจอละก็...",
+          "Length": 26
         },
         {
           "Line": 409,
           "OriginalText": "don\u0027t forget to\nget a ",
-          "TranslatedText": "อย่าลืม\nถ่าย "
+          "TranslatedText": "อย่าลืม\nถ่าย ",
+          "Length": 22
         },
         {
           "Line": 413,
           "OriginalText": "picture",
           "TranslatedText": "รูป",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 416,
           "OriginalText": "!",
-          "TranslatedText": " มานะ!"
+          "TranslatedText": " มานะ!",
+          "Length": 1
         }
       ]
     },
@@ -533,38 +615,45 @@
         {
           "Line": 425,
           "OriginalText": "Oh! I knew it!",
-          "TranslatedText": "โอ้! ฉันว่าแล้ว!"
+          "TranslatedText": "โอ้! ฉันว่าแล้ว!",
+          "Length": 14
         },
         {
           "Line": 429,
           "OriginalText": " I just KNEW there\nwas someone like me nearby who\nappreciates true beauty.\n",
-          "TranslatedText": " ฉันรู้ว่าจะต้องมีคนแบบฉันอยู่\nคนที่ชื่นชมกับความงามอันแท้จริง\n"
+          "TranslatedText": " ฉันรู้ว่าจะต้องมีคนแบบฉันอยู่\nคนที่ชื่นชมกับความงามอันแท้จริง\n",
+          "Length": 75
         },
         {
           "Line": 435,
           "OriginalText": "Sadly, I can\u0027t pin down the exact location\nof the ",
-          "TranslatedText": "น่าเศร้าที่ฉันไม่อาจระบุตำแหน่งของ \n"
+          "TranslatedText": "น่าเศร้าที่ฉันไม่อาจระบุตำแหน่งของ \n",
+          "Length": 50
         },
         {
           "Line": 439,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 20
         },
         {
           "Line": 442,
           "OriginalText": ".\n\n",
-          "TranslatedText": " ได้\n"
+          "TranslatedText": " ได้\n",
+          "Length": 3
         },
         {
           "Line": 448,
           "OriginalText": "I haven\u0027t put it all together yet,\nbut there\u0027s a suspicious place\nI have my eye on...\n",
-          "TranslatedText": "ฉันยังไม่สามารถเชื่อมโยงมันเข้าด้วยกัน\nแต่มีจุดน่าสงสัยอยู๋ที่หนึ่ง ที่ฉันหมายตาไว้...\n"
+          "TranslatedText": "ฉันยังไม่สามารถเชื่อมโยงมันเข้าด้วยกัน\nแต่มีจุดน่าสงสัยอยู๋ที่หนึ่ง ที่ฉันหมายตาไว้...\n",
+          "Length": 86
         },
         {
           "Line": 454,
           "OriginalText": "In fact, I was about to head there now.\nWould you like to come along?",
-          "TranslatedText": "ที่จริงแล้ว ฉันกำลังจะไปที่นั่น\nอยากมาด้วยกันมั้ย?"
+          "TranslatedText": "ที่จริงแล้ว ฉันกำลังจะไปที่นั่น\nอยากมาด้วยกันมั้ย?",
+          "Length": 69
         }
       ]
     },
@@ -574,12 +663,14 @@
         {
           "Line": 471,
           "OriginalText": "Great answer! Just what I expected from\na fellow beauty connoisseur like you.",
-          "TranslatedText": "ตอบได้ดี! ต้องอย่างนี้สิ"
+          "TranslatedText": "ตอบได้ดี! ต้องอย่างนี้สิ",
+          "Length": 77
         },
         {
           "Line": 475,
           "OriginalText": "\nAll right then. Follow me!",
-          "TranslatedText": "\nถ้างั้นก็ตามฉันมา!"
+          "TranslatedText": "\nถ้างั้นก็ตามฉันมา!",
+          "Length": 27
         }
       ]
     },
@@ -593,33 +684,39 @@
         {
           "Line": 484,
           "OriginalText": "Oh?",
-          "TranslatedText": "โอ้?"
+          "TranslatedText": "โอ้?",
+          "Length": 3
         },
         {
           "Line": 488,
           "OriginalText": " You\u0027re interested in the\n",
-          "TranslatedText": " คุณเองก็สนใจ\n"
+          "TranslatedText": " คุณเองก็สนใจ\n",
+          "Length": 26
         },
         {
           "Line": 492,
           "OriginalText": "Great Fairy Fountain ",
           "TranslatedText": "Great Fairy Fountain ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 21
         },
         {
           "Line": 495,
           "OriginalText": "too?\n\n",
-          "TranslatedText": " เหมือนกันเหรอ?\n"
+          "TranslatedText": " เหมือนกันเหรอ?\n",
+          "Length": 6
         },
         {
           "Line": 501,
           "OriginalText": "Ha! Well! Anyone who loves beautiful\nscenery as much as I do is a friend.",
-          "TranslatedText": "ฮ่า! ดีเลย! ใครก็ตามที่ชอบทิวทัศน์สวยงาม\nเหมือนกับฉันถือเป็นเพื่อนกัน"
+          "TranslatedText": "ฮ่า! ดีเลย! ใครก็ตามที่ชอบทิวทัศน์สวยงาม\nเหมือนกับฉันถือเป็นเพื่อนกัน",
+          "Length": 73
         },
         {
           "Line": 505,
           "OriginalText": "\nOK, that settles it. I\u0027ll guide you there!",
-          "TranslatedText": "\nงั้นก็ตกลงตามนี้ ฉันจะนำทางไปที่นั่นเอง!"
+          "TranslatedText": "\nงั้นก็ตกลงตามนี้ ฉันจะนำทางไปที่นั่นเอง!",
+          "Length": 43
         }
       ]
     },
@@ -633,29 +730,34 @@
         {
           "Line": 522,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 529,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 533,
           "OriginalText": " ",
           "TranslatedText": " ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 1
         },
         {
           "Line": 536,
           "OriginalText": "isn\u0027t just lovely,\nthey say it can bestow some kind of\nmysterious power on people.\n",
-          "TranslatedText": "ไม่เพียงแค่สวยเท่านั้น\nว่ากันว่ามันยังสามารถมอบพลังบางอย่างให้กับเรา\n"
+          "TranslatedText": "ไม่เพียงแค่สวยเท่านั้น\nว่ากันว่ามันยังสามารถมอบพลังบางอย่างให้กับเรา\n",
+          "Length": 83
         },
         {
           "Line": 542,
           "OriginalText": "I\u0027m pretty sure that one suspicious spot\nis where it\u0027s hidden... But then why can\u0027t\nI find it?",
-          "TranslatedText": "ฉันค่อนข้างแน่ใจว่ามันซ่อนอยู่\nตรงจุดที่น่าสงสัยนั่น... แต่ทำฉันจึงหามันไม่พบ?"
+          "TranslatedText": "ฉันค่อนข้างแน่ใจว่ามันซ่อนอยู่\nตรงจุดที่น่าสงสัยนั่น... แต่ทำฉันจึงหามันไม่พบ?",
+          "Length": 94
         }
       ]
     },
@@ -665,12 +767,14 @@
         {
           "Line": 559,
           "OriginalText": "Wow, you sure are high-spirited!",
-          "TranslatedText": "ว้าว คุณนี่กะตือรือร้นจังนะ!"
+          "TranslatedText": "ว้าว คุณนี่กะตือรือร้นจังนะ!",
+          "Length": 32
         },
         {
           "Line": 563,
           "OriginalText": "\nI didn\u0027t know you loved beautiful\nlandscapes quite so much.\nWell, shall we?",
-          "TranslatedText": "\nไม่ยักรู้ว่าคุณชอบทิวทัศน์สวยงามขนาดนี้\nงั้นไปกันเลยมั้ย?"
+          "TranslatedText": "\nไม่ยักรู้ว่าคุณชอบทิวทัศน์สวยงามขนาดนี้\nงั้นไปกันเลยมั้ย?",
+          "Length": 76
         }
       ]
     },
@@ -681,17 +785,20 @@
           "Line": 578,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 20
         },
         {
           "Line": 581,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 585,
           "OriginalText": "\nI will...find you...",
-          "TranslatedText": "\nฉันจะ...หาให้พบ..."
+          "TranslatedText": "\nฉันจะ...หาให้พบ...",
+          "Length": 21
         }
       ]
     },
@@ -701,12 +808,14 @@
         {
           "Line": 597,
           "OriginalText": "The area beyond that elevated bit of land\nis suspicious...",
-          "TranslatedText": "พื้นที่เลยที่ยกสูงตรงนั้นน่าสงสัย...\n"
+          "TranslatedText": "พื้นที่เลยที่ยกสูงตรงนั้นน่าสงสัย...\n",
+          "Length": 58
         },
         {
           "Line": 601,
           "OriginalText": "but why can\u0027t I find the\nGreat Fairy Fountain?!",
-          "TranslatedText": "แต่ทำไมฉันถึงไม่พบ Great Fairy Fountain?!"
+          "TranslatedText": "แต่ทำไมฉันถึงไม่พบ Great Fairy Fountain?!",
+          "Length": 47
         }
       ]
     },
@@ -716,7 +825,8 @@
         {
           "Line": 610,
           "OriginalText": "My desire to view beautiful landscapes\nis stronger than anyone else\u0027s.\nEver, I\u0027m pretty sure.\nBut my body just can\u0027t handle the\ngroundwork... Even now, my knees\nare trembling.",
-          "TranslatedText": "ความปารถนาอยากจะดูทิวทัศน์อันงดงาม\nของฉันนั้นแรงกล้ากว่าใคร\nแต่ร่างกายของฉันนี่สิ ชักจะไม่ไหวแล้ว... \nแม้แต่ตอนนี้ เข่าฉันก็สั่นไปหมด"
+          "TranslatedText": "ความปารถนาอยากจะดูทิวทัศน์อันงดงาม\nของฉันนั้นแรงกล้ากว่าใคร\nแต่ร่างกายของฉันนี่สิ ชักจะไม่ไหวแล้ว... \nแม้แต่ตอนนี้ เข่าฉันก็สั่นไปหมด",
+          "Length": 175
         }
       ]
     },
@@ -726,58 +836,69 @@
         {
           "Line": 619,
           "OriginalText": "Hm? Are you...",
-          "TranslatedText": "หืม? คุณเป็น..."
+          "TranslatedText": "หืม? คุณเป็น...",
+          "Length": 14
         },
         {
           "Line": 623,
           "OriginalText": " Sorry to bother you,\nbut are you a fellow traveler?\n\nAs for me, I just looove art.",
-          "TranslatedText": " ขอโทษที่รบกวนนะ\nแต่คุณเป็นนักเดินทางเหมือนกันใช่มั้ย?\nสำหรับฉัน ฉันรักศิลปะมากกกก "
+          "TranslatedText": " ขอโทษที่รบกวนนะ\nแต่คุณเป็นนักเดินทางเหมือนกันใช่มั้ย?\nสำหรับฉัน ฉันรักศิลปะมากกกก ",
+          "Length": 83
         },
         {
           "Line": 627,
           "OriginalText": " In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n",
-          "TranslatedText": "ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n"
+          "TranslatedText": "ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n",
+          "Length": 69
         },
         {
           "Line": 633,
           "OriginalText": "Just between you and me...\n\n\nI hear there\u0027s a ",
-          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี "
+          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี ",
+          "Length": 46
         },
         {
           "Line": 637,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 640,
           "OriginalText": "\nsomewhere near this village. ",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้ "
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้ ",
+          "Length": 30
         },
         {
           "Line": 644,
           "OriginalText": "I hear\nit\u0027s breathtakingly beautiful.\nAesthetics aside, they also say the place\ncan bestow some kind of mysterious\npower on people...\n",
-          "TranslatedText": "ว่ากันว่ามันสวยจนใจหายเลยล่ะ\nนอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n"
+          "TranslatedText": "ว่ากันว่ามันสวยจนใจหายเลยล่ะ\nนอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n",
+          "Length": 134
         },
         {
           "Line": 650,
           "OriginalText": "However, since I\u0027m an outsider, I can\u0027t\nget anyone to tell me any more details\nthan that.\nThese villagers never leave the safety of\ntheir village,",
-          "TranslatedText": "แต่ว่า เนื่องจากฉันเป็นคนนอก ฉันเลย\nหาข้อมูลมากกว่านี้ไม่ได้\nคนในหมู่บ้านนี้ระวังตัวกันมาก\n"
+          "TranslatedText": "แต่ว่า เนื่องจากฉันเป็นคนนอก ฉันเลย\nหาข้อมูลมากกว่านี้ไม่ได้\nคนในหมู่บ้านนี้ระวังตัวกันมาก\n",
+          "Length": 146
         },
         {
           "Line": 654,
           "OriginalText": " so travelers like me are\ntreated with suspicion.\n",
-          "TranslatedText": " นักเดินทางอย่างฉันเลยถูกสงสัย\n"
+          "TranslatedText": " นักเดินทางอย่างฉันเลยถูกสงสัย\n",
+          "Length": 50
         },
         {
           "Line": 660,
           "OriginalText": "But I won\u0027t give up!",
-          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!"
+          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!",
+          "Length": 20
         },
         {
           "Line": 664,
           "OriginalText": " Oh, and if I manage\nto find out anything, I\u0027ll be sure to let\nyou know.",
-          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ"
+          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ",
+          "Length": 72
         }
       ]
     },
@@ -787,43 +908,51 @@
         {
           "Line": 673,
           "OriginalText": "They say there\u0027s a ",
-          "TranslatedText": "ฉันได้ยินมาว่ามี "
+          "TranslatedText": "ฉันได้ยินมาว่ามี ",
+          "Length": 19
         },
         {
           "Line": 677,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 685,
           "OriginalText": "\nsomewhere in this village. I hear it\u0027s\nutterly breathtaking.\n",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n"
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n",
+          "Length": 62
         },
         {
           "Line": 691,
           "OriginalText": "Aesthetics aside, they also say it can\nbestow people with mysterious powers!\n\n",
-          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย!\n\n"
+          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย!\n\n",
+          "Length": 78
         },
         {
           "Line": 697,
           "OriginalText": "It\u0027s too bad ",
-          "TranslatedText": "แย่หน่อย "
+          "TranslatedText": "แย่หน่อย ",
+          "Length": 13
         },
         {
           "Line": 701,
           "OriginalText": "I just can\u0027t figure out the\nexact location...\n\n",
-          "TranslatedText": "ฉันคิดไม่ออกว่ามันอยู่ตรงไหนกันแน่...\n"
+          "TranslatedText": "ฉันคิดไม่ออกว่ามันอยู่ตรงไหนกันแน่...\n",
+          "Length": 47
         },
         {
           "Line": 707,
           "OriginalText": "But I\u0027m not gonna give up!",
-          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!"
+          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!",
+          "Length": 26
         },
         {
           "Line": 711,
           "OriginalText": "\nOh, and if I find out anything,\nI\u0027ll be sure to let you know.",
-          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ"
+          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ",
+          "Length": 62
         }
       ]
     },
@@ -833,7 +962,8 @@
         {
           "Line": 723,
           "OriginalText": "My journey...is on the horizon...",
-          "TranslatedText": "การเดินทางของฉัน...อยู่ที่เส้นขอบฟ้า..."
+          "TranslatedText": "การเดินทางของฉัน...อยู่ที่เส้นขอบฟ้า...",
+          "Length": 33
         }
       ]
     },
@@ -847,29 +977,34 @@
         {
           "Line": 735,
           "OriginalText": "The ",
-          "TranslatedText": "The "
+          "TranslatedText": "The ",
+          "Length": 4
         },
         {
           "Line": 742,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 746,
           "OriginalText": " ",
           "TranslatedText": " ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 1
         },
         {
           "Line": 749,
           "OriginalText": "isn\u0027t just lovely,\nthey say it can bestow some kind of\nmysterious power on people...\n",
-          "TranslatedText": "ไม่เพียงแค่สวยเท่านั้น\nว่ากันว่ามันยังสามารถมอบพลังบางอย่างให้กับเรา...\n"
+          "TranslatedText": "ไม่เพียงแค่สวยเท่านั้น\nว่ากันว่ามันยังสามารถมอบพลังบางอย่างให้กับเรา...\n",
+          "Length": 85
         },
         {
           "Line": 755,
           "OriginalText": "I\u0027m pretty sure I know where it\u0027s hidden,\nbut still it eludes me...",
-          "TranslatedText": "ฉันค่อนข้างแน่ใจรู้ที่ซ่อนของมัน\nแต่มันก็ยังหลบหลีกฉันได้..."
+          "TranslatedText": "ฉันค่อนข้างแน่ใจรู้ที่ซ่อนของมัน\nแต่มันก็ยังหลบหลีกฉันได้...",
+          "Length": 67
         }
       ]
     },
@@ -883,63 +1018,75 @@
         {
           "Line": 772,
           "OriginalText": "Wow. ",
-          "TranslatedText": "ว้าว "
+          "TranslatedText": "ว้าว ",
+          "Length": 5
         },
         {
           "Line": 776,
           "OriginalText": "It\u0027s really coming down, isn\u0027t it?\n\n\nI have my Sheikah gear, so I\u0027m fine,\nbut are you going to be OK?\nHope so.\nAs for me, I just looove art. ",
-          "TranslatedText": "ตกหนักใช่เล่นเลยไม่ใช่เหรอเนี่ย?\nฉันมี Sheikah gear อยู่ก็เลยไม่เป็นไร\nแต่คุณล่ะ โอเคมั้ย?\nสำหรับฉัน ฉันรักศิลปะมากกกก "
+          "TranslatedText": "ตกหนักใช่เล่นเลยไม่ใช่เหรอเนี่ย?\nฉันมี Sheikah gear อยู่ก็เลยไม่เป็นไร\nแต่คุณล่ะ โอเคมั้ย?\nสำหรับฉัน ฉันรักศิลปะมากกกก ",
+          "Length": 141
         },
         {
           "Line": 780,
           "OriginalText": "In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n",
-          "TranslatedText": "ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n"
+          "TranslatedText": "ที่จริงแล้ว\nฉันเดินทางไปทั่วโลกเพื่อค้นหาทิวทัศน์อันงดงาม\n",
+          "Length": 68
         },
         {
           "Line": 786,
           "OriginalText": "Just between you and me...\n\n\nI hear there\u0027s a ",
-          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี "
+          "TranslatedText": "อย่าไปบอกใครนะ...\nฉันได้ยินมาว่ามี ",
+          "Length": 46
         },
         {
           "Line": 790,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 793,
           "OriginalText": "\nsomewhere near this village. It\u0027s said\nto be breathtakingly beautiful.\n",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n"
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n",
+          "Length": 72
         },
         {
           "Line": 799,
           "OriginalText": "Aesthetics aside, they also say the place\ncan bestow people with some kind of\nmysterious power...\n",
-          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n"
+          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n",
+          "Length": 98
         },
         {
           "Line": 805,
           "OriginalText": "I\u0027ve been researching it for ages,\nand I finally have a lead. ",
-          "TranslatedText": "ฉันค้นคว้าเรื่องนี้มานาน และในที่สุดก็ได้เบาะแสมา\n"
+          "TranslatedText": "ฉันค้นคว้าเรื่องนี้มานาน และในที่สุดก็ได้เบาะแสมา\n",
+          "Length": 62
         },
         {
           "Line": 809,
           "OriginalText": "There\u0027s a\nplace that is beyond suspicious...\n",
-          "TranslatedText": "มีจุดหนึ่งที่มันน่าจะใช่ที่นั่น...\n"
+          "TranslatedText": "มีจุดหนึ่งที่มันน่าจะใช่ที่นั่น...\n",
+          "Length": 45
         },
         {
           "Line": 815,
           "OriginalText": "The problem is, I can\u0027t seem to find\nthe fountain there.\n\n",
-          "TranslatedText": "แต่ปัญหาคือ ฉันไม่เห็นว่ามีน้ำพุอยู่ตรงนั้นเลย\n"
+          "TranslatedText": "แต่ปัญหาคือ ฉันไม่เห็นว่ามีน้ำพุอยู่ตรงนั้นเลย\n",
+          "Length": 58
         },
         {
           "Line": 821,
           "OriginalText": "*sigh* Nothing beats the thrill of tracking\ndown a perfect view. ",
-          "TranslatedText": "เฮ้อ ไม่มีอะไรน่าตื่นเต้นเท่าการตามหา\nทิวทัศน์อันสมบูรณ์แบบ "
+          "TranslatedText": "เฮ้อ ไม่มีอะไรน่าตื่นเต้นเท่าการตามหา\nทิวทัศน์อันสมบูรณ์แบบ ",
+          "Length": 65
         },
         {
           "Line": 825,
           "OriginalText": "As a fellow traveler,\nyou understand the sentiment, right?",
-          "TranslatedText": "ในฐานะนักเดินทางเหมือนกัน\nคุณเข้าใจความรู้สึกใช่มั้ย?"
+          "TranslatedText": "ในฐานะนักเดินทางเหมือนกัน\nคุณเข้าใจความรู้สึกใช่มั้ย?",
+          "Length": 58
         }
       ]
     },
@@ -953,59 +1100,70 @@
         {
           "Line": 842,
           "OriginalText": "Are you OK standing out in the rain?\nIf I could, I\u0027d gladly lend you my\nSheikah gear...\nThing is, ",
-          "TranslatedText": "คุณยืนตากฝนไม่เป็นอะไรใช่มั้ย?\nถ้าทำได้ ฉันก็อยากให้ยืม\nSheikah gear นะ...\nแต่ว่า "
+          "TranslatedText": "คุณยืนตากฝนไม่เป็นอะไรใช่มั้ย?\nถ้าทำได้ ฉันก็อยากให้ยืม\nSheikah gear นะ...\nแต่ว่า ",
+          "Length": 98
         },
         {
           "Line": 846,
           "OriginalText": "there\u0027s a strict rule about only\nthe Sheikah being allowed to wear it.\n\n",
-          "TranslatedText": "มันมีกฎเข้มงวดว่าให้\nเฉพาะ Sheikah เท่านั้นที่สวมใส่ได้\n"
+          "TranslatedText": "มันมีกฎเข้มงวดว่าให้\nเฉพาะ Sheikah เท่านั้นที่สวมใส่ได้\n",
+          "Length": 72
         },
         {
           "Line": 852,
           "OriginalText": "Anyhoo, guess what!",
-          "TranslatedText": "ว่าแต่ว่า ทายสิ!"
+          "TranslatedText": "ว่าแต่ว่า ทายสิ!",
+          "Length": 19
         },
         {
           "Line": 856,
           "OriginalText": "\n\n\nI\u0027ve done a bit more research regarding\nthe ",
-          "TranslatedText": " ฉันทำการค้นคว้าเพิ่มเติมเรื่อง\n"
+          "TranslatedText": " ฉันทำการค้นคว้าเพิ่มเติมเรื่อง\n",
+          "Length": 47
         },
         {
           "Line": 860,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 863,
           "OriginalText": ", ",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 2
         },
         {
           "Line": 867,
           "OriginalText": "and I finally\nfound a suspicious spot!\n",
-          "TranslatedText": "และพบเบาะแส!\n"
+          "TranslatedText": "และพบเบาะแส!\n",
+          "Length": 39
         },
         {
           "Line": 873,
           "OriginalText": "However...it\u0027s really hard to get there.",
-          "TranslatedText": "แต่ว่า...แม้ฉันจะรู้ว่ามันน่าจะอยู่ตรงไหน\nแต่ว่ามันยากที่จะไปได้\n"
+          "TranslatedText": "แต่ว่า...แม้ฉันจะรู้ว่ามันน่าจะอยู่ตรงไหน\nแต่ว่ามันยากที่จะไปได้\n",
+          "Length": 40
         },
         {
           "Line": 877,
           "OriginalText": "\nHonestly, I\u0027m not sure I can do it.\n\n*SIGH* Even if it\u0027s just a ",
-          "TranslatedText": "บอกตามตรง ฉันไม่แน่ใจเลยว่าจะไหว...\nเฮ้อออ แม้จะเป็นเพียงแค่ "
+          "TranslatedText": "บอกตามตรง ฉันไม่แน่ใจเลยว่าจะไหว...\nเฮ้อออ แม้จะเป็นเพียงแค่ ",
+          "Length": 65
         },
         {
           "Line": 881,
           "OriginalText": "picture",
           "TranslatedText": "picture",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 884,
           "OriginalText": ",\nI\u0027m dying to see it...",
-          "TranslatedText": "\nแต่ฉันก็อยากเห็นมันใจจะขาด..."
+          "TranslatedText": "\nแต่ฉันก็อยากเห็นมันใจจะขาด...",
+          "Length": 24
         }
       ]
     },
@@ -1015,58 +1173,69 @@
         {
           "Line": 901,
           "OriginalText": "Wow, it\u0027s really coming down, isn\u0027t it?\n\n\n",
-          "TranslatedText": "ว้าว ฝนตกหนักเลยนะเนี่ย ว่ามั้ย?\n\n\n"
+          "TranslatedText": "ว้าว ฝนตกหนักเลยนะเนี่ย ว่ามั้ย?\n\n\n",
+          "Length": 42
         },
         {
           "Line": 907,
           "OriginalText": "I have my Sheikah gear, so I\u0027m fine,\nbut are you going to be OK?\nHope so.\nAs for me, I just looove art.",
-          "TranslatedText": "I have my Sheikah gear, so I\u0027m fine,\nbut are you going to be OK?\nHope so.\nAs for me, I just looove art."
+          "TranslatedText": "I have my Sheikah gear, so I\u0027m fine,\nbut are you going to be OK?\nHope so.\nAs for me, I just looove art.",
+          "Length": 103
         },
         {
           "Line": 911,
           "OriginalText": " In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n",
-          "TranslatedText": " In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n"
+          "TranslatedText": " In fact,\nI\u0027m traveling the world in search of\nbeautiful landscapes.\n",
+          "Length": 69
         },
         {
           "Line": 917,
           "OriginalText": "Just between you and me...\n\n\nI hear there\u0027s a ",
-          "TranslatedText": "อย่าไปบอกใครนะ...\n\n\nฉันได้ยินมาว่ามี "
+          "TranslatedText": "อย่าไปบอกใครนะ...\n\n\nฉันได้ยินมาว่ามี ",
+          "Length": 46
         },
         {
           "Line": 921,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 924,
           "OriginalText": "\nsomewhere near this village. ",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้"
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้",
+          "Length": 30
         },
         {
           "Line": 928,
           "OriginalText": "I hear\nit\u0027s breathtakingly beautiful.\nAesthetics aside, they also say the place\ncan bestow some kind of mysterious\npower on people...\n",
-          "TranslatedText": "ว่ากันว่ามันสวยจนใจหายเลยล่ะ\nนอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n"
+          "TranslatedText": "ว่ากันว่ามันสวยจนใจหายเลยล่ะ\nนอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n",
+          "Length": 134
         },
         {
           "Line": 934,
           "OriginalText": "However, since I\u0027m an outsider, I can\u0027t\nget anyone to tell me any more details\nthan that.\nThese villagers never leave the safety of\ntheir village,",
-          "TranslatedText": "แต่ว่า เนื่องจากฉันเป็นคนนอก ฉันเลย\nหาข้อมูลมากกว่านี้ไม่ได้\nคนในหมู่บ้านนี้ระวังตัวกันมาก\n"
+          "TranslatedText": "แต่ว่า เนื่องจากฉันเป็นคนนอก ฉันเลย\nหาข้อมูลมากกว่านี้ไม่ได้\nคนในหมู่บ้านนี้ระวังตัวกันมาก\n",
+          "Length": 146
         },
         {
           "Line": 938,
           "OriginalText": " so travelers like me are\ntreated with suspicion.\n",
-          "TranslatedText": " นักเดินทางอย่างฉันเลยถูกสงสัย\n"
+          "TranslatedText": " นักเดินทางอย่างฉันเลยถูกสงสัย\n",
+          "Length": 50
         },
         {
           "Line": 944,
           "OriginalText": "But I won\u0027t give up!",
-          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!"
+          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!",
+          "Length": 20
         },
         {
           "Line": 948,
           "OriginalText": " Oh, and if I manage\nto find out anything, I\u0027ll be sure to let\nyou know.",
-          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ"
+          "TranslatedText": " อ้อ ถ้าฉันพบอะไรละก็\nฉันจะบอกคุณนะ",
+          "Length": 72
         }
       ]
     },
@@ -1076,43 +1245,51 @@
         {
           "Line": 957,
           "OriginalText": "They say there\u0027s a ",
-          "TranslatedText": "ฉันได้ยินมาว่ามี "
+          "TranslatedText": "ฉันได้ยินมาว่ามี ",
+          "Length": 19
         },
         {
           "Line": 961,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 20
         },
         {
           "Line": 964,
           "OriginalText": "\nsomewhere in this village.\n\n",
-          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n"
+          "TranslatedText": "\nอยู่ใกล้กับหมู่บ้านนี้\nว่ากันว่ามันสวยจนใจหายเลยล่ะ\n",
+          "Length": 29
         },
         {
           "Line": 970,
           "OriginalText": "Aesthetics aside, they also say it can\nbestow mysterious powers on people!\n\n",
-          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n"
+          "TranslatedText": "นอกจากความงามแล้ว ยังลือกันว่าที่นั่น\nสามารถมอบพลังบางอย่างให้กับเราได้ด้วย...\n",
+          "Length": 76
         },
         {
           "Line": 976,
           "OriginalText": "It\u0027s too bad ",
-          "TranslatedText": "แย่หน่อย "
+          "TranslatedText": "แย่หน่อย ",
+          "Length": 13
         },
         {
           "Line": 980,
           "OriginalText": "I just can\u0027t figure out the\nexact location...\n\n",
-          "TranslatedText": "ฉันคิดไม่ออกว่ามันอยู่ตรงไหนกันแน่...\n"
+          "TranslatedText": "ฉันคิดไม่ออกว่ามันอยู่ตรงไหนกันแน่...\n",
+          "Length": 47
         },
         {
           "Line": 986,
           "OriginalText": "But I\u0027m not gonna give up!",
-          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!"
+          "TranslatedText": "แต่ฉันไม่ยอมแพ้หรอก!",
+          "Length": 26
         },
         {
           "Line": 990,
           "OriginalText": " Not even if\nit rains! Not even if it snows! Not even\nif I get struck by lightning!!\nOh, and of course, I\u0027ll let you know if\nI find out anything!",
-          "TranslatedText": "ต่อให้ฝนจะตก! \nต่อให้หิมะจะตก! หรือต่อให้ฉันโดนฟ้าผ่า!! \nอ้อ แล้วก็ถ้าฉันพบอะไรละก็ ฉันจะบอกคุณนะ"
+          "TranslatedText": "ต่อให้ฝนจะตก! \nต่อให้หิมะจะตก! หรือต่อให้ฉันโดนฟ้าผ่า!! \nอ้อ แล้วก็ถ้าฉันพบอะไรละก็ ฉันจะบอกคุณนะ",
+          "Length": 145
         }
       ]
     },
@@ -1122,17 +1299,20 @@
         {
           "Line": 999,
           "OriginalText": "It\u0027s been years since I\u0027ve visited this\nvillage, so it was hard to dig up info.\n\nAs you\u0027ve probably noticed, the people\nhere all wear the same attire.\n\nI made the mistake of asking the same\nperson the same thing multiple times.\nOops.\n",
-          "TranslatedText": "ฉันไม่ได้มาที่หมู่บ้านนี้หลายปีแล้ว\nมันเลยหาข้อมูลยากหน่อย\nคุณอาจจะสังเกตเห็นแล้ว \nคนที่นี่สวมเสื้อผ้าแบบเดียวกันหมด\nฉันทำพลาดโดยเผลอไปถามคำถาม\nเดิมซ้ำกับคนเดิมหลายครั้ง\n"
+          "TranslatedText": "ฉันไม่ได้มาที่หมู่บ้านนี้หลายปีแล้ว\nมันเลยหาข้อมูลยากหน่อย\nคุณอาจจะสังเกตเห็นแล้ว \nคนที่นี่สวมเสื้อผ้าแบบเดียวกันหมด\nฉันทำพลาดโดยเผลอไปถามคำถาม\nเดิมซ้ำกับคนเดิมหลายครั้ง\n",
+          "Length": 234
         },
         {
           "Line": 1005,
           "OriginalText": "I was already a stranger to the village,\nbut now I\u0027m a suspicious roamer to them.\n\n",
-          "TranslatedText": "ตอนแรกฉันก็เป็นคนแปลกหน้าในหมู่บ้านอยู่แล้ว\nแต่ตอนนี้ฉันกลายเป็นคนหน้าสงสัยไปแล้ว\n"
+          "TranslatedText": "ตอนแรกฉันก็เป็นคนแปลกหน้าในหมู่บ้านอยู่แล้ว\nแต่ตอนนี้ฉันกลายเป็นคนหน้าสงสัยไปแล้ว\n",
+          "Length": 83
         },
         {
           "Line": 1011,
           "OriginalText": "But if it helps me track down a beautiful\nlandscape, I don\u0027t care what people\nthink of me!\nHey, we\u0027re almost there! The weather\u0027s\nnot so great, so we\u0027d better hurry.",
-          "TranslatedText": "แต่ถ้ามันช่วยให้ฉันตามหาทิวทัศน์งดงามได้\nฉันก็ไม่สนหรอกว่าคนจะคิดยังไงกับฉัน!\nเฮ้ เราเกือบถึงแล้ว! อากาศไม่ค่อยดีเลย\nเพราะงั้นเรารีบไปกันเถอะ"
+          "TranslatedText": "แต่ถ้ามันช่วยให้ฉันตามหาทิวทัศน์งดงามได้\nฉันก็ไม่สนหรอกว่าคนจะคิดยังไงกับฉัน!\nเฮ้ เราเกือบถึงแล้ว! อากาศไม่ค่อยดีเลย\nเพราะงั้นเรารีบไปกันเถอะ",
+          "Length": 165
         }
       ]
     },
@@ -1142,91 +1322,108 @@
         {
           "Line": 1020,
           "OriginalText": "So...",
-          "TranslatedText": "เหนื่อย..."
+          "TranslatedText": "เหนื่อย...",
+          "Length": 5
         },
         {
           "Line": 1024,
           "OriginalText": "tired...",
-          "TranslatedText": "จัง..."
+          "TranslatedText": "จัง...",
+          "Length": 8
         },
         {
           "Line": 1028,
           "OriginalText": " Hills aren\u0027t easy for\nold fogies like me.",
-          "TranslatedText": " เนินเขาเนี่ย\nไม่เหมาะกับตาแก่อย่างฉันหรอก\n"
+          "TranslatedText": " เนินเขาเนี่ย\nไม่เหมาะกับตาแก่อย่างฉันหรอก\n",
+          "Length": 42
         },
         {
           "Line": 1032,
           "OriginalText": " Sorry, but I\ndon\u0027t think I can go on... *pant*\nThe ",
-          "TranslatedText": " ขอโทษนะ แต่ฉันคิดว่าไปต่อไม่ไหวแล้ว...\nThe "
+          "TranslatedText": " ขอโทษนะ แต่ฉันคิดว่าไปต่อไม่ไหวแล้ว...\nThe ",
+          "Length": 52
         },
         {
           "Line": 1039,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 1043,
           "OriginalText": " ",
           "TranslatedText": " ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 1
         },
         {
           "Line": 1046,
           "OriginalText": "should be...",
-          "TranslatedText": "น่าจะ..."
+          "TranslatedText": "น่าจะ...",
+          "Length": 12
         },
         {
           "Line": 1050,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 1054,
           "OriginalText": "along the path that leads past\nthe shrine",
           "TranslatedText": "ตามทางไปที่ผ่าน\nshrine",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 41
         },
         {
           "Line": 1057,
           "OriginalText": ".",
-          "TranslatedText": " นี่ไป"
+          "TranslatedText": " นี่ไป",
+          "Length": 1
         },
         {
           "Line": 1061,
           "OriginalText": " *pant*\nThat\u0027s what I\u0027ve been told, anyway.",
-          "TranslatedText": " *pant*\nนั่นคือที่ฉันได้ข้อมูลมา"
+          "TranslatedText": " *pant*\nนั่นคือที่ฉันได้ข้อมูลมา",
+          "Length": 43
         },
         {
           "Line": 1065,
           "OriginalText": "\nYeesh, I\u0027m completely out of breath!\nThat always happens right about here.\n",
-          "TranslatedText": "\nโอย ฉันหายใจไม่ทันแล้ว!\n"
+          "TranslatedText": "\nโอย ฉันหายใจไม่ทันแล้ว!\n",
+          "Length": 76
         },
         {
           "Line": 1071,
           "OriginalText": "*pant*",
-          "TranslatedText": "*pant*"
+          "TranslatedText": "*pant*",
+          "Length": 6
         },
         {
           "Line": 1075,
           "OriginalText": " The weather is awful, too,\nso I think I\u0027d better rest for a bit.\n\n",
-          "TranslatedText": " อากาศก็แย่มากด้วย\nฉันว่าฉันควรพักสักหน่อย\n\n"
+          "TranslatedText": " อากาศก็แย่มากด้วย\nฉันว่าฉันควรพักสักหน่อย\n\n",
+          "Length": 67
         },
         {
           "Line": 1081,
           "OriginalText": "But hey, if you find it...don\u0027t forget to\nget a ",
-          "TranslatedText": "แล้วก็ถ้าเจอละก็... อย่าลืม\nถ่าย "
+          "TranslatedText": "แล้วก็ถ้าเจอละก็... อย่าลืม\nถ่าย ",
+          "Length": 48
         },
         {
           "Line": 1085,
           "OriginalText": "picture",
           "TranslatedText": "รูป",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 1088,
           "OriginalText": "!",
-          "TranslatedText": " มานะ!"
+          "TranslatedText": " มานะ!",
+          "Length": 1
         }
       ]
     },
@@ -1236,12 +1433,14 @@
         {
           "Line": 1097,
           "OriginalText": "Wow! You\u0027re high-spirited, even in\nthe rain!",
-          "TranslatedText": "ว้าว คุณนี่กะตือรือร้นจังนะ!"
+          "TranslatedText": "ว้าว คุณนี่กะตือรือร้นจังนะ!",
+          "Length": 44
         },
         {
           "Line": 1101,
           "OriginalText": " I didn\u0027t know you loved\nbeautiful landscapes quite so much.\nWell, shall we?",
-          "TranslatedText": "\nไม่ยักรู้ว่าคุณชอบทิวทัศน์สวยงามขนาดนี้\nงั้นไปกันเลยมั้ย?"
+          "TranslatedText": "\nไม่ยักรู้ว่าคุณชอบทิวทัศน์สวยงามขนาดนี้\nงั้นไปกันเลยมั้ย?",
+          "Length": 76
         }
       ]
     },
@@ -1251,7 +1450,8 @@
         {
           "Line": 1110,
           "OriginalText": "The area beyond that elevated bit of land\nis suspicious... Perhaps I\u0027ll go take a\nlook when the weather clears up.",
-          "TranslatedText": "พื้นที่เลยที่ยกสูงตรงนั้นน่าสงสัย... บางทีฉันอาจจะลอง\nไปดูตอนที่อากาศดีแล้ว"
+          "TranslatedText": "พื้นที่เลยที่ยกสูงตรงนั้นน่าสงสัย... บางทีฉันอาจจะลอง\nไปดูตอนที่อากาศดีแล้ว",
+          "Length": 114
         }
       ]
     },
@@ -1261,7 +1461,8 @@
         {
           "Line": 1119,
           "OriginalText": "To think we\u0027d run into each other again...",
-          "TranslatedText": "ไม่นึกเลยว่าเราจะได้บังเอิญมาเจอกันอีกครั้ง..."
+          "TranslatedText": "ไม่นึกเลยว่าเราจะได้บังเอิญมาเจอกันอีกครั้ง...",
+          "Length": 42
         }
       ]
     }

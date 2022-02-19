@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Here\u0027s an elixir.",
-          "TranslatedText": "นี่ elixir"
+          "TranslatedText": "นี่ elixir",
+          "Length": 17
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "An elixir?",
-          "TranslatedText": "Elixir?"
+          "TranslatedText": "Elixir?",
+          "Length": 10
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -48,7 +52,8 @@
         {
           "Line": 24,
           "OriginalText": "What am I going to do?",
-          "TranslatedText": "ฉันจะทำยังไงดี?"
+          "TranslatedText": "ฉันจะทำยังไงดี?",
+          "Length": 22
         }
       ]
     },
@@ -63,29 +68,34 @@
         {
           "Line": 33,
           "OriginalText": "I wish somebody had mentioned the\ncrazy heat before I came all the way\nout here...\nIt\u0027s so hot at midday, it\u0027s impossible\nto make it to ",
-          "TranslatedText": "น่าจะมีคนบอกฉันก่อนจะมาที่นี่บ้าง\nว่าที่นี่มันร้อนนรกขนาดนี้...\nตอนกลางวันนี่ร้อนสุดๆ ไม่มีทางที่จะไปถึง\n"
+          "TranslatedText": "น่าจะมีคนบอกฉันก่อนจะมาที่นี่บ้าง\nว่าที่นี่มันร้อนนรกขนาดนี้...\nตอนกลางวันนี่ร้อนสุดๆ ไม่มีทางที่จะไปถึง\n",
+          "Length": 136
         },
         {
           "Line": 37,
           "OriginalText": "Gerudo Town",
           "TranslatedText": "Gerudo Town",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 40,
           "OriginalText": " unaided!\n\nI should have made one of those",
-          "TranslatedText": " โดยไม่มีตัวช่วยแน่!\nฉันน่าจะทำ "
+          "TranslatedText": " โดยไม่มีตัวช่วยแน่!\nฉันน่าจะทำ ",
+          "Length": 42
         },
         {
           "Line": 44,
           "OriginalText": " elixirs\nthat stave off the heat ",
           "TranslatedText": " elixirs\nที่ช่วยปัดเป่าความร้อน ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 33
         },
         {
           "Line": 47,
           "OriginalText": "of the desert.",
-          "TranslatedText": " ของทะเลทรายมาสักอัน"
+          "TranslatedText": " ของทะเลทรายมาสักอัน",
+          "Length": 14
         }
       ]
     },
@@ -100,12 +110,14 @@
         {
           "Line": 64,
           "OriginalText": "Oh?",
-          "TranslatedText": "อ้อ?"
+          "TranslatedText": "อ้อ?",
+          "Length": 3
         },
         {
           "Line": 68,
           "OriginalText": " Could it be?",
-          "TranslatedText": " หรือว่า?"
+          "TranslatedText": " หรือว่า?",
+          "Length": 13
         }
       ]
     },
@@ -116,27 +128,32 @@
         {
           "Line": 85,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 89,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 95,
           "OriginalText": "Oh?",
-          "TranslatedText": "อ้อ?"
+          "TranslatedText": "อ้อ?",
+          "Length": 3
         },
         {
           "Line": 99,
           "OriginalText": "\nCould it be?",
-          "TranslatedText": "\nหรือว่า?"
+          "TranslatedText": "\nหรือว่า?",
+          "Length": 13
         },
         {
           "Line": 103,
           "OriginalText": "\n\nFine, then.",
-          "TranslatedText": "\nงั้นก็ได้"
+          "TranslatedText": "\nงั้นก็ได้",
+          "Length": 13
         }
       ]
     },
@@ -147,7 +164,8 @@
         {
           "Line": 112,
           "OriginalText": "Thank you! Now I can get across the\ndesert while it\u0027s still light out!\n\nHere, let me give you something in\nreturn.",
-          "TranslatedText": "ขอบคุณ! ทีนี้ฉันก็สามารถข้ามทะเลทราย\nในตอนกลางวันได้แล้ว!\nฉันขอให้ของเป็นการตอบแทนนะ"
+          "TranslatedText": "ขอบคุณ! ทีนี้ฉันก็สามารถข้ามทะเลทราย\nในตอนกลางวันได้แล้ว!\nฉันขอให้ของเป็นการตอบแทนนะ",
+          "Length": 114
         }
       ]
     },
@@ -158,62 +176,73 @@
         {
           "Line": 126,
           "OriginalText": "Yeah, I heard that you can make a\n",
-          "TranslatedText": "ใช่ ฉันได้ยินมาว่าคุณสามารถทำ\n"
+          "TranslatedText": "ใช่ ฉันได้ยินมาว่าคุณสามารถทำ\n",
+          "Length": 34
         },
         {
           "Line": 130,
           "OriginalText": "cooling elixir ",
           "TranslatedText": "cooling elixir ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 15
         },
         {
           "Line": 133,
           "OriginalText": "from ",
-          "TranslatedText": "จาก "
+          "TranslatedText": "จาก ",
+          "Length": 5
         },
         {
           "Line": 137,
           "OriginalText": "certain bugs and\nmonster materials",
           "TranslatedText": "แมลงชนิดหนึ่งและวัตถดิบจากมอนสเตอร์",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 34
         },
         {
           "Line": 140,
           "OriginalText": ".\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 146,
           "OriginalText": "But they don\u0027t sell the stuff anywhere,\nand I\u0027m a lousy cook.\n\nI hear the best place to find ",
-          "TranslatedText": "แต่ว่ามันไม่มีขายเลยและฉันก็ทำอาหารไม่เก่งอีกด้วย\nได้ยินว่าจุดที่ดีที่สุดที่จะหา "
+          "TranslatedText": "แต่ว่ามันไม่มีขายเลยและฉันก็ทำอาหารไม่เก่งอีกด้วย\nได้ยินว่าจุดที่ดีที่สุดที่จะหา ",
+          "Length": 93
         },
         {
           "Line": 150,
           "OriginalText": "bugs with\ncooling effects",
           "TranslatedText": "แมลงที่\nให้ผลด้านความเย็น",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 25
         },
         {
           "Line": 153,
           "OriginalText": " is in the ",
-          "TranslatedText": " คือใน "
+          "TranslatedText": " คือใน ",
+          "Length": 11
         },
         {
           "Line": 157,
           "OriginalText": "colder heights of\nthe Gerudo Highlands",
           "TranslatedText": "Gerudo Highlands",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 38
         },
         {
           "Line": 160,
           "OriginalText": ".\nBut there are monsters there...\n\n\n",
-          "TranslatedText": ".\nแต่ว่าที่นั่นมีมอนสเตอร์...\n"
+          "TranslatedText": ".\nแต่ว่าที่นั่นมีมอนสเตอร์...\n",
+          "Length": 36
         },
         {
           "Line": 167,
           "OriginalText": "Too bad I\u0027m allergic to monster punches...",
           "TranslatedText": "แย่หน่อยที่ฉันเป็นภูมิแพ้หมัดของพวกมอนสเตอร์...",
-          "Colour": "grey"
+          "Colour": "grey",
+          "Length": 42
         }
       ]
     },
@@ -224,23 +253,27 @@
         {
           "Line": 181,
           "OriginalText": "Nights in the desert are cool and breezy.\nSuch a nice break from the oppressive\nheat...\nBut the night...",
-          "TranslatedText": "กลางคืนในทะเลทรายนั้นเย็นสบาย\nนับว่าเป็นการได้พักจากอากาศร้อนที่ดี...\nแต่ว่ากลางคืน..."
+          "TranslatedText": "กลางคืนในทะเลทรายนั้นเย็นสบาย\nนับว่าเป็นการได้พักจากอากาศร้อนที่ดี...\nแต่ว่ากลางคืน...",
+          "Length": 104
         },
         {
           "Line": 185,
           "OriginalText": " It\u0027s kinda scary...",
-          "TranslatedText": " มันค่อนข้างน่ากลัว..."
+          "TranslatedText": " มันค่อนข้างน่ากลัว...",
+          "Length": 20
         },
         {
           "Line": 189,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 196,
           "OriginalText": "I\u0027m afraid of the dark...",
           "TranslatedText": "ฉันกลัวความมืด...",
-          "Colour": "grey"
+          "Colour": "grey",
+          "Length": 25
         }
       ]
     },
@@ -251,7 +284,8 @@
         {
           "Line": 210,
           "OriginalText": "By the way, in Gerudo, \u0022thank you\u0022 is\n\u0022sarqso.\u0022\n\nSARQSO!",
-          "TranslatedText": "รู้ไหม ในภาษา Gerudo, \u0022ขอบคุณ\u0022 พูดว่า\n\u0022sarqso.\u0022\nSARQSO!"
+          "TranslatedText": "รู้ไหม ในภาษา Gerudo, \u0022ขอบคุณ\u0022 พูดว่า\n\u0022sarqso.\u0022\nSARQSO!",
+          "Length": 56
         }
       ]
     }

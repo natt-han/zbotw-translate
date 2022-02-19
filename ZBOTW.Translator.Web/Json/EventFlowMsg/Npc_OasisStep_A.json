@@ -8,7 +8,8 @@
         {
           "Line": 8,
           "OriginalText": "Looks good on you...",
-          "TranslatedText": "ใส่แล้วดูดีนะ..."
+          "TranslatedText": "ใส่แล้วดูดีนะ...",
+          "Length": 20
         }
       ]
     },
@@ -19,17 +20,20 @@
         {
           "Line": 20,
           "OriginalText": "Halt! ",
-          "TranslatedText": "หยุดนะ!"
+          "TranslatedText": "หยุดนะ!",
+          "Length": 6
         },
         {
           "Line": 24,
           "OriginalText": "\n\n\nUnless you have permission, you\u0027ll stay\nright there!",
-          "TranslatedText": "\n\n\nถ้าไม่ได้รับอนุญาตก็จงหยุดอยู่ตรงนั้น!\n"
+          "TranslatedText": "\n\n\nถ้าไม่ได้รับอนุญาตก็จงหยุดอยู่ตรงนั้น!\n",
+          "Length": 55
         },
         {
           "Line": 28,
           "OriginalText": " I don\u0027t care who you are!",
-          "TranslatedText": "ฉันไม่สนว่าคุณจะเป็นใคร!"
+          "TranslatedText": "ฉันไม่สนว่าคุณจะเป็นใคร!",
+          "Length": 26
         }
       ]
     },
@@ -40,18 +44,21 @@
         {
           "Line": 37,
           "OriginalText": "You must be pretty special to have\ngotten permission from the ",
-          "TranslatedText": "คุณคงไม่ใช่คนธรรมดาสินะ\nถึงได้รับอนุญาตจาก"
+          "TranslatedText": "คุณคงไม่ใช่คนธรรมดาสินะ\nถึงได้รับอนุญาตจาก",
+          "Length": 62
         },
         {
           "Line": 41,
           "OriginalText": "chief",
           "TranslatedText": "หัวหน้า",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 44,
           "OriginalText": ".",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 1
         }
       ]
     }

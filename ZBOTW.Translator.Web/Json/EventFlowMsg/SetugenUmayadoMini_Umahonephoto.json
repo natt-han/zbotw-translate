@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Found it!",
-          "TranslatedText": "พบแล้ว!"
+          "TranslatedText": "พบแล้ว!",
+          "Length": 9
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "No luck yet.",
-          "TranslatedText": "ยังเลย"
+          "TranslatedText": "ยังเลย",
+          "Length": 12
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "A Stalhorse?",
-          "TranslatedText": "Stalhorse?"
+          "TranslatedText": "Stalhorse?",
+          "Length": 12
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Don\u0027t give up.",
-          "TranslatedText": "อย่ายอมแพ้นะ"
+          "TranslatedText": "อย่ายอมแพ้นะ",
+          "Length": 14
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "I can do it.",
-          "TranslatedText": "ฉันทำได้"
+          "TranslatedText": "ฉันทำได้",
+          "Length": 12
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Creepy horse? Pass.",
-          "TranslatedText": "ม้าน่ากลัว? ขอผ่านล่ะ"
+          "TranslatedText": "ม้าน่ากลัว? ขอผ่านล่ะ",
+          "Length": 19
         }
       ]
     },
@@ -72,45 +78,53 @@
         {
           "Line": 37,
           "OriginalText": "How goes it? ",
-          "TranslatedText": "เป็นไงบ้าง? "
+          "TranslatedText": "เป็นไงบ้าง? ",
+          "Length": 13
         },
         {
           "Line": 41,
           "OriginalText": "Did you find the ",
-          "TranslatedText": "หา "
+          "TranslatedText": "หา ",
+          "Length": 17
         },
         {
           "Line": 45,
           "OriginalText": "Stalhorse",
           "TranslatedText": "Stalhorse",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 48,
           "OriginalText": "?\n\n\nThe last I\u0027d heard, it supposedly wanders\naround the ",
-          "TranslatedText": " พบหรือยัง?\n\n\nล่าสุดที่ได้ข่าวมา มันน่าจะวนเวียน\nอยู่แถวๆ "
+          "TranslatedText": " พบหรือยัง?\n\n\nล่าสุดที่ได้ข่าวมา มันน่าจะวนเวียน\nอยู่แถวๆ ",
+          "Length": 57
         },
         {
           "Line": 52,
           "OriginalText": "North Tabantha Snowfield",
           "TranslatedText": "North Tabantha Snowfield",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 24
         },
         {
           "Line": 55,
           "OriginalText": "\nnear the weird ",
-          "TranslatedText": "\nใกล้กับ"
+          "TranslatedText": "\nใกล้กับ",
+          "Length": 16
         },
         {
           "Line": 59,
           "OriginalText": "ruins ",
           "TranslatedText": "ซากปรักหักพัง",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 62,
           "OriginalText": "to the east.",
-          "TranslatedText": "แปลกๆ ทางตะวันออก"
+          "TranslatedText": "แปลกๆ ทางตะวันออก",
+          "Length": 12
         }
       ]
     },
@@ -121,7 +135,8 @@
         {
           "Line": 79,
           "OriginalText": "Yup, that picture\u0027s all I need!",
-          "TranslatedText": "ใช่แล้ว รูปนั้นแหละที่ฉันต้องการ!"
+          "TranslatedText": "ใช่แล้ว รูปนั้นแหละที่ฉันต้องการ!",
+          "Length": 31
         }
       ]
     },
@@ -132,18 +147,21 @@
         {
           "Line": 88,
           "OriginalText": "Well, don\u0027t give up! Keep working on this\nscoop for me!\n\nA ",
-          "TranslatedText": "เอาเถอะ อย่ายอมแพ้นะ!\nช่วยฉันหน่อยนะเรื่องนี้!\n\n"
+          "TranslatedText": "เอาเถอะ อย่ายอมแพ้นะ!\nช่วยฉันหน่อยนะเรื่องนี้!\n\n",
+          "Length": 59
         },
         {
           "Line": 92,
           "OriginalText": "Stalhorse",
           "TranslatedText": "Stalhorse",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 95,
           "OriginalText": " is probably a lot like a\nStalkoblin... I bet it only comes out at\nnight too!",
-          "TranslatedText": " น่าจะคล้ายกับ Stalkoblin มากอยู่...\nฉันพนันเลยว่ามันต้องออกมาแค่ตอนกลางคืน\nเหมือนกันแน่!"
+          "TranslatedText": " น่าจะคล้ายกับ Stalkoblin มากอยู่...\nฉันพนันเลยว่ามันต้องออกมาแค่ตอนกลางคืน\nเหมือนกันแน่!",
+          "Length": 77
         }
       ]
     },
@@ -154,17 +172,20 @@
         {
           "Line": 104,
           "OriginalText": "What\u0027s the deal?",
-          "TranslatedText": "เป็นไงบ้าง?"
+          "TranslatedText": "เป็นไงบ้าง?",
+          "Length": 16
         },
         {
           "Line": 108,
           "OriginalText": " You haven\u0027t got a\npicture or anything...",
-          "TranslatedText": "\nยังไม่ได้รูปหรืออะไรมาเลยเหรอ..."
+          "TranslatedText": "\nยังไม่ได้รูปหรืออะไรมาเลยเหรอ...",
+          "Length": 41
         },
         {
           "Line": 112,
           "OriginalText": " I guess it must be\nreally, really tough to track down...",
-          "TranslatedText": " ฉันเดาว่า\nมันคงตามรอยได้ยากมากๆ แน่เลย..."
+          "TranslatedText": " ฉันเดาว่า\nมันคงตามรอยได้ยากมากๆ แน่เลย...",
+          "Length": 57
         }
       ]
     },
@@ -175,7 +196,8 @@
         {
           "Line": 121,
           "OriginalText": "Oh, thank you! This is a great picture!\nIt\u0027ll be perfect inspiration for the article\nI\u0027m going to write!\nHere\u0027s your reward, just as I promised!",
-          "TranslatedText": "ขอบคุณนะ! รูปนี้มันเยี่ยมมากเลย!\nมันจะต้องเป็นแรงบันดาลใจอันยอดเยี่ยม\nสำหรับบทความที่ฉันกำลังจะเขียนแน่!\nนี่รางวัลของคุณนะ อย่างที่สัญญาไว้!"
+          "TranslatedText": "ขอบคุณนะ! รูปนี้มันเยี่ยมมากเลย!\nมันจะต้องเป็นแรงบันดาลใจอันยอดเยี่ยม\nสำหรับบทความที่ฉันกำลังจะเขียนแน่!\nนี่รางวัลของคุณนะ อย่างที่สัญญาไว้!",
+          "Length": 144
         }
       ]
     },
@@ -190,18 +212,21 @@
         {
           "Line": 130,
           "OriginalText": "I\u0027ve traveled to the east and the west in\nmy great hunt for information, and now\nI find myself here in the freezing north...\nI heard there was a ",
-          "TranslatedText": "ฉันได้เดินทางไปทั่วเพื่อที่จะตามหาข้อมูล\nแล้วตอนนี้ฉันก็มาอยู่ในที่หนาวจนจะแข็ง\nทางเหนือนี่...\nฉันได้ยินมาว่ามี "
+          "TranslatedText": "ฉันได้เดินทางไปทั่วเพื่อที่จะตามหาข้อมูล\nแล้วตอนนี้ฉันก็มาอยู่ในที่หนาวจนจะแข็ง\nทางเหนือนี่...\nฉันได้ยินมาว่ามี ",
+          "Length": 145
         },
         {
           "Line": 134,
           "OriginalText": "Stalhorse",
           "TranslatedText": "Stalhorse",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 137,
           "OriginalText": " in this\narea, but I can\u0027t take it any longer! It\u0027s\ntoo cold to look anymore!",
-          "TranslatedText": " อยู่ในบริเวณนี้\nแต่ฉันทนไม่ไหวแล้ว! มันหนาวเกินจะค้นหาแล้ว!"
+          "TranslatedText": " อยู่ในบริเวณนี้\nแต่ฉันทนไม่ไหวแล้ว! มันหนาวเกินจะค้นหาแล้ว!",
+          "Length": 77
         }
       ]
     },
@@ -212,7 +237,8 @@
         {
           "Line": 154,
           "OriginalText": "Yeah, thanks. I\u0027ll keep at it. I\u0027ve gotta set\nan example, being the oldest sister\nand all.",
-          "TranslatedText": "ใช่ ขอบใจนะ ฉันจะพยายามต่อไป\nฉันต้องทำตัวให้เป็นตัวอย่าง \nเพราะว่าฉันเป็นพี่สาวคนโตทั้งที"
+          "TranslatedText": "ใช่ ขอบใจนะ ฉันจะพยายามต่อไป\nฉันต้องทำตัวให้เป็นตัวอย่าง \nเพราะว่าฉันเป็นพี่สาวคนโตทั้งที",
+          "Length": 90
         }
       ]
     },
@@ -227,59 +253,70 @@
         {
           "Line": 166,
           "OriginalText": "Beep-beep!",
-          "TranslatedText": "Beep-beep!"
+          "TranslatedText": "Beep-beep!",
+          "Length": 10
         },
         {
           "Line": 170,
           "OriginalText": "\n\n\nYou just set off Juannelle\u0027s intuition\nsensors! You\u0027re interested in the\n",
-          "TranslatedText": "\n\n\nคุณเพิ่งทำให้ เซนเซอร์สัญชาตญาณ\nของ Juannelle ทำงาน\nคุณก็สนใจ "
+          "TranslatedText": "\n\n\nคุณเพิ่งทำให้ เซนเซอร์สัญชาตญาณ\nของ Juannelle ทำงาน\nคุณก็สนใจ ",
+          "Length": 76
         },
         {
           "Line": 174,
           "OriginalText": "Stalhorse",
           "TranslatedText": "Stalhorse",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 177,
           "OriginalText": " too, huh?\nI just wanted to see this creepy\n",
-          "TranslatedText": " เหมือนกันงั้นเหรอ?\nฉันอยากจะเห็นเจ้า\n"
+          "TranslatedText": " เหมือนกันงั้นเหรอ?\nฉันอยากจะเห็นเจ้า\n",
+          "Length": 44
         },
         {
           "Line": 181,
           "OriginalText": "Stalhorse monster",
           "TranslatedText": "Stalhorse ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 17
         },
         {
           "Line": 184,
           "OriginalText": " once with my\nown eyes!\nIf it really does exist, it\u0027d be such\na big scoop!\n\n",
-          "TranslatedText": "น่ากลัวนี่\nด้วยตาฉันเองสักครั้ง!\nถ้าหากว่ามันมีอยู่จริง\nมันจะต้องเป็นข่าวใหญ่แน่!\n\n"
+          "TranslatedText": "น่ากลัวนี่\nด้วยตาฉันเองสักครั้ง!\nถ้าหากว่ามันมีอยู่จริง\nมันจะต้องเป็นข่าวใหญ่แน่!\n\n",
+          "Length": 76
         },
         {
           "Line": 190,
           "OriginalText": "But... ",
-          "TranslatedText": "แต่ว่า..."
+          "TranslatedText": "แต่ว่า...",
+          "Length": 7
         },
         {
           "Line": 194,
           "OriginalText": "Well, I can handle all kinds of\ndangers and hazards, but this cold...",
-          "TranslatedText": "แบบว่า ฉันรับมือกับภัยอันตรายได้\nทุกรูปแบบอยู่นะ แต่ว่าความหนาวนี่..."
+          "TranslatedText": "แบบว่า ฉันรับมือกับภัยอันตรายได้\nทุกรูปแบบอยู่นะ แต่ว่าความหนาวนี่...",
+          "Length": 69
         },
         {
           "Line": 198,
           "OriginalText": "\nBrrr, I can\u0027t stand it!\n",
-          "TranslatedText": "\nบรื๋อ ทนไม่ไหวแล้ว!\n"
+          "TranslatedText": "\nบรื๋อ ทนไม่ไหวแล้ว!\n",
+          "Length": 25
         },
         {
           "Line": 204,
           "OriginalText": "Can you handle this task for me?\nI\u0027ll even reward you! All I need is\na picture!",
-          "TranslatedText": "คุณจัดการงานนี้แทนฉันได้ไหม?\nฉันมีรางวัลให้ด้วยนะ! ฉันก็แค่ต้องการ\nรูปภาพ!"
+          "TranslatedText": "คุณจัดการงานนี้แทนฉันได้ไหม?\nฉันมีรางวัลให้ด้วยนะ! ฉันก็แค่ต้องการ\nรูปภาพ!",
+          "Length": 79
         },
         {
           "Line": 208,
           "OriginalText": " Or some notes!",
-          "TranslatedText": " หรือบันทึกสักอย่าง!"
+          "TranslatedText": " หรือบันทึกสักอย่าง!",
+          "Length": 15
         }
       ]
     },
@@ -290,7 +327,8 @@
         {
           "Line": 225,
           "OriginalText": "I hope we get a chance to work together\nagain in the future!",
-          "TranslatedText": "ฉันหวังว่าเราจะมีโอกาสได้ร่วมงานกันอีก\nในอนาคตนะ!"
+          "TranslatedText": "ฉันหวังว่าเราจะมีโอกาสได้ร่วมงานกันอีก\nในอนาคตนะ!",
+          "Length": 60
         }
       ]
     },
@@ -301,50 +339,59 @@
         {
           "Line": 234,
           "OriginalText": "Good answer!\n\n\n",
-          "TranslatedText": "ตอบได้ดี!\n\n\n"
+          "TranslatedText": "ตอบได้ดี!\n\n\n",
+          "Length": 15
         },
         {
           "Line": 240,
           "OriginalText": "There\u0027s a rumor that it can be\nfound with ",
-          "TranslatedText": "มีข่าวลือว่ามันสามารถพบได้\nพร้อมกับ "
+          "TranslatedText": "มีข่าวลือว่ามันสามารถพบได้\nพร้อมกับ ",
+          "Length": 42
         },
         {
           "Line": 244,
           "OriginalText": "Stalkoblins",
           "TranslatedText": "Stalkoblins",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 247,
           "OriginalText": " in the\n",
-          "TranslatedText": " ใน\n"
+          "TranslatedText": " ใน\n",
+          "Length": 8
         },
         {
           "Line": 251,
           "OriginalText": "North Tabantha Snowfield",
           "TranslatedText": "North Tabantha Snowfield",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 24
         },
         {
           "Line": 254,
           "OriginalText": ".\nSome have reported it aaaaall the way on\nthe other side of the snow field to the\neast, right in front of these bizarre ",
-          "TranslatedText": "\nบ้างก็มีรายงานว่า มันอยู่ทางสุดขอบ\nอีกด้านหนึ่งของทุ่งหิมะทางตะวันออก\nตรงหน้า"
+          "TranslatedText": "\nบ้างก็มีรายงานว่า มันอยู่ทางสุดขอบ\nอีกด้านหนึ่งของทุ่งหิมะทางตะวันออก\nตรงหน้า",
+          "Length": 121
         },
         {
           "Line": 258,
           "OriginalText": "ruins",
           "TranslatedText": "ซากปรักหักพัง",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 261,
           "OriginalText": ".\n",
-          "TranslatedText": "พวกนั้นพอดี\n"
+          "TranslatedText": "พวกนั้นพอดี\n",
+          "Length": 2
         },
         {
           "Line": 267,
           "OriginalText": "Good luck! I\u0027m really counting on you!",
-          "TranslatedText": "โชคดีนะ! ฉันหวังพึ่งคุณจริงๆ!"
+          "TranslatedText": "โชคดีนะ! ฉันหวังพึ่งคุณจริงๆ!",
+          "Length": 38
         }
       ]
     },
@@ -355,12 +402,14 @@
         {
           "Line": 276,
           "OriginalText": "Oh, I see...",
-          "TranslatedText": "อ้อ งั้นเหรอ..."
+          "TranslatedText": "อ้อ งั้นเหรอ...",
+          "Length": 12
         },
         {
           "Line": 280,
           "OriginalText": " Well, I suppose I should learn\nto not rely on others and do it myself.\nMy younger sisters would be proud!",
-          "TranslatedText": " เอาเถอะ ฉันว่าฉันควรเรียนรู้\nว่าไม่ควรพึ่งพาคนอื่นและลงมือทำด้วยตัวเอง\nน้องสาวของฉันจะต้องภูมิใจแน่!"
+          "TranslatedText": " เอาเถอะ ฉันว่าฉันควรเรียนรู้\nว่าไม่ควรพึ่งพาคนอื่นและลงมือทำด้วยตัวเอง\nน้องสาวของฉันจะต้องภูมิใจแน่!",
+          "Length": 106
         }
       ]
     },
@@ -375,33 +424,39 @@
         {
           "Line": 289,
           "OriginalText": "Oh?",
-          "TranslatedText": "อ้อ?"
+          "TranslatedText": "อ้อ?",
+          "Length": 3
         },
         {
           "Line": 293,
           "OriginalText": " Did you change your mind and\ndecide to take on my request after all?\nI don\u0027t think it\u0027ll be too creepy...\n",
-          "TranslatedText": " คุณเปลี่ยนใจจะมาช่วยฉันแล้วเหรอ\nฉันคิดว่ามันคงไม่ได้น่ากลัวขนาดนั้นหรอก...\n"
+          "TranslatedText": " คุณเปลี่ยนใจจะมาช่วยฉันแล้วเหรอ\nฉันคิดว่ามันคงไม่ได้น่ากลัวขนาดนั้นหรอก...\n",
+          "Length": 107
         },
         {
           "Line": 299,
           "OriginalText": "The ",
-          "TranslatedText": "เจ้า "
+          "TranslatedText": "เจ้า ",
+          "Length": 4
         },
         {
           "Line": 303,
           "OriginalText": "Stalhorse",
           "TranslatedText": "Stalhorse",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 306,
           "OriginalText": "...",
-          "TranslatedText": " นี่..."
+          "TranslatedText": " นี่...",
+          "Length": 3
         },
         {
           "Line": 310,
           "OriginalText": " I don\u0027t care whether it\u0027s\na picture or a memo—just show me some\nproof!",
-          "TranslatedText": "ฉันไม่สนว่ามันจะเป็นรูป\nหรือแค่บันทึก— แค่แสดงหลักฐานให้ฉันเห็น!"
+          "TranslatedText": "ฉันไม่สนว่ามันจะเป็นรูป\nหรือแค่บันทึก— แค่แสดงหลักฐานให้ฉันเห็น!",
+          "Length": 71
         }
       ]
     },
@@ -412,7 +467,8 @@
         {
           "Line": 322,
           "OriginalText": "Hmmm...what\u0027ll I do...",
-          "TranslatedText": "อืมมม... ฉันจะทำยังไงดี..."
+          "TranslatedText": "อืมมม... ฉันจะทำยังไงดี...",
+          "Length": 22
         }
       ]
     }

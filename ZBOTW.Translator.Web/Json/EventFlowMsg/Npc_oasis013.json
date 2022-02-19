@@ -8,17 +8,20 @@
         {
           "Line": 16,
           "OriginalText": "Vasaaq.",
-          "TranslatedText": "Vasaaq"
+          "TranslatedText": "Vasaaq",
+          "Length": 7
         },
         {
           "Line": 20,
           "OriginalText": "\nBuy a lot",
-          "TranslatedText": "\nซื้อเยอะๆ เลยนะ"
+          "TranslatedText": "\nซื้อเยอะๆ เลยนะ",
+          "Length": 10
         },
         {
           "Line": 24,
           "OriginalText": "...OK?",
-          "TranslatedText": "...โอเคนะ?"
+          "TranslatedText": "...โอเคนะ?",
+          "Length": 6
         }
       ]
     },
@@ -29,43 +32,51 @@
         {
           "Line": 36,
           "OriginalText": "Hey, lady!",
-          "TranslatedText": "เฮ้ คุณผู้หญิง!"
+          "TranslatedText": "เฮ้ คุณผู้หญิง!",
+          "Length": 10
         },
         {
           "Line": 40,
           "OriginalText": " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend...",
-          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ..."
+          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ...",
+          "Length": 58
         },
         {
           "Line": 44,
           "OriginalText": "bomb arrows",
           "TranslatedText": "bomb arrows",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 47,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 51,
           "OriginalText": "\nIf you shoot them at something...\n\n",
-          "TranslatedText": "\nถ้าคุณเอามันไปยิง...\n\n"
+          "TranslatedText": "\nถ้าคุณเอามันไปยิง...\n\n",
+          "Length": 36
         },
         {
           "Line": 60,
           "OriginalText": "BOOOOOM!!!",
-          "TranslatedText": "BOOOOOM!!!"
+          "TranslatedText": "BOOOOOM!!!",
+          "Length": 10
         },
         {
           "Line": 67,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 79,
           "OriginalText": "It\u0027s amazing!",
-          "TranslatedText": "มันสุดยอดไปเลย!"
+          "TranslatedText": "มันสุดยอดไปเลย!",
+          "Length": 13
         }
       ]
     },
@@ -76,12 +87,14 @@
         {
           "Line": 93,
           "OriginalText": "Sav\u0027saaba.",
-          "TranslatedText": "Sav\u0027saaba"
+          "TranslatedText": "Sav\u0027saaba",
+          "Length": 10
         },
         {
           "Line": 97,
           "OriginalText": "\nToday was another busy day, so I think\nI\u0027ll go to bed soon.",
-          "TranslatedText": "\nวันนี้ก็ยุ่งเหมือนเคย ดังนั้นฉันเลยคิดว่า\nเดี๋ยวจะเข้านอนแล้ว"
+          "TranslatedText": "\nวันนี้ก็ยุ่งเหมือนเคย ดังนั้นฉันเลยคิดว่า\nเดี๋ยวจะเข้านอนแล้ว",
+          "Length": 60
         }
       ]
     },
@@ -92,7 +105,8 @@
         {
           "Line": 106,
           "OriginalText": "I wonder how Dalia\u0027s crops are\ndoing...",
-          "TranslatedText": "สงสัยจะว่าผลไม้ของ Dalia เป็นยังไงบ้าง..."
+          "TranslatedText": "สงสัยจะว่าผลไม้ของ Dalia เป็นยังไงบ้าง...",
+          "Length": 39
         }
       ]
     },
@@ -103,38 +117,45 @@
         {
           "Line": 115,
           "OriginalText": "Hey, lady!",
-          "TranslatedText": "เฮ้ คุณผู้หญิง!"
+          "TranslatedText": "เฮ้ คุณผู้หญิง!",
+          "Length": 10
         },
         {
           "Line": 119,
           "OriginalText": " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend...",
-          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ..."
+          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ...",
+          "Length": 58
         },
         {
           "Line": 123,
           "OriginalText": "shock arrows",
           "TranslatedText": "shock arrows",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 126,
           "OriginalText": "!\nIf you shoot them at something...\n\n",
-          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n"
+          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n",
+          "Length": 37
         },
         {
           "Line": 135,
           "OriginalText": "BZZBZZT!!!",
-          "TranslatedText": "BZZBZZT!!!"
+          "TranslatedText": "BZZBZZT!!!",
+          "Length": 10
         },
         {
           "Line": 139,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 148,
           "OriginalText": "They zap!",
-          "TranslatedText": "มันช็อต!"
+          "TranslatedText": "มันช็อต!",
+          "Length": 9
         }
       ]
     },
@@ -145,38 +166,45 @@
         {
           "Line": 157,
           "OriginalText": "Hey, lady!",
-          "TranslatedText": "เฮ้ คุณผู้หญิง!"
+          "TranslatedText": "เฮ้ คุณผู้หญิง!",
+          "Length": 10
         },
         {
           "Line": 161,
           "OriginalText": " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend...",
-          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ..."
+          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ...",
+          "Length": 58
         },
         {
           "Line": 165,
           "OriginalText": "fire arrows",
           "TranslatedText": "fire arrows",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 168,
           "OriginalText": "!\nIf you shoot them at something...\n\n",
-          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n"
+          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n",
+          "Length": 37
         },
         {
           "Line": 177,
           "OriginalText": "BOOSH!!!",
-          "TranslatedText": "BOOSH!!!"
+          "TranslatedText": "BOOSH!!!",
+          "Length": 8
         },
         {
           "Line": 181,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 190,
           "OriginalText": "Flames everywhere!",
-          "TranslatedText": "ไฟลุกท่วม!"
+          "TranslatedText": "ไฟลุกท่วม!",
+          "Length": 18
         }
       ]
     },
@@ -187,38 +215,45 @@
         {
           "Line": 205,
           "OriginalText": "Hey, lady!",
-          "TranslatedText": "เฮ้ คุณผู้หญิง!"
+          "TranslatedText": "เฮ้ คุณผู้หญิง!",
+          "Length": 10
         },
         {
           "Line": 209,
           "OriginalText": " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend...",
-          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ..."
+          "TranslatedText": "ซื้อของเยอะๆ เลยะนะ\nโอเคนะ?\n\nฉันแนะนำ...",
+          "Length": 58
         },
         {
           "Line": 213,
           "OriginalText": "ice arrows",
           "TranslatedText": "ice arrows",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 216,
           "OriginalText": "!\nIf you shoot them at something...\n\n",
-          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n"
+          "TranslatedText": "!\nถ้าคุณเอามันไปยิง......\n\n",
+          "Length": 37
         },
         {
           "Line": 225,
           "OriginalText": "CRAAAAACK!!!",
-          "TranslatedText": "CRAAAAACK!!!"
+          "TranslatedText": "CRAAAAACK!!!",
+          "Length": 12
         },
         {
           "Line": 229,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 238,
           "OriginalText": "Frozen solid!",
-          "TranslatedText": "แข็งเป้กก!"
+          "TranslatedText": "แข็งเป้กก!",
+          "Length": 13
         }
       ]
     },
@@ -229,7 +264,8 @@
         {
           "Line": 247,
           "OriginalText": "Have you heard about Dalia\u0027s crops?",
-          "TranslatedText": "คุณได้ยินเรื่องผลไม้ของ Dalia หรือยัง?"
+          "TranslatedText": "คุณได้ยินเรื่องผลไม้ของ Dalia หรือยัง?",
+          "Length": 35
         }
       ]
     },
@@ -240,7 +276,8 @@
         {
           "Line": 256,
           "OriginalText": "Dalia... She won\u0027t stop crying...",
-          "TranslatedText": "Dalia... เธอไม่ยอมหยุดร้องไห้..."
+          "TranslatedText": "Dalia... เธอไม่ยอมหยุดร้องไห้...",
+          "Length": 33
         }
       ]
     },
@@ -251,7 +288,8 @@
         {
           "Line": 265,
           "OriginalText": "Where is everyone?",
-          "TranslatedText": "ทุกคนไปไหนกัน?"
+          "TranslatedText": "ทุกคนไปไหนกัน?",
+          "Length": 18
         }
       ]
     },
@@ -262,7 +300,8 @@
         {
           "Line": 274,
           "OriginalText": "I wanna eat a lot of fruit!",
-          "TranslatedText": "ฉันอยากกินผลไม้เยอะๆ"
+          "TranslatedText": "ฉันอยากกินผลไม้เยอะๆ",
+          "Length": 27
         }
       ]
     },
@@ -273,7 +312,8 @@
         {
           "Line": 283,
           "OriginalText": "Let\u0027s go help everyone next time!",
-          "TranslatedText": "ครั้งหน้าไปช่วยทุกคนกันนะ!"
+          "TranslatedText": "ครั้งหน้าไปช่วยทุกคนกันนะ!",
+          "Length": 33
         }
       ]
     },
@@ -284,7 +324,8 @@
         {
           "Line": 292,
           "OriginalText": "Who would do something like that?\nI\u0027ll never forgive you!",
-          "TranslatedText": "ใครทำเรื่องแบบนั้นกันนะ?\nฉันไม่ยกโทษให้แน่!"
+          "TranslatedText": "ใครทำเรื่องแบบนั้นกันนะ?\nฉันไม่ยกโทษให้แน่!",
+          "Length": 57
         }
       ]
     },
@@ -295,7 +336,8 @@
         {
           "Line": 301,
           "OriginalText": "Hey, you guys! Are you in love?",
-          "TranslatedText": "นี่ พวกเธอ! พวกเธอมีความรักกันรึเปล่า?"
+          "TranslatedText": "นี่ พวกเธอ! พวกเธอมีความรักกันรึเปล่า?",
+          "Length": 31
         }
       ]
     },
@@ -306,12 +348,14 @@
         {
           "Line": 310,
           "OriginalText": "When I\u0027m all growed up, I will be!",
-          "TranslatedText": "ฉันจะมีเมื่อโตขึ้น!"
+          "TranslatedText": "ฉันจะมีเมื่อโตขึ้น!",
+          "Length": 34
         },
         {
           "Line": 314,
           "OriginalText": "\nI\u0027ll go to Miss Ashai\u0027s class, and I\u0027ll\nbecome in love and I\u0027ll get married!",
-          "TranslatedText": "\nฉันจะไปเข้าคลาสของคุณ Ashai และฉันจะ\nมีความรัก และก็แต่งงาน!"
+          "TranslatedText": "\nฉันจะไปเข้าคลาสของคุณ Ashai และฉันจะ\nมีความรัก และก็แต่งงาน!",
+          "Length": 77
         }
       ]
     },
@@ -322,17 +366,20 @@
         {
           "Line": 323,
           "OriginalText": "Mom says it\u0027s really strange that Miss\nAshai is unmarried but teaches her class\non voe.",
-          "TranslatedText": "แม่ฉันบอกว่ามันแปลกที่คุณ Ashai ยังไม่แต่งงาน\nแต่มาเปิดคลาสสอน voe ได้"
+          "TranslatedText": "แม่ฉันบอกว่ามันแปลกที่คุณ Ashai ยังไม่แต่งงาน\nแต่มาเปิดคลาสสอน voe ได้",
+          "Length": 87
         },
         {
           "Line": 327,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 333,
           "OriginalText": "I wonder what unmarried means...",
-          "TranslatedText": "ยังไม่แต่งงานแปลว่าอะไรกันนะ..."
+          "TranslatedText": "ยังไม่แต่งงานแปลว่าอะไรกันนะ...",
+          "Length": 32
         }
       ]
     },
@@ -343,7 +390,8 @@
         {
           "Line": 342,
           "OriginalText": "I heard that being in love and being\nmarried is the sweetest thing in the\nworld!\nBut I really like berries, and those\nare really sweet. I don\u0027t know if I can\nhandle something sweeter than that!",
-          "TranslatedText": "ฉันได้ยินมาว่าการมีความรักนั้นเป็นสิ่งที่\nหวานที่สุดในโลก!\nแต่ฉันชอบพวกเบอร์รี่มาก และพวกมัน\nหวานมาก ฉันไม่รู้ว่าฉันจะกินของที่หวานกว่านั้น\nไหวหรือเปล่า! "
+          "TranslatedText": "ฉันได้ยินมาว่าการมีความรักนั้นเป็นสิ่งที่\nหวานที่สุดในโลก!\nแต่ฉันชอบพวกเบอร์รี่มาก และพวกมัน\nหวานมาก ฉันไม่รู้ว่าฉันจะกินของที่หวานกว่านั้น\nไหวหรือเปล่า! ",
+          "Length": 193
         }
       ]
     },
@@ -354,12 +402,14 @@
         {
           "Line": 351,
           "OriginalText": "Whoa...",
-          "TranslatedText": "โว้..."
+          "TranslatedText": "โว้...",
+          "Length": 7
         },
         {
           "Line": 355,
           "OriginalText": "\nThat\u0027s a really big vure...",
-          "TranslatedText": "\nนั่นเป็น vure ที่ใหญ่มาก..."
+          "TranslatedText": "\nนั่นเป็น vure ที่ใหญ่มาก...",
+          "Length": 28
         }
       ]
     },
@@ -370,12 +420,14 @@
         {
           "Line": 364,
           "OriginalText": "You\u0027re a good person, right, lady?",
-          "TranslatedText": "คุณเป็นคนดีใช่ไหม คุณผู้หญิง?"
+          "TranslatedText": "คุณเป็นคนดีใช่ไหม คุณผู้หญิง?",
+          "Length": 34
         },
         {
           "Line": 368,
           "OriginalText": "\nMy vaba always says that people who\nspend lots of money are good people!",
-          "TranslatedText": "\nVaba ของฉันพูดเสมอว่าคนที่จ่ายเงินเยอะๆ\nเป็นคนดี!"
+          "TranslatedText": "\nVaba ของฉันพูดเสมอว่าคนที่จ่ายเงินเยอะๆ\nเป็นคนดี!",
+          "Length": 73
         }
       ]
     },
@@ -386,17 +438,20 @@
         {
           "Line": 382,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         },
         {
           "Line": 386,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n\n\n"
+          "TranslatedText": "\n\n\n",
+          "Length": 3
         },
         {
           "Line": 392,
           "OriginalText": "...Wait, I don\u0027t have time to hang around\nhere greeting people like this!\n\nI\u0027ve got to hurry and go help out!",
-          "TranslatedText": "...เดี๋ยวนะ ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nฉันต้องรีบไปช่วยแล้ว!"
+          "TranslatedText": "...เดี๋ยวนะ ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nฉันต้องรีบไปช่วยแล้ว!",
+          "Length": 109
         }
       ]
     },
@@ -407,7 +462,8 @@
         {
           "Line": 406,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": "Sav\u0027aaq!"
+          "TranslatedText": "Sav\u0027aaq!",
+          "Length": 8
         }
       ]
     },
@@ -418,7 +474,8 @@
         {
           "Line": 423,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         }
       ]
     },
@@ -429,7 +486,8 @@
         {
           "Line": 437,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": "Vasaaq!"
+          "TranslatedText": "Vasaaq!",
+          "Length": 7
         }
       ]
     },
@@ -440,7 +498,8 @@
         {
           "Line": 446,
           "OriginalText": "...Wait, I don\u0027t have time to hang around\nhere greeting people like this!\n\nI\u0027ve got to hurry up and meet the others!",
-          "TranslatedText": "...เดี๋ยวนะ ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nฉันต้องรีบไปช่วยแล้ว!"
+          "TranslatedText": "...เดี๋ยวนะ ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nฉันต้องรีบไปช่วยแล้ว!",
+          "Length": 116
         }
       ]
     },
@@ -451,7 +510,8 @@
         {
           "Line": 455,
           "OriginalText": "Wait... I don\u0027t have time to hang around\nhere greeting people like this!\n\nIf I don\u0027t hurry, the vure will go away!",
-          "TranslatedText": "เดี๋ยวนะ.. ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nถ้าฉันไม่รีบ! vure นั่นจะหนีไป!"
+          "TranslatedText": "เดี๋ยวนะ.. ฉันไม่มีเวลาจะมาทักทายผู้คน\nอยู่แบบนี้นะ!\n\nถ้าฉันไม่รีบ! vure นั่นจะหนีไป!",
+          "Length": 114
         }
       ]
     }

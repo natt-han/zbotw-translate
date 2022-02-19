@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Check out my album.",
-          "TranslatedText": "ลองดูอัลบั้มของฉัน"
+          "TranslatedText": "ลองดูอัลบั้มของฉัน",
+          "Length": 19
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Nope.",
-          "TranslatedText": "ไม่ล่ะ"
+          "TranslatedText": "ไม่ล่ะ",
+          "Length": 5
         }
       ]
     },
@@ -27,23 +29,27 @@
         {
           "Line": 21,
           "OriginalText": "Oh! You\u0027re the guy who found the\n",
-          "TranslatedText": "โอ้! คุณคือคนที่เจอ\n"
+          "TranslatedText": "โอ้! คุณคือคนที่เจอ\n",
+          "Length": 33
         },
         {
           "Line": 25,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 20
         },
         {
           "Line": 28,
           "OriginalText": "!",
-          "TranslatedText": " นี่นา!"
+          "TranslatedText": " นี่นา!",
+          "Length": 1
         },
         {
           "Line": 32,
           "OriginalText": " Funny running\ninto you here. Are you traveling too?\nI\u0027ve traveled all over the world,\nso I\u0027m happy to tell you about\nnew places, if you want.",
-          "TranslatedText": " ตลกดีนะ ที่บังเอิญ\nมาเจอกันที่นี่ เดินทางเหมือนกันเหรอ?\nฉันเดินทางไปมาทั่วโลกแล้ว\nฉันยินดีเล่าเรื่องสถานที่ใหม่ๆ ให้ฟังนะ \nถ้าต้องการ"
+          "TranslatedText": " ตลกดีนะ ที่บังเอิญ\nมาเจอกันที่นี่ เดินทางเหมือนกันเหรอ?\nฉันเดินทางไปมาทั่วโลกแล้ว\nฉันยินดีเล่าเรื่องสถานที่ใหม่ๆ ให้ฟังนะ \nถ้าต้องการ",
+          "Length": 142
         }
       ]
     },
@@ -53,12 +59,14 @@
         {
           "Line": 41,
           "OriginalText": "Wow... What a dignified structure!",
-          "TranslatedText": "ว้าว... ช่างสง่างามอะไรเช่นนี้!"
+          "TranslatedText": "ว้าว... ช่างสง่างามอะไรเช่นนี้!",
+          "Length": 34
         },
         {
           "Line": 45,
           "OriginalText": "\nHow does nature create such\nmagnificence?",
-          "TranslatedText": "\nธรรมชาติสร้างสรรค์สิ่งสวยงามเช่นนี้\nได้อย่างไรกันนะ?"
+          "TranslatedText": "\nธรรมชาติสร้างสรรค์สิ่งสวยงามเช่นนี้\nได้อย่างไรกันนะ?",
+          "Length": 42
         }
       ]
     },
@@ -72,7 +80,8 @@
         {
           "Line": 54,
           "OriginalText": "If you have a picture to show me,\nlet\u0027s see it already!",
-          "TranslatedText": "ถ้ามีรูปให้ฉันดู ก็เปิดเลย!"
+          "TranslatedText": "ถ้ามีรูปให้ฉันดู ก็เปิดเลย!",
+          "Length": 55
         }
       ]
     },
@@ -83,39 +92,46 @@
         {
           "Line": 71,
           "OriginalText": "Hmm... This picture shows ",
-          "TranslatedText": "อืมม... รูปนี้เห็น "
+          "TranslatedText": "อืมม... รูปนี้เห็น ",
+          "Length": 26
         },
         {
           "Line": 75,
           "OriginalText": "Hyrule Castle",
           "TranslatedText": "ปราสาท Hyrule",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 78,
           "OriginalText": "\nin the distance.\n\n",
-          "TranslatedText": "\nจากระยะไกล\n\n"
+          "TranslatedText": "\nจากระยะไกล\n\n",
+          "Length": 19
         },
         {
           "Line": 84,
           "OriginalText": "They say there used to be a stage where\nknighting ceremonies were performed,\njust south of ",
-          "TranslatedText": "ว่ากันว่าเคยมีเวทีสำหรับ\nการแสดงพิธีกรรมของอัศวิน\nอยู่ทางใต้ของ "
+          "TranslatedText": "ว่ากันว่าเคยมีเวทีสำหรับ\nการแสดงพิธีกรรมของอัศวิน\nอยู่ทางใต้ของ ",
+          "Length": 91
         },
         {
           "Line": 88,
           "OriginalText": "Hyrule Castle",
           "TranslatedText": "ปราสาท Hyrule",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 91,
           "OriginalText": ".\nIt\u0027s in ruins now, but...",
-          "TranslatedText": "\nตอนนี้มันเป็นซากแล้ว แต่ว่า..."
+          "TranslatedText": "\nตอนนี้มันเป็นซากแล้ว แต่ว่า...",
+          "Length": 27
         },
         {
           "Line": 95,
           "OriginalText": "I\u0027m pretty certain\nthat\u0027s what\u0027s in this picture.",
-          "TranslatedText": "ฉันค่อนข้างแน่ใจ\nว่ามันคือสถานที่ในรูปนี้"
+          "TranslatedText": "ฉันค่อนข้างแน่ใจ\nว่ามันคือสถานที่ในรูปนี้",
+          "Length": 49
         }
       ]
     },
@@ -126,12 +142,14 @@
         {
           "Line": 104,
           "OriginalText": "I see.",
-          "TranslatedText": "งั้นเหรอ"
+          "TranslatedText": "งั้นเหรอ",
+          "Length": 6
         },
         {
           "Line": 108,
           "OriginalText": " Well, if you ever need my help,\nthe offer stands. After all, you helped\nme out a great deal!",
-          "TranslatedText": " เอาเถอะ ถ้าต้องการให้ช่วยละก็\nบอกได้เลยนะ คุณช่วยฉันไว้มากเลย!"
+          "TranslatedText": " เอาเถอะ ถ้าต้องการให้ช่วยละก็\nบอกได้เลยนะ คุณช่วยฉันไว้มากเลย!",
+          "Length": 93
         }
       ]
     },
@@ -142,12 +160,14 @@
         {
           "Line": 117,
           "OriginalText": "However...",
-          "TranslatedText": "แต่ว่า..."
+          "TranslatedText": "แต่ว่า...",
+          "Length": 10
         },
         {
           "Line": 121,
           "OriginalText": "that area is extremely\ndangerous. If you\u0027re planning on\ngoing there, please be careful.",
-          "TranslatedText": "บริเวณนั้น\nอันตรายมากๆ ถ้าคิดจะไปละก็ระวังตัวด้วย"
+          "TranslatedText": "บริเวณนั้น\nอันตรายมากๆ ถ้าคิดจะไปละก็ระวังตัวด้วย",
+          "Length": 87
         }
       ]
     },
@@ -162,7 +182,8 @@
         {
           "Line": 130,
           "OriginalText": "Hey! It\u0027s you! Did you come by to show\nme that fabulous picture again?",
-          "TranslatedText": "เฮ้! คุณน่ะเอง! \nเอารูปสวยๆ มาให้ฉันดูอีกเหรอ?"
+          "TranslatedText": "เฮ้! คุณน่ะเอง! \nเอารูปสวยๆ มาให้ฉันดูอีกเหรอ?",
+          "Length": 70
         }
       ]
     },
@@ -172,7 +193,8 @@
         {
           "Line": 147,
           "OriginalText": "Hey! We meet again. Are you out\ntraveling as well?\n\nI\u0027ve traveled all over the world,\nso I\u0027m happy to tell you about\nnew places, if you want.",
-          "TranslatedText": "เฮ้! เจอกันอีกแล้ว คุณก็ออกเดินทาง\nเหมือนกันเหรอl?\n\nฉันเดินทางไปมาทั่วโลกแล้ว\nฉันยินดีเล่าเรื่องสถานที่ใหม่ๆ ให้ฟังนะ \nถ้าต้องการ"
+          "TranslatedText": "เฮ้! เจอกันอีกแล้ว คุณก็ออกเดินทาง\nเหมือนกันเหรอl?\n\nฉันเดินทางไปมาทั่วโลกแล้ว\nฉันยินดีเล่าเรื่องสถานที่ใหม่ๆ ให้ฟังนะ \nถ้าต้องการ",
+          "Length": 141
         }
       ]
     },
@@ -183,43 +205,51 @@
         {
           "Line": 156,
           "OriginalText": "Hm? And you are?",
-          "TranslatedText": "หืม? คุณคือ?"
+          "TranslatedText": "หืม? คุณคือ?",
+          "Length": 16
         },
         {
           "Line": 160,
           "OriginalText": " Sorry, but...\nare you traveling too?\n\nI\u0027m a painter, you see. I\u0027m traveling the\nworld in search of beautiful scenery.\n\n",
-          "TranslatedText": " ขอโทษนะ แต่...\nคุณก็เป็นนักเดินทางเหรอ?\n\nฉันเป็นจิตกรน่ะ อย่างที่เห็น ฉันเดินทางไปทั่วโลก\nเพื่อค้นหาทิวทัศน์ที่งดงาม\n\n"
+          "TranslatedText": " ขอโทษนะ แต่...\nคุณก็เป็นนักเดินทางเหรอ?\n\nฉันเป็นจิตกรน่ะ อย่างที่เห็น ฉันเดินทางไปทั่วโลก\nเพื่อค้นหาทิวทัศน์ที่งดงาม\n\n",
+          "Length": 120
         },
         {
           "Line": 166,
           "OriginalText": "They say the most beautiful spots in\nthe world are these places called\n",
-          "TranslatedText": "ว่ากันว่าสถานที่ที่สวยที่สุดในโลก\nนั้นเรียกว่า \n"
+          "TranslatedText": "ว่ากันว่าสถานที่ที่สวยที่สุดในโลก\nนั้นเรียกว่า \n",
+          "Length": 71
         },
         {
           "Line": 170,
           "OriginalText": "Great Fairy Fountains",
           "TranslatedText": "Great Fairy Fountains",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 173,
           "OriginalText": ".\nNot only are they incredibly beautiful,\nbut they supposedly can grant people\nsome kind of strange power...\n",
-          "TranslatedText": "\nมันไม่เพียงแค่สวยมาก แต่มันยังสามารถ\nมอบพลังบางอย่างให้กับผู้คนด้วย...\n"
+          "TranslatedText": "\nมันไม่เพียงแค่สวยมาก แต่มันยังสามารถ\nมอบพลังบางอย่างให้กับผู้คนด้วย...\n",
+          "Length": 109
         },
         {
           "Line": 179,
           "OriginalText": "Sadly, I\u0027ve yet to find one.",
-          "TranslatedText": "น่าเศร้า ที่ฉันยังหามันไม่พบ"
+          "TranslatedText": "น่าเศร้า ที่ฉันยังหามันไม่พบ",
+          "Length": 28
         },
         {
           "Line": 190,
           "OriginalText": "But I heard a rumor recently that there\u0027s\none near Kakariko Village!\n\n",
-          "TranslatedText": "แต่ฉันเพิ่งได้ยินข่าวลือมาว่า\nมันอยู่ใกล้ๆ กับหมู่บ้าน Kakariko!\n\n"
+          "TranslatedText": "แต่ฉันเพิ่งได้ยินข่าวลือมาว่า\nมันอยู่ใกล้ๆ กับหมู่บ้าน Kakariko!\n\n",
+          "Length": 70
         },
         {
           "Line": 196,
           "OriginalText": "Kakariko Village is my hometown.\nPerhaps it\u0027s time for a visit...",
-          "TranslatedText": "หมู่บ้าน Kakariko คือบ้านเกิดของฉันเอง\nบางทีน่าจะได้เวลากลับไปเยี่ยมบ้านแล้ว..."
+          "TranslatedText": "หมู่บ้าน Kakariko คือบ้านเกิดของฉันเอง\nบางทีน่าจะได้เวลากลับไปเยี่ยมบ้านแล้ว...",
+          "Length": 65
         }
       ]
     },
@@ -230,23 +260,27 @@
         {
           "Line": 205,
           "OriginalText": "A ",
-          "TranslatedText": ""
+          "TranslatedText": "",
+          "Length": 2
         },
         {
           "Line": 209,
           "OriginalText": "Great Fairy Fountain ",
           "TranslatedText": "Great Fairy Fountain ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 212,
           "OriginalText": "near\nKakariko Village...",
-          "TranslatedText": "ใกล้\nกับหมู่บ้าน Kakariko..."
+          "TranslatedText": "ใกล้\nกับหมู่บ้าน Kakariko...",
+          "Length": 24
         },
         {
           "Line": 216,
           "OriginalText": " Could the rumor\nbe true?",
-          "TranslatedText": " \nข่าวลือจะเป็นความจริงรึเปล่านะ?"
+          "TranslatedText": " \nข่าวลือจะเป็นความจริงรึเปล่านะ?",
+          "Length": 25
         }
       ]
     },
@@ -257,64 +291,76 @@
         {
           "Line": 225,
           "OriginalText": "Hm? ",
-          "TranslatedText": "หืม? "
+          "TranslatedText": "หืม? ",
+          "Length": 4
         },
         {
           "Line": 229,
           "OriginalText": "You...",
-          "TranslatedText": "คุณ..."
+          "TranslatedText": "คุณ...",
+          "Length": 6
         },
         {
           "Line": 233,
           "OriginalText": " I\u0027m sorry, but have we met\nsomewhere before?\n\nWell, it\u0027s not important. ",
-          "TranslatedText": " ขอโทษนะ \nแต่เราเคยพบกันมาก่อนรึเปล่า?\n\nเอาเถอะ มันก็ไม่ได้สำคัญหรอก "
+          "TranslatedText": " ขอโทษนะ \nแต่เราเคยพบกันมาก่อนรึเปล่า?\n\nเอาเถอะ มันก็ไม่ได้สำคัญหรอก ",
+          "Length": 73
         },
         {
           "Line": 237,
           "OriginalText": "Have you ever\nheard of a ",
-          "TranslatedText": "คุณเคยได้ยิน\nเรื่อง "
+          "TranslatedText": "คุณเคยได้ยิน\nเรื่อง ",
+          "Length": 25
         },
         {
           "Line": 241,
           "OriginalText": "Great Fairy Fountain",
           "TranslatedText": "Great Fairy Fountain",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 20
         },
         {
           "Line": 244,
           "OriginalText": "?\n\n",
-          "TranslatedText": " มั้ย?\n\n"
+          "TranslatedText": " มั้ย?\n\n",
+          "Length": 3
         },
         {
           "Line": 250,
           "OriginalText": "They say ",
-          "TranslatedText": "ว่ากันว่า "
+          "TranslatedText": "ว่ากันว่า ",
+          "Length": 9
         },
         {
           "Line": 254,
           "OriginalText": "Great Fairy Fountains",
           "TranslatedText": "Great Fairy Fountains",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 21
         },
         {
           "Line": 257,
           "OriginalText": " are\nsome of the most beautiful places\nin the world!\nNot only are they incredibly gorgeous,\nbut they can supposedly grant people\nsome kind of strange power...\n",
-          "TranslatedText": " \nเป็นหนึ่งในสถานที่ที่สวยที่สุดในโลก!\nมันไม่เพียงแค่สวยมาก แต่มันยังสามารถ\nมอบพลังบางอย่างให้กับผู้คนด้วย...\n"
+          "TranslatedText": " \nเป็นหนึ่งในสถานที่ที่สวยที่สุดในโลก!\nมันไม่เพียงแค่สวยมาก แต่มันยังสามารถ\nมอบพลังบางอย่างให้กับผู้คนด้วย...\n",
+          "Length": 159
         },
         {
           "Line": 263,
           "OriginalText": "Sadly, I\u0027ve yet to find one.",
-          "TranslatedText": "น่าเศร้า ที่ฉันยังหามันไม่พบ"
+          "TranslatedText": "น่าเศร้า ที่ฉันยังหามันไม่พบ",
+          "Length": 28
         },
         {
           "Line": 274,
           "OriginalText": "But I heard a rumor recently that there\u0027s\none near Kakariko Village!\n\n",
-          "TranslatedText": "แต่ฉันเพิ่งได้ยินข่าวลือมาว่า\nมันอยู่ใกล้ๆ กับหมู่บ้าน Kakariko!\n"
+          "TranslatedText": "แต่ฉันเพิ่งได้ยินข่าวลือมาว่า\nมันอยู่ใกล้ๆ กับหมู่บ้าน Kakariko!\n",
+          "Length": 70
         },
         {
           "Line": 280,
           "OriginalText": "Kakariko Village is my hometown.\nPerhaps it\u0027s time for a visit...",
-          "TranslatedText": "หมู่บ้าน Kakariko คือบ้านเกิดของฉันเอง\nบางทีน่าจะได้เวลากลับไปเยี่ยมบ้านแล้ว..."
+          "TranslatedText": "หมู่บ้าน Kakariko คือบ้านเกิดของฉันเอง\nบางทีน่าจะได้เวลากลับไปเยี่ยมบ้านแล้ว...",
+          "Length": 65
         }
       ]
     }

@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Weapon stash.",
-          "TranslatedText": "ช่องเก็บอาวุธ"
+          "TranslatedText": "ช่องเก็บอาวุธ",
+          "Length": 13
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Bow stash.",
-          "TranslatedText": "ช่องเก็บธนู"
+          "TranslatedText": "ช่องเก็บธนู",
+          "Length": 10
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Shield stash.",
-          "TranslatedText": "ช่องเก็บโล่"
+          "TranslatedText": "ช่องเก็บโล่",
+          "Length": 13
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Nothing right now.",
-          "TranslatedText": "ยังก่อน"
+          "TranslatedText": "ยังก่อน",
+          "Length": 18
         }
       ]
     },
@@ -47,17 +51,20 @@
         {
           "Line": 32,
           "OriginalText": "Shalaka?!\n\n\n",
-          "TranslatedText": "Shalaka?!\n"
+          "TranslatedText": "Shalaka?!\n",
+          "Length": 12
         },
         {
           "Line": 41,
           "OriginalText": "We meet again!\n\n\n",
-          "TranslatedText": "เราเจอกันอีกแล้ว!\n"
+          "TranslatedText": "เราเจอกันอีกแล้ว!\n",
+          "Length": 17
         },
         {
           "Line": 47,
           "OriginalText": "I want to go home to Korok Forest,\nbut I\u0027ve lost my way...",
-          "TranslatedText": "ฉันอยากจะกลับบ้านที่ Korok Forest\nแต่ฉันหลงทาง..."
+          "TranslatedText": "ฉันอยากจะกลับบ้านที่ Korok Forest\nแต่ฉันหลงทาง...",
+          "Length": 58
         }
       ]
     },
@@ -73,81 +80,96 @@
         {
           "Line": 56,
           "OriginalText": "*sniff sniff*",
-          "TranslatedText": "*sniff sniff*"
+          "TranslatedText": "*sniff sniff*",
+          "Length": 13
         },
         {
           "Line": 60,
           "OriginalText": "\nI detect the scent of...",
-          "TranslatedText": "\nฉันได้กลิ่นของ..."
+          "TranslatedText": "\nฉันได้กลิ่นของ...",
+          "Length": 25
         },
         {
           "Line": 67,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 70,
           "OriginalText": "!\n\n",
-          "TranslatedText": "!\n"
+          "TranslatedText": "!\n",
+          "Length": 3
         },
         {
           "Line": 76,
           "OriginalText": "You\u0027ve",
-          "TranslatedText": "คุณ"
+          "TranslatedText": "คุณ",
+          "Length": 6
         },
         {
           "Line": 80,
           "OriginalText": " received",
-          "TranslatedText": " ได้รับ"
+          "TranslatedText": " ได้รับ",
+          "Length": 9
         },
         {
           "Line": 84,
           "OriginalText": " a ",
-          "TranslatedText": " a "
+          "TranslatedText": " a ",
+          "Length": 3
         },
         {
           "Line": 88,
           "OriginalText": "Korok seed",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 91,
           "OriginalText": " from the\nforest children, haven\u0027t you?!\n\nIf you give me ",
-          "TranslatedText": " มาจากเด็กแห่งป่าใช่มั้ย?!\nถ้าคุณให้ "
+          "TranslatedText": " มาจากเด็กแห่งป่าใช่มั้ย?!\nถ้าคุณให้ ",
+          "Length": 57
         },
         {
           "Line": 95,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 98,
           "OriginalText": ",",
-          "TranslatedText": " กับฉัน"
+          "TranslatedText": " กับฉัน",
+          "Length": 1
         },
         {
           "Line": 102,
           "OriginalText": " I\u0027ll make one\nof your ",
-          "TranslatedText": " ฉันจะทำให้\n"
+          "TranslatedText": " ฉันจะทำให้\n",
+          "Length": 23
         },
         {
           "Line": 106,
           "OriginalText": "stashes",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 109,
           "OriginalText": " bigger! ",
-          "TranslatedText": " ของคุณใหญ่ขึ้น! "
+          "TranslatedText": " ของคุณใหญ่ขึ้น! ",
+          "Length": 9
         },
         {
           "Line": 113,
           "OriginalText": "Which one will it\nbeeeeeeeeeeee?!",
-          "TranslatedText": "อยากขยายอันไหนล่ะ?!"
+          "TranslatedText": "อยากขยายอันไหนล่ะ?!",
+          "Length": 33
         }
       ]
     },
@@ -157,65 +179,77 @@
         {
           "Line": 132,
           "OriginalText": "*sniff sniff*",
-          "TranslatedText": "*sniff sniff*"
+          "TranslatedText": "*sniff sniff*",
+          "Length": 13
         },
         {
           "Line": 136,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 145,
           "OriginalText": "Aww...",
-          "TranslatedText": "Aww..."
+          "TranslatedText": "Aww...",
+          "Length": 6
         },
         {
           "Line": 149,
           "OriginalText": " You didn\u0027t bring me any\n",
-          "TranslatedText": " คุณไม่ได้เอา\n"
+          "TranslatedText": " คุณไม่ได้เอา\n",
+          "Length": 25
         },
         {
           "Line": 153,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 156,
           "OriginalText": ", did you?\n\n",
-          "TranslatedText": " มาให้ฉันใช่มั้ย?\n"
+          "TranslatedText": " มาให้ฉันใช่มั้ย?\n",
+          "Length": 12
         },
         {
           "Line": 162,
           "OriginalText": "If you get any",
-          "TranslatedText": "ถ้าคุณมี "
+          "TranslatedText": "ถ้าคุณมี ",
+          "Length": 14
         },
         {
           "Line": 166,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 170,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 173,
           "OriginalText": " from the\nforest children...\n\nI\u0027ll make one of your ",
-          "TranslatedText": " \nที่ได้จากเด็กแห่งป่า...\nฉันจะทำให้ "
+          "TranslatedText": " \nที่ได้จากเด็กแห่งป่า...\nฉันจะทำให้ ",
+          "Length": 52
         },
         {
           "Line": 177,
           "OriginalText": "stashes",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 180,
           "OriginalText": " bigger\njust like last time! Remember how fun\nthat was?!",
-          "TranslatedText": " ของคุณ\nใหญ่ขึ้นเหมือนกับคราวก่อน! จำได้มั้ยว่ามันสนุกขนาดไหน?!"
+          "TranslatedText": " ของคุณ\nใหญ่ขึ้นเหมือนกับคราวก่อน! จำได้มั้ยว่ามันสนุกขนาดไหน?!",
+          "Length": 56
         }
       ]
     },
@@ -225,59 +259,70 @@
         {
           "Line": 189,
           "OriginalText": "According to the folks at the stable,",
-          "TranslatedText": "ตามที่คนในที่พักม้าบอก"
+          "TranslatedText": "ตามที่คนในที่พักม้าบอก",
+          "Length": 37
         },
         {
           "Line": 193,
           "OriginalText": "\nthis area is the ",
-          "TranslatedText": "\nบริเวณนี้คือเขต "
+          "TranslatedText": "\nบริเวณนี้คือเขต ",
+          "Length": 18
         },
         {
           "Line": 197,
           "OriginalText": "Lanayru",
           "TranslatedText": "Lanayru",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 200,
           "OriginalText": " region.\n\n",
-          "TranslatedText": " \n"
+          "TranslatedText": " \n",
+          "Length": 10
         },
         {
           "Line": 206,
           "OriginalText": "Sha-shaka!",
-          "TranslatedText": "Sha-shaka!"
+          "TranslatedText": "Sha-shaka!",
+          "Length": 10
         },
         {
           "Line": 210,
           "OriginalText": " That means Korok Forest\nis still ",
-          "TranslatedText": " นั่นหมายความว่า Korok Forest\nอยู่ทาง "
+          "TranslatedText": " นั่นหมายความว่า Korok Forest\nอยู่ทาง ",
+          "Length": 34
         },
         {
           "Line": 214,
           "OriginalText": "north",
           "TranslatedText": "ทิศเหนือ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 217,
           "OriginalText": " of here...\n\n",
-          "TranslatedText": " จากที่นี่...\n"
+          "TranslatedText": " จากที่นี่...\n",
+          "Length": 13
         },
         {
           "Line": 223,
           "OriginalText": "Well, since I\u0027m already here,",
-          "TranslatedText": "แต่ในเมื่อฉันอยู่ที่นี่แล้ว"
+          "TranslatedText": "แต่ในเมื่อฉันอยู่ที่นี่แล้ว",
+          "Length": 29
         },
         {
           "Line": 227,
           "OriginalText": " I may as\nwell stay awhile and relax.\n\n",
-          "TranslatedText": " ฉันก็คิดว่า\nจะพักผ่อนอยู่ตรงนี้สักพัก\n"
+          "TranslatedText": " ฉันก็คิดว่า\nจะพักผ่อนอยู่ตรงนี้สักพัก\n",
+          "Length": 39
         },
         {
           "Line": 233,
           "OriginalText": "Oh, wait a minute...",
-          "TranslatedText": "อ้อ เดี๋ยวนะ..."
+          "TranslatedText": "อ้อ เดี๋ยวนะ...",
+          "Length": 20
         }
       ]
     },
@@ -287,22 +332,26 @@
         {
           "Line": 242,
           "OriginalText": "Ohhh, I think I remember",
-          "TranslatedText": "อ้อ ฉันคิดว่าฉันจำทาง"
+          "TranslatedText": "อ้อ ฉันคิดว่าฉันจำทาง",
+          "Length": 24
         },
         {
           "Line": 246,
           "OriginalText": " the way back\nto Korok Forest!\n\n",
-          "TranslatedText": " กลับไปยัง\nKorok Forest ได้แล้ว!\n"
+          "TranslatedText": " กลับไปยัง\nKorok Forest ได้แล้ว!\n",
+          "Length": 32
         },
         {
           "Line": 252,
           "OriginalText": "And it\u0027s all thanks to you!",
-          "TranslatedText": "เป็นเพราะคุณเลย!"
+          "TranslatedText": "เป็นเพราะคุณเลย!",
+          "Length": 27
         },
         {
           "Line": 256,
           "OriginalText": " I\u0027ll definitely\nmake it home to Korok Forest this time!\n\nI\u0027ll see you there. In Korok Forest!",
-          "TranslatedText": " คราวนี้ฉันต้องไปให้ถึง\nKorok Forest ให้ได้!\nแล้วเจอกันที่ Korok Forest นะ!"
+          "TranslatedText": " คราวนี้ฉันต้องไปให้ถึง\nKorok Forest ให้ได้!\nแล้วเจอกันที่ Korok Forest นะ!",
+          "Length": 94
         }
       ]
     }

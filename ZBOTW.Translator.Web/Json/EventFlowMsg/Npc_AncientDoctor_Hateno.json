@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Who are you?",
-          "TranslatedText": "คุณเป็นใคร?"
+          "TranslatedText": "คุณเป็นใคร?",
+          "Length": 12
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "What\u0027s a Guardian?",
-          "TranslatedText": "Guardian คืออะไร?"
+          "TranslatedText": "Guardian คืออะไร?",
+          "Length": 18
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Cherry?",
-          "TranslatedText": "Cherry?"
+          "TranslatedText": "Cherry?",
+          "Length": 7
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Hm?",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 3
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "What?!",
-          "TranslatedText": "อะไรน่ะ?!"
+          "TranslatedText": "อะไรน่ะ?!",
+          "Length": 6
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Remote Bombs...",
-          "TranslatedText": "Remote Bombs..."
+          "TranslatedText": "Remote Bombs...",
+          "Length": 15
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Goodness gracious!",
-          "TranslatedText": "คุณพระคุณเจ้า!"
+          "TranslatedText": "คุณพระคุณเจ้า!",
+          "Length": 18
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 40,
           "OriginalText": "What?!",
-          "TranslatedText": "อะไรน่ะ?!"
+          "TranslatedText": "อะไรน่ะ?!",
+          "Length": 6
         }
       ]
     },
@@ -99,23 +108,27 @@
           "Line": 52,
           "OriginalText": "Cherry ",
           "TranslatedText": "Cherry ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 55,
           "OriginalText": "is safely back to work. All that\u0027s\nleft is for you to destroy the ",
-          "TranslatedText": "กลับมาทำงานอย่างปลอดภัย ที่เหลือก็แค่\nเจ้าต้องไปทำลายเจ้า "
+          "TranslatedText": "กลับมาทำงานอย่างปลอดภัย ที่เหลือก็แค่\nเจ้าต้องไปทำลายเจ้า ",
+          "Length": 66
         },
         {
           "Line": 59,
           "OriginalText": "Calamity",
           "TranslatedText": "Calamity",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 62,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -126,7 +139,8 @@
         {
           "Line": 71,
           "OriginalText": "Bye-bye.",
-          "TranslatedText": "บ๊ายบาย"
+          "TranslatedText": "บ๊ายบาย",
+          "Length": 8
         }
       ]
     },
@@ -137,12 +151,14 @@
         {
           "Line": 80,
           "OriginalText": "Good morning.",
-          "TranslatedText": "อรุณสวัสดิ์"
+          "TranslatedText": "อรุณสวัสดิ์",
+          "Length": 13
         },
         {
           "Line": 84,
           "OriginalText": "\nThis morning really is quite good...",
-          "TranslatedText": "\n เช้านี้อากาศดีไม่เลวเลย\n..."
+          "TranslatedText": "\n เช้านี้อากาศดีไม่เลวเลย\n...",
+          "Length": 37
         }
       ]
     },
@@ -153,12 +169,14 @@
         {
           "Line": 93,
           "OriginalText": "Good day.",
-          "TranslatedText": "สวัสดี"
+          "TranslatedText": "สวัสดี",
+          "Length": 9
         },
         {
           "Line": 97,
           "OriginalText": "\nAnd a good day it is.",
-          "TranslatedText": "\nวันนี้อากาศดีจริงๆ"
+          "TranslatedText": "\nวันนี้อากาศดีจริงๆ",
+          "Length": 22
         }
       ]
     },
@@ -169,12 +187,14 @@
         {
           "Line": 106,
           "OriginalText": "Good evening.",
-          "TranslatedText": "สวัสดีตอนเย็น"
+          "TranslatedText": "สวัสดีตอนเย็น",
+          "Length": 13
         },
         {
           "Line": 110,
           "OriginalText": "\nYes, yes, I would describe this evening\nas good.",
-          "TranslatedText": "\nถ้าจะให้อธิบายอากาศเย็นนี้ก็ต้องบอกว่าอากาศดี"
+          "TranslatedText": "\nถ้าจะให้อธิบายอากาศเย็นนี้ก็ต้องบอกว่าอากาศดี",
+          "Length": 49
         }
       ]
     },
@@ -185,44 +205,52 @@
         {
           "Line": 119,
           "OriginalText": "But I think it\u0027s unwise",
-          "TranslatedText": "แต่ข้าคิดว่ามันไม่ฉลาด"
+          "TranslatedText": "แต่ข้าคิดว่ามันไม่ฉลาด",
+          "Length": 23
         },
         {
           "Line": 123,
           "OriginalText": " to try and make\nthe ",
-          "TranslatedText": " ที่จะลองทำให้\n"
+          "TranslatedText": " ที่จะลองทำให้\n",
+          "Length": 21
         },
         {
           "Line": 127,
           "OriginalText": "Guardians ",
           "TranslatedText": "Guardians ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 130,
           "OriginalText": "our allies now... ",
-          "TranslatedText": "มาเป็นพวกของเราในตอนนี้... "
+          "TranslatedText": "มาเป็นพวกของเราในตอนนี้... ",
+          "Length": 18
         },
         {
           "Line": 134,
           "OriginalText": "\nJust...too difficult...\nI think I\u0027ll offer you ancient equipment",
-          "TranslatedText": "\nมัน...ยากเกินไป...\nข้าคิดว่าข้าจะเสนอ ancient equipment ให้กับเจ้า"
+          "TranslatedText": "\nมัน...ยากเกินไป...\nข้าคิดว่าข้าจะเสนอ ancient equipment ให้กับเจ้า",
+          "Length": 65
         },
         {
           "Line": 138,
           "OriginalText": "\nin exchange for ",
-          "TranslatedText": "\nโดยแลกกับชิ้นส่วน "
+          "TranslatedText": "\nโดยแลกกับชิ้นส่วน ",
+          "Length": 17
         },
         {
           "Line": 142,
           "OriginalText": "Guardian ",
           "TranslatedText": "Guardian ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 145,
           "OriginalText": "parts, instead.",
-          "TranslatedText": "แทน"
+          "TranslatedText": "แทน",
+          "Length": 15
         }
       ]
     },
@@ -233,12 +261,14 @@
         {
           "Line": 154,
           "OriginalText": "What\u0027s up? ",
-          "TranslatedText": "มีอะไร? "
+          "TranslatedText": "มีอะไร? ",
+          "Length": 11
         },
         {
           "Line": 158,
           "OriginalText": "How are you doing?",
-          "TranslatedText": "สบายดีมั้ย?"
+          "TranslatedText": "สบายดีมั้ย?",
+          "Length": 18
         }
       ]
     },
@@ -255,12 +285,14 @@
         {
           "Line": 167,
           "OriginalText": "By the way...",
-          "TranslatedText": "ว่าแต่..."
+          "TranslatedText": "ว่าแต่...",
+          "Length": 13
         },
         {
           "Line": 171,
           "OriginalText": "\nDid you need something from me?",
-          "TranslatedText": "\nต้องการให้ช่วยอะไรรึเปล่า?"
+          "TranslatedText": "\nต้องการให้ช่วยอะไรรึเปล่า?",
+          "Length": 32
         }
       ]
     },
@@ -271,12 +303,14 @@
         {
           "Line": 190,
           "OriginalText": "Good afternoon.",
-          "TranslatedText": "สวัสดีตอนบ่าย"
+          "TranslatedText": "สวัสดีตอนบ่าย",
+          "Length": 15
         },
         {
           "Line": 194,
           "OriginalText": "\nOr is it good morning?",
-          "TranslatedText": "\nหรือว่านี่มันตอนเช้ากันนะ?"
+          "TranslatedText": "\nหรือว่านี่มันตอนเช้ากันนะ?",
+          "Length": 23
         }
       ]
     },
@@ -287,50 +321,59 @@
         {
           "Line": 203,
           "OriginalText": "The ",
-          "TranslatedText": "พวก "
+          "TranslatedText": "พวก ",
+          "Length": 4
         },
         {
           "Line": 207,
           "OriginalText": "Guardians",
           "TranslatedText": "Guardians",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 210,
           "OriginalText": " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the ",
-          "TranslatedText": " เป็นอาวุธอัตโนมัติ\nที่สร้างขึ้นมาเพื่อสู้กับ Calamity Ganon และ\nพัฒนาโดยบรรพบุรุษชาว Sheikah\nพวก "
+          "TranslatedText": " เป็นอาวุธอัตโนมัติ\nที่สร้างขึ้นมาเพื่อสู้กับ Calamity Ganon และ\nพัฒนาโดยบรรพบุรุษชาว Sheikah\nพวก ",
+          "Length": 115
         },
         {
           "Line": 214,
           "OriginalText": "Guardians",
           "TranslatedText": "Guardians",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 217,
           "OriginalText": " were kept\nbelow ",
-          "TranslatedText": " ถูกเก็บรักษาไว้\nใต้ "
+          "TranslatedText": " ถูกเก็บรักษาไว้\nใต้ ",
+          "Length": 17
         },
         {
           "Line": 221,
           "OriginalText": "Hyrule Castle",
           "TranslatedText": "ปราสาท Hyrule ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 224,
           "OriginalText": ". ",
-          "TranslatedText": "เป็นเวลาหลายปี "
+          "TranslatedText": "เป็นเวลาหลายปี ",
+          "Length": 2
         },
         {
           "Line": 230,
           "OriginalText": "However, when the\nCalamity struck, they were stolen away.\n",
-          "TranslatedText": "\nแต่ว่าเมื่อ Calamity เกิดขึ้น พวกมันถูกขโมยไป\n"
+          "TranslatedText": "\nแต่ว่าเมื่อ Calamity เกิดขึ้น พวกมันถูกขโมยไป\n",
+          "Length": 58
         },
         {
           "Line": 236,
           "OriginalText": "I\u0027ve been researching ways to take\nthem back...",
-          "TranslatedText": "ข้าได้ค้นคว้าถึงวิธีที่จะเอาพวกมันกลับคืนมา..."
+          "TranslatedText": "ข้าได้ค้นคว้าถึงวิธีที่จะเอาพวกมันกลับคืนมา...",
+          "Length": 47
         }
       ]
     },
@@ -347,7 +390,8 @@
         {
           "Line": 245,
           "OriginalText": "Have you got any other questions?",
-          "TranslatedText": "มีคำถามอีกไหม?"
+          "TranslatedText": "มีคำถามอีกไหม?",
+          "Length": 33
         }
       ]
     },
@@ -358,12 +402,14 @@
         {
           "Line": 264,
           "OriginalText": "When one receives such scars on\ntheir body...",
-          "TranslatedText": "เมื่อเราได้รับแผลเป็นบนร่างกาย..."
+          "TranslatedText": "เมื่อเราได้รับแผลเป็นบนร่างกาย...",
+          "Length": 45
         },
         {
           "Line": 268,
           "OriginalText": " Well, they can leave\nlasting memories in their mind as well.",
-          "TranslatedText": " \nมันสามารถทิ้งความทรงจำไว้ในใจได้เช่นกัน"
+          "TranslatedText": " \nมันสามารถทิ้งความทรงจำไว้ในใจได้เช่นกัน",
+          "Length": 61
         }
       ]
     }

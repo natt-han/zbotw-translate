@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Leave it to me!",
-          "TranslatedText": "ปล่อยให้ฉัน!"
+          "TranslatedText": "ปล่อยให้ฉัน!",
+          "Length": 15
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027m a bit busy...",
-          "TranslatedText": "ฉันยุ่งนิดหน่อย..."
+          "TranslatedText": "ฉันยุ่งนิดหน่อย...",
+          "Length": 17
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "It was a metal axe.",
-          "TranslatedText": "มันเป็นขวานโลหะ."
+          "TranslatedText": "มันเป็นขวานโลหะ.",
+          "Length": 19
         }
       ]
     },
@@ -38,7 +41,8 @@
         {
           "Line": 20,
           "OriginalText": "*sigh*",
-          "TranslatedText": "*ถอนหายใจ*"
+          "TranslatedText": "*ถอนหายใจ*",
+          "Length": 6
         }
       ]
     },
@@ -49,7 +53,8 @@
         {
           "Line": 24,
           "OriginalText": "*shudder*",
-          "TranslatedText": "*ตัวสั่น*"
+          "TranslatedText": "*ตัวสั่น*",
+          "Length": 9
         }
       ]
     },
@@ -60,7 +65,8 @@
         {
           "Line": 28,
           "OriginalText": "Urrrmm...",
-          "TranslatedText": "Urrrmm..."
+          "TranslatedText": "Urrrmm...",
+          "Length": 9
         }
       ]
     },
@@ -71,7 +77,8 @@
         {
           "Line": 32,
           "OriginalText": "Zzzz...",
-          "TranslatedText": "Zzzz..."
+          "TranslatedText": "Zzzz...",
+          "Length": 7
         }
       ]
     },
@@ -82,7 +89,8 @@
         {
           "Line": 36,
           "OriginalText": "Looks like rain...",
-          "TranslatedText": "ดูเหมือนฝนจะตก..."
+          "TranslatedText": "ดูเหมือนฝนจะตก...",
+          "Length": 18
         }
       ]
     },
@@ -93,7 +101,8 @@
         {
           "Line": 40,
           "OriginalText": "*yaaawn*",
-          "TranslatedText": "*หาว*"
+          "TranslatedText": "*หาว*",
+          "Length": 8
         }
       ]
     },
@@ -108,33 +117,39 @@
         {
           "Line": 49,
           "OriginalText": "Oh dear, oh dear...",
-          "TranslatedText": "โอ้ที่รัก, โอ้ที่รัก..."
+          "TranslatedText": "โอ้ที่รัก, โอ้ที่รัก...",
+          "Length": 19
         },
         {
           "Line": 53,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 57,
           "OriginalText": "Lightning",
           "TranslatedText": "สายฟ้า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 60,
           "OriginalText": " strikes this\nstable so often, I get nervous whenever\nit rains even a little.\nI just don\u0027t understand why it strikes so\noften...",
-          "TranslatedText": " ผ่าลงมาคอกม้านี้บ่อยครั้ง ฉันรู้สึกกลัวทุกครั้งที่ฝนตกปรอยๆ\nฉันไม่เข้าใจว่าทำไมมันถึงผ่าบ่อยจัง..."
+          "TranslatedText": " ผ่าลงมาคอกม้านี้บ่อยครั้ง ฉันรู้สึกกลัวทุกครั้งที่ฝนตกปรอยๆ\nฉันไม่เข้าใจว่าทำไมมันถึงผ่าบ่อยจัง...",
+          "Length": 128
         },
         {
           "Line": 64,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 70,
           "OriginalText": "Hey, it\u0027s a long shot, but if you\nhave some time, could you find out why?",
-          "TranslatedText": "เฮ้ มันใช้เวลานาน แต่ถ้าคุณมีเวลาคุณจะหาสาเหตุได้ไหม?"
+          "TranslatedText": "เฮ้ มันใช้เวลานาน แต่ถ้าคุณมีเวลาคุณจะหาสาเหตุได้ไหม?",
+          "Length": 73
         }
       ]
     },
@@ -149,28 +164,33 @@
         {
           "Line": 87,
           "OriginalText": "Have you...",
-          "TranslatedText": "คุณ..."
+          "TranslatedText": "คุณ...",
+          "Length": 11
         },
         {
           "Line": 91,
           "OriginalText": "have you decided to\nhelp me? Please figure out why ",
-          "TranslatedText": "คุณจะช่วยฉันไหม \nโปรดช่วยหาสาเหตุที่ "
+          "TranslatedText": "คุณจะช่วยฉันไหม \nโปรดช่วยหาสาเหตุที่ ",
+          "Length": 51
         },
         {
           "Line": 95,
           "OriginalText": "lightning",
           "TranslatedText": "ฟ้าผ่า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 98,
           "OriginalText": "\nkeeps hitting this stable!",
-          "TranslatedText": "\nปกป้องคอกม้านี้จากการโจมตีด้วยเถิด!\n"
+          "TranslatedText": "\nปกป้องคอกม้านี้จากการโจมตีด้วยเถิด!\n",
+          "Length": 27
         },
         {
           "Line": 102,
           "OriginalText": " Please!",
-          "TranslatedText": " ได้โปรด!"
+          "TranslatedText": " ได้โปรด!",
+          "Length": 8
         }
       ]
     },
@@ -181,28 +201,33 @@
         {
           "Line": 119,
           "OriginalText": "*sigh*",
-          "TranslatedText": "*ถอนหายใจ*"
+          "TranslatedText": "*ถอนหายใจ*",
+          "Length": 6
         },
         {
           "Line": 123,
           "OriginalText": " I get scared in the evening...",
-          "TranslatedText": " ฉันกลัวในช่วงเย็น..."
+          "TranslatedText": " ฉันกลัวในช่วงเย็น...",
+          "Length": 31
         },
         {
           "Line": 127,
           "OriginalText": " \nI wonder why the ",
-          "TranslatedText": " \nฉันสงสัยว่าทำไม "
+          "TranslatedText": " \nฉันสงสัยว่าทำไม ",
+          "Length": 19
         },
         {
           "Line": 131,
           "OriginalText": "lightning ",
           "TranslatedText": "ฟ้าผ่า ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 134,
           "OriginalText": "seems to\nhave it out for this place.",
-          "TranslatedText": "ดูเหมือนจะมีไว้สำหรับสถานที่แห่งนี้."
+          "TranslatedText": "ดูเหมือนจะมีไว้สำหรับสถานที่แห่งนี้.",
+          "Length": 36
         }
       ]
     },
@@ -213,7 +238,8 @@
         {
           "Line": 143,
           "OriginalText": "I can finally relax!",
-          "TranslatedText": "ในที่สุดฉันก็ผ่อนคลายได้แล้ว!"
+          "TranslatedText": "ในที่สุดฉันก็ผ่อนคลายได้แล้ว!",
+          "Length": 20
         }
       ]
     },
@@ -224,7 +250,8 @@
         {
           "Line": 152,
           "OriginalText": "Urrrm...run away...",
-          "TranslatedText": "Urrrm...หนีไป..."
+          "TranslatedText": "Urrrm...หนีไป...",
+          "Length": 19
         }
       ]
     },
@@ -239,23 +266,27 @@
         {
           "Line": 161,
           "OriginalText": "Please... Help!",
-          "TranslatedText": "กรุณาช่วย!"
+          "TranslatedText": "กรุณาช่วย!",
+          "Length": 15
         },
         {
           "Line": 165,
           "OriginalText": " Stop the",
-          "TranslatedText": " หยุด\n"
+          "TranslatedText": " หยุด\n",
+          "Length": 9
         },
         {
           "Line": 169,
           "OriginalText": " lightning",
           "TranslatedText": " ฟ้าผ่า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 172,
           "OriginalText": "!\nPlease find out why it keeps striking\nthis stable!",
-          "TranslatedText": "!\nโปรดหาสาเหตุว่าทำไมมันถึงโดดเด่นขนาดนี้!\n"
+          "TranslatedText": "!\nโปรดหาสาเหตุว่าทำไมมันถึงโดดเด่นขนาดนี้!\n",
+          "Length": 52
         }
       ]
     },
@@ -266,17 +297,20 @@
         {
           "Line": 189,
           "OriginalText": "Aiiiiieeee! I just...can\u0027t...",
-          "TranslatedText": "Aiiiiieeee! ฉันแค่ ......"
+          "TranslatedText": "Aiiiiieeee! ฉันแค่ ......",
+          "Length": 29
         },
         {
           "Line": 193,
           "OriginalText": "\nI\u0027m so scared...",
-          "TranslatedText": "\nฉันกลัวมาก..."
+          "TranslatedText": "\nฉันกลัวมาก...",
+          "Length": 17
         },
         {
           "Line": 197,
           "OriginalText": "\nPlease find out why this is happening!",
-          "TranslatedText": "\nโปรดหาสาเหตุที่เกิดขึ้น!"
+          "TranslatedText": "\nโปรดหาสาเหตุที่เกิดขึ้น!",
+          "Length": 39
         }
       ]
     },
@@ -291,33 +325,39 @@
         {
           "Line": 206,
           "OriginalText": "Eeeeyah! I\u0027ve had it...",
-          "TranslatedText": "Eeeeyah! ฉันมีมัน..."
+          "TranslatedText": "Eeeeyah! ฉันมีมัน...",
+          "Length": 23
         },
         {
           "Line": 210,
           "OriginalText": " I can\u0027t handle this\nconstant fear.",
-          "TranslatedText": " ฉันไม่สามารถจัดการกับความกลัวนี้ได้."
+          "TranslatedText": " ฉันไม่สามารถจัดการกับความกลัวนี้ได้.",
+          "Length": 35
         },
         {
           "Line": 214,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 218,
           "OriginalText": "Lightning",
           "TranslatedText": "สายฟ้า",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 221,
           "OriginalText": " strikes this stable really often, \nso I get scared whenever it starts to\nrain...",
-          "TranslatedText": " โจมตีคอกม้านี้บ่อยมาก\nฉันจึงกลัวทุกครั้งที่ฝนเริ่มตก..."
+          "TranslatedText": " โจมตีคอกม้านี้บ่อยมาก\nฉันจึงกลัวทุกครั้งที่ฝนเริ่มตก...",
+          "Length": 81
         },
         {
           "Line": 225,
           "OriginalText": "\nPlease... Could you go try and find out\nwhy this keeps happening?",
-          "TranslatedText": "\nได้โปรด ... คุณช่วยลองหาสาเหตุ\nว่าทำไมถึงยังคงเกิดขึ้น?"
+          "TranslatedText": "\nได้โปรด ... คุณช่วยลองหาสาเหตุ\nว่าทำไมถึงยังคงเกิดขึ้น?",
+          "Length": 66
         }
       ]
     },
@@ -328,7 +368,8 @@
         {
           "Line": 242,
           "OriginalText": "You will?! Really? I\u0027m so happy!\nI\u0027m counting on you.",
-          "TranslatedText": "คุณจะ?! จริงๆ? ฉันมีความสุขมาก!\nฉันไว้วางใจคุณ."
+          "TranslatedText": "คุณจะ?! จริงๆ? ฉันมีความสุขมาก!\nฉันไว้วางใจคุณ.",
+          "Length": 53
         }
       ]
     },
@@ -339,17 +380,20 @@
         {
           "Line": 251,
           "OriginalText": "I see...",
-          "TranslatedText": "ฉันเห็น..."
+          "TranslatedText": "ฉันเห็น...",
+          "Length": 8
         },
         {
           "Line": 255,
           "OriginalText": " Well, I guess it can\u0027t be helped.",
-          "TranslatedText": " อืมฉันเดาว่ามันช่วยไม่ได้."
+          "TranslatedText": " อืมฉันเดาว่ามันช่วยไม่ได้.",
+          "Length": 34
         },
         {
           "Line": 259,
           "OriginalText": "\n*sigh*",
-          "TranslatedText": "\n*ถอนหายใจ*"
+          "TranslatedText": "\n*ถอนหายใจ*",
+          "Length": 7
         }
       ]
     },
@@ -360,23 +404,27 @@
         {
           "Line": 268,
           "OriginalText": "What?",
-          "TranslatedText": "อะไร?"
+          "TranslatedText": "อะไร?",
+          "Length": 5
         },
         {
           "Line": 272,
           "OriginalText": " You found out what was drawing\nthe ",
-          "TranslatedText": " คุณพบสิ่งที่กำลังวาด "
+          "TranslatedText": " คุณพบสิ่งที่กำลังวาด ",
+          "Length": 36
         },
         {
           "Line": 276,
           "OriginalText": "lightning ",
           "TranslatedText": "ฟ้าผ่า ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 279,
           "OriginalText": "here?",
-          "TranslatedText": "ที่นี่?"
+          "TranslatedText": "ที่นี่?",
+          "Length": 5
         }
       ]
     },
@@ -387,12 +435,14 @@
         {
           "Line": 291,
           "OriginalText": "Aha! ",
-          "TranslatedText": "อ๊าาา! "
+          "TranslatedText": "อ๊าาา! ",
+          "Length": 5
         },
         {
           "Line": 295,
           "OriginalText": "Yeah, that\u0027s as good as a lightning\nrod, isn\u0027t it?\n\nI wonder if someone put it up there on\npurpose. How strange...",
-          "TranslatedText": "อือ ดีพอ ๆ กับสายล่อฟ้าเลยใช่ไหม?\nฉันสงสัยว่ามีใครบางคนวางไว้ที่นั่นโดยตั้งใจ แปลกแค่ไหน..."
+          "TranslatedText": "อือ ดีพอ ๆ กับสายล่อฟ้าเลยใช่ไหม?\nฉันสงสัยว่ามีใครบางคนวางไว้ที่นั่นโดยตั้งใจ แปลกแค่ไหน...",
+          "Length": 114
         }
       ]
     },
@@ -403,12 +453,14 @@
         {
           "Line": 304,
           "OriginalText": "Thanks for looking into it for me!",
-          "TranslatedText": "ขอบคุณที่คอยดูให้ฉัน!"
+          "TranslatedText": "ขอบคุณที่คอยดูให้ฉัน!",
+          "Length": 34
         },
         {
           "Line": 308,
           "OriginalText": "\nHere\u0027s something for your trouble.",
-          "TranslatedText": "\nนี่คือบางสิ่งสำหรับปัญหาของคุณ."
+          "TranslatedText": "\nนี่คือบางสิ่งสำหรับปัญหาของคุณ.",
+          "Length": 35
         }
       ]
     }

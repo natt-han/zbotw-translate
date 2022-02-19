@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Who are you?",
-          "TranslatedText": "คุณเป็นใคร?"
+          "TranslatedText": "คุณเป็นใคร?",
+          "Length": 12
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Where are we?",
-          "TranslatedText": "เราอยู่ที่ไหน?"
+          "TranslatedText": "เราอยู่ที่ไหน?",
+          "Length": 13
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Bye.",
-          "TranslatedText": "บาย."
+          "TranslatedText": "บาย.",
+          "Length": 4
         }
       ]
     },
@@ -38,12 +41,14 @@
         {
           "Line": 25,
           "OriginalText": "Me?",
-          "TranslatedText": "ฉัน?"
+          "TranslatedText": "ฉัน?",
+          "Length": 3
         },
         {
           "Line": 29,
           "OriginalText": " I\u0027ll spare you my life story.",
-          "TranslatedText": " ฉันจะเล่าเรื่องราวในชีวิตของฉันให้คุณฟัง"
+          "TranslatedText": " ฉันจะเล่าเรื่องราวในชีวิตของฉันให้คุณฟัง",
+          "Length": 30
         }
       ]
     },
@@ -54,7 +59,8 @@
         {
           "Line": 33,
           "OriginalText": "I\u0027m just an old fool who has lived here,\nalone, for quite some time now.",
-          "TranslatedText": "ฉันเป็นแค่ชายแก่หน้าโง่ที่อาศัยอยู่ที่นี่\nคนเดียวมาสักระยะนึงแล้ว"
+          "TranslatedText": "ฉันเป็นแค่ชายแก่หน้าโง่ที่อาศัยอยู่ที่นี่\nคนเดียวมาสักระยะนึงแล้ว",
+          "Length": 72
         }
       ]
     },
@@ -65,12 +71,14 @@
         {
           "Line": 45,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         },
         {
           "Line": 49,
           "OriginalText": " It suits you quite well!",
-          "TranslatedText": " เหมาะกับคุณมากทีเดียวll!"
+          "TranslatedText": " เหมาะกับคุณมากทีเดียวll!",
+          "Length": 25
         }
       ]
     },
@@ -81,17 +89,20 @@
         {
           "Line": 58,
           "OriginalText": "I assume you will want to try it on\nright away, yes?",
-          "TranslatedText": "ฉันคิดว่าคุณอยากจะลองสวมมัน\nทันทีใช่มั้ย?"
+          "TranslatedText": "ฉันคิดว่าคุณอยากจะลองสวมมัน\nทันทีใช่มั้ย?",
+          "Length": 52
         },
         {
           "Line": 62,
           "OriginalText": "\n\nI thought you might be eager to see\nhow it looks... It\u0027s quite fetching!\n\nWell, I suppose it matters not. It is\nyours now.",
-          "TranslatedText": "\n\nฉันคิดว่าคุณอาจอยากเห็นว่ามันเป็นอย่างไร...\nมันค่อนข้างดูดีทีเดียว!\n\nแต่มันไม่สำคัญหรอก ตอนนี้เป็นของคุณแล้ว\n"
+          "TranslatedText": "\n\nฉันคิดว่าคุณอาจอยากเห็นว่ามันเป็นอย่างไร...\nมันค่อนข้างดูดีทีเดียว!\n\nแต่มันไม่สำคัญหรอก ตอนนี้เป็นของคุณแล้ว\n",
+          "Length": 124
         },
         {
           "Line": 66,
           "OriginalText": " Do take care to put it on\nbefore you get too cold, though.",
-          "TranslatedText": " สวมมันเสียก่อนที่จะหนาวเกินไปนะ"
+          "TranslatedText": " สวมมันเสียก่อนที่จะหนาวเกินไปนะ",
+          "Length": 59
         }
       ]
     },
@@ -102,18 +113,21 @@
         {
           "Line": 75,
           "OriginalText": "With that, you will be able to resist the\nbite of colder environments.\n\nAs for me, I know a great ",
-          "TranslatedText": "ด้วยวิธีนี้คุณจะสามารถต้านทาน\nการกัดกินของสภาพแวดล้อมที่เย็นกว่าได้.\nสำหรับฉัน ฉันรู้ดี "
+          "TranslatedText": "ด้วยวิธีนี้คุณจะสามารถต้านทาน\nการกัดกินของสภาพแวดล้อมที่เย็นกว่าได้.\nสำหรับฉัน ฉันรู้ดี ",
+          "Length": 98
         },
         {
           "Line": 79,
           "OriginalText": "spicy\nmeat and seafood fry ",
           "TranslatedText": "พริก\nทอดเนื้อสัตว์และอาหารทะเล ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 27
         },
         {
           "Line": 82,
           "OriginalText": "recipe, so I can\ndo without that warm doublet.",
-          "TranslatedText": "สูตรอาหารดังนั้น\nฉันสามารถทำได้โดยไม่ต้องอบอุ่นเป็นสองเท่า."
+          "TranslatedText": "สูตรอาหารดังนั้น\nฉันสามารถทำได้โดยไม่ต้องอบอุ่นเป็นสองเท่า.",
+          "Length": 46
         }
       ]
     },
@@ -123,7 +137,8 @@
         {
           "Line": 86,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม ..."
+          "TranslatedText": "อืม ...",
+          "Length": 6
         }
       ]
     },
@@ -133,7 +148,8 @@
         {
           "Line": 90,
           "OriginalText": "That was close...",
-          "TranslatedText": "เกือบไปแล้ว..."
+          "TranslatedText": "เกือบไปแล้ว...",
+          "Length": 17
         }
       ]
     },
@@ -144,7 +160,8 @@
         {
           "Line": 99,
           "OriginalText": "Wait.",
-          "TranslatedText": "รอก่อน"
+          "TranslatedText": "รอก่อน",
+          "Length": 5
         }
       ]
     },
@@ -155,12 +172,14 @@
         {
           "Line": 108,
           "OriginalText": "Where are you rushing off to now?",
-          "TranslatedText": "ตอนนี้คุณกำลังรีบไปที่ไหน?"
+          "TranslatedText": "ตอนนี้คุณกำลังรีบไปที่ไหน?",
+          "Length": 33
         },
         {
           "Line": 112,
           "OriginalText": "\nIs speaking with a strange old man truly\nsuch an awful use of your time?",
-          "TranslatedText": "\nการพูดคุยกับชายชราแปลกหน้า\nเป็นการรบกวนเวลาของคุณอย่างเลวร้ายงั้นหรือ?"
+          "TranslatedText": "\nการพูดคุยกับชายชราแปลกหน้า\nเป็นการรบกวนเวลาของคุณอย่างเลวร้ายงั้นหรือ?",
+          "Length": 73
         }
       ]
     },
@@ -171,7 +190,8 @@
         {
           "Line": 121,
           "OriginalText": "Hmph. Well, do as you like, then.",
-          "TranslatedText": "ฮึ่ม. งั้นก็ทำตามที่คุณต้องการแล้วกัน."
+          "TranslatedText": "ฮึ่ม. งั้นก็ทำตามที่คุณต้องการแล้วกัน.",
+          "Length": 33
         }
       ]
     },
@@ -186,12 +206,14 @@
         {
           "Line": 133,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         },
         {
           "Line": 137,
           "OriginalText": " Well met, stranger!\nIt\u0027s rather unusual to see another soul\nin these parts.",
-          "TranslatedText": " เจอแล้วคนแปลกหน้า!\nมันค่อนข้างแปลกที่จะเห็น\nคนในพื้นที่แห่งนี้."
+          "TranslatedText": " เจอแล้วคนแปลกหน้า!\nมันค่อนข้างแปลกที่จะเห็น\nคนในพื้นที่แห่งนี้.",
+          "Length": 76
         }
       ]
     },
@@ -206,7 +228,8 @@
         {
           "Line": 154,
           "OriginalText": "It is a bit strange to see another soul\nin these parts.",
-          "TranslatedText": "เป็นเรื่องแปลกนิดหน่อยที่ได้เห็น\nคนในพื้นที่แห่งนี้."
+          "TranslatedText": "เป็นเรื่องแปลกนิดหน่อยที่ได้เห็น\nคนในพื้นที่แห่งนี้.",
+          "Length": 55
         }
       ]
     },
@@ -221,7 +244,8 @@
         {
           "Line": 171,
           "OriginalText": "What brings a bright-eyed young man\nlike you to a place like this?",
-          "TranslatedText": "อะไรทำให้ชายหนุ่ม ตาเป็นประกาย\nอย่างคุณมาอยู่ในสถานที่เช่นนี้?"
+          "TranslatedText": "อะไรทำให้ชายหนุ่ม ตาเป็นประกาย\nอย่างคุณมาอยู่ในสถานที่เช่นนี้?",
+          "Length": 66
         }
       ]
     },
@@ -236,12 +260,14 @@
         {
           "Line": 188,
           "OriginalText": "I hope you\u0027ll permit me a question...",
-          "TranslatedText": "ฉันหวังว่าคุณจะตอบคำถาม..."
+          "TranslatedText": "ฉันหวังว่าคุณจะตอบคำถาม...",
+          "Length": 37
         },
         {
           "Line": 192,
           "OriginalText": "\nIf I may be so bold...are you not chilly?",
-          "TranslatedText": "\nถ้าฉันกล้า...คุณไม่หนาว?"
+          "TranslatedText": "\nถ้าฉันกล้า...คุณไม่หนาว?",
+          "Length": 42
         }
       ]
     },
@@ -252,12 +278,14 @@
         {
           "Line": 209,
           "OriginalText": "Answering a question with a question.\nThat is fair enough.\n\nAs I cannot imagine our meeting to be a\nsimple coincidence...",
-          "TranslatedText": "ตอบคำถามด้วยคำถาม\nก็ยุติธรรมดี\n\nอย่างที่ฉันนึกไม่ถึงว่าการพบกันของเรา\nจะเป็นเรื่องบังเอิญธรรมดา ๆ..."
+          "TranslatedText": "ตอบคำถามด้วยคำถาม\nก็ยุติธรรมดี\n\nอย่างที่ฉันนึกไม่ถึงว่าการพบกันของเรา\nจะเป็นเรื่องบังเอิญธรรมดา ๆ...",
+          "Length": 121
         },
         {
           "Line": 213,
           "OriginalText": "I shall tell you.",
-          "TranslatedText": "ฉันจะบอกคุณ"
+          "TranslatedText": "ฉันจะบอกคุณ",
+          "Length": 17
         }
       ]
     },
@@ -267,7 +295,8 @@
         {
           "Line": 222,
           "OriginalText": "I look forward to seeing what type of\ntreasure you secure out there.",
-          "TranslatedText": "ฉันหวังว่าจะได้เห็นสมบัติอะไร\nที่คุณได้รับจากที่นั่น."
+          "TranslatedText": "ฉันหวังว่าจะได้เห็นสมบัติอะไร\nที่คุณได้รับจากที่นั่น.",
+          "Length": 68
         }
       ]
     },
@@ -277,23 +306,27 @@
         {
           "Line": 236,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         },
         {
           "Line": 240,
           "OriginalText": " If you still wish to acquire the\n",
-          "TranslatedText": " หากคุณยังต้องการ\n"
+          "TranslatedText": " หากคุณยังต้องการ\n",
+          "Length": 34
         },
         {
           "Line": 244,
           "OriginalText": "paraglider",
           "TranslatedText": "ร่มร่อน",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 247,
           "OriginalText": ", you must put in the effort.\nI will not simply give it away, you see.",
-          "TranslatedText": ", คุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณก็รู้."
+          "TranslatedText": ", คุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณก็รู้.",
+          "Length": 70
         }
       ]
     },
@@ -304,23 +337,27 @@
         {
           "Line": 256,
           "OriginalText": "This is the ",
-          "TranslatedText": "นี่คือ "
+          "TranslatedText": "นี่คือ ",
+          "Length": 12
         },
         {
           "Line": 260,
           "OriginalText": "Great Plateau",
           "TranslatedText": "ที่ราบสูงอันยิ่งใหญ่ Great Plateau",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 263,
           "OriginalText": ".",
-          "TranslatedText": ".\n"
+          "TranslatedText": ".\n",
+          "Length": 1
         },
         {
           "Line": 267,
           "OriginalText": " According to\nlegend, this is the birthplace of the\nentire kingdom of Hyrule.",
-          "TranslatedText": " ตามตำนานนี่คือสถานที่กำเนิด\nของอาณาจักร Hyrule."
+          "TranslatedText": " ตามตำนานนี่คือสถานที่กำเนิด\nของอาณาจักร Hyrule.",
+          "Length": 77
         }
       ]
     },
@@ -331,12 +368,14 @@
         {
           "Line": 276,
           "OriginalText": "That temple there...",
-          "TranslatedText": "ที่วิหารนั้น..."
+          "TranslatedText": "ที่วิหารนั้น...",
+          "Length": 20
         },
         {
           "Line": 280,
           "OriginalText": " Long ago,\nit was the site of many sacred\nceremonies.\nEver since the decline of the kingdom\n100 years ago, it has sat abandoned,\nin a state of decay.",
-          "TranslatedText": " นานมาแล้ว\nเป็นสถานที่ประกอบพิธีศักดิ์สิทธิ์มากมาย\nนับตั้งแต่การล่มสลายของอาณาจักร\nเมื่อ 100 ปีที่แล้วก็ถูกทิ้งร้างในสภาพที่เสื่อมโทรม."
+          "TranslatedText": " นานมาแล้ว\nเป็นสถานที่ประกอบพิธีศักดิ์สิทธิ์มากมาย\nนับตั้งแต่การล่มสลายของอาณาจักร\nเมื่อ 100 ปีที่แล้วก็ถูกทิ้งร้างในสภาพที่เสื่อมโทรม.",
+          "Length": 149
         }
       ]
     },
@@ -347,12 +386,14 @@
         {
           "Line": 289,
           "OriginalText": "Yet another forgotten entity. ",
-          "TranslatedText": "ผู้คนต่างลืมกันไปหมดแล้ว. "
+          "TranslatedText": "ผู้คนต่างลืมกันไปหมดแล้ว. ",
+          "Length": 30
         },
         {
           "Line": 293,
           "OriginalText": "A mere\nghost of its former self...",
-          "TranslatedText": "ฉันแวะ\nมาที่นี่เป็นบางครั้ง..."
+          "TranslatedText": "ฉันแวะ\nมาที่นี่เป็นบางครั้ง...",
+          "Length": 34
         }
       ]
     },
@@ -362,7 +403,8 @@
         {
           "Line": 297,
           "OriginalText": "Aren\u0027t you...a bit chilly?",
-          "TranslatedText": "คุณไม่ ... หนาวบ้างเหรอ?"
+          "TranslatedText": "คุณไม่ ... หนาวบ้างเหรอ?",
+          "Length": 26
         }
       ]
     },
@@ -372,7 +414,8 @@
         {
           "Line": 304,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -382,7 +425,8 @@
         {
           "Line": 316,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -392,7 +436,8 @@
         {
           "Line": 328,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -402,7 +447,8 @@
         {
           "Line": 337,
           "OriginalText": "The blessing of the Goddess has made\nyou that much more resilient, I see...",
-          "TranslatedText": "พรของเทพธิดาทำให้\nคุณมีความยืดหยุ่นมากขึ้นฉันเห็น..."
+          "TranslatedText": "พรของเทพธิดาทำให้\nคุณมีความยืดหยุ่นมากขึ้นฉันเห็น...",
+          "Length": 75
         }
       ]
     },
@@ -412,12 +458,14 @@
         {
           "Line": 346,
           "OriginalText": "Here I am...",
-          "TranslatedText": "ฉันอยู่นี่..."
+          "TranslatedText": "ฉันอยู่นี่...",
+          "Length": 12
         },
         {
           "Line": 350,
           "OriginalText": "\nGet up here—quickly!",
-          "TranslatedText": "\nปีนขึ้นมาที่นี่—เร็วเข้า!"
+          "TranslatedText": "\nปีนขึ้นมาที่นี่—เร็วเข้า!",
+          "Length": 21
         }
       ]
     },
@@ -427,7 +475,8 @@
         {
           "Line": 354,
           "OriginalText": "What is this?!",
-          "TranslatedText": "นี่คืออะไร?!"
+          "TranslatedText": "นี่คืออะไร?!",
+          "Length": 14
         }
       ]
     },
@@ -437,7 +486,8 @@
         {
           "Line": 358,
           "OriginalText": "What is it?!",
-          "TranslatedText": "มันคืออะไร?!"
+          "TranslatedText": "มันคืออะไร?!",
+          "Length": 12
         }
       ]
     },
@@ -447,7 +497,8 @@
         {
           "Line": 362,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -457,7 +508,8 @@
         {
           "Line": 366,
           "OriginalText": "Huh?!",
-          "TranslatedText": "ฮะ?!"
+          "TranslatedText": "ฮะ?!",
+          "Length": 5
         }
       ]
     },
@@ -467,7 +519,8 @@
         {
           "Line": 370,
           "OriginalText": "Toasty...",
-          "TranslatedText": "ขนมปังปิ้ง ..."
+          "TranslatedText": "ขนมปังปิ้ง ...",
+          "Length": 9
         }
       ]
     },
@@ -477,7 +530,8 @@
         {
           "Line": 374,
           "OriginalText": "A Guardian!",
-          "TranslatedText": "ผู้พิทักษ์!"
+          "TranslatedText": "ผู้พิทักษ์!",
+          "Length": 11
         }
       ]
     },
@@ -487,7 +541,8 @@
         {
           "Line": 378,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -497,7 +552,8 @@
         {
           "Line": 382,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -507,7 +563,8 @@
         {
           "Line": 386,
           "OriginalText": "Easy there!",
-          "TranslatedText": "สบายมาก!"
+          "TranslatedText": "สบายมาก!",
+          "Length": 11
         }
       ]
     }

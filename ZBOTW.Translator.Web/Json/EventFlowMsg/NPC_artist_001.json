@@ -7,12 +7,14 @@
         {
           "Line": 13,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืมม..."
+          "TranslatedText": "อืมม...",
+          "Length": 6
         },
         {
           "Line": 17,
           "OriginalText": " The volcano has a completely\ndifferent face when viewed from\nthis stable...",
-          "TranslatedText": " ภูเขาไฟดูเปลี่ยนไป\nอย่างสิ้นเชิงเลย เมื่อดูจากที่พักม้านี้..."
+          "TranslatedText": " ภูเขาไฟดูเปลี่ยนไป\nอย่างสิ้นเชิงเลย เมื่อดูจากที่พักม้านี้...",
+          "Length": 76
         }
       ]
     },
@@ -22,28 +24,33 @@
         {
           "Line": 26,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         },
         {
           "Line": 30,
           "OriginalText": " That\u0027s ",
-          "TranslatedText": " นั่นมัน "
+          "TranslatedText": " นั่นมัน ",
+          "Length": 8
         },
         {
           "Line": 34,
           "OriginalText": "Lake Kolomo",
           "TranslatedText": "Lake Kolomo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 37,
           "OriginalText": ", isn\u0027t it?\nIt\u0027s an oddly shaped lake west of here.\n\n",
-          "TranslatedText": " ไม่ใช่เหรอ?\nมันเป็นทะเลสาบรูปร่างแปลก ทางตะวันตกของที่นี่\n"
+          "TranslatedText": " ไม่ใช่เหรอ?\nมันเป็นทะเลสาบรูปร่างแปลก ทางตะวันตกของที่นี่\n",
+          "Length": 53
         },
         {
           "Line": 43,
           "OriginalText": "There\u0027s a forest on the west side of it.\nYes, I can see some trees here as well.\nIt must be over there.",
-          "TranslatedText": "มีป่าอยู่ทางตะวันตกของทะเลสาบ\nใช่แล้ว จะเห็นว่าตรงนี้มีต้นไม้ด้วย\nต้องเป็นที่นั่นแน่"
+          "TranslatedText": "มีป่าอยู่ทางตะวันตกของทะเลสาบ\nใช่แล้ว จะเห็นว่าตรงนี้มีต้นไม้ด้วย\nต้องเป็นที่นั่นแน่",
+          "Length": 103
         }
       ]
     },
@@ -53,7 +60,8 @@
         {
           "Line": 52,
           "OriginalText": "I\u0027ve been there before. It\u0027s a rather\nbeautiful spot.",
-          "TranslatedText": "ฉันเคยไปที่นั่นมาก่อน \nมันเป็นจุดที่สวยเลยล่ะ"
+          "TranslatedText": "ฉันเคยไปที่นั่นมาก่อน \nมันเป็นจุดที่สวยเลยล่ะ",
+          "Length": 53
         }
       ]
     }

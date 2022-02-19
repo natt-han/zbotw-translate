@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027m in.",
-          "TranslatedText": "ฉันเอาด้วย"
+          "TranslatedText": "ฉันเอาด้วย",
+          "Length": 7
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "How\u0027s it work again?",
-          "TranslatedText": "ขออีกที มันทำงานยังไงนะ"
+          "TranslatedText": "ขออีกที มันทำงานยังไงนะ",
+          "Length": 20
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "I don\u0027t think so.",
-          "TranslatedText": "ฉันไม่คิดอย่างงั้นนะ"
+          "TranslatedText": "ฉันไม่คิดอย่างงั้นนะ",
+          "Length": 17
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "...10 rupees.",
-          "TranslatedText": "10 รูปี"
+          "TranslatedText": "10 รูปี",
+          "Length": 13
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "50 rupees.",
-          "TranslatedText": "50 รูปี"
+          "TranslatedText": "50 รูปี",
+          "Length": 10
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "100 rupees!",
-          "TranslatedText": "100 รูปี"
+          "TranslatedText": "100 รูปี",
+          "Length": 11
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "I changed my mind.",
-          "TranslatedText": "ฉันเปลี่ยนใจ"
+          "TranslatedText": "ฉันเปลี่ยนใจ",
+          "Length": 18
         }
       ]
     },
@@ -78,7 +85,8 @@
         {
           "Line": 36,
           "OriginalText": "Place your bets!",
-          "TranslatedText": "แทงมาเลย!"
+          "TranslatedText": "แทงมาเลย!",
+          "Length": 16
         }
       ]
     },
@@ -89,12 +97,14 @@
         {
           "Line": 45,
           "OriginalText": "Psst... C\u0027mere.",
-          "TranslatedText": "ชิ...มานี่."
+          "TranslatedText": "ชิ...มานี่.",
+          "Length": 15
         },
         {
           "Line": 49,
           "OriginalText": " No, closer.",
-          "TranslatedText": "ไม่,ใกล้กว่านั้น."
+          "TranslatedText": "ไม่,ใกล้กว่านั้น.",
+          "Length": 12
         }
       ]
     },
@@ -105,12 +115,14 @@
         {
           "Line": 58,
           "OriginalText": "Hey, hey, simmer down.",
-          "TranslatedText": "เห้ย เห้ย, เย็นไว้"
+          "TranslatedText": "เห้ย เห้ย, เย็นไว้",
+          "Length": 22
         },
         {
           "Line": 62,
           "OriginalText": " I\u0027m not talking\nabout anything illegal here.",
-          "TranslatedText": "ฉันไม่ได้พูดอะไร\nเกี่ยวกับเรื่องที่มันผิดกฎหมายนะ."
+          "TranslatedText": "ฉันไม่ได้พูดอะไร\nเกี่ยวกับเรื่องที่มันผิดกฎหมายนะ.",
+          "Length": 45
         }
       ]
     },
@@ -121,22 +133,26 @@
         {
           "Line": 71,
           "OriginalText": "See those treasure chests over there?",
-          "TranslatedText": "ดูกล่องสมบัติพวกนั้นสิ"
+          "TranslatedText": "ดูกล่องสมบัติพวกนั้นสิ",
+          "Length": 37
         },
         {
           "Line": 75,
           "OriginalText": "\nWhaddaya say to a little wager on \u0027em?",
-          "TranslatedText": "จะว่าไง พนันกันหน่อยไหม"
+          "TranslatedText": "จะว่าไง พนันกันหน่อยไหม",
+          "Length": 39
         },
         {
           "Line": 81,
           "OriginalText": "The idea is you pick any chest you want\nand open it.",
-          "TranslatedText": "แผนคือนายจะเลือกเอากล่องไหนก็ได้\nแล้วเปิดดู."
+          "TranslatedText": "แผนคือนายจะเลือกเอากล่องไหนก็ได้\nแล้วเปิดดู.",
+          "Length": 52
         },
         {
           "Line": 85,
           "OriginalText": " Simple, right?",
-          "TranslatedText": "ง่ายๆ ใช่ไหมล่ะ?"
+          "TranslatedText": "ง่ายๆ ใช่ไหมล่ะ?",
+          "Length": 15
         }
       ]
     },
@@ -147,27 +163,32 @@
         {
           "Line": 89,
           "OriginalText": "The best part is",
-          "TranslatedText": "ที่มันเจ๋งคือ"
+          "TranslatedText": "ที่มันเจ๋งคือ",
+          "Length": 16
         },
         {
           "Line": 93,
           "OriginalText": " whatever chest you\nopen,",
-          "TranslatedText": "กล่องไหนก็แล้วแต่ที่นาย\nเปิด,"
+          "TranslatedText": "กล่องไหนก็แล้วแต่ที่นาย\nเปิด,",
+          "Length": 25
         },
         {
           "Line": 97,
           "OriginalText": " you get all the money inside.",
-          "TranslatedText": "นายจะได้เงินทั้งหมดข้างใน"
+          "TranslatedText": "นายจะได้เงินทั้งหมดข้างใน",
+          "Length": 30
         },
         {
           "Line": 103,
           "OriginalText": "Course, only one chest is worth opening,\nheh heh.",
-          "TranslatedText": "แน่นอนล่ะ มีแค่กล่องเดียวที่คุ้มกับการเปิด\nเหะเหะ."
+          "TranslatedText": "แน่นอนล่ะ มีแค่กล่องเดียวที่คุ้มกับการเปิด\nเหะเหะ.",
+          "Length": 49
         },
         {
           "Line": 107,
           "OriginalText": " Don\u0027t come crying to me if you\npick wrong.",
-          "TranslatedText": "อย่าร้องไห้มาหาฉันล่ะ \nถ้าเปิดผิดอัน."
+          "TranslatedText": "อย่าร้องไห้มาหาฉันล่ะ \nถ้าเปิดผิดอัน.",
+          "Length": 43
         }
       ]
     },
@@ -178,12 +199,14 @@
         {
           "Line": 111,
           "OriginalText": "Before you go opening any boxes,",
-          "TranslatedText": "ก่อนที่เปิดกล่องไหนก็แล้วแต่"
+          "TranslatedText": "ก่อนที่เปิดกล่องไหนก็แล้วแต่",
+          "Length": 32
         },
         {
           "Line": 115,
           "OriginalText": " you\u0027ll\nhave to show me what it\u0027s worth to you.",
-          "TranslatedText": "นายจะต้อง\nแสดงให้ฉันเห็นก่อนว่านายเห็นค่ามันแค่ไหน"
+          "TranslatedText": "นายจะต้อง\nแสดงให้ฉันเห็นก่อนว่านายเห็นค่ามันแค่ไหน",
+          "Length": 47
         }
       ]
     },
@@ -194,12 +217,14 @@
         {
           "Line": 124,
           "OriginalText": "What\u0027s a bet, after all, if you don\u0027t stand\nto lose a bundle on it?",
-          "TranslatedText": "มันก็การพนันนั่นแหละ, ถ้านายไม่พร้อม\nที่จะเสียเงินก้อน?"
+          "TranslatedText": "มันก็การพนันนั่นแหละ, ถ้านายไม่พร้อม\nที่จะเสียเงินก้อน?",
+          "Length": 67
         },
         {
           "Line": 128,
           "OriginalText": " That\u0027s the part\nthat really gets a man\u0027s heart racing!",
-          "TranslatedText": "นั่นก็คือส่วน\nที่เร้าใจ ที่ทำให้ใจผู้ชายอย่างเรามันเต้นแรง!"
+          "TranslatedText": "นั่นก็คือส่วน\nที่เร้าใจ ที่ทำให้ใจผู้ชายอย่างเรามันเต้นแรง!",
+          "Length": 55
         }
       ]
     },
@@ -210,22 +235,26 @@
         {
           "Line": 137,
           "OriginalText": "It\u0027s up to you how much you want to\nthrow in.",
-          "TranslatedText": "มันขึ้นอยู่กับนาย ว่านายอยาก\nแทงเท่าไหร่."
+          "TranslatedText": "มันขึ้นอยู่กับนาย ว่านายอยาก\nแทงเท่าไหร่.",
+          "Length": 45
         },
         {
           "Line": 141,
           "OriginalText": " But the more you bet, the more\nyou stand to win.\nA man like you must have expenses.",
-          "TranslatedText": "แต่ยิ่งนายวางมาก โอกาส\nที่นายจะได้ก็มากตาม. \nคนอย่างนายต้องมีรายจ่ายพอตัว"
+          "TranslatedText": "แต่ยิ่งนายวางมาก โอกาส\nที่นายจะได้ก็มากตาม. \nคนอย่างนายต้องมีรายจ่ายพอตัว",
+          "Length": 84
         },
         {
           "Line": 145,
           "OriginalText": "\nCouldn\u0027t hurt to make some quick cash—\nright here, right now—",
-          "TranslatedText": "\nไม่เสียแรงที่จะทำเงินง่ายๆ \nที่นี่ตรงนี้หรอก"
+          "TranslatedText": "\nไม่เสียแรงที่จะทำเงินง่ายๆ \nที่นี่ตรงนี้หรอก",
+          "Length": 62
         },
         {
           "Line": 149,
           "OriginalText": "am I right?",
-          "TranslatedText": "จริงม้าย"
+          "TranslatedText": "จริงม้าย",
+          "Length": 11
         }
       ]
     },
@@ -241,12 +270,14 @@
         {
           "Line": 158,
           "OriginalText": "Whaddaya say?",
-          "TranslatedText": "จะว่าไงล่ะ?"
+          "TranslatedText": "จะว่าไงล่ะ?",
+          "Length": 13
         },
         {
           "Line": 162,
           "OriginalText": " All you\u0027ve got to lose\nis your pride...and your money.",
-          "TranslatedText": "ทั้งหมดที่นายพร้อมจะเสีย \nคือศักดิ์ศรี…และเงิน"
+          "TranslatedText": "ทั้งหมดที่นายพร้อมจะเสีย \nคือศักดิ์ศรี…และเงิน",
+          "Length": 55
         }
       ]
     },
@@ -262,12 +293,14 @@
         {
           "Line": 180,
           "OriginalText": "How \u0027bout it?",
-          "TranslatedText": "เป็นไงล่ะ"
+          "TranslatedText": "เป็นไงล่ะ",
+          "Length": 13
         },
         {
           "Line": 184,
           "OriginalText": " Wanna try your luck?",
-          "TranslatedText": "จะลองเสี่ยงโชคของนายไหม?"
+          "TranslatedText": "จะลองเสี่ยงโชคของนายไหม?",
+          "Length": 21
         }
       ]
     },
@@ -278,7 +311,8 @@
         {
           "Line": 202,
           "OriginalText": "All right, listen up.",
-          "TranslatedText": "โอเค,ฟังนะ"
+          "TranslatedText": "โอเค,ฟังนะ",
+          "Length": 21
         }
       ]
     },
@@ -289,12 +323,14 @@
         {
           "Line": 211,
           "OriginalText": "Psh... ",
-          "TranslatedText": "เช้อะ…"
+          "TranslatedText": "เช้อะ…",
+          "Length": 7
         },
         {
           "Line": 215,
           "OriginalText": "Lady Luck has no time for a man\nwho won\u0027t take any chances.",
-          "TranslatedText": "ราชินีโชคไม่มีเวลาให้กับชาย\nที่ไม่กล้าเสี่ยงกับโอกาสร้อค"
+          "TranslatedText": "ราชินีโชคไม่มีเวลาให้กับชาย\nที่ไม่กล้าเสี่ยงกับโอกาสร้อค",
+          "Length": 59
         }
       ]
     },
@@ -305,12 +341,14 @@
         {
           "Line": 224,
           "OriginalText": "Well, suit yourself.",
-          "TranslatedText": "ดี…เรื่องของนาย"
+          "TranslatedText": "ดี…เรื่องของนาย",
+          "Length": 20
         },
         {
           "Line": 228,
           "OriginalText": " But if you ever feel\nlike trying your luck, I\u0027m always here.",
-          "TranslatedText": "แต่ถ้านายรู้สึก\nที่จะลองเสี่ยงโชคละก็, ชั้นอยู่นี่เสมอ"
+          "TranslatedText": "แต่ถ้านายรู้สึก\nที่จะลองเสี่ยงโชคละก็, ชั้นอยู่นี่เสมอ",
+          "Length": 61
         }
       ]
     },
@@ -321,7 +359,8 @@
         {
           "Line": 237,
           "OriginalText": "Attaboy...",
-          "TranslatedText": "ไอ้หนุ่ม"
+          "TranslatedText": "ไอ้หนุ่ม",
+          "Length": 10
         }
       ]
     },
@@ -338,12 +377,14 @@
         {
           "Line": 241,
           "OriginalText": "Now for the million-rupee question:",
-          "TranslatedText": "ทีนี้ สำหรับคำถามระดับล้านรูปี"
+          "TranslatedText": "ทีนี้ สำหรับคำถามระดับล้านรูปี",
+          "Length": 35
         },
         {
           "Line": 245,
           "OriginalText": "\nHow much are you betting?",
-          "TranslatedText": "\nนายจะแทงเท่าไหร่"
+          "TranslatedText": "\nนายจะแทงเท่าไหร่",
+          "Length": 26
         }
       ]
     },
@@ -354,12 +395,14 @@
         {
           "Line": 264,
           "OriginalText": "Just tipping a toe in the water, eh?",
-          "TranslatedText": "แค่จะลองจุ่มหัวแม่โป้งลงในน้ำถามทางละสิ"
+          "TranslatedText": "แค่จะลองจุ่มหัวแม่โป้งลงในน้ำถามทางละสิ",
+          "Length": 36
         },
         {
           "Line": 268,
           "OriginalText": "\nProbably smart.",
-          "TranslatedText": "\nคงจะเป็นความคิดที่ดี"
+          "TranslatedText": "\nคงจะเป็นความคิดที่ดี",
+          "Length": 16
         }
       ]
     },
@@ -370,12 +413,14 @@
         {
           "Line": 277,
           "OriginalText": "Now we\u0027re talkin\u0027!",
-          "TranslatedText": "นี่ละที่ชั้นบอกไว้. "
+          "TranslatedText": "นี่ละที่ชั้นบอกไว้. ",
+          "Length": 18
         },
         {
           "Line": 281,
           "OriginalText": " Looks like someone\u0027s\nready to make some REAL money!",
-          "TranslatedText": "ดูเหมือนว่าใครบางคน\nพร้อมที่จะหาเงินจริงๆกันแล้ว"
+          "TranslatedText": "ดูเหมือนว่าใครบางคน\nพร้อมที่จะหาเงินจริงๆกันแล้ว",
+          "Length": 52
         }
       ]
     },
@@ -386,12 +431,14 @@
         {
           "Line": 290,
           "OriginalText": "Way to live on the edge, pal!",
-          "TranslatedText": "ใช้ชีวิตบนเส้นด้ายไปเลย, เพื่อน!"
+          "TranslatedText": "ใช้ชีวิตบนเส้นด้ายไปเลย, เพื่อน!",
+          "Length": 29
         },
         {
           "Line": 294,
           "OriginalText": " That\nrecklessness—I mean, fearlessness—\nalmost reminds me of me!",
-          "TranslatedText": "นั่นล่ะ\nความบ้า-ฉันหมายถึงการไร้ความกลัว \nเกือบจะทำให้นึกถึงตัวชั้นเอง!"
+          "TranslatedText": "นั่นล่ะ\nความบ้า-ฉันหมายถึงการไร้ความกลัว \nเกือบจะทำให้นึกถึงตัวชั้นเอง!",
+          "Length": 65
         }
       ]
     },
@@ -402,12 +449,14 @@
         {
           "Line": 303,
           "OriginalText": "...Waaaait a minute.",
-          "TranslatedText": "....เดี๋ยวววก่อน"
+          "TranslatedText": "....เดี๋ยวววก่อน",
+          "Length": 20
         },
         {
           "Line": 307,
           "OriginalText": " No making bets you\ncan\u0027t cover.",
-          "TranslatedText": "อย่าพนันถ้านาย\nมีไม่พอนะ."
+          "TranslatedText": "อย่าพนันถ้านาย\nมีไม่พอนะ.",
+          "Length": 32
         }
       ]
     },
@@ -418,12 +467,14 @@
         {
           "Line": 311,
           "OriginalText": "You can\u0027t gamble without putting cash on\nthe table.",
-          "TranslatedText": "นายจะแทงไม่ได้ถ้าไม่วางเงิน\nบนโต๊ะ"
+          "TranslatedText": "นายจะแทงไม่ได้ถ้าไม่วางเงิน\nบนโต๊ะ",
+          "Length": 51
         },
         {
           "Line": 315,
           "OriginalText": " Come back when you have at\nleast enough to go for the minimum.",
-          "TranslatedText": "มาอีกที \nตอนที่มีเงินพอ."
+          "TranslatedText": "มาอีกที \nตอนที่มีเงินพอ.",
+          "Length": 63
         }
       ]
     },
@@ -434,27 +485,32 @@
         {
           "Line": 324,
           "OriginalText": "There we go.",
-          "TranslatedText": "ไปกันเลย"
+          "TranslatedText": "ไปกันเลย",
+          "Length": 12
         },
         {
           "Line": 328,
           "OriginalText": " Step right up and take\nyour chances!",
-          "TranslatedText": "ก้าวไปหยิบ\nโอกาสของนาย!"
+          "TranslatedText": "ก้าวไปหยิบ\nโอกาสของนาย!",
+          "Length": 37
         },
         {
           "Line": 334,
           "OriginalText": "Take all the time you need to choose a\nchest to open.",
-          "TranslatedText": "ใช้เวลาตามค้องการเพื่อเลือก\nกล่องที่จะเปิด."
+          "TranslatedText": "ใช้เวลาตามค้องการเพื่อเลือก\nกล่องที่จะเปิด.",
+          "Length": 53
         },
         {
           "Line": 338,
           "OriginalText": " Look, listen, smell...",
-          "TranslatedText": "มอง ฟัง ดม…"
+          "TranslatedText": "มอง ฟัง ดม…",
+          "Length": 23
         },
         {
           "Line": 342,
           "OriginalText": "taste\n\u0027em if you think it\u0027ll help.",
-          "TranslatedText": "ชิมมัน\nถ้านายคิดว่ามันช่วยได้."
+          "TranslatedText": "ชิมมัน\nถ้านายคิดว่ามันช่วยได้.",
+          "Length": 34
         }
       ]
     },
@@ -465,12 +521,14 @@
         {
           "Line": 351,
           "OriginalText": "Them\u0027s the breaks.",
-          "TranslatedText": "อย่างงี้ละนะ"
+          "TranslatedText": "อย่างงี้ละนะ",
+          "Length": 18
         },
         {
           "Line": 355,
           "OriginalText": " But hey, surely you\u0027ll\nwin big NEXT time!",
-          "TranslatedText": "แต่เห้ย, นายจะ\nชนะจังๆแน่นอนรอบหน้า!"
+          "TranslatedText": "แต่เห้ย, นายจะ\nชนะจังๆแน่นอนรอบหน้า!",
+          "Length": 42
         }
       ]
     },
@@ -481,17 +539,20 @@
         {
           "Line": 364,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้วว"
+          "TranslatedText": "โว้วว",
+          "Length": 5
         },
         {
           "Line": 368,
           "OriginalText": " Who\u0027d have thought?!",
-          "TranslatedText": "ใครจะคิด"
+          "TranslatedText": "ใครจะคิด",
+          "Length": 21
         },
         {
           "Line": 372,
           "OriginalText": " I mean,\nit was pure luck, but...",
-          "TranslatedText": "ชั้นหมายถึง \nมันคือโชค แต่.."
+          "TranslatedText": "ชั้นหมายถึง \nมันคือโชค แต่..",
+          "Length": 33
         }
       ]
     },
@@ -502,12 +563,14 @@
         {
           "Line": 381,
           "OriginalText": "Nice find!",
-          "TranslatedText": "ดีไปเลย"
+          "TranslatedText": "ดีไปเลย",
+          "Length": 10
         },
         {
           "Line": 385,
           "OriginalText": " See what comes to those who\nbet big?",
-          "TranslatedText": "ดูสิ สิ่งตอบแทนสำหรับคน\nกล้าแทงเยอะๆ"
+          "TranslatedText": "ดูสิ สิ่งตอบแทนสำหรับคน\nกล้าแทงเยอะๆ",
+          "Length": 37
         }
       ]
     },
@@ -518,22 +581,26 @@
         {
           "Line": 394,
           "OriginalText": "Where did that...",
-          "TranslatedText": "จากไหน"
+          "TranslatedText": "จากไหน",
+          "Length": 17
         },
         {
           "Line": 398,
           "OriginalText": " What did you...",
-          "TranslatedText": "นายทำอะไร"
+          "TranslatedText": "นายทำอะไร",
+          "Length": 16
         },
         {
           "Line": 402,
           "OriginalText": " How\ndid you score a prize like that?!",
-          "TranslatedText": "นาย\nเอารางวัลมาได้ไง"
+          "TranslatedText": "นาย\nเอารางวัลมาได้ไง",
+          "Length": 38
         },
         {
           "Line": 406,
           "OriginalText": " Can you\nintroduce me to Lady Luck?",
-          "TranslatedText": "ช่วย\nแนะนำชั้นให้กับเทพีโชคได้ไหม"
+          "TranslatedText": "ช่วย\nแนะนำชั้นให้กับเทพีโชคได้ไหม",
+          "Length": 35
         }
       ]
     },
@@ -548,12 +615,14 @@
         {
           "Line": 415,
           "OriginalText": "You are gonna keep going, right?",
-          "TranslatedText": "นายจะลุยต่อใช่ป้าว"
+          "TranslatedText": "นายจะลุยต่อใช่ป้าว",
+          "Length": 32
         },
         {
           "Line": 419,
           "OriginalText": " Or do\nyou admit defeat?",
-          "TranslatedText": "หรือนาย\nจะยอมรับว่าแพ้แค่นี้"
+          "TranslatedText": "หรือนาย\nจะยอมรับว่าแพ้แค่นี้",
+          "Length": 24
         }
       ]
     },
@@ -564,12 +633,14 @@
         {
           "Line": 436,
           "OriginalText": "I hear you.",
-          "TranslatedText": "ชั้นได้ยิน."
+          "TranslatedText": "ชั้นได้ยิน.",
+          "Length": 11
         },
         {
           "Line": 440,
           "OriginalText": " Hey, if that\u0027s what you want...",
-          "TranslatedText": "ถ้านายต้องการอย่างนั้น"
+          "TranslatedText": "ถ้านายต้องการอย่างนั้น",
+          "Length": 32
         }
       ]
     },
@@ -580,12 +651,14 @@
         {
           "Line": 449,
           "OriginalText": "What\u0027s with that look?",
-          "TranslatedText": "ทำไมทำหน้างั้น"
+          "TranslatedText": "ทำไมทำหน้างั้น",
+          "Length": 22
         },
         {
           "Line": 453,
           "OriginalText": " Pay attention,\nor Lady Luck will lose interest.",
-          "TranslatedText": "ตั้งใจให้ดีล่ะ \nไม่งั้นเทพีโชคจะไม่สนใจ"
+          "TranslatedText": "ตั้งใจให้ดีล่ะ \nไม่งั้นเทพีโชคจะไม่สนใจ",
+          "Length": 48
         }
       ]
     },
@@ -596,12 +669,14 @@
         {
           "Line": 462,
           "OriginalText": "You must be feeling cocky if you\u0027re\ntalking to me instead of picking a chest.",
-          "TranslatedText": "คงรู้สึกจองหองขึ้นมาละสิ\nถ้าพูดกับชั้นแทนที่จะเปิดกล่อง."
+          "TranslatedText": "คงรู้สึกจองหองขึ้นมาละสิ\nถ้าพูดกับชั้นแทนที่จะเปิดกล่อง.",
+          "Length": 77
         },
         {
           "Line": 468,
           "OriginalText": "Just so you know, I don\u0027t give do-overs.\nYou pay your money, and you take your\nchances.",
-          "TranslatedText": "จะบอกไว้,ชั้นไม่ให้ลองใหม่หรอกนะ, \nนายจ่ายเงินก่อน, ถึงแล้วได้\nลองอีก."
+          "TranslatedText": "จะบอกไว้,ชั้นไม่ให้ลองใหม่หรอกนะ, \nนายจ่ายเงินก่อน, ถึงแล้วได้\nลองอีก.",
+          "Length": 87
         }
       ]
     },
@@ -612,37 +687,44 @@
         {
           "Line": 477,
           "OriginalText": "You can only see inside the chest with\nyour heart, not your eyes.",
-          "TranslatedText": "นายจะเห็นข้างในกล่องนั้น\nด้วยใจ ไม่ใช่ตา"
+          "TranslatedText": "นายจะเห็นข้างในกล่องนั้น\nด้วยใจ ไม่ใช่ตา",
+          "Length": 65
         },
         {
           "Line": 483,
           "OriginalText": "Close your eyes...",
-          "TranslatedText": "หลับตา…"
+          "TranslatedText": "หลับตา…",
+          "Length": 18
         },
         {
           "Line": 487,
           "OriginalText": "look deep inside...",
-          "TranslatedText": "มองให้ลึกเข้าไป…"
+          "TranslatedText": "มองให้ลึกเข้าไป…",
+          "Length": 19
         },
         {
           "Line": 491,
           "OriginalText": "\nand pray to Lady Luck...",
-          "TranslatedText": "\nภาวนากับเทพีโชค"
+          "TranslatedText": "\nภาวนากับเทพีโชค",
+          "Length": 25
         },
         {
           "Line": 497,
           "OriginalText": "If you\u0027re truly sincere, she\u0027ll give you\nthe sign you—",
-          "TranslatedText": "หากนายจริงใจ นายจะได้รับ\nนิมิตจากเธอ…"
+          "TranslatedText": "หากนายจริงใจ นายจะได้รับ\nนิมิตจากเธอ…",
+          "Length": 54
         },
         {
           "Line": 501,
           "OriginalText": " HAAAAhahahaha! I can\u0027t\nfinish with a straight face.\n",
-          "TranslatedText": "555\u002B! ชั้นจบประโยคไม่ลง\nโดยทำหน้าตายไม่ได้เว้ย"
+          "TranslatedText": "555\u002B! ชั้นจบประโยคไม่ลง\nโดยทำหน้าตายไม่ได้เว้ย",
+          "Length": 53
         },
         {
           "Line": 507,
           "OriginalText": "What a load of hooey!",
-          "TranslatedText": "\nมันน่าขันซะจริง!"
+          "TranslatedText": "\nมันน่าขันซะจริง!",
+          "Length": 21
         }
       ]
     },
@@ -653,22 +735,26 @@
         {
           "Line": 516,
           "OriginalText": "Hey, pal! Where\u0027re you going?",
-          "TranslatedText": "เห้ย เพื่อน จะไปไหน"
+          "TranslatedText": "เห้ย เพื่อน จะไปไหน",
+          "Length": 29
         },
         {
           "Line": 520,
           "OriginalText": " There\u0027s\nno chests outside. I wouldn\u0027t pull a fast\none on you like that.\n",
-          "TranslatedText": "ไม่มี\nกล่องอยู่ด้านนอกหรอก ชั้นไม่โกง\nนายอย่างนั้นร้อค"
+          "TranslatedText": "ไม่มี\nกล่องอยู่ด้านนอกหรอก ชั้นไม่โกง\nนายอย่างนั้นร้อค",
+          "Length": 73
         },
         {
           "Line": 526,
           "OriginalText": "The prize is in one of these three chests,\ncross my heart.",
-          "TranslatedText": "รางวัลอยู่ในสามกล่องนี้, \nการันตีให้เลย"
+          "TranslatedText": "รางวัลอยู่ในสามกล่องนี้, \nการันตีให้เลย",
+          "Length": 58
         },
         {
           "Line": 530,
           "OriginalText": " Now get back here.",
-          "TranslatedText": "\nเพราะงั้นกลับมานี่เลย"
+          "TranslatedText": "\nเพราะงั้นกลับมานี่เลย",
+          "Length": 19
         }
       ]
     },
@@ -679,17 +765,20 @@
         {
           "Line": 539,
           "OriginalText": "I\u0027ll go get set up.",
-          "TranslatedText": "ชั้นจะไปเตรียมการ"
+          "TranslatedText": "ชั้นจะไปเตรียมการ",
+          "Length": 19
         },
         {
           "Line": 543,
           "OriginalText": " No peeking while I\u0027m\nfiddling with the chests,",
-          "TranslatedText": "ห้ามแอบดูระหว่างที่\nชั้นกำลังยุ่งกับกล่อง"
+          "TranslatedText": "ห้ามแอบดูระหว่างที่\nชั้นกำลังยุ่งกับกล่อง",
+          "Length": 47
         },
         {
           "Line": 547,
           "OriginalText": " got it?",
-          "TranslatedText": "เข้าใจ๊??"
+          "TranslatedText": "เข้าใจ๊??",
+          "Length": 8
         }
       ]
     },
@@ -700,12 +789,14 @@
         {
           "Line": 551,
           "OriginalText": "How\u0027d you like to be rich...",
-          "TranslatedText": "อยากจะรวยรึป่าว"
+          "TranslatedText": "อยากจะรวยรึป่าว",
+          "Length": 28
         },
         {
           "Line": 555,
           "OriginalText": "without\nhaving to work for it?",
-          "TranslatedText": "โดย\nไม่ต้องทำงานน่ะ"
+          "TranslatedText": "โดย\nไม่ต้องทำงานน่ะ",
+          "Length": 30
         }
       ]
     },
@@ -716,22 +807,26 @@
         {
           "Line": 564,
           "OriginalText": "Fair enough.",
-          "TranslatedText": "มันก็แฟร์ดี,"
+          "TranslatedText": "มันก็แฟร์ดี,",
+          "Length": 12
         },
         {
           "Line": 568,
           "OriginalText": " Every good gambler knows\nthere\u0027s a time to walk away.",
-          "TranslatedText": "นักพนันที่ดีรู้\nเวลาที่จะถอย"
+          "TranslatedText": "นักพนันที่ดีรู้\nเวลาที่จะถอย",
+          "Length": 54
         },
         {
           "Line": 574,
           "OriginalText": "I\u0027m always here",
-          "TranslatedText": "ชั้นจะอยู่นี่ตลอด"
+          "TranslatedText": "ชั้นจะอยู่นี่ตลอด",
+          "Length": 15
         },
         {
           "Line": 578,
           "OriginalText": " in case you ever feel like\ntrying your luck again.",
-          "TranslatedText": "ถ้าเกิดนายเปลี่ยนใจ\nจะลองเสี่ยงโชคอีกน่ะ"
+          "TranslatedText": "ถ้าเกิดนายเปลี่ยนใจ\nจะลองเสี่ยงโชคอีกน่ะ",
+          "Length": 51
         }
       ]
     },
@@ -742,17 +837,20 @@
         {
           "Line": 587,
           "OriginalText": "Whoa there, buddy!",
-          "TranslatedText": "โว้วว หยุดก่อน, เพื่อน! "
+          "TranslatedText": "โว้วว หยุดก่อน, เพื่อน! ",
+          "Length": 18
         },
         {
           "Line": 591,
           "OriginalText": " Those aren\u0027t your\nchests to open!",
-          "TranslatedText": "นั่นไม่ใช่ของ\nนายที่จะเปิด!"
+          "TranslatedText": "นั่นไม่ใช่ของ\nนายที่จะเปิด!",
+          "Length": 34
         },
         {
           "Line": 597,
           "OriginalText": "But if you really wanna open them, have\nI got a deal for you...",
-          "TranslatedText": "แต่ถ้าอยากเปิดชั้นมี\nข้อเสนอจะให้นาย"
+          "TranslatedText": "แต่ถ้าอยากเปิดชั้นมี\nข้อเสนอจะให้นาย",
+          "Length": 63
         }
       ]
     }

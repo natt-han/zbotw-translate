@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Enhance away!",
-          "TranslatedText": "เสริมพลังเลย!"
+          "TranslatedText": "เสริมพลังเลย!",
+          "Length": 13
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "No, thanks.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Yes, please.",
-          "TranslatedText": "ได้โปรด"
+          "TranslatedText": "ได้โปรด",
+          "Length": 12
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Take a look.",
-          "TranslatedText": "ลองดู"
+          "TranslatedText": "ลองดู",
+          "Length": 12
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "I\u0027d rather you not...",
-          "TranslatedText": "ฉันว่าไม่ดีกว่า..."
+          "TranslatedText": "ฉันว่าไม่ดีกว่า...",
+          "Length": 21
         }
       ]
     },
@@ -68,22 +74,26 @@
         {
           "Line": 37,
           "OriginalText": "Mmm... ",
-          "TranslatedText": "Mmm... "
+          "TranslatedText": "Mmm... ",
+          "Length": 7
         },
         {
           "Line": 41,
           "OriginalText": "So you\u0027re the one who brought\nme back from the brink.\n\nOh, my...",
-          "TranslatedText": "เธอเองสินะที่ทำให้ฉันกลับมา\nสดชื่นอีกครั้ง\nอุ๊ยตาย..."
+          "TranslatedText": "เธอเองสินะที่ทำให้ฉันกลับมา\nสดชื่นอีกครั้ง\nอุ๊ยตาย...",
+          "Length": 64
         },
         {
           "Line": 45,
           "OriginalText": " I see now that my first\nimpression of you was correct. You\nmost definitely are pleasant to look at.\nHow would you like to live here with\nme,",
-          "TranslatedText": " ดูเหมือนว่าความรู้สึก\nของฉันในตอนแรกจะถูกนะ \nเธอนี่ช่างน่ามองจริงๆ อยากจะอยู่ที่นี่กับฉันมั้ยล่ะ"
+          "TranslatedText": " ดูเหมือนว่าความรู้สึก\nของฉันในตอนแรกจะถูกนะ \nเธอนี่ช่างน่ามองจริงๆ อยากจะอยู่ที่นี่กับฉันมั้ยล่ะ",
+          "Length": 141
         },
         {
           "Line": 49,
           "OriginalText": " hmm?",
-          "TranslatedText": " หืม?"
+          "TranslatedText": " หืม?",
+          "Length": 5
         }
       ]
     },
@@ -94,17 +104,20 @@
         {
           "Line": 58,
           "OriginalText": "Hah! ",
-          "TranslatedText": "ฮ่า! "
+          "TranslatedText": "ฮ่า! ",
+          "Length": 5
         },
         {
           "Line": 62,
           "OriginalText": "I\u0027m kidding, of course.",
-          "TranslatedText": "ล้อเล่นน่ะ"
+          "TranslatedText": "ล้อเล่นน่ะ",
+          "Length": 23
         },
         {
           "Line": 66,
           "OriginalText": " But you\ncertainly are cute when you\u0027re\nblushing.",
-          "TranslatedText": " \nแต่เวลาเธอหน้าแดงนี่น่ารักดีนะ"
+          "TranslatedText": " \nแต่เวลาเธอหน้าแดงนี่น่ารักดีนะ",
+          "Length": 49
         }
       ]
     },
@@ -115,55 +128,65 @@
         {
           "Line": 70,
           "OriginalText": "I really can\u0027t thank you enough, boy,",
-          "TranslatedText": "ฉันไม่รู้จะขอบคุณเธอยังไงถึงจะพอเลย หนุ่มน้อย"
+          "TranslatedText": "ฉันไม่รู้จะขอบคุณเธอยังไงถึงจะพอเลย หนุ่มน้อย",
+          "Length": 37
         },
         {
           "Line": 74,
           "OriginalText": "\nbut that won\u0027t stop me from trying.",
-          "TranslatedText": "\nแต่นั่นไม่ได้แปลว่าฉันจะไม่ลองพยายามดูหรอกนะ"
+          "TranslatedText": "\nแต่นั่นไม่ได้แปลว่าฉันจะไม่ลองพยายามดูหรอกนะ",
+          "Length": 36
         },
         {
           "Line": 78,
           "OriginalText": "\n\nIf you have the ",
-          "TranslatedText": "\nถ้าหากว่าเธอมี "
+          "TranslatedText": "\nถ้าหากว่าเธอมี ",
+          "Length": 18
         },
         {
           "Line": 82,
           "OriginalText": "materials",
           "TranslatedText": "วัตถุดิบ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 85,
           "OriginalText": " needed to\nenhance a piece of clothing,",
-          "TranslatedText": " ที่จำเป็น\nสำหรับการเสริมพลังละก็"
+          "TranslatedText": " ที่จำเป็น\nสำหรับการเสริมพลังละก็",
+          "Length": 39
         },
         {
           "Line": 89,
           "OriginalText": " I will\n",
-          "TranslatedText": " ฉันจะ\n"
+          "TranslatedText": " ฉันจะ\n",
+          "Length": 8
         },
         {
           "Line": 93,
           "OriginalText": "enhance",
           "TranslatedText": "เสริมพลัง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 96,
           "OriginalText": " your ",
-          "TranslatedText": " ให้ "
+          "TranslatedText": " ให้ ",
+          "Length": 6
         },
         {
           "Line": 100,
           "OriginalText": "clothes",
           "TranslatedText": "ชุด",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 103,
           "OriginalText": ".\nSo why don\u0027t you let me take a peek\nin that little pouch of yours?",
-          "TranslatedText": "ของเธอ\nเพราะงั้นทำไมไม่ลองให้ฉันดูของใน\nกระเป๋าใบน้อยของเธอดูหน่อยล่ะ?"
+          "TranslatedText": "ของเธอ\nเพราะงั้นทำไมไม่ลองให้ฉันดูของใน\nกระเป๋าใบน้อยของเธอดูหน่อยล่ะ?",
+          "Length": 68
         }
       ]
     },
@@ -174,17 +197,20 @@
         {
           "Line": 112,
           "OriginalText": "Mmmm, I thought I detected the\nfragrance of a young man nearby...\n\nSo...",
-          "TranslatedText": "Mmmm, ฉันก็คิดว่าได้กลิ่นของชายหนุ่มอยู่ไม่ไกล...\nแล้ว..."
+          "TranslatedText": "Mmmm, ฉันก็คิดว่าได้กลิ่นของชายหนุ่มอยู่ไม่ไกล...\nแล้ว...",
+          "Length": 72
         },
         {
           "Line": 116,
           "OriginalText": "you have some clothing you wish to\nenhance and the necessary materials?",
-          "TranslatedText": "เธอมีชุดที่อยากเสริมพลัง\nและวัตถุดิบที่ต้องใช่มั้ย?"
+          "TranslatedText": "เธอมีชุดที่อยากเสริมพลัง\nและวัตถุดิบที่ต้องใช่มั้ย?",
+          "Length": 71
         },
         {
           "Line": 120,
           "OriginalText": "\nWhy don\u0027t you let me take a look?",
-          "TranslatedText": "\nทำไมไม่ให้ฉันลองเช็คดูล่ะ?"
+          "TranslatedText": "\nทำไมไม่ให้ฉันลองเช็คดูล่ะ?",
+          "Length": 34
         }
       ]
     },
@@ -195,17 +221,20 @@
         {
           "Line": 129,
           "OriginalText": "Oh... ",
-          "TranslatedText": "โอ้... "
+          "TranslatedText": "โอ้... ",
+          "Length": 6
         },
         {
           "Line": 133,
           "OriginalText": "That\u0027s too bad.\n\n\nWon\u0027t you come see me again?",
-          "TranslatedText": "แย่จัง\nเธอจะมาหาฉันอีกมั้ย?"
+          "TranslatedText": "แย่จัง\nเธอจะมาหาฉันอีกมั้ย?",
+          "Length": 46
         },
         {
           "Line": 137,
           "OriginalText": " I\u0027ll be\nwaiting...",
-          "TranslatedText": " ฉันจะรอนะ..."
+          "TranslatedText": " ฉันจะรอนะ...",
+          "Length": 19
         }
       ]
     },
@@ -216,22 +245,26 @@
         {
           "Line": 146,
           "OriginalText": "I can feel it...",
-          "TranslatedText": "ฉันรู้สึกได้..."
+          "TranslatedText": "ฉันรู้สึกได้...",
+          "Length": 16
         },
         {
           "Line": 150,
           "OriginalText": " My sisters\u0027 powers have\nnot yet been restored. ",
-          "TranslatedText": " พี่น้องของฉันยังไม่ได้พลังคืนมา\n"
+          "TranslatedText": " พี่น้องของฉันยังไม่ได้พลังคืนมา\n",
+          "Length": 48
         },
         {
           "Line": 154,
           "OriginalText": "Young man, if you\nmeet them, would you please help them?\nConsider it a...",
-          "TranslatedText": "หนุ่มน้อย ถ้าเธอพวกเขา\nช่วยพวกเขาหน่อยได้รึเปล่า?\nช่วยคิดว่า..."
+          "TranslatedText": "หนุ่มน้อย ถ้าเธอพวกเขา\nช่วยพวกเขาหน่อยได้รึเปล่า?\nช่วยคิดว่า...",
+          "Length": 73
         },
         {
           "Line": 158,
           "OriginalText": "special request from me.",
-          "TranslatedText": "เป็นคำขอร้องจากฉัน"
+          "TranslatedText": "เป็นคำขอร้องจากฉัน",
+          "Length": 24
         }
       ]
     },
@@ -242,17 +275,20 @@
         {
           "Line": 167,
           "OriginalText": "And there we go... ",
-          "TranslatedText": "เรียบร้อยแล้ว... "
+          "TranslatedText": "เรียบร้อยแล้ว... ",
+          "Length": 19
         },
         {
           "Line": 171,
           "OriginalText": "You should be able to\nfeel the care I put into that. ",
-          "TranslatedText": "เธอน่าจะรรับรู้ได้\nถึงความใส่ใจที่ฉันใส่ลงไปในชุดนั้น "
+          "TranslatedText": "เธอน่าจะรรับรู้ได้\nถึงความใส่ใจที่ฉันใส่ลงไปในชุดนั้น ",
+          "Length": 53
         },
         {
           "Line": 175,
           "OriginalText": "It radiates\noff those clothes...",
-          "TranslatedText": "มันส่องประกาย\nออกมาเลย..."
+          "TranslatedText": "มันส่องประกาย\nออกมาเลย...",
+          "Length": 32
         }
       ]
     },
@@ -263,12 +299,14 @@
         {
           "Line": 179,
           "OriginalText": "So...",
-          "TranslatedText": "แล้ว..."
+          "TranslatedText": "แล้ว...",
+          "Length": 5
         },
         {
           "Line": 183,
           "OriginalText": "have you picked which clothes you\u0027d\nlike me to enhance?",
-          "TranslatedText": "ได้เลือกชุดที่ต้องการให้ฉันเสริมพลังหรือยัง?"
+          "TranslatedText": "ได้เลือกชุดที่ต้องการให้ฉันเสริมพลังหรือยัง?",
+          "Length": 55
         }
       ]
     },
@@ -279,7 +317,8 @@
         {
           "Line": 187,
           "OriginalText": "♪Take care!♪",
-          "TranslatedText": "♪เทคแคร์นะ!♪"
+          "TranslatedText": "♪เทคแคร์นะ!♪",
+          "Length": 12
         }
       ]
     },
@@ -290,7 +329,8 @@
         {
           "Line": 191,
           "OriginalText": "You want to know why you can\u0027t\nstrengthen it? Allow me to explain...",
-          "TranslatedText": "อยากรู้มั้ยว่าทำไมเธอถึง\nไม่อาจเสริมพลังมันได้? ขอให้ฉันได้อธิบาย..."
+          "TranslatedText": "อยากรู้มั้ยว่าทำไมเธอถึง\nไม่อาจเสริมพลังมันได้? ขอให้ฉันได้อธิบาย...",
+          "Length": 68
         }
       ]
     },
@@ -301,17 +341,20 @@
         {
           "Line": 200,
           "OriginalText": "I\u0027d love to enhance your clothing, but...",
-          "TranslatedText": "ฉันก็อยากเสริมพลังให้ชุดของเธอนะ แต่ว่า..."
+          "TranslatedText": "ฉันก็อยากเสริมพลังให้ชุดของเธอนะ แต่ว่า...",
+          "Length": 41
         },
         {
           "Line": 204,
           "OriginalText": "\nYou know you aren\u0027t wearing any, right?\nOr carrying any...\nIf you get your hands on some clothes\nthat look like they could be enhanced,",
-          "TranslatedText": "\nเธอรู้ใช่มั้ยว่าเธอไม่ได้สวมอะไรอยู่เลย?\nถ้าหากได้เสื้อผ้าที่ดูแล้วน่าจะเสริมพลังได้มา"
+          "TranslatedText": "\nเธอรู้ใช่มั้ยว่าเธอไม่ได้สวมอะไรอยู่เลย?\nถ้าหากได้เสื้อผ้าที่ดูแล้วน่าจะเสริมพลังได้มา",
+          "Length": 136
         },
         {
           "Line": 208,
           "OriginalText": "\nstop by.",
-          "TranslatedText": "\nก็แวะมานะ"
+          "TranslatedText": "\nก็แวะมานะ",
+          "Length": 9
         }
       ]
     },
@@ -326,23 +369,27 @@
         {
           "Line": 217,
           "OriginalText": "With the power available to me...",
-          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+          "TranslatedText": "ด้วยพลังที่ฉันมี...",
+          "Length": 33
         },
         {
           "Line": 221,
           "OriginalText": "\nI should be able to enhance your\nclothing ",
-          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n"
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n",
+          "Length": 43
         },
         {
           "Line": 225,
           "OriginalText": "a little bit",
           "TranslatedText": "เล็กน้อย",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 228,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -357,23 +404,27 @@
         {
           "Line": 245,
           "OriginalText": "With the power available to me...",
-          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+          "TranslatedText": "ด้วยพลังที่ฉันมี...",
+          "Length": 33
         },
         {
           "Line": 249,
           "OriginalText": "\nI can enhance your clothing\n",
-          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n"
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้\n",
+          "Length": 29
         },
         {
           "Line": 253,
           "OriginalText": "a fair amount",
           "TranslatedText": "พอประมาณ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 13
         },
         {
           "Line": 256,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -388,23 +439,27 @@
         {
           "Line": 273,
           "OriginalText": "With the power available to me...",
-          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+          "TranslatedText": "ด้วยพลังที่ฉันมี...",
+          "Length": 33
         },
         {
           "Line": 277,
           "OriginalText": "\nI can ",
-          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ "
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ ",
+          "Length": 7
         },
         {
           "Line": 281,
           "OriginalText": "greatly ",
           "TranslatedText": "มากมาย ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 8
         },
         {
           "Line": 284,
           "OriginalText": "enhance your clothing.",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 22
         }
       ]
     },
@@ -419,23 +474,27 @@
         {
           "Line": 301,
           "OriginalText": "With the power available to me...",
-          "TranslatedText": "ด้วยพลังที่ฉันมี..."
+          "TranslatedText": "ด้วยพลังที่ฉันมี...",
+          "Length": 33
         },
         {
           "Line": 305,
           "OriginalText": "\nI can enhance your clothing ",
-          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ "
+          "TranslatedText": "\nฉันน่าจะเสริมพลังชุดของเธอได้ ",
+          "Length": 29
         },
         {
           "Line": 309,
           "OriginalText": "to the max",
           "TranslatedText": "ถึงระดับสูงสุด",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 10
         },
         {
           "Line": 312,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -446,22 +505,26 @@
         {
           "Line": 329,
           "OriginalText": "Young man...",
-          "TranslatedText": "พ่อหนุ่ม..."
+          "TranslatedText": "พ่อหนุ่ม...",
+          "Length": 12
         },
         {
           "Line": 333,
           "OriginalText": "you\u0027ve helped restore ",
-          "TranslatedText": "เธอได้ช่วยให้พี่น้องของฉัน "
+          "TranslatedText": "เธอได้ช่วยให้พี่น้องของฉัน ",
+          "Length": 22
         },
         {
           "Line": 337,
           "OriginalText": "\nmy sisters\u0027 powers.\n\n♪I\u0027m feeling extra special!♪",
-          "TranslatedText": "\nได้พลังคืนมา\n\n♪ฉันรู้สึกพิเศษมากๆ!♪"
+          "TranslatedText": "\nได้พลังคืนมา\n\n♪ฉันรู้สึกพิเศษมากๆ!♪",
+          "Length": 50
         },
         {
           "Line": 341,
           "OriginalText": "\nIf you want to enhance your clothing,\ncome back anytime.",
-          "TranslatedText": "\nถ้าเธออยากเสริมพลังให้ชุดละก็ มาหาฉันได้ทุกเมื่อ"
+          "TranslatedText": "\nถ้าเธออยากเสริมพลังให้ชุดละก็ มาหาฉันได้ทุกเมื่อ",
+          "Length": 57
         }
       ]
     },
@@ -472,17 +535,20 @@
         {
           "Line": 350,
           "OriginalText": "OK. ",
-          "TranslatedText": "โอเค "
+          "TranslatedText": "โอเค ",
+          "Length": 4
         },
         {
           "Line": 354,
           "OriginalText": "Got it!",
-          "TranslatedText": "ได้เลย!"
+          "TranslatedText": "ได้เลย!",
+          "Length": 7
         },
         {
           "Line": 358,
           "OriginalText": " Now then...\n♪Close your eyes!♪",
-          "TranslatedText": " ถ้างั้นก็...\n♪หลับตานะ!♪"
+          "TranslatedText": " ถ้างั้นก็...\n♪หลับตานะ!♪",
+          "Length": 31
         }
       ]
     },
@@ -497,18 +563,21 @@
         {
           "Line": 367,
           "OriginalText": "You want me to enhance your\n",
-          "TranslatedText": "อยากให้ฉันเสริมพลัง\n"
+          "TranslatedText": "อยากให้ฉันเสริมพลัง\n",
+          "Length": 28
         },
         {
           "Line": 372,
           "OriginalText": ",",
           "TranslatedText": ",",
-          "Variable": "Shop_SelectItemName"
+          "Variable": "Shop_SelectItemName",
+          "Length": 1
         },
         {
           "Line": 376,
           "OriginalText": " yeah?",
-          "TranslatedText": " ใช่มั้ย?"
+          "TranslatedText": " ใช่มั้ย?",
+          "Length": 6
         }
       ]
     },
@@ -523,13 +592,15 @@
         {
           "Line": 393,
           "OriginalText": "You\u0027re telling me to enhance the\n",
-          "TranslatedText": "จะให้ฉันเสริมพลัง\n"
+          "TranslatedText": "จะให้ฉันเสริมพลัง\n",
+          "Length": 33
         },
         {
           "Line": 398,
           "OriginalText": ", yeah?",
           "TranslatedText": ", งั้นเหรอ?",
-          "Variable": "Shop_SelectItemName"
+          "Variable": "Shop_SelectItemName",
+          "Length": 7
         }
       ]
     },
@@ -544,13 +615,15 @@
         {
           "Line": 415,
           "OriginalText": "You want to enhance the\n",
-          "TranslatedText": "อยากจะเสริมพลังให้กับ\n"
+          "TranslatedText": "อยากจะเสริมพลังให้กับ\n",
+          "Length": 24
         },
         {
           "Line": 420,
           "OriginalText": ", correct? ",
           "TranslatedText": ", ถูกมั้ย? ",
-          "Variable": "Shop_SelectItemName"
+          "Variable": "Shop_SelectItemName",
+          "Length": 11
         }
       ]
     },
@@ -565,18 +638,21 @@
         {
           "Line": 437,
           "OriginalText": "I\u0027m gonna enhance the\n",
-          "TranslatedText": "ฉันจะเสริมพลังให้กับ\n"
+          "TranslatedText": "ฉันจะเสริมพลังให้กับ\n",
+          "Length": 22
         },
         {
           "Line": 442,
           "OriginalText": ".",
           "TranslatedText": ".",
-          "Variable": "Shop_SelectItemName"
+          "Variable": "Shop_SelectItemName",
+          "Length": 1
         },
         {
           "Line": 446,
           "OriginalText": " Is that OK?",
-          "TranslatedText": " โอเคมั้ย?"
+          "TranslatedText": " โอเคมั้ย?",
+          "Length": 12
         }
       ]
     },
@@ -587,12 +663,14 @@
         {
           "Line": 463,
           "OriginalText": "Oh, no, no, no... ",
-          "TranslatedText": "โอ ไม่ๆๆ... "
+          "TranslatedText": "โอ ไม่ๆๆ... ",
+          "Length": 18
         },
         {
           "Line": 467,
           "OriginalText": "I can\u0027t enhance this\nclothing item.",
-          "TranslatedText": "ฉันเสริมพลังให้ชุดนี้ไม่ได้"
+          "TranslatedText": "ฉันเสริมพลังให้ชุดนี้ไม่ได้",
+          "Length": 35
         }
       ]
     },
@@ -603,12 +681,14 @@
         {
           "Line": 476,
           "OriginalText": "No good... ",
-          "TranslatedText": "ไม่ไหว... "
+          "TranslatedText": "ไม่ไหว... ",
+          "Length": 11
         },
         {
           "Line": 480,
           "OriginalText": "I can\u0027t enhance that\nclothing item...",
-          "TranslatedText": "ฉันเสริมพลังให้ชุดนั้นไม่ได้..."
+          "TranslatedText": "ฉันเสริมพลังให้ชุดนั้นไม่ได้...",
+          "Length": 37
         }
       ]
     },
@@ -619,12 +699,14 @@
         {
           "Line": 489,
           "OriginalText": "I\u0027m sorry... ",
-          "TranslatedText": "ขอโทษนะ... "
+          "TranslatedText": "ขอโทษนะ... ",
+          "Length": 13
         },
         {
           "Line": 493,
           "OriginalText": "That clothing item is\nimpossible to enhance...",
-          "TranslatedText": "ชุดนั้นมันเสริมพลังไม่ได้..."
+          "TranslatedText": "ชุดนั้นมันเสริมพลังไม่ได้...",
+          "Length": 46
         }
       ]
     },
@@ -635,12 +717,14 @@
         {
           "Line": 502,
           "OriginalText": "I\u0027m sorry... ",
-          "TranslatedText": "ขอโทษนะ... "
+          "TranslatedText": "ขอโทษนะ... ",
+          "Length": 13
         },
         {
           "Line": 506,
           "OriginalText": "It appears that it is\nimpossible to enhance that clothing\nitem...",
-          "TranslatedText": "ดูเหมือนว่ามันเป็นไปไม่ได้ที่จะ\nเสริมพลังให้กับชุดนั้น..."
+          "TranslatedText": "ดูเหมือนว่ามันเป็นไปไม่ได้ที่จะ\nเสริมพลังให้กับชุดนั้น...",
+          "Length": 65
         }
       ]
     },
@@ -651,12 +735,14 @@
         {
           "Line": 515,
           "OriginalText": "To enhance that item, I need some power\nfrom my sisters...",
-          "TranslatedText": "การจะเสริมพลังให้ชุดนั้น ฉันต้องการพลังจกพี่น้องช่วย...\n"
+          "TranslatedText": "การจะเสริมพลังให้ชุดนั้น ฉันต้องการพลังจกพี่น้องช่วย...\n",
+          "Length": 58
         },
         {
           "Line": 519,
           "OriginalText": " If you see them, could\nyou please help restore their powers?",
-          "TranslatedText": " ถ้าเธอพบพวกนาง ช่วยฟื้นฟูพลังให้กับพวกนางได้ไหม?"
+          "TranslatedText": " ถ้าเธอพบพวกนาง ช่วยฟื้นฟูพลังให้กับพวกนางได้ไหม?",
+          "Length": 61
         }
       ]
     },
@@ -667,12 +753,14 @@
         {
           "Line": 528,
           "OriginalText": "I cannot enhance that clothing item with\nmy power alone.",
-          "TranslatedText": "ฉันไม่สามารถเสริมพลังให้กับชุดนั้นได้ด้วยพลังของฉันคนเดียว\n"
+          "TranslatedText": "ฉันไม่สามารถเสริมพลังให้กับชุดนั้นได้ด้วยพลังของฉันคนเดียว\n",
+          "Length": 56
         },
         {
           "Line": 532,
           "OriginalText": " I need to borrow some\npower from my sisters...",
-          "TranslatedText": " ฉันต้องยืมพลังบางส่วนจากพี่น้องของฉัน..."
+          "TranslatedText": " ฉันต้องยืมพลังบางส่วนจากพี่น้องของฉัน...",
+          "Length": 47
         }
       ]
     },
@@ -683,17 +771,20 @@
         {
           "Line": 541,
           "OriginalText": "I can\u0027t right now... ",
-          "TranslatedText": "ฉันยังทำไม่ได้... "
+          "TranslatedText": "ฉันยังทำไม่ได้... ",
+          "Length": 21
         },
         {
           "Line": 545,
           "OriginalText": "However, if my sisters\nwere able to lend me their power,",
-          "TranslatedText": "แต่ว่า ถ้าพี่น้องของฉัน\nให้ฉันยืมพลังได้"
+          "TranslatedText": "แต่ว่า ถ้าพี่น้องของฉัน\nให้ฉันยืมพลังได้",
+          "Length": 56
         },
         {
           "Line": 549,
           "OriginalText": " then I\ncould enhance that clothing item...",
-          "TranslatedText": " ฉันก็จะ\nเสริมพลังให้ชุดนั้นได้..."
+          "TranslatedText": " ฉันก็จะ\nเสริมพลังให้ชุดนั้นได้...",
+          "Length": 43
         }
       ]
     },
@@ -704,17 +795,20 @@
         {
           "Line": 558,
           "OriginalText": "Oh? ",
-          "TranslatedText": "อ้อ? "
+          "TranslatedText": "อ้อ? ",
+          "Length": 4
         },
         {
           "Line": 562,
           "OriginalText": "If you want me to enhance that\nclothing item,",
-          "TranslatedText": "ถ้าเธออยากให้ฉันเสริมพลังให้ชุดนั้น\n"
+          "TranslatedText": "ถ้าเธออยากให้ฉันเสริมพลังให้ชุดนั้น\n",
+          "Length": 45
         },
         {
           "Line": 566,
           "OriginalText": " then you will need to\nawaken my sisters, as well...",
-          "TranslatedText": " เธอต้องปลุกพี่น้องของฉันขึ้นมาด้วย..."
+          "TranslatedText": " เธอต้องปลุกพี่น้องของฉันขึ้นมาด้วย...",
+          "Length": 52
         }
       ]
     },
@@ -725,12 +819,14 @@
         {
           "Line": 575,
           "OriginalText": "Oh, myyy... ",
-          "TranslatedText": "อุ๊ยตายแล้ว... "
+          "TranslatedText": "อุ๊ยตายแล้ว... ",
+          "Length": 12
         },
         {
           "Line": 579,
           "OriginalText": "You don\u0027t seem to have the\nmaterials needed to enhance that\nclothing item.",
-          "TranslatedText": "เธอไม่มีวัตถุที่ต้องใช้\nสำหรับการเสริมพลังชุดนั้น"
+          "TranslatedText": "เธอไม่มีวัตถุที่ต้องใช้\nสำหรับการเสริมพลังชุดนั้น",
+          "Length": 74
         }
       ]
     },
@@ -741,12 +837,14 @@
         {
           "Line": 588,
           "OriginalText": "You don\u0027t have the necessary materials...",
-          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ..."
+          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ...",
+          "Length": 41
         },
         {
           "Line": 592,
           "OriginalText": "\n♪All in good time, boy.♪",
-          "TranslatedText": "\n♪ไม่ต้องรีบนะ หนุ่มน้อย♪"
+          "TranslatedText": "\n♪ไม่ต้องรีบนะ หนุ่มน้อย♪",
+          "Length": 25
         }
       ]
     },
@@ -757,12 +855,14 @@
         {
           "Line": 601,
           "OriginalText": "You don\u0027t have the necessary materials...",
-          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ..."
+          "TranslatedText": "เธอไม่มีวัตถุดิบที่ต้องใช้นะ...",
+          "Length": 41
         },
         {
           "Line": 605,
           "OriginalText": "\n♪All in good time, boy.♪",
-          "TranslatedText": "\n♪ไม่ต้องรีบนะ หนุ่มน้อย♪"
+          "TranslatedText": "\n♪ไม่ต้องรีบนะ หนุ่มน้อย♪",
+          "Length": 25
         }
       ]
     },
@@ -773,12 +873,14 @@
         {
           "Line": 614,
           "OriginalText": "Notice anything missing?",
-          "TranslatedText": "เห็นมั้ยว่าขาดอะไรไป?"
+          "TranslatedText": "เห็นมั้ยว่าขาดอะไรไป?",
+          "Length": 24
         },
         {
           "Line": 618,
           "OriginalText": " You don\u0027t\nhave the materials needed to strengthen\nthat clothing item.",
-          "TranslatedText": " เธอไม่มี\nวัตถุดิบที่ต้องใช้ในการเสริมพลังชุดนั้นนะ"
+          "TranslatedText": " เธอไม่มี\nวัตถุดิบที่ต้องใช้ในการเสริมพลังชุดนั้นนะ",
+          "Length": 70
         }
       ]
     },
@@ -789,7 +891,8 @@
         {
           "Line": 630,
           "OriginalText": "Ahh-haaaaan!",
-          "TranslatedText": "Ahh-haaaaan!"
+          "TranslatedText": "Ahh-haaaaan!",
+          "Length": 12
         }
       ]
     },
@@ -800,7 +903,8 @@
         {
           "Line": 645,
           "OriginalText": "Ooooh-hoooon!!",
-          "TranslatedText": "Ooooh-hoooon!!"
+          "TranslatedText": "Ooooh-hoooon!!",
+          "Length": 14
         }
       ]
     },
@@ -811,7 +915,8 @@
         {
           "Line": 660,
           "OriginalText": "Hahhhhh!",
-          "TranslatedText": "Hahhhhh!"
+          "TranslatedText": "Hahhhhh!",
+          "Length": 8
         }
       ]
     },
@@ -822,7 +927,8 @@
         {
           "Line": 675,
           "OriginalText": "AHHH-PHOOON!",
-          "TranslatedText": "AHHH-PHOOON!"
+          "TranslatedText": "AHHH-PHOOON!",
+          "Length": 12
         }
       ]
     },
@@ -833,12 +939,14 @@
         {
           "Line": 682,
           "OriginalText": "Aw, ooh... ",
-          "TranslatedText": "Aw, ooh... "
+          "TranslatedText": "Aw, ooh... ",
+          "Length": 11
         },
         {
           "Line": 686,
           "OriginalText": "You want something else?",
-          "TranslatedText": "ต้องการอะไรอีกมั้ย?"
+          "TranslatedText": "ต้องการอะไรอีกมั้ย?",
+          "Length": 24
         }
       ]
     },
@@ -849,12 +957,14 @@
         {
           "Line": 690,
           "OriginalText": "Oh, my... ",
-          "TranslatedText": "อุ๊ยตาย... "
+          "TranslatedText": "อุ๊ยตาย... ",
+          "Length": 10
         },
         {
           "Line": 694,
           "OriginalText": "Did you make a mistake?",
-          "TranslatedText": "เลือกผิดงั้นเหรอ?"
+          "TranslatedText": "เลือกผิดงั้นเหรอ?",
+          "Length": 23
         }
       ]
     },
@@ -865,12 +975,14 @@
         {
           "Line": 698,
           "OriginalText": "Oooh... ",
-          "TranslatedText": "Oooh... "
+          "TranslatedText": "Oooh... ",
+          "Length": 8
         },
         {
           "Line": 702,
           "OriginalText": "Not that one?",
-          "TranslatedText": "ไม่ใช่งั้นเหรอ?"
+          "TranslatedText": "ไม่ใช่งั้นเหรอ?",
+          "Length": 13
         }
       ]
     },
@@ -881,12 +993,14 @@
         {
           "Line": 706,
           "OriginalText": "Teasing me?",
-          "TranslatedText": "หลอกฉันเหรอ?"
+          "TranslatedText": "หลอกฉันเหรอ?",
+          "Length": 11
         },
         {
           "Line": 710,
           "OriginalText": "\nYou little meanie...",
-          "TranslatedText": "\nหนุ่มน้อยขี้แกล้ง..."
+          "TranslatedText": "\nหนุ่มน้อยขี้แกล้ง...",
+          "Length": 21
         }
       ]
     },
@@ -901,17 +1015,20 @@
         {
           "Line": 719,
           "OriginalText": "Oh, my.",
-          "TranslatedText": "โอ้"
+          "TranslatedText": "โอ้",
+          "Length": 7
         },
         {
           "Line": 723,
           "OriginalText": " You don\u0027t have any clothing that\nI can enhance? That won\u0027t do at all!\n\nLet me take a look at your things.",
-          "TranslatedText": " เธอไม่ชุดที่ฉันเสริมพลังได้เลยเหรอ? \nแบบนี้ไม่ได้นะ!\nลองมาดูของที่เธอมีกัน"
+          "TranslatedText": " เธอไม่ชุดที่ฉันเสริมพลังได้เลยเหรอ? \nแบบนี้ไม่ได้นะ!\nลองมาดูของที่เธอมีกัน",
+          "Length": 106
         },
         {
           "Line": 727,
           "OriginalText": "\nMaybe we can find something I can\nhelp you with...",
-          "TranslatedText": "\nบางทีเราอาจจะเจออะไรที่ฉันช่วยได้..."
+          "TranslatedText": "\nบางทีเราอาจจะเจออะไรที่ฉันช่วยได้...",
+          "Length": 51
         }
       ]
     },
@@ -922,17 +1039,20 @@
         {
           "Line": 739,
           "OriginalText": "...Oh, my. ",
-          "TranslatedText": "...อุ๊ยตาย "
+          "TranslatedText": "...อุ๊ยตาย ",
+          "Length": 11
         },
         {
           "Line": 743,
           "OriginalText": "Do you have any other clothes\nI can enhance right now?",
-          "TranslatedText": "เธอมีชุดที่อยากให้ฉันเสริมพลังอีกมั้ย?\n"
+          "TranslatedText": "เธอมีชุดที่อยากให้ฉันเสริมพลังอีกมั้ย?\n",
+          "Length": 54
         },
         {
           "Line": 747,
           "OriginalText": " It doesn\u0027t\nseem so, as much as I would like to...",
-          "TranslatedText": " ดูเหมือนว่าจะไม่มีนะ ..."
+          "TranslatedText": " ดูเหมือนว่าจะไม่มีนะ ...",
+          "Length": 50
         }
       ]
     },
@@ -943,7 +1063,8 @@
         {
           "Line": 751,
           "OriginalText": "If you gather more materials or return my\nsisters to their former glory, come back\nto see me!",
-          "TranslatedText": "ถ้าเธอมีวัตถุดิบมากกว่านี้\nหรือว่าช่วยให้พี่น้องของฉันได้พลังคืนมาล่ะก็\nกลับมาหาฉันนะ!"
+          "TranslatedText": "ถ้าเธอมีวัตถุดิบมากกว่านี้\nหรือว่าช่วยให้พี่น้องของฉันได้พลังคืนมาล่ะก็\nกลับมาหาฉันนะ!",
+          "Length": 93
         }
       ]
     },
@@ -954,7 +1075,8 @@
         {
           "Line": 755,
           "OriginalText": "If you find any new clothes that you want\nme to enhance, come back to see me!",
-          "TranslatedText": "ถ้าหากมีชุดใหม่ๆ ที่อยากให้ฉันเสริมพลังล่ะก็\nกลับมาหาฉันนะ!"
+          "TranslatedText": "ถ้าหากมีชุดใหม่ๆ ที่อยากให้ฉันเสริมพลังล่ะก็\nกลับมาหาฉันนะ!",
+          "Length": 77
         }
       ]
     },
@@ -969,7 +1091,8 @@
         {
           "Line": 759,
           "OriginalText": "Have you got other clothes you\u0027d like me\nto work my magic on?",
-          "TranslatedText": "มีชุดอื่นที่อยากให้ฉันช่วยใช้เวทมนตร์ของฉันอีกมั้ย?"
+          "TranslatedText": "มีชุดอื่นที่อยากให้ฉันช่วยใช้เวทมนตร์ของฉันอีกมั้ย?",
+          "Length": 61
         }
       ]
     },
@@ -980,7 +1103,8 @@
         {
           "Line": 771,
           "OriginalText": "BWAAAAAAHHHH!",
-          "TranslatedText": "BWAAAAAAHHHH!"
+          "TranslatedText": "BWAAAAAAHHHH!",
+          "Length": 13
         }
       ]
     },
@@ -991,7 +1115,8 @@
         {
           "Line": 778,
           "OriginalText": "HAAAAAAAAAAAAA!!",
-          "TranslatedText": "HAAAAAAAAAAAAA!!"
+          "TranslatedText": "HAAAAAAAAAAAAA!!",
+          "Length": 16
         }
       ]
     },
@@ -1002,7 +1127,8 @@
         {
           "Line": 788,
           "OriginalText": "AH-HAAAAAAAAA!!",
-          "TranslatedText": "AH-HAAAAAAAAA!!"
+          "TranslatedText": "AH-HAAAAAAAAA!!",
+          "Length": 15
         }
       ]
     },
@@ -1013,22 +1139,26 @@
         {
           "Line": 800,
           "OriginalText": "There you go! You should be able to\nfeel the care I put into this...",
-          "TranslatedText": "เรียบร้อย! เธอน่าจะรับรู้ได้ถึงความใส่ใจ\nที่ฉันใส่ลงไปนะ..."
+          "TranslatedText": "เรียบร้อย! เธอน่าจะรับรู้ได้ถึงความใส่ใจ\nที่ฉันใส่ลงไปนะ...",
+          "Length": 68
         },
         {
           "Line": 804,
           "OriginalText": "\nOh... ",
-          "TranslatedText": "\nอ้อ... "
+          "TranslatedText": "\nอ้อ... ",
+          "Length": 7
         },
         {
           "Line": 808,
           "OriginalText": "I just remembered...\nThere are some items in the world that,\nwhen twice enhanced and worn as a set,\ncan give you a nice set bonus.\nOnly some items, though!",
-          "TranslatedText": "เพิ่งนึกได้...\nมีไอเท็มบางชิ้นในโลกนี้ที่เมื่อทำการเสริมพลัง\nสองครั้งขึ้นไปและสวมใส่เป็นเซ็ต\nมันจะมอบโบนัสให้\nแค่บางชิ้นเท่านั้นนะ!"
+          "TranslatedText": "เพิ่งนึกได้...\nมีไอเท็มบางชิ้นในโลกนี้ที่เมื่อทำการเสริมพลัง\nสองครั้งขึ้นไปและสวมใส่เป็นเซ็ต\nมันจะมอบโบนัสให้\nแค่บางชิ้นเท่านั้นนะ!",
+          "Length": 155
         },
         {
           "Line": 812,
           "OriginalText": "\n♪No promises!♪",
-          "TranslatedText": "\n♪ไม่การันตี!♪"
+          "TranslatedText": "\n♪ไม่การันตี!♪",
+          "Length": 15
         }
       ]
     },
@@ -1039,7 +1169,8 @@
         {
           "Line": 819,
           "OriginalText": "AH HAHAHAHAHAAA!!",
-          "TranslatedText": "AH HAHAHAHAHAAA!!"
+          "TranslatedText": "AH HAHAHAHAHAAA!!",
+          "Length": 17
         }
       ]
     }

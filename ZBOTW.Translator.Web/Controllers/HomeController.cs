@@ -310,6 +310,26 @@ namespace ZBOTW.Translator.Web.Controllers
             }
         }
 
+        private void ExecUpdateTextSize()
+        {
+            var dir = new System.IO.DirectoryInfo(Path.Combine("Json", "EventFlowMsg"));
+            var exportDir = System.IO.Directory.CreateDirectory(Path.Combine("Msyt", "Export", "EventFlowMsg"));
+            var files = dir.GetFiles();
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileNameWithoutExtension(file.Name);
+                var json = JsonSerializer.Deserialize<MessageTable>(System.IO.File.ReadAllText(file.FullName));
+                foreach (var entry in json.EntryList)
+                {
+                    foreach (var text in entry.TextList)
+                    {
+                        text.Length = text.OriginalText?.Length ?? 0;
+                    }
+                }
+                System.IO.File.WriteAllText(Path.Combine("Json", "EventFlowMsg", $"{fileName}.json"), JsonSerializer.Serialize(json, jsonSerializerOptions));
+            }
+        }
+
         private FileStreamResult ExportMsyt()
         {
             var encoderSettings = new TextEncoderSettings();
@@ -386,7 +406,8 @@ namespace ZBOTW.Translator.Web.Controllers
             //ExecUpdateColour();
             //ExecUpdateNPC();
             //ExecUpdateVariable();
-            ExecUpdateChoice();
+            //ExecUpdateChoice();
+            ExecUpdateTextSize();
             return RedirectToAction("Index");
         }
 
@@ -407,7 +428,9 @@ namespace ZBOTW.Translator.Web.Controllers
                     IsCompleted = json.IsCompleted || text==translatedText,
                     Entry = json.EntryList.Count(),
                     Text = text,
-                    TranslatedText = translatedText
+                    TranslatedText = translatedText,
+                    Length = json.EntryList.Sum(s => s.TextList.Sum(ss=>ss.Length)),
+                    TranslatedLength = json.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Sum(ss => ss.Length))
                 };
                 summary.Add(info);
             }
@@ -453,6 +476,7 @@ namespace ZBOTW.Translator.Web.Controllers
             var summary = GetSummary();
             var info = summary.Find(c => c.FileName.Equals(messageTable.FileName));
             info.TranslatedText = messageTable.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Count());
+            info.TranslatedLength = messageTable.EntryList.Sum(s => s.TextList.Where(c => !string.IsNullOrEmpty(c.TranslatedText)).Sum(ss => ss.Length));
             info.IsCompleted = messageTable.IsCompleted || info.Text == info.TranslatedText;
             System.IO.File.WriteAllText(Path.Combine("Json", $"EventFlowMsg.json"), JsonSerializer.Serialize(summary, jsonSerializerOptions));
             return summary;

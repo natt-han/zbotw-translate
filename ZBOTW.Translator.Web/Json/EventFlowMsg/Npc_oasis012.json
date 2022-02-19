@@ -8,7 +8,8 @@
         {
           "Line": 8,
           "OriginalText": "Tell me!",
-          "TranslatedText": "เล่ามา!"
+          "TranslatedText": "เล่ามา!",
+          "Length": 8
         }
       ]
     },
@@ -18,7 +19,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -29,33 +31,39 @@
         {
           "Line": 21,
           "OriginalText": "I\u0027m sorry, but the ",
-          "TranslatedText": "ขอโทษนะ แต่ว่า "
+          "TranslatedText": "ขอโทษนะ แต่ว่า ",
+          "Length": 19
         },
         {
           "Line": 25,
           "OriginalText": "Gerudo Jewelers",
           "TranslatedText": "Gerudo Jewelers",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 28,
           "OriginalText": " isn\u0027t\nopen right now...\n\n",
-          "TranslatedText": " \nยังไม่เปิดตอนนี้...\n\n"
+          "TranslatedText": " \nยังไม่เปิดตอนนี้...\n\n",
+          "Length": 26
         },
         {
           "Line": 39,
           "OriginalText": "With that beast causing a ruckus and\nthe guards in an uproar over some kind\nof theft, things have been pretty crazy.\nAnd on top of it all, my shop...\n\n\n",
-          "TranslatedText": "มีอสูรนั่นก่อความวุ่นวายอยู่ \nและทหารก็ยังวุ่นวายกันเรื่องขโมย\nทุกอย่างมันวุ่นวายไปหมด\nและยิ่งกว่านั้น ร้านของฉัน...\n\n\n"
+          "TranslatedText": "มีอสูรนั่นก่อความวุ่นวายอยู่ \nและทหารก็ยังวุ่นวายกันเรื่องขโมย\nทุกอย่างมันวุ่นวายไปหมด\nและยิ่งกว่านั้น ร้านของฉัน...\n\n\n",
+          "Length": 152
         },
         {
           "Line": 50,
           "OriginalText": "The village is facing quite a few\nproblems lately.",
-          "TranslatedText": "พักหลังหมู่บ้านค่อนข้างเจอกับ\nหลายปัญหา "
+          "TranslatedText": "พักหลังหมู่บ้านค่อนข้างเจอกับ\nหลายปัญหา ",
+          "Length": 50
         },
         {
           "Line": 54,
           "OriginalText": " *sigh*",
-          "TranslatedText": "เฮ้อ"
+          "TranslatedText": "เฮ้อ",
+          "Length": 7
         }
       ]
     },
@@ -70,12 +78,14 @@
         {
           "Line": 63,
           "OriginalText": "I heard you brought some flint for us,\nlittle vai.\n\nYou\u0027re a lifesaver!\n\n\n",
-          "TranslatedText": "ฉันได้ยินว่าคุณเอา flint มาให้เราสินะ\nvai น้อย\n\nคุณช่วยเราได้มากเลย!\n\n\n"
+          "TranslatedText": "ฉันได้ยินว่าคุณเอา flint มาให้เราสินะ\nvai น้อย\n\nคุณช่วยเราได้มากเลย!\n\n\n",
+          "Length": 74
         },
         {
           "Line": 67,
           "OriginalText": "How about...I tell you one of the owner\u0027s secrets\nas my way of saying sarqso?",
-          "TranslatedText": "เอาเป็นว่า...ฉันเล่าความลับของเจ้าของร้าน\nเป็นการ sarqso ดีไหม?"
+          "TranslatedText": "เอาเป็นว่า...ฉันเล่าความลับของเจ้าของร้าน\nเป็นการ sarqso ดีไหม?",
+          "Length": 77
         }
       ]
     },
@@ -86,22 +96,26 @@
         {
           "Line": 90,
           "OriginalText": "I heard the owner...",
-          "TranslatedText": "ฉันได้ยินมาว่าเจ้าของร้าน..."
+          "TranslatedText": "ฉันได้ยินมาว่าเจ้าของร้าน...",
+          "Length": 20
         },
         {
           "Line": 94,
           "OriginalText": "\nsleeps wearing nothing...",
-          "TranslatedText": "\nไม่ใส่อะไรเลยเวลานอน..."
+          "TranslatedText": "\nไม่ใส่อะไรเลยเวลานอน...",
+          "Length": 26
         },
         {
           "Line": 98,
           "OriginalText": "\nbut accessories...\n",
-          "TranslatedText": "\nนอกจากเครื่องประดับ...\n"
+          "TranslatedText": "\nนอกจากเครื่องประดับ...\n",
+          "Length": 20
         },
         {
           "Line": 104,
           "OriginalText": "I wonder if she gets cold...",
-          "TranslatedText": "เธอไม่หนาวหรือไงนะ..."
+          "TranslatedText": "เธอไม่หนาวหรือไงนะ...",
+          "Length": 28
         }
       ]
     },
@@ -112,12 +126,14 @@
         {
           "Line": 119,
           "OriginalText": "The owner\u0027s name is actually an alias. Her real\nname is Jewel.\n\nIt\u0027s a little too coincidental for a jeweler to be\nnamed Jewel, so she was embarrassed.\n\n",
-          "TranslatedText": "ที่จริงแล้วชื่อเจ้าของร้านไม่ใช่ชื่อจริง\nชื่อจริงของเธอคือ Jewel\n\nมันบังเอิญเกินไปหน่อยที่ช่างอัญมณี\nจะชื่อ Jewel เธอก็เลยอาย\n\n"
+          "TranslatedText": "ที่จริงแล้วชื่อเจ้าของร้านไม่ใช่ชื่อจริง\nชื่อจริงของเธอคือ Jewel\n\nมันบังเอิญเกินไปหน่อยที่ช่างอัญมณี\nจะชื่อ Jewel เธอก็เลยอาย\n\n",
+          "Length": 153
         },
         {
           "Line": 125,
           "OriginalText": "I think it\u0027s a fine name, personally...",
-          "TranslatedText": "ส่วนตัวฉันว่ามันเป็นชื่อที่ดีนะ..."
+          "TranslatedText": "ส่วนตัวฉันว่ามันเป็นชื่อที่ดีนะ...",
+          "Length": 39
         }
       ]
     },
@@ -128,17 +144,20 @@
         {
           "Line": 140,
           "OriginalText": "The owner claims that she\u0027s not doing anything\nspecial with her looks, but she actually visits\nHotel Oasis once a week.\n",
-          "TranslatedText": "เจ้าของร้านอ้างว่าไม่ได้ดูแลตัวเองอะไร\nเป็นพิเศษเลย แต่ที่จริงเธอไปที่ \nHotel Oasis สัปดาห์ละครั้ง\n"
+          "TranslatedText": "เจ้าของร้านอ้างว่าไม่ได้ดูแลตัวเองอะไร\nเป็นพิเศษเลย แต่ที่จริงเธอไปที่ \nHotel Oasis สัปดาห์ละครั้ง\n",
+          "Length": 120
         },
         {
           "Line": 146,
           "OriginalText": "It\u0027s always good to remember...",
-          "TranslatedText": "จำไว้ก็ดีนะ..."
+          "TranslatedText": "จำไว้ก็ดีนะ...",
+          "Length": 31
         },
         {
           "Line": 150,
           "OriginalText": " If someone says\nthey don\u0027t do anything at all to maintain their\nlooks, it\u0027s probably not quite true.",
-          "TranslatedText": " ถ้ามีใครบอกว่า\nไม่ได้ดูแลตัวเองเป็นพิเศษ\nมันอาจจะไม่จริง"
+          "TranslatedText": " ถ้ามีใครบอกว่า\nไม่ได้ดูแลตัวเองเป็นพิเศษ\nมันอาจจะไม่จริง",
+          "Length": 101
         }
       ]
     },
@@ -149,12 +168,14 @@
         {
           "Line": 165,
           "OriginalText": "Apparently she and the teacher of the relationship\nclass, Ashai, were embroiled in a tragic love\ntriangle...\n",
-          "TranslatedText": "ดูเหมือนเธอกับอาจารย์ด้านความสัมพันธ์\nAshai เคยมีประเด็นรักสามเส้ากัน...\n"
+          "TranslatedText": "ดูเหมือนเธอกับอาจารย์ด้านความสัมพันธ์\nAshai เคยมีประเด็นรักสามเส้ากัน...\n",
+          "Length": 109
         },
         {
           "Line": 171,
           "OriginalText": "They\u0027re both still single, so I guess we know how\nthat went...",
-          "TranslatedText": "พวกเขายังโสดทั้งคู่ ก็น่าจะเดาได้นะว่า\nมันจบยังไง..."
+          "TranslatedText": "พวกเขายังโสดทั้งคู่ ก็น่าจะเดาได้นะว่า\nมันจบยังไง...",
+          "Length": 62
         }
       ]
     },
@@ -165,7 +186,8 @@
         {
           "Line": 183,
           "OriginalText": "This shop owes you everything, young\nvai. Your requests fill us with a greater\nsense of purpose than normal!\nIf you see an accessory you like, please\nfeel free to pick it up and look at it.",
-          "TranslatedText": "ร้านนี้ติดค้างคุณทุกอย่างเลย vai น้อย\nคำขอของคุณมอบจุดหมายให้เรามากกว่าปกติ!\nถ้าคุณเห็นเครื่องประดับที่ชอบละก็\nเชิญหยิบดูได้ตามสบายเลย"
+          "TranslatedText": "ร้านนี้ติดค้างคุณทุกอย่างเลย vai น้อย\nคำขอของคุณมอบจุดหมายให้เรามากกว่าปกติ!\nถ้าคุณเห็นเครื่องประดับที่ชอบละก็\nเชิญหยิบดูได้ตามสบายเลย",
+          "Length": 189
         }
       ]
     },
@@ -176,39 +198,46 @@
         {
           "Line": 192,
           "OriginalText": "I\u0027m sorry, but the ",
-          "TranslatedText": "ขอโทษนะ แต่ "
+          "TranslatedText": "ขอโทษนะ แต่ ",
+          "Length": 19
         },
         {
           "Line": 196,
           "OriginalText": "Gerudo Jewelers",
           "TranslatedText": "Gerudo Jewelers",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 199,
           "OriginalText": " isn\u0027t\nopen right now...\n\nThe big theft seems to have been solved,\nbut ",
-          "TranslatedText": " \nยังไม่เปิดตอนนี้...\n\nปัญหาเรื่องขโมยดูเหมือนจะถูกจัดการไปแล้ว\nแต่ว่า "
+          "TranslatedText": " \nยังไม่เปิดตอนนี้...\n\nปัญหาเรื่องขโมยดูเหมือนจะถูกจัดการไปแล้ว\nแต่ว่า ",
+          "Length": 71
         },
         {
           "Line": 203,
           "OriginalText": "Naboris",
           "TranslatedText": "Naboris",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 206,
           "OriginalText": " is out there causing a\nruckus, so it\u0027s dangerous to travel.\nAnd on top of it all, my shop...\n\n\n",
-          "TranslatedText": " ยังสร้างความวุ่นวาย\nอยู่ข้างนอกนั่น ดังนั้นมันจึงอันตรายที่จะเดินทาง\nและยิ่งกว่านั้น ร้านของฉัน...\n\n\n"
+          "TranslatedText": " ยังสร้างความวุ่นวาย\nอยู่ข้างนอกนั่น ดังนั้นมันจึงอันตรายที่จะเดินทาง\nและยิ่งกว่านั้น ร้านของฉัน...\n\n\n",
+          "Length": 96
         },
         {
           "Line": 217,
           "OriginalText": "The village is facing quite a few\nproblems lately.",
-          "TranslatedText": "หมู่บ้านกำลังค่อนข้างมีปัญหาอยู่\nในช่วงนี้"
+          "TranslatedText": "หมู่บ้านกำลังค่อนข้างมีปัญหาอยู่\nในช่วงนี้",
+          "Length": 50
         },
         {
           "Line": 221,
           "OriginalText": " *sigh*",
-          "TranslatedText": "เฮ้อ"
+          "TranslatedText": "เฮ้อ",
+          "Length": 7
         }
       ]
     },
@@ -219,7 +248,8 @@
         {
           "Line": 235,
           "OriginalText": "Vasaaq.",
-          "TranslatedText": "Vasaaq"
+          "TranslatedText": "Vasaaq",
+          "Length": 7
         }
       ]
     },
@@ -230,44 +260,52 @@
         {
           "Line": 247,
           "OriginalText": "I\u0027m sorry, but the ",
-          "TranslatedText": "ขอโทษนะ แต่"
+          "TranslatedText": "ขอโทษนะ แต่",
+          "Length": 19
         },
         {
           "Line": 251,
           "OriginalText": "Gerudo Jewelers",
           "TranslatedText": "Gerudo Jewelers",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 15
         },
         {
           "Line": 254,
           "OriginalText": " isn\u0027t\nopen right now...\n\n",
-          "TranslatedText": "ยังไม่เปิด\nตอนนี้...\n\n"
+          "TranslatedText": "ยังไม่เปิด\nตอนนี้...\n\n",
+          "Length": 26
         },
         {
           "Line": 258,
           "OriginalText": "Naboris",
           "TranslatedText": "Naboris",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 261,
           "OriginalText": " has calmed down, and the whole\nthing with the thieves has resolved...\n\n",
-          "TranslatedText": " ได้สงบลงแล้ว และเรื่องขโมย\nก็คลี่คลายแล้ว...\n\n"
+          "TranslatedText": " ได้สงบลงแล้ว และเรื่องขโมย\nก็คลี่คลายแล้ว...\n\n",
+          "Length": 72
         },
         {
           "Line": 272,
           "OriginalText": "But my shop...",
-          "TranslatedText": "แต่ร้านของฉัน..."
+          "TranslatedText": "แต่ร้านของฉัน...",
+          "Length": 14
         },
         {
           "Line": 276,
           "OriginalText": "\nWhat to do, what to do.",
-          "TranslatedText": "\nทำยังไงดี ทำยังไงดี"
+          "TranslatedText": "\nทำยังไงดี ทำยังไงดี",
+          "Length": 24
         },
         {
           "Line": 280,
           "OriginalText": " *sigh*",
-          "TranslatedText": "เฮ้อ"
+          "TranslatedText": "เฮ้อ",
+          "Length": 7
         }
       ]
     },
@@ -278,7 +316,8 @@
         {
           "Line": 284,
           "OriginalText": "*sigh*",
-          "TranslatedText": "เฮ้อ"
+          "TranslatedText": "เฮ้อ",
+          "Length": 6
         }
       ]
     }

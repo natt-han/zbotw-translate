@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Let\u0027s hear it.",
-          "TranslatedText": "ขอฟังหน่อย"
+          "TranslatedText": "ขอฟังหน่อย",
+          "Length": 14
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "That\u0027s all right.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 17
         }
       ]
     },
@@ -27,12 +29,14 @@
         {
           "Line": 25,
           "OriginalText": "As light shines from the northwest skies,",
-          "TranslatedText": "เมื่อแสงส่องมาจากฟ้าทิศพายัพ"
+          "TranslatedText": "เมื่อแสงส่องมาจากฟ้าทิศพายัพ",
+          "Length": 41
         },
         {
           "Line": 29,
           "OriginalText": "\nFrom the tower\u0027s shadow an arrow flies.",
-          "TranslatedText": "\nจากเงาของหอคอย ลูกศรบินออกไป"
+          "TranslatedText": "\nจากเงาของหอคอย ลูกศรบินออกไป",
+          "Length": 40
         }
       ]
     },
@@ -42,18 +46,21 @@
         {
           "Line": 45,
           "OriginalText": "Pierce heaven\u0027s light to reveal ",
-          "TranslatedText": "ทะลุแสงจากสวรรค์เพื่อเผย"
+          "TranslatedText": "ทะลุแสงจากสวรรค์เพื่อเผย",
+          "Length": 32
         },
         {
           "Line": 49,
           "OriginalText": "the prize",
           "TranslatedText": "รางวัล",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 52,
           "OriginalText": ".",
-          "TranslatedText": "ที่ซ่อนไว้"
+          "TranslatedText": "ที่ซ่อนไว้",
+          "Length": 1
         }
       ]
     },
@@ -63,7 +70,8 @@
         {
           "Line": 61,
           "OriginalText": "I still don\u0027t quite understand the lyrics, \nbut knowing my teacher, they\u0027re the key\nto revealing a secret.\nBest of luck, and may the light illuminate\nyour path.",
-          "TranslatedText": "ฉันยังไม่ค่อยเข้าใจเนื้อเพลงเท่าไหร่\nแต่เท่าที่รู้จักอาจารย์ของฉัน\nมันต้องเป็นกุญแจไขความลับแน่\nขอให้โชคดี และแสงสว่างจงส่องนำทางคุณ"
+          "TranslatedText": "ฉันยังไม่ค่อยเข้าใจเนื้อเพลงเท่าไหร่\nแต่เท่าที่รู้จักอาจารย์ของฉัน\nมันต้องเป็นกุญแจไขความลับแน่\nขอให้โชคดี และแสงสว่างจงส่องนำทางคุณ",
+          "Length": 160
         }
       ]
     },
@@ -73,32 +81,38 @@
         {
           "Line": 73,
           "OriginalText": "Mm? ",
-          "TranslatedText": "หืม?"
+          "TranslatedText": "หืม?",
+          "Length": 4
         },
         {
           "Line": 77,
           "OriginalText": "Ah, forgive me. ",
-          "TranslatedText": "อา ขออภัย"
+          "TranslatedText": "อา ขออภัย",
+          "Length": 16
         },
         {
           "Line": 81,
           "OriginalText": "I was lost in a song\nwritten by my late teacher.",
-          "TranslatedText": "ฉันกำลังจมอยู่กับเพลง\nที่เขียนโดยอาจารย์ผู้ล่วงลับของฉันน่ะ"
+          "TranslatedText": "ฉันกำลังจมอยู่กับเพลง\nที่เขียนโดยอาจารย์ผู้ล่วงลับของฉันน่ะ",
+          "Length": 48
         },
         {
           "Line": 92,
           "OriginalText": "He wrote it for the hero who fell to the\nCalamity 100 years ago...",
-          "TranslatedText": "\nเขาเขียนมันให้กับผู้กล้าที่หายไป\nในภัยพิบัติเมื่อ 100 ปีก่อน...\n"
+          "TranslatedText": "\nเขาเขียนมันให้กับผู้กล้าที่หายไป\nในภัยพิบัติเมื่อ 100 ปีก่อน...\n",
+          "Length": 66
         },
         {
           "Line": 103,
           "OriginalText": "So much time has passed, and yet the\nhero has not yet returned. But my\nteacher always kept faith.\n",
-          "TranslatedText": "เวลาผ่านไปนานมากแล้ว แต่ว่า\nผู้กล้าคนนั้นก็ยังไม่กลับมา\nแต่อาจารย์ของฉันยังคงเชื่อมั่นอยู่เสมอ\n"
+          "TranslatedText": "เวลาผ่านไปนานมากแล้ว แต่ว่า\nผู้กล้าคนนั้นก็ยังไม่กลับมา\nแต่อาจารย์ของฉันยังคงเชื่อมั่นอยู่เสมอ\n",
+          "Length": 98
         },
         {
           "Line": 109,
           "OriginalText": "I hope to play the song for the hero\nsomeday, so I practice it often.",
-          "TranslatedText": "ฉันหวังว่าสักวันหนึ่งจะได้เล่นเพลงนี้ให้ผู้กล้าฟัง\nดังนั้นฉันจึงฝึกซ้อมมันอยู่เสมอ"
+          "TranslatedText": "ฉันหวังว่าสักวันหนึ่งจะได้เล่นเพลงนี้ให้ผู้กล้าฟัง\nดังนั้นฉันจึงฝึกซ้อมมันอยู่เสมอ",
+          "Length": 69
         }
       ]
     },
@@ -108,12 +122,14 @@
         {
           "Line": 113,
           "OriginalText": "What if...",
-          "TranslatedText": "ถ้าหากว่า..."
+          "TranslatedText": "ถ้าหากว่า...",
+          "Length": 10
         },
         {
           "Line": 117,
           "OriginalText": " No, but then...",
-          "TranslatedText": " ไม่สิ ถ้างั้น..."
+          "TranslatedText": " ไม่สิ ถ้างั้น...",
+          "Length": 16
         }
       ]
     },
@@ -123,7 +139,8 @@
         {
           "Line": 129,
           "OriginalText": "Hmm?",
-          "TranslatedText": "หืมม?"
+          "TranslatedText": "หืมม?",
+          "Length": 4
         }
       ]
     },
@@ -133,7 +150,8 @@
         {
           "Line": 136,
           "OriginalText": "♪Hmmm hm hmmm...♪",
-          "TranslatedText": "♪Hmmm hm hmmm...♪"
+          "TranslatedText": "♪Hmmm hm hmmm...♪",
+          "Length": 17
         }
       ]
     }

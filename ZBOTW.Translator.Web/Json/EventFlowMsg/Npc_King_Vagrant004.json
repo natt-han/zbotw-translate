@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I cooked something.",
-          "TranslatedText": "ฉันปรุงอะไรบางอย่าง."
+          "TranslatedText": "ฉันปรุงอะไรบางอย่าง.",
+          "Length": 19
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Got any tips?",
-          "TranslatedText": "มีเคล็ดลับมั้ย?"
+          "TranslatedText": "มีเคล็ดลับมั้ย?",
+          "Length": 13
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Bye.",
-          "TranslatedText": "บาย."
+          "TranslatedText": "บาย.",
+          "Length": 4
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Ingredients?",
-          "TranslatedText": "ส่วนผสม?"
+          "TranslatedText": "ส่วนผสม?",
+          "Length": 12
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Combinations?",
-          "TranslatedText": "ชุดค่าผสม?"
+          "TranslatedText": "ชุดค่าผสม?",
+          "Length": 13
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Effects?",
-          "TranslatedText": "ผลกระทบ?"
+          "TranslatedText": "ผลกระทบ?",
+          "Length": 8
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "What are you doing?",
-          "TranslatedText": "คุณกำลังทำอะไร?"
+          "TranslatedText": "คุณกำลังทำอะไร?",
+          "Length": 19
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Bye.",
-          "TranslatedText": "บาย."
+          "TranslatedText": "บาย.",
+          "Length": 4
         }
       ]
     },
@@ -87,18 +95,21 @@
         {
           "Line": 45,
           "OriginalText": "You may use my ",
-          "TranslatedText": "คุณสามารถใช้ "
+          "TranslatedText": "คุณสามารถใช้ ",
+          "Length": 15
         },
         {
           "Line": 49,
           "OriginalText": "bed",
           "TranslatedText": "เตียง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 52,
           "OriginalText": " if you need to\nrest a bit.",
-          "TranslatedText": " \nหากคุณต้องการพักผ่อนสักหน่อย."
+          "TranslatedText": " \nหากคุณต้องการพักผ่อนสักหน่อย.",
+          "Length": 27
         }
       ]
     },
@@ -108,23 +119,27 @@
         {
           "Line": 61,
           "OriginalText": "Are you tired? ",
-          "TranslatedText": "คุณเหนื่อยไหม? "
+          "TranslatedText": "คุณเหนื่อยไหม? ",
+          "Length": 15
         },
         {
           "Line": 65,
           "OriginalText": "You may use my ",
-          "TranslatedText": "คุณสามารถใช้ "
+          "TranslatedText": "คุณสามารถใช้ ",
+          "Length": 15
         },
         {
           "Line": 69,
           "OriginalText": "bed",
           "TranslatedText": "เตียง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 72,
           "OriginalText": "\nif you need to rest a bit.",
-          "TranslatedText": "\nหากคุณต้องการพักผ่อนสักหน่อย"
+          "TranslatedText": "\nหากคุณต้องการพักผ่อนสักหน่อย",
+          "Length": 27
         }
       ]
     },
@@ -134,23 +149,27 @@
         {
           "Line": 81,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         },
         {
           "Line": 85,
           "OriginalText": " If you need to take a rest,\ngo ahead and use my ",
-          "TranslatedText": " หากคุณต้องการพักผ่อนให้ใช้ "
+          "TranslatedText": " หากคุณต้องการพักผ่อนให้ใช้ ",
+          "Length": 49
         },
         {
           "Line": 89,
           "OriginalText": "bed",
           "TranslatedText": "เตียง",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 92,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -160,23 +179,27 @@
         {
           "Line": 101,
           "OriginalText": "Overworking yourself is no good...",
-          "TranslatedText": "การทำงานหนักเกินไปไม่ใช่เรื่องดี..."
+          "TranslatedText": "การทำงานหนักเกินไปไม่ใช่เรื่องดี...",
+          "Length": 34
         },
         {
           "Line": 105,
           "OriginalText": "\nGo ahead and take a rest in my ",
-          "TranslatedText": "\nไปพักผ่อนที่"
+          "TranslatedText": "\nไปพักผ่อนที่",
+          "Length": 32
         },
         {
           "Line": 109,
           "OriginalText": "bed",
           "TranslatedText": "เตียงของฉัน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 112,
           "OriginalText": "\nif you need to.",
-          "TranslatedText": "\nถ้าคุณต้องการ"
+          "TranslatedText": "\nถ้าคุณต้องการ",
+          "Length": 16
         }
       ]
     },
@@ -186,7 +209,8 @@
         {
           "Line": 116,
           "OriginalText": "Unlike a fireside nap, sleeping in a\nproper bed should really rejuvenate you.",
-          "TranslatedText": "ไม่เหมือนกับการงีบหลับ ในการนอนหลับ\nพักผ่อนบนเตียงที่เหมาะสม\nจะทำให้คุณรู้สึกกระปรี้กระเปร่า"
+          "TranslatedText": "ไม่เหมือนกับการงีบหลับ ในการนอนหลับ\nพักผ่อนบนเตียงที่เหมาะสม\nจะทำให้คุณรู้สึกกระปรี้กระเปร่า",
+          "Length": 77
         }
       ]
     },
@@ -196,7 +220,8 @@
         {
           "Line": 120,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         }
       ]
     },
@@ -206,23 +231,27 @@
         {
           "Line": 129,
           "OriginalText": "Wait... Is that...\n\n\nThat looks just like my signature perfect\ndish, ",
-          "TranslatedText": "เดี๋ยวก่อน ... นั่นสินะ ...\nดูเหมือนจานเด็ดที่เป็นเอกลักษณ์ของฉัน, \n"
+          "TranslatedText": "เดี๋ยวก่อน ... นั่นสินะ ...\nดูเหมือนจานเด็ดที่เป็นเอกลักษณ์ของฉัน, \n",
+          "Length": 69
         },
         {
           "Line": 133,
           "OriginalText": "spicy meat and seafood fry",
           "TranslatedText": "ผัดเผ็ดและอาหารทะเล",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 26
         },
         {
           "Line": 136,
           "OriginalText": "!\n\n",
-          "TranslatedText": "!\n"
+          "TranslatedText": "!\n",
+          "Length": 3
         },
         {
           "Line": 142,
           "OriginalText": "But how did you—?!\n\n\nWell, I suppose that is not important.\nCan I trouble you to share the recipe?",
-          "TranslatedText": "แต่คุณทำอย่างไร—?!\nฉันคิดว่ามันไม่สำคัญ\nขอรบกวนแชร์สูตรได้ไหม?"
+          "TranslatedText": "แต่คุณทำอย่างไร—?!\nฉันคิดว่ามันไม่สำคัญ\nขอรบกวนแชร์สูตรได้ไหม?",
+          "Length": 98
         }
       ]
     },
@@ -232,12 +261,14 @@
         {
           "Line": 151,
           "OriginalText": "Ah, of course! Hyrule bass! How could I\nhave forgotten?\n\n",
-          "TranslatedText": "แน่นอน! ปลาHyrule bass! \nฉันจะลืมไปได้อย่างไร?\n"
+          "TranslatedText": "แน่นอน! ปลาHyrule bass! \nฉันจะลืมไปได้อย่างไร?\n",
+          "Length": 57
         },
         {
           "Line": 157,
           "OriginalText": "Well done! Now, please allow me to\nreward your culinary efforts with\nthis warm doublet.",
-          "TranslatedText": "ทำได้ดี! ตอนนี้โปรดให้ฉันตอบแทน\nความพยายามในการทำอาหารของคุณ\nด้วย อบอุ่นสองเท่านี้."
+          "TranslatedText": "ทำได้ดี! ตอนนี้โปรดให้ฉันตอบแทน\nความพยายามในการทำอาหารของคุณ\nด้วย อบอุ่นสองเท่านี้.",
+          "Length": 87
         }
       ]
     },
@@ -247,17 +278,20 @@
         {
           "Line": 166,
           "OriginalText": "Hm?\n\n\nOh, that\u0027s right. I already gave you one,\ndidn\u0027t I?",
-          "TranslatedText": "หืม?\nเอ่อ ถูกแล้ว ฉันให้คุณไปแล้วไม่ใช่เหรอ?"
+          "TranslatedText": "หืม?\nเอ่อ ถูกแล้ว ฉันให้คุณไปแล้วไม่ใช่เหรอ?",
+          "Length": 57
         },
         {
           "Line": 170,
           "OriginalText": " I had forgotten.\n\n",
-          "TranslatedText": " ฉันลืมไปแล้ว.\n\n"
+          "TranslatedText": " ฉันลืมไปแล้ว.\n\n",
+          "Length": 19
         },
         {
           "Line": 179,
           "OriginalText": "Oho, my mistake!",
-          "TranslatedText": "โอ้มันเป็นความผิดพลาดของฉัน!"
+          "TranslatedText": "โอ้มันเป็นความผิดพลาดของฉัน!",
+          "Length": 16
         }
       ]
     },
@@ -267,7 +301,8 @@
         {
           "Line": 188,
           "OriginalText": "Simply open your inventory, grab hold of\nyour ingredients, and toss them in!",
-          "TranslatedText": "เพียงแค่เปิดคลังของคุณ\nคว้าส่วนผสมของคุณและโยนเข้าไป!"
+          "TranslatedText": "เพียงแค่เปิดคลังของคุณ\nคว้าส่วนผสมของคุณและโยนเข้าไป!",
+          "Length": 76
         }
       ]
     },
@@ -283,12 +318,14 @@
         {
           "Line": 197,
           "OriginalText": "Has the art of cooking captured your\ninterest? I\u0027m certain you have potential...",
-          "TranslatedText": "ศิลปะการทำอาหาร\nดึงดูดความสนใจของคุณหรือไม่? \nฉันมั่นใจว่าคุณมีศักยภาพ..."
+          "TranslatedText": "ศิลปะการทำอาหาร\nดึงดูดความสนใจของคุณหรือไม่? \nฉันมั่นใจว่าคุณมีศักยภาพ...",
+          "Length": 80
         },
         {
           "Line": 201,
           "OriginalText": "\nAllow me to give you some pointers.",
-          "TranslatedText": "\nขอให้ฉันได้ให้คำแนะนำแก่คุณ."
+          "TranslatedText": "\nขอให้ฉันได้ให้คำแนะนำแก่คุณ.",
+          "Length": 36
         }
       ]
     },
@@ -304,12 +341,14 @@
         {
           "Line": 220,
           "OriginalText": "Now then...",
-          "TranslatedText": "ตอนนี้แล้ว..."
+          "TranslatedText": "ตอนนี้แล้ว...",
+          "Length": 11
         },
         {
           "Line": 229,
           "OriginalText": " Is there anything else I can\nhelp you with?",
-          "TranslatedText": " มีอะไรอีกไหม\nที่ฉันสามารถช่วยคุณได้?"
+          "TranslatedText": " มีอะไรอีกไหม\nที่ฉันสามารถช่วยคุณได้?",
+          "Length": 44
         }
       ]
     },
@@ -319,7 +358,8 @@
         {
           "Line": 243,
           "OriginalText": "You can toss in anything edible.\nThankfully, there are plenty of\noptions in this area.\nJust remember that the more ingredients\nyou use in a dish, the more health it will\nreplenish when you eat it.",
-          "TranslatedText": "คุณสามารถโยนอะไรก็ได้ที่กินได้\nโชคดีที่มีตัวเลือกมากมายในบริเวณนี้\nเพียงจำไว้ว่ายิ่งคุณใช้ส่วนผสมในอาหาร\nมากเท่าไหร่ ก็จะยิ่งเติมเต็มสุขภาพ\nมากขึ้นเมื่อคุณกินเข้าไป"
+          "TranslatedText": "คุณสามารถโยนอะไรก็ได้ที่กินได้\nโชคดีที่มีตัวเลือกมากมายในบริเวณนี้\nเพียงจำไว้ว่ายิ่งคุณใช้ส่วนผสมในอาหาร\nมากเท่าไหร่ ก็จะยิ่งเติมเต็มสุขภาพ\nมากขึ้นเมื่อคุณกินเข้าไป",
+          "Length": 196
         }
       ]
     },
@@ -329,12 +369,14 @@
         {
           "Line": 247,
           "OriginalText": "The idea is to mix heartier ingredients,\nlike fish and meat, with things like grains\nand vegetables.\nSpices and herbs help too, naturally.\nHowever...",
-          "TranslatedText": "แนวคิดคือการผสมส่วนผสมที่ดีกว่า\nเช่น ปลาและเนื้อสัตว์กับสิ่งต่างๆ\nเช่น ธัญพืชและผัก เครื่องเทศ\nและสมุนไพรก็ช่วยได้เช่นกัน\nอย่างไรก็ตาม..."
+          "TranslatedText": "แนวคิดคือการผสมส่วนผสมที่ดีกว่า\nเช่น ปลาและเนื้อสัตว์กับสิ่งต่างๆ\nเช่น ธัญพืชและผัก เครื่องเทศ\nและสมุนไพรก็ช่วยได้เช่นกัน\nอย่างไรก็ตาม...",
+          "Length": 149
         },
         {
           "Line": 251,
           "OriginalText": " Do not accidentally add in\nthings like bugs and lizards.\nLet\u0027s just say...they are not compatible.\nIn fact, they are quite foul.",
-          "TranslatedText": " อย่าใส่สิ่งต่างๆ\nเช่นแมลง และจิ้งจกโดยไม่ได้ตั้งใจ\nเอาเป็นว่า... มันเข้ากันไม่ได้\nในความเป็นจริงพวกเขาค่อนข้างเหม็น."
+          "TranslatedText": " อย่าใส่สิ่งต่างๆ\nเช่นแมลง และจิ้งจกโดยไม่ได้ตั้งใจ\nเอาเป็นว่า... มันเข้ากันไม่ได้\nในความเป็นจริงพวกเขาค่อนข้างเหม็น.",
+          "Length": 129
         }
       ]
     },
@@ -344,17 +386,20 @@
         {
           "Line": 255,
           "OriginalText": "Certain ingredients have special effects,\nsuch as temporarily warming you up or\nincreasing your stamina.\nIf you use them when cooking, even a\nnormal dish will be elevated to one with\na special effect.\n",
-          "TranslatedText": "ส่วนผสมบางอย่างมีลักษณะพิเศษ\nเช่น ทำให้คุณอุ่นขึ้นชั่วคราว\nหรือเพิ่มความแข็งแกร่งของคุณ\nหากคุณใช้เมื่อปรุงอาหารแม้แต่จานธรรมดา\nก็จะถูกยกระดับขึ้นเป็นจานเด็ด\nด้วยเอฟเฟกต์พิเศษ.\n"
+          "TranslatedText": "ส่วนผสมบางอย่างมีลักษณะพิเศษ\nเช่น ทำให้คุณอุ่นขึ้นชั่วคราว\nหรือเพิ่มความแข็งแกร่งของคุณ\nหากคุณใช้เมื่อปรุงอาหารแม้แต่จานธรรมดา\nก็จะถูกยกระดับขึ้นเป็นจานเด็ด\nด้วยเอฟเฟกต์พิเศษ.\n",
+          "Length": 201
         },
         {
           "Line": 261,
           "OriginalText": "Do note that combining bugs or lizards\nwith monster parts may yield some\nunexpected results.\nIn fact, ",
-          "TranslatedText": "โปรดทราบว่าการรวมแมลง\nหรือกิ้งก่าเข้ากับชิ้นส่วนสัตว์ประหลาด\nอาจให้ผลลัพธ์ที่ไม่คาดคิด\nในความเป็นจริง, \n"
+          "TranslatedText": "โปรดทราบว่าการรวมแมลง\nหรือกิ้งก่าเข้ากับชิ้นส่วนสัตว์ประหลาด\nอาจให้ผลลัพธ์ที่ไม่คาดคิด\nในความเป็นจริง, \n",
+          "Length": 102
         },
         {
           "Line": 265,
           "OriginalText": "that\u0027s how you make elixirs!",
-          "TranslatedText": "นั่นคือวิธีที่คุณทำ elixirs!"
+          "TranslatedText": "นั่นคือวิธีที่คุณทำ elixirs!",
+          "Length": 28
         }
       ]
     },
@@ -364,17 +409,20 @@
         {
           "Line": 274,
           "OriginalText": "Well, I recommend you consider how the\ningredients will complement each other.\n\nBut don\u0027t let convention limit your\nculinary creativity!",
-          "TranslatedText": "ฉันขอแนะนำให้คุณพิจารณา\nว่าส่วนผสมจะเสริมกันอย่างไร\nแต่อย่าตีกรอบ จำกัดความคิดสร้างสรรค์\nในการทำอาหารของคุณ!"
+          "TranslatedText": "ฉันขอแนะนำให้คุณพิจารณา\nว่าส่วนผสมจะเสริมกันอย่างไร\nแต่อย่าตีกรอบ จำกัดความคิดสร้างสรรค์\nในการทำอาหารของคุณ!",
+          "Length": 136
         },
         {
           "Line": 278,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 282,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -384,17 +432,20 @@
         {
           "Line": 291,
           "OriginalText": "Try to consider how the ingredients will\ncomplement one another. You can even\nmake a dish that increases your stamina!\nIt\u0027s all about being creative\nand trying different things.",
-          "TranslatedText": "ลองพิจารณาว่าส่วนผสมจะเสริมกันอย่างไร \nคุณสามารถทำอาหารที่เพิ่ม staminaขึ้นได้!\nทุกอย่างเกี่ยวกับการสร้างสรรค์\nและลองทำสิ่งที่แตกต่าง."
+          "TranslatedText": "ลองพิจารณาว่าส่วนผสมจะเสริมกันอย่างไร \nคุณสามารถทำอาหารที่เพิ่ม staminaขึ้นได้!\nทุกอย่างเกี่ยวกับการสร้างสรรค์\nและลองทำสิ่งที่แตกต่าง.",
+          "Length": 177
         },
         {
           "Line": 295,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 299,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -404,17 +455,20 @@
         {
           "Line": 308,
           "OriginalText": "Try to consider how the ingredients will\ncomplement one another.\n\nIf you play your cards right, you may\neven end up with a dish that can help\nprotect you from extreme cold.\nIt\u0027s all about being creative and trying\ndifferent things.",
-          "TranslatedText": "ลองพิจารณาว่าส่วนผสมจะเสริมกันอย่างไร\nหากคุณเล่นไพ่ของคุณถูกต้องคุณอาจลงเอย\nด้วยอาหารที่สามารถช่วยปกป้องคุณ\nจากความหนาวจัด ทุกอย่างเกี่ยวกับ\nการสร้างสรรค์และลองทำสิ่งที่แตกต่าง."
+          "TranslatedText": "ลองพิจารณาว่าส่วนผสมจะเสริมกันอย่างไร\nหากคุณเล่นไพ่ของคุณถูกต้องคุณอาจลงเอย\nด้วยอาหารที่สามารถช่วยปกป้องคุณ\nจากความหนาวจัด ทุกอย่างเกี่ยวกับ\nการสร้างสรรค์และลองทำสิ่งที่แตกต่าง.",
+          "Length": 231
         },
         {
           "Line": 312,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 316,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -424,12 +478,14 @@
         {
           "Line": 325,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืม..."
+          "TranslatedText": "อืม...",
+          "Length": 6
         },
         {
           "Line": 329,
           "OriginalText": " Let\u0027s take a look at what you\ncooked up there, shall we?",
-          "TranslatedText": " เรามาดูสิ่งที่คุณปรุงขึ้นที่นั่นกันดีกว่า?"
+          "TranslatedText": " เรามาดูสิ่งที่คุณปรุงขึ้นที่นั่นกันดีกว่า?",
+          "Length": 57
         }
       ]
     },
@@ -439,17 +495,20 @@
         {
           "Line": 338,
           "OriginalText": "Not bad. ",
-          "TranslatedText": "ไม่เลว. "
+          "TranslatedText": "ไม่เลว. ",
+          "Length": 9
         },
         {
           "Line": 342,
           "OriginalText": "Certainly not good...\n",
-          "TranslatedText": "ไม่ดีแน่ ๆ...\n"
+          "TranslatedText": "ไม่ดีแน่ ๆ...\n",
+          "Length": 22
         },
         {
           "Line": 346,
           "OriginalText": "but not bad either.",
-          "TranslatedText": "แต่ก็ไม่เลวเหมือนกัน."
+          "TranslatedText": "แต่ก็ไม่เลวเหมือนกัน.",
+          "Length": 19
         }
       ]
     },
@@ -459,7 +518,8 @@
         {
           "Line": 355,
           "OriginalText": "They say failure is a stepping-stone to\nsuccess, right? Perhaps they were\nreferring to your culinary shortcomings...",
-          "TranslatedText": "พวกเขากล่าวว่าความล้มเหลวเป็นขวากหนาม\nเพื่อก้าวไปสู่ความสำเร็จใช่ไหม? บางทีอาจ\nหมายถึงข้อบกพร่องในการทำอาหารของคุณ..."
+          "TranslatedText": "พวกเขากล่าวว่าความล้มเหลวเป็นขวากหนาม\nเพื่อก้าวไปสู่ความสำเร็จใช่ไหม? บางทีอาจ\nหมายถึงข้อบกพร่องในการทำอาหารของคุณ...",
+          "Length": 116
         }
       ]
     },
@@ -469,12 +529,14 @@
         {
           "Line": 359,
           "OriginalText": "I encourage you to experiment with some\ndifferent ingredient combinations.\n\nThe variety of food one can make out\nhere in the wild is quite remarkable.\n",
-          "TranslatedText": "ฉันขอแนะนำให้คุณทดลองใช้ส่วนผสมที่แตกต่างกัน\nความหลากหลายของอาหารที่สามารถ\nทำออกมาได้ที่นี่เป็นเรื่องที่น่าทึ่งมาก\n"
+          "TranslatedText": "ฉันขอแนะนำให้คุณทดลองใช้ส่วนผสมที่แตกต่างกัน\nความหลากหลายของอาหารที่สามารถ\nทำออกมาได้ที่นี่เป็นเรื่องที่น่าทึ่งมาก\n",
+          "Length": 151
         },
         {
           "Line": 366,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -484,12 +546,14 @@
         {
           "Line": 370,
           "OriginalText": "In case you were wondering, I know you\nwere poking around in my diary.\n\n",
-          "TranslatedText": "ในกรณีที่คุณสงสัยฉันรู้ว่า\nคุณกำลังยุ่งกับไดอารี่ของฉัน.\n"
+          "TranslatedText": "ในกรณีที่คุณสงสัยฉันรู้ว่า\nคุณกำลังยุ่งกับไดอารี่ของฉัน.\n",
+          "Length": 72
         },
         {
           "Line": 376,
           "OriginalText": "That said, if you do end up figuring out\nhow to create that dish I wrote about,\nmy warm doublet is all yours.",
-          "TranslatedText": "ที่กล่าวว่าถ้าคุณหาวิธีสร้าง\nอาหารจานนั้นที่ฉันเขียนถึง\nอบอุ่นสองเท่า ของฉันก็เป็นของคุณทั้งหมด."
+          "TranslatedText": "ที่กล่าวว่าถ้าคุณหาวิธีสร้าง\nอาหารจานนั้นที่ฉันเขียนถึง\nอบอุ่นสองเท่า ของฉันก็เป็นของคุณทั้งหมด.",
+          "Length": 109
         }
       ]
     },
@@ -499,29 +563,34 @@
         {
           "Line": 380,
           "OriginalText": "If it\u0027s ",
-          "TranslatedText": "ถ้าเป็น "
+          "TranslatedText": "ถ้าเป็น ",
+          "Length": 8
         },
         {
           "Line": 384,
           "OriginalText": "raw meat ",
           "TranslatedText": "เนื้อดิบ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 387,
           "OriginalText": "you\u0027re after, try hunting\nin the ",
-          "TranslatedText": "ลองล่าจากสัตว์\nใน "
+          "TranslatedText": "ลองล่าจากสัตว์\nใน ",
+          "Length": 33
         },
         {
           "Line": 391,
           "OriginalText": "Forest of Spirits",
           "TranslatedText": "ป่าแห่งวิญญาณ Forest of Spirits",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 17
         },
         {
           "Line": 394,
           "OriginalText": ". You\u0027ll find it in\nthe northern part of the plateau.",
-          "TranslatedText": ".\nคุณจะพบได้ทางตอนเหนือของที่ราบสูง"
+          "TranslatedText": ".\nคุณจะพบได้ทางตอนเหนือของที่ราบสูง",
+          "Length": 53
         }
       ]
     },
@@ -531,18 +600,21 @@
         {
           "Line": 398,
           "OriginalText": "If it\u0027s ",
-          "TranslatedText": "หากเป็น "
+          "TranslatedText": "หากเป็น ",
+          "Length": 8
         },
         {
           "Line": 402,
           "OriginalText": "raw meat",
           "TranslatedText": "เนื้อดิบ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 405,
           "OriginalText": " you\u0027re after, try your\nhand at hunting some game here.",
-          "TranslatedText": " ลองใช้มือล่าสัตว์ที่นี่."
+          "TranslatedText": " ลองใช้มือล่าสัตว์ที่นี่.",
+          "Length": 55
         }
       ]
     },
@@ -552,29 +624,34 @@
         {
           "Line": 409,
           "OriginalText": "If you\u0027re looking for ",
-          "TranslatedText": "หากคุณกำลังมองหา "
+          "TranslatedText": "หากคุณกำลังมองหา ",
+          "Length": 22
         },
         {
           "Line": 413,
           "OriginalText": "spicy peppers",
           "TranslatedText": "พริกเผ็ด",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 416,
           "OriginalText": ",\ntry foraging near the ",
-          "TranslatedText": ",\nลองหาอาหารใกล้ ๆ "
+          "TranslatedText": ",\nลองหาอาหารใกล้ ๆ ",
+          "Length": 24
         },
         {
           "Line": 420,
           "OriginalText": "Temple of Time",
           "TranslatedText": "วิหารแห่งกาลเวลา\nTemple of Time",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 423,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -584,7 +661,8 @@
         {
           "Line": 427,
           "OriginalText": "I simply cannot remember what the last\ningredient is. Though I do recall that I\nfound it near the tower...",
-          "TranslatedText": "ฉันจำไม่ได้ว่าส่วนผสมสุดท้ายคืออะไร \nแม้ว่าฉันจะจำได้ว่าฉันพบมันใกล้หอคอย..."
+          "TranslatedText": "ฉันจำไม่ได้ว่าส่วนผสมสุดท้ายคืออะไร \nแม้ว่าฉันจะจำได้ว่าฉันพบมันใกล้หอคอย...",
+          "Length": 106
         }
       ]
     },
@@ -594,7 +672,8 @@
         {
           "Line": 436,
           "OriginalText": "I look forward to seeing what type of\ntreasure you secure out there.",
-          "TranslatedText": "ฉันหวังว่าจะได้เห็นสมบัติ\nบางอย่างที่คุณได้รับจากที่นั่น."
+          "TranslatedText": "ฉันหวังว่าจะได้เห็นสมบัติ\nบางอย่างที่คุณได้รับจากที่นั่น.",
+          "Length": 68
         }
       ]
     },
@@ -604,23 +683,27 @@
         {
           "Line": 450,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         },
         {
           "Line": 454,
           "OriginalText": " If you still wish to acquire the\n",
-          "TranslatedText": " หากคุณยังต้องการ\n"
+          "TranslatedText": " หากคุณยังต้องการ\n",
+          "Length": 34
         },
         {
           "Line": 458,
           "OriginalText": "paraglider",
           "TranslatedText": "paraglider",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 461,
           "OriginalText": ", you must put in the effort.\nI will not simply give it away, you see.",
-          "TranslatedText": ", \nคุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณก็รู้."
+          "TranslatedText": ", \nคุณต้องใช้ความพยายาม\nฉันจะไม่ให้มันไปง่ายๆ คุณก็รู้.",
+          "Length": 70
         }
       ]
     },
@@ -630,12 +713,14 @@
         {
           "Line": 470,
           "OriginalText": "*grumble*",
-          "TranslatedText": "*บ่น*"
+          "TranslatedText": "*บ่น*",
+          "Length": 9
         },
         {
           "Line": 474,
           "OriginalText": " Please do not wake me up for\nno reason.",
-          "TranslatedText": " โปรดอย่าปลุกฉันโดยไม่มีเหตุผล."
+          "TranslatedText": " โปรดอย่าปลุกฉันโดยไม่มีเหตุผล.",
+          "Length": 40
         }
       ]
     },
@@ -645,7 +730,8 @@
         {
           "Line": 483,
           "OriginalText": "I\u0027m counting on you.",
-          "TranslatedText": "ฉันไว้ใจคุณ."
+          "TranslatedText": "ฉันไว้ใจคุณ.",
+          "Length": 20
         }
       ]
     },
@@ -655,7 +741,8 @@
         {
           "Line": 492,
           "OriginalText": "Isn\u0027t it obvious?!",
-          "TranslatedText": "มันไม่ชัดเจน?!"
+          "TranslatedText": "มันไม่ชัดเจน?!",
+          "Length": 18
         }
       ]
     },
@@ -665,7 +752,8 @@
         {
           "Line": 501,
           "OriginalText": "I was just about to go cut down a few\ntrees over there. We\u0027ll have to talk later.",
-          "TranslatedText": "ฉันกำลังจะไปโค่นต้นไม้ที่นั่น \nเราค่อยพูดคุยกันในภายหลัง."
+          "TranslatedText": "ฉันกำลังจะไปโค่นต้นไม้ที่นั่น \nเราค่อยพูดคุยกันในภายหลัง.",
+          "Length": 81
         }
       ]
     },
@@ -675,12 +763,14 @@
         {
           "Line": 510,
           "OriginalText": "I\u0027m heading home for the day.",
-          "TranslatedText": "ฉันมุ่งหน้ากลับบ้านในวันนี้."
+          "TranslatedText": "ฉันมุ่งหน้ากลับบ้านในวันนี้.",
+          "Length": 29
         },
         {
           "Line": 514,
           "OriginalText": "\nHow about you? All done here?",
-          "TranslatedText": "\nแล้วคุณล่ะ? ทั้งหมดเสร็จสิ้นที่นี่?"
+          "TranslatedText": "\nแล้วคุณล่ะ? ทั้งหมดเสร็จสิ้นที่นี่?",
+          "Length": 30
         }
       ]
     },
@@ -690,12 +780,14 @@
         {
           "Line": 523,
           "OriginalText": "I\u0027m heading home.",
-          "TranslatedText": "ฉันกำลังมุ่งหน้ากลับบ้าน."
+          "TranslatedText": "ฉันกำลังมุ่งหน้ากลับบ้าน.",
+          "Length": 17
         },
         {
           "Line": 527,
           "OriginalText": " I can\u0027t offer you\nmuch, other than a solid roof and good\ncompany, but you\u0027re free to join me.",
-          "TranslatedText": " \nฉันเสนออะไรให้คุณไม่ได้มากนอกจาก\nหลังคาที่มั่นคงและ สังคมที่ดี \nแต่คุณมีอิสระที่จะเข้าร่วมกับฉัน."
+          "TranslatedText": " \nฉันเสนออะไรให้คุณไม่ได้มากนอกจาก\nหลังคาที่มั่นคงและ สังคมที่ดี \nแต่คุณมีอิสระที่จะเข้าร่วมกับฉัน.",
+          "Length": 94
         }
       ]
     },
@@ -705,7 +797,8 @@
         {
           "Line": 536,
           "OriginalText": "I thought this tree here might make for\nsome good firewood.",
-          "TranslatedText": "ฉันคิดว่าต้นไม้ที่นี่อาจจะเป็นฟืนที่ดี."
+          "TranslatedText": "ฉันคิดว่าต้นไม้ที่นี่อาจจะเป็นฟืนที่ดี.",
+          "Length": 59
         }
       ]
     },
@@ -715,12 +808,14 @@
         {
           "Line": 545,
           "OriginalText": "However...",
-          "TranslatedText": "อย่างไรก็ตาม..."
+          "TranslatedText": "อย่างไรก็ตาม...",
+          "Length": 10
         },
         {
           "Line": 549,
           "OriginalText": "getting a tree to fall exactly\nwhere you want it to is quite an art.\n\nThe trick is to turn your hips so that they\nface where you want the tree to land.",
-          "TranslatedText": "การเอาต้นไม้มาโค่น\nในที่ที่คุณต้องการถือเป็นศิลปะ\nเคล็ดลับคือให้หันสะโพกหันไปทาง\nที่คุณต้องการให้ต้นไม้ขึ้นฝั่ง."
+          "TranslatedText": "การเอาต้นไม้มาโค่น\nในที่ที่คุณต้องการถือเป็นศิลปะ\nเคล็ดลับคือให้หันสะโพกหันไปทาง\nที่คุณต้องการให้ต้นไม้ขึ้นฝั่ง.",
+          "Length": 151
         }
       ]
     },
@@ -730,12 +825,14 @@
         {
           "Line": 558,
           "OriginalText": "Phew...",
-          "TranslatedText": "วุ้ย..."
+          "TranslatedText": "วุ้ย...",
+          "Length": 7
         },
         {
           "Line": 562,
           "OriginalText": " Speaking of hips, mine are\nstarting to ache.",
-          "TranslatedText": " เมื่อพูดถึงสะโพกฉันก็เริ่มปวด."
+          "TranslatedText": " เมื่อพูดถึงสะโพกฉันก็เริ่มปวด.",
+          "Length": 45
         }
       ]
     },
@@ -745,12 +842,14 @@
         {
           "Line": 571,
           "OriginalText": "So...",
-          "TranslatedText": "เพราะ..."
+          "TranslatedText": "เพราะ...",
+          "Length": 5
         },
         {
           "Line": 575,
           "OriginalText": " I see you found my axe. Why not\nhelp me out and give it a few swings?",
-          "TranslatedText": " ฉันเห็นคุณพบขวานของฉัน \nทำไมไม่ช่วยฉันออกไปเหวี่ยงสักสองสามครั้ง?"
+          "TranslatedText": " ฉันเห็นคุณพบขวานของฉัน \nทำไมไม่ช่วยฉันออกไปเหวี่ยงสักสองสามครั้ง?",
+          "Length": 70
         }
       ]
     },
@@ -760,12 +859,14 @@
         {
           "Line": 584,
           "OriginalText": "I\u0027m working up quite a sweat here...",
-          "TranslatedText": "ฉันทำงานหนักมากที่นี่..."
+          "TranslatedText": "ฉันทำงานหนักมากที่นี่...",
+          "Length": 36
         },
         {
           "Line": 588,
           "OriginalText": "\nbut these bones could use a break.",
-          "TranslatedText": "\nแต่กระดูกอาจใช้เวลาพักได้."
+          "TranslatedText": "\nแต่กระดูกอาจใช้เวลาพักได้.",
+          "Length": 35
         }
       ]
     },
@@ -775,12 +876,14 @@
         {
           "Line": 597,
           "OriginalText": "It\u0027s best to use an axe when felling trees.",
-          "TranslatedText": "ควรใช้ขวานในการโค่นต้นไม้."
+          "TranslatedText": "ควรใช้ขวานในการโค่นต้นไม้.",
+          "Length": 43
         },
         {
           "Line": 601,
           "OriginalText": "\nA sword works in a pinch, but you\u0027ll end\nup ruining the blade.",
-          "TranslatedText": "\nดาบใช้งานได้ดี แต่คุณจะทำลายคมและใบมีดมัน."
+          "TranslatedText": "\nดาบใช้งานได้ดี แต่คุณจะทำลายคมและใบมีดมัน.",
+          "Length": 63
         }
       ]
     },
@@ -790,7 +893,8 @@
         {
           "Line": 610,
           "OriginalText": "Maybe I\u0027ll just sit by the fire for a bit...",
-          "TranslatedText": "บางทีฉันอาจจะนั่งข้างกองไฟสักหน่อย..."
+          "TranslatedText": "บางทีฉันอาจจะนั่งข้างกองไฟสักหน่อย...",
+          "Length": 44
         }
       ]
     },
@@ -800,7 +904,8 @@
         {
           "Line": 614,
           "OriginalText": "Aren\u0027t you...a bit chilly?",
-          "TranslatedText": "คงไม่ใช่คุณ...มันค่อนข้างเย็น?"
+          "TranslatedText": "คงไม่ใช่คุณ...มันค่อนข้างเย็น?",
+          "Length": 26
         }
       ]
     },
@@ -810,7 +915,8 @@
         {
           "Line": 621,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         }
       ]
     },
@@ -820,7 +926,8 @@
         {
           "Line": 625,
           "OriginalText": "Hya! Hya!",
-          "TranslatedText": "Hya! Hya!"
+          "TranslatedText": "Hya! Hya!",
+          "Length": 9
         }
       ]
     },
@@ -830,7 +937,8 @@
         {
           "Line": 629,
           "OriginalText": "Zzz...",
-          "TranslatedText": "Zzz..."
+          "TranslatedText": "Zzz...",
+          "Length": 6
         }
       ]
     },
@@ -840,7 +948,8 @@
         {
           "Line": 633,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -850,12 +959,14 @@
         {
           "Line": 642,
           "OriginalText": "After a day like this, I\u0027m exhausted.",
-          "TranslatedText": "หลังจากวันแบบนี้ ฉันหมดแรง."
+          "TranslatedText": "หลังจากวันแบบนี้ ฉันหมดแรง.",
+          "Length": 37
         },
         {
           "Line": 646,
           "OriginalText": "\n*ahem* I\u0027m afraid I\u0027ll be needing\nmy bed.",
-          "TranslatedText": "\n*อะแฮ่ม* ฉันกลัวว่าฉันจะต้องการเตียงของฉัน."
+          "TranslatedText": "\n*อะแฮ่ม* ฉันกลัวว่าฉันจะต้องการเตียงของฉัน.",
+          "Length": 42
         }
       ]
     },
@@ -865,7 +976,8 @@
         {
           "Line": 650,
           "OriginalText": "You can use my bed if you ever need to\nrest for a bit. Well, assuming I\u0027m not\nalready in it, of course!",
-          "TranslatedText": "คุณสามารถใช้เตียงของฉันได้\nถ้าคุณต้องการพักผ่อนสักหน่อย \nแน่นอน สมมติว่าฉันไม่ได้อยู่ในนั้น!"
+          "TranslatedText": "คุณสามารถใช้เตียงของฉันได้\nถ้าคุณต้องการพักผ่อนสักหน่อย \nแน่นอน สมมติว่าฉันไม่ได้อยู่ในนั้น!",
+          "Length": 103
         }
       ]
     },
@@ -875,7 +987,8 @@
         {
           "Line": 654,
           "OriginalText": "There\u0027s a fire outside if you\u0027re looking to\npass the time.",
-          "TranslatedText": "ข้างนอกมีไฟถ้าคุณต้องการผ่านช่วงเวลาไป."
+          "TranslatedText": "ข้างนอกมีไฟถ้าคุณต้องการผ่านช่วงเวลาไป.",
+          "Length": 58
         }
       ]
     },
@@ -885,12 +998,14 @@
         {
           "Line": 663,
           "OriginalText": "Bah! Can\u0027t you tell when an old man is\nsound asleep?",
-          "TranslatedText": "อ่อ! บอกไม่ได้ว่าคนแก่หลับไปตอนไหน?\n"
+          "TranslatedText": "อ่อ! บอกไม่ได้ว่าคนแก่หลับไปตอนไหน?\n",
+          "Length": 52
         },
         {
           "Line": 667,
           "OriginalText": " Let\u0027s talk in the morning.",
-          "TranslatedText": " ค่อยมาคุยกันตอนเช้า."
+          "TranslatedText": " ค่อยมาคุยกันตอนเช้า.",
+          "Length": 27
         }
       ]
     },
@@ -900,12 +1015,14 @@
         {
           "Line": 676,
           "OriginalText": "This body of mine isn\u0027t what it used\nto be.",
-          "TranslatedText": "ร่างกายของฉันนี้เหมือนที่เคยเป็น.\n"
+          "TranslatedText": "ร่างกายของฉันนี้เหมือนที่เคยเป็น.\n",
+          "Length": 43
         },
         {
           "Line": 680,
           "OriginalText": " Recovering from a bout of\nhard work takes a while...",
-          "TranslatedText": " การฟื้นตัวจากการทำงานหนัก\nต้องใช้เวลาสักพัก..."
+          "TranslatedText": " การฟื้นตัวจากการทำงานหนัก\nต้องใช้เวลาสักพัก...",
+          "Length": 53
         }
       ]
     },
@@ -915,7 +1032,8 @@
         {
           "Line": 689,
           "OriginalText": "If you\u0027re hungry, I have an empty pot\nyou can use to cook yourself a meal.",
-          "TranslatedText": "ถ้าคุณหิวฉันมีหม้อเปล่า\nที่คุณสามารถใช้ทำอาหารเองได้."
+          "TranslatedText": "ถ้าคุณหิวฉันมีหม้อเปล่า\nที่คุณสามารถใช้ทำอาหารเองได้.",
+          "Length": 74
         }
       ]
     },
@@ -925,7 +1043,8 @@
         {
           "Line": 747,
           "OriginalText": "If you\u0027re moved by any wild culinary\ninspirations, feel free to cook yourself\na meal using my pot over there.",
-          "TranslatedText": "หากคุณได้รับแรงบันดาลใจ\nจากการทำอาหารแบบป่า ๆ อย่าลังเล\nที่จะปรุงอาหารด้วยตัวเองโดยใช้หม้อของฉันที่นั่น."
+          "TranslatedText": "หากคุณได้รับแรงบันดาลใจ\nจากการทำอาหารแบบป่า ๆ อย่าลังเล\nที่จะปรุงอาหารด้วยตัวเองโดยใช้หม้อของฉันที่นั่น.",
+          "Length": 109
         }
       ]
     },
@@ -935,12 +1054,14 @@
         {
           "Line": 808,
           "OriginalText": "My cooking pot is at your disposal.",
-          "TranslatedText": "หม้อปรุงอาหารของฉัน\nอยู่ที่การกำจัดของคุณ."
+          "TranslatedText": "หม้อปรุงอาหารของฉัน\nอยู่ที่การกำจัดของคุณ.",
+          "Length": 35
         },
         {
           "Line": 812,
           "OriginalText": "\nFeel free to make yourself something\ntasty whenever you feel the need.",
-          "TranslatedText": "\nอย่าลังเลที่จะทำอะไรอร่อย ๆ \nให้ตัวเองได้ทุกเมื่อที่คุณต้องการ."
+          "TranslatedText": "\nอย่าลังเลที่จะทำอะไรอร่อย ๆ \nให้ตัวเองได้ทุกเมื่อที่คุณต้องการ.",
+          "Length": 71
         }
       ]
     },
@@ -954,7 +1075,8 @@
         {
           "Line": 821,
           "OriginalText": "Hm? What is it?",
-          "TranslatedText": "หืม? มันคืออะไร?"
+          "TranslatedText": "หืม? มันคืออะไร?",
+          "Length": 15
         }
       ]
     },
@@ -968,12 +1090,14 @@
         {
           "Line": 841,
           "OriginalText": "Oho! Fancy that!",
-          "TranslatedText": "โอโฮ! เหลือเชื่อ!"
+          "TranslatedText": "โอโฮ! เหลือเชื่อ!",
+          "Length": 16
         },
         {
           "Line": 845,
           "OriginalText": " So we meet again.",
-          "TranslatedText": " \nค่อยเจอกันใหม่นะ."
+          "TranslatedText": " \nค่อยเจอกันใหม่นะ.",
+          "Length": 18
         }
       ]
     },
@@ -987,12 +1111,14 @@
         {
           "Line": 862,
           "OriginalText": "So...are you making a statement?",
-          "TranslatedText": "คุณกำลังบอกว่า?"
+          "TranslatedText": "คุณกำลังบอกว่า?",
+          "Length": 32
         },
         {
           "Line": 866,
           "OriginalText": " Or are\nyou always in such a state of undress?",
-          "TranslatedText": " คุณ\nอยู่ในสภาพของการเปลื้องผ้าอยู่เสมอ?"
+          "TranslatedText": " คุณ\nอยู่ในสภาพของการเปลื้องผ้าอยู่เสมอ?",
+          "Length": 46
         }
       ]
     },
@@ -1006,7 +1132,8 @@
         {
           "Line": 883,
           "OriginalText": "Pardon me, please.",
-          "TranslatedText": "โปรดอภัยให้ฉัน."
+          "TranslatedText": "โปรดอภัยให้ฉัน.",
+          "Length": 18
         }
       ]
     },
@@ -1020,7 +1147,8 @@
         {
           "Line": 900,
           "OriginalText": "I worked quite hard today.",
-          "TranslatedText": "วันนี้ฉันทำงานหนักมาก."
+          "TranslatedText": "วันนี้ฉันทำงานหนักมาก.",
+          "Length": 26
         }
       ]
     },
@@ -1034,7 +1162,8 @@
         {
           "Line": 920,
           "OriginalText": "Thank you for your help with the tree.\nNow my work for the day is complete.",
-          "TranslatedText": "ขอบคุณสำหรับความ\nช่วยเหลือของคุณเกี่ยวกับต้นไม้.\nตอนนี้งานของฉันในวันนี้เสร็จสิ้นแล้ว."
+          "TranslatedText": "ขอบคุณสำหรับความ\nช่วยเหลือของคุณเกี่ยวกับต้นไม้.\nตอนนี้งานของฉันในวันนี้เสร็จสิ้นแล้ว.",
+          "Length": 75
         }
       ]
     },
@@ -1048,12 +1177,14 @@
         {
           "Line": 937,
           "OriginalText": "I don\u0027t mean to sound rude, but...",
-          "TranslatedText": "ันไม่ได้ตั้งใจจะให้ฟังดูหยาบคาย แต่..."
+          "TranslatedText": "ันไม่ได้ตั้งใจจะให้ฟังดูหยาบคาย แต่...",
+          "Length": 34
         },
         {
           "Line": 941,
           "OriginalText": "\nhow long do you intend to follow me?",
-          "TranslatedText": "\nคุณตั้งใจจะติดตามฉันนานแค่ไหน?"
+          "TranslatedText": "\nคุณตั้งใจจะติดตามฉันนานแค่ไหน?",
+          "Length": 37
         }
       ]
     },
@@ -1067,12 +1198,14 @@
         {
           "Line": 958,
           "OriginalText": "What is it?!",
-          "TranslatedText": "มันคืออะไร?!"
+          "TranslatedText": "มันคืออะไร?!",
+          "Length": 12
         },
         {
           "Line": 962,
           "OriginalText": " Just when I was finally able\nto fall asleep...",
-          "TranslatedText": " \nในที่สุดฉันก็สามารถหลับไปได้..."
+          "TranslatedText": " \nในที่สุดฉันก็สามารถหลับไปได้...",
+          "Length": 47
         }
       ]
     },
@@ -1086,12 +1219,14 @@
         {
           "Line": 979,
           "OriginalText": "Yes?",
-          "TranslatedText": "ใช่?"
+          "TranslatedText": "ใช่?",
+          "Length": 4
         },
         {
           "Line": 983,
           "OriginalText": " I\u0027m a bit busy right now, as I\u0027m\nsure you can see.",
-          "TranslatedText": " ตอนนี้ฉันยุ่งนิดหน่อย\nเพราะฉันแน่ใจว่าคุณจะเห็น."
+          "TranslatedText": " ตอนนี้ฉันยุ่งนิดหน่อย\nเพราะฉันแน่ใจว่าคุณจะเห็น.",
+          "Length": 51
         }
       ]
     },
@@ -1105,12 +1240,14 @@
         {
           "Line": 1003,
           "OriginalText": "Oho ho!",
-          "TranslatedText": "โอโฮโฮ!"
+          "TranslatedText": "โอโฮโฮ!",
+          "Length": 7
         },
         {
           "Line": 1007,
           "OriginalText": " There are few things as\ndelightful as a roaring fire!",
-          "TranslatedText": " มีบางสิ่ง\nที่น่ายินดีราวกับไฟโชติช่วง!"
+          "TranslatedText": " มีบางสิ่ง\nที่น่ายินดีราวกับไฟโชติช่วง!",
+          "Length": 54
         }
       ]
     },
@@ -1124,12 +1261,14 @@
         {
           "Line": 1024,
           "OriginalText": "All manner of beasts come out after\nthe sun sets.",
-          "TranslatedText": "สัตว์ร้ายทุกชนิดจะออกมา\nหลังจากดวงอาทิตย์ลับไป."
+          "TranslatedText": "สัตว์ร้ายทุกชนิดจะออกมา\nหลังจากดวงอาทิตย์ลับไป.",
+          "Length": 49
         },
         {
           "Line": 1028,
           "OriginalText": " You may rest here\nuntil daybreak if you\u0027d like.",
-          "TranslatedText": " คุณสามารถ\nพักผ่อนที่นี่ได้จนกว่าจะรุ่งสางหากต้องการ."
+          "TranslatedText": " คุณสามารถ\nพักผ่อนที่นี่ได้จนกว่าจะรุ่งสางหากต้องการ.",
+          "Length": 48
         }
       ]
     },
@@ -1143,7 +1282,8 @@
         {
           "Line": 1045,
           "OriginalText": "Still haven\u0027t gotten a treasure from\na shrine, eh?",
-          "TranslatedText": "ยังไม่ได้สมบัติจากศาลเจ้าใช่ไหม?"
+          "TranslatedText": "ยังไม่ได้สมบัติจากศาลเจ้าใช่ไหม?",
+          "Length": 50
         }
       ]
     },
@@ -1157,7 +1297,8 @@
         {
           "Line": 1062,
           "OriginalText": "How is your shrine exploration going?",
-          "TranslatedText": "การสำรวจศาลเจ้าของคุณเป็นอย่างไรบ้าง?"
+          "TranslatedText": "การสำรวจศาลเจ้าของคุณเป็นอย่างไรบ้าง?",
+          "Length": 37
         }
       ]
     },
@@ -1171,7 +1312,8 @@
         {
           "Line": 1079,
           "OriginalText": "Are you just going to stand by and watch\nan old man chop down a tree by himself?",
-          "TranslatedText": "คุณจะไปยืนดูชายชรา\nคนหนึ่งตัดต้นไม้ด้วยตัวเอง?"
+          "TranslatedText": "คุณจะไปยืนดูชายชรา\nคนหนึ่งตัดต้นไม้ด้วยตัวเอง?",
+          "Length": 80
         }
       ]
     },
@@ -1181,12 +1323,14 @@
         {
           "Line": 1096,
           "OriginalText": "Oh...it\u0027s you. ",
-          "TranslatedText": "โอ้ ... เป็นคุณนั่นเอง. "
+          "TranslatedText": "โอ้ ... เป็นคุณนั่นเอง. ",
+          "Length": 15
         },
         {
           "Line": 1100,
           "OriginalText": "Well, what was so important\nthat you had to separate an old man from\nhis sleep?",
-          "TranslatedText": "\nมีอะไรสำคัญมากที่คุณต้องปลุกชายชรา\nตื่นจากการนอนหลับของเขา?\n"
+          "TranslatedText": "\nมีอะไรสำคัญมากที่คุณต้องปลุกชายชรา\nตื่นจากการนอนหลับของเขา?\n",
+          "Length": 79
         }
       ]
     },
@@ -1196,7 +1340,8 @@
         {
           "Line": 1158,
           "OriginalText": "If you\u0027ll excuse me, I\u0027m quite tired.",
-          "TranslatedText": "ถ้าคุณจะแก้ตัวฉันค่อนข้างเหนื่อย."
+          "TranslatedText": "ถ้าคุณจะแก้ตัวฉันค่อนข้างเหนื่อย.",
+          "Length": 37
         }
       ]
     },
@@ -1206,7 +1351,8 @@
         {
           "Line": 1211,
           "OriginalText": "What is this?!",
-          "TranslatedText": "นี่คืออะไร?!"
+          "TranslatedText": "นี่คืออะไร?!",
+          "Length": 14
         }
       ]
     },
@@ -1216,7 +1362,8 @@
         {
           "Line": 1215,
           "OriginalText": "What is it?!",
-          "TranslatedText": "มันคืออะไร?!"
+          "TranslatedText": "มันคืออะไร?!",
+          "Length": 12
         }
       ]
     },
@@ -1226,7 +1373,8 @@
         {
           "Line": 1219,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -1236,7 +1384,8 @@
         {
           "Line": 1223,
           "OriginalText": "Huh?!",
-          "TranslatedText": "ฮะ?!"
+          "TranslatedText": "ฮะ?!",
+          "Length": 5
         }
       ]
     },
@@ -1246,7 +1395,8 @@
         {
           "Line": 1227,
           "OriginalText": "Toasty...",
-          "TranslatedText": "ขนมปังปิ้ง..."
+          "TranslatedText": "ขนมปังปิ้ง...",
+          "Length": 9
         }
       ]
     },
@@ -1256,7 +1406,8 @@
         {
           "Line": 1231,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -1266,7 +1417,8 @@
         {
           "Line": 1235,
           "OriginalText": "Whoa!",
-          "TranslatedText": "โว้ว!"
+          "TranslatedText": "โว้ว!",
+          "Length": 5
         }
       ]
     },
@@ -1276,7 +1428,8 @@
         {
           "Line": 1239,
           "OriginalText": "Easy there!",
-          "TranslatedText": "เย็นไว้!"
+          "TranslatedText": "เย็นไว้!",
+          "Length": 11
         }
       ]
     },
@@ -1286,12 +1439,14 @@
         {
           "Line": 1248,
           "OriginalText": "Oho! I see you did my work for me.\n",
-          "TranslatedText": "โอโฮ! ฉันเห็นคุณทำงานให้ฉัน.\n"
+          "TranslatedText": "โอโฮ! ฉันเห็นคุณทำงานให้ฉัน.\n",
+          "Length": 35
         },
         {
           "Line": 1252,
           "OriginalText": "Wonderful!",
-          "TranslatedText": "ยอดเยี่ยม!"
+          "TranslatedText": "ยอดเยี่ยม!",
+          "Length": 10
         }
       ]
     },
@@ -1301,7 +1456,8 @@
         {
           "Line": 1261,
           "OriginalText": "Go ahead and take some of that wood\nfor yourself. Don\u0027t be shy, now.",
-          "TranslatedText": "เอาไม้นั้นไปได้เลย \nไม่ต้องอายแล้วตอนนี้."
+          "TranslatedText": "เอาไม้นั้นไปได้เลย \nไม่ต้องอายแล้วตอนนี้.",
+          "Length": 68
         }
       ]
     }

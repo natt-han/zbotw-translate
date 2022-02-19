@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Yes! Lend it to me!",
-          "TranslatedText": "ใช่ ให้ฉันยืม!"
+          "TranslatedText": "ใช่ ให้ฉันยืม!",
+          "Length": 19
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Never mind...",
-          "TranslatedText": "ไม่เป็นไร..."
+          "TranslatedText": "ไม่เป็นไร...",
+          "Length": 13
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "I want it!",
-          "TranslatedText": "ฉันต้องการมัน!"
+          "TranslatedText": "ฉันต้องการมัน!",
+          "Length": 10
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "I don\u0027t need it.",
-          "TranslatedText": "ฉันไม่ต้องการมัน"
+          "TranslatedText": "ฉันไม่ต้องการมัน",
+          "Length": 16
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Riju...",
-          "TranslatedText": "Riju..."
+          "TranslatedText": "Riju...",
+          "Length": 7
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน."
+          "TranslatedText": "ลาก่อน.",
+          "Length": 9
         }
       ]
     },
@@ -68,7 +74,8 @@
         {
           "Line": 37,
           "OriginalText": "Hm hm hm...",
-          "TranslatedText": "Hm hm hm..."
+          "TranslatedText": "Hm hm hm...",
+          "Length": 11
         }
       ]
     },
@@ -79,23 +86,27 @@
         {
           "Line": 49,
           "OriginalText": "Halt! That is the treasure of the\nGerudo, the ",
-          "TranslatedText": "หยุด! นั่นคือสมบัติของ Gerudo "
+          "TranslatedText": "หยุด! นั่นคือสมบัติของ Gerudo ",
+          "Length": 46
         },
         {
           "Line": 53,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 56,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 63,
           "OriginalText": "\n\nYou may be held in high esteem, but this\ndoes not give you the freedom to lay\nyour hands on the pride of our people.",
-          "TranslatedText": "\nคุณอาจได้รับการยกย่องอย่างสูง \nแต่ไม่ได้หมายถึงคุณมีอิสระในจับต้อง\nความภาคภูมิใจของประชาชนของเรา"
+          "TranslatedText": "\nคุณอาจได้รับการยกย่องอย่างสูง \nแต่ไม่ได้หมายถึงคุณมีอิสระในจับต้อง\nความภาคภูมิใจของประชาชนของเรา",
+          "Length": 118
         }
       ]
     },
@@ -106,7 +117,8 @@
         {
           "Line": 72,
           "OriginalText": "Becalm yourself, Buliara.",
-          "TranslatedText": "จงเป็นตัวของตัวเอง Buliara."
+          "TranslatedText": "จงเป็นตัวของตัวเอง Buliara.",
+          "Length": 25
         }
       ]
     },
@@ -121,22 +133,26 @@
         {
           "Line": 84,
           "OriginalText": "I see... And yet, despite the great debt\nwe owe you,",
-          "TranslatedText": "I see... และแม้จะมีหนี้มากมายเราก็เป็นหนี้คุณ,\n"
+          "TranslatedText": "I see... และแม้จะมีหนี้มากมายเราก็เป็นหนี้คุณ,\n",
+          "Length": 52
         },
         {
           "Line": 88,
           "OriginalText": " I cannot just give such a\nprecious thing to you.\n",
-          "TranslatedText": " ฉันไม่สามารถให้สิ่งมีค่าเช่นนี้กับคุณได้\n"
+          "TranslatedText": " ฉันไม่สามารถให้สิ่งมีค่าเช่นนี้กับคุณได้\n",
+          "Length": 50
         },
         {
           "Line": 94,
           "OriginalText": "...But you ARE up against the enemy of\nLady Urbosa...\n\n",
-          "TranslatedText": "...แต่คุณกำลังต่อต้านศัตรูของ\nLady Urbosa...\n"
+          "TranslatedText": "...แต่คุณกำลังต่อต้านศัตรูของ\nLady Urbosa...\n",
+          "Length": 55
         },
         {
           "Line": 100,
           "OriginalText": "And if you truly desire it, then perhaps\nI can lend it to you...",
-          "TranslatedText": "และถ้าคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้..."
+          "TranslatedText": "และถ้าคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้...",
+          "Length": 64
         }
       ]
     },
@@ -147,7 +163,8 @@
         {
           "Line": 117,
           "OriginalText": "Well then, let\u0027s see how serious you are.\nThis helm is a cultural treasure. To earn\nit, you must gain the trust of our people.\nI want you to address their concerns and\nbring a resolute peace to our town.",
-          "TranslatedText": "ถ้าอย่างนั้นเรามาดูกันว่าคุณจริงจังแค่ไหน\nhelmนี้ เป็นสมบัติทางวัฒนธรรม คุณต้องได้รับ\nความไว้วางใจจากบุคลากรของเรา\nฉันต้องการให้คุณจัดการกับข้อกังวล\nของพวกเขา และนำสันติสุขมาสู่เมืองของเรา"
+          "TranslatedText": "ถ้าอย่างนั้นเรามาดูกันว่าคุณจริงจังแค่ไหน\nhelmนี้ เป็นสมบัติทางวัฒนธรรม คุณต้องได้รับ\nความไว้วางใจจากบุคลากรของเรา\nฉันต้องการให้คุณจัดการกับข้อกังวล\nของพวกเขา และนำสันติสุขมาสู่เมืองของเรา",
+          "Length": 203
         }
       ]
     },
@@ -158,18 +175,21 @@
         {
           "Line": 126,
           "OriginalText": "This ",
-          "TranslatedText": "This "
+          "TranslatedText": "This ",
+          "Length": 5
         },
         {
           "Line": 130,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 133,
           "OriginalText": "is our cultural\ntreasure...\n\nIf you want to lay hands on it, you must\nshow us you are serious and come back.",
-          "TranslatedText": "คือสมบัติทางวัฒนธรรมของเรา ...\nหากคุณต้องการจับต้อง ต้องแสดงให้เราเห็นว่า\nคุณจริงจังและกลับมา"
+          "TranslatedText": "คือสมบัติทางวัฒนธรรมของเรา ...\nหากคุณต้องการจับต้อง ต้องแสดงให้เราเห็นว่า\nคุณจริงจังและกลับมา",
+          "Length": 108
         }
       ]
     },
@@ -184,38 +204,45 @@
         {
           "Line": 142,
           "OriginalText": "When I wore the ",
-          "TranslatedText": "เมื่อฉันสวม "
+          "TranslatedText": "เมื่อฉันสวม ",
+          "Length": 16
         },
         {
           "Line": 146,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 149,
           "OriginalText": "and\nfought along your side, I thought I heard\na name called out on the wind.",
-          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยินชื่อ\nเรียกตามสายลมมา."
+          "TranslatedText": "และ\nต่อสู้เคียงข้างคุณ ฉันคิดว่าฉันได้ยินชื่อ\nเรียกตามสายลมมา.",
+          "Length": 76
         },
         {
           "Line": 153,
           "OriginalText": " Riju...",
-          "TranslatedText": " Riju..."
+          "TranslatedText": " Riju...",
+          "Length": 8
         },
         {
           "Line": 157,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 163,
           "OriginalText": "Heh... I hadn\u0027t been called by that name\nin a while. ",
-          "TranslatedText": "เฮ้ ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้มานานแล้ว. \n"
+          "TranslatedText": "เฮ้ ... ฉันไม่ได้ถูกเรียกด้วยชื่อนี้มานานแล้ว. \n",
+          "Length": 53
         },
         {
           "Line": 169,
           "OriginalText": "That strong, warm voice...\nIt must have belonged to Urbosa...",
-          "TranslatedText": "น้ำเสียงหนักแน่น อบอุ่น ...\nมันต้องเป็นของ Urbosa..."
+          "TranslatedText": "น้ำเสียงหนักแน่น อบอุ่น ...\nมันต้องเป็นของ Urbosa...",
+          "Length": 61
         }
       ]
     },
@@ -226,12 +253,14 @@
         {
           "Line": 186,
           "OriginalText": "I have heard of your recent actions.\nYou have returned smiles to the faces of\nmy people...\nOn behalf of all Gerudo, I must offer you\nmy heartfelt thanks.\n\nSarqso.",
-          "TranslatedText": "ฉันได้ยินการกระทำล่าสุดของคุณ\nคุณคืนรอยยิ้มให้กับคนของฉัน ...\nในนามของ Gerudo ทั้งหมด\nฉันต้องขอขอบคุณจากใจจริง.\nขอบคุณ."
+          "TranslatedText": "ฉันได้ยินการกระทำล่าสุดของคุณ\nคุณคืนรอยยิ้มให้กับคนของฉัน ...\nในนามของ Gerudo ทั้งหมด\nฉันต้องขอขอบคุณจากใจจริง.\nขอบคุณ.",
+          "Length": 162
         },
         {
           "Line": 190,
           "OriginalText": "\n\n\nYou are, from this moment on, a true\nfriend of the Gerudo!\n\nAnd if it can help a true friend in need,\nwe will gladly lend you this sacred\ntreasure.",
-          "TranslatedText": "\nนับ แต่นี้เป็นต้นไปเพื่อนแท้ของ Gerudo!\nและหากสามารถช่วยเพื่อนแท้ที่ต้องการ\nความช่วยเหลือได้ เรายินดีจะให้\nสมบัติอันศักดิ์สิทธิ์นี้แก่คุณ"
+          "TranslatedText": "\nนับ แต่นี้เป็นต้นไปเพื่อนแท้ของ Gerudo!\nและหากสามารถช่วยเพื่อนแท้ที่ต้องการ\nความช่วยเหลือได้ เรายินดีจะให้\nสมบัติอันศักดิ์สิทธิ์นี้แก่คุณ",
+          "Length": 150
         }
       ]
     },
@@ -242,28 +271,33 @@
         {
           "Line": 199,
           "OriginalText": "I know that you, more than any other,\nwill be able to use this ",
-          "TranslatedText": "ฉันรู้ว่าคุณมากกว่าคนอื่น ๆ \nจะสามารถใช้สิ่งนี้ได้ "
+          "TranslatedText": "ฉันรู้ว่าคุณมากกว่าคนอื่น ๆ \nจะสามารถใช้สิ่งนี้ได้ ",
+          "Length": 63
         },
         {
           "Line": 203,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 206,
           "OriginalText": "to\nits fullest potential...\nI believe you can unlock the power of\n",
-          "TranslatedText": "\nอย่างเต็มศักยภาพ ...\nฉันเชื่อว่าคุณสามารถปลดล็อกพลังของ\n"
+          "TranslatedText": "\nอย่างเต็มศักยภาพ ...\nฉันเชื่อว่าคุณสามารถปลดล็อกพลังของ\n",
+          "Length": 66
         },
         {
           "Line": 210,
           "OriginalText": "Urbosa",
-          "TranslatedText": "Urbosa"
+          "TranslatedText": "Urbosa",
+          "Length": 6
         },
         {
           "Line": 214,
           "OriginalText": " that lies within.",
-          "TranslatedText": " ที่อยู่ภายใน."
+          "TranslatedText": " ที่อยู่ภายใน.",
+          "Length": 18
         }
       ]
     },
@@ -274,7 +308,8 @@
         {
           "Line": 223,
           "OriginalText": "We already know that you are powerful.\nBut you can\u0027t solve all of my people\u0027s\nproblems with power alone.",
-          "TranslatedText": "เรารู้แล้วว่าคุณมีพลัง\nแต่คุณไม่สามารถแก้ปัญหาทั้งหมด\nของคนของฉัน ด้วยอำนาจเพียงอย่างเดียว"
+          "TranslatedText": "เรารู้แล้วว่าคุณมีพลัง\nแต่คุณไม่สามารถแก้ปัญหาทั้งหมด\nของคนของฉัน ด้วยอำนาจเพียงอย่างเดียว",
+          "Length": 104
         }
       ]
     },
@@ -285,7 +320,8 @@
         {
           "Line": 235,
           "OriginalText": "Then come no closer!",
-          "TranslatedText": "ถ้าอย่างนั้นก็อย่าเข้าใกล้!"
+          "TranslatedText": "ถ้าอย่างนั้นก็อย่าเข้าใกล้!",
+          "Length": 20
         }
       ]
     },
@@ -300,7 +336,8 @@
         {
           "Line": 247,
           "OriginalText": "You...desire this helm?",
-          "TranslatedText": "คุณ ... ปรารถนา helm?"
+          "TranslatedText": "คุณ ... ปรารถนา helm?",
+          "Length": 23
         }
       ]
     },
@@ -315,38 +352,45 @@
         {
           "Line": 264,
           "OriginalText": "You want this ",
-          "TranslatedText": "คุณต้องการสิ่งนี้ "
+          "TranslatedText": "คุณต้องการสิ่งนี้ ",
+          "Length": 14
         },
         {
           "Line": 268,
           "OriginalText": "Thunder Helm ",
           "TranslatedText": "Thunder Helm ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 271,
           "OriginalText": "that badly?\nI bet you do. This special helm still holds\nsome of Urbosa\u0027s power.\nBut no matter how much we may be\nindebted to you, I can\u0027t just give it away.\n\n",
-          "TranslatedText": "ไม่ดี?\nฉันเดิมพันที่คุณทำ helmพิเศษนี้\nยังคงมีพลังบางอย่างของUrbosa\nแต่ไม่ว่าเราจะเป็นหนี้คุณมากแค่ไหน\nฉันก็ไม่สามารถให้มันไปได้\n"
+          "TranslatedText": "ไม่ดี?\nฉันเดิมพันที่คุณทำ helmพิเศษนี้\nยังคงมีพลังบางอย่างของUrbosa\nแต่ไม่ว่าเราจะเป็นหนี้คุณมากแค่ไหน\nฉันก็ไม่สามารถให้มันไปได้\n",
+          "Length": 158
         },
         {
           "Line": 277,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 281,
           "OriginalText": "And yet,",
-          "TranslatedText": "และยัง,\n"
+          "TranslatedText": "และยัง,\n",
+          "Length": 8
         },
         {
           "Line": 285,
           "OriginalText": " you are setting off to carry\nthe fight to the enemy of Urbosa...\n\n",
-          "TranslatedText": " คุณกำลังออกเดินทางเพื่อต่อสู้กับศัตรูของ Urbosa...\n"
+          "TranslatedText": " คุณกำลังออกเดินทางเพื่อต่อสู้กับศัตรูของ Urbosa...\n",
+          "Length": 67
         },
         {
           "Line": 291,
           "OriginalText": "So if you truly desire it, then perhaps I\ncan lend it to you...",
-          "TranslatedText": "ดังนั้นหากคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้..."
+          "TranslatedText": "ดังนั้นหากคุณปรารถนาอย่างแท้จริง\nบางทีฉันอาจให้คุณยืมก็ได้...",
+          "Length": 63
         }
       ]
     },
@@ -357,18 +401,21 @@
         {
           "Line": 308,
           "OriginalText": "This ",
-          "TranslatedText": "Thunder Helm "
+          "TranslatedText": "Thunder Helm ",
+          "Length": 5
         },
         {
           "Line": 312,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "นี้",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 315,
           "OriginalText": " still holds some of\nUrbosa\u0027s power.\n\nIf you want to wield that power, then you\nmust address the concerns of my people\nand bring a resolute peace to our town.\nThen you will be acknowledged as a\nfriend of the Gerudo, and only then will I\nlend the helm to you.",
-          "TranslatedText": " ยังคงมีอำนาจบางส่วน\nของ Urbosa\n\nหากคุณต้องการใช้พลังนั้น\nคุณต้องจัดการกับความกังวลของคนของฉัน\nและนำความสงบสุขมาสู่เมืองของเรา\nจากนั้นคุณจะได้รับการยอมรับว่าเป็นเพื่อนของ\nGerudo และจากนั้นฉันจะยืมhelmให้คุณ"
+          "TranslatedText": " ยังคงมีอำนาจบางส่วน\nของ Urbosa\n\nหากคุณต้องการใช้พลังนั้น\nคุณต้องจัดการกับความกังวลของคนของฉัน\nและนำความสงบสุขมาสู่เมืองของเรา\nจากนั้นคุณจะได้รับการยอมรับว่าเป็นเพื่อนของ\nGerudo และจากนั้นฉันจะยืมhelmให้คุณ",
+          "Length": 258
         }
       ]
     },
@@ -379,7 +426,8 @@
         {
           "Line": 324,
           "OriginalText": "Such insolence! Even deeds as\nvalorous as yours do not earn you the\nright to speak so to the chief!",
-          "TranslatedText": "อวดดี! แม้แต่การกระทำ\nที่กล้าหาญของคุณ ก็ไม่ทำให้คุณมีสิทธิ์\nที่จะพูดกับหัวหน้าได้!"
+          "TranslatedText": "อวดดี! แม้แต่การกระทำ\nที่กล้าหาญของคุณ ก็ไม่ทำให้คุณมีสิทธิ์\nที่จะพูดกับหัวหน้าได้!",
+          "Length": 99
         }
       ]
     },
@@ -390,12 +438,14 @@
         {
           "Line": 336,
           "OriginalText": "Hm hm hm...",
-          "TranslatedText": "Hm hm hm..."
+          "TranslatedText": "Hm hm hm...",
+          "Length": 11
         },
         {
           "Line": 340,
           "OriginalText": "\n\n\nLet it go, Buliara.\n\n\nBeing called by my name every once in a \nwhile isn\u0027t so bad.",
-          "TranslatedText": "\n\n\nช่างเถอะ Buliara\n\n\nการถูกเรียกด้วยชื่อบ้างนานๆ ครั้ง ก็ไม่เลวนะ"
+          "TranslatedText": "\n\n\nช่างเถอะ Buliara\n\n\nการถูกเรียกด้วยชื่อบ้างนานๆ ครั้ง ก็ไม่เลวนะ",
+          "Length": 85
         }
       ]
     },
@@ -406,7 +456,8 @@
         {
           "Line": 349,
           "OriginalText": "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace.",
-          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเรา"
+          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเรา",
+          "Length": 71
         }
       ]
     },
@@ -417,18 +468,21 @@
         {
           "Line": 358,
           "OriginalText": "Within those ",
-          "TranslatedText": "ภายใน "
+          "TranslatedText": "ภายใน ",
+          "Length": 13
         },
         {
           "Line": 362,
           "OriginalText": "treasure chests ",
           "TranslatedText": "หีบสมบัตินั้น ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 365,
           "OriginalText": "are\nprecious armaments once used by\nLady Urbosa herself.",
-          "TranslatedText": "\nเป็นอาวุธยุทโธปกรณ์ล้ำค่าที่ Lady Urbosa เคยใช้"
+          "TranslatedText": "\nเป็นอาวุธยุทโธปกรณ์ล้ำค่าที่ Lady Urbosa เคยใช้",
+          "Length": 56
         }
       ]
     },
@@ -439,18 +493,21 @@
         {
           "Line": 374,
           "OriginalText": "They may pale in comparison to the\n",
-          "TranslatedText": "พวกมันอาจเทียบกับ "
+          "TranslatedText": "พวกมันอาจเทียบกับ ",
+          "Length": 35
         },
         {
           "Line": 378,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 381,
           "OriginalText": ", but they are very\nvaluable and not easy to come by.\nSince you were a friend to Lady Urbosa,\nit would be best for you to have them.\n\nDo not hesitate—take them in\nyour hands.",
-          "TranslatedText": " ไม่ได้\nแต่มันมีค่ามากและไม่ใช่เรื่องง่ายที่จะได้มา\nเนื่องจากคุณเป็นเพื่อนกับ Lady Urbosa \nจึงเป็นการดีที่สุดสำหรับคุณที่จะมีมัน\n\nอย่าลังเลที่จะจับมันไว้ในมือคุณ"
+          "TranslatedText": " ไม่ได้\nแต่มันมีค่ามากและไม่ใช่เรื่องง่ายที่จะได้มา\nเนื่องจากคุณเป็นเพื่อนกับ Lady Urbosa \nจึงเป็นการดีที่สุดสำหรับคุณที่จะมีมัน\n\nอย่าลังเลที่จะจับมันไว้ในมือคุณ",
+          "Length": 174
         }
       ]
     },
@@ -461,18 +518,21 @@
         {
           "Line": 390,
           "OriginalText": "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace and the\n",
-          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเราและ\n"
+          "TranslatedText": "Lady Urbosa ยิ้มให้เราอีกครั้ง\nฉันต้องปกป้องความสงบที่เปราะบางของเราและ\n",
+          "Length": 79
         },
         {
           "Line": 394,
           "OriginalText": "Thunder Helm",
           "TranslatedText": "Thunder Helm",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 397,
           "OriginalText": " that rests here.",
-          "TranslatedText": " ที่อยู่ที่นี่"
+          "TranslatedText": " ที่อยู่ที่นี่",
+          "Length": 17
         }
       ]
     }

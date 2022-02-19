@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "I\u0027ve things for sale.",
-          "TranslatedText": "ฉันมีของมาขาย"
+          "TranslatedText": "ฉันมีของมาขาย",
+          "Length": 21
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Deal!",
-          "TranslatedText": "ตกลง!"
+          "TranslatedText": "ตกลง!",
+          "Length": 5
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Yes.",
-          "TranslatedText": "ได้"
+          "TranslatedText": "ได้",
+          "Length": 4
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "No.",
-          "TranslatedText": "ไม่"
+          "TranslatedText": "ไม่",
+          "Length": 3
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "I\u0027ll buy.",
-          "TranslatedText": "ฉันจะซื้อ"
+          "TranslatedText": "ฉันจะซื้อ",
+          "Length": 9
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 40,
           "OriginalText": "I\u0027ll take \u0027em all!",
-          "TranslatedText": "เหมาหมดเลย!"
+          "TranslatedText": "เหมาหมดเลย!",
+          "Length": 18
         }
       ]
     },
@@ -97,7 +106,8 @@
         {
           "Line": 44,
           "OriginalText": "All of them.",
-          "TranslatedText": "ทั้งหมดเลย"
+          "TranslatedText": "ทั้งหมดเลย",
+          "Length": 12
         }
       ]
     },
@@ -107,7 +117,8 @@
         {
           "Line": 53,
           "OriginalText": "Just show me what you have for now.",
-          "TranslatedText": "ให้ฉันดูสิว่ามีอะไร"
+          "TranslatedText": "ให้ฉันดูสิว่ามีอะไร",
+          "Length": 35
         }
       ]
     },
@@ -121,19 +132,22 @@
         {
           "Line": 57,
           "OriginalText": "For that... If ",
-          "TranslatedText": "สำหรับพวกนั้น... ถ้า "
+          "TranslatedText": "สำหรับพวกนั้น... ถ้า ",
+          "Length": 15
         },
         {
           "Line": 65,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 68,
           "OriginalText": " is OK\nwith you, I\u0027ll buy it.",
-          "TranslatedText": "โอเค\nฉันจะซื้อ"
+          "TranslatedText": "โอเค\nฉันจะซื้อ",
+          "Length": 29
         }
       ]
     },
@@ -143,7 +157,8 @@
         {
           "Line": 85,
           "OriginalText": "Sarqso.",
-          "TranslatedText": "Sarqso"
+          "TranslatedText": "Sarqso",
+          "Length": 7
         }
       ]
     },
@@ -153,7 +168,8 @@
         {
           "Line": 94,
           "OriginalText": "Nice wares! Sarqso!",
-          "TranslatedText": "ของดีนี่! Sarqso!"
+          "TranslatedText": "ของดีนี่! Sarqso!",
+          "Length": 19
         }
       ]
     },
@@ -163,7 +179,8 @@
         {
           "Line": 103,
           "OriginalText": "Heh heh. Sarqso!",
-          "TranslatedText": "หึๆ Sarqso!"
+          "TranslatedText": "หึๆ Sarqso!",
+          "Length": 16
         }
       ]
     },
@@ -173,7 +190,8 @@
         {
           "Line": 112,
           "OriginalText": "Sarqso. I\u0027m pleased with what I\u0027ve\nbought from you...",
-          "TranslatedText": "Sarqso ยินดีที่ได้ค้าขายด้วย..."
+          "TranslatedText": "Sarqso ยินดีที่ได้ค้าขายด้วย...",
+          "Length": 53
         }
       ]
     },
@@ -183,7 +201,8 @@
         {
           "Line": 121,
           "OriginalText": "What? Come on, hurry up...",
-          "TranslatedText": "อะไร? เอาน่า เร็วเข้า..."
+          "TranslatedText": "อะไร? เอาน่า เร็วเข้า...",
+          "Length": 26
         }
       ]
     },
@@ -193,7 +212,8 @@
         {
           "Line": 130,
           "OriginalText": "And...did you have anything else you\nwanted me to buy?",
-          "TranslatedText": "แล้ว... มีอะไรอยากให้ฉันซื้ออีกไหม?"
+          "TranslatedText": "แล้ว... มีอะไรอยากให้ฉันซื้ออีกไหม?",
+          "Length": 54
         }
       ]
     },
@@ -203,7 +223,8 @@
         {
           "Line": 134,
           "OriginalText": "Nothing more?",
-          "TranslatedText": "แค่นี้เหรอ?"
+          "TranslatedText": "แค่นี้เหรอ?",
+          "Length": 13
         }
       ]
     },
@@ -213,7 +234,8 @@
         {
           "Line": 138,
           "OriginalText": "Now\u0027s the time. Sell me a whole bunch\nof things!",
-          "TranslatedText": "ตอนนี้แหละ ขายให้ฉันเยอะๆ เลย"
+          "TranslatedText": "ตอนนี้แหละ ขายให้ฉันเยอะๆ เลย",
+          "Length": 48
         }
       ]
     },
@@ -223,7 +245,8 @@
         {
           "Line": 142,
           "OriginalText": "I\u0027ll buy anything I can from you!",
-          "TranslatedText": "ฉันจะซื้อทุกอย่างที่ซื้อได้"
+          "TranslatedText": "ฉันจะซื้อทุกอย่างที่ซื้อได้",
+          "Length": 33
         }
       ]
     },
@@ -239,7 +262,8 @@
         {
           "Line": 146,
           "OriginalText": "That? OK, how many do you want\nto sell?",
-          "TranslatedText": "นั่นเหรอ? อยากขายกี่ชิ้นล่ะ?"
+          "TranslatedText": "นั่นเหรอ? อยากขายกี่ชิ้นล่ะ?",
+          "Length": 39
         }
       ]
     },
@@ -254,30 +278,35 @@
         {
           "Line": 159,
           "OriginalText": "So ",
-          "TranslatedText": null
+          "TranslatedText": null,
+          "Length": 3
         },
         {
           "Line": 164,
           "OriginalText": " of them?",
           "TranslatedText": " ชิ้นงั้นเหรอ?",
-          "Variable": "Shop_TradeItemNum"
+          "Variable": "Shop_TradeItemNum",
+          "Length": 9
         },
         {
           "Line": 168,
           "OriginalText": "\nHow about ",
-          "TranslatedText": "\nสัก "
+          "TranslatedText": "\nสัก ",
+          "Length": 11
         },
         {
           "Line": 176,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 179,
           "OriginalText": "?",
-          "TranslatedText": "เป็นไง?"
+          "TranslatedText": "เป็นไง?",
+          "Length": 1
         }
       ]
     },
@@ -288,7 +317,8 @@
         {
           "Line": 196,
           "OriginalText": "I...can\u0027t take that from you.",
-          "TranslatedText": "ฉัน... รับนั่นไม่ได้"
+          "TranslatedText": "ฉัน... รับนั่นไม่ได้",
+          "Length": 29
         }
       ]
     },
@@ -299,7 +329,8 @@
         {
           "Line": 205,
           "OriginalText": "I\u0027m not interested in what you\u0027re\nwearing.",
-          "TranslatedText": "ฉันไม่สนของที่คุณใส่อยู่หรอกนะ"
+          "TranslatedText": "ฉันไม่สนของที่คุณใส่อยู่หรอกนะ",
+          "Length": 42
         }
       ]
     },
@@ -314,19 +345,22 @@
         {
           "Line": 209,
           "OriginalText": "One will get you ",
-          "TranslatedText": "หนึ่งชิ้นก็จะได้"
+          "TranslatedText": "หนึ่งชิ้นก็จะได้",
+          "Length": 17
         },
         {
           "Line": 217,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 220,
           "OriginalText": ".\nWanna sell it?",
-          "TranslatedText": "\nจะขายไหม?"
+          "TranslatedText": "\nจะขายไหม?",
+          "Length": 16
         }
       ]
     },
@@ -341,25 +375,29 @@
         {
           "Line": 232,
           "OriginalText": "All ",
-          "TranslatedText": "หมดทั้ง"
+          "TranslatedText": "หมดทั้ง",
+          "Length": 4
         },
         {
           "Line": 237,
           "OriginalText": " of yours? In that case, does \n",
           "TranslatedText": " ชิ้นเลยเหรอ? ถ้าอย่างนั้น\nสัก ",
-          "Variable": "Shop_TradeItemNum"
+          "Variable": "Shop_TradeItemNum",
+          "Length": 31
         },
         {
           "Line": 245,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "ShopTradePrice"
+          "Variable": "ShopTradePrice",
+          "Length": 7
         },
         {
           "Line": 248,
           "OriginalText": " sound good?",
-          "TranslatedText": "โอเคไหม?"
+          "TranslatedText": "โอเคไหม?",
+          "Length": 12
         }
       ]
     },
@@ -373,24 +411,28 @@
         {
           "Line": 265,
           "OriginalText": "One is ",
-          "TranslatedText": "หนึ่งชิ้น "
+          "TranslatedText": "หนึ่งชิ้น ",
+          "Length": 7
         },
         {
           "Line": 273,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "PlacedItemPrice"
+          "Variable": "PlacedItemPrice",
+          "Length": 7
         },
         {
           "Line": 276,
           "OriginalText": ".",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 280,
           "OriginalText": " What do you think?\nPretty good price?",
-          "TranslatedText": "\nคิดว่าไง? ราคาดีใช่ไหม?"
+          "TranslatedText": "\nคิดว่าไง? ราคาดีใช่ไหม?",
+          "Length": 38
         }
       ]
     },
@@ -400,7 +442,8 @@
         {
           "Line": 297,
           "OriginalText": "Oh, did you change your mind?\nThat\u0027s too bad.",
-          "TranslatedText": "เปลี่ยนใจงั้นเหรอ? แย่จังนะ"
+          "TranslatedText": "เปลี่ยนใจงั้นเหรอ? แย่จังนะ",
+          "Length": 45
         }
       ]
     },
@@ -411,7 +454,8 @@
         {
           "Line": 301,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": "Vasaaq!"
+          "TranslatedText": "Vasaaq!",
+          "Length": 7
         }
       ]
     },
@@ -422,7 +466,8 @@
         {
           "Line": 305,
           "OriginalText": "Mysterious mushrooms!",
-          "TranslatedText": "เห็ดปริศนา!"
+          "TranslatedText": "เห็ดปริศนา!",
+          "Length": 21
         }
       ]
     },
@@ -437,12 +482,14 @@
         {
           "Line": 314,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": "Sav\u0027aaq!"
+          "TranslatedText": "Sav\u0027aaq!",
+          "Length": 8
         },
         {
           "Line": 318,
           "OriginalText": "\nIt\u0027s another hot one today, huh?",
-          "TranslatedText": "\nวันนี้ก็อากาศร้อนนะ ว่าไหม?"
+          "TranslatedText": "\nวันนี้ก็อากาศร้อนนะ ว่าไหม?",
+          "Length": 33
         }
       ]
     },
@@ -453,7 +500,8 @@
         {
           "Line": 335,
           "OriginalText": "If you\u0027ve got some money, take a look at\nmy mushrooms.",
-          "TranslatedText": "ถ้ามีเงินละก็ ลองดูเห็ดของฉันสิ"
+          "TranslatedText": "ถ้ามีเงินละก็ ลองดูเห็ดของฉันสิ",
+          "Length": 54
         }
       ]
     },
@@ -464,12 +512,14 @@
         {
           "Line": 344,
           "OriginalText": "Just between us...",
-          "TranslatedText": "อย่าไปบอกใครนะ..."
+          "TranslatedText": "อย่าไปบอกใครนะ...",
+          "Length": 18
         },
         {
           "Line": 348,
           "OriginalText": " The Gerudo keep their\nskin so beautiful thanks to the\nmushrooms that grow here.\nIt would really be a waste if you left\nGerudo Town without taking some of\nthese mushrooms with you!",
-          "TranslatedText": " ชาว Gerudo มีผิว\nที่สวยขนาดนี้ได้ก็เป็นเพราะเห็ดที่ฉัน\nปลูกที่นี่เนี่ยแหละ\nถ้าคุณไม่ซื้อมันไปด้วยละก็ \nถือว่ามา Gerudo เสียเที่ยวเลยนะ!"
+          "TranslatedText": " ชาว Gerudo มีผิว\nที่สวยขนาดนี้ได้ก็เป็นเพราะเห็ดที่ฉัน\nปลูกที่นี่เนี่ยแหละ\nถ้าคุณไม่ซื้อมันไปด้วยละก็ \nถือว่ามา Gerudo เสียเที่ยวเลยนะ!",
+          "Length": 180
         }
       ]
     },
@@ -484,12 +534,14 @@
         {
           "Line": 357,
           "OriginalText": "The Divine Beast has quieted down now,\nso maybe this town will return to its old,\nlively self...",
-          "TranslatedText": "อสูรศักดิ์สิทธิ์สงบลงแล้ว\nบางทีเมืองนี้อาจจะกลับไปครึกครื้นเหมือนเดิม...\n"
+          "TranslatedText": "อสูรศักดิ์สิทธิ์สงบลงแล้ว\nบางทีเมืองนี้อาจจะกลับไปครึกครื้นเหมือนเดิม...\n",
+          "Length": 96
         },
         {
           "Line": 361,
           "OriginalText": " I\u0027d better be ready.",
-          "TranslatedText": "ฉันควรจะเตรียมตัวให้พร้อม"
+          "TranslatedText": "ฉันควรจะเตรียมตัวให้พร้อม",
+          "Length": 21
         }
       ]
     },
@@ -500,7 +552,8 @@
         {
           "Line": 378,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         }
       ]
     },
@@ -511,7 +564,8 @@
         {
           "Line": 390,
           "OriginalText": "Sarqso!",
-          "TranslatedText": "Sarqso!"
+          "TranslatedText": "Sarqso!",
+          "Length": 7
         }
       ]
     },
@@ -522,7 +576,8 @@
         {
           "Line": 399,
           "OriginalText": "For such a skinny little one, you\u0027ve got\nquite an appetite.\n\nGood news! Mushrooms are really\nhealthy, so you can eat a bunch,\nno problem!",
-          "TranslatedText": "คนผอมบางอย่างคุณ\nแต่กลับกินเก่งจังนะ\n\nข่าวดี! เห็ดน่ะดีต่อสุขภาพ เพราะงั้น\nอยากกินแค่ไหนก็เอาเลย\nไม่มีปัญหา!"
+          "TranslatedText": "คนผอมบางอย่างคุณ\nแต่กลับกินเก่งจังนะ\n\nข่าวดี! เห็ดน่ะดีต่อสุขภาพ เพราะงั้น\nอยากกินแค่ไหนก็เอาเลย\nไม่มีปัญหา!",
+          "Length": 137
         }
       ]
     },
@@ -537,7 +592,8 @@
         {
           "Line": 408,
           "OriginalText": "Did you need something else?",
-          "TranslatedText": "ต้องการอะไรอีกไหม?"
+          "TranslatedText": "ต้องการอะไรอีกไหม?",
+          "Length": 28
         }
       ]
     },
@@ -552,12 +608,14 @@
         {
           "Line": 425,
           "OriginalText": "Sav\u0027otta!",
-          "TranslatedText": "Sav\u0027otta!"
+          "TranslatedText": "Sav\u0027otta!",
+          "Length": 9
         },
         {
           "Line": 429,
           "OriginalText": "\nYou\u0027ve got a lot of energy. More of a\nmorning person, huh?",
-          "TranslatedText": "\nคุณมีพลังเยอะจังนะ เป็นพวกชอบ\nตื่นเช้าสินะ?"
+          "TranslatedText": "\nคุณมีพลังเยอะจังนะ เป็นพวกชอบ\nตื่นเช้าสินะ?",
+          "Length": 59
         }
       ]
     },
@@ -572,17 +630,20 @@
         {
           "Line": 446,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         },
         {
           "Line": 450,
           "OriginalText": "\nNow that it\u0027s the evening, it\u0027s gotten\nmuch cooler, hasn\u0027t it?\nYou know, mushrooms enjoy the cool\nweather. You might find some around...",
-          "TranslatedText": "\nพอตกเย็นแล้วอากาศเย็นลงเยอะใช่ไหม?\nรู้ไหมว่าพวกเห็ดขอบอากาศเย็น\nคุณอาจเจอพวกมันแถวนี้..."
+          "TranslatedText": "\nพอตกเย็นแล้วอากาศเย็นลงเยอะใช่ไหม?\nรู้ไหมว่าพวกเห็ดขอบอากาศเย็น\nคุณอาจเจอพวกมันแถวนี้...",
+          "Length": 137
         },
         {
           "Line": 454,
           "OriginalText": "\nTake the time to look.",
-          "TranslatedText": "\nลองหาดูสิ"
+          "TranslatedText": "\nลองหาดูสิ",
+          "Length": 23
         }
       ]
     },
@@ -597,22 +658,26 @@
         {
           "Line": 471,
           "OriginalText": "Step right up and sample my wares: rare,\nmysterious mushrooms, only visible to\nthe eyes of the most beautiful!",
-          "TranslatedText": "เชิญเข้ามาดูสินค้าของฉันกํนก่อน\nเห็ดปริศนาหายาก ที่จะมองเห็นได้เพียง\nผู้ที่สวยที่สุดเท่านั้น!"
+          "TranslatedText": "เชิญเข้ามาดูสินค้าของฉันกํนก่อน\nเห็ดปริศนาหายาก ที่จะมองเห็นได้เพียง\nผู้ที่สวยที่สุดเท่านั้น!",
+          "Length": 110
         },
         {
           "Line": 475,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 481,
           "OriginalText": "Oh—it\u0027s just you.",
-          "TranslatedText": "อ้อ—คุณน่ะเอง"
+          "TranslatedText": "อ้อ—คุณน่ะเอง",
+          "Length": 17
         },
         {
           "Line": 485,
           "OriginalText": "\nAfter you bought all my mushrooms,\nI had nothing left to restock my stall...\nBut now, I think people will fall for this.",
-          "TranslatedText": "\nหลังจากที่คุณเหมาเห็ดฉันไปหมด\nฉันก็ไม่มีอะไรจะมาขาย...\nแต่ตอนนี้ ฉันคิดว่าคนจะต้องเชื่อเรื่องนี้"
+          "TranslatedText": "\nหลังจากที่คุณเหมาเห็ดฉันไปหมด\nฉันก็ไม่มีอะไรจะมาขาย...\nแต่ตอนนี้ ฉันคิดว่าคนจะต้องเชื่อเรื่องนี้",
+          "Length": 121
         }
       ]
     },
@@ -623,28 +688,33 @@
         {
           "Line": 502,
           "OriginalText": "Just between us...",
-          "TranslatedText": "อย่าไปบอกใครนะ..."
+          "TranslatedText": "อย่าไปบอกใครนะ...",
+          "Length": 18
         },
         {
           "Line": 506,
           "OriginalText": " Mushrooms are\nactually the largest living things in the\nentire world.\n",
-          "TranslatedText": " ที่จริงแล้วเห็ดน่ะ\nเป็นสิ่งมีชีวิตที่มีขนาดใหญ่ที่สุดในโลก\n"
+          "TranslatedText": " ที่จริงแล้วเห็ดน่ะ\nเป็นสิ่งมีชีวิตที่มีขนาดใหญ่ที่สุดในโลก\n",
+          "Length": 71
         },
         {
           "Line": 512,
           "OriginalText": "There\u0027s actually a ton of really\ninteresting info about mushrooms.",
-          "TranslatedText": "มีข้อมูลน่าสนใจอีกเยอะมาก\nเกี่ยวกับเห็ด"
+          "TranslatedText": "มีข้อมูลน่าสนใจอีกเยอะมาก\nเกี่ยวกับเห็ด",
+          "Length": 66
         },
         {
           "Line": 516,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 523,
           "OriginalText": "A lot of it I don\u0027t even understand, though...",
           "TranslatedText": "ที่ส่วนมากฉันเองก็ยังไม่เข้าใจด้วยซ้ำ...",
-          "Colour": "grey"
+          "Colour": "grey",
+          "Length": 46
         }
       ]
     },
@@ -655,7 +725,8 @@
         {
           "Line": 537,
           "OriginalText": "I\u0027ll make sure to restock my mushrooms.\nWhen you have some money to spend,\nplease come back by here.",
-          "TranslatedText": "ไว้ฉันจะหาเห็ดมาเติมนะ\nถ้าคุณมีเงินอยากใช้จ่าย\nก็แวะมาได้ทุกเมื่อ"
+          "TranslatedText": "ไว้ฉันจะหาเห็ดมาเติมนะ\nถ้าคุณมีเงินอยากใช้จ่าย\nก็แวะมาได้ทุกเมื่อ",
+          "Length": 100
         }
       ]
     },
@@ -666,7 +737,8 @@
         {
           "Line": 546,
           "OriginalText": "Sarqso!\nEat hearty and grow big!",
-          "TranslatedText": "Sarqso!\nกินเยอะๆ โตไวๆ!"
+          "TranslatedText": "Sarqso!\nกินเยอะๆ โตไวๆ!",
+          "Length": 32
         }
       ]
     },
@@ -677,17 +749,20 @@
         {
           "Line": 555,
           "OriginalText": "Sarqso!\nIf you want to cook, the kitchen is\navailable for any vai to use.\n",
-          "TranslatedText": "Sarqso!\nถ้าอยากทำอาหารละก็\nห้องครัวเปิดให้ทุก vai ใช้ได้นะ\n"
+          "TranslatedText": "Sarqso!\nถ้าอยากทำอาหารละก็\nห้องครัวเปิดให้ทุก vai ใช้ได้นะ\n",
+          "Length": 74
         },
         {
           "Line": 561,
           "OriginalText": "\u0022Any vai,\u0022 haha! ",
-          "TranslatedText": "\u0022ทุก vai\u0022 ฮ่าๆ! "
+          "TranslatedText": "\u0022ทุก vai\u0022 ฮ่าๆ! ",
+          "Length": 17
         },
         {
           "Line": 565,
           "OriginalText": "We\u0027re all vai here!",
-          "TranslatedText": "พวกเราเป็น vai กันหมดนะ!"
+          "TranslatedText": "พวกเราเป็น vai กันหมดนะ!",
+          "Length": 19
         }
       ]
     },
@@ -698,7 +773,8 @@
         {
           "Line": 574,
           "OriginalText": "Sav\u0027aaq!",
-          "TranslatedText": "Sav\u0027aaq!"
+          "TranslatedText": "Sav\u0027aaq!",
+          "Length": 8
         }
       ]
     },
@@ -709,7 +785,8 @@
         {
           "Line": 586,
           "OriginalText": "Sav\u0027saaba!",
-          "TranslatedText": "Sav\u0027saaba!"
+          "TranslatedText": "Sav\u0027saaba!",
+          "Length": 10
         }
       ]
     },
@@ -720,7 +797,8 @@
         {
           "Line": 598,
           "OriginalText": "Vasaaq!",
-          "TranslatedText": "Vasaaq!"
+          "TranslatedText": "Vasaaq!",
+          "Length": 7
         }
       ]
     }

@@ -7,12 +7,14 @@
         {
           "Line": 13,
           "OriginalText": "What a tranquil landscape.",
-          "TranslatedText": "ช่างเป็นทิวทัศน์ที่สงบเหลือเกิน"
+          "TranslatedText": "ช่างเป็นทิวทัศน์ที่สงบเหลือเกิน",
+          "Length": 26
         },
         {
           "Line": 17,
           "OriginalText": " It\u0027s nice to\nrelax and paint in a place like this every\nnow and then.",
-          "TranslatedText": " ได้มาผ่อนคลาย\nและวาดรูปในที่แบบนี้บ้างก็ดีนะ"
+          "TranslatedText": " ได้มาผ่อนคลาย\nและวาดรูปในที่แบบนี้บ้างก็ดีนะ",
+          "Length": 70
         }
       ]
     },
@@ -22,45 +24,53 @@
         {
           "Line": 26,
           "OriginalText": "Ah... Here you can see ",
-          "TranslatedText": "อา... ตรงนี้จะมองเห็น "
+          "TranslatedText": "อา... ตรงนี้จะมองเห็น ",
+          "Length": 23
         },
         {
           "Line": 30,
           "OriginalText": "Hyrule Castle",
           "TranslatedText": "Hyrule Castle",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 33,
           "OriginalText": " in\nthe distance. So this must be ",
-          "TranslatedText": " \nจากระยะไกล ดังนั้นต้องเป็น "
+          "TranslatedText": " \nจากระยะไกล ดังนั้นต้องเป็น ",
+          "Length": 34
         },
         {
           "Line": 37,
           "OriginalText": "north of\nthe castle",
           "TranslatedText": "ทางเหนือของ\nปราสาทแน่",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 19
         },
         {
           "Line": 40,
           "OriginalText": ".\nThe south side of the castle is where\nCastle Town used to be, but I don\u0027t\nsee any buildings here, which means...\n",
-          "TranslatedText": "\nทางใต้ของประสาทนั้นเคยมี\nCastle Town อยู่ แต่ไม่เห็นมีอาคารอะไร \nในภาพนี้เลย แปลว่า...\n"
+          "TranslatedText": "\nทางใต้ของประสาทนั้นเคยมี\nCastle Town อยู่ แต่ไม่เห็นมีอาคารอะไร \nในภาพนี้เลย แปลว่า...\n",
+          "Length": 115
         },
         {
           "Line": 46,
           "OriginalText": "Yes, indeed, I\u0027d say this is likely on the\nnorth side, across the castle moat.\nIt should be ",
-          "TranslatedText": "ใช่แล้ว ฉันคิดว่านี่น่าจะเป็นทางเหนือ\nข้ามคูเมืองของปราสาทไป\nมันน่าจะอยู่ทาง "
+          "TranslatedText": "ใช่แล้ว ฉันคิดว่านี่น่าจะเป็นทางเหนือ\nข้ามคูเมืองของปราสาทไป\nมันน่าจะอยู่ทาง ",
+          "Length": 92
         },
         {
           "Line": 50,
           "OriginalText": "southeast",
           "TranslatedText": "ตะวันออกเฉียงใต้",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 53,
           "OriginalText": " of this stable.",
-          "TranslatedText": " ของที่พักม้านี้"
+          "TranslatedText": " ของที่พักม้านี้",
+          "Length": 16
         }
       ]
     },
@@ -70,12 +80,14 @@
         {
           "Line": 62,
           "OriginalText": "However...",
-          "TranslatedText": "แต่ว่า..."
+          "TranslatedText": "แต่ว่า...",
+          "Length": 10
         },
         {
           "Line": 66,
           "OriginalText": " The area around the castle is\nextremely dangerous. If you find yourself\nin trouble, please promise to run. FAST.",
-          "TranslatedText": " บริเวณรอบปราสาทนั้น\nอันตรายอย่างมาก ถ้าเกิดว่าคุณ\nตกที่นั่งลำบากละก็ สัญญานะว่าจะวิ่งหนีให้เร็ว"
+          "TranslatedText": " บริเวณรอบปราสาทนั้น\nอันตรายอย่างมาก ถ้าเกิดว่าคุณ\nตกที่นั่งลำบากละก็ สัญญานะว่าจะวิ่งหนีให้เร็ว",
+          "Length": 113
         }
       ]
     }

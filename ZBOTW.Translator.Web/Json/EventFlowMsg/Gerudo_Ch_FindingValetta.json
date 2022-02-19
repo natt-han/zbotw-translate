@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Take this!",
-          "TranslatedText": "รับนี่!"
+          "TranslatedText": "รับนี่!",
+          "Length": 10
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน."
+          "TranslatedText": "ลาก่อน.",
+          "Length": 9
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Snap out of it!",
-          "TranslatedText": "ควบคุมตัวเองไม่ได้!"
+          "TranslatedText": "ควบคุมตัวเองไม่ได้!",
+          "Length": 15
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Your boss was MAD.",
-          "TranslatedText": "หัวหน้าคุณมันบ้า"
+          "TranslatedText": "หัวหน้าคุณมันบ้า",
+          "Length": 18
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Try harder next time...",
-          "TranslatedText": "พยายามให้มากขึ้นในครั้งต่อไป..."
+          "TranslatedText": "พยายามให้มากขึ้นในครั้งต่อไป...",
+          "Length": 23
         }
       ]
     },
@@ -58,7 +63,8 @@
         {
           "Line": 28,
           "OriginalText": "What happened to Barta?",
-          "TranslatedText": "เกิดอะไรขึ้นกับ Barta?"
+          "TranslatedText": "เกิดอะไรขึ้นกับ Barta?",
+          "Length": 23
         }
       ]
     },
@@ -69,7 +75,8 @@
         {
           "Line": 32,
           "OriginalText": "You lousy lot...",
-          "TranslatedText": "คุณยุ่งมาก..."
+          "TranslatedText": "คุณยุ่งมาก...",
+          "Length": 16
         }
       ]
     },
@@ -80,27 +87,32 @@
         {
           "Line": 41,
           "OriginalText": "Whuh...",
-          "TranslatedText": "อ่ะ..."
+          "TranslatedText": "อ่ะ...",
+          "Length": 7
         },
         {
           "Line": 45,
           "OriginalText": " Whah...",
-          "TranslatedText": " อะ..."
+          "TranslatedText": " อะ...",
+          "Length": 8
         },
         {
           "Line": 49,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 58,
           "OriginalText": "WHAAAAT?!",
-          "TranslatedText": "อะไร?!"
+          "TranslatedText": "อะไร?!",
+          "Length": 9
         },
         {
           "Line": 65,
           "OriginalText": "\nBarta didn\u0027t come back AGAIN?",
-          "TranslatedText": "\nBarta ไม่กลับมาอีกแล้ว?"
+          "TranslatedText": "\nBarta ไม่กลับมาอีกแล้ว?",
+          "Length": 30
         }
       ]
     },
@@ -111,18 +123,21 @@
         {
           "Line": 74,
           "OriginalText": "I\u0027m afraid this time she went to \ninvestigate the ",
-          "TranslatedText": "ฉันกลัวว่าคราวนี้เธอไปสืบเรื่อง \n"
+          "TranslatedText": "ฉันกลัวว่าคราวนี้เธอไปสืบเรื่อง \n",
+          "Length": 50
         },
         {
           "Line": 78,
           "OriginalText": "leviathan bones ",
           "TranslatedText": "กระดูกleviathan bones \n",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 81,
           "OriginalText": "in the\nsouthwest...",
-          "TranslatedText": "ทางตะวันตกเฉียงใต้..."
+          "TranslatedText": "ทางตะวันตกเฉียงใต้...",
+          "Length": 19
         }
       ]
     },
@@ -133,7 +148,8 @@
         {
           "Line": 90,
           "OriginalText": "I... I tried to stop her...",
-          "TranslatedText": "ฉะ... ฉันพยายามจะหยุดเธอ..."
+          "TranslatedText": "ฉะ... ฉันพยายามจะหยุดเธอ...",
+          "Length": 27
         }
       ]
     },
@@ -144,7 +160,8 @@
         {
           "Line": 99,
           "OriginalText": "But obviously it didn\u0027t work because\nshe\u0027s not here!",
-          "TranslatedText": "แต่เห็นได้ชัดว่ามันไม่ได้ผลเพราะเธอไม่ได้อยู่ที่นี่!"
+          "TranslatedText": "แต่เห็นได้ชัดว่ามันไม่ได้ผลเพราะเธอไม่ได้อยู่ที่นี่!",
+          "Length": 52
         }
       ]
     },
@@ -155,18 +172,21 @@
         {
           "Line": 108,
           "OriginalText": "Yes, nobody would dare! And not only\nthat, but it\u0027s an ",
-          "TranslatedText": "ใช่ไม่มีใครกล้า! และไม่เพียงแค่นั้น แต่ยังเป็น \n"
+          "TranslatedText": "ใช่ไม่มีใครกล้า! และไม่เพียงแค่นั้น แต่ยังเป็น \n",
+          "Length": 55
         },
         {
           "Line": 112,
           "OriginalText": "extremely hot zone",
           "TranslatedText": "โซนร้อนระอุ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 18
         },
         {
           "Line": 115,
           "OriginalText": ", so\nwe wouldn\u0027t last long there in our gear...",
-          "TranslatedText": ", ดังนั้น\nเราคงอยู่ที่นั่นได้ไม่นาน..."
+          "TranslatedText": ", ดังนั้น\nเราคงอยู่ที่นั่นได้ไม่นาน...",
+          "Length": 47
         }
       ]
     },
@@ -177,37 +197,44 @@
         {
           "Line": 124,
           "OriginalText": "You... ",
-          "TranslatedText": "คุณ... "
+          "TranslatedText": "คุณ... ",
+          "Length": 7
         },
         {
           "Line": 128,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 134,
           "OriginalText": "You ",
-          "TranslatedText": "คุณ "
+          "TranslatedText": "คุณ ",
+          "Length": 4
         },
         {
           "Line": 138,
           "OriginalText": "IDIOTS!",
-          "TranslatedText": "ช่างโง่จริงๆ!"
+          "TranslatedText": "ช่างโง่จริงๆ!",
+          "Length": 7
         },
         {
           "Line": 145,
           "OriginalText": " \n\n\n",
-          "TranslatedText": " \n"
+          "TranslatedText": " \n",
+          "Length": 4
         },
         {
           "Line": 151,
           "OriginalText": "That scatterbrain wouldn\u0027t even realize\nshe was walking into danger! I mean,\nyou know that, right?!\n",
-          "TranslatedText": "ไม่รอบคอบ ไม่รู้ด้วยซ้ำว่าเธอกำลังเดินไปสู่อันตราย! \nฉันหมายความว่าคุณรู้ใช่มั้ย!\n"
+          "TranslatedText": "ไม่รอบคอบ ไม่รู้ด้วยซ้ำว่าเธอกำลังเดินไปสู่อันตราย! \nฉันหมายความว่าคุณรู้ใช่มั้ย!\n",
+          "Length": 100
         },
         {
           "Line": 157,
           "OriginalText": "Why, it was just the other day she ran\noff and got captured by the Yiga!",
-          "TranslatedText": "ทำไมเมื่อวันก่อนเธอวิ่งหนีและถูกจับโดย Yiga!"
+          "TranslatedText": "ทำไมเมื่อวันก่อนเธอวิ่งหนีและถูกจับโดย Yiga!",
+          "Length": 72
         }
       ]
     },
@@ -218,18 +245,21 @@
         {
           "Line": 166,
           "OriginalText": "I\u0027ve had it up to here with you lot!\nYou\u0027re walking embarrassments!\nAnd now Barta has gone missing...",
-          "TranslatedText": "ฉันเคยมาที่นี่กับคุณบ่อย!\nคุณกำลังเดินลำบาก!\nและตอนนี้ Barta หายไปแล้ว..."
+          "TranslatedText": "ฉันเคยมาที่นี่กับคุณบ่อย!\nคุณกำลังเดินลำบาก!\nและตอนนี้ Barta หายไปแล้ว...",
+          "Length": 101
         },
         {
           "Line": 170,
           "OriginalText": "\nIf the chief finds out, what do you think\nshe\u0027s going to say? \n\n",
-          "TranslatedText": "\nถ้าหัวหน้ารู้คุณคิดว่าเธอจะพูดอะไร? \n"
+          "TranslatedText": "\nถ้าหัวหน้ารู้คุณคิดว่าเธอจะพูดอะไร? \n",
+          "Length": 65
         },
         {
           "Line": 177,
           "OriginalText": "Must do something before we get found out...",
           "TranslatedText": "ต้องทำอะไรสักอย่างก่อนที่เราจะพบ...",
-          "Colour": "grey"
+          "Colour": "grey",
+          "Length": 44
         }
       ]
     },
@@ -240,12 +270,14 @@
         {
           "Line": 191,
           "OriginalText": "Ugh... I guess Barta will be Barta, and\nyou all aren\u0027t going to change...",
-          "TranslatedText": "ฮึ ... ฉันเดาว่า Barta จะเป็น Barta และพวกคุณจะไม่เปลี่ยนไป..."
+          "TranslatedText": "ฮึ ... ฉันเดาว่า Barta จะเป็น Barta และพวกคุณจะไม่เปลี่ยนไป...",
+          "Length": 73
         },
         {
           "Line": 195,
           "OriginalText": "\n\nBut still, why does she have to go and\nget in trouble like this all the time...",
-          "TranslatedText": "\nแต่ถึงกระนั้นทำไมเธอต้องไปอยู่กับปัญหาแบบนี้ตลอดเวลา..."
+          "TranslatedText": "\nแต่ถึงกระนั้นทำไมเธอต้องไปอยู่กับปัญหาแบบนี้ตลอดเวลา...",
+          "Length": 81
         }
       ]
     },
@@ -256,7 +288,8 @@
         {
           "Line": 204,
           "OriginalText": "Ahhh... What do I do... Poor Barta is\nin trouble again...",
-          "TranslatedText": "อ่า... ฉันจะทำอย่างไร... \nBarta ผู้น่าสงสารก็เดือดร้อนอีกแล้ว..."
+          "TranslatedText": "อ่า... ฉันจะทำอย่างไร... \nBarta ผู้น่าสงสารก็เดือดร้อนอีกแล้ว...",
+          "Length": 57
         }
       ]
     },
@@ -267,7 +300,8 @@
         {
           "Line": 213,
           "OriginalText": "What do I do about Barta?\nDo I say something? Or nothing...",
-          "TranslatedText": "ฉันจะทำอย่างไรกับ Barta?\nฉันพูดอะไรไหม? หรือไม่มีอะไร..."
+          "TranslatedText": "ฉันจะทำอย่างไรกับ Barta?\nฉันพูดอะไรไหม? หรือไม่มีอะไร...",
+          "Length": 59
         }
       ]
     },
@@ -278,28 +312,33 @@
         {
           "Line": 222,
           "OriginalText": "Well, yeah...",
-          "TranslatedText": "อืมใช่..."
+          "TranslatedText": "อืมใช่...",
+          "Length": 13
         },
         {
           "Line": 226,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 232,
           "OriginalText": "But... Everyone knows that area is the\ndomain of the ",
-          "TranslatedText": "แต่ ... ใคร ๆ ก็รู้ว่าพื้นที่นั้นเป็นแดนของ "
+          "TranslatedText": "แต่ ... ใคร ๆ ก็รู้ว่าพื้นที่นั้นเป็นแดนของ ",
+          "Length": 53
         },
         {
           "Line": 236,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 239,
           "OriginalText": ", so who would\nfigure she\u0027d even go close to there?",
-          "TranslatedText": ", \nแล้วใครจะคิดว่าเธอจะไปใกล้ที่นั่น?"
+          "TranslatedText": ", \nแล้วใครจะคิดว่าเธอจะไปใกล้ที่นั่น?",
+          "Length": 51
         }
       ]
     },
@@ -310,7 +349,8 @@
         {
           "Line": 243,
           "OriginalText": "Ugh...",
-          "TranslatedText": "ฮึ..."
+          "TranslatedText": "ฮึ...",
+          "Length": 6
         }
       ]
     },
@@ -321,12 +361,14 @@
         {
           "Line": 252,
           "OriginalText": "Are you...a fairy? An angel?\nAre you here to guide my passage?\n\n",
-          "TranslatedText": "คุณ ... นางฟ้าเหรอ? นางฟ้า?\nคุณมาที่นี่เพื่อนำทางฉัน?\n"
+          "TranslatedText": "คุณ ... นางฟ้าเหรอ? นางฟ้า?\nคุณมาที่นี่เพื่อนำทางฉัน?\n",
+          "Length": 64
         },
         {
           "Line": 258,
           "OriginalText": "...Everything\u0027s going hazy...\nThis might be the end...",
-          "TranslatedText": "...ทุกอย่างกำลังมืดมน ...\nนี่อาจเป็นจุดจบ..."
+          "TranslatedText": "...ทุกอย่างกำลังมืดมน ...\nนี่อาจเป็นจุดจบ...",
+          "Length": 54
         }
       ]
     },
@@ -337,28 +379,33 @@
         {
           "Line": 270,
           "OriginalText": "Ahh... If only I could\u0027ve eaten a\n",
-          "TranslatedText": "อ่า... ถ้าเพียงแค่ฉันได้กิน\n"
+          "TranslatedText": "อ่า... ถ้าเพียงแค่ฉันได้กิน\n",
+          "Length": 34
         },
         {
           "Line": 274,
           "OriginalText": "hearty durian ",
           "TranslatedText": "ทุเรียนแสนอร่อย ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 277,
           "OriginalText": "one last time...",
-          "TranslatedText": "เป็นครั้งสุดท้าย..."
+          "TranslatedText": "เป็นครั้งสุดท้าย...",
+          "Length": 16
         },
         {
           "Line": 281,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 285,
           "OriginalText": "A hearty durian...\nA hearty durian...",
-          "TranslatedText": "ทุเรียนแสนอร่อย ...\nทุเรียนแสนอร่อย..."
+          "TranslatedText": "ทุเรียนแสนอร่อย ...\nทุเรียนแสนอร่อย...",
+          "Length": 37
         }
       ]
     },
@@ -369,18 +416,21 @@
         {
           "Line": 297,
           "OriginalText": "Ahh, spirits of the Goddess... Before you\nbear me away, could I just have a bite of\ndelicious durian...\nJust one taste of a ",
-          "TranslatedText": "อ๊ะวิญญาณของเทพธิดา ... \nก่อนที่คุณจะแบกฉันไป\nฉันขอทุเรียนอร่อย ๆ สักคำได้ไหม ...\nรสชาติของ "
+          "TranslatedText": "อ๊ะวิญญาณของเทพธิดา ... \nก่อนที่คุณจะแบกฉันไป\nฉันขอทุเรียนอร่อย ๆ สักคำได้ไหม ...\nรสชาติของ ",
+          "Length": 124
         },
         {
           "Line": 301,
           "OriginalText": "hearty durian",
           "TranslatedText": "ทุเรียนแสนอร่อย",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 304,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -395,18 +445,21 @@
         {
           "Line": 313,
           "OriginalText": "Ahh, spirits of the Goddess... Before you\ntake me from this world, if I could just\ntaste fruit...\nJust one last bite of a ",
-          "TranslatedText": "อ๊ะวิญญาณของเทพธิดา ... \nก่อนที่คุณจะพาฉันไปจากโลกนี้\nถ้าฉันได้ลิ้มรสผลไม้...\nเพียงหนึ่งครั้งสุดท้ายของ "
+          "TranslatedText": "อ๊ะวิญญาณของเทพธิดา ... \nก่อนที่คุณจะพาฉันไปจากโลกนี้\nถ้าฉันได้ลิ้มรสผลไม้...\nเพียงหนึ่งครั้งสุดท้ายของ ",
+          "Length": 122
         },
         {
           "Line": 317,
           "OriginalText": "hearty durian",
           "TranslatedText": "ทุเรียนแสนอร่อย\n",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 320,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -417,18 +470,21 @@
         {
           "Line": 337,
           "OriginalText": "S-spirit... Just one bite would do...\n\n\nA little ",
-          "TranslatedText": "ว-วิญญาณ ... แค่กัดคำเดียวก็ได้...\nนิดเดียว "
+          "TranslatedText": "ว-วิญญาณ ... แค่กัดคำเดียวก็ได้...\nนิดเดียว ",
+          "Length": 49
         },
         {
           "Line": 341,
           "OriginalText": "hearty durian ",
           "TranslatedText": "ทุเรียนแสนอร่อย ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 14
         },
         {
           "Line": 344,
           "OriginalText": "for me...\n\n\nBefore my last sav\u0027orq...",
-          "TranslatedText": "สำหรับฉัน...\nก่อนอำลาครั้งสุดท้ายของฉัน..."
+          "TranslatedText": "สำหรับฉัน...\nก่อนอำลาครั้งสุดท้ายของฉัน...",
+          "Length": 37
         }
       ]
     },
@@ -439,32 +495,38 @@
         {
           "Line": 353,
           "OriginalText": "Hah...",
-          "TranslatedText": "ฮะ..."
+          "TranslatedText": "ฮะ...",
+          "Length": 6
         },
         {
           "Line": 357,
           "OriginalText": " I\u0027ve returned from the brink of\ndeath thanks to you...",
-          "TranslatedText": " ฉันกลับมาจากความตายแล้วขอบคุณคุณ...\n"
+          "TranslatedText": " ฉันกลับมาจากความตายแล้วขอบคุณคุณ...\n",
+          "Length": 55
         },
         {
           "Line": 361,
           "OriginalText": "\n\nSarqso!\n\n\n",
-          "TranslatedText": "\nขอบคุณ!\n"
+          "TranslatedText": "\nขอบคุณ!\n",
+          "Length": 12
         },
         {
           "Line": 367,
           "OriginalText": "Huh? Is that you I spoke to before?\n",
-          "TranslatedText": "ฮะ? ที่คุณเคยพูดไว้ก่อนหน้านี้?\n"
+          "TranslatedText": "ฮะ? ที่คุณเคยพูดไว้ก่อนหน้านี้?\n",
+          "Length": 36
         },
         {
           "Line": 373,
           "OriginalText": "So you are actually a voe...\n\nI thought you were a bit muscular for a\nHylian vai.\n\nBut don\u0027t worry, your secret is safe with\nme. I owe you my life, after all!\n\n",
-          "TranslatedText": "ดังนั้นคุณเป็น voe...\nฉันคิดว่าคุณมีกล้ามเนื้อนิดหน่อยสำหรับ Hylian vai.\nแต่ไม่ต้องกังวลความลับของคุณปลอดภัยกับฉัน \nฉันเป็นหนี้ชีวิตคุณหลังจากทั้งหมด!\n"
+          "TranslatedText": "ดังนั้นคุณเป็น voe...\nฉันคิดว่าคุณมีกล้ามเนื้อนิดหน่อยสำหรับ Hylian vai.\nแต่ไม่ต้องกังวลความลับของคุณปลอดภัยกับฉัน \nฉันเป็นหนี้ชีวิตคุณหลังจากทั้งหมด!\n",
+          "Length": 160
         },
         {
           "Line": 379,
           "OriginalText": "Hah... Anyway, I\u0027m totally exhausted.\nMaybe I\u0027ll rest just a little longer then\nhead home.",
-          "TranslatedText": "ฮะ... ยังไงฉันก็หมดแรง\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อยแล้วกลับบ้าน."
+          "TranslatedText": "ฮะ... ยังไงฉันก็หมดแรง\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อยแล้วกลับบ้าน.",
+          "Length": 90
         }
       ]
     },
@@ -475,12 +537,14 @@
         {
           "Line": 391,
           "OriginalText": "Huh? So...they knew ",
-          "TranslatedText": "ฮะ? ดังนั้น ... พวกเขารู้ "
+          "TranslatedText": "ฮะ? ดังนั้น ... พวกเขารู้ ",
+          "Length": 20
         },
         {
           "Line": 395,
           "OriginalText": "I snuck off...",
-          "TranslatedText": "ฉันแอบไป..."
+          "TranslatedText": "ฉันแอบไป...",
+          "Length": 14
         }
       ]
     },
@@ -492,17 +556,20 @@
           "Line": 405,
           "OriginalText": "...Oh, I am in such trouble...",
           "TranslatedText": "...โอ้ฉันตกที่นั่งลำบาก...",
-          "Colour": "grey"
+          "Colour": "grey",
+          "Length": 30
         },
         {
           "Line": 408,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 417,
           "OriginalText": "Yep, looks like I\u0027d better go on ahead.\nSee you later and sav\u0027orq!",
-          "TranslatedText": "ใช่ ดูเหมือนว่าฉันจะต้องไปแล้ว\nแล้วพบกันใหม่ ลาก่อน!"
+          "TranslatedText": "ใช่ ดูเหมือนว่าฉันจะต้องไปแล้ว\nแล้วพบกันใหม่ ลาก่อน!",
+          "Length": 66
         }
       ]
     },
@@ -513,27 +580,32 @@
         {
           "Line": 426,
           "OriginalText": "Hah...",
-          "TranslatedText": "ฮะ..."
+          "TranslatedText": "ฮะ...",
+          "Length": 6
         },
         {
           "Line": 430,
           "OriginalText": " I\u0027ve returned from death\u0027s door\nthanks to you...",
-          "TranslatedText": " ฉันกลับมาจากประตูแห่งความตาย\nขอบคุณ..."
+          "TranslatedText": " ฉันกลับมาจากประตูแห่งความตาย\nขอบคุณ...",
+          "Length": 49
         },
         {
           "Line": 434,
           "OriginalText": "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\nSarqso!\n\n\n",
-          "TranslatedText": "\nฉันเดาว่าฉันประมาทจริงๆที่มาที่นี่\nโดยไม่มีอุปกรณ์ที่เหมาะสม...\nขอบคุณ!\n"
+          "TranslatedText": "\nฉันเดาว่าฉันประมาทจริงๆที่มาที่นี่\nโดยไม่มีอุปกรณ์ที่เหมาะสม...\nขอบคุณ!\n",
+          "Length": 90
         },
         {
           "Line": 440,
           "OriginalText": "Looks like you just keep saving me, huh?\n\n\n",
-          "TranslatedText": "ดูเหมือนว่าคุณจะช่วยฉันไว้ใช่ไหม?\n"
+          "TranslatedText": "ดูเหมือนว่าคุณจะช่วยฉันไว้ใช่ไหม?\n",
+          "Length": 43
         },
         {
           "Line": 446,
           "OriginalText": "Hah... Anyway, I\u0027m completely spent.\nMaybe I\u0027ll rest just a little longer and\nthen head home.",
-          "TranslatedText": "ฮะ ... ยังไงฉันก็ใช้หมดแล้ว\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อย\nแล้วมุ่งหน้ากลับบ้าน."
+          "TranslatedText": "ฮะ ... ยังไงฉันก็ใช้หมดแล้ว\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อย\nแล้วมุ่งหน้ากลับบ้าน.",
+          "Length": 93
         }
       ]
     },
@@ -544,27 +616,32 @@
         {
           "Line": 458,
           "OriginalText": "Hahh...",
-          "TranslatedText": "ฮะ..."
+          "TranslatedText": "ฮะ...",
+          "Length": 7
         },
         {
           "Line": 462,
           "OriginalText": " I\u0027ve come back from the brink\nthanks to you...",
-          "TranslatedText": " ฉันกลับมาจากขอบฟ้า\nขอบคุณ..."
+          "TranslatedText": " ฉันกลับมาจากขอบฟ้า\nขอบคุณ...",
+          "Length": 47
         },
         {
           "Line": 466,
           "OriginalText": "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\n",
-          "TranslatedText": "\nฉันเดาว่าฉันประมาทจริงๆที่มาที่นี่\nโดยไม่มีอุปกรณ์ที่เหมาะสม...\n"
+          "TranslatedText": "\nฉันเดาว่าฉันประมาทจริงๆที่มาที่นี่\nโดยไม่มีอุปกรณ์ที่เหมาะสม...\n",
+          "Length": 80
         },
         {
           "Line": 472,
           "OriginalText": "...But you don\u0027t seem to have the proper\ngear, either. It\u0027s kind of amazing that you\neven made it here to be honest.\n",
-          "TranslatedText": "...แต่ดูเหมือนคุณจะไม่มีอุปกรณ์ที่เหมาะสมเช่นกัน \nเป็นเรื่องที่น่าอัศจรรย์มากที่คุณมาถึงที่นี่ จริงๆนะ.\n"
+          "TranslatedText": "...แต่ดูเหมือนคุณจะไม่มีอุปกรณ์ที่เหมาะสมเช่นกัน \nเป็นเรื่องที่น่าอัศจรรย์มากที่คุณมาถึงที่นี่ จริงๆนะ.\n",
+          "Length": 117
         },
         {
           "Line": 478,
           "OriginalText": "Hahh... Anyway, I\u0027m absolutely beat.\nMaybe I\u0027ll rest just a little longer and\nthen head home.",
-          "TranslatedText": "ฮะ ... ยังไงฉันก็ชนะแน่ ๆ\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อย\nแล้วมุ่งหน้ากลับบ้าน."
+          "TranslatedText": "ฮะ ... ยังไงฉันก็ชนะแน่ ๆ\nบางทีฉันอาจจะพักผ่อนอีกสักหน่อย\nแล้วมุ่งหน้ากลับบ้าน.",
+          "Length": 93
         }
       ]
     },
@@ -575,34 +652,40 @@
         {
           "Line": 490,
           "OriginalText": "I guess I can\u0027t sit on this any longer... \n\n\nThere\u0027s a rumor that a fairy lives in the\n",
-          "TranslatedText": "ฉันเดาว่าฉันไม่สามารถนั่งบนนี้ได้อีกต่อไป ... \nมีข่าวลือว่านางฟ้าอาศัยอยู่ใน\n"
+          "TranslatedText": "ฉันเดาว่าฉันไม่สามารถนั่งบนนี้ได้อีกต่อไป ... \nมีข่าวลือว่านางฟ้าอาศัยอยู่ใน\n",
+          "Length": 87
         },
         {
           "Line": 494,
           "OriginalText": "leviathan bones ",
           "TranslatedText": "กระดูกleviathan bones ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 497,
           "OriginalText": "southwest of town...\n\nI thought it was something that Barta\nmight be interested in...",
-          "TranslatedText": "ทางตะวันตกเฉียงใต้ของเมือง...\nฉันคิดว่ามันเป็นสิ่งที่ Barta อาจสนใจ..."
+          "TranslatedText": "ทางตะวันตกเฉียงใต้ของเมือง...\nฉันคิดว่ามันเป็นสิ่งที่ Barta อาจสนใจ...",
+          "Length": 85
         },
         {
           "Line": 501,
           "OriginalText": "\n\nBut that area is also known as the home\nof the ",
-          "TranslatedText": "\nแต่พื้นที่นั้นเรียกอีกอย่างว่าบ้านของ "
+          "TranslatedText": "\nแต่พื้นที่นั้นเรียกอีกอย่างว่าบ้านของ ",
+          "Length": 49
         },
         {
           "Line": 505,
           "OriginalText": "Molduga",
           "TranslatedText": "Molduga",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 508,
           "OriginalText": "... \n\nGoing there alone would be \nunthinkable...",
-          "TranslatedText": "... \nไปที่นั่นคนเดียวคงคิดไม่ถึง..."
+          "TranslatedText": "... \nไปที่นั่นคนเดียวคงคิดไม่ถึง...",
+          "Length": 48
         }
       ]
     },
@@ -613,45 +696,53 @@
         {
           "Line": 517,
           "OriginalText": "Great, now my senior officer Liana is\nsteamed at me... Well, as she should be,\nI guess...\nI got in trouble over something related to\nBarta with our ",
-          "TranslatedText": "เยี่ยมมากตอนนี้ Liana เจ้าหน้าที่อาวุโส\nงอนฉัน ... ดีล่ะ อย่างที่เธอควรจะเป็น\nฉันเดา ...\nฉันมีปัญหากับบางสิ่งที่เกี่ยวข้องกับ Barta กับของเรา \n"
+          "TranslatedText": "เยี่ยมมากตอนนี้ Liana เจ้าหน้าที่อาวุโส\nงอนฉัน ... ดีล่ะ อย่างที่เธอควรจะเป็น\nฉันเดา ...\nฉันมีปัญหากับบางสิ่งที่เกี่ยวข้องกับ Barta กับของเรา \n",
+          "Length": 148
         },
         {
           "Line": 521,
           "OriginalText": "squad leader,",
           "TranslatedText": "ผู้นำทีม,",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 524,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 528,
           "OriginalText": "Teake",
           "TranslatedText": "Teake",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 531,
           "OriginalText": ",\nbefore as well, and she was really mad...\n",
-          "TranslatedText": ",\nก่อนหน้านี้เช่นกันและเธอก็บ้าจริงๆ...\n"
+          "TranslatedText": ",\nก่อนหน้านี้เช่นกันและเธอก็บ้าจริงๆ...\n",
+          "Length": 44
         },
         {
           "Line": 537,
           "OriginalText": "But I did kind of try to sort of stop her, \nyou know!\n\nI told her it was a ",
-          "TranslatedText": "แต่ฉันพยายามที่จะหยุดเธอคุณก็รู้!\nฉันบอกเธอว่ามันคือ "
+          "TranslatedText": "แต่ฉันพยายามที่จะหยุดเธอคุณก็รู้!\nฉันบอกเธอว่ามันคือ ",
+          "Length": 75
         },
         {
           "Line": 541,
           "OriginalText": "region of extreme heat",
           "TranslatedText": "บริเวณที่มีความร้อนสูง",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 22
         },
         {
           "Line": 544,
           "OriginalText": "\nand that she should equip herself\nappropriately if she was going there...",
-          "TranslatedText": "\nและเธอควรเตรียมตัวเองให้เหมาะสมหากจะไปที่นั่น..."
+          "TranslatedText": "\nและเธอควรเตรียมตัวเองให้เหมาะสมหากจะไปที่นั่น...",
+          "Length": 74
         }
       ]
     },
@@ -662,17 +753,20 @@
         {
           "Line": 556,
           "OriginalText": "Oh! What a courageous vai! I heard\nfrom Barta! She said you found her!\n\nI told her you were as dependable as a\nChampion!",
-          "TranslatedText": "โอ้! ช่างกล้าอะไรอย่างนี้! \nฉันได้ยินมาจาก Barta! เธอบอกว่าคุณพบเธอ!\nฉันบอกเธอว่าคุณพึ่งพาได้ในฐานะแชมป์เปี้ยน!\n"
+          "TranslatedText": "โอ้! ช่างกล้าอะไรอย่างนี้! \nฉันได้ยินมาจาก Barta! เธอบอกว่าคุณพบเธอ!\nฉันบอกเธอว่าคุณพึ่งพาได้ในฐานะแชมป์เปี้ยน!\n",
+          "Length": 120
         },
         {
           "Line": 562,
           "OriginalText": " If you were a Gerudo vai,\nI\u0027d want you in my troop!\nAnyway, close one, huh? Looks like I got\nout of this without getting chewed out by\nour troop leader!\n",
-          "TranslatedText": " ถ้าคุณเป็น Gerudo vai \nฉันต้องการให้คุณอยู่ในกองทหารของฉัน!\nความลับเหรอ? ดูเหมือนว่าฉันจะออกไปจากนี้\nโดยไม่ถูกหัวหน้ากองทหารของเราเคี้ยว!\n"
+          "TranslatedText": " ถ้าคุณเป็น Gerudo vai \nฉันต้องการให้คุณอยู่ในกองทหารของฉัน!\nความลับเหรอ? ดูเหมือนว่าฉันจะออกไปจากนี้\nโดยไม่ถูกหัวหน้ากองทหารของเราเคี้ยว!\n",
+          "Length": 154
         },
         {
           "Line": 568,
           "OriginalText": "You must be worn out, right? Here, take\nthis as thanks! Buy yourself something\nnice in the market!",
-          "TranslatedText": "คุณใช้จนชำรุดเหรอ? \nรับสิ่งนี้\nขอบคุณ! \nซื้อของดีในตลาดให้ตัวเอง!"
+          "TranslatedText": "คุณใช้จนชำรุดเหรอ? \nรับสิ่งนี้\nขอบคุณ! \nซื้อของดีในตลาดให้ตัวเอง!",
+          "Length": 98
         }
       ]
     },
@@ -683,17 +777,20 @@
         {
           "Line": 577,
           "OriginalText": "Well, it looks like Barta at least feels\nbad about what happened this time...\nWhat a mess, though.",
-          "TranslatedText": "ดูเหมือนว่าอย่างน้อย Barta \nก็รู้สึกแย่กับสิ่งที่เกิดขึ้นในครั้งนี้...\nช่างเป็นอะไรที่วุ่นวาย."
+          "TranslatedText": "ดูเหมือนว่าอย่างน้อย Barta \nก็รู้สึกแย่กับสิ่งที่เกิดขึ้นในครั้งนี้...\nช่างเป็นอะไรที่วุ่นวาย.",
+          "Length": 98
         },
         {
           "Line": 581,
           "OriginalText": "\nAnd you know the worst part? Even a vai\nlike Barta, who\u0027s all over the place, is\npopular with the voe. \n",
-          "TranslatedText": "\nและคุณรู้ว่าส่วนที่แย่ที่สุด? แม้แต่ vai อย่าง Barta \nที่มีอยู่ทั่วทุกหนแห่งก็นิยมชมชอบ voe. \n"
+          "TranslatedText": "\nและคุณรู้ว่าส่วนที่แย่ที่สุด? แม้แต่ vai อย่าง Barta \nที่มีอยู่ทั่วทุกหนแห่งก็นิยมชมชอบ voe. \n",
+          "Length": 105
         },
         {
           "Line": 587,
           "OriginalText": "I don\u0027t get it.",
-          "TranslatedText": "ฉันไม่เข้าใจ"
+          "TranslatedText": "ฉันไม่เข้าใจ",
+          "Length": 15
         }
       ]
     },
@@ -704,12 +801,14 @@
         {
           "Line": 596,
           "OriginalText": "...If you think about it, making your way\nacross the desert like that is really\npretty impressive.\n",
-          "TranslatedText": "...ถ้าคุณคิดว่าการเดินข้ามทะเลทรายแบบนั้น\nมันช่างน่าประทับใจจริงๆ.\n"
+          "TranslatedText": "...ถ้าคุณคิดว่าการเดินข้ามทะเลทรายแบบนั้น\nมันช่างน่าประทับใจจริงๆ.\n",
+          "Length": 99
         },
         {
           "Line": 602,
           "OriginalText": "I wonder if that means Barta is actually\nreally strong...",
-          "TranslatedText": "ฉันสงสัยว่านั่นหมายความว่า \nBarta แข็งแกร่งจริงๆ..."
+          "TranslatedText": "ฉันสงสัยว่านั่นหมายความว่า \nBarta แข็งแกร่งจริงๆ...",
+          "Length": 57
         }
       ]
     },
@@ -720,12 +819,14 @@
         {
           "Line": 611,
           "OriginalText": "When you showed up, I thought for a\nsecond that maybe the voe of my dreams\nhad come along.\n",
-          "TranslatedText": "เมื่อคุณปรากฏตัวขึ้น ฉันก็คิดอยู่ครู่หนึ่งว่า\nความฝันของฉันอาจเป็นจริง.\n"
+          "TranslatedText": "เมื่อคุณปรากฏตัวขึ้น ฉันก็คิดอยู่ครู่หนึ่งว่า\nความฝันของฉันอาจเป็นจริง.\n",
+          "Length": 91
         },
         {
           "Line": 617,
           "OriginalText": "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she\u0027s met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone...",
-          "TranslatedText": "เมื่อพูดถึงสิ่งที่ฉันสงสัยว่า\nสิ่งต่าง ๆ เป็นไปได้อย่างไรสำหรับ Perda ที่บ้าคลั่ง ...\nฉันสงสัยว่าเธอเจอคนนั้นหรือยัง ...\nบางทีเมื่อทุกคนลืมว่าฉันมีปัญหาแค่ไหน\nฉันควรออกไปมองหาคนพิเศษของฉัน ..."
+          "TranslatedText": "เมื่อพูดถึงสิ่งที่ฉันสงสัยว่า\nสิ่งต่าง ๆ เป็นไปได้อย่างไรสำหรับ Perda ที่บ้าคลั่ง ...\nฉันสงสัยว่าเธอเจอคนนั้นหรือยัง ...\nบางทีเมื่อทุกคนลืมว่าฉันมีปัญหาแค่ไหน\nฉันควรออกไปมองหาคนพิเศษของฉัน ...",
+          "Length": 215
         }
       ]
     },
@@ -736,17 +837,20 @@
         {
           "Line": 626,
           "OriginalText": "If you hadn\u0027t come along when you did...\n\n\nI would have had to say my eternal\nsav\u0027orq before I\u0027d even met the voe of\nmy dreams...\n",
-          "TranslatedText": "ถ้าคุณไม่ได้มา เมื่อคุณทำ ...\nฉันจะต้องกล่าวคำอำลาชั่วนิรันดร์\nก่อนที่ฉันจะได้พบกับ voe \nความหายนะในฝันของฉัน...\n"
+          "TranslatedText": "ถ้าคุณไม่ได้มา เมื่อคุณทำ ...\nฉันจะต้องกล่าวคำอำลาชั่วนิรันดร์\nก่อนที่ฉันจะได้พบกับ voe \nความหายนะในฝันของฉัน...\n",
+          "Length": 130
         },
         {
           "Line": 632,
           "OriginalText": "From the bottom of my heart, sarqso.\n\n\n",
-          "TranslatedText": "ขอบคุณ จากก้นบึ้งของหัวใจฉัน.\n"
+          "TranslatedText": "ขอบคุณ จากก้นบึ้งของหัวใจฉัน.\n",
+          "Length": 39
         },
         {
           "Line": 638,
           "OriginalText": "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she\u0027s met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone...",
-          "TranslatedText": "เมื่อพูดถึงสิ่งที่ฉันสงสัยว่าสิ่งต่าง ๆ\nเป็นไปได้อย่างไรสำหรับ Perda ที่บ้าคลั่ง ...\nฉันสงสัยว่าเธอเจอคนนั้นหรือยัง ...\nบางทีเมื่อทุกคนลืมว่าฉันมีปัญหาแค่ไหน\nฉันควรออกไปหาคนพิเศษของฉัน..."
+          "TranslatedText": "เมื่อพูดถึงสิ่งที่ฉันสงสัยว่าสิ่งต่าง ๆ\nเป็นไปได้อย่างไรสำหรับ Perda ที่บ้าคลั่ง ...\nฉันสงสัยว่าเธอเจอคนนั้นหรือยัง ...\nบางทีเมื่อทุกคนลืมว่าฉันมีปัญหาแค่ไหน\nฉันควรออกไปหาคนพิเศษของฉัน...",
+          "Length": 215
         }
       ]
     },
@@ -757,7 +861,8 @@
         {
           "Line": 647,
           "OriginalText": "ARGH!",
-          "TranslatedText": "อ๊าาาาก!"
+          "TranslatedText": "อ๊าาาาก!",
+          "Length": 5
         }
       ]
     }

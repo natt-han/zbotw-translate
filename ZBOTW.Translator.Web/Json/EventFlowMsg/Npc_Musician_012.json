@@ -7,12 +7,14 @@
         {
           "Line": 13,
           "OriginalText": "Ah!",
-          "TranslatedText": "อ้าา!"
+          "TranslatedText": "อ้าา!",
+          "Length": 3
         },
         {
           "Line": 17,
           "OriginalText": " You\u0027ve done well climbing all the way\nup here!\n",
-          "TranslatedText": "คุณปีนขึ้นไปที่นี่ได้\nดีมาก!"
+          "TranslatedText": "คุณปีนขึ้นไปที่นี่ได้\nดีมาก!",
+          "Length": 48
         }
       ]
     },
@@ -22,33 +24,39 @@
         {
           "Line": 26,
           "OriginalText": "Ah! ",
-          "TranslatedText": "อ้า! "
+          "TranslatedText": "อ้า! ",
+          "Length": 4
         },
         {
           "Line": 30,
           "OriginalText": "So \u0022",
-          "TranslatedText": "ดังนั้น \u0022"
+          "TranslatedText": "ดังนั้น \u0022",
+          "Length": 4
         },
         {
           "Line": 34,
           "OriginalText": "nothing between you and the\nnight air",
           "TranslatedText": "nไม่มีอะไรระหว่างคุณกับ\nอากาศตอนกลางคืน",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 37
         },
         {
           "Line": 37,
           "OriginalText": "\u0022 meant naked!\n\n",
-          "TranslatedText": "\u0022 หมายถึงเปลือยกาย!\n\n"
+          "TranslatedText": "\u0022 หมายถึงเปลือยกาย!\n\n",
+          "Length": 16
         },
         {
           "Line": 43,
           "OriginalText": "Boldly standing naked on the pedestal...\nThat\u0027s definitely reminiscent of the\nhero of legend.\n",
-          "TranslatedText": "ยืนเปลือยกายบนแท่นอย่างกล้าหาญ ...\nนั่นเป็นการเตือนความทรงจำของฮีโร่\nในตำนานอย่างแน่นอน\n"
+          "TranslatedText": "ยืนเปลือยกายบนแท่นอย่างกล้าหาญ ...\nนั่นเป็นการเตือนความทรงจำของฮีโร่\nในตำนานอย่างแน่นอน\n",
+          "Length": 94
         },
         {
           "Line": 49,
           "OriginalText": "Take care, and may the light illuminate\nyour path.",
-          "TranslatedText": "ระวังและแสงอาจส่องเส้นทา\nงของคุณ"
+          "TranslatedText": "ระวังและแสงอาจส่องเส้นทา\nงของคุณ",
+          "Length": 50
         }
       ]
     },
@@ -58,7 +66,8 @@
         {
           "Line": 53,
           "OriginalText": "Stop it!",
-          "TranslatedText": "หยุดมัน!"
+          "TranslatedText": "หยุดมัน!",
+          "Length": 8
         }
       ]
     },
@@ -68,7 +77,8 @@
         {
           "Line": 57,
           "OriginalText": "WAAAAAA!",
-          "TranslatedText": "ว้าก!"
+          "TranslatedText": "ว้าก!",
+          "Length": 8
         }
       ]
     },
@@ -78,7 +88,8 @@
         {
           "Line": 66,
           "OriginalText": "Ack!",
-          "TranslatedText": "Aอ้าก!"
+          "TranslatedText": "Aอ้าก!",
+          "Length": 4
         }
       ]
     },
@@ -88,7 +99,8 @@
         {
           "Line": 70,
           "OriginalText": "Knock it off!",
-          "TranslatedText": "เคาะมันออก!"
+          "TranslatedText": "เคาะมันออก!",
+          "Length": 13
         }
       ]
     }

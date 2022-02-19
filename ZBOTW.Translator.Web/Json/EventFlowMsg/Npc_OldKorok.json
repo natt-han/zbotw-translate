@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Weapon stash!",
-          "TranslatedText": "ช่องเก็บอาวุธ!"
+          "TranslatedText": "ช่องเก็บอาวุธ!",
+          "Length": 13
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "Bow stash!",
-          "TranslatedText": "ช่องเก็บธนู!"
+          "TranslatedText": "ช่องเก็บธนู!",
+          "Length": 10
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "Shield stash!",
-          "TranslatedText": "ช่องเก็บโล่!"
+          "TranslatedText": "ช่องเก็บโล่!",
+          "Length": 13
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Nothing right now.",
-          "TranslatedText": "ยังก่อน"
+          "TranslatedText": "ยังก่อน",
+          "Length": 18
         }
       ]
     },
@@ -47,7 +51,8 @@
         {
           "Line": 24,
           "OriginalText": "Yeah.",
-          "TranslatedText": "ใช่แล้ว"
+          "TranslatedText": "ใช่แล้ว",
+          "Length": 5
         }
       ]
     },
@@ -57,7 +62,8 @@
         {
           "Line": 28,
           "OriginalText": "Never mind.",
-          "TranslatedText": "ไม่เป็นไร"
+          "TranslatedText": "ไม่เป็นไร",
+          "Length": 11
         }
       ]
     },
@@ -67,7 +73,8 @@
         {
           "Line": 32,
           "OriginalText": "Yes!",
-          "TranslatedText": "ใช่!"
+          "TranslatedText": "ใช่!",
+          "Length": 4
         }
       ]
     },
@@ -77,7 +84,8 @@
         {
           "Line": 36,
           "OriginalText": "Good-bye.",
-          "TranslatedText": "ลาก่อน"
+          "TranslatedText": "ลาก่อน",
+          "Length": 9
         }
       ]
     },
@@ -87,7 +95,8 @@
         {
           "Line": 40,
           "OriginalText": "Nope, just me.",
-          "TranslatedText": "ไม่ แค่ฉัน"
+          "TranslatedText": "ไม่ แค่ฉัน",
+          "Length": 14
         }
       ]
     },
@@ -98,7 +107,8 @@
         {
           "Line": 44,
           "OriginalText": "I must dance!",
-          "TranslatedText": "ฉันต้องเต้น!"
+          "TranslatedText": "ฉันต้องเต้น!",
+          "Length": 13
         }
       ]
     },
@@ -109,7 +119,8 @@
         {
           "Line": 48,
           "OriginalText": "♪La dah dee!♪",
-          "TranslatedText": "♪La dah dee!♪"
+          "TranslatedText": "♪La dah dee!♪",
+          "Length": 13
         }
       ]
     },
@@ -120,7 +131,8 @@
         {
           "Line": 52,
           "OriginalText": "♪Dah dee dah!♪",
-          "TranslatedText": "♪Dah dee dah!♪"
+          "TranslatedText": "♪Dah dee dah!♪",
+          "Length": 14
         }
       ]
     },
@@ -131,53 +143,63 @@
         {
           "Line": 64,
           "OriginalText": "♪Shalaka!♪",
-          "TranslatedText": "♪Shalaka!♪"
+          "TranslatedText": "♪Shalaka!♪",
+          "Length": 10
         },
         {
           "Line": 68,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 74,
           "OriginalText": "It\u0027s you! ",
-          "TranslatedText": "คุณน่ะเอง! "
+          "TranslatedText": "คุณน่ะเอง! ",
+          "Length": 10
         },
         {
           "Line": 78,
           "OriginalText": "We meet again!\n\n\nWhat\u0027s with the silent treatment?",
-          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบอย่างงั้นล่ะ?"
+          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบอย่างงั้นล่ะ?",
+          "Length": 50
         },
         {
           "Line": 82,
           "OriginalText": "\nDon\u0027t you remember me?",
-          "TranslatedText": "\nจำฉันไม่ได้เหรอ?"
+          "TranslatedText": "\nจำฉันไม่ได้เหรอ?",
+          "Length": 23
         },
         {
           "Line": 86,
           "OriginalText": " I\u0027m the\nmusician of Korok Forest,",
-          "TranslatedText": " ฉันคือ\nนักดนตรีแห่ง Korok Forest,"
+          "TranslatedText": " ฉันคือ\nนักดนตรีแห่ง Korok Forest,",
+          "Length": 34
         },
         {
           "Line": 90,
           "OriginalText": " Hestu!\nI\u0027m impressed you found your way\nthrough the Lost Woods and made it\nhere...\n",
-          "TranslatedText": " Hestu!\nฉันประทับใจนะที่คุณหาทางผ่าน Lost Woods จนมาถึงที่นี่...\n"
+          "TranslatedText": " Hestu!\nฉันประทับใจนะที่คุณหาทางผ่าน Lost Woods จนมาถึงที่นี่...\n",
+          "Length": 84
         },
         {
           "Line": 96,
           "OriginalText": "So have you brought me any\n",
-          "TranslatedText": "แล้วได้เอา\n"
+          "TranslatedText": "แล้วได้เอา\n",
+          "Length": 27
         },
         {
           "Line": 100,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 103,
           "OriginalText": "?",
-          "TranslatedText": " มาให้ฉันบ้างมั้ย?"
+          "TranslatedText": " มาให้ฉันบ้างมั้ย?",
+          "Length": 1
         }
       ]
     },
@@ -188,45 +210,53 @@
         {
           "Line": 112,
           "OriginalText": "If you\u0027ll return my lost ",
-          "TranslatedText": "ถ้าคุณเอา "
+          "TranslatedText": "ถ้าคุณเอา ",
+          "Length": 25
         },
         {
           "Line": 116,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 119,
           "OriginalText": " to\nme,",
-          "TranslatedText": " ของฉันที่หายไปมาคืน"
+          "TranslatedText": " ของฉันที่หายไปมาคืน",
+          "Length": 7
         },
         {
           "Line": 123,
           "OriginalText": " I\u0027ll ",
-          "TranslatedText": " ฉันจะ "
+          "TranslatedText": " ฉันจะ ",
+          "Length": 6
         },
         {
           "Line": 127,
           "OriginalText": "expand",
           "TranslatedText": "ขยาย",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 130,
           "OriginalText": " the size of your ",
-          "TranslatedText": " ขนาดของ "
+          "TranslatedText": " ขนาดของ ",
+          "Length": 18
         },
         {
           "Line": 134,
           "OriginalText": "inventory",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 137,
           "OriginalText": ".\nWhich stash do you want another slot in?",
-          "TranslatedText": "ให้\nอยากขยายอันไหนล่ะ?"
+          "TranslatedText": "ให้\nอยากขยายอันไหนล่ะ?",
+          "Length": 42
         }
       ]
     },
@@ -237,12 +267,14 @@
         {
           "Line": 224,
           "OriginalText": "Shaka... ",
-          "TranslatedText": "Shaka... "
+          "TranslatedText": "Shaka... ",
+          "Length": 9
         },
         {
           "Line": 228,
           "OriginalText": "How sad...",
-          "TranslatedText": "แย่จัง..."
+          "TranslatedText": "แย่จัง...",
+          "Length": 10
         }
       ]
     },
@@ -253,27 +285,32 @@
         {
           "Line": 240,
           "OriginalText": "Shaka! Shakaka!",
-          "TranslatedText": "Shaka! Shakaka!"
+          "TranslatedText": "Shaka! Shakaka!",
+          "Length": 15
         },
         {
           "Line": 244,
           "OriginalText": "\nYou are nekkid!\n\n",
-          "TranslatedText": "\nคุณโป๊!\n"
+          "TranslatedText": "\nคุณโป๊!\n",
+          "Length": 18
         },
         {
           "Line": 250,
           "OriginalText": "I am nekkid!",
-          "TranslatedText": "ฉันโป๊!"
+          "TranslatedText": "ฉันโป๊!",
+          "Length": 12
         },
         {
           "Line": 257,
           "OriginalText": "\nWe are united in exposure!",
-          "TranslatedText": "\nเราสามัคคีกันเรื่องความเปิดเผย!"
+          "TranslatedText": "\nเราสามัคคีกันเรื่องความเปิดเผย!",
+          "Length": 27
         },
         {
           "Line": 261,
           "OriginalText": "\n♪Nekky nokky nakey!♪",
-          "TranslatedText": "\n♪Nekky nokky nakey!♪"
+          "TranslatedText": "\n♪Nekky nokky nakey!♪",
+          "Length": 21
         }
       ]
     },
@@ -284,12 +321,14 @@
         {
           "Line": 276,
           "OriginalText": "♪Nakey nakey!♪",
-          "TranslatedText": "♪Nakey nakey!♪"
+          "TranslatedText": "♪Nakey nakey!♪",
+          "Length": 14
         },
         {
           "Line": 280,
           "OriginalText": "\n♪Nekky nokky nakey!♪",
-          "TranslatedText": "\n♪Nekky nokky nakey!♪"
+          "TranslatedText": "\n♪Nekky nokky nakey!♪",
+          "Length": 21
         }
       ]
     },
@@ -300,28 +339,33 @@
         {
           "Line": 292,
           "OriginalText": "...Shakalo?!",
-          "TranslatedText": "...Shakalo?!"
+          "TranslatedText": "...Shakalo?!",
+          "Length": 12
         },
         {
           "Line": 296,
           "OriginalText": " You\u0027ve enlarged all of your\n",
-          "TranslatedText": " คุณขยาย\n"
+          "TranslatedText": " คุณขยาย\n",
+          "Length": 29
         },
         {
           "Line": 300,
           "OriginalText": "stashes",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 303,
           "OriginalText": "!\n\n",
-          "TranslatedText": "ครบหมดแล้ว!\n"
+          "TranslatedText": "ครบหมดแล้ว!\n",
+          "Length": 3
         },
         {
           "Line": 309,
           "OriginalText": "♪Naaaaaaice!♪",
-          "TranslatedText": "♪Naaaaaaice!♪"
+          "TranslatedText": "♪Naaaaaaice!♪",
+          "Length": 13
         }
       ]
     },
@@ -332,43 +376,51 @@
         {
           "Line": 318,
           "OriginalText": "You enlarged all of your ",
-          "TranslatedText": "คุณขยาย"
+          "TranslatedText": "คุณขยาย",
+          "Length": 25
         },
         {
           "Line": 322,
           "OriginalText": "inventories",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 325,
           "OriginalText": "!",
-          "TranslatedText": "ครบแล้ว!"
+          "TranslatedText": "ครบแล้ว!",
+          "Length": 1
         },
         {
           "Line": 329,
           "OriginalText": "\nShakala!\n\n",
-          "TranslatedText": "\nShakala!\n"
+          "TranslatedText": "\nShakala!\n",
+          "Length": 11
         },
         {
           "Line": 335,
           "OriginalText": "Thanks to you, my maracas sound so...\n",
-          "TranslatedText": "เป็นเพราะคุณ เสียง maracas ของฉันจึงช่าง...\n"
+          "TranslatedText": "เป็นเพราะคุณ เสียง maracas ของฉันจึงช่าง...\n",
+          "Length": 38
         },
         {
           "Line": 339,
           "OriginalText": "♪shakey",
-          "TranslatedText": "♪shakey"
+          "TranslatedText": "♪shakey",
+          "Length": 7
         },
         {
           "Line": 343,
           "OriginalText": "-shake",
-          "TranslatedText": "-shake"
+          "TranslatedText": "-shake",
+          "Length": 6
         },
         {
           "Line": 347,
           "OriginalText": " SHAKETY!♪\n\nBut there may still be some children of\nthe forest out there. I\u0027m sure they\u0027d\nstill love to meet you.",
-          "TranslatedText": " SHAKETY!♪\nแต่อาจจะยังมีพวกเด็กแห่งป่าอยู่ข้างนอกนั่น\nฉันแน่ใจว่าพวกเขายังอยากพบกับคุณ"
+          "TranslatedText": " SHAKETY!♪\nแต่อาจจะยังมีพวกเด็กแห่งป่าอยู่ข้างนอกนั่น\nฉันแน่ใจว่าพวกเขายังอยากพบกับคุณ",
+          "Length": 113
         }
       ]
     },
@@ -379,7 +431,8 @@
         {
           "Line": 356,
           "OriginalText": "Let the expansion begin!",
-          "TranslatedText": "มาขยายกันเลย!"
+          "TranslatedText": "มาขยายกันเลย!",
+          "Length": 24
         }
       ]
     },
@@ -394,7 +447,8 @@
         {
           "Line": 365,
           "OriginalText": "Do you want me to expand a different\nstash?",
-          "TranslatedText": "อยากให้ฉันขยายช่องเก็บของอื่นเหรอ?"
+          "TranslatedText": "อยากให้ฉันขยายช่องเก็บของอื่นเหรอ?",
+          "Length": 43
         }
       ]
     },
@@ -405,42 +459,50 @@
         {
           "Line": 385,
           "OriginalText": "Hey! Guess what!",
-          "TranslatedText": "เฮ้! ทายสิ!"
+          "TranslatedText": "เฮ้! ทายสิ!",
+          "Length": 16
         },
         {
           "Line": 389,
           "OriginalText": "\n\n\nAll of the forest children returned to\nKorok Forest!\n\n",
-          "TranslatedText": "\nพวกเด็กแห่งป่าทั้งหมดกลับมายัง\nKorok Forest แล้ว!\n"
+          "TranslatedText": "\nพวกเด็กแห่งป่าทั้งหมดกลับมายัง\nKorok Forest แล้ว!\n",
+          "Length": 57
         },
         {
           "Line": 395,
           "OriginalText": "You must have had an army of people\nsearching for them, huh?",
-          "TranslatedText": "คุณต้องมีคนเป็นของทัพในการหาพวกเขา\nแน่เลยใช่มั้ยเนี่ย?"
+          "TranslatedText": "คุณต้องมีคนเป็นของทัพในการหาพวกเขา\nแน่เลยใช่มั้ยเนี่ย?",
+          "Length": 60
         },
         {
           "Line": 399,
           "OriginalText": "\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 2
         },
         {
           "Line": 411,
           "OriginalText": "NO WAY! ",
-          "TranslatedText": "ไม่มีทาง! "
+          "TranslatedText": "ไม่มีทาง! ",
+          "Length": 8
         },
         {
           "Line": 415,
           "OriginalText": "Fwahahahaha!",
-          "TranslatedText": "Fwahahahaha!"
+          "TranslatedText": "Fwahahahaha!",
+          "Length": 12
         },
         {
           "Line": 419,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 425,
           "OriginalText": "♪NAAAAAAAAICE!♪",
-          "TranslatedText": "♪NAAAAAAAAICE!♪"
+          "TranslatedText": "♪NAAAAAAAAICE!♪",
+          "Length": 15
         }
       ]
     },
@@ -451,28 +513,33 @@
         {
           "Line": 434,
           "OriginalText": "Expand-a-band-band...",
-          "TranslatedText": "Expand-a-band-band..."
+          "TranslatedText": "Expand-a-band-band...",
+          "Length": 21
         },
         {
           "Line": 438,
           "OriginalText": "weapon stash",
           "TranslatedText": "weapon stash",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 441,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 445,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 449,
           "OriginalText": "Shakala!",
-          "TranslatedText": "Shakala!"
+          "TranslatedText": "Shakala!",
+          "Length": 8
         }
       ]
     },
@@ -483,28 +550,33 @@
         {
           "Line": 461,
           "OriginalText": "Expand-a-band-band...",
-          "TranslatedText": "Expand-a-band-band..."
+          "TranslatedText": "Expand-a-band-band...",
+          "Length": 21
         },
         {
           "Line": 465,
           "OriginalText": "bow stash",
           "TranslatedText": "bow stash",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 9
         },
         {
           "Line": 468,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 472,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 476,
           "OriginalText": "Shakala!",
-          "TranslatedText": "Shakala!"
+          "TranslatedText": "Shakala!",
+          "Length": 8
         }
       ]
     },
@@ -515,28 +587,33 @@
         {
           "Line": 488,
           "OriginalText": "Expand-a-band-band...",
-          "TranslatedText": "Expand-a-band-band..."
+          "TranslatedText": "Expand-a-band-band...",
+          "Length": 21
         },
         {
           "Line": 492,
           "OriginalText": "shield stash",
           "TranslatedText": "shield stash",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 495,
           "OriginalText": "!",
-          "TranslatedText": "!"
+          "TranslatedText": "!",
+          "Length": 1
         },
         {
           "Line": 499,
           "OriginalText": "\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 1
         },
         {
           "Line": 503,
           "OriginalText": "Shakala!",
-          "TranslatedText": "Shakala!"
+          "TranslatedText": "Shakala!",
+          "Length": 8
         }
       ]
     },
@@ -547,23 +624,27 @@
         {
           "Line": 515,
           "OriginalText": "Shakalo...",
-          "TranslatedText": "Shakalo..."
+          "TranslatedText": "Shakalo...",
+          "Length": 10
         },
         {
           "Line": 519,
           "OriginalText": " I can expand your\n",
-          "TranslatedText": " ฉันขยาย\n"
+          "TranslatedText": " ฉันขยาย\n",
+          "Length": 19
         },
         {
           "Line": 523,
           "OriginalText": "weapon stash ",
           "TranslatedText": "ช่องเก็บอาวุธ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 526,
           "OriginalText": "no further.",
-          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว",
+          "Length": 11
         }
       ]
     },
@@ -574,23 +655,27 @@
         {
           "Line": 535,
           "OriginalText": "Shakalo...",
-          "TranslatedText": "Shakalo..."
+          "TranslatedText": "Shakalo...",
+          "Length": 10
         },
         {
           "Line": 539,
           "OriginalText": " I can expand your\n",
-          "TranslatedText": " ฉันขยาย\n"
+          "TranslatedText": " ฉันขยาย\n",
+          "Length": 19
         },
         {
           "Line": 543,
           "OriginalText": "bow stash ",
           "TranslatedText": "ช่องเก็บธนู ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 546,
           "OriginalText": "no further.",
-          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว",
+          "Length": 11
         }
       ]
     },
@@ -601,23 +686,27 @@
         {
           "Line": 555,
           "OriginalText": "Shakalo...",
-          "TranslatedText": "Shakalo..."
+          "TranslatedText": "Shakalo...",
+          "Length": 10
         },
         {
           "Line": 559,
           "OriginalText": " I can expand your\n",
-          "TranslatedText": " ฉันขยาย\n"
+          "TranslatedText": " ฉันขยาย\n",
+          "Length": 19
         },
         {
           "Line": 563,
           "OriginalText": "shield stash ",
           "TranslatedText": "ช่องเก็บโล่ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 13
         },
         {
           "Line": 566,
           "OriginalText": "no further.",
-          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว"
+          "TranslatedText": "ของคุณมากกว่านี้ไม่ได้แล้ว",
+          "Length": 11
         }
       ]
     },
@@ -628,18 +717,21 @@
         {
           "Line": 575,
           "OriginalText": "So then-a-den-den...do you want to\nexpand another ",
-          "TranslatedText": "ถ้าอย่างงั้น-อะ-งั้น-งั้น...อยากขยาย"
+          "TranslatedText": "ถ้าอย่างงั้น-อะ-งั้น-งั้น...อยากขยาย",
+          "Length": 50
         },
         {
           "Line": 579,
           "OriginalText": "stash",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 5
         },
         {
           "Line": 582,
           "OriginalText": "?",
-          "TranslatedText": "อื่นมั้ย?"
+          "TranslatedText": "อื่นมั้ย?",
+          "Length": 1
         }
       ]
     },
@@ -650,12 +742,14 @@
         {
           "Line": 669,
           "OriginalText": "Shakala!",
-          "TranslatedText": "Shakala!"
+          "TranslatedText": "Shakala!",
+          "Length": 8
         },
         {
           "Line": 673,
           "OriginalText": " Come back again!",
-          "TranslatedText": " กลับมาอีกนะ!"
+          "TranslatedText": " กลับมาอีกนะ!",
+          "Length": 17
         }
       ]
     },
@@ -666,7 +760,8 @@
         {
           "Line": 682,
           "OriginalText": "♪Saw-reeeeee!♪",
-          "TranslatedText": "♪Saw-reeeeee!♪"
+          "TranslatedText": "♪Saw-reeeeee!♪",
+          "Length": 14
         }
       ]
     },
@@ -677,23 +772,27 @@
         {
           "Line": 691,
           "OriginalText": "Shalaka!",
-          "TranslatedText": "Shalaka!"
+          "TranslatedText": "Shalaka!",
+          "Length": 8
         },
         {
           "Line": 695,
           "OriginalText": " Which ",
-          "TranslatedText": " อยากให้ฉันขยาย "
+          "TranslatedText": " อยากให้ฉันขยาย ",
+          "Length": 7
         },
         {
           "Line": 699,
           "OriginalText": "stash ",
           "TranslatedText": "ช่องเก็บ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 6
         },
         {
           "Line": 702,
           "OriginalText": "shall I expand?",
-          "TranslatedText": "อันไหนล่ะ?"
+          "TranslatedText": "อันไหนล่ะ?",
+          "Length": 15
         }
       ]
     },
@@ -704,23 +803,27 @@
         {
           "Line": 789,
           "OriginalText": "In that case, I\u0027ll give you my treasure,",
-          "TranslatedText": "ถ้าอย่างงั้น ฉันจะมอบสมบัติของฉันให้"
+          "TranslatedText": "ถ้าอย่างงั้น ฉันจะมอบสมบัติของฉันให้",
+          "Length": 40
         },
         {
           "Line": 793,
           "OriginalText": "\nbut let\u0027s expand your ",
-          "TranslatedText": "\nแต่มาขยาย "
+          "TranslatedText": "\nแต่มาขยาย ",
+          "Length": 23
         },
         {
           "Line": 797,
           "OriginalText": "inventory ",
           "TranslatedText": "ช่องเก็บของ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 800,
           "OriginalText": "first.",
-          "TranslatedText": "ของคุณกันก่อน"
+          "TranslatedText": "ของคุณกันก่อน",
+          "Length": 6
         }
       ]
     },
@@ -731,28 +834,33 @@
         {
           "Line": 809,
           "OriginalText": "If you find any ",
-          "TranslatedText": "ถ้าคุณเจอ "
+          "TranslatedText": "ถ้าคุณเจอ ",
+          "Length": 16
         },
         {
           "Line": 813,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 816,
           "OriginalText": ",",
-          "TranslatedText": ","
+          "TranslatedText": ",",
+          "Length": 1
         },
         {
           "Line": 820,
           "OriginalText": " bring them\nby. ",
-          "TranslatedText": " เอามาให้ฉันนะ\n"
+          "TranslatedText": " เอามาให้ฉันนะ\n",
+          "Length": 16
         },
         {
           "Line": 824,
           "OriginalText": "I\u0027ll expand the size of your\ninventory as thanks!",
-          "TranslatedText": "ฉันจะขยายช่องเก็บของให้เป็นการตอบแทน!"
+          "TranslatedText": "ฉันจะขยายช่องเก็บของให้เป็นการตอบแทน!",
+          "Length": 49
         }
       ]
     },
@@ -763,23 +871,27 @@
         {
           "Line": 833,
           "OriginalText": "You\u0027ve maxed all of your ",
-          "TranslatedText": "คุณขยาย "
+          "TranslatedText": "คุณขยาย ",
+          "Length": 25
         },
         {
           "Line": 837,
           "OriginalText": "stashes",
           "TranslatedText": "ช่องเก็บของ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 7
         },
         {
           "Line": 840,
           "OriginalText": "!",
-          "TranslatedText": "จนเต็มหมดแล้ว!"
+          "TranslatedText": "จนเต็มหมดแล้ว!",
+          "Length": 1
         },
         {
           "Line": 844,
           "OriginalText": "\nSo let me give you this!",
-          "TranslatedText": "\nฉันขอมอบสิ่งนี้ให้นะ!"
+          "TranslatedText": "\nฉันขอมอบสิ่งนี้ให้นะ!",
+          "Length": 25
         }
       ]
     },
@@ -790,7 +902,8 @@
         {
           "Line": 853,
           "OriginalText": "It\u0027s amazing that you found all the\nchildren of the forest. \n\n♪Humm-aaaaaaa-mazing!♪",
-          "TranslatedText": "มันยอดไปเลยที่คุณเจอพวกเด็กแห่งป่าครบทั้งหมด\n♪Humm-aaaaaaa-mazing!♪"
+          "TranslatedText": "มันยอดไปเลยที่คุณเจอพวกเด็กแห่งป่าครบทั้งหมด\n♪Humm-aaaaaaa-mazing!♪",
+          "Length": 84
         }
       ]
     },
@@ -801,17 +914,20 @@
         {
           "Line": 862,
           "OriginalText": "So?",
-          "TranslatedText": "ว่าไง?"
+          "TranslatedText": "ว่าไง?",
+          "Length": 3
         },
         {
           "Line": 866,
           "OriginalText": " Do you like it?\n\n\n",
-          "TranslatedText": " ชอบมั้ย?\n"
+          "TranslatedText": " ชอบมั้ย?\n",
+          "Length": 19
         },
         {
           "Line": 872,
           "OriginalText": "I hope you\u0027ll still visit me. You can watch\nme dance whenever you want!\n\n♪Shalaka!♪",
-          "TranslatedText": "หวังว่าคุณจะยังแวะมาเยี่ยมฉันบ้างนะ\nคุณมาดูฉันเต้นได้ทุกเมื่อที่ต้องการเลย!\n♪Shalaka!♪"
+          "TranslatedText": "หวังว่าคุณจะยังแวะมาเยี่ยมฉันบ้างนะ\nคุณมาดูฉันเต้นได้ทุกเมื่อที่ต้องการเลย!\n♪Shalaka!♪",
+          "Length": 83
         }
       ]
     },
@@ -822,7 +938,8 @@
         {
           "Line": 881,
           "OriginalText": "♪Shaka-kala!♪",
-          "TranslatedText": "♪Shaka-kala!♪"
+          "TranslatedText": "♪Shaka-kala!♪",
+          "Length": 13
         }
       ]
     },
@@ -839,28 +956,33 @@
         {
           "Line": 890,
           "OriginalText": "If you have ",
-          "TranslatedText": "ถ้าคุณมี "
+          "TranslatedText": "ถ้าคุณมี ",
+          "Length": 12
         },
         {
           "Line": 894,
           "OriginalText": "Hestu\u0027s gift",
           "TranslatedText": "Hestu\u0027s gift",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 897,
           "OriginalText": ",",
-          "TranslatedText": ","
+          "TranslatedText": ",",
+          "Length": 1
         },
         {
           "Line": 901,
           "OriginalText": " dance with me!\n\n\n",
-          "TranslatedText": " เต้นกับฉันสิ!\n"
+          "TranslatedText": " เต้นกับฉันสิ!\n",
+          "Length": 18
         },
         {
           "Line": 907,
           "OriginalText": "What dance should we do?",
-          "TranslatedText": "เราเต้นอะไรกันดี?"
+          "TranslatedText": "เราเต้นอะไรกันดี?",
+          "Length": 24
         }
       ]
     },
@@ -871,7 +993,8 @@
         {
           "Line": 921,
           "OriginalText": "♪DANCE PARTY!♪",
-          "TranslatedText": "♪DANCE PARTY!♪"
+          "TranslatedText": "♪DANCE PARTY!♪",
+          "Length": 14
         }
       ]
     },
@@ -882,12 +1005,14 @@
         {
           "Line": 930,
           "OriginalText": "Shala-laka!",
-          "TranslatedText": "Shala-laka!"
+          "TranslatedText": "Shala-laka!",
+          "Length": 11
         },
         {
           "Line": 934,
           "OriginalText": "\nSo then...",
-          "TranslatedText": "\nงั้นก็..."
+          "TranslatedText": "\nงั้นก็...",
+          "Length": 11
         }
       ]
     },
@@ -898,12 +1023,14 @@
         {
           "Line": 943,
           "OriginalText": "Shalaka!",
-          "TranslatedText": "Shalaka!"
+          "TranslatedText": "Shalaka!",
+          "Length": 8
         },
         {
           "Line": 947,
           "OriginalText": " Working up a nice sweat here!",
-          "TranslatedText": " ได้เหงื่อดีจัง!"
+          "TranslatedText": " ได้เหงื่อดีจัง!",
+          "Length": 30
         }
       ]
     },
@@ -914,12 +1041,14 @@
         {
           "Line": 956,
           "OriginalText": "Shaka!",
-          "TranslatedText": "Shaka!"
+          "TranslatedText": "Shaka!",
+          "Length": 6
         },
         {
           "Line": 960,
           "OriginalText": " Did you like my dance?",
-          "TranslatedText": " ชอบการเต้นของฉันมั้ย?"
+          "TranslatedText": " ชอบการเต้นของฉันมั้ย?",
+          "Length": 23
         }
       ]
     },
@@ -930,12 +1059,14 @@
         {
           "Line": 969,
           "OriginalText": "Shakala!",
-          "TranslatedText": "Shakala!"
+          "TranslatedText": "Shakala!",
+          "Length": 8
         },
         {
           "Line": 973,
           "OriginalText": " That was fun!",
-          "TranslatedText": " สนุกจัง!"
+          "TranslatedText": " สนุกจัง!",
+          "Length": 14
         }
       ]
     },
@@ -946,12 +1077,14 @@
         {
           "Line": 982,
           "OriginalText": "Shakalay!",
-          "TranslatedText": "Shakalay!"
+          "TranslatedText": "Shakalay!",
+          "Length": 9
         },
         {
           "Line": 986,
           "OriginalText": " That felt great!",
-          "TranslatedText": " นั่นมันเยี่ยมไปเลย!"
+          "TranslatedText": " นั่นมันเยี่ยมไปเลย!",
+          "Length": 17
         }
       ]
     },
@@ -962,12 +1095,14 @@
         {
           "Line": 995,
           "OriginalText": "Hmmkay then.",
-          "TranslatedText": "งั้นก็โอเค"
+          "TranslatedText": "งั้นก็โอเค",
+          "Length": 12
         },
         {
           "Line": 999,
           "OriginalText": " Buh-bye.",
-          "TranslatedText": " บะบาย"
+          "TranslatedText": " บะบาย",
+          "Length": 9
         }
       ]
     },
@@ -978,18 +1113,21 @@
         {
           "Line": 1008,
           "OriginalText": "It looks like you have no\n",
-          "TranslatedText": "ดูเหมือนว่าคุณจะไม่มี\n"
+          "TranslatedText": "ดูเหมือนว่าคุณจะไม่มี\n",
+          "Length": 26
         },
         {
           "Line": 1012,
           "OriginalText": "Korok seeds ",
           "TranslatedText": "Korok seeds ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 1015,
           "OriginalText": "at all.",
-          "TranslatedText": "อยู่เลย"
+          "TranslatedText": "อยู่เลย",
+          "Length": 7
         }
       ]
     },
@@ -1000,7 +1138,8 @@
         {
           "Line": 1024,
           "OriginalText": "I sure hope so!",
-          "TranslatedText": "ฉันก็หวังอย่างนั้น!"
+          "TranslatedText": "ฉันก็หวังอย่างนั้น!",
+          "Length": 15
         }
       ]
     },
@@ -1015,34 +1154,40 @@
         {
           "Line": 1033,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1037,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1041,
           "OriginalText": "one",
           "TranslatedText": "1",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 1044,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1048,
           "OriginalText": "Korok seed",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 10
         },
         {
           "Line": 1051,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1056,34 +1201,40 @@
         {
           "Line": 1068,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1072,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1076,
           "OriginalText": "two",
           "TranslatedText": "2",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 3
         },
         {
           "Line": 1079,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1083,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1086,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1098,34 +1249,40 @@
         {
           "Line": 1103,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1107,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1111,
           "OriginalText": "three",
           "TranslatedText": "3",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 1114,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1118,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1121,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1140,34 +1297,40 @@
         {
           "Line": 1138,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1142,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1146,
           "OriginalText": "five",
           "TranslatedText": "5",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 4
         },
         {
           "Line": 1149,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1153,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1156,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1182,34 +1345,40 @@
         {
           "Line": 1173,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1177,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1181,
           "OriginalText": "eight",
           "TranslatedText": "8",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 5
         },
         {
           "Line": 1184,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1188,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1191,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1224,34 +1393,40 @@
         {
           "Line": 1208,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1212,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1216,
           "OriginalText": "12",
           "TranslatedText": "12",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1219,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1223,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1226,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1266,34 +1441,40 @@
         {
           "Line": 1243,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1247,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1251,
           "OriginalText": "17",
           "TranslatedText": "17",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1254,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1258,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1261,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1308,34 +1489,40 @@
         {
           "Line": 1278,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1282,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1286,
           "OriginalText": "25",
           "TranslatedText": "25",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1289,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1293,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1296,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1350,34 +1537,40 @@
         {
           "Line": 1313,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1317,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1321,
           "OriginalText": "35",
           "TranslatedText": "35",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1324,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1328,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1331,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1392,34 +1585,40 @@
         {
           "Line": 1348,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1352,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1356,
           "OriginalText": "45",
           "TranslatedText": "45",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1359,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1363,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1366,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1434,34 +1633,40 @@
         {
           "Line": 1383,
           "OriginalText": "Shokay!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 7
         },
         {
           "Line": 1387,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1391,
           "OriginalText": "55",
           "TranslatedText": "55",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1394,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1398,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seed",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1401,
           "OriginalText": ".\nDeal?",
-          "TranslatedText": "\nตกลงมั้ย?"
+          "TranslatedText": "\nตกลงมั้ย?",
+          "Length": 7
         }
       ]
     },
@@ -1472,63 +1677,75 @@
         {
           "Line": 1418,
           "OriginalText": "Hm?",
-          "TranslatedText": "Hm?"
+          "TranslatedText": "Hm?",
+          "Length": 3
         },
         {
           "Line": 1425,
           "OriginalText": " Fwah?!\n\n\n",
-          "TranslatedText": " Fwah?!\n"
+          "TranslatedText": " Fwah?!\n",
+          "Length": 10
         },
         {
           "Line": 1437,
           "OriginalText": "Fwahahahaha!",
-          "TranslatedText": "Fwahahahaha!"
+          "TranslatedText": "Fwahahahaha!",
+          "Length": 12
         },
         {
           "Line": 1441,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 1447,
           "OriginalText": "I...",
-          "TranslatedText": "I..."
+          "TranslatedText": "I...",
+          "Length": 4
         },
         {
           "Line": 1451,
           "OriginalText": " I think I remember",
-          "TranslatedText": " ฉันคิดว่าฉันจำได้แล้ว"
+          "TranslatedText": " ฉันคิดว่าฉันจำได้แล้ว",
+          "Length": 19
         },
         {
           "Line": 1455,
           "OriginalText": " how to get back to\nKorok Forest!\n\n",
-          "TranslatedText": " ว่าจะกลับไป\nKorok Forest ยังไง!\n"
+          "TranslatedText": " ว่าจะกลับไป\nKorok Forest ยังไง!\n",
+          "Length": 35
         },
         {
           "Line": 1461,
           "OriginalText": "Maybe I\u0027ll head back now.",
-          "TranslatedText": "บางทีฉันควรจะกลับได้แล้ว"
+          "TranslatedText": "บางทีฉันควรจะกลับได้แล้ว",
+          "Length": 25
         },
         {
           "Line": 1465,
           "OriginalText": " I bet ",
-          "TranslatedText": " ฉันมั่นใจ "
+          "TranslatedText": " ฉันมั่นใจ ",
+          "Length": 7
         },
         {
           "Line": 1469,
           "OriginalText": "Grandpa",
           "TranslatedText": "ปู่",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 7
         },
         {
           "Line": 1472,
           "OriginalText": "\nis waiting for me.\n\nThanks for the Korok seeds!",
-          "TranslatedText": "\nจะต้องรอฉันอยู่แน่\nขอบคุณสำหรับ Korok seeds นะ!"
+          "TranslatedText": "\nจะต้องรอฉันอยู่แน่\nขอบคุณสำหรับ Korok seeds นะ!",
+          "Length": 48
         },
         {
           "Line": 1476,
           "OriginalText": " I\u0027m off to\nKorok Forest!\n\nCome visit me there sometime!",
-          "TranslatedText": " ฉันจะไป\nKorok Forest ล่ะ!\nแวะไปหาฉันที่นั่นบ้างนะ!"
+          "TranslatedText": " ฉันจะไป\nKorok Forest ล่ะ!\nแวะไปหาฉันที่นั่นบ้างนะ!",
+          "Length": 56
         }
       ]
     },
@@ -1539,17 +1756,20 @@
         {
           "Line": 1486,
           "OriginalText": "♪Dah-",
-          "TranslatedText": "♪Dah-"
+          "TranslatedText": "♪Dah-",
+          "Length": 5
         },
         {
           "Line": 1490,
           "OriginalText": "na-na-na-",
-          "TranslatedText": "na-na-na-"
+          "TranslatedText": "na-na-na-",
+          "Length": 9
         },
         {
           "Line": 1494,
           "OriginalText": "naaaaaaaa!♪",
-          "TranslatedText": "naaaaaaaa!♪"
+          "TranslatedText": "naaaaaaaa!♪",
+          "Length": 11
         }
       ]
     },
@@ -1559,28 +1779,33 @@
         {
           "Line": 1509,
           "OriginalText": "Phwahh!",
-          "TranslatedText": "Phwahh!"
+          "TranslatedText": "Phwahh!",
+          "Length": 7
         },
         {
           "Line": 1513,
           "OriginalText": " You don\u0027t have enough\n",
-          "TranslatedText": " คุณมี\n"
+          "TranslatedText": " คุณมี\n",
+          "Length": 23
         },
         {
           "Line": 1517,
           "OriginalText": "Korok seeds",
           "TranslatedText": "Korok seeds",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 1520,
           "OriginalText": ".",
-          "TranslatedText": " ไม่พอนะ"
+          "TranslatedText": " ไม่พอนะ",
+          "Length": 1
         },
         {
           "Line": 1524,
           "OriginalText": " You should learn how\nto count good!",
-          "TranslatedText": " คุณน่าจะไปเรียนการนับมาใหม่!"
+          "TranslatedText": " คุณน่าจะไปเรียนการนับมาใหม่!",
+          "Length": 36
         }
       ]
     },
@@ -1595,34 +1820,40 @@
         {
           "Line": 1533,
           "OriginalText": "Hmmkay then!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 12
         },
         {
           "Line": 1537,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1541,
           "OriginalText": "four",
           "TranslatedText": "4",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 4
         },
         {
           "Line": 1544,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1548,
           "OriginalText": "Korok\nseeds ",
           "TranslatedText": "Korok\nseeds ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 1551,
           "OriginalText": "from you. Deal?",
-          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+          "TranslatedText": "จากคุณ ตกลงมั้ย?",
+          "Length": 15
         }
       ]
     },
@@ -1637,34 +1868,40 @@
         {
           "Line": 1568,
           "OriginalText": "Hmmkay then!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 12
         },
         {
           "Line": 1572,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1576,
           "OriginalText": "10",
           "TranslatedText": "10",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1579,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1583,
           "OriginalText": "Korok\nseeds ",
           "TranslatedText": "Korok\nseeds ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 1586,
           "OriginalText": "from you. Deal?",
-          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+          "TranslatedText": "จากคุณ ตกลงมั้ย?",
+          "Length": 15
         }
       ]
     },
@@ -1679,34 +1916,40 @@
         {
           "Line": 1603,
           "OriginalText": "Hmmkay then!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 12
         },
         {
           "Line": 1607,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1611,
           "OriginalText": "15",
           "TranslatedText": "15",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1614,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1618,
           "OriginalText": "Korok\nseeds ",
           "TranslatedText": "Korok\nseeds ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 1621,
           "OriginalText": "from you. Deal?",
-          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+          "TranslatedText": "จากคุณ ตกลงมั้ย?",
+          "Length": 15
         }
       ]
     },
@@ -1721,34 +1964,40 @@
         {
           "Line": 1638,
           "OriginalText": "Hmmkay then!",
-          "TranslatedText": "โอเค!"
+          "TranslatedText": "โอเค!",
+          "Length": 12
         },
         {
           "Line": 1642,
           "OriginalText": " I\u0027ll just need ",
-          "TranslatedText": " ฉันแค่ต้องการ"
+          "TranslatedText": " ฉันแค่ต้องการ",
+          "Length": 16
         },
         {
           "Line": 1646,
           "OriginalText": "20",
           "TranslatedText": "20",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 2
         },
         {
           "Line": 1649,
           "OriginalText": " ",
-          "TranslatedText": " "
+          "TranslatedText": " ",
+          "Length": 1
         },
         {
           "Line": 1653,
           "OriginalText": "Korok\nseeds ",
           "TranslatedText": "Korok\nseeds ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 1656,
           "OriginalText": "from you. Deal?",
-          "TranslatedText": "จากคุณ ตกลงมั้ย?"
+          "TranslatedText": "จากคุณ ตกลงมั้ย?",
+          "Length": 15
         }
       ]
     },
@@ -1759,42 +2008,50 @@
         {
           "Line": 1676,
           "OriginalText": "♪Shalaka!♪",
-          "TranslatedText": "♪Shalaka!♪"
+          "TranslatedText": "♪Shalaka!♪",
+          "Length": 10
         },
         {
           "Line": 1680,
           "OriginalText": "\n\n\n",
-          "TranslatedText": "\n"
+          "TranslatedText": "\n",
+          "Length": 3
         },
         {
           "Line": 1686,
           "OriginalText": "We meet again!\n\n\nWhy so quiet? ",
-          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบล่ะ? "
+          "TranslatedText": "เราเจอกันอีกแล้ว!\nทำไมเงียบล่ะ? ",
+          "Length": 31
         },
         {
           "Line": 1690,
           "OriginalText": " Don\u0027t you remember me?",
-          "TranslatedText": " จำฉันไม่ได้เหรอ?"
+          "TranslatedText": " จำฉันไม่ได้เหรอ?",
+          "Length": 23
         },
         {
           "Line": 1694,
           "OriginalText": "\nHestu?",
-          "TranslatedText": "\nHestu ไง?"
+          "TranslatedText": "\nHestu ไง?",
+          "Length": 7
         },
         {
           "Line": 1698,
           "OriginalText": " The famed musician of\nKorok Forest?\nI\u0027ve got to hand it to you—it\u0027s not easy\nto find this place.",
-          "TranslatedText": " นักดนตรีผู้โด่งดังแห่ง\nKorok Forest?\nฉันต้องขอบอกเลยนะ—มันไม่ง่ายเลย\nในการหาที่นี่"
+          "TranslatedText": " นักดนตรีผู้โด่งดังแห่ง\nKorok Forest?\nฉันต้องขอบอกเลยนะ—มันไม่ง่ายเลย\nในการหาที่นี่",
+          "Length": 97
         },
         {
           "Line": 1702,
           "OriginalText": " They don\u0027t call them\nthe Lost Woods for nothing!\n",
-          "TranslatedText": " ชื่อ Lost Woods (ป่าลับแล)นี่ไม่ได้มาเล่นๆ หรอกนะ!\n"
+          "TranslatedText": " ชื่อ Lost Woods (ป่าลับแล)นี่ไม่ได้มาเล่นๆ หรอกนะ!\n",
+          "Length": 50
         },
         {
           "Line": 1711,
           "OriginalText": "Oh right!",
-          "TranslatedText": "อ้อ ใช่แล้ว!"
+          "TranslatedText": "อ้อ ใช่แล้ว!",
+          "Length": 9
         }
       ]
     }

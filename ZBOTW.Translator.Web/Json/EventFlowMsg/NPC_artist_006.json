@@ -7,17 +7,20 @@
         {
           "Line": 13,
           "OriginalText": "Hmm...",
-          "TranslatedText": "อืมม..."
+          "TranslatedText": "อืมม...",
+          "Length": 6
         },
         {
           "Line": 17,
           "OriginalText": " This stable is surrounded\nby cliffs, ",
-          "TranslatedText": " ที่พักม้าถูกล้อมรอบด้วยหน้าผา\n"
+          "TranslatedText": " ที่พักม้าถูกล้อมรอบด้วยหน้าผา\n",
+          "Length": 38
         },
         {
           "Line": 21,
           "OriginalText": "so it lacks striking scenery.",
-          "TranslatedText": "วิวก็เลยไม่ดีเท่าไหร่"
+          "TranslatedText": "วิวก็เลยไม่ดีเท่าไหร่",
+          "Length": 29
         }
       ]
     },
@@ -27,50 +30,59 @@
         {
           "Line": 30,
           "OriginalText": "Oh! That horse statue! This is at the\n",
-          "TranslatedText": "อ้อ! รูปปั้นม้านั่น! นี่มันที่ "
+          "TranslatedText": "อ้อ! รูปปั้นม้านั่น! นี่มันที่ ",
+          "Length": 38
         },
         {
           "Line": 34,
           "OriginalText": "Sanidin Park Ruins",
           "TranslatedText": "Sanidin Park Ruins",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 18
         },
         {
           "Line": 37,
           "OriginalText": ".\n\n",
-          "TranslatedText": "\n\n"
+          "TranslatedText": "\n\n",
+          "Length": 3
         },
         {
           "Line": 43,
           "OriginalText": "Yes, there are some park ruins on\n",
-          "TranslatedText": "ใช่ มันมีซากปรักหักพังอยู่ยน \n"
+          "TranslatedText": "ใช่ มันมีซากปรักหักพังอยู่ยน \n",
+          "Length": 34
         },
         {
           "Line": 47,
           "OriginalText": "Safula Hill ",
           "TranslatedText": "Safula Hill ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 12
         },
         {
           "Line": 50,
           "OriginalText": "to the ",
-          "TranslatedText": "ทาง"
+          "TranslatedText": "ทาง",
+          "Length": 7
         },
         {
           "Line": 54,
           "OriginalText": "northwest",
           "TranslatedText": "ตะวันตกเฉียงเหนือ",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 9
         },
         {
           "Line": 57,
           "OriginalText": " of here.",
-          "TranslatedText": "ของที่นี่"
+          "TranslatedText": "ของที่นี่",
+          "Length": 9
         },
         {
           "Line": 61,
           "OriginalText": "\nYou\u0027ll find this horse statue there.",
-          "TranslatedText": "\nคุณจะพบรูปปั้นม้าที่นั่น"
+          "TranslatedText": "\nคุณจะพบรูปปั้นม้าที่นั่น",
+          "Length": 37
         }
       ]
     },
@@ -80,7 +92,8 @@
         {
           "Line": 70,
           "OriginalText": "Painting is my passion, but even I can\ntell that statue is a true masterpiece.\nIt\u0027s worth seeing at least once.",
-          "TranslatedText": "ฉันชอบการวาดรูป แต่แม้แต่ฉันก็ยังบอกได้\nว่ารูปปั้นม้านั้นเป็นผลงานชั้นยอด\nคู่ควรไปดูให้เห็นสักครั้ง"
+          "TranslatedText": "ฉันชอบการวาดรูป แต่แม้แต่ฉันก็ยังบอกได้\nว่ารูปปั้นม้านั้นเป็นผลงานชั้นยอด\nคู่ควรไปดูให้เห็นสักครั้ง",
+          "Length": 111
         }
       ]
     }

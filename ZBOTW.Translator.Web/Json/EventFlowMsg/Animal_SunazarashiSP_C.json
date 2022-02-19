@@ -8,29 +8,34 @@
         {
           "Line": 13,
           "OriginalText": "\u0022",
-          "TranslatedText": "\u0022"
+          "TranslatedText": "\u0022",
+          "Length": 1
         },
         {
           "Line": 17,
           "OriginalText": "Sand boots ",
           "TranslatedText": "รองเท้าบูททราย",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 20,
           "OriginalText": "for desert sands and\n",
-          "TranslatedText": "เพื่อทรายทะเลทรายและ\n"
+          "TranslatedText": "เพื่อทรายทะเลทรายและ\n",
+          "Length": 21
         },
         {
           "Line": 24,
           "OriginalText": "snow boots ",
           "TranslatedText": "รองเท้าบูทหิมะ ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 11
         },
         {
           "Line": 27,
           "OriginalText": "for...serious snowfall.\u0022\nI\u0027ve spared you the painful seal pun.",
-          "TranslatedText": "เพื่อ ... หิมะตกหนัก\u0022\nฉันได้ไว้ชีวิต seal pun"
+          "TranslatedText": "เพื่อ ... หิมะตกหนัก\u0022\nฉันได้ไว้ชีวิต seal pun",
+          "Length": 62
         }
       ]
     },
@@ -41,12 +46,14 @@
         {
           "Line": 36,
           "OriginalText": "\u0022Sand seals can be knocked out by the\nsound of an explosion. I\u0027m se—",
-          "TranslatedText": "\u0022Sand seals สามารถทำให้สลบ\nได้ด้วยเสียงระเบิด ฉันจ—"
+          "TranslatedText": "\u0022Sand seals สามารถทำให้สลบ\nได้ด้วยเสียงระเบิด ฉันจ—",
+          "Length": 68
         },
         {
           "Line": 40,
           "OriginalText": "\n...Serious.\u0022\nThat was a close one. She tried to slip a\nseal pun in there.",
-          "TranslatedText": "\n...จริงจังนะ\u0022\nนั่นเป็นเรื่องใกล้ตัว เธอพยายามที่จะจะลื่นไถล\nseal pun ที่นั้น"
+          "TranslatedText": "\n...จริงจังนะ\u0022\nนั่นเป็นเรื่องใกล้ตัว เธอพยายามที่จะจะลื่นไถล\nseal pun ที่นั้น",
+          "Length": 74
         }
       ]
     },
@@ -57,23 +64,27 @@
         {
           "Line": 49,
           "OriginalText": "\u0022The southern desert is...",
-          "TranslatedText": "\u0022ทะเลทรายทางตอนใต้..."
+          "TranslatedText": "\u0022ทะเลทรายทางตอนใต้...",
+          "Length": 26
         },
         {
           "Line": 53,
           "OriginalText": "searing hot\nduring the day! Bring ",
-          "TranslatedText": "ร้อนระอุ\nในช่วงกลางวัน! นำ "
+          "TranslatedText": "ร้อนระอุ\nในช่วงกลางวัน! นำ ",
+          "Length": 34
         },
         {
           "Line": 57,
           "OriginalText": "gear made for it",
           "TranslatedText": "อุปกรณ์ทำเพื่อมัน",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 60,
           "OriginalText": "!\u0022\nI\u0027ve spared you the painful seal pun.",
-          "TranslatedText": "!\u0022\nฉันได้ช่วยชีวิต seal pun."
+          "TranslatedText": "!\u0022\nฉันได้ช่วยชีวิต seal pun.",
+          "Length": 40
         }
       ]
     },
@@ -84,12 +95,14 @@
         {
           "Line": 69,
           "OriginalText": "\u0022Seal the deal on your fortune by using\nmore valuable fruit!\u0022",
-          "TranslatedText": "\u0022ปิดข้อตกลงกับโชคชะตาของคุณ\nโดยการใช้ ผลไม้ที่มีค่ามากขึ้น!\u0022"
+          "TranslatedText": "\u0022ปิดข้อตกลงกับโชคชะตาของคุณ\nโดยการใช้ ผลไม้ที่มีค่ามากขึ้น!\u0022",
+          "Length": 61
         },
         {
           "Line": 73,
           "OriginalText": "\nYeah, there was no avoiding that pun.",
-          "TranslatedText": "\nใช่ ไม่มีทางหลีกเลี่ยงคำนั้นได้"
+          "TranslatedText": "\nใช่ ไม่มีทางหลีกเลี่ยงคำนั้นได้",
+          "Length": 38
         }
       ]
     },
@@ -100,12 +113,14 @@
         {
           "Line": 82,
           "OriginalText": "...\n\n\n",
-          "TranslatedText": "...\n\n\n"
+          "TranslatedText": "...\n\n\n",
+          "Length": 6
         },
         {
           "Line": 88,
           "OriginalText": "Thank you for your wisdom, kind\nPatricia! We\u0027re very grateful!",
-          "TranslatedText": "ขอบคุณสำหรับสติปัญญาของคุณ\nPatricia! เรารู้สึกขอบคุณมาก!"
+          "TranslatedText": "ขอบคุณสำหรับสติปัญญาของคุณ\nPatricia! เรารู้สึกขอบคุณมาก!",
+          "Length": 62
         }
       ]
     },
@@ -116,43 +131,51 @@
         {
           "Line": 97,
           "OriginalText": "\u0022Look to the top of the ",
-          "TranslatedText": "\u0022มองไปที่ด้านบนของ "
+          "TranslatedText": "\u0022มองไปที่ด้านบนของ ",
+          "Length": 24
         },
         {
           "Line": 101,
           "OriginalText": "Gerudo Highlands",
           "TranslatedText": "ที่ราบสูง Gerudo",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 16
         },
         {
           "Line": 104,
           "OriginalText": "\nto sea",
-          "TranslatedText": "\nไปทะเล"
+          "TranslatedText": "\nไปทะเล",
+          "Length": 7
         },
         {
           "Line": 108,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         },
         {
           "Line": 112,
           "OriginalText": "SEE",
-          "TranslatedText": "ดู"
+          "TranslatedText": "ดู",
+          "Length": 3
         },
         {
           "Line": 116,
           "OriginalText": "...the path to a dragon.\u0022\n",
-          "TranslatedText": "...เส้นทางสู่มังกร\u0022\n"
+          "TranslatedText": "...เส้นทางสู่มังกร\u0022\n",
+          "Length": 26
         },
         {
           "Line": 120,
           "OriginalText": "*sigh* ",
-          "TranslatedText": "*ถอนหายใจ* "
+          "TranslatedText": "*ถอนหายใจ* ",
+          "Length": 7
         },
         {
           "Line": 124,
           "OriginalText": "I\u0027ve spared you the seal pun.",
-          "TranslatedText": "ฉันเคยไว้ชีวิตคุณ seal pun"
+          "TranslatedText": "ฉันเคยไว้ชีวิตคุณ seal pun",
+          "Length": 29
         }
       ]
     },
@@ -163,23 +186,27 @@
         {
           "Line": 133,
           "OriginalText": "\u0022",
-          "TranslatedText": "\u0022"
+          "TranslatedText": "\u0022",
+          "Length": 1
         },
         {
           "Line": 137,
           "OriginalText": "Risoka Snowfield ",
           "TranslatedText": "Risoka Snowfield ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 17
         },
         {
           "Line": 140,
           "OriginalText": "rests upon the\nshoulders of the eighth heroine...\u0022",
-          "TranslatedText": "วางอยู่บน\nไหล่ของ วีรสตรีที่แปด...\u0022"
+          "TranslatedText": "วางอยู่บน\nไหล่ของ วีรสตรีที่แปด...\u0022",
+          "Length": 50
         },
         {
           "Line": 144,
           "OriginalText": "\nA rare, pun-free prophecy...",
-          "TranslatedText": "\nหายาก, pun-free คำทำนาย..."
+          "TranslatedText": "\nหายาก, pun-free คำทำนาย...",
+          "Length": 29
         }
       ]
     },
@@ -190,12 +217,14 @@
         {
           "Line": 153,
           "OriginalText": "\u0022The location a dragon drifts to is also\nthe goal of those...seeking a great fairy.\u0022",
-          "TranslatedText": "\u0022สถานที่ที่มังกรล่องลอยไป \nก็เป็นเป้าหมายของ...ตามหานางฟ้าผู้ยิ่งใหญ่.\u0022"
+          "TranslatedText": "\u0022สถานที่ที่มังกรล่องลอยไป \nก็เป็นเป้าหมายของ...ตามหานางฟ้าผู้ยิ่งใหญ่.\u0022",
+          "Length": 84
         },
         {
           "Line": 157,
           "OriginalText": "\nI\u0027ve spared you the painful seal pun.",
-          "TranslatedText": "\nฉันได้ช่วยชีวิต seal pun."
+          "TranslatedText": "\nฉันได้ช่วยชีวิต seal pun.",
+          "Length": 38
         }
       ]
     },
@@ -206,23 +235,27 @@
         {
           "Line": 166,
           "OriginalText": "\u0022",
-          "TranslatedText": "\u0022"
+          "TranslatedText": "\u0022",
+          "Length": 1
         },
         {
           "Line": 170,
           "OriginalText": "Molduga ",
           "TranslatedText": "Molduga ",
-          "Colour": "blue"
+          "Colour": "blue",
+          "Length": 8
         },
         {
           "Line": 173,
           "OriginalText": "eat anything—even bombs.\nThat\u0027s a rather...serious diet!\u0022",
-          "TranslatedText": "กินอะไรก็ได้—แม้แต่ระเบิด\nนั่นเป็นอาหารที่ไม่ธรรมดาเลยนะ ...!\u0022"
+          "TranslatedText": "กินอะไรก็ได้—แม้แต่ระเบิด\nนั่นเป็นอาหารที่ไม่ธรรมดาเลยนะ ...!\u0022",
+          "Length": 57
         },
         {
           "Line": 177,
           "OriginalText": "\nI\u0027ve spared you the painful seal pun.",
-          "TranslatedText": "\nฉันได้ช่วยชีวิต seal pun."
+          "TranslatedText": "\nฉันได้ช่วยชีวิต seal pun.",
+          "Length": 38
         }
       ]
     }

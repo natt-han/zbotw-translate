@@ -7,7 +7,8 @@
         {
           "Line": 8,
           "OriginalText": "Sure.",
-          "TranslatedText": "แน่นอน"
+          "TranslatedText": "แน่นอน",
+          "Length": 5
         }
       ]
     },
@@ -17,7 +18,8 @@
         {
           "Line": 12,
           "OriginalText": "I\u0027ll pass.",
-          "TranslatedText": "ฉันขอผ่าน"
+          "TranslatedText": "ฉันขอผ่าน",
+          "Length": 10
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "Line": 16,
           "OriginalText": "I\u0027ll keep my rupees.",
-          "TranslatedText": "ฉันจะเก็บรูปีของฉันไว้"
+          "TranslatedText": "ฉันจะเก็บรูปีของฉันไว้",
+          "Length": 20
         }
       ]
     },
@@ -37,7 +40,8 @@
         {
           "Line": 20,
           "OriginalText": "Here you go.",
-          "TranslatedText": "นี่ไง"
+          "TranslatedText": "นี่ไง",
+          "Length": 12
         }
       ]
     },
@@ -52,17 +56,20 @@
         {
           "Line": 32,
           "OriginalText": "Boy...",
-          "TranslatedText": "โอ้ว..."
+          "TranslatedText": "โอ้ว...",
+          "Length": 6
         },
         {
           "Line": 36,
           "OriginalText": "\n\n\nSweet boy...\n\n\nPlease...",
-          "TranslatedText": "\n\n\nหนุ่มน้อย...\n\n\nโปรด..."
+          "TranslatedText": "\n\n\nหนุ่มน้อย...\n\n\nโปรด...",
+          "Length": 27
         },
         {
           "Line": 40,
           "OriginalText": " Listen to my story...",
-          "TranslatedText": " ฟังเรื่องราวของฉัน..."
+          "TranslatedText": " ฟังเรื่องราวของฉัน...",
+          "Length": 22
         }
       ]
     },
@@ -73,17 +80,20 @@
         {
           "Line": 52,
           "OriginalText": "Now... ",
-          "TranslatedText": "ตอนนี้... "
+          "TranslatedText": "ตอนนี้... ",
+          "Length": 7
         },
         {
           "Line": 56,
           "OriginalText": "You have rupees for me, right?",
-          "TranslatedText": "เธอมีรูปีสำหรับฉันใช่ไหม?"
+          "TranslatedText": "เธอมีรูปีสำหรับฉันใช่ไหม?",
+          "Length": 30
         },
         {
           "Line": 60,
           "OriginalText": "\nHand them over. Quickly!",
-          "TranslatedText": "\nส่งมันมา เร็วสิจ้ะ!"
+          "TranslatedText": "\nส่งมันมา เร็วสิจ้ะ!",
+          "Length": 25
         }
       ]
     },
@@ -94,7 +104,8 @@
         {
           "Line": 69,
           "OriginalText": "That is truly tragic...",
-          "TranslatedText": "นั่นเป็นเรื่องที่น่าเศร้ามาก..."
+          "TranslatedText": "นั่นเป็นเรื่องที่น่าเศร้ามาก...",
+          "Length": 23
         }
       ]
     },
@@ -105,12 +116,14 @@
         {
           "Line": 78,
           "OriginalText": "Ah...",
-          "TranslatedText": "อา..."
+          "TranslatedText": "อา...",
+          "Length": 5
         },
         {
           "Line": 82,
           "OriginalText": " You\u0027ve returned.",
-          "TranslatedText": "เธอกลับมาแล้ว"
+          "TranslatedText": "เธอกลับมาแล้ว",
+          "Length": 17
         }
       ]
     },
@@ -121,17 +134,20 @@
         {
           "Line": 86,
           "OriginalText": "Now... ",
-          "TranslatedText": "ตอนนี้... "
+          "TranslatedText": "ตอนนี้... ",
+          "Length": 7
         },
         {
           "Line": 90,
           "OriginalText": "If you have rupees,",
-          "TranslatedText": "หากมีรูปี,"
+          "TranslatedText": "หากมีรูปี,",
+          "Length": 19
         },
         {
           "Line": 94,
           "OriginalText": " hand them\nover to me. Quickly!",
-          "TranslatedText": " ส่งมันมา\nให้ฉัน เร็วๆสิจ้ะ!"
+          "TranslatedText": " ส่งมันมา\nให้ฉัน เร็วๆสิจ้ะ!",
+          "Length": 31
         }
       ]
     },
@@ -146,24 +162,28 @@
         {
           "Line": 103,
           "OriginalText": "In order for me to regain my power,",
-          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง"
+          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง",
+          "Length": 35
         },
         {
           "Line": 107,
           "OriginalText": "\nI need ",
-          "TranslatedText": "\nฉันต้องการ "
+          "TranslatedText": "\nฉันต้องการ ",
+          "Length": 8
         },
         {
           "Line": 115,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "AmountRupeeForNextRevivalFountain"
+          "Variable": "AmountRupeeForNextRevivalFountain",
+          "Length": 7
         },
         {
           "Line": 118,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -174,17 +194,20 @@
         {
           "Line": 130,
           "OriginalText": "Oh? I feel the power of a new sister...",
-          "TranslatedText": "โอ้ ฉันรู้สึกถึงพลังของพี่น้องคนใหม่..."
+          "TranslatedText": "โอ้ ฉันรู้สึกถึงพลังของพี่น้องคนใหม่...",
+          "Length": 39
         },
         {
           "Line": 134,
           "OriginalText": "\nQuickly,",
-          "TranslatedText": "\nเร็วสิจ้ะ"
+          "TranslatedText": "\nเร็วสิจ้ะ",
+          "Length": 9
         },
         {
           "Line": 138,
           "OriginalText": " free me as well!",
-          "TranslatedText": "ปลดปล่อยฉันที!"
+          "TranslatedText": "ปลดปล่อยฉันที!",
+          "Length": 17
         }
       ]
     },
@@ -199,23 +222,27 @@
         {
           "Line": 147,
           "OriginalText": "In order for me to regain my power,",
-          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง"
+          "TranslatedText": "เพื่อให้ฉันฟื้นพลัง",
+          "Length": 35
         },
         {
           "Line": 151,
           "OriginalText": "\nI need ",
-          "TranslatedText": "\nฉันต้องการ "
+          "TranslatedText": "\nฉันต้องการ ",
+          "Length": 8
         },
         {
           "Line": 155,
           "OriginalText": "1,000 rupees",
           "TranslatedText": "1,000 รูปี",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 158,
           "OriginalText": ".",
-          "TranslatedText": "."
+          "TranslatedText": ".",
+          "Length": 1
         }
       ]
     },
@@ -226,17 +253,20 @@
         {
           "Line": 175,
           "OriginalText": "Well...",
-          "TranslatedText": "เยี่ยมเลย..."
+          "TranslatedText": "เยี่ยมเลย...",
+          "Length": 7
         },
         {
           "Line": 179,
           "OriginalText": " You\u0027re back!",
-          "TranslatedText": "กลับมาแล้ว!"
+          "TranslatedText": "กลับมาแล้ว!",
+          "Length": 13
         },
         {
           "Line": 183,
           "OriginalText": "\nI mean... You\u0027ve come back, have you?",
-          "TranslatedText": "\nฉันหมายถึง... เธอกลับมาแล้ว, สินะ?"
+          "TranslatedText": "\nฉันหมายถึง... เธอกลับมาแล้ว, สินะ?",
+          "Length": 38
         }
       ]
     },
@@ -247,17 +277,20 @@
         {
           "Line": 192,
           "OriginalText": "What\u0027s this?",
-          "TranslatedText": "นี่หมายความว่าไง?"
+          "TranslatedText": "นี่หมายความว่าไง?",
+          "Length": 12
         },
         {
           "Line": 196,
           "OriginalText": " You don\u0027t have enough\nrupees?\n\nHow tragic...",
-          "TranslatedText": "เธอมี\nรูปี ไม่เพียงพอ?\n\nช่างน่าเศร้า..."
+          "TranslatedText": "เธอมี\nรูปี ไม่เพียงพอ?\n\nช่างน่าเศร้า...",
+          "Length": 45
         },
         {
           "Line": 200,
           "OriginalText": " How dreadfully tragic.",
-          "TranslatedText": " ช่างน่าเศร้าจริงๆ"
+          "TranslatedText": " ช่างน่าเศร้าจริงๆ",
+          "Length": 23
         }
       ]
     },
@@ -268,12 +301,14 @@
         {
           "Line": 204,
           "OriginalText": "This place was once a beautiful spring...\n\n\nBut as time passed, fewer and fewer\ntravelers arrived to offer me rupees.",
-          "TranslatedText": "สถานที่แห่งนี้เคยเป็นฤดูใบไม้ผลิที่สวยงาม...\n\n\nแต่เมื่อเวลาผ่านไป นักเดินทางที่มาถวายรูปีให้ฉัน\nก็มาที่นี่น้อยลงเรื่อยๆ"
+          "TranslatedText": "สถานที่แห่งนี้เคยเป็นฤดูใบไม้ผลิที่สวยงาม...\n\n\nแต่เมื่อเวลาผ่านไป นักเดินทางที่มาถวายรูปีให้ฉัน\nก็มาที่นี่น้อยลงเรื่อยๆ",
+          "Length": 117
         },
         {
           "Line": 208,
           "OriginalText": " As a\nresult, my power has abandoned me.\nI\u0027m nearly powerless now, so I beg your\nhelp. I need rupees to become whole\nagain.",
-          "TranslatedText": "ผลก็คือ\nพลังของฉันได้ทอดทิ้งฉันฉันเกือบจะไร้พลังแล้ว\nดังนั้น ฉันขอความช่วยเหลือจากเธอ\nฉันต้องการรูปี\nเพื่อที่จะกลับมาสมบูรณ์อีกครั้ง"
+          "TranslatedText": "ผลก็คือ\nพลังของฉันได้ทอดทิ้งฉันฉันเกือบจะไร้พลังแล้ว\nดังนั้น ฉันขอความช่วยเหลือจากเธอ\nฉันต้องการรูปี\nเพื่อที่จะกลับมาสมบูรณ์อีกครั้ง",
+          "Length": 123
         }
       ]
     },
@@ -284,27 +319,32 @@
         {
           "Line": 212,
           "OriginalText": "Hast thou...",
-          "TranslatedText": "เธอจะ..."
+          "TranslatedText": "เธอจะ...",
+          "Length": 12
         },
         {
           "Line": 216,
           "OriginalText": " I mean...",
-          "TranslatedText": " ฉันหมายถึง..."
+          "TranslatedText": " ฉันหมายถึง...",
+          "Length": 10
         },
         {
           "Line": 220,
           "OriginalText": " Have you ever felt\nthe pain of losing a horse companion?\n\nIf my power is returned to me,",
-          "TranslatedText": " เธอเคยรู้สึกไหม\nความเจ็บปวดจากการสูญเสียสหายม้า?\n\nหากพลังของฉันฟื้นกลับมา"
+          "TranslatedText": " เธอเคยรู้สึกไหม\nความเจ็บปวดจากการสูญเสียสหายม้า?\n\nหากพลังของฉันฟื้นกลับมา",
+          "Length": 89
         },
         {
           "Line": 224,
           "OriginalText": " I may be\nable to help you out in some way...\n\nSo please... I beg of you...",
-          "TranslatedText": " ฉันอาจจะ\nสามารถช่วยเธอได้ในบางวิธี...\n\nได้โปรด... ฉันขอร้องล่ะ..."
+          "TranslatedText": " ฉันอาจจะ\nสามารถช่วยเธอได้ในบางวิธี...\n\nได้โปรด... ฉันขอร้องล่ะ...",
+          "Length": 75
         },
         {
           "Line": 228,
           "OriginalText": "\nHelp me regain the power I\u0027ve lost...",
-          "TranslatedText": "\nช่วยให้ฉันฟื้นพลังที่ฉันสูญเสียไป..."
+          "TranslatedText": "\nช่วยให้ฉันฟื้นพลังที่ฉันสูญเสียไป...",
+          "Length": 38
         }
       ]
     },
@@ -315,7 +355,8 @@
         {
           "Line": 237,
           "OriginalText": "Thank you. You are too kind.",
-          "TranslatedText": "ขอบคุณ เธอช่างใจดีมาก"
+          "TranslatedText": "ขอบคุณ เธอช่างใจดีมาก",
+          "Length": 28
         }
       ]
     },
@@ -326,12 +367,14 @@
         {
           "Line": 241,
           "OriginalText": "Aah... ",
-          "TranslatedText": "อา... "
+          "TranslatedText": "อา... ",
+          "Length": 7
         },
         {
           "Line": 245,
           "OriginalText": "The power...",
-          "TranslatedText": "พลัง..."
+          "TranslatedText": "พลัง...",
+          "Length": 12
         }
       ]
     },
@@ -342,17 +385,20 @@
         {
           "Line": 249,
           "OriginalText": "Nwaaaaaagh... ",
-          "TranslatedText": "อ่าาาาาา... "
+          "TranslatedText": "อ่าาาาาา... ",
+          "Length": 14
         },
         {
           "Line": 253,
           "OriginalText": "I...",
-          "TranslatedText": "ฉะ..."
+          "TranslatedText": "ฉะ...",
+          "Length": 4
         },
         {
           "Line": 257,
           "OriginalText": "am...",
-          "TranslatedText": "ฉัน..."
+          "TranslatedText": "ฉัน...",
+          "Length": 5
         }
       ]
     },
@@ -363,7 +409,8 @@
         {
           "Line": 264,
           "OriginalText": "It\u0027s overflowing!!!",
-          "TranslatedText": "มันเอ่อล้น!!!"
+          "TranslatedText": "มันเอ่อล้น!!!",
+          "Length": 19
         }
       ]
     },
@@ -374,7 +421,8 @@
         {
           "Line": 274,
           "OriginalText": "Revived!!",
-          "TranslatedText": "ฟื้นขึ้นมา!!"
+          "TranslatedText": "ฟื้นขึ้นมา!!",
+          "Length": 9
         }
       ]
     },
@@ -385,7 +433,8 @@
         {
           "Line": 292,
           "OriginalText": "I am the Great Fairy Cotera...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่..."
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่...",
+          "Length": 30
         }
       ]
     },
@@ -396,7 +445,8 @@
         {
           "Line": 301,
           "OriginalText": "I am the Great Fairy Mija...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Mija..."
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Mija...",
+          "Length": 28
         }
       ]
     },
@@ -407,7 +457,8 @@
         {
           "Line": 310,
           "OriginalText": "I am the Great Fairy Kaysa...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Kaysa..."
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Kaysa...",
+          "Length": 29
         }
       ]
     },
@@ -418,7 +469,8 @@
         {
           "Line": 319,
           "OriginalText": "I am the Great Fairy Tera...",
-          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Tera..."
+          "TranslatedText": "ฉันเป็นนางฟ้าผู้ยิ่งใหญ่ Tera...",
+          "Length": 28
         }
       ]
     },
@@ -429,7 +481,8 @@
         {
           "Line": 328,
           "OriginalText": "I am Malanya...",
-          "TranslatedText": "ฉัน Malanya..."
+          "TranslatedText": "ฉัน Malanya...",
+          "Length": 15
         }
       ]
     },
@@ -440,19 +493,22 @@
         {
           "Line": 342,
           "OriginalText": "All I need is ",
-          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ "
+          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ ",
+          "Length": 14
         },
         {
           "Line": 350,
           "OriginalText": " rupees",
           "TranslatedText": " รูปี",
           "Colour": "red",
-          "Variable": "AmountRupeeForNextRevivalFountain"
+          "Variable": "AmountRupeeForNextRevivalFountain",
+          "Length": 7
         },
         {
           "Line": 353,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -463,18 +519,21 @@
         {
           "Line": 362,
           "OriginalText": "All I need is ",
-          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ "
+          "TranslatedText": "ทั้งหมดที่ฉันต้องการคือ ",
+          "Length": 14
         },
         {
           "Line": 366,
           "OriginalText": "1,000 rupees",
           "TranslatedText": "1,000 รูปี",
-          "Colour": "red"
+          "Colour": "red",
+          "Length": 12
         },
         {
           "Line": 369,
           "OriginalText": "...",
-          "TranslatedText": "..."
+          "TranslatedText": "...",
+          "Length": 3
         }
       ]
     },
@@ -485,7 +544,8 @@
         {
           "Line": 373,
           "OriginalText": "Once my power has been restored,\nI can help you do great things, boy.",
-          "TranslatedText": "เมื่อพลังของฉันฟื้นฟูแล้ว\nฉันช่วยทําสิ่งดีๆได้นะ หนุ่มน้อย"
+          "TranslatedText": "เมื่อพลังของฉันฟื้นฟูแล้ว\nฉันช่วยทําสิ่งดีๆได้นะ หนุ่มน้อย",
+          "Length": 69
         }
       ]
     },
@@ -496,12 +556,14 @@
         {
           "Line": 377,
           "OriginalText": "When my power has been restored,",
-          "TranslatedText": "เมื่อพลังงานของฉันได้รับการฟื้นฟู"
+          "TranslatedText": "เมื่อพลังงานของฉันได้รับการฟื้นฟู",
+          "Length": 32
         },
         {
           "Line": 381,
           "OriginalText": "\nI should be able to be of use to\nyou, who loves horses so.",
-          "TranslatedText": "\nฉันควรสามารถใช้ประโยชน์ได้\nเธอผู้รักม้า ดังนั้น"
+          "TranslatedText": "\nฉันควรสามารถใช้ประโยชน์ได้\nเธอผู้รักม้า ดังนั้น",
+          "Length": 59
         }
       ]
     },
@@ -512,7 +574,8 @@
         {
           "Line": 388,
           "OriginalText": "Ah-HAAAAAAAAAAA!!!",
-          "TranslatedText": "อ่า-ฮ้าาาาา!!!"
+          "TranslatedText": "อ่า-ฮ้าาาาา!!!",
+          "Length": 18
         }
       ]
     }
