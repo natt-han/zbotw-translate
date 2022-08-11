@@ -207,7 +207,7 @@
         {
           "Line": 130,
           "OriginalText": "Got anything else you might want\nto sell?",
-          "TranslatedText": null,
+          "TranslatedText": "มีอะไรอยากขายอีกไหม?",
           "Length": 41
         }
       ]
@@ -218,7 +218,7 @@
         {
           "Line": 134,
           "OriginalText": "It\u0027s almost my husband\u0027s birthday! I\u0027m\nhappy to buy anything from you—I might\nfind a great present for him!",
-          "TranslatedText": null,
+          "TranslatedText": "เกือบจะถึงวันเกิดสามีฉันแล้ว! ฉันยินดี\nซื้อทุกอย่างจากคุณ—ฉันอาจจะเจอ\nของขวัญที่เหมาะกับเขาก็ได้!",
           "Length": 107
         }
       ]
@@ -229,7 +229,7 @@
         {
           "Line": 138,
           "OriginalText": "If you have anything good, I\u0027d like to\ngive it to my husband as a present. Sell\nme everything!",
-          "TranslatedText": null,
+          "TranslatedText": "ถ้าคุณมีของดีๆ ละก็ ฉันอยากจะเอา\nให้สามีฉันเป็นของขวัญ\nขายทุกอย่างให้ฉันเลย!",
           "Length": 94
         }
       ]
@@ -240,7 +240,7 @@
         {
           "Line": 142,
           "OriginalText": "Anything else? If I can, I\u0027d like to buy\nanything you have to sell, you know?",
-          "TranslatedText": null,
+          "TranslatedText": "มีอะไรอีกไหม? ถ้าทำได้ละก็\nฉันอยากจะซื้อทุกอย่างที่คุณมีขายเลยนะ",
           "Length": 77
         }
       ]
@@ -257,7 +257,7 @@
         {
           "Line": 146,
           "OriginalText": "All right, how many?",
-          "TranslatedText": null,
+          "TranslatedText": "ได้สิ เท่าไหร่ล่ะ?",
           "Length": 20
         }
       ]
@@ -273,20 +273,20 @@
         {
           "Line": 159,
           "OriginalText": "That\u0027s ",
-          "TranslatedText": null,
+          "TranslatedText": "นั่นคือ ",
           "Length": 7
         },
         {
           "Line": 164,
           "OriginalText": " of them?\nI\u0027ll pay you ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นงั้นเหรอ?\nฉันจะให้ ",
           "Variable": "Shop_TradeItemNum",
           "Length": 23
         },
         {
           "Line": 172,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -294,7 +294,7 @@
         {
           "Line": 175,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วกัน",
           "Length": 1
         }
       ]
@@ -306,7 +306,7 @@
         {
           "Line": 192,
           "OriginalText": "I can\u0027t buy that from you...",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันซื้อนั่นไม่ได้...",
           "Length": 28
         }
       ]
@@ -318,7 +318,7 @@
         {
           "Line": 201,
           "OriginalText": "Of course, it\u0027s impossible for me to buy\nclothes that you\u0027re still wearing...",
-          "TranslatedText": null,
+          "TranslatedText": "แน่นอนล่ะ เป็นไปไม่ได้หรอกที่จะให้ฉัน\nซื้อชุดที่คุณกำลังสวมอยู่...",
           "Length": 77
         }
       ]
@@ -334,19 +334,19 @@
         {
           "Line": 210,
           "OriginalText": "Just one, right?",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้นเดียวใช่ไหม?",
           "Length": 16
         },
         {
           "Line": 214,
           "OriginalText": "\nIn that case, is ",
-          "TranslatedText": null,
+          "TranslatedText": "\nถ้าอย่างนั้นก็จะเป็น",
           "Length": 18
         },
         {
           "Line": 222,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี ",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -354,7 +354,7 @@
         {
           "Line": 225,
           "OriginalText": " OK?",
-          "TranslatedText": null,
+          "TranslatedText": "โอเคไหม?",
           "Length": 4
         }
       ]
@@ -370,26 +370,26 @@
         {
           "Line": 237,
           "OriginalText": "All of them?! ",
-          "TranslatedText": null,
+          "TranslatedText": "ทั้งหมดเลยเหรอ?",
           "Length": 14
         },
         {
           "Line": 241,
           "OriginalText": "I\u0027ve got ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันมีเหลืออยู่ ",
           "Length": 9
         },
         {
           "Line": 246,
           "OriginalText": " left, so that\nwould be ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้น \nงั้นก็จะเป็น ",
           "Variable": "Shop_TradeItemNum",
           "Length": 24
         },
         {
           "Line": 254,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -397,7 +397,7 @@
         {
           "Line": 257,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": "นะ",
           "Length": 1
         }
       ]
@@ -413,19 +413,19 @@
         {
           "Line": 269,
           "OriginalText": "All of yours?",
-          "TranslatedText": null,
+          "TranslatedText": "ทั้งหมดเลยเหรอ? ",
           "Length": 13
         },
         {
           "Line": 273,
           "OriginalText": " OK, sure. How about\n",
-          "TranslatedText": null,
+          "TranslatedText": "โอเค ได้สิ \nสัก ",
           "Length": 21
         },
         {
           "Line": 281,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -433,7 +433,7 @@
         {
           "Line": 284,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": "เป็นไง?",
           "Length": 1
         }
       ]
@@ -448,13 +448,13 @@
         {
           "Line": 301,
           "OriginalText": "That\u0027s ",
-          "TranslatedText": null,
+          "TranslatedText": "นั่นราคา ",
           "Length": 7
         },
         {
           "Line": 309,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -462,7 +462,7 @@
         {
           "Line": 312,
           "OriginalText": ", you know.",
-          "TranslatedText": null,
+          "TranslatedText": "นะ ",
           "Length": 11
         }
       ]
@@ -478,7 +478,7 @@
         {
           "Line": 329,
           "OriginalText": "How many should I wrap up for you?",
-          "TranslatedText": null,
+          "TranslatedText": "จะให้ใส่ห่อให้กี่ชิ้นดีล่ะ?",
           "Length": 34
         }
       ]
@@ -493,20 +493,20 @@
         {
           "Line": 347,
           "OriginalText": "All right, ",
-          "TranslatedText": null,
+          "TranslatedText": "ได้สิ",
           "Length": 11
         },
         {
           "Line": 352,
           "OriginalText": " of them... In that case,\nit\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้น... ถ้าอย่างนั้น ก็จะเป็น\n",
           "Variable": "Shop_TradeItemNum",
           "Length": 35
         },
         {
           "Line": 360,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -514,7 +514,7 @@
         {
           "Line": 363,
           "OriginalText": "!",
-          "TranslatedText": null,
+          "TranslatedText": "!",
           "Length": 1
         }
       ]
@@ -525,13 +525,13 @@
         {
           "Line": 380,
           "OriginalText": "Oh, that\u0027s too bad...",
-          "TranslatedText": null,
+          "TranslatedText": "โอ้ แย่จัง...\n",
           "Length": 21
         },
         {
           "Line": 384,
           "OriginalText": "\nOh, well.",
-          "TranslatedText": null,
+          "TranslatedText": "โอ้ เอาเถอะ",
           "Length": 10
         }
       ]
@@ -542,7 +542,7 @@
         {
           "Line": 393,
           "OriginalText": "You don\u0027t have enough rupees...",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมีรูปีไม่พอ...",
           "Length": 31
         }
       ]
@@ -553,7 +553,7 @@
         {
           "Line": 402,
           "OriginalText": "Looks like your inventory is full. Can you\nsell something or throw something\naway?",
-          "TranslatedText": null,
+          "TranslatedText": "ดูเหมือนช่องเก็บของคุณจะเต็มนะ ขายของ\nหรือโยนทิ้งไปบ้างได้ไหม?",
           "Length": 82
         }
       ]
@@ -569,13 +569,13 @@
         {
           "Line": 411,
           "OriginalText": "Just one, then?\nThat\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้นเดียวเหรอ?\nงั้นก็จะเป็น ",
           "Length": 27
         },
         {
           "Line": 419,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -583,7 +583,7 @@
         {
           "Line": 422,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         }
       ]
@@ -595,7 +595,7 @@
         {
           "Line": 434,
           "OriginalText": "Only the freshest!",
-          "TranslatedText": null,
+          "TranslatedText": "สดใหม่ทุกอย่างเลย!",
           "Length": 18
         }
       ]
@@ -607,7 +607,7 @@
         {
           "Line": 438,
           "OriginalText": "Time to close up...",
-          "TranslatedText": null,
+          "TranslatedText": "ได้เวลาปิดร้านแล้ว...",
           "Length": 19
         }
       ]
@@ -624,7 +624,7 @@
         {
           "Line": 447,
           "OriginalText": "Sav\u0027otta.\nHave you already eaten this morning?\n\nMy husband says it, and I agree with\nhim—voe from other places are so tiny...\nI wonder if you people eat enough...",
-          "TranslatedText": null,
+          "TranslatedText": "Sav\u0027otta\nเช้านี้คุณได้ทานอะไรหรือยัง?\n\nสามีฉันบอกว่า voe จากดินแดนอื่นช่างตัวเล็กนัก...\nและฉันก็เห็นด้วยกับเขานะ ฉันสงสัยว่า\nพวกคุณกินอาหารกันมากพอหรือเปล่า...",
           "Length": 162
         }
       ]
@@ -636,7 +636,7 @@
         {
           "Line": 465,
           "OriginalText": "I\u0027ll be waiting!",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันจะรอนะ!",
           "Length": 16
         }
       ]
@@ -648,7 +648,7 @@
         {
           "Line": 474,
           "OriginalText": "We\u0027re fine getting less sleep than most\nfolks, but with how dangerous the desert\ncan be, it\u0027s good to stay alert...\nIf you start feeling tired, be sure to\ntake a break and get a good night\u0027s rest!",
-          "TranslatedText": null,
+          "TranslatedText": "พวกเราน่ะไม่เป็นหรอกที่จะนอนน้อยกว่าคนอื่น\nแต่กับทะเลทรายที่อันตรายนั้น ควรที่จะ\nตื่นตัวไว้จะดีกว่า...\nถ้าคุณเริ่มรู้สึกเหนื่อย ก็อย่าลืมพักบ้างแล้วก็\nนอนให้เพียงพอนะ!",
           "Length": 196
         }
       ]
@@ -665,7 +665,7 @@
         {
           "Line": 483,
           "OriginalText": "Sarqso from myself and my husband\nfor buying everything.",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันและสามี Sarqso ที่ซื้อทุกอย่างไปนะ",
           "Length": 56
         }
       ]
@@ -689,7 +689,7 @@
         {
           "Line": 510,
           "OriginalText": "Sarqso!\nMy husband will be happy, too.",
-          "TranslatedText": null,
+          "TranslatedText": "Sarqso!\nสามีฉันต้องดีใจแน่",
           "Length": 38
         }
       ]
@@ -758,7 +758,7 @@
         {
           "Line": 567,
           "OriginalText": "...Oh, were you hoping for some\nsamples?\n\nSorry, but we don\u0027t really do that...\nI can guarantee that the flavor will be to\nyour liking, though!",
-          "TranslatedText": null,
+          "TranslatedText": "...อ้อ คุณอยากได้ตัวอย่างไปลอง\nก่อนเหรอ?\n\nขอโทษนะ แต่เราไม่มีแบบนั้น...\nแต่ฉันรับประกันได้ว่ารสชาติจะต้อง\nถูกปากคุณแน่!",
           "Length": 143
         }
       ]
@@ -775,19 +775,19 @@
         {
           "Line": 585,
           "OriginalText": "Oh, yes. And a newlywed, too! Many of\nthe vendors who work these stalls are\nmarried, in fact.\nIt\u0027s pretty typical of married vai to live\noutside these walls, really. But we come\nback to sell our wares, of course!\n",
-          "TranslatedText": null,
+          "TranslatedText": "ใช่แล้ว เพิ่งแต่ด้วย! ที่จริงแล้วคนที่ขายของ\nแถวนี้หลายร้านก็แต่งงานแล้ว\nมันเป็นเรื่องปกติที่ vai ที่แต่งงานแล้วจะออก\nไปใช้ชีวิตนอกกำแพง แต่แน่นอนว่า\nเรากลับมาเพื่อค้าขาย!",
           "Length": 213
         },
         {
           "Line": 591,
           "OriginalText": "It does mean I don\u0027t see my husband all\nthat often, but we have to make a living.\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "มันหมายถึงว่าฉันจะได้เจอสามีไม่บ่อยเท่าไหร่\nแต่ว่าเราต้องทำมาหากินนี่นะ\n",
           "Length": 83
         },
         {
           "Line": 597,
           "OriginalText": "So buy and sell all you like!",
-          "TranslatedText": null,
+          "TranslatedText": "ดังนั้นเชิญซื้อขายได้ตามสบายเลย!",
           "Length": 29
         }
       ]
@@ -799,7 +799,7 @@
         {
           "Line": 615,
           "OriginalText": "Sarqso! I hope my husband stocked us\nup with enough.",
-          "TranslatedText": null,
+          "TranslatedText": "Sarqso! ฉันหวังว่าสามีฉันจะเตรียม\nสินค้าไว้พอนะ",
           "Length": 52
         }
       ]
@@ -811,13 +811,13 @@
         {
           "Line": 624,
           "OriginalText": "Sarqso! If you want to do some cooking,\nfeel free to use that pot right over there.",
-          "TranslatedText": null,
+          "TranslatedText": "Sarqso! ถ้าอยากทำอาหารละก็ เชิญใช้\nหม้อตรงนั้นได้ตามสบายเลยนะ",
           "Length": 83
         },
         {
           "Line": 628,
           "OriginalText": "\nYou\u0027ll have to light the fire, though.",
-          "TranslatedText": null,
+          "TranslatedText": "\nคุณต้องจุดไฟก่อนนะ",
           "Length": 39
         }
       ]

@@ -134,7 +134,7 @@
         {
           "Line": 81,
           "OriginalText": "...\n\nNormally I\u0027d go along, too, but Oaki\ninsisted on going alone. I let Oaki go,\nbut...well, I\u0027m just getting worried!\n",
-          "TranslatedText": "...\nปกติฉันจะไปด้วย แต่Oakiยืนยันที่จะไปคนเดียว \nฉันปล่อยOakiไป แต่ ... ฉันแค่เป็นห่วง!\n",
+          "TranslatedText": "...\n\nปกติฉันจะไปด้วย แต่Oakiยืนยันที่จะไปคนเดียว \nฉันปล่อยOakiไป \nแต่... ฉันแค่เป็นห่วง!\n",
           "Length": 120
         },
         {
@@ -180,7 +180,7 @@
         {
           "Line": 113,
           "OriginalText": "Korok Trial ",
-          "TranslatedText": "Korok Trial \n",
+          "TranslatedText": "Korok Trial ",
           "Colour": "red",
           "Length": 12
         },
@@ -235,13 +235,13 @@
         {
           "Line": 155,
           "OriginalText": "Oh! How\u0027s the ",
-          "TranslatedText": "โอ้! \n",
+          "TranslatedText": "โอ้! เป็นอย่างไรบ้าง",
           "Length": 14
         },
         {
           "Line": 159,
           "OriginalText": "trial",
-          "TranslatedText": "การทดสอบเป็นอย่างไร",
+          "TranslatedText": "การทดสอบ",
           "Colour": "red",
           "Length": 5
         },
@@ -260,25 +260,25 @@
         {
           "Line": 171,
           "OriginalText": "Oooh, Oaki saw you, huh?\nOaki can get a little nervous or antsy\nsometimes, that\u0027s for sure...\n",
-          "TranslatedText": "โอ้ Oakiเห็นคุณแล้วเหรอ?\nOakiอาจจะมีอาการประหม่าหรือขี้เบื่อในบางครั้งแน่นอน ...\n",
+          "TranslatedText": "โอ้ Oakiเห็นคุณแล้วเหรอ?\nOakiอาจจะมีอาการประหม่า\nหรือขี้เบื่อในบางครั้งแน่นอน ...\n",
           "Length": 94
         },
         {
           "Line": 177,
           "OriginalText": "Luckily, Oaki is planning on going to do\nthe trial again,",
-          "TranslatedText": "โชคดี, Oaki กำลังวางแผนที่จะทำการทดสอบอีกครั้ง,\n",
+          "TranslatedText": "โชคดี, Oaki กำลังวางแผนที่จะทำการทดสอบ\nอีกครั้ง,",
           "Length": 57
         },
         {
           "Line": 181,
           "OriginalText": " so you\u0027ve got another\nchance to stealthily follow.\nThat\u0027s OK, right? It\u0027s OK? Good!",
-          "TranslatedText": " ดังนั้นคุณมีอีกโอกาสที่จะลอบติดตาม\nไม่เป็นไรใช่มั้ย? \nไม่เป็นไร? ดี!\n",
+          "TranslatedText": " ดังนั้นคุณมีอีกโอกาสที่จะลอบติดตาม\nไม่เป็นไรใช่มั้ย? \nไม่เป็นไร? ดี!",
           "Length": 84
         },
         {
           "Line": 185,
           "OriginalText": "\nI\u0027m counting on you!",
-          "TranslatedText": "ฉันไว้วางใจคุณ!",
+          "TranslatedText": "\nฉันไว้ใจคุณ!",
           "Length": 21
         }
       ]
@@ -290,7 +290,7 @@
         {
           "Line": 194,
           "OriginalText": "Ahh, are you OK? It seems like you got\nturned around and lost in the woods.\n\nI was actually a bit surprised when Oaki\nbrought you back!\n\nAnyway, Oaki is going to head out alone\nagain. I was thinking you could try\nfollowing one more time...\nThat\u0027s OK, right? It\u0027s OK? Good!",
-          "TranslatedText": "อ่า, คุณโอเคไหม? \nดูเหมือนว่าคุณจะหันกลับมาและหลงทางในป่า\nฉันรู้สึกประหลาดใจเล็กน้อยเมื่อ Oaki พาคุณกลับมา!\nอย่างไรก็ตาม Oaki จะออกเดินทางคนเดียวอีกครั้ง \nฉันคิดว่าคุณสามารถลองติดตามอีกครั้ง ...\nไม่เป็นไรใช่มั้ย? ไม่เป็นไร? ดี!",
+          "TranslatedText": "อ่า, คุณโอเคไหม? \nดูเหมือนว่าคุณจะหันกลับมาและหลงทางในป่า\n\nฉันรู้สึกประหลาดใจเล็กน้อย\nเมื่อ Oaki พาคุณกลับมา!\n\nอย่างไรก็ตาม Oaki จะออกเดินทางคนเดียวอีกครั้ง \nฉันคิดว่าคุณสามารถลองติดตามอีกครั้ง...\nไม่เป็นไรใช่มั้ย?\nไม่เป็นไร? ดี!",
           "Length": 272
         },
         {
@@ -312,7 +312,7 @@
         {
           "Line": 202,
           "OriginalText": "Oh! How goes the ",
-          "TranslatedText": "โอ้! ไปอย่างไร\n",
+          "TranslatedText": "โอ้!",
           "Length": 17
         },
         {
@@ -325,7 +325,7 @@
         {
           "Line": 209,
           "OriginalText": "?",
-          "TranslatedText": "?",
+          "TranslatedText": "จะไปยังไง?",
           "Length": 1
         }
       ]
@@ -337,19 +337,19 @@
         {
           "Line": 229,
           "OriginalText": "What?! You lost sight of him?!",
-          "TranslatedText": "อะไร?! คุณหายไปจากเขา?!\n",
+          "TranslatedText": "อะไร?! คุณหายไปจากเขา?!",
           "Length": 30
         },
         {
           "Line": 243,
           "OriginalText": "Oaki might have gotten lost...",
-          "TranslatedText": "Oaki อาจจะหลงทาง...\n",
+          "TranslatedText": "Oaki อาจจะหลงทาง...",
           "Length": 30
         },
         {
           "Line": 247,
           "OriginalText": " I\u0027ll be\nright back. I\u0027ve got to go check on him!",
-          "TranslatedText": " ฉันจะกลับมา. ฉันต้องไปดูเขา!",
+          "TranslatedText": " ฉันจะกลับมา\nฉันต้องไปดูเขา!",
           "Length": 49
         }
       ]
@@ -361,25 +361,25 @@
         {
           "Line": 256,
           "OriginalText": "*sigh*",
-          "TranslatedText": "*ถอนหายใจ*\n",
+          "TranslatedText": "*ถอนหายใจ*",
           "Length": 6
         },
         {
           "Line": 260,
           "OriginalText": " The sound of the wind had him so\nscared, he couldn\u0027t move a muscle.",
-          "TranslatedText": " เสียงลมทำให้เขากลัวมากเขาไม่สามารถขยับกล้ามเนื้อได้.",
+          "TranslatedText": " เสียงลมทำให้เขากลัวมาก\nเขาไม่สามารถขยับตัวได้",
           "Length": 68
         },
         {
           "Line": 264,
           "OriginalText": "\nPoor kid...\nOaki\u0027s talking about trying again,\nthough... I\u0027d be really happy if you could\ngo with him again, too!\nThat\u0027s OK, right?",
-          "TranslatedText": "\nเด็กยากจน...\nOakiพูดถึงการพยายามอีกครั้ง \nแต่ ... ฉันจะดีใจมากถ้าได้ไปกับเขาอีกครั้งเช่นกัน!\nไม่เป็นไร?",
+          "TranslatedText": "\nเด็กที่น่าสงสาร...\nOakiกำลังพูดถึงการพยายามอีกครั้ง\nแม้ว่า... ฉันจะมีความสุขมากถ้าคุณสามารถ\nไปกับเขาอีกครั้งด้วย!\nไม่เป็นไรใช่มั้ย?",
           "Length": 132
         },
         {
           "Line": 268,
           "OriginalText": " I knew it would be.",
-          "TranslatedText": " ฉันรู้ว่ามันจะเป็น.",
+          "TranslatedText": "ฉันรู้ว่ามันจะเป็นอย่างนั้น",
           "Length": 20
         },
         {
@@ -416,7 +416,7 @@
         {
           "Line": 299,
           "OriginalText": "Yay! I made it! I finished\nthe ",
-          "TranslatedText": "เย้! ฉันทำมัน! ฉันเสร็จแล้ว\nการ ",
+          "TranslatedText": "เย้! ฉันทำ\nการ ",
           "Length": 31
         },
         {
@@ -429,7 +429,7 @@
         {
           "Line": 306,
           "OriginalText": "!",
-          "TranslatedText": "!",
+          "TranslatedText": "เสร็จแล้ว!",
           "Length": 1
         }
       ]
@@ -465,7 +465,7 @@
         {
           "Line": 342,
           "OriginalText": "Guess what, Mr. Hero!",
-          "TranslatedText": "เดาอะไรนายฮีโร่!",
+          "TranslatedText": "เดาสิ คุณฮีโร่",
           "Length": 21
         },
         {
@@ -477,25 +477,25 @@
         {
           "Line": 350,
           "OriginalText": "\nAren\u0027t I brave?\n",
-          "TranslatedText": "\nฉันไม่กล้าเหรอ?\n",
+          "TranslatedText": "\nฉันกล้าหาญไม่ใช่เหรอ?\n",
           "Length": 17
         },
         {
           "Line": 356,
           "OriginalText": "Oh, yeah! You\u0027re probably here for the\nshrine.\n\n",
-          "TranslatedText": "โอ้ใช่! คุณอาจจะมาที่ศาลเจ้า\n",
+          "TranslatedText": "โอ้ ใช่! คุณอาจจะมาที่นี่เพื่อ\nศาลเจ้า\n\n",
           "Length": 48
         },
         {
           "Line": 362,
           "OriginalText": "The Great Deku Tree said that the monk\u0027s\nblessing is waiting in the shrine ahead!",
-          "TranslatedText": "ต้นDekuใหญ่กล่าวว่า พระขอพรรออยู่ที่ศาลเจ้าข้างหน้า!\n",
+          "TranslatedText": "ต้นDekuที่ยิ่งใหญ่กล่าวว่าพรของพระสงฆ์\nกำลังรออยู่ในศาลเจ้าข้างหน้า!",
           "Length": 81
         },
         {
           "Line": 366,
           "OriginalText": "\nWhy don\u0027t you go take a look?",
-          "TranslatedText": "ทำไมคุณไม่ไปดู?",
+          "TranslatedText": "\nทำไมคุณไม่ไปดูล่ะ?",
           "Length": 30
         }
       ]
@@ -513,13 +513,13 @@
         {
           "Line": 392,
           "OriginalText": "What are you doing, sneaking up on me\nlike that? You scared me!\n\nLeave me be, OK? I\u0027m gonna do the",
-          "TranslatedText": "คุณทำอะไรอยู่\nแอบมองฉันแบบนั้น? คุณกลัวฉัน!\nปล่อยให้เป็นฉัน โอเค? ฉันจะทำ",
+          "TranslatedText": "คุณทำอะไรน่ะ แอบเข้ามาหาฉัน\nแบบนั้นเหรอ? คุณทำให้ฉันกลัว!\n\nอย่ามายุ่งกับฉัน โอเค? ฉันจะทำ",
           "Length": 98
         },
         {
           "Line": 396,
           "OriginalText": " trial",
-          "TranslatedText": " trial",
+          "TranslatedText": "การทดสอบ",
           "Colour": "red",
           "Length": 6
         },
@@ -580,7 +580,7 @@
         {
           "Line": 454,
           "OriginalText": "\nWere you following me? I said I could do\nthis by myself!\nUgh, and now I\u0027m not by myself...\nI\u0027ll have to do it all over again.",
-          "TranslatedText": "\nคุณติดตามฉันหรือไม่? \nฉันบอกว่าฉันทำเองได้!\nฮึ และตอนนี้ฉันไม่ได้อยู่ด้วยตัวเอง ...\nฉันจะต้องทำใหม่ทั้งหมด",
+          "TranslatedText": "\nคุณตามฉันมาเหรอ? ฉันบอกว่าฉันทำได้\nนี่คนเดียว!\nและตอนนี้ฉันไม่ได้อยู่คนเดียว...\nฉันจะต้องทำมันอีกครั้ง",
           "Length": 126
         }
       ]
@@ -592,7 +592,7 @@
         {
           "Line": 463,
           "OriginalText": "The trial is this way...right?",
-          "TranslatedText": "การทดสอบเป็นแบบนี้ ... จริงไหม?",
+          "TranslatedText": "เป็นการทดสอบแบบนี้... ใช่ไหม?",
           "Length": 30
         }
       ]
@@ -676,7 +676,7 @@
         {
           "Line": 526,
           "OriginalText": "Is... Is someone there?",
-          "TranslatedText": "คือ ... มีใครอยู่รึเปล่า?",
+          "TranslatedText": "มะ... มีใครอยู่รึเปล่า?",
           "Length": 23
         }
       ]
@@ -688,7 +688,7 @@
         {
           "Line": 530,
           "OriginalText": "AHH! A ghost!",
-          "TranslatedText": "อ๊ะ! ผี!",
+          "TranslatedText": "อ๊าาา! ผี!",
           "Length": 13
         }
       ]
@@ -700,7 +700,7 @@
         {
           "Line": 539,
           "OriginalText": "Oh. It was just a shadow...",
-          "TranslatedText": "โอ้. มันเป็นเพียงเงา ...",
+          "TranslatedText": "โอ้ มันเป็นเพียงเงา...",
           "Length": 27
         }
       ]
@@ -712,7 +712,7 @@
         {
           "Line": 548,
           "OriginalText": "This isn\u0027t so bad...",
-          "TranslatedText": "มันไม่ได้แย่ขนาดนี้ ...",
+          "TranslatedText": "มันไม่ได้แย่ขนาดนี้...",
           "Length": 20
         }
       ]
@@ -736,7 +736,7 @@
         {
           "Line": 566,
           "OriginalText": "OK... I\u0027m a little bit scared.",
-          "TranslatedText": "โอเค ... ฉันกลัวนิดหน่อย",
+          "TranslatedText": "โอเค... ฉันกลัวนิดหน่อย",
           "Length": 30
         }
       ]
@@ -778,5 +778,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

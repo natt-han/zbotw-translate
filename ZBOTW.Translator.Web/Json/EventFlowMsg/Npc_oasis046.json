@@ -135,7 +135,7 @@
         {
           "Line": 82,
           "OriginalText": "Tank you!",
-          "TranslatedText": "ขอบคุณ!",
+          "TranslatedText": "ขอบคุง!",
           "Length": 9
         }
       ]
@@ -146,7 +146,7 @@
         {
           "Line": 91,
           "OriginalText": "Tank you for your patronage.",
-          "TranslatedText": null,
+          "TranslatedText": "ขอบคุงที่อุดหนุน",
           "Length": 28
         }
       ]
@@ -157,7 +157,7 @@
         {
           "Line": 100,
           "OriginalText": "Tank you very much.",
-          "TranslatedText": "ขอบคุณมาก",
+          "TranslatedText": "ขอบคุงมาก",
           "Length": 19
         }
       ]
@@ -168,7 +168,7 @@
         {
           "Line": 109,
           "OriginalText": "Sarqso! Oh...darn...",
-          "TranslatedText": null,
+          "TranslatedText": "Sarqso! โอ้...เผลอไป...",
           "Length": 20
         }
       ]
@@ -190,7 +190,7 @@
         {
           "Line": 127,
           "OriginalText": "You sure there isn\u0027t anything else you\u0027d\nlike to sell?",
-          "TranslatedText": null,
+          "TranslatedText": "แน่ใจนะว่าไม่มีอะไรอยากขายแล้ว?",
           "Length": 54
         }
       ]
@@ -223,7 +223,7 @@
         {
           "Line": 154,
           "OriginalText": "Take a good look! You sure there isn\u0027t\nanything else you\u0027d like to sell?",
-          "TranslatedText": null,
+          "TranslatedText": "ลองดูให้ดีสิ! แน่ใจเหรอว่าไม่มีอะไรจะขายแล้ว?",
           "Length": 72
         }
       ]
@@ -256,20 +256,20 @@
         {
           "Line": 181,
           "OriginalText": "That\u0027s ",
-          "TranslatedText": null,
+          "TranslatedText": "ทั้งหมด",
           "Length": 7
         },
         {
           "Line": 186,
           "OriginalText": " of them, you said?\nOK, then... How\u0027s ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้น งั้นเหรอ?\nถ้างั้น... ",
           "Variable": "Shop_TradeItemNum",
           "Length": 38
         },
         {
           "Line": 194,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -277,7 +277,7 @@
         {
           "Line": 197,
           "OriginalText": " sound?",
-          "TranslatedText": null,
+          "TranslatedText": "เป็นไง?",
           "Length": 7
         }
       ]
@@ -289,7 +289,7 @@
         {
           "Line": 214,
           "OriginalText": "I\u0027m prepared to buy almost anything\nfrom you—almost. Don\u0027t you have\nanything else?",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันเตรียมซื้อเกือบทุกอย่างจากคุณเลยนะ\nคุณไม่มีอะไรจะขายแล้วเหรอ?",
           "Length": 82
         }
       ]
@@ -301,7 +301,7 @@
         {
           "Line": 223,
           "OriginalText": "Wait, wait, wait. It wouldn\u0027t be sanitary\nfor me to take the clothes right off your\nbody!",
-          "TranslatedText": null,
+          "TranslatedText": "เดี๋ยวๆๆ มันคงไม่ดีมั้งที่จะให้ฉันซื้อ\nเสื้อผ้าที่คุณใส่อยู่เนี่ย!",
           "Length": 89
         }
       ]
@@ -337,7 +337,7 @@
         {
           "Line": 247,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         }
       ]
@@ -374,7 +374,7 @@
         {
           "Line": 275,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         }
       ]
@@ -389,13 +389,13 @@
         {
           "Line": 292,
           "OriginalText": "Wanna buy that for ",
-          "TranslatedText": null,
+          "TranslatedText": "อยากซื้อมันด้วยราคา ",
           "Length": 19
         },
         {
           "Line": 300,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -403,7 +403,7 @@
         {
           "Line": 303,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": "มั้ย?",
           "Length": 1
         }
       ]
@@ -414,13 +414,13 @@
         {
           "Line": 320,
           "OriginalText": "Hey!",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้!",
           "Length": 4
         },
         {
           "Line": 324,
           "OriginalText": " Is this some kind of haggling\ntechnique? Are you pretending not to\nbe interested so I\u0027ll lower the price?",
-          "TranslatedText": null,
+          "TranslatedText": " นั่นเป็นวิธีการต่อราคางั้นเหรอ?\nคุณแกล้งทำเป็นไม่สนใจ เพื่อที่ฉันจะได้\nลดราคาใช่มั้ย?",
           "Length": 106
         }
       ]
@@ -432,7 +432,7 @@
         {
           "Line": 328,
           "OriginalText": "Willcome!",
-          "TranslatedText": null,
+          "TranslatedText": "ยินดีต้อนลับ!",
           "Length": 9
         }
       ]
@@ -448,7 +448,7 @@
         {
           "Line": 337,
           "OriginalText": "Good mauning!\n\n\nWhat do you eat for breakfast?",
-          "TranslatedText": null,
+          "TranslatedText": "อรุณซาหวัด\n\n\nคุณทานอะไรเป็นอาหารเช้าเหรอ?",
           "Length": 46
         }
       ]
@@ -460,7 +460,7 @@
         {
           "Line": 354,
           "OriginalText": "Tank you! Good-bye!",
-          "TranslatedText": null,
+          "TranslatedText": "ขอบคุง! ลาก่อน!",
           "Length": 19
         }
       ]
@@ -478,7 +478,7 @@
         {
           "Line": 367,
           "OriginalText": " Wait, I mean tank you!",
-          "TranslatedText": "เอ้ย ฉันหมายถึง ขอบคุณ!",
+          "TranslatedText": "เอ้ย ฉันหมายถึง ขอบคุง!",
           "Length": 23
         }
       ]
@@ -490,7 +490,7 @@
         {
           "Line": 376,
           "OriginalText": "Enjoy! I\u0027ll grill some more and restock\nlater.",
-          "TranslatedText": null,
+          "TranslatedText": "ทานให้อร่อยนะ! ไว้ฉันจะย่างมาเติมทีหลัง",
           "Length": 46
         }
       ]
@@ -506,7 +506,7 @@
         {
           "Line": 385,
           "OriginalText": "Good ebbning!\n\n\nWhat do you eat for dinner?",
-          "TranslatedText": null,
+          "TranslatedText": "ซาหวัดดีตอนเย็น!\n\n\nคุณทานอะไรเป็นอาหารเย็นเหรอ?",
           "Length": 43
         }
       ]
@@ -522,7 +522,7 @@
         {
           "Line": 402,
           "OriginalText": "Good effernoon!\n\n\nWhat do you eat for lunch?",
-          "TranslatedText": null,
+          "TranslatedText": "ซาหวัดดีตอนบ่าย!\n\n\nคุณทานอะไรเป็นอาหารกลางวันเหรอ?",
           "Length": 44
         }
       ]
@@ -534,19 +534,19 @@
         {
           "Line": 419,
           "OriginalText": "That Rito vai keeps shooting me the\nstink eye... Does she have something\nagainst meat?",
-          "TranslatedText": null,
+          "TranslatedText": "vai ชาว Rito คนนั้นเอาแต่จ้องมาทานฉัน\nอยู่เรื่อยเลย... เธอมีปัญหาอะไรกับเนื้อ\nหรือเปล่านะ?",
           "Length": 86
         },
         {
           "Line": 423,
           "OriginalText": "\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n",
           "Length": 1
         },
         {
           "Line": 432,
           "OriginalText": "No, that\u0027s impossible...",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่ เป็นไปไม่ได้หรอกน่า...",
           "Length": 24
         }
       ]
@@ -578,19 +578,19 @@
         {
           "Line": 467,
           "OriginalText": "You must mean... ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณคงหมายถึง...",
           "Length": 17
         },
         {
           "Line": 471,
           "OriginalText": "Meat!!!",
-          "TranslatedText": null,
+          "TranslatedText": "เนื้อ!!!",
           "Length": 7
         },
         {
           "Line": 478,
           "OriginalText": "\n\n\nThat\u0027s what you meant, right?\nBecause it\u0027s so good!",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n\nฉันเข้าใจถูกใช่มั้ย!\nเพราะว่ามันดีกับคุณ!",
           "Length": 54
         }
       ]
@@ -606,7 +606,7 @@
         {
           "Line": 495,
           "OriginalText": "Hey there, customer!",
-          "TranslatedText": "สวัสดี คุณลูกค้า!",
+          "TranslatedText": "ว่าไง คุณลูกค้า!",
           "Length": 20
         },
         {
@@ -618,7 +618,7 @@
         {
           "Line": 503,
           "OriginalText": "Sarq—I mean tanks again!",
-          "TranslatedText": "Sarq—ฉันหมายถึง ขอบคุณอีกครั้งนะ!",
+          "TranslatedText": "Sarq—ฉันหมายถึง ขอบคุงอีกครั้งนะ!",
           "Length": 24
         }
       ]
@@ -634,7 +634,7 @@
         {
           "Line": 520,
           "OriginalText": "I once traveled across all of Hyrule,\nsearching for the best meats ever.\n\nI learned some of the correct ways to say\ncommon Hylian words. Just the basics,\nlike \u0022tank you\u0022 and \u0022good mauning.\u0022\nPretty amazing, huh?",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันเคยเดินทางไปทั่ว Hyrule เพื่อค้นหา\nเนื้อที่ดีที่สุดในโลก\n\nฉันเรียนรู้คำศัพท์พื้นฐานของ Hylian มา\nอย่างพวก \u0022ขอบคุง\u0022 และ \u0022อรุณซาหวัด\u0022\nเก่งใช่มั้ยล่ะ?",
           "Length": 210
         }
       ]
@@ -646,7 +646,7 @@
         {
           "Line": 537,
           "OriginalText": "Good purchases, one and all!",
-          "TranslatedText": null,
+          "TranslatedText": "Good purchases, one and all!",
           "Length": 28
         }
       ]
@@ -658,7 +658,7 @@
         {
           "Line": 546,
           "OriginalText": "Tank you very much.",
-          "TranslatedText": null,
+          "TranslatedText": "ขอบคุงมาก",
           "Length": 19
         }
       ]
@@ -670,7 +670,7 @@
         {
           "Line": 555,
           "OriginalText": "Good mauning!",
-          "TranslatedText": null,
+          "TranslatedText": "อรุณซาหวัด!",
           "Length": 13
         }
       ]
@@ -682,7 +682,7 @@
         {
           "Line": 564,
           "OriginalText": "Hi-low!",
-          "TranslatedText": null,
+          "TranslatedText": "Hi-low!",
           "Length": 7
         }
       ]
@@ -694,7 +694,7 @@
         {
           "Line": 573,
           "OriginalText": "Good ebbning!",
-          "TranslatedText": null,
+          "TranslatedText": "ซาหวัดดีตอนเย็น",
           "Length": 13
         }
       ]
@@ -710,33 +710,33 @@
         {
           "Line": 582,
           "OriginalText": "Hey there, have you heard?\n\n\nIt looks like our chief was able to calm\n",
-          "TranslatedText": null,
+          "TranslatedText": "ว่าไง คุณได้ข่าวมั้ย?\n\n\nดูเหมือนว่าหัวหน้าของเราจะทำให้\n",
           "Length": 70
         },
         {
           "Line": 586,
           "OriginalText": "Naboris",
-          "TranslatedText": null,
+          "TranslatedText": "Naboris",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 589,
           "OriginalText": " down! She may be small, but\nshe\u0027s still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nIf you ate a lot of meat, I think you\u0027d\nhave the same secret strength as\nthe ",
-          "TranslatedText": null,
+          "TranslatedText": " สงบลงได้แล้ว! เธออาจจะยังเล็ก แต่ว่า\nเธอก็ไม่ธรรมดาเลยนะ\nฉันว่าความลับในการฝึกฝนของเธอต้องเป็น\nการกินเนื้อเยอะๆ แน่ๆ เลย\n\nถ้าคุณกินเนื้อเยอะๆ ฉันคิดว่าคุณก็คง\nแข็งแกร่งได้เหมือนกับ",
           "Length": 200
         },
         {
           "Line": 593,
           "OriginalText": "chief",
-          "TranslatedText": null,
+          "TranslatedText": "หัวหน้า",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 596,
           "OriginalText": "!\nI\u0027m pretty sure that\u0027s true, anyway!",
-          "TranslatedText": null,
+          "TranslatedText": "!\nฉันค่อนข้างแน่ใจว่ามันต้องเป็นอย่างนั้นแน่!",
           "Length": 38
         }
       ]
@@ -752,33 +752,33 @@
         {
           "Line": 613,
           "OriginalText": "Hey there, have you heard?\n\n\nIt looks like our chief was able to calm\n",
-          "TranslatedText": null,
+          "TranslatedText": "ว่าไง คุณได้ข่าวมั้ย?\n\n\nดูเหมือนว่าหัวหน้าของเราจะทำให้\n",
           "Length": 70
         },
         {
           "Line": 617,
           "OriginalText": "Naboris",
-          "TranslatedText": null,
+          "TranslatedText": "Naboris",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 620,
           "OriginalText": " down! She may be small, but\nshe\u0027s still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nWe\u0027re always getting new stock in. If you\nate a lot of meat, I think you\u0027d have the\nsame secret strength as the ",
-          "TranslatedText": null,
+          "TranslatedText": " สงบลงได้แล้ว! เธออาจจะยังเล็ก แต่ว่า\nเธอก็ไม่ธรรมดาเลยนะ\nฉันว่าความลับในการฝึกฝนของเธอต้องเป็น\nการกินเนื้อเยอะๆ แน่ๆ เลย\n\nเรามีของมาเติมเรื่อยๆ ถ้าคุณกินเนื้อเยอะๆ\nฉันคิดว่าคุณก็คง\nแข็งแกร่งได้เหมือนกับ",
           "Length": 235
         },
         {
           "Line": 624,
           "OriginalText": "chief",
-          "TranslatedText": null,
+          "TranslatedText": "หัวหน้า",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 627,
           "OriginalText": "!\nI\u0027m pretty sure that\u0027s true, anyway!",
-          "TranslatedText": null,
+          "TranslatedText": "!\nฉันค่อนข้างแน่ใจว่ามันต้องเป็นอย่างนั้นแน่!",
           "Length": 38
         }
       ]

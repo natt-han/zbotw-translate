@@ -7,7 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Show me the goods.",
-          "TranslatedText": "โชว์สินค้าให้ดูหน่อย",
+          "TranslatedText": "ขอดูสินค้าหน่อย",
           "Length": 18
         }
       ]
@@ -40,7 +40,7 @@
         {
           "Line": 20,
           "OriginalText": "I\u0027m looking to sell...",
-          "TranslatedText": "ฉันกำลังมองหาที่จะขาย...",
+          "TranslatedText": "ฉันคิดจะขาย...",
           "Length": 22
         }
       ]
@@ -106,7 +106,7 @@
         {
           "Line": 44,
           "OriginalText": "I\u0027ll sell them all.",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันจะขายทั้งหมด",
           "Length": 19
         }
       ]
@@ -151,13 +151,13 @@
         {
           "Line": 68,
           "OriginalText": " can I offer?\nI think...",
-          "TranslatedText": "ฉันขอเสนอได้ไหม?\nฉันคิดว่า...",
+          "TranslatedText": "ที่ฉันจะเสนอได้?\nฉันคิดว่า...",
           "Length": 24
         },
         {
           "Line": 78,
           "OriginalText": "! Deal?",
-          "TranslatedText": "ตกลงไหม?",
+          "TranslatedText": "! ตกลงไหม?",
           "Variable": "ShopTradePrice",
           "Length": 7
         }
@@ -224,7 +224,7 @@
         {
           "Line": 130,
           "OriginalText": "I\u0027ll buy anything!",
-          "TranslatedText": "ฉันจะซื้ออะไรสักอย่าง!",
+          "TranslatedText": "ฉันจะซื้อทุกอย่างเลย!",
           "Length": 18
         }
       ]
@@ -235,7 +235,7 @@
         {
           "Line": 134,
           "OriginalText": "Please show me!",
-          "TranslatedText": "ได้โปรดแสดงให้ฉันเห็น!",
+          "TranslatedText": "เอาให้ฉันดูเลย!",
           "Length": 15
         }
       ]
@@ -279,13 +279,13 @@
         {
           "Line": 155,
           "OriginalText": "Sorry... ",
-          "TranslatedText": "ขอโทษ...",
+          "TranslatedText": "ขอโทษนะ... ",
           "Length": 9
         },
         {
           "Line": 159,
           "OriginalText": "I\u0027m all sold out of that at the\nmoment...",
-          "TranslatedText": "ฉันขายหมด\nเมื่อ...",
+          "TranslatedText": "ตอนนี้ฉันขายนั่นหมดแล้ว...",
           "Length": 41
         }
       ]
@@ -296,13 +296,13 @@
         {
           "Line": 168,
           "OriginalText": "Oh...",
-          "TranslatedText": "โอ้...\nดูเหมือนคุณจะไม่เหลือรูปีแล้ว",
+          "TranslatedText": "โอ้...",
           "Length": 5
         },
         {
           "Line": 172,
           "OriginalText": "\nLooks like you\u0027re out of rupees.",
-          "TranslatedText": null,
+          "TranslatedText": "\nดูเหมือนคุณจะไม่เหลือรูปีแล้ว",
           "Length": 33
         }
       ]
@@ -313,13 +313,13 @@
         {
           "Line": 181,
           "OriginalText": "Hrm. Your inventory is full...",
-          "TranslatedText": null,
+          "TranslatedText": "Hrm. ช่องเก็บของคุณเต็มแล้ว",
           "Length": 30
         },
         {
           "Line": 185,
           "OriginalText": "\nMake some room in your inventory, and\nthen come back and see me!",
-          "TranslatedText": null,
+          "TranslatedText": "\nกลับมาหาฉันอีกรอบ เมื่อคุณจัด\nช่องเก็บของของคุณใหม่แล้วนะ!",
           "Length": 65
         }
       ]
@@ -334,7 +334,7 @@
         {
           "Line": 194,
           "OriginalText": "You\u0027re interested in that, then?",
-          "TranslatedText": null,
+          "TranslatedText": "คุณสนใจงั้นเหรอ?",
           "Length": 32
         }
       ]
@@ -378,13 +378,13 @@
         {
           "Line": 238,
           "OriginalText": "Thank you! ",
-          "TranslatedText": null,
+          "TranslatedText": "ขอบคุณ!",
           "Length": 11
         },
         {
           "Line": 242,
           "OriginalText": "You have a discerning eye!",
-          "TranslatedText": null,
+          "TranslatedText": "คุณนี่ตาถึงจริงๆ เลย!",
           "Length": 26
         }
       ]
@@ -395,7 +395,7 @@
         {
           "Line": 246,
           "OriginalText": "Here ya go!",
-          "TranslatedText": null,
+          "TranslatedText": "เอาไปเลอ!",
           "Length": 11
         }
       ]
@@ -412,7 +412,7 @@
         {
           "Line": 255,
           "OriginalText": "How many will you sell me?",
-          "TranslatedText": null,
+          "TranslatedText": "จะขายเท่าไหร่ล่ะ",
           "Length": 26
         }
       ]
@@ -460,13 +460,13 @@
         {
           "Line": 302,
           "OriginalText": "I\u0027m sorry. ",
-          "TranslatedText": null,
+          "TranslatedText": "ขอโทษนะ",
           "Length": 11
         },
         {
           "Line": 306,
           "OriginalText": "I can\u0027t buy that from you.",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันซื้อมันไม่ได้",
           "Length": 26
         }
       ]
@@ -478,13 +478,13 @@
         {
           "Line": 315,
           "OriginalText": "Nooo! ",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่!",
           "Length": 6
         },
         {
           "Line": 319,
           "OriginalText": "Take off the clothing that \nyou are wearing!",
-          "TranslatedText": null,
+          "TranslatedText": "ถอดชุดที่สวมอยู่ออกก่อนสิ!",
           "Length": 44
         }
       ]
@@ -560,19 +560,19 @@
         {
           "Line": 378,
           "OriginalText": "Yeah! ",
-          "TranslatedText": null,
+          "TranslatedText": "เย้!",
           "Length": 6
         },
         {
           "Line": 382,
           "OriginalText": "All sold out!",
-          "TranslatedText": null,
+          "TranslatedText": "ขายหมดแล้ว",
           "Length": 13
         },
         {
           "Line": 386,
           "OriginalText": " I\u0027m always so happy\nwhen I sell everything!",
-          "TranslatedText": null,
+          "TranslatedText": " ฉันมีความสุข\nทุกครั้งเลยที่ขายหมด!",
           "Length": 44
         }
       ]
@@ -612,7 +612,7 @@
         {
           "Line": 415,
           "OriginalText": "♪",
-          "TranslatedText": null,
+          "TranslatedText": "♪",
           "Length": 1
         }
       ]
@@ -624,13 +624,13 @@
         {
           "Line": 424,
           "OriginalText": "Hey! ",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้! ",
           "Length": 5
         },
         {
           "Line": 428,
           "OriginalText": "Good morning!",
-          "TranslatedText": null,
+          "TranslatedText": "อรุณสวัสดิ์!",
           "Length": 13
         }
       ]
@@ -642,7 +642,7 @@
         {
           "Line": 437,
           "OriginalText": "Hey!",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้! ",
           "Length": 4
         }
       ]
@@ -654,13 +654,13 @@
         {
           "Line": 446,
           "OriginalText": "Hey! ",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้! ",
           "Length": 5
         },
         {
           "Line": 450,
           "OriginalText": "Good evening!",
-          "TranslatedText": null,
+          "TranslatedText": "สวัสดีตอนเย็น!",
           "Length": 13
         }
       ]
@@ -672,7 +672,7 @@
         {
           "Line": 459,
           "OriginalText": "Hey!",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้! ",
           "Length": 4
         }
       ]

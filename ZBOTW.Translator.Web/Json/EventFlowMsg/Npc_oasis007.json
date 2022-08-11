@@ -7,7 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Yes, please!",
-          "TranslatedText": null,
+          "TranslatedText": "ใช่ ได้โปรด!",
           "Length": 12
         }
       ]
@@ -18,7 +18,7 @@
         {
           "Line": 12,
           "OriginalText": "No, thank you.",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่ล่ะ ขอบคุณ",
           "Length": 14
         }
       ]
@@ -51,7 +51,7 @@
         {
           "Line": 24,
           "OriginalText": "Make both!",
-          "TranslatedText": "ทั้งคู่!",
+          "TranslatedText": "ทำทั้งคู่!",
           "Length": 10
         }
       ]
@@ -62,7 +62,7 @@
         {
           "Line": 28,
           "OriginalText": "Actually, never mind.",
-          "TranslatedText": null,
+          "TranslatedText": "ที่จริงแล้ว ไม่เป็นไร",
           "Length": 21
         }
       ]
@@ -73,7 +73,7 @@
         {
           "Line": 32,
           "OriginalText": "About that...",
-          "TranslatedText": null,
+          "TranslatedText": "เรื่องนั้น...",
           "Length": 13
         }
       ]
@@ -84,7 +84,7 @@
         {
           "Line": 36,
           "OriginalText": "I\u0027ll be back!",
-          "TranslatedText": null,
+          "TranslatedText": "เดี๋ยวฉันกลับมา!",
           "Length": 13
         }
       ]
@@ -95,7 +95,7 @@
         {
           "Line": 40,
           "OriginalText": "Yes, please.",
-          "TranslatedText": null,
+          "TranslatedText": "ใช่ ได้โปรด",
           "Length": 12
         }
       ]
@@ -118,7 +118,7 @@
         {
           "Line": 53,
           "OriginalText": "That ",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 5
         },
         {
@@ -171,7 +171,7 @@
         {
           "Line": 89,
           "OriginalText": "A lot happened, but... We are truly\nindebted to you.\n\nThe ",
-          "TranslatedText": "มีเรื่องเกิดขึ้นมากมาย แต่ว่า...\nเราติดค้างคุณจริงๆ",
+          "TranslatedText": "มีเรื่องเกิดขึ้นมากมาย แต่ว่า...\nเราติดค้างคุณจริงๆ\n\n",
           "Length": 58
         },
         {
@@ -184,7 +184,7 @@
         {
           "Line": 96,
           "OriginalText": " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nIf anything happens to them, you must\nlet me know immediately.",
-          "TranslatedText": " ",
+          "TranslatedText": " น่ะเป็นสมบัติของ\nGerudo เหมือนกับ Thunder Helm\n\nถ้ามีอะไรเกิดขึ้นกับพวกมัน\nคุณต้องแจ้งให้ฉันทราบทันที",
           "Length": 121
         }
       ]
@@ -196,20 +196,20 @@
         {
           "Line": 113,
           "OriginalText": "Don\u0027t bother with excuses—I can see it\nin your eyes. You\u0027ve lost the ",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่ต้องมัวหาข้ออ้างหรอก—แค่ดูหน้า\nก็รู้แล้ว คุณเสีย ",
           "Length": 69
         },
         {
           "Line": 117,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker",
           "Colour": "blue",
           "Length": 10
         },
         {
           "Line": 120,
           "OriginalText": ".\nThat\u0027s what\u0027s going on, right?",
-          "TranslatedText": null,
+          "TranslatedText": " ไปสินะ\nมันเป็นอย่างนั้นใช่มั้ย?",
           "Length": 32
         }
       ]
@@ -234,7 +234,7 @@
         {
           "Line": 136,
           "OriginalText": ".",
-          "TranslatedText": " ",
+          "TranslatedText": "  ",
           "Length": 1
         },
         {
@@ -414,20 +414,20 @@
         {
           "Line": 254,
           "OriginalText": "Don\u0027t bother with excuses—I can see it\nin your face. You\u0027ve lost the\n",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่ต้องมัวหาข้ออ้างหรอก—แค่ดูหน้า\nก็รู้แล้ว คุณเสีย ",
           "Length": 69
         },
         {
           "Line": 258,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "blue",
           "Length": 21
         },
         {
           "Line": 261,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": "\nไปสินะ",
           "Length": 1
         }
       ]
@@ -439,7 +439,7 @@
         {
           "Line": 270,
           "OriginalText": "OK, I\u0027ll take those materials now. Wait\nhere for a little bit.",
-          "TranslatedText": null,
+          "TranslatedText": "โอเค เอาวัตถุดิบพวกนั้นมา\nรอตรงนี้สักครู่นะ",
           "Length": 62
         }
       ]
@@ -451,26 +451,26 @@
         {
           "Line": 279,
           "OriginalText": "Thanks for waiting.",
-          "TranslatedText": null,
+          "TranslatedText": "ขอบคุณที่รอ",
           "Length": 19
         },
         {
           "Line": 283,
           "OriginalText": "\nThis is your new ",
-          "TranslatedText": null,
+          "TranslatedText": "\nนี่ ",
           "Length": 18
         },
         {
           "Line": 287,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "blue",
           "Length": 21
         },
         {
           "Line": 290,
           "OriginalText": ".\nTake care of it.",
-          "TranslatedText": null,
+          "TranslatedText": " ใหม่ของคุณ\nดูแลมันให้ดีล่ะ",
           "Length": 18
         }
       ]
@@ -501,7 +501,7 @@
         {
           "Line": 310,
           "OriginalText": ".\nTake care of it.",
-          "TranslatedText": " ใหม่ของคุณ\nดูแลมันให้ดี",
+          "TranslatedText": " ใหม่ของคุณ\nดูแลมันให้ดีล่ะ",
           "Length": 18
         }
       ]
@@ -545,7 +545,7 @@
         {
           "Line": 337,
           "OriginalText": ". Take care of them.",
-          "TranslatedText": " ดูแลมันให้ดี",
+          "TranslatedText": " ดูแลมันให้ดีล่ะ",
           "Length": 20
         }
       ]
@@ -557,13 +557,13 @@
         {
           "Line": 346,
           "OriginalText": "You did amazing work!\nI believe I speak for everyone when I\nsay thank you!",
-          "TranslatedText": null,
+          "TranslatedText": "คุณทำได้ยอดมาก!\nฉันเชื่อว่าได้กล่าวขอบคุณแทนพวกเรา\nทุกคน!",
           "Length": 74
         },
         {
           "Line": 350,
           "OriginalText": "\nNow, go ahead and take what awaits you\nin those treasure chests there.\n\nMove quickly. We are indebted to you,\nbut that doesn\u0027t mean you can make the\nchief wait forever.",
-          "TranslatedText": null,
+          "TranslatedText": "\nทีนี้ก็เชิญไปรับรางวัลที่รออยู่ในหีบพวกนั้น\nได้เลย\n\nไปเร็ว พวกเราติดค้างคุณ แต่นั่นไม่ได้\nหมายความว่าคุณจะปล่อยให้หัวหน้ารอ\nไปตลอดได้",
           "Length": 169
         }
       ]
@@ -585,72 +585,72 @@
         {
           "Line": 363,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "red",
           "Length": 21
         },
         {
           "Line": 366,
           "OriginalText": ", huh?\nTo make it, I\u0027ll need ",
-          "TranslatedText": null,
+          "TranslatedText": " งั้นเหรอ?\nจะสร้างมันต้องใช้ ",
           "Length": 29
         },
         {
           "Line": 370,
           "OriginalText": "one",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 3
         },
         {
           "Line": 373,
           "OriginalText": " ",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         },
         {
           "Line": 377,
           "OriginalText": "diamond",
-          "TranslatedText": null,
+          "TranslatedText": "หนึ่ง",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 380,
           "OriginalText": ", ",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้น , ",
           "Length": 2
         },
         {
           "Line": 384,
           "OriginalText": "five",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 4
         },
         {
           "Line": 387,
           "OriginalText": "\npieces of ",
-          "TranslatedText": null,
+          "TranslatedText": "\nจำนวน",
           "Length": 11
         },
         {
           "Line": 391,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "ห้า",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 394,
           "OriginalText": ", and a ",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้น และ ",
           "Length": 8
         },
         {
           "Line": 398,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
@@ -679,72 +679,72 @@
         {
           "Line": 422,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker",
           "Colour": "red",
           "Length": 10
         },
         {
           "Line": 425,
           "OriginalText": ", huh? To make it, I\u0027ll\nneed ",
-          "TranslatedText": null,
+          "TranslatedText": " งั้นเหรอ? จะสร้างมัน\nต้องใช้ ",
           "Length": 29
         },
         {
           "Line": 429,
           "OriginalText": "one",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 3
         },
         {
           "Line": 432,
           "OriginalText": " ",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         },
         {
           "Line": 436,
           "OriginalText": "diamond",
-          "TranslatedText": null,
+          "TranslatedText": "หนึ่ง",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 439,
           "OriginalText": ", ",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้น , ",
           "Length": 2
         },
         {
           "Line": 443,
           "OriginalText": "five",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 4
         },
         {
           "Line": 446,
           "OriginalText": " pieces of ",
-          "TranslatedText": null,
+          "TranslatedText": "จำนวน",
           "Length": 11
         },
         {
           "Line": 450,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "ห้า",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 453,
           "OriginalText": ",\nand a ",
-          "TranslatedText": null,
+          "TranslatedText": "ชิ้น\nและ ",
           "Length": 8
         },
         {
           "Line": 457,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
@@ -763,77 +763,77 @@
         {
           "Line": 477,
           "OriginalText": "What? Are you getting cold feet after\ndiscovering how precious these items\nare?\n",
-          "TranslatedText": null,
+          "TranslatedText": "อะไร? พอรู้ว่ามันมีค่าแค่ไหนแล้วเกิด\nกลัวขึ้นมางั้นเหรอ?\n",
           "Length": 80
         },
         {
           "Line": 483,
           "OriginalText": "You can relax. Though they may be\nprecious, it is within my power to remake\nthem, if needed.\n",
-          "TranslatedText": null,
+          "TranslatedText": "สบายใจเถอะ แม้ว่าพวกมันจะล้ำค่ามาก\nแต่ด้วยกำลังของฉันยังสามารถสร้างพวกมัน\nขึ้นมาใหม่ได้ถ้าจำเป็น\n",
           "Length": 93
         },
         {
           "Line": 489,
           "OriginalText": "I must have a ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันต้องมี ",
           "Length": 14
         },
         {
           "Line": 493,
           "OriginalText": "diamond ",
-          "TranslatedText": null,
+          "TranslatedText": "diamond ",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 496,
           "OriginalText": "in order to make\none, however. Only one ",
-          "TranslatedText": null,
+          "TranslatedText": "ในการที่จะสร้างขึ้นมา\nแต่ว่าแม้จะแค่ ",
           "Length": 40
         },
         {
           "Line": 500,
           "OriginalText": "diamond",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 503,
           "OriginalText": ", but\nthey are the highest quality of gems...\n",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นเดียว แต่ว่า\nมันเพชรอัญมณีที่คุณภาพสูงที่สุด...\n",
           "Length": 46
         },
         {
           "Line": 509,
           "OriginalText": "They\u0027re just as precious as the\n",
-          "TranslatedText": null,
+          "TranslatedText": "พวกมันก็มีค่าพอๆ กับ\n",
           "Length": 32
         },
         {
           "Line": 513,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker",
           "Colour": "blue",
           "Length": 10
         },
         {
           "Line": 516,
           "OriginalText": " or the ",
-          "TranslatedText": null,
+          "TranslatedText": " และ ",
           "Length": 8
         },
         {
           "Line": 520,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "blue",
           "Length": 21
         },
         {
           "Line": 523,
           "OriginalText": "!\nIt\u0027s best if you just try not to break them.",
-          "TranslatedText": null,
+          "TranslatedText": " เลย!\nจะดีที่สุดถ้าไม่ทำพวกมันพังนะ",
           "Length": 46
         }
       ]
@@ -849,65 +849,65 @@
         {
           "Line": 532,
           "OriginalText": "...I suppose nothing is accomplished by\ndiscussing it further. ",
-          "TranslatedText": null,
+          "TranslatedText": "...ฉันว่าคุยไปมากกว่านี้ก็ไม่ได้อะไร\n",
           "Length": 63
         },
         {
           "Line": 536,
           "OriginalText": "So what do you\nwant to do?\nTo make a ",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วคุณจะเอายังไงล่ะ?\nจะสร้าง ",
           "Length": 37
         },
         {
           "Line": 540,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "red",
           "Length": 21
         },
         {
           "Line": 543,
           "OriginalText": ", I\u0027ll\nneed ",
-          "TranslatedText": null,
+          "TranslatedText": " ฉันต้องใช้\n",
           "Length": 12
         },
         {
           "Line": 547,
           "OriginalText": "one diamond",
-          "TranslatedText": null,
+          "TranslatedText": "diamond หนึ่งชิ้น",
           "Colour": "blue",
           "Length": 11
         },
         {
           "Line": 550,
           "OriginalText": ", ",
-          "TranslatedText": null,
+          "TranslatedText": ", ",
           "Length": 2
         },
         {
           "Line": 554,
           "OriginalText": "five flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint ห้าชิ้น",
           "Colour": "blue",
           "Length": 10
         },
         {
           "Line": 557,
           "OriginalText": ", and a\n",
-          "TranslatedText": null,
+          "TranslatedText": ", และ\n",
           "Length": 8
         },
         {
           "Line": 561,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 564,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         }
       ]
@@ -919,26 +919,26 @@
         {
           "Line": 581,
           "OriginalText": "I can\u0027t believe you\u0027d lose such a\nprecious item. Entrusted to you by\nthe ",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่อยากเชื่อเลยว่าคุณจะเสียของ\nมีค่าแบบนั้นไป แล้วยังเป็นของ\nที่",
           "Length": 73
         },
         {
           "Line": 585,
           "OriginalText": "chief",
-          "TranslatedText": null,
+          "TranslatedText": "หัวหน้า",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 588,
           "OriginalText": ", no less!\n",
-          "TranslatedText": null,
+          "TranslatedText": "มอบให้อีกด้วย!\n",
           "Length": 11
         },
         {
           "Line": 594,
           "OriginalText": "I shouldn\u0027t be surprised.",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่น่าแปลกใจเลย",
           "Length": 25
         }
       ]
@@ -954,65 +954,65 @@
         {
           "Line": 603,
           "OriginalText": "...I suppose nothing is accomplished by\ndiscussing it further. ",
-          "TranslatedText": null,
+          "TranslatedText": "...ฉันว่าคุยไปมากกว่านี้ก็ไม่ได้อะไร\n",
           "Length": 63
         },
         {
           "Line": 607,
           "OriginalText": "So what do you\nwant to do?\nTo make another ",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วคุณจะเอายังไงล่ะ?\nจะสร้าง ",
           "Length": 43
         },
         {
           "Line": 611,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker",
           "Colour": "red",
           "Length": 10
         },
         {
           "Line": 614,
           "OriginalText": ", I\u0027ll need\n",
-          "TranslatedText": null,
+          "TranslatedText": " ฉันต้องใช้\n",
           "Length": 12
         },
         {
           "Line": 618,
           "OriginalText": "one diamond",
-          "TranslatedText": null,
+          "TranslatedText": "diamond หนึ่งชิ้น",
           "Colour": "blue",
           "Length": 11
         },
         {
           "Line": 621,
           "OriginalText": ", ",
-          "TranslatedText": null,
+          "TranslatedText": ", ",
           "Length": 2
         },
         {
           "Line": 625,
           "OriginalText": "five flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint ห้าชิ้น",
           "Colour": "blue",
           "Length": 10
         },
         {
           "Line": 628,
           "OriginalText": ", and\na ",
-          "TranslatedText": null,
+          "TranslatedText": ", และ\n",
           "Length": 8
         },
         {
           "Line": 632,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 635,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": " ",
           "Length": 1
         }
       ]
@@ -1030,19 +1030,19 @@
         {
           "Line": 652,
           "OriginalText": "...I suppose nothing is accomplished by\ndiscussing it further.",
-          "TranslatedText": null,
+          "TranslatedText": "...ฉันว่าคุยไปมากกว่านี้ก็ไม่ได้อะไร",
           "Length": 62
         },
         {
           "Line": 656,
           "OriginalText": " I\u0027m sure they\nprotected their master.\n",
-          "TranslatedText": null,
+          "TranslatedText": " ฉันแน่ใจว่า\nพวกมันคงได้ทำหน้าปกป้องนายของพวกมันแล้ว\n",
           "Length": 39
         },
         {
           "Line": 662,
           "OriginalText": "Well, do you want me to make new ones\nfor you?",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วอยากให้ฉันทำชิ้นใหม่ให้รึเปล่าล่ะ?",
           "Length": 46
         }
       ]
@@ -1054,32 +1054,32 @@
         {
           "Line": 681,
           "OriginalText": "Well? Where\u0027s the ",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วไหน",
           "Length": 18
         },
         {
           "Line": 685,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint ",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 688,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ล่ะ?",
           "Length": 1
         },
         {
           "Line": 692,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n\n",
           "Length": 3
         },
         {
           "Line": 698,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1091,32 +1091,32 @@
         {
           "Line": 707,
           "OriginalText": "Well? Where\u0027s the ",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วไหน ",
           "Length": 18
         },
         {
           "Line": 711,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 714,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ล่ะ?",
           "Length": 1
         },
         {
           "Line": 718,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n\n",
           "Length": 3
         },
         {
           "Line": 724,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1128,32 +1128,32 @@
         {
           "Line": 733,
           "OriginalText": "Well? Where\u0027s the ",
-          "TranslatedText": null,
+          "TranslatedText": "แล้วไหน ",
           "Length": 18
         },
         {
           "Line": 737,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 740,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ล่ะ?",
           "Length": 1
         },
         {
           "Line": 744,
           "OriginalText": "\n\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n\n",
           "Length": 3
         },
         {
           "Line": 750,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1165,39 +1165,39 @@
         {
           "Line": 759,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 763,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond ",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 766,
           "OriginalText": "\nor enough ",
-          "TranslatedText": null,
+          "TranslatedText": "หรือ ",
           "Length": 11
         },
         {
           "Line": 770,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 773,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 779,
           "OriginalText": "No amount of wishful thinking will\nallow me to craft something without\nenough of the proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1209,39 +1209,39 @@
         {
           "Line": 788,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 792,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 795,
           "OriginalText": " or a\n",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 6
         },
         {
           "Line": 799,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 802,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 808,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without enough of\nthe proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1253,39 +1253,39 @@
         {
           "Line": 817,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 821,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 824,
           "OriginalText": "\nor a ",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 6
         },
         {
           "Line": 828,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 831,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 837,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1297,39 +1297,39 @@
         {
           "Line": 846,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 850,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 853,
           "OriginalText": " or a\n",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 6
         },
         {
           "Line": 857,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 860,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 866,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1341,39 +1341,39 @@
         {
           "Line": 875,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 879,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 882,
           "OriginalText": " or a\n",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 6
         },
         {
           "Line": 886,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 889,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 895,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1385,13 +1385,13 @@
         {
           "Line": 904,
           "OriginalText": "You don\u0027t have enough of any of the\nmaterials I need...\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมีวัตถุดิบที่ฉันต้องใช้ไม่เพียงพอ...\n\n",
           "Length": 57
         },
         {
           "Line": 910,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1403,39 +1403,39 @@
         {
           "Line": 919,
           "OriginalText": "You don\u0027t have a ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณไม่มี ",
           "Length": 17
         },
         {
           "Line": 923,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 926,
           "OriginalText": " or a\n",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 6
         },
         {
           "Line": 930,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 933,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 3
         },
         {
           "Line": 939,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1447,52 +1447,52 @@
         {
           "Line": 948,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 952,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 955,
           "OriginalText": ",\nenough ",
-          "TranslatedText": null,
+          "TranslatedText": ", ",
           "Length": 9
         },
         {
           "Line": 959,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 962,
           "OriginalText": ", or a ",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 7
         },
         {
           "Line": 966,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 969,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\nไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 975,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1504,52 +1504,52 @@
         {
           "Line": 984,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 988,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 991,
           "OriginalText": ",\nenough ",
-          "TranslatedText": null,
+          "TranslatedText": ", ",
           "Length": 9
         },
         {
           "Line": 995,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 998,
           "OriginalText": ", or a ",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ ",
           "Length": 7
         },
         {
           "Line": 1002,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1005,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\nไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 1011,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1561,52 +1561,52 @@
         {
           "Line": 1020,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี",
           "Length": 22
         },
         {
           "Line": 1024,
           "OriginalText": "diamonds",
-          "TranslatedText": null,
+          "TranslatedText": "diamond",
           "Colour": "blue",
           "Length": 8
         },
         {
           "Line": 1027,
           "OriginalText": ",\na ",
-          "TranslatedText": null,
+          "TranslatedText": ", ",
           "Length": 4
         },
         {
           "Line": 1031,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1034,
           "OriginalText": ", or a ",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ \n",
           "Length": 7
         },
         {
           "Line": 1038,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 1041,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 1047,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 102
         }
       ]
@@ -1618,52 +1618,52 @@
         {
           "Line": 1056,
           "OriginalText": "You don\u0027t have enough ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณมี ",
           "Length": 22
         },
         {
           "Line": 1060,
           "OriginalText": "flint",
-          "TranslatedText": null,
+          "TranslatedText": "flint",
           "Colour": "blue",
           "Length": 5
         },
         {
           "Line": 1063,
           "OriginalText": ", a\n",
-          "TranslatedText": null,
+          "TranslatedText": " , ",
           "Length": 4
         },
         {
           "Line": 1067,
           "OriginalText": "Gerudo scimitar",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo scimitar",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1070,
           "OriginalText": ", or a ",
-          "TranslatedText": null,
+          "TranslatedText": " หรือ \n",
           "Length": 7
         },
         {
           "Line": 1074,
           "OriginalText": "Gerudo shield",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo shield",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 1077,
           "OriginalText": ".\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ไม่พอ\n\n",
           "Length": 3
         },
         {
           "Line": 1083,
           "OriginalText": "No amount of wishful thinking will allow\nme to craft something without the\nproper materials.",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ความต้องการไม่สามารถทำให้ฉันสร้าง\nของขึ้นมาโดยขาดวัตถุดิบได้หรอกนะ",
           "Length": 92
         }
       ]
@@ -1675,7 +1675,7 @@
         {
           "Line": 1092,
           "OriginalText": "If you ever find yourself in trouble, you\nare always welcome to come here.\nEveryone in this town is your ally now.\nHowever, you still mustn\u0027t let anyone\ndiscover that you are actually a voe.",
-          "TranslatedText": null,
+          "TranslatedText": "ถ้าคุณเจอปัญหาละก็ คุณสามารถมาที่นี่\nได้เสมอ\nทุกคนที่นี่เป็นพวกพ้องของคุณแล้ว\nแต่ว่า คุณต้องห้ามให้ใครรุ้นะว่า\nที่จริงแล้วคุณเป็น voe",
           "Length": 190
         }
       ]
@@ -1691,20 +1691,20 @@
         {
           "Line": 1101,
           "OriginalText": "The ",
-          "TranslatedText": null,
+          "TranslatedText": "",
           "Length": 4
         },
         {
           "Line": 1105,
           "OriginalText": "Champion\u0027s arms",
-          "TranslatedText": null,
+          "TranslatedText": "อาวุธของ Champion",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1108,
           "OriginalText": " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nYou are perhaps the only Hylian ever\nto wield them.\n\nIf anything happens to them, you must\nlet me know immediately.",
-          "TranslatedText": null,
+          "TranslatedText": " นั้นเป็นสมบัติ\nของ Gerudo เช่นเดียวกับ Thunder Helm\n\nคุณน่าจะเป็น Hylian เพียงคนเดียวที่ได้\nใช้พวกมัน\n\nถ้าเกิดอะไรขึ้นกับพวกมัน คุณต้อง\nแจ้งให้ฉันทราบทันที",
           "Length": 174
         }
       ]
@@ -1716,44 +1716,44 @@
         {
           "Line": 1125,
           "OriginalText": "You\u0027ve lost the ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณเสีย ",
           "Length": 16
         },
         {
           "Line": 1129,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker ",
           "Colour": "red",
           "Length": 10
         },
         {
           "Line": 1132,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": "ไปงั้นเหรอ?",
           "Length": 1
         },
         {
           "Line": 1136,
           "OriginalText": "\nIs that what you\u0027re trying to say?",
-          "TranslatedText": null,
+          "TranslatedText": "\nนั่นคือที่คุณพยายามจะบอกเหรอ",
           "Length": 35
         },
         {
           "Line": 1140,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 2
         },
         {
           "Line": 1146,
           "OriginalText": "Ha! Did you think you could deceive\nme so easily?!",
-          "TranslatedText": null,
+          "TranslatedText": "ฮ่า! อย่ามาคิดว่าจะหลอกฉันได้ง่ายๆ นะ?!",
           "Length": 50
         },
         {
           "Line": 1150,
           "OriginalText": "\n\nTake your falsehoods and go! Return to\nme if it really has been lost.",
-          "TranslatedText": null,
+          "TranslatedText": "\n\nเอาเรื่องโกหกของคุณออกไปซะ! ไว้กลับมา\nใหม่ถ้าคุณเสียมันไปจริงๆ",
           "Length": 71
         }
       ]
@@ -1765,44 +1765,44 @@
         {
           "Line": 1159,
           "OriginalText": "You\u0027ve lost the ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณเสีย ",
           "Length": 16
         },
         {
           "Line": 1163,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "red",
           "Length": 21
         },
         {
           "Line": 1166,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ไปงั้นเหรอ?",
           "Length": 1
         },
         {
           "Line": 1170,
           "OriginalText": "\nIs that what you\u0027re trying to say?",
-          "TranslatedText": null,
+          "TranslatedText": "\nนั่นคือที่คุณพยายามจะบอกเหรอ?",
           "Length": 35
         },
         {
           "Line": 1174,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 2
         },
         {
           "Line": 1180,
           "OriginalText": "Ha! Did you think you could deceive\nme so easily?!",
-          "TranslatedText": null,
+          "TranslatedText": "ฮ่า! อย่ามาคิดว่าจะหลอกฉันได้ง่ายๆ นะ?!",
           "Length": 50
         },
         {
           "Line": 1184,
           "OriginalText": "\n\nTake your falsehoods and go! Return to\nme if it really has been lost.",
-          "TranslatedText": null,
+          "TranslatedText": "\n\nเอาเรื่องโกหกของคุณออกไปซะ! ไว้กลับมา\nใหม่ถ้าคุณเสียมันไปจริงๆ",
           "Length": 71
         }
       ]
@@ -1814,44 +1814,44 @@
         {
           "Line": 1193,
           "OriginalText": "You\u0027ve lost the ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณเสีย",
           "Length": 16
         },
         {
           "Line": 1197,
           "OriginalText": "Champion\u0027s arms",
-          "TranslatedText": null,
+          "TranslatedText": "อาวุธของ Champion",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1200,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ไปงั้นเหรอ?",
           "Length": 1
         },
         {
           "Line": 1204,
           "OriginalText": "\nIs that what you\u0027re trying to say?",
-          "TranslatedText": null,
+          "TranslatedText": "\nนั่นใช่สิ่งที่คุณพยายามจะบอกรึเปล่า?",
           "Length": 35
         },
         {
           "Line": 1208,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 2
         },
         {
           "Line": 1214,
           "OriginalText": "Ha! Did you think you could deceive\nme so easily?!",
-          "TranslatedText": null,
+          "TranslatedText": "ฮ่า! คุณคิดว่าจะหลอกฉันได้ง่ายๆ\nอย่างงั้นเหรอ?!",
           "Length": 50
         },
         {
           "Line": 1218,
           "OriginalText": "\n\nTake your falsehoods and go! Return to\nme if it really has been lost.",
-          "TranslatedText": null,
+          "TranslatedText": "\n\nเอาเรื่องโกหกของคุณกลับไปซะ!\nไว้ค่อยกลับมาใหม่ถ้าเสียไปจริงๆ",
           "Length": 71
         }
       ]
@@ -1863,76 +1863,76 @@
         {
           "Line": 1227,
           "OriginalText": "You\u0027ve lost the ",
-          "TranslatedText": null,
+          "TranslatedText": "คุณเสีย",
           "Length": 16
         },
         {
           "Line": 1231,
           "OriginalText": "Champion\u0027s arms",
-          "TranslatedText": null,
+          "TranslatedText": "อาวุธของ Champion",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 1234,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": " ไปงั้นเหรอ?",
           "Length": 1
         },
         {
           "Line": 1238,
           "OriginalText": "\nIs that what you\u0027re trying to say?",
-          "TranslatedText": null,
+          "TranslatedText": "\nนั่นใช่สิ่งที่คุณพยายามจะบอกรึเปล่า?",
           "Length": 35
         },
         {
           "Line": 1242,
           "OriginalText": "\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 2
         },
         {
           "Line": 1248,
           "OriginalText": "Ha! Did you think you could deceive\nme so easily?!",
-          "TranslatedText": null,
+          "TranslatedText": "ฮ่า! คุณคิดว่าจะหลอกฉันได้ง่ายๆ\nอย่างงั้นเหรอ?!",
           "Length": 50
         },
         {
           "Line": 1252,
           "OriginalText": "\n\nThe ",
-          "TranslatedText": null,
+          "TranslatedText": "\n\n",
           "Length": 6
         },
         {
           "Line": 1256,
           "OriginalText": "Scimitar of the Seven",
-          "TranslatedText": null,
+          "TranslatedText": "Scimitar of the Seven",
           "Colour": "red",
           "Length": 21
         },
         {
           "Line": 1259,
           "OriginalText": " has in fact\nnot been lost!\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " น่ะยังอยู่!\n\n",
           "Length": 29
         },
         {
           "Line": 1265,
           "OriginalText": "Although... It does appear that you\u0027ve\nlost the ",
-          "TranslatedText": null,
+          "TranslatedText": "แต่ว่า... ดูเหมือนคุณจะเสีย ",
           "Length": 48
         },
         {
           "Line": 1269,
           "OriginalText": "Daybreaker",
-          "TranslatedText": null,
+          "TranslatedText": "Daybreaker",
           "Colour": "red",
           "Length": 10
         },
         {
           "Line": 1272,
           "OriginalText": "...",
-          "TranslatedText": null,
+          "TranslatedText": " ไป...",
           "Length": 3
         }
       ]
@@ -1944,13 +1944,13 @@
         {
           "Line": 1281,
           "OriginalText": "You\u0027ve lost the ",
-          "TranslatedText": "คุณเสีย ",
+          "TranslatedText": "คุณเสีย",
           "Length": 16
         },
         {
           "Line": 1285,
           "OriginalText": "Champion\u0027s arms",
-          "TranslatedText": "Champion\u0027s arms",
+          "TranslatedText": "อาวุธของ Champion",
           "Colour": "blue",
           "Length": 15
         },
@@ -1963,7 +1963,7 @@
         {
           "Line": 1292,
           "OriginalText": "\nIs that what you\u0027re trying to say?",
-          "TranslatedText": "\nนั่นคือสิ่งที่คุณพยายามจะบอกเหรอ",
+          "TranslatedText": "\nนั่นใช่สิ่งที่คุณพยายามจะบอกรึเปล่า?",
           "Length": 35
         },
         {
@@ -1975,7 +1975,7 @@
         {
           "Line": 1302,
           "OriginalText": "Ha! Did you think you could deceive\nme so easily?!",
-          "TranslatedText": "ฮ่า! คุณคิดว่าจะหลอกฉันได้ง่ายๆ\nอย่างั้นเหรอ?!",
+          "TranslatedText": "ฮ่า! คุณคิดว่าจะหลอกฉันได้ง่ายๆ\nอย่างงั้นเหรอ?!",
           "Length": 50
         },
         {
@@ -2074,5 +2074,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }

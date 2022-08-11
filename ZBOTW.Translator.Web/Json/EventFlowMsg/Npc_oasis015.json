@@ -101,13 +101,13 @@
         {
           "Line": 50,
           "OriginalText": "I can do ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันให้ได้ ",
           "Length": 9
         },
         {
           "Line": 58,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -115,7 +115,7 @@
         {
           "Line": 61,
           "OriginalText": ".\nIs that all right?",
-          "TranslatedText": null,
+          "TranslatedText": "\nโอเคไหม?",
           "Length": 20
         }
       ]
@@ -144,7 +144,7 @@
         {
           "Line": 91,
           "OriginalText": "Please feel free to show me anything\nyou\u0027d like to sell.",
-          "TranslatedText": null,
+          "TranslatedText": "อยากขายอะไรก็เอาให้ฉันดูได้เลย",
           "Length": 56
         }
       ]
@@ -155,7 +155,7 @@
         {
           "Line": 100,
           "OriginalText": "No problem at all—I\u0027ll buy as many\nas you like.",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่มีปัญหา ฉันจะซื้อเท่าที่คุณต้องการ",
           "Length": 47
         }
       ]
@@ -178,7 +178,7 @@
         {
           "Line": 118,
           "OriginalText": "Of course. I don\u0027t mind.",
-          "TranslatedText": null,
+          "TranslatedText": "แน่นอน ฉันไม่ถือ",
           "Length": 24
         }
       ]
@@ -190,7 +190,7 @@
         {
           "Line": 127,
           "OriginalText": "Was there something else you wanted\nto sell me?",
-          "TranslatedText": null,
+          "TranslatedText": "มีอะไรอยากขายอีกไหม?",
           "Length": 47
         }
       ]
@@ -212,7 +212,7 @@
         {
           "Line": 145,
           "OriginalText": "I truly appreciate your business.",
-          "TranslatedText": null,
+          "TranslatedText": "ยินดีที่ได้ทำธุรกิจด้วย",
           "Length": 33
         }
       ]
@@ -223,7 +223,7 @@
         {
           "Line": 154,
           "OriginalText": "I\u0027ve never seen such beautiful items.\nSarqso!",
-          "TranslatedText": null,
+          "TranslatedText": "ได้เคยเห็นของสวยอย่างนี้มาก่อนเลย\nSarqso!",
           "Length": 45
         }
       ]
@@ -256,20 +256,20 @@
         {
           "Line": 181,
           "OriginalText": "OK, so ",
-          "TranslatedText": null,
+          "TranslatedText": "โอเค ",
           "Length": 7
         },
         {
           "Line": 186,
           "OriginalText": " of them? I can do...\n",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นเหรอ? ฉันให้ได้...\n",
           "Variable": "Shop_TradeItemNum",
           "Length": 22
         },
         {
           "Line": 194,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -277,7 +277,7 @@
         {
           "Line": 197,
           "OriginalText": "!",
-          "TranslatedText": null,
+          "TranslatedText": "!",
           "Length": 1
         }
       ]
@@ -289,7 +289,7 @@
         {
           "Line": 214,
           "OriginalText": "I\u0027m sorry, but I can\u0027t buy that from you.",
-          "TranslatedText": null,
+          "TranslatedText": "ขอโทษนะ แต่ฉันซื้อมันไม่ได้",
           "Length": 41
         }
       ]
@@ -301,13 +301,13 @@
         {
           "Line": 223,
           "OriginalText": "I\u0027m sorry, but I can\u0027t buy clothes that\nyou\u0027re wearing. There\u0027s \u0022used,\u0022",
-          "TranslatedText": null,
+          "TranslatedText": "ขอโทษนะ แต่ฉันซื้อเสื้อผ้าที่คุณกำลัง\nใส่อยู่ไม่ได้ ต้องแยกกันระหว่างเสื้อผ้า \u0022ใช้แล้ว\u0022",
           "Length": 71
         },
         {
           "Line": 227,
           "OriginalText": " and then\nthere\u0027s buying them right off your body.",
-          "TranslatedText": null,
+          "TranslatedText": "\nกับ กำลังใช้อยู่",
           "Length": 50
         }
       ]
@@ -323,13 +323,13 @@
         {
           "Line": 236,
           "OriginalText": "One is worth...",
-          "TranslatedText": null,
+          "TranslatedText": "หนึ่งชิ้นราคา...",
           "Length": 15
         },
         {
           "Line": 247,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -337,7 +337,7 @@
         {
           "Line": 250,
           "OriginalText": ". OK?",
-          "TranslatedText": null,
+          "TranslatedText": " โอเคไหม?",
           "Length": 5
         }
       ]
@@ -353,20 +353,20 @@
         {
           "Line": 267,
           "OriginalText": "I\u0027ll buy all ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันจะซื้อหมดทั้ง ",
           "Length": 13
         },
         {
           "Line": 272,
           "OriginalText": " of those for a total of\n",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นด้วยเงิน \n",
           "Variable": "Shop_TradeItemNum",
           "Length": 25
         },
         {
           "Line": 280,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -374,7 +374,7 @@
         {
           "Line": 283,
           "OriginalText": "!",
-          "TranslatedText": null,
+          "TranslatedText": "!",
           "Length": 1
         }
       ]
@@ -389,13 +389,13 @@
         {
           "Line": 300,
           "OriginalText": "Ah yes, it\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": "ได้เลย นั่นจะเป็น ",
           "Length": 17
         },
         {
           "Line": 308,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "Shop_SelectItemPrice",
           "Length": 7
@@ -403,7 +403,7 @@
         {
           "Line": 311,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": "นะ",
           "Length": 1
         }
       ]
@@ -414,7 +414,7 @@
         {
           "Line": 328,
           "OriginalText": "I completely understand. It\u0027s part of the\nfun of shopping to go back and forth\non a purchase.",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันเข้าใจดี ส่วนหนึ่งของความสนุกในการ\nซื้อของก็คือการเปลี่ยนไปมานี่ละ",
           "Length": 93
         }
       ]
@@ -426,7 +426,7 @@
         {
           "Line": 337,
           "OriginalText": "It\u0027s so nice and cool this evening, isn\u0027t\nit? On nights like this, I like to relax\nand grab a drink at the canteen.",
-          "TranslatedText": null,
+          "TranslatedText": "เย็นนี้ช่างเย็นสบายดีจัง ว่ามั้ย?\nในคืนแบบนี้ ฉันชอบที่จะผ่อนคลาย\nและไปดื่มที่โรงอาหาร",
           "Length": 115
         }
       ]
@@ -443,33 +443,33 @@
         {
           "Line": 346,
           "OriginalText": "Oooh, that ",
-          "TranslatedText": null,
+          "TranslatedText": "อู้ววว ",
           "Length": 11
         },
         {
           "Line": 350,
           "OriginalText": "Gerudo top",
-          "TranslatedText": null,
+          "TranslatedText": "Gerudo top",
           "Colour": "blue",
           "Length": 10
         },
         {
           "Line": 353,
           "OriginalText": " looks really good\non you...\n\nBut you haven\u0027t really lived until you\u0027ve\ngot ",
-          "TranslatedText": null,
+          "TranslatedText": " นั่นเหมาะกับคุณดีนะ...\n\nแต่ชีวิตยังไม่ได้เริ่มต้นจนกว่าจะมี",
           "Length": 76
         },
         {
           "Line": 357,
           "OriginalText": "several colors",
-          "TranslatedText": null,
+          "TranslatedText": "หลายสี",
           "Colour": "blue",
           "Length": 14
         },
         {
           "Line": 360,
           "OriginalText": " to choose from!\nWhat do you say?",
-          "TranslatedText": null,
+          "TranslatedText": "ให้เลือก!\nคิดว่ายังไง",
           "Length": 33
         }
       ]
@@ -481,26 +481,26 @@
         {
           "Line": 378,
           "OriginalText": "You don\u0027t know? Really?!\n\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "คุณไม่รู้งั้นเหรอ? จริงดิ?!\n\n\n",
           "Length": 27
         },
         {
           "Line": 384,
           "OriginalText": "Changing the color of your clothes is a\nreally trendy thing to do right now\nfor young vai traveling beyond town! \nThere\u0027s a store in Hateno Village—the\n",
-          "TranslatedText": null,
+          "TranslatedText": "การเปลี่ยนสีเสื้อผ้าเดี๋ยวนี้เป็นที่นิยมมาก\nกับ vai สาวที่เดินทางไปนอกเมือง!\nมันมีร้านอยู่ที่หมู่บ้าน Hateno \n",
           "Length": 152
         },
         {
           "Line": 388,
           "OriginalText": "Kochi Dye Shop",
-          "TranslatedText": null,
+          "TranslatedText": "Kochi Dye Shop",
           "Colour": "blue",
           "Length": 14
         },
         {
           "Line": 391,
           "OriginalText": "—where you can dye\nyour clothes!\nHateno Village is pretty far away, though.\nNot everyone gets to go there...",
-          "TranslatedText": null,
+          "TranslatedText": " ซึ่งคุณสามารถย้อมสี\nเสื้อผ้าได้!\nหมู่บ้าน Hateno นั่นค่อนข้างไกล\nก็เลยมีไม่มากที่ไปถึงที่นั่น...",
           "Length": 108
         }
       ]
@@ -512,7 +512,7 @@
         {
           "Line": 400,
           "OriginalText": "It\u0027s really hot today, isn\u0027t it? Makes me\nwant to get an ice-cold something from\nthe canteen.",
-          "TranslatedText": null,
+          "TranslatedText": "วันนี้ร้อนจังนะ ว่ามั้ย? ทำให้ฉัน\nอยากไปหาอะไรเย็นๆ ดื่มที่โรงอาหารเลย",
           "Length": 93
         }
       ]
@@ -524,7 +524,7 @@
         {
           "Line": 409,
           "OriginalText": "Gladly!",
-          "TranslatedText": null,
+          "TranslatedText": "ยินดี!",
           "Length": 7
         }
       ]
@@ -606,20 +606,20 @@
         {
           "Line": 496,
           "OriginalText": "Geez, it looks really good on you!\nHow about one more to try in a\n",
-          "TranslatedText": null,
+          "TranslatedText": "โธ่ คุณใส่แล้วดูดีมาก!\nลอง",
           "Length": 66
         },
         {
           "Line": 500,
           "OriginalText": "different color",
-          "TranslatedText": null,
+          "TranslatedText": "สีอื่น",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 503,
           "OriginalText": "! You\u0027ve got to buy it!",
-          "TranslatedText": null,
+          "TranslatedText": "ดูหน่อยไหมล่ะ!\nคุณต้องซื้อนะ!",
           "Length": 23
         }
       ]
@@ -636,7 +636,7 @@
         {
           "Line": 517,
           "OriginalText": "It\u0027s the trend now to create a stylish\nwardrobe by arranging different colors.\nWhy not buy one more Gerudo top?",
-          "TranslatedText": null,
+          "TranslatedText": "ตอนนี้กำลังฮิตการทำตู้เสื้อผ้าให้เก๋ด้วยการ\nจัดให้มีหลายสีสันนะ ทำไมไม่ซื้อเสื้อ Gerudo\nเพิ่มอีกชิ้นล่ะ?",
           "Length": 111
         }
       ]
@@ -653,7 +653,7 @@
         {
           "Line": 535,
           "OriginalText": "All our Gerudo clothing is sold out now.\n\n\nIf you already have a lot of clothes, you\nshould think about filling out your\nwardrobe with different colors instead.",
-          "TranslatedText": null,
+          "TranslatedText": "เสื้อผ้า Gerudo ของเราขายหมดแล้ว\n\n\nถ้าคุณมีเสื้อผ้าหลายชุดล่ะก็ น่าจะลอง\nหาสีอื่นๆ มาเติมตู้เสื้อผ้าแทนนะ",
           "Length": 160
         }
       ]
@@ -670,39 +670,39 @@
         {
           "Line": 553,
           "OriginalText": "Little ",
-          "TranslatedText": null,
+          "TranslatedText": "เจ้า ",
           "Length": 7
         },
         {
           "Line": 557,
           "OriginalText": "Naboris",
-          "TranslatedText": null,
+          "TranslatedText": "Naboris",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 560,
           "OriginalText": " is acting all calm and\nproper now...",
-          "TranslatedText": null,
+          "TranslatedText": " น้อยทำตัวเรียบร้อย\nและสงบลงแล้ว...",
           "Length": 37
         },
         {
           "Line": 564,
           "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027ve got to do my best,\ntoo!\nAs long as you\u0027re here, why don\u0027t you\nsee about getting another outfit in a\n",
-          "TranslatedText": null,
+          "TranslatedText": "\nฉันสงสัยว่าเกิดอะไรขึ้นกันนะ\nแต่เอาเป็นว่า ฉันน่าจะมีลูกค้ามากขึ้นนะ\nดังนั้นฉันก็ต้องพยายามให้เต็มที่!\nระหว่างที่คุณอยู่ที่นี่ ทำไมไม่ลอง\nหาเสื้อผ้า",
           "Length": 187
         },
         {
           "Line": 568,
           "OriginalText": "different color",
-          "TranslatedText": null,
+          "TranslatedText": "สีอื่น",
           "Colour": "blue",
           "Length": 15
         },
         {
           "Line": 571,
           "OriginalText": "?",
-          "TranslatedText": null,
+          "TranslatedText": "ดูล่ะ?",
           "Length": 1
         }
       ]
@@ -719,39 +719,39 @@
         {
           "Line": 589,
           "OriginalText": "Little ",
-          "TranslatedText": null,
+          "TranslatedText": "เจ้า",
           "Length": 7
         },
         {
           "Line": 593,
           "OriginalText": "Naboris",
-          "TranslatedText": null,
+          "TranslatedText": "Naboris",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 596,
           "OriginalText": " is acting all calm and\nproper now...",
-          "TranslatedText": null,
+          "TranslatedText": "ทำตัวเรียบร้อย\nและสงบลงแล้ว...",
           "Length": 37
         },
         {
           "Line": 600,
           "OriginalText": "\nI wonder what happened.\nAnyway, it looks like I\u0027ll be getting more\ncustomers, so I\u0027d better hurry up and\nrestock my shop!\nI think I\u0027ll try and restock it with a\nbunch of outfits in ",
-          "TranslatedText": null,
+          "TranslatedText": "\nฉันสงสัยว่าเกิดอะไรขึ้นกันนะ\nแต่เอาเป็นว่า ฉันน่าจะมีลูกค้ามากขึ้นนะ\nดังนั้นฉันก็ต้องพยายามให้เต็มที่!\nฉันคิดว่าจะลองหาเสื้อผ้า",
           "Length": 182
         },
         {
           "Line": 604,
           "OriginalText": "different colors",
-          "TranslatedText": null,
+          "TranslatedText": "สีอื่น",
           "Colour": "blue",
           "Length": 16
         },
         {
           "Line": 607,
           "OriginalText": ".",
-          "TranslatedText": null,
+          "TranslatedText": "มาขายเยอะๆ",
           "Length": 1
         }
       ]
@@ -799,7 +799,7 @@
         {
           "Line": 657,
           "OriginalText": "I recommend wearing all the items from\na particular series as a set!",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันแนะนำให้ใส่ของจากชุดเดียวกัน\nให้เป็นเซ็ตนะ!",
           "Length": 68
         }
       ]
@@ -811,7 +811,7 @@
         {
           "Line": 666,
           "OriginalText": "It\u0027s also a fashionable thing among vai\nlately to wear different colors of clothes\nthat are from the same set.",
-          "TranslatedText": null,
+          "TranslatedText": "มันกำลังเป็นแฟชันในหมู่ vai เลยที่จะ\nสวมเสื้อผ้าเซ็ตเดียวกันให้มีหลายสี",
           "Length": 110
         }
       ]
@@ -823,7 +823,7 @@
         {
           "Line": 675,
           "OriginalText": "You can always change the color of an\nitem, so there\u0027s really no reason not to\nown several of the same thing!",
-          "TranslatedText": null,
+          "TranslatedText": "คุณสามารถเปลี่ยนสีของไอเทมได้ตลอดเวลา\nดังนั้นจึงไม่มีเหตุผลที่จะไม่มีของแบบเดียวกัน\nไว้หลายๆ ชิ้น",
           "Length": 109
         }
       ]
