@@ -335,6 +335,7 @@ namespace ZBOTW.Translator.Web.Controllers
             var encoderSettings = new TextEncoderSettings();
             encoderSettings.AllowCharacters('\u0027');
             encoderSettings.AllowRange(UnicodeRanges.BasicLatin);
+            encoderSettings.AllowRange(UnicodeRanges.Thai);
             
             JsonSerializerOptions msytSerializerOptions = new JsonSerializerOptions
             {
