@@ -611,20 +611,20 @@
         {
           "Line": 396,
           "OriginalText": "I think ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันว่า อันนั้น ",
           "Length": 8
         },
         {
           "Line": 401,
           "OriginalText": " of those will run\nyou ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้น ก็จะคิดเป็น \n",
           "Variable": "Shop_TradeItemNum",
           "Length": 23
         },
         {
           "Line": 409,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -632,7 +632,7 @@
         {
           "Line": 412,
           "OriginalText": ". Does that work?",
-          "TranslatedText": null,
+          "TranslatedText": " โอเคไหม?",
           "Length": 17
         }
       ]
@@ -648,13 +648,13 @@
         {
           "Line": 424,
           "OriginalText": "Just one, then? That\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": "อันเดียวเหรอ? ก็จะเป็น ",
           "Length": 27
         },
         {
           "Line": 432,
           "OriginalText": "\nrupees",
-          "TranslatedText": null,
+          "TranslatedText": "\nรูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -662,7 +662,7 @@
         {
           "Line": 435,
           "OriginalText": ", please.",
-          "TranslatedText": null,
+          "TranslatedText": "นะ",
           "Length": 9
         }
       ]
@@ -678,13 +678,13 @@
         {
           "Line": 447,
           "OriginalText": "Just one, then? How does ",
-          "TranslatedText": null,
+          "TranslatedText": "อันเดียวเหรอ? เอาเป็น",
           "Length": 25
         },
         {
           "Line": 455,
           "OriginalText": "\nrupees",
-          "TranslatedText": null,
+          "TranslatedText": "\nรูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -692,7 +692,7 @@
         {
           "Line": 458,
           "OriginalText": " sound?",
-          "TranslatedText": null,
+          "TranslatedText": "เป็นไง?",
           "Length": 7
         }
       ]
@@ -708,26 +708,26 @@
         {
           "Line": 480,
           "OriginalText": "All of them?",
-          "TranslatedText": null,
+          "TranslatedText": "ทั้งหมดเลยเหรอ?",
           "Length": 12
         },
         {
           "Line": 484,
           "OriginalText": "\nWell, ",
-          "TranslatedText": null,
+          "TranslatedText": "\nงั้น ",
           "Length": 7
         },
         {
           "Line": 489,
           "OriginalText": " of them will be ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นก็จะเป็น",
           "Variable": "Shop_TradeItemNum",
           "Length": 17
         },
         {
           "Line": 497,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -735,7 +735,7 @@
         {
           "Line": 500,
           "OriginalText": ". \nHow does that sound?",
-          "TranslatedText": null,
+          "TranslatedText": "\nฟังดูเป็นไง?",
           "Length": 23
         }
       ]
@@ -751,20 +751,20 @@
         {
           "Line": 522,
           "OriginalText": "So that\u0027s ",
-          "TranslatedText": null,
+          "TranslatedText": "เอา ",
           "Length": 10
         },
         {
           "Line": 527,
           "OriginalText": "? Which is all of them!\nThat\u0027ll be ",
-          "TranslatedText": null,
+          "TranslatedText": " ชิ้นเหรอ? ก็คือเหมาหมด!\nก็จะเป็น ",
           "Variable": "Shop_TradeItemNum",
           "Length": 35
         },
         {
           "Line": 535,
           "OriginalText": " rupees",
-          "TranslatedText": null,
+          "TranslatedText": " รูปี",
           "Colour": "red",
           "Variable": "ShopTradePrice",
           "Length": 7
@@ -772,7 +772,7 @@
         {
           "Line": 538,
           "OriginalText": ".\nHow does that sound?",
-          "TranslatedText": null,
+          "TranslatedText": "\nฟังดูเป็นไง",
           "Length": 22
         }
       ]
@@ -1747,33 +1747,33 @@
         {
           "Line": 1334,
           "OriginalText": "AHHHH! So DO you want to give ",
-          "TranslatedText": "",
+          "TranslatedText": "อ๋าาาา! คุณจะให้ ",
           "Length": 30
         },
         {
           "Line": 1338,
           "OriginalText": "Beedle",
-          "TranslatedText": null,
+          "TranslatedText": "rugged rhino beetle",
           "Colour": "blue",
           "Length": 6
         },
         {
           "Line": 1341,
           "OriginalText": "\nthat ",
-          "TranslatedText": null,
+          "TranslatedText": "\nนั่นกับ ",
           "Length": 6
         },
         {
           "Line": 1345,
           "OriginalText": "rugged rhino beetle",
-          "TranslatedText": null,
+          "TranslatedText": "Beedle",
           "Colour": "blue",
           "Length": 19
         },
         {
           "Line": 1348,
           "OriginalText": "?!",
-          "TranslatedText": null,
+          "TranslatedText": " งั้นเหรอ?!",
           "Length": 2
         }
       ]
@@ -1789,39 +1789,39 @@
         {
           "Line": 1357,
           "OriginalText": "Not for free, mind you! How about I trade\nyou a ",
-          "TranslatedText": null,
+          "TranslatedText": "ไม่ใช่ฟรีๆ แน่นอน! เอาเป็นแลกกับ\n",
           "Length": 48
         },
         {
           "Line": 1361,
           "OriginalText": "hearty elixir ",
-          "TranslatedText": null,
+          "TranslatedText": "hearty elixir ",
           "Colour": "blue",
           "Length": 14
         },
         {
           "Line": 1364,
           "OriginalText": "for it?\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " เป็นไง?\n\n",
           "Length": 9
         },
         {
           "Line": 1375,
           "OriginalText": "You know, the elixir you get when you\nmix a ",
-          "TranslatedText": null,
+          "TranslatedText": "มันเป็นยาที่คุณจะได้จากการผสม\n",
           "Length": 44
         },
         {
           "Line": 1379,
           "OriginalText": "hearty lizard ",
-          "TranslatedText": null,
+          "TranslatedText": "hearty lizard ",
           "Colour": "blue",
           "Length": 14
         },
         {
           "Line": 1382,
           "OriginalText": "with some monster\nparts?",
-          "TranslatedText": null,
+          "TranslatedText": " เข้ากับชิ้นส่วนมอนสเตอร์น่ะ?",
           "Length": 24
         }
       ]
@@ -1837,39 +1837,39 @@
         {
           "Line": 1399,
           "OriginalText": "I just can\u0027t leave here without that\nbeetle! I\u0027ll trade you a ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันไม่ยอมไปโดยไม่ได้ด้วงนั่นไปด้วย\nหรอกนะ! ฉันจะแลก ",
           "Length": 62
         },
         {
           "Line": 1403,
           "OriginalText": "energizing elixir",
-          "TranslatedText": null,
+          "TranslatedText": "energizing elixir",
           "Colour": "blue",
           "Length": 17
         },
         {
           "Line": 1406,
           "OriginalText": "\nfor it!\n",
-          "TranslatedText": null,
+          "TranslatedText": "\nกับมัน!\n",
           "Length": 9
         },
         {
           "Line": 1417,
           "OriginalText": "Just mix a ",
-          "TranslatedText": null,
+          "TranslatedText": "แค่ผสม",
           "Length": 11
         },
         {
           "Line": 1421,
           "OriginalText": "bright-eyed crab",
-          "TranslatedText": null,
+          "TranslatedText": "bright-eyed crab",
           "Colour": "blue",
           "Length": 16
         },
         {
           "Line": 1424,
           "OriginalText": " with some\nmonster parts, and you\u0027ve got yourself a\nnice little elixir!",
-          "TranslatedText": null,
+          "TranslatedText": " เข้ากับ\nชิ้นส่วนมอนสเตอร์ แล้วคุณก็ได้\nยาจิ๋วแต่แจ๋วนี่!",
           "Length": 71
         }
       ]
@@ -1885,39 +1885,39 @@
         {
           "Line": 1441,
           "OriginalText": "And if you\u0027re on the fence, I\u0027ve got just\nthe thing for you—a ",
-          "TranslatedText": null,
+          "TranslatedText": "ถ้ายังตัดสินใจไม่ได้ละก็ ฉันมีของ\nพิเศษให้คุณ—",
           "Length": 62
         },
         {
           "Line": 1445,
           "OriginalText": "fairy tonic",
-          "TranslatedText": null,
+          "TranslatedText": "fairy tonic",
           "Colour": "blue",
           "Length": 11
         },
         {
           "Line": 1448,
           "OriginalText": "!\n\n",
-          "TranslatedText": null,
+          "TranslatedText": "!\n\n",
           "Length": 3
         },
         {
           "Line": 1459,
           "OriginalText": "Just heat up a little bit of ",
-          "TranslatedText": null,
+          "TranslatedText": "แค่อุ่น ",
           "Length": 29
         },
         {
           "Line": 1463,
           "OriginalText": "fairy ",
-          "TranslatedText": null,
+          "TranslatedText": "fairy dust",
           "Colour": "blue",
           "Length": 6
         },
         {
           "Line": 1466,
           "OriginalText": "dust, and\nBAM—you\u0027ve got yourself something\nreally special!",
-          "TranslatedText": null,
+          "TranslatedText": " ให้ร้อนจากนั้น \nผ่าม—คุณก็จะได้รับบางอย่างที่พิเศษมาก!",
           "Length": 59
         }
       ]
@@ -1929,7 +1929,7 @@
         {
           "Line": 1483,
           "OriginalText": "Anyway, back to business...",
-          "TranslatedText": null,
+          "TranslatedText": "งั้นกลับมาเรื่องธุรกิจ...",
           "Length": 27
         }
       ]
@@ -1941,13 +1941,13 @@
         {
           "Line": 1495,
           "OriginalText": "Oh! It\u0027s you again.",
-          "TranslatedText": null,
+          "TranslatedText": "อ้อ! คุณน่ะเอง",
           "Length": 19
         },
         {
           "Line": 1499,
           "OriginalText": " Was there something\nyou forgot to buy?",
-          "TranslatedText": null,
+          "TranslatedText": " ลืมซื้ออะไรไปหรือเปล่า?",
           "Length": 39
         }
       ]
@@ -1959,7 +1959,7 @@
         {
           "Line": 1514,
           "OriginalText": "You know, I was just thinking about yo—",
-          "TranslatedText": null,
+          "TranslatedText": "รู้ไหม ฉันกำลังคิดถึงคุ—",
           "Length": 39
         }
       ]
@@ -1971,7 +1971,7 @@
         {
           "Line": 1532,
           "OriginalText": "Ohh! Thanks for coming to see me.",
-          "TranslatedText": null,
+          "TranslatedText": "โอ้! ขอบคุณที่มาหาฉันนะ",
           "Length": 33
         }
       ]
@@ -1983,7 +1983,7 @@
         {
           "Line": 1550,
           "OriginalText": "Hey! How are you feeling toda—",
-          "TranslatedText": null,
+          "TranslatedText": "เฮ้! วันนี้เป็นยังไงบ้—",
           "Length": 30
         }
       ]
@@ -1995,20 +1995,20 @@
         {
           "Line": 1568,
           "OriginalText": "Oh, hiiiiiiiiii!\nI am still so thankful for and excited\nabout that ",
-          "TranslatedText": null,
+          "TranslatedText": "โอ้ หวัดดี!!!!!\nฉันยังปลาบปลื้มและตื้นเต้นเรื่อง\n",
           "Length": 67
         },
         {
           "Line": 1572,
           "OriginalText": "beetle ",
-          "TranslatedText": null,
+          "TranslatedText": "ด้วง",
           "Colour": "blue",
           "Length": 7
         },
         {
           "Line": 1575,
           "OriginalText": "you gave me earlier!",
-          "TranslatedText": null,
+          "TranslatedText": "ที่คุณให้ฉันมาอยู่เลย!",
           "Length": 20
         }
       ]
@@ -2020,7 +2020,7 @@
         {
           "Line": 1584,
           "OriginalText": "If you find another, please come again\ntomorrow! I\u0027m just going to concentrate\nall my love on this little guy for today...",
-          "TranslatedText": null,
+          "TranslatedText": "ถ้าเจออีกละก็ พรุ่งนี้มาใหม่นะ!\nสำหรับวันนี้ฉันตั้งใจมอบความรักให้กับ\nเจ้าตัวน้อยนี้ก่อน...",
           "Length": 122
         }
       ]
@@ -2032,39 +2032,39 @@
         {
           "Line": 1596,
           "OriginalText": "Yahoo! ",
-          "TranslatedText": null,
+          "TranslatedText": "ยะฮู้! ",
           "Length": 7
         },
         {
           "Line": 1600,
           "OriginalText": "Beedle",
-          "TranslatedText": null,
+          "TranslatedText": "Beedle",
           "Colour": "blue",
           "Length": 6
         },
         {
           "Line": 1603,
           "OriginalText": " is so excited!\nYou\u0027re such a sweetheart!\n\n",
-          "TranslatedText": null,
+          "TranslatedText": " ตื่นเต้นจัง!\nคุณใจดีมากเลย!\n\n",
           "Length": 43
         },
         {
           "Line": 1609,
           "OriginalText": "I\u0027ll add this bad boy to my ",
-          "TranslatedText": null,
+          "TranslatedText": "ฉันจะเพิ่มเจ้า",
           "Length": 28
         },
         {
           "Line": 1613,
           "OriginalText": "beetle",
-          "TranslatedText": null,
+          "TranslatedText": "ด้วง",
           "Colour": "blue",
           "Length": 6
         },
         {
           "Line": 1616,
           "OriginalText": "\ncollection! Yaaaaaaaaaaaaaay!",
-          "TranslatedText": null,
+          "TranslatedText": "สุดเจ๋งนี่ลงใน\nคอลเลคชันของฉัน! เย้!!!!!!!!!!!!!!!!",
           "Length": 30
         }
       ]

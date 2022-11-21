@@ -7,7 +7,7 @@
         {
           "Line": 8,
           "OriginalText": "Yes, please.",
-          "TranslatedText": null,
+          "TranslatedText": "ได้โปรด",
           "Length": 12
         }
       ]
@@ -18,7 +18,7 @@
         {
           "Line": 12,
           "OriginalText": "Good-bye.",
-          "TranslatedText": null,
+          "TranslatedText": "ลาก่อน",
           "Length": 9
         }
       ]
@@ -164,26 +164,26 @@
         {
           "Line": 111,
           "OriginalText": "At any rate, right now ",
-          "TranslatedText": null,
+          "TranslatedText": "ยังไงก็ตามตอนนี้ ",
           "Length": 23
         },
         {
           "Line": 115,
           "OriginalText": "Zora\u0027s Domain",
-          "TranslatedText": null,
+          "TranslatedText": "Zora\u0027s Domain",
           "Colour": "blue",
           "Length": 13
         },
         {
           "Line": 121,
           "OriginalText": "\nis looking for a Hylian warrior.\n\nFor more detailed information, ",
-          "TranslatedText": null,
+          "TranslatedText": "\nกำลังมองหานักรบ Hylian\n\nสำหรับข้อมูลรายละเอียดเพิ่มเติม",
           "Length": 66
         },
         {
           "Line": 125,
           "OriginalText": "please go\nspeak with King Dorephan in the back.",
-          "TranslatedText": null,
+          "TranslatedText": "กรุณาไป\nคุยกับกษัตริย์ Dorephan ที่ด้านหลัง",
           "Length": 47
         }
       ]
@@ -354,7 +354,7 @@
         {
           "Line": 277,
           "OriginalText": ".",
-          "TranslatedText": " ",
+          "TranslatedText": ".",
           "Length": 1
         },
         {
@@ -445,7 +445,7 @@
         {
           "Line": 411,
           "OriginalText": " has stopped spouting\nwater everywhere...",
-          "TranslatedText": " เลิกพ้นน้ำไปทั่วแล้ว\nอย่างนั้นเหรอ...",
+          "TranslatedText": " เลิกพ่นน้ำไปทั่วแล้ว\nอย่างนั้นเหรอ...",
           "Length": 41
         }
       ]
@@ -481,13 +481,13 @@
         {
           "Line": 438,
           "OriginalText": "At any rate,",
-          "TranslatedText": null,
+          "TranslatedText": "ยังไงก็ตาม",
           "Length": 12
         },
         {
           "Line": 442,
           "OriginalText": " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan.",
-          "TranslatedText": null,
+          "TranslatedText": "เจ้าชาย Sidon บอกให้คุณมาที่นี่\nท่านไม่ได้?\n\nถ้าเป็นเช่นนั้น คุณควรรีบไปที่\nห้องบัลลังก์ของกษัตริย์ Dorephan",
           "Length": 107
         },
         {
@@ -499,5 +499,5 @@
       ]
     }
   ],
-  "IsCompleted": false
+  "IsCompleted": true
 }
